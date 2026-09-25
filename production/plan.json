@@ -1,0 +1,1006 @@
+{
+  "version": 1,
+  "rule": "Production proceeds category-by-category in batches of at most 5 articles. A batch is not completed until editorial, translation, structural, responsive and live-preview QA pass.",
+  "total_categories": 13,
+  "total_articles": 317,
+  "total_batches": 68,
+  "batches": [
+    {
+      "batch_number": 1,
+      "batch_id": "batch-001",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0001",
+        "ACX-KB-0002",
+        "ACX-KB-0003",
+        "ACX-KB-0004",
+        "ACX-KB-0005"
+      ],
+      "status": "in_progress"
+    },
+    {
+      "batch_number": 2,
+      "batch_id": "batch-002",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0006",
+        "ACX-KB-0007",
+        "ACX-KB-0008",
+        "ACX-KB-0009",
+        "ACX-KB-0010"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 3,
+      "batch_id": "batch-003",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0011",
+        "ACX-KB-0012",
+        "ACX-KB-0013",
+        "ACX-KB-0014",
+        "ACX-KB-0015"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 4,
+      "batch_id": "batch-004",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0016",
+        "ACX-KB-0017",
+        "ACX-KB-0018",
+        "ACX-KB-0019",
+        "ACX-KB-0020"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 5,
+      "batch_id": "batch-005",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "article_count": 4,
+      "article_ids": [
+        "ACX-KB-0021",
+        "ACX-KB-0022",
+        "ACX-KB-0023",
+        "ACX-KB-0024"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 6,
+      "batch_id": "batch-006",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0025",
+        "ACX-KB-0026",
+        "ACX-KB-0027",
+        "ACX-KB-0028",
+        "ACX-KB-0029"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 7,
+      "batch_id": "batch-007",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0030",
+        "ACX-KB-0031",
+        "ACX-KB-0032",
+        "ACX-KB-0033",
+        "ACX-KB-0034"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 8,
+      "batch_id": "batch-008",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0035",
+        "ACX-KB-0036",
+        "ACX-KB-0037",
+        "ACX-KB-0038",
+        "ACX-KB-0039"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 9,
+      "batch_id": "batch-009",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0040",
+        "ACX-KB-0041",
+        "ACX-KB-0042",
+        "ACX-KB-0043",
+        "ACX-KB-0044"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 10,
+      "batch_id": "batch-010",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0045",
+        "ACX-KB-0046",
+        "ACX-KB-0047",
+        "ACX-KB-0048",
+        "ACX-KB-0049"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 11,
+      "batch_id": "batch-011",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0050",
+        "ACX-KB-0051",
+        "ACX-KB-0052",
+        "ACX-KB-0053",
+        "ACX-KB-0054"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 12,
+      "batch_id": "batch-012",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0055",
+        "ACX-KB-0056",
+        "ACX-KB-0057",
+        "ACX-KB-0058",
+        "ACX-KB-0059"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 13,
+      "batch_id": "batch-013",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0060",
+        "ACX-KB-0061",
+        "ACX-KB-0062",
+        "ACX-KB-0063",
+        "ACX-KB-0064"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 14,
+      "batch_id": "batch-014",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0065",
+        "ACX-KB-0066",
+        "ACX-KB-0067",
+        "ACX-KB-0068",
+        "ACX-KB-0069"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 15,
+      "batch_id": "batch-015",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0070",
+        "ACX-KB-0071",
+        "ACX-KB-0072",
+        "ACX-KB-0073",
+        "ACX-KB-0074"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 16,
+      "batch_id": "batch-016",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0075",
+        "ACX-KB-0076",
+        "ACX-KB-0077",
+        "ACX-KB-0078",
+        "ACX-KB-0079"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 17,
+      "batch_id": "batch-017",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0080",
+        "ACX-KB-0081",
+        "ACX-KB-0082",
+        "ACX-KB-0083",
+        "ACX-KB-0084"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 18,
+      "batch_id": "batch-018",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0085",
+        "ACX-KB-0086",
+        "ACX-KB-0087",
+        "ACX-KB-0088",
+        "ACX-KB-0089"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 19,
+      "batch_id": "batch-019",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0090",
+        "ACX-KB-0091",
+        "ACX-KB-0092",
+        "ACX-KB-0093",
+        "ACX-KB-0094"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 20,
+      "batch_id": "batch-020",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0095",
+        "ACX-KB-0096",
+        "ACX-KB-0097",
+        "ACX-KB-0098",
+        "ACX-KB-0099"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 21,
+      "batch_id": "batch-021",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "article_count": 1,
+      "article_ids": [
+        "ACX-KB-0100"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 22,
+      "batch_id": "batch-022",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0101",
+        "ACX-KB-0102",
+        "ACX-KB-0103",
+        "ACX-KB-0104",
+        "ACX-KB-0105"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 23,
+      "batch_id": "batch-023",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0106",
+        "ACX-KB-0107",
+        "ACX-KB-0108",
+        "ACX-KB-0109",
+        "ACX-KB-0110"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 24,
+      "batch_id": "batch-024",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0111",
+        "ACX-KB-0112",
+        "ACX-KB-0113",
+        "ACX-KB-0114",
+        "ACX-KB-0115"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 25,
+      "batch_id": "batch-025",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0116",
+        "ACX-KB-0117",
+        "ACX-KB-0118",
+        "ACX-KB-0119",
+        "ACX-KB-0120"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 26,
+      "batch_id": "batch-026",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "article_count": 4,
+      "article_ids": [
+        "ACX-KB-0121",
+        "ACX-KB-0122",
+        "ACX-KB-0123",
+        "ACX-KB-0124"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 27,
+      "batch_id": "batch-027",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0125",
+        "ACX-KB-0126",
+        "ACX-KB-0127",
+        "ACX-KB-0128",
+        "ACX-KB-0129"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 28,
+      "batch_id": "batch-028",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0130",
+        "ACX-KB-0131",
+        "ACX-KB-0132",
+        "ACX-KB-0133",
+        "ACX-KB-0134"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 29,
+      "batch_id": "batch-029",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0135",
+        "ACX-KB-0136",
+        "ACX-KB-0137",
+        "ACX-KB-0138",
+        "ACX-KB-0139"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 30,
+      "batch_id": "batch-030",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0140",
+        "ACX-KB-0141",
+        "ACX-KB-0142",
+        "ACX-KB-0143",
+        "ACX-KB-0144"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 31,
+      "batch_id": "batch-031",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0145",
+        "ACX-KB-0146",
+        "ACX-KB-0147",
+        "ACX-KB-0148",
+        "ACX-KB-0149"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 32,
+      "batch_id": "batch-032",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "article_count": 1,
+      "article_ids": [
+        "ACX-KB-0150"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 33,
+      "batch_id": "batch-033",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0151",
+        "ACX-KB-0152",
+        "ACX-KB-0153",
+        "ACX-KB-0154",
+        "ACX-KB-0155"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 34,
+      "batch_id": "batch-034",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0156",
+        "ACX-KB-0157",
+        "ACX-KB-0158",
+        "ACX-KB-0159",
+        "ACX-KB-0160"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 35,
+      "batch_id": "batch-035",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0161",
+        "ACX-KB-0162",
+        "ACX-KB-0163",
+        "ACX-KB-0164",
+        "ACX-KB-0165"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 36,
+      "batch_id": "batch-036",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0166",
+        "ACX-KB-0167",
+        "ACX-KB-0168",
+        "ACX-KB-0169",
+        "ACX-KB-0170"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 37,
+      "batch_id": "batch-037",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0171",
+        "ACX-KB-0172",
+        "ACX-KB-0173",
+        "ACX-KB-0174",
+        "ACX-KB-0175"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 38,
+      "batch_id": "batch-038",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0176",
+        "ACX-KB-0177",
+        "ACX-KB-0178",
+        "ACX-KB-0179",
+        "ACX-KB-0180"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 39,
+      "batch_id": "batch-039",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "article_count": 3,
+      "article_ids": [
+        "ACX-KB-0181",
+        "ACX-KB-0182",
+        "ACX-KB-0183"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 40,
+      "batch_id": "batch-040",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0184",
+        "ACX-KB-0185",
+        "ACX-KB-0186",
+        "ACX-KB-0187",
+        "ACX-KB-0188"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 41,
+      "batch_id": "batch-041",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0189",
+        "ACX-KB-0190",
+        "ACX-KB-0191",
+        "ACX-KB-0192",
+        "ACX-KB-0193"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 42,
+      "batch_id": "batch-042",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0194",
+        "ACX-KB-0195",
+        "ACX-KB-0196",
+        "ACX-KB-0197",
+        "ACX-KB-0198"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 43,
+      "batch_id": "batch-043",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0199",
+        "ACX-KB-0200",
+        "ACX-KB-0201",
+        "ACX-KB-0202",
+        "ACX-KB-0203"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 44,
+      "batch_id": "batch-044",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0204",
+        "ACX-KB-0205",
+        "ACX-KB-0206",
+        "ACX-KB-0207",
+        "ACX-KB-0208"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 45,
+      "batch_id": "batch-045",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0209",
+        "ACX-KB-0210",
+        "ACX-KB-0211",
+        "ACX-KB-0212",
+        "ACX-KB-0213"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 46,
+      "batch_id": "batch-046",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "article_count": 4,
+      "article_ids": [
+        "ACX-KB-0214",
+        "ACX-KB-0215",
+        "ACX-KB-0216",
+        "ACX-KB-0217"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 47,
+      "batch_id": "batch-047",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0218",
+        "ACX-KB-0219",
+        "ACX-KB-0220",
+        "ACX-KB-0221",
+        "ACX-KB-0222"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 48,
+      "batch_id": "batch-048",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0223",
+        "ACX-KB-0224",
+        "ACX-KB-0225",
+        "ACX-KB-0226",
+        "ACX-KB-0227"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 49,
+      "batch_id": "batch-049",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0228",
+        "ACX-KB-0229",
+        "ACX-KB-0230",
+        "ACX-KB-0231",
+        "ACX-KB-0232"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 50,
+      "batch_id": "batch-050",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0233",
+        "ACX-KB-0234",
+        "ACX-KB-0235",
+        "ACX-KB-0236",
+        "ACX-KB-0237"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 51,
+      "batch_id": "batch-051",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0238",
+        "ACX-KB-0239",
+        "ACX-KB-0240",
+        "ACX-KB-0241",
+        "ACX-KB-0242"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 52,
+      "batch_id": "batch-052",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0243",
+        "ACX-KB-0244",
+        "ACX-KB-0245",
+        "ACX-KB-0246",
+        "ACX-KB-0247"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 53,
+      "batch_id": "batch-053",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "article_count": 2,
+      "article_ids": [
+        "ACX-KB-0248",
+        "ACX-KB-0249"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 54,
+      "batch_id": "batch-054",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0250",
+        "ACX-KB-0251",
+        "ACX-KB-0252",
+        "ACX-KB-0253",
+        "ACX-KB-0254"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 55,
+      "batch_id": "batch-055",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0255",
+        "ACX-KB-0256",
+        "ACX-KB-0257",
+        "ACX-KB-0258",
+        "ACX-KB-0259"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 56,
+      "batch_id": "batch-056",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0260",
+        "ACX-KB-0261",
+        "ACX-KB-0262",
+        "ACX-KB-0263",
+        "ACX-KB-0264"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 57,
+      "batch_id": "batch-057",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0265",
+        "ACX-KB-0266",
+        "ACX-KB-0267",
+        "ACX-KB-0268",
+        "ACX-KB-0269"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 58,
+      "batch_id": "batch-058",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0270",
+        "ACX-KB-0271",
+        "ACX-KB-0272",
+        "ACX-KB-0273",
+        "ACX-KB-0274"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 59,
+      "batch_id": "batch-059",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "article_count": 3,
+      "article_ids": [
+        "ACX-KB-0275",
+        "ACX-KB-0276",
+        "ACX-KB-0277"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 60,
+      "batch_id": "batch-060",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0278",
+        "ACX-KB-0279",
+        "ACX-KB-0280",
+        "ACX-KB-0281",
+        "ACX-KB-0282"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 61,
+      "batch_id": "batch-061",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0283",
+        "ACX-KB-0284",
+        "ACX-KB-0285",
+        "ACX-KB-0286",
+        "ACX-KB-0287"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 62,
+      "batch_id": "batch-062",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0288",
+        "ACX-KB-0289",
+        "ACX-KB-0290",
+        "ACX-KB-0291",
+        "ACX-KB-0292"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 63,
+      "batch_id": "batch-063",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0293",
+        "ACX-KB-0294",
+        "ACX-KB-0295",
+        "ACX-KB-0296",
+        "ACX-KB-0297"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 64,
+      "batch_id": "batch-064",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "article_count": 4,
+      "article_ids": [
+        "ACX-KB-0298",
+        "ACX-KB-0299",
+        "ACX-KB-0300",
+        "ACX-KB-0301"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 65,
+      "batch_id": "batch-065",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0302",
+        "ACX-KB-0303",
+        "ACX-KB-0304",
+        "ACX-KB-0305",
+        "ACX-KB-0306"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 66,
+      "batch_id": "batch-066",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0307",
+        "ACX-KB-0308",
+        "ACX-KB-0309",
+        "ACX-KB-0310",
+        "ACX-KB-0311"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 67,
+      "batch_id": "batch-067",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "article_count": 5,
+      "article_ids": [
+        "ACX-KB-0312",
+        "ACX-KB-0313",
+        "ACX-KB-0314",
+        "ACX-KB-0315",
+        "ACX-KB-0316"
+      ],
+      "status": "queued"
+    },
+    {
+      "batch_number": 68,
+      "batch_id": "batch-068",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "article_count": 1,
+      "article_ids": [
+        "ACX-KB-0317"
+      ],
+      "status": "queued"
+    }
+  ]
+}

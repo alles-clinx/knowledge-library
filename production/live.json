@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "current_batch": "batch-001",
+  "live_article_ids": [
+    "ACX-KB-0001"
+  ],
+  "completed_batches": [],
+  "note": "Only articles that have passed the batch gate belong in live_article_ids."
+}
