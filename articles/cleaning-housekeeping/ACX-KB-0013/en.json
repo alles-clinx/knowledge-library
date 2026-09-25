@@ -1,0 +1,26 @@
+{
+  "article_id": "ACX-KB-0013",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "locked",
+  "translation_status": "source",
+  "title": "Why High-Touch Cleaning Matters",
+  "slug": "why-high-touch-cleaning-matters",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "High-Touch Cleaning",
+  "subcategory_slug": "high-touch-cleaning",
+  "excerpt": "High-touch cleaning matters because frequently handled surfaces have greater opportunity for repeated contamination and transfer, so they usually need more frequent attention than low-touch surfaces.",
+  "content_html": "<p>High-touch cleaning matters because every hand contact is an opportunity for a surface to pick up or transfer soil and microorganisms. A frequently handled surface therefore has more opportunities for repeated contamination than a surface that is rarely touched.</p>\n<h2 id=\"frequency-of-contact-changes-exposure\">Frequency of contact changes exposure</h2>\n<p>The CDC identifies high-touch surfaces as a separate cleaning priority and recommends cleaning them regularly. In healthcare guidance, high-touch surfaces receive more frequent and rigorous cleaning than low-touch surfaces because potential exposure is higher.</p>\n<h2 id=\"small-surfaces-can-have-high-priority\">Small surfaces can have high priority</h2>\n<p>Cleaning plans can overemphasise large visible areas such as floors while underemphasising handles, switches and controls. Visual size is a poor proxy for touch frequency. A useful schedule therefore maps what people touch, not just what takes up the most space.</p>\n<h2 id=\"cleaning-reduces-soil-before-any-disinfection-step\">Cleaning reduces soil before any disinfection step</h2>\n<p>Where disinfection is required, the surface still needs the correct cleaning preparation. CDC guidance notes that dirt and other impurities can reduce the effectiveness of sanitising or disinfecting chemicals.</p>\n<h2 id=\"priority-does-not-mean-constant-disinfection\">Priority does not mean constant disinfection</h2>\n<p>A high-touch surface may need more frequent cleaning, but that does not automatically mean it needs disinfectant at every cleaning event. The required method depends on facility type, illness events, product claims, local procedures and sector-specific rules.</p>\n<h2 id=\"verification-is-important\">Verification is important</h2>\n<p>High-touch tasks are easy to miss because many touchpoints are small. Include them in checklists, inspections and staff training. If the building changes—new equipment, new doors, different traffic patterns—the touchpoint map should change as well.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2>\n<p>High-touch cleaning is a prioritisation tool. Identify frequently handled surfaces, clean them at a frequency that matches use and risk, and verify that they are not being lost among larger but lower-touch tasks.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a></li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a></li></ol>",
+  "seo_title": "Why High-Touch Cleaning Matters | Alle's ClinX Knowledge",
+  "meta_description": "Learn why frequently touched surfaces receive higher cleaning priority and how touch frequency, traffic, soil and risk should influence the cleaning plan.",
+  "canonical_url": "https://allesclinx.com/library/cleaning-housekeeping/high-touch-cleaning/why-high-touch-cleaning-matters/",
+  "related_article_ids": [
+    "ACX-KB-0012",
+    "ACX-KB-0014",
+    "ACX-KB-0002"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}
