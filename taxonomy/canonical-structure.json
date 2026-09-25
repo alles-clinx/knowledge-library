@@ -1,0 +1,1000 @@
+{
+  "schema_version": "1.2",
+  "plugin": "alles-clinx-knowledge",
+  "dataset_type": "taxonomy_and_articles",
+  "batch_id": "ACX-FOUNDATION-PHASE-B",
+  "batch_name": "Canonical Knowledge Library structure",
+  "default_status": "draft",
+  "taxonomy_terms": [
+    {
+      "term_id": "ACX-TOPIC-001",
+      "name": "Cleaning & Housekeeping",
+      "slug": "cleaning-housekeeping",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/cleaning-housekeeping/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-002",
+      "name": "Cleaning Basics",
+      "slug": "cleaning-basics",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-001",
+      "canonical_url": "/library/cleaning-housekeeping/cleaning-basics/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-003",
+      "name": "Daily Cleaning",
+      "slug": "daily-cleaning",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-001",
+      "canonical_url": "/library/cleaning-housekeeping/daily-cleaning/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-004",
+      "name": "Deep Cleaning",
+      "slug": "deep-cleaning",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-001",
+      "canonical_url": "/library/cleaning-housekeeping/deep-cleaning/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-005",
+      "name": "High-Touch Cleaning",
+      "slug": "high-touch-cleaning",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-001",
+      "canonical_url": "/library/cleaning-housekeeping/high-touch-cleaning/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-006",
+      "name": "Cleaning Schedules",
+      "slug": "cleaning-schedules",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-001",
+      "canonical_url": "/library/cleaning-housekeeping/cleaning-schedules/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-007",
+      "name": "Housekeeping Workflows",
+      "slug": "housekeeping-workflows",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-001",
+      "canonical_url": "/library/cleaning-housekeeping/housekeeping-workflows/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-008",
+      "name": "Cleaning Troubleshooting",
+      "slug": "cleaning-troubleshooting",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-001",
+      "canonical_url": "/library/cleaning-housekeeping/cleaning-troubleshooting/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-009",
+      "name": "Floor & Surface Care",
+      "slug": "floor-surface-care",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/floor-surface-care/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-010",
+      "name": "Hard Floors",
+      "slug": "hard-floors",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/hard-floors/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-011",
+      "name": "Natural Stone",
+      "slug": "natural-stone",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/natural-stone/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-012",
+      "name": "Glass & Mirrors",
+      "slug": "glass-mirrors",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/glass-mirrors/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-013",
+      "name": "Stainless Steel & Metals",
+      "slug": "stainless-steel-metals",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/stainless-steel-metals/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-014",
+      "name": "Wood & Furniture",
+      "slug": "wood-furniture",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/wood-furniture/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-015",
+      "name": "Carpet & Upholstery",
+      "slug": "carpet-upholstery",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/carpet-upholstery/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-016",
+      "name": "Surface Compatibility",
+      "slug": "surface-compatibility",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/surface-compatibility/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-017",
+      "name": "Floor & Surface Troubleshooting",
+      "slug": "floor-surface-troubleshooting",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-009",
+      "canonical_url": "/library/floor-surface-care/floor-surface-troubleshooting/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-018",
+      "name": "Washroom Hygiene",
+      "slug": "washroom-hygiene",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/washroom-hygiene/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-019",
+      "name": "Routine Washroom Cleaning",
+      "slug": "routine-washroom-cleaning",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-018",
+      "canonical_url": "/library/washroom-hygiene/routine-washroom-cleaning/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-020",
+      "name": "Toilet & Urinal Care",
+      "slug": "toilet-urinal-care",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-018",
+      "canonical_url": "/library/washroom-hygiene/toilet-urinal-care/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-021",
+      "name": "Limescale & Mineral Deposits",
+      "slug": "limescale-mineral-deposits",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-018",
+      "canonical_url": "/library/washroom-hygiene/limescale-mineral-deposits/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-022",
+      "name": "Tiles & Grout",
+      "slug": "tiles-grout",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-018",
+      "canonical_url": "/library/washroom-hygiene/tiles-grout/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-023",
+      "name": "Washroom Odour Control",
+      "slug": "washroom-odour-control",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-018",
+      "canonical_url": "/library/washroom-hygiene/washroom-odour-control/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-024",
+      "name": "Washroom Inspection",
+      "slug": "washroom-inspection",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-018",
+      "canonical_url": "/library/washroom-hygiene/washroom-inspection/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-025",
+      "name": "Washroom Troubleshooting",
+      "slug": "washroom-troubleshooting",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-018",
+      "canonical_url": "/library/washroom-hygiene/washroom-troubleshooting/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-026",
+      "name": "Kitchen & Food-Service Hygiene",
+      "slug": "kitchen-food-service",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/kitchen-food-service/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-027",
+      "name": "Kitchen Cleaning",
+      "slug": "kitchen-cleaning",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/kitchen-cleaning/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-028",
+      "name": "Manual Dishwashing",
+      "slug": "manual-dishwashing",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/manual-dishwashing/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-029",
+      "name": "Machine Warewashing",
+      "slug": "machine-warewashing",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/machine-warewashing/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-030",
+      "name": "Degreasing",
+      "slug": "degreasing",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/degreasing/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-031",
+      "name": "Chimney & Exhaust Cleaning",
+      "slug": "chimney-exhaust-cleaning",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/chimney-exhaust-cleaning/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-032",
+      "name": "Food-Contact Surfaces",
+      "slug": "food-contact-surfaces",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/food-contact-surfaces/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-033",
+      "name": "Stainless Steel Equipment",
+      "slug": "stainless-steel-equipment",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/stainless-steel-equipment/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-034",
+      "name": "Kitchen Troubleshooting",
+      "slug": "kitchen-troubleshooting",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-026",
+      "canonical_url": "/library/kitchen-food-service/kitchen-troubleshooting/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-035",
+      "name": "Laundry & Fabric Care",
+      "slug": "laundry-fabric-care",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/laundry-fabric-care/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-036",
+      "name": "Laundry Basics",
+      "slug": "laundry-basics",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/laundry-basics/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-037",
+      "name": "Laundry Detergents",
+      "slug": "laundry-detergents",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/laundry-detergents/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-038",
+      "name": "Bleaching & Stain Removal",
+      "slug": "bleaching-stain-removal",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/bleaching-stain-removal/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-039",
+      "name": "Fabric Softening",
+      "slug": "fabric-softening",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/fabric-softening/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-040",
+      "name": "Delicate Fabrics",
+      "slug": "delicate-fabrics",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/delicate-fabrics/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-041",
+      "name": "Linen Hygiene",
+      "slug": "linen-hygiene",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/linen-hygiene/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-042",
+      "name": "Fabric Odour Control",
+      "slug": "fabric-odour-control",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/fabric-odour-control/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-043",
+      "name": "Laundry Troubleshooting",
+      "slug": "laundry-troubleshooting",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-035",
+      "canonical_url": "/library/laundry-fabric-care/laundry-troubleshooting/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-044",
+      "name": "Disinfection & Infection Prevention",
+      "slug": "disinfection-infection-prevention",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/disinfection-infection-prevention/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-045",
+      "name": "Disinfection Basics",
+      "slug": "disinfection-basics",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/disinfection-basics/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-046",
+      "name": "Cleaning vs Disinfection",
+      "slug": "cleaning-vs-disinfection",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/cleaning-vs-disinfection/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-047",
+      "name": "Surface Disinfection",
+      "slug": "surface-disinfection",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/surface-disinfection/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-048",
+      "name": "Floor Disinfection",
+      "slug": "floor-disinfection",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/floor-disinfection/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-049",
+      "name": "Disinfectant Chemistry",
+      "slug": "disinfectant-chemistry",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/disinfectant-chemistry/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-050",
+      "name": "Contact Time",
+      "slug": "contact-time",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/contact-time/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-051",
+      "name": "High-Risk Areas",
+      "slug": "high-risk-areas",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/high-risk-areas/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-052",
+      "name": "Infection Prevention Workflows",
+      "slug": "infection-prevention-workflows",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-044",
+      "canonical_url": "/library/disinfection-infection-prevention/infection-prevention-workflows/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-053",
+      "name": "Hand Hygiene",
+      "slug": "hand-hygiene",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/hand-hygiene/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-054",
+      "name": "Handwashing",
+      "slug": "handwashing",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-053",
+      "canonical_url": "/library/hand-hygiene/handwashing/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-055",
+      "name": "Hand Sanitising",
+      "slug": "hand-sanitising",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-053",
+      "canonical_url": "/library/hand-hygiene/hand-sanitising/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-056",
+      "name": "Clinical Hand Hygiene",
+      "slug": "clinical-hand-hygiene",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-053",
+      "canonical_url": "/library/hand-hygiene/clinical-hand-hygiene/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-057",
+      "name": "Hand Hygiene Stations",
+      "slug": "hand-hygiene-stations",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-053",
+      "canonical_url": "/library/hand-hygiene/hand-hygiene-stations/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-058",
+      "name": "Dispensers & Refills",
+      "slug": "dispensers-refills",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-053",
+      "canonical_url": "/library/hand-hygiene/dispensers-refills/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-059",
+      "name": "Hand Hygiene Programs",
+      "slug": "hand-hygiene-programs",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-053",
+      "canonical_url": "/library/hand-hygiene/hand-hygiene-programs/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-060",
+      "name": "Cleaning Equipment & Systems",
+      "slug": "cleaning-equipment-systems",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/cleaning-equipment-systems/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-061",
+      "name": "Mops, Cloths & Manual Tools",
+      "slug": "mops-cloths-manual-tools",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-060",
+      "canonical_url": "/library/cleaning-equipment-systems/mops-cloths-manual-tools/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-062",
+      "name": "Cleaning Carts & Trolleys",
+      "slug": "cleaning-carts-trolleys",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-060",
+      "canonical_url": "/library/cleaning-equipment-systems/cleaning-carts-trolleys/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-063",
+      "name": "Scrubber Dryers",
+      "slug": "scrubber-dryers",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-060",
+      "canonical_url": "/library/cleaning-equipment-systems/scrubber-dryers/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-064",
+      "name": "Vacuum & Extraction Equipment",
+      "slug": "vacuum-extraction-equipment",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-060",
+      "canonical_url": "/library/cleaning-equipment-systems/vacuum-extraction-equipment/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-065",
+      "name": "Dispensing & Dosing Systems",
+      "slug": "dispensing-dosing-systems",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-060",
+      "canonical_url": "/library/cleaning-equipment-systems/dispensing-dosing-systems/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-066",
+      "name": "Equipment Maintenance",
+      "slug": "equipment-maintenance",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-060",
+      "canonical_url": "/library/cleaning-equipment-systems/equipment-maintenance/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-067",
+      "name": "Equipment Troubleshooting",
+      "slug": "equipment-troubleshooting",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-060",
+      "canonical_url": "/library/cleaning-equipment-systems/equipment-troubleshooting/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-068",
+      "name": "Cleaning Chemistry",
+      "slug": "cleaning-chemistry",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/cleaning-chemistry/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-069",
+      "name": "Cleaning Chemistry Basics",
+      "slug": "chemistry-basics",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/chemistry-basics/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-070",
+      "name": "pH, Acids & Alkalis",
+      "slug": "ph-acids-alkalis",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/ph-acids-alkalis/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-071",
+      "name": "Surfactants",
+      "slug": "surfactants",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/surfactants/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-072",
+      "name": "Disinfectant Actives",
+      "slug": "disinfectant-actives",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/disinfectant-actives/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-073",
+      "name": "Enzymes",
+      "slug": "enzymes",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/enzymes/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-074",
+      "name": "Bleaches & Oxidisers",
+      "slug": "bleaches-oxidisers",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/bleaches-oxidisers/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-075",
+      "name": "Dilution & Concentration",
+      "slug": "dilution-concentration",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/dilution-concentration/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-076",
+      "name": "Water Hardness",
+      "slug": "water-hardness",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/water-hardness/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-077",
+      "name": "Product Selection",
+      "slug": "product-selection",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/product-selection/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-078",
+      "name": "Product Compatibility",
+      "slug": "product-compatibility",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-068",
+      "canonical_url": "/library/cleaning-chemistry/product-compatibility/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-079",
+      "name": "Safety, Compliance & Documentation",
+      "slug": "safety-compliance",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/safety-compliance/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-080",
+      "name": "Safety Data Sheets — SDS",
+      "slug": "sds",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/sds/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-081",
+      "name": "Technical Data Sheets — TDS",
+      "slug": "tds",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/tds/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-082",
+      "name": "Standard Operating Procedures — SOPs",
+      "slug": "sops",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/sops/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-083",
+      "name": "Usage Guides",
+      "slug": "usage-guides",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/usage-guides/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-084",
+      "name": "Product Labels",
+      "slug": "product-labels",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/product-labels/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-085",
+      "name": "GHS & Hazard Communication",
+      "slug": "ghs-hazard-communication",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/ghs-hazard-communication/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-086",
+      "name": "Personal Protective Equipment — PPE",
+      "slug": "ppe",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/ppe/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-087",
+      "name": "Chemical Storage",
+      "slug": "chemical-storage",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/chemical-storage/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-088",
+      "name": "Spills & Exposure",
+      "slug": "spills-exposure",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/spills-exposure/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-089",
+      "name": "Audit Readiness",
+      "slug": "audit-readiness",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/audit-readiness/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-090",
+      "name": "Records & Document Control",
+      "slug": "records-document-control",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-079",
+      "canonical_url": "/library/safety-compliance/records-document-control/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-091",
+      "name": "Facility Hygiene Management",
+      "slug": "facility-hygiene-management",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/facility-hygiene-management/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-092",
+      "name": "Cleaning Plans & Schedules",
+      "slug": "cleaning-plans-schedules",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/cleaning-plans-schedules/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-093",
+      "name": "Staff Training",
+      "slug": "staff-training",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/staff-training/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-094",
+      "name": "Competency Assessment",
+      "slug": "competency-assessment",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/competency-assessment/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-095",
+      "name": "Supervision & Inspections",
+      "slug": "supervision-inspections",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/supervision-inspections/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-096",
+      "name": "Audits & CAPA",
+      "slug": "audits-capa",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/audits-capa/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-097",
+      "name": "Inventory & Stock Control",
+      "slug": "inventory-stock-control",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/inventory-stock-control/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-098",
+      "name": "Chemical Consumption & Cost Control",
+      "slug": "chemical-consumption-cost-control",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/chemical-consumption-cost-control/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-099",
+      "name": "Procurement",
+      "slug": "procurement",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/procurement/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-100",
+      "name": "Supplier Management",
+      "slug": "supplier-management",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/supplier-management/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-101",
+      "name": "Sustainability & Waste",
+      "slug": "sustainability-waste",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-091",
+      "canonical_url": "/library/facility-hygiene-management/sustainability-waste/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-102",
+      "name": "Facility & Sector Guides",
+      "slug": "facility-guides",
+      "type": "category",
+      "parent_term_id": null,
+      "canonical_url": "/library/facility-guides/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-103",
+      "name": "Healthcare Facilities",
+      "slug": "healthcare",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/healthcare/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-104",
+      "name": "Hotels & Hospitality",
+      "slug": "hospitality",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/hospitality/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-105",
+      "name": "Schools & Education",
+      "slug": "education",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/education/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-106",
+      "name": "Industrial Facilities",
+      "slug": "industrial",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/industrial/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-107",
+      "name": "Offices & Commercial Buildings",
+      "slug": "offices-commercial-buildings",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/offices-commercial-buildings/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-108",
+      "name": "Food-Service Facilities",
+      "slug": "food-service",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/food-service/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-109",
+      "name": "Retail Facilities",
+      "slug": "retail",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/retail/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-110",
+      "name": "Long-Term Care Facilities",
+      "slug": "long-term-care",
+      "type": "subcategory",
+      "parent_term_id": "ACX-TOPIC-102",
+      "canonical_url": "/library/facility-guides/long-term-care/",
+      "description": ""
+    },
+    {
+      "term_id": "ACX-TOPIC-111",
