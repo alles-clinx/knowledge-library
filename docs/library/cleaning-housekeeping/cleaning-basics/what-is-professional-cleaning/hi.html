@@ -5,8 +5,8 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1,viewport-fit=cover" name="viewport"/>
 <script>document.documentElement.classList.add('acx-js');</script>
-<title>पेशेवर सफाई क्या है? | Alle's ClinX</title>
-<meta content="जानें कि पेशेवर सफाई क्या है, इसमें किन कार्यों और नियंत्रणों की जरूरत होती है, और नियमित सफाई को एक भरोसेमंद सुविधा-प्रबंधन प्रणाली कैसे बनाया जाता है।" name="description"/>
+<title>पेशेवर सफाई क्या है? | Alle&#39;s ClinX</title>
+<meta content="पेशेवर सफाई के scope, method, frequency, worker safety, verification और cleaning बनाम disinfection के अंतर को व्यावहारिक रूप से समझें।" name="description"/>
 <style>
 :root{
   --black:#000;
@@ -998,3 +998,951 @@ button,a{-webkit-tap-highlight-color:transparent}
   .article{
     --reading-size:16px;
   }
+  .article h2{
+    font-size:28px;
+  }
+
+  .article h3{
+    font-size:18px;
+  }
+
+  .data-table{
+    font-size:13px;
+  }
+
+  .mobile-tools .tool{
+    gap:5px;
+    padding:0 6px;
+  }
+
+  .mobile-tools .tool span{
+    font-size:11px;
+  }
+
+  .mobile-tools .popover{
+    left:8px;
+    right:8px;
+  }
+
+  .scroll-progress{
+    width:calc(100vw - 16px);
+  }
+
+  .scroll-progress-toggle{
+    min-height:46px;
+  }
+}
+
+@media(max-width:340px){
+  .page{
+    width:calc(100% - 20px);
+  }
+
+  .article-head h1{
+    font-size:34px;
+  }
+
+  .mobile-tools .tool svg{
+    display:none;
+  }
+
+  .mobile-tools .share-grid{
+    grid-template-columns:repeat(4,minmax(0,1fr));
+  }
+
+  .browser-shortcut{
+    min-width:54px;
+    font-size:9px;
+  }
+}
+
+
+/* ---------- gold-standard baseline v16 ---------- */
+.article-head h1,
+.deck,
+.article h2{
+  text-wrap:balance;
+}
+.article-meta{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:0;
+  margin-top:22px;
+  font-size:13px;
+  line-height:1.45;
+  font-weight:650;
+}
+.article-meta a{
+  text-underline-offset:3px;
+}
+.article-meta-item{
+  display:inline-flex;
+  align-items:center;
+}
+.article-meta-item + .article-meta-item::before{
+  content:"/";
+  margin:0 8px;
+  text-decoration:none;
+}
+.source-note{
+  margin-top:8px;
+}
+.article section{
+  scroll-margin-top:104px;
+}
+.key-point{
+  padding-left:18px;
+  border-left:2px solid var(--black);
+}
+.key-point strong{
+  letter-spacing:.01em;
+}
+.references{
+  margin-top:76px!important;
+  padding-top:34px;
+  border-top:1px solid var(--black);
+}
+.hook-item,
+.scroll-progress-item{
+  text-decoration:none;
+}
+html:not(.acx-js) .rail .rail-section:first-child,
+html:not(.acx-js) .mobile-tools{
+  display:none!important;
+}
+
+/* Desktop/tablet uses the persistent rail; floating progress is a compact-screen enhancement only. */
+.scroll-progress{
+  display:none;
+}
+
+@media(max-width:900px){
+  .breadcrumb .current,
+  .breadcrumb .current-sep{
+    display:none;
+  }
+  .article-meta{
+    gap:0;
+    margin-top:18px;
+    font-size:12px;
+  }
+  .article-meta-item + .article-meta-item::before{
+    margin:0 6px;
+  }
+  .article section{
+    scroll-margin-top:82px;
+  }
+  .rail .suggestions{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:0;
+  }
+  .scroll-progress{
+    display:block;
+    opacity:0;
+    visibility:hidden;
+    transform:translate(-50%,8px);
+    transition:opacity .16s ease,transform .16s ease,visibility 0s linear .16s;
+  }
+  .scroll-progress.is-visible{
+    opacity:1;
+    visibility:visible;
+    transform:translate(-50%,0);
+    transition-delay:0s;
+  }
+}
+
+@media(max-width:390px){
+  .article-meta{
+    align-items:flex-start;
+  }
+}
+
+
+/* ---------- locked additions: language + open knowledge ---------- */
+.language-switch{
+  display:flex;
+  width:max-content;
+  gap:20px;
+  margin:-22px 0 44px;
+  border-bottom:1px solid #bdbdbd;
+}
+.language-switch a{
+  position:relative;
+  padding:0 0 9px;
+  font-size:13px;
+  line-height:1.2;
+  text-decoration:none;
+}
+.language-switch a[aria-current="true"]{font-weight:700}
+.language-switch a[aria-current="true"]::after{
+  content:"";
+  position:absolute;
+  left:0;right:0;bottom:-1px;
+  height:1px;background:#000;
+}
+.open-knowledge{
+  max-width:760px;
+  margin-top:72px;
+  padding-top:22px;
+  border-top:1px solid #000;
+  font-size:13px;
+  line-height:1.55;
+}
+.open-knowledge strong{display:block;margin-bottom:5px;font-size:13px}
+.open-knowledge p{margin:0 0 5px}
+.open-knowledge a{text-underline-offset:3px}
+@media(max-width:900px){
+  .language-switch{margin:-12px 0 36px}
+  .open-knowledge{margin-top:58px}
+}
+@media(max-width:390px){
+  .language-switch{margin:-8px 0 30px}
+}
+</style>
+</head>
+<body>
+<main class="page">
+<nav aria-label="Breadcrumb" class="breadcrumb"><a href="/knowledge-library/">Knowledge</a><span aria-hidden="true">/</span><a href="/knowledge-library/library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a><span aria-hidden="true">/</span><a href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/">Cleaning Basics</a><span aria-hidden="true">/</span><span aria-current="page" class="current">पेशेवर सफाई क्या है?</span></nav><nav aria-label="Language" class="language-switch"><a href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/" lang="en">English</a><a aria-current="true" href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/hi.html" lang="hi">हिन्दी</a></nav>
+<header class="article-head">
+<h1>पेशेवर सफाई क्या है?</h1>
+<p class="deck">पेशेवर सफाई एक नियोजित और दोहराने योग्य प्रणाली है जिसमें scope, method, frequency, responsibility और verification को नियंत्रित करके किसी facility को उपयोग योग्य रखा जाता है।</p>
+<div aria-label="Article information" class="article-meta">
+<span class="article-meta-item">Team Alle's ClinX</span>
+<a class="article-meta-item" href="#hi-references">संदर्भ</a>
+</div>
+<p class="source-note">तकनीकी दावों के स्रोत लेख के अंत में दिए गए हैं।</p>
+</header>
+<div class="reading-layout">
+<article class="article" id="article-content"><section id="overview"><p>पेशेवर सफाई (professional cleaning) एक नियोजित और दोहराने योग्य प्रणाली है जिसमें गंदगी, धूल, residues और अनचाही सामग्री को इस तरह हटाया जाता है कि facility सामान्य उपयोग के लिए उपयुक्त रहे। इसका अर्थ केवल जगह को साफ दिखाई देना नहीं है। एक पेशेवर cleaning programme यह तय करता है कि क्या साफ होगा, किस method से होगा, कितनी बार होगा, जिम्मेदारी किसकी होगी और परिणाम की जाँच कैसे की जाएगी। ये निर्णय facility के उपयोग, surfaces, soil, worker safety और लागू sector-specific requirements के अनुसार होने चाहिए।</p></section><section id="hi-professional-cleaning-system"><h2>पेशेवर cleaning system के पाँच हिस्से</h2><table class="data-table">
+<thead><tr><th>हिस्सा</th><th>मुख्य operational प्रश्न</th></tr></thead>
+<tbody>
+<tr><td><strong>Scope</strong></td><td>कौन-से rooms, surfaces, fixtures और shared items शामिल हैं?</td></tr>
+<tr><td><strong>Method</strong></td><td>कौन-सा product, tool, dilution, sequence और rinse/removal step approved है?</td></tr>
+<tr><td><strong>Frequency</strong></td><td>काम कितनी बार होगा और किन conditions में extra cleaning trigger होगी?</td></tr>
+<tr><td><strong>Responsibility</strong></td><td>काम कौन करेगा, supplies कौन देगा और exceptions कौन संभालेगा?</td></tr>
+<tr><td><strong>Verification</strong></td><td>Completion और quality को कैसे check, record और correct किया जाएगा?</td></tr>
+</tbody>
+</table>
+<p>इनमें से कोई हिस्सा अस्पष्ट हो तो results inconsistent होने लगते हैं। उदाहरण के लिए “washroom रोज़ साफ करें” यह नहीं बताता कि कौन-से fixtures शामिल हैं, limescale daily task का हिस्सा है या नहीं, कौन-सा product approved है, consumables कितनी बार check होंगे, या rounds के बीच area बहुत dirty हो जाए तो क्या करना है।</p></section><section id="hi-what-the-work-includes"><h2>काम के दायरे में क्या आता है</h2><p>पहला कदम facility को map करना है। Cleaning scope में entrance floors, work surfaces, washroom fixtures, waste points, door hardware और selected shared equipment शामिल हो सकते हैं। एक ही room में अलग surfaces को अलग methods की जरूरत हो सकती है। Glass के लिए low-residue process चाहिए, coated floor पर pad aggressiveness की सीमा हो सकती है और electronic equipment के लिए manufacturer-specific restrictions हो सकती हैं।</p>
+<p>Frequency भी आदत से नहीं, actual use से तय होनी चाहिए। Low-traffic storage area और busy washroom या entrance को एक जैसा schedule देना जरूरी नहीं है। CDC की facility guidance बताती है कि high-touch और high-traffic areas को अधिक frequent attention की जरूरत हो सकती है, जबकि दूसरी surfaces को visibly dirty होने पर clean किया जा सकता है.<a href="#hi-ref-1">[1]</a> यह एक planning principle है, universal numeric schedule नहीं; specialised facilities को अपने applicable procedures follow करने चाहिए।</p></section><section id="hi-repeatable-workflow"><h2>एक दोहराने योग्य cleaning workflow</h2><ol>
+<li><strong>Assess करें।</strong> Soil, material, finish, traffic, touch points और safety/access constraints पहचानें।</li>
+<li><strong>Prepare करें।</strong> Approved product और tool चुनें, dilution verify करें, label और safety information पढ़ें और required PPE तैयार रखें।</li>
+<li><strong>Systematic तरीके से काम करें।</strong> ऐसा route follow करें जिससे areas miss न हों और soil दोबारा cleaned surfaces पर न जाए।</li>
+<li><strong>Loosened soil हटाएँ।</strong> Dirty solution recover करें, जहाँ required हो rinse करें और surface को specified condition में छोड़ें।</li>
+<li><strong>Inspect और record करें।</strong> Result check करें, exceptions note करें और damage या repeated failure escalate करें।</li>
+</ol>
+<p>CDC की healthcare environmental-cleaning guidance cleaner-to-dirtier, high-to-low और फिर floors की sequence तथा mechanical wiping को describe करती है.<a href="#hi-ref-2">[2]</a> ये exact procedures healthcare-specific हैं, लेकिन underlying principle—एक consistent sequence जो missed work और recontamination कम करे—general facilities में भी उपयोगी है।</p></section><section id="hi-cleaning-vs-antimicrobial-work"><h2>Cleaning और antimicrobial treatment अलग decisions हैं</h2><p>Cleaning soil और कई microorganisms को physically remove करती है। Sanitising या disinfecting एक अलग antimicrobial objective है। CDC cleaning के बाद sanitising या disinfecting की सलाह देता है क्योंकि dirt और दूसरी impurities antimicrobial action में interfere कर सकती हैं.<a href="#hi-ref-3">[3]</a> इसलिए surface साफ दिखाई दे सकती है लेकिन disinfected न हो, और disinfectant soil-removal problem का automatic solution नहीं है।</p>
+<p>जहाँ disinfection required हो, वहाँ सही surface और use case के लिए सही product चुनना और उसका label follow करना जरूरी है। US EPA contact time को वह period बताता है जिसमें treated surface को claim पूरा करने के लिए wet रहना चाहिए.<a href="#hi-ref-4">[4]</a> EPA requirements United States में लागू होते हैं; India या किसी अन्य jurisdiction में इन्हें यहाँ technical example की तरह देखें, local regulatory approval की तरह नहीं।</p></section><section id="hi-worker-safety"><h2>Worker safety भी cleaning quality का हिस्सा है</h2><p>कोई method professional नहीं माना जा सकता अगर वह unsafe handling पर निर्भर हो। Workers को dilution, storage, ventilation, spill response और PPE के स्पष्ट instructions चाहिए। OSHA की technical guidance hazardous cleaning chemicals के लिए hazards, dilution, handling, storage और PPE पर training का महत्व बताती है और incompatible chemicals mix करने से सावधान करती है.<a href="#hi-ref-5">[5]</a> OSHA US regulator है, इसलिए local legal duties अलग हो सकती हैं; लेकिन safe-work principles site procedures बनाते समय उपयोगी हैं।</p>
+<p>Tools और equipment भी controlled होने चाहिए। Dirty cloths, overloaded mop solution, worn pads या poorly maintained machines सही chemical होने के बावजूद performance खराब कर सकते हैं। इसलिए professional programme में tool-change rules, equipment care और damaged surface/equipment reporting शामिल होना चाहिए।</p></section><section id="hi-verification"><h2>Verification: supervisor वास्तव में क्या साबित कर सकता है?</h2><p>अलग checks अलग questions का उत्तर देते हैं। Completion record दिखा सकता है कि task schedule और sign-off हुआ। Visual inspection remaining soil, streaks, standing water, missed waste, poor replenishment या obvious damage पकड़ सकती है। ये useful operational checks हैं, लेकिन ये surface को microbiologically safe साबित नहीं करते।</p>
+<p>जहाँ regulated या high-risk setting में microbiological, fluorescent-marker, ATP या दूसरी enhanced verification required हो, वहाँ site procedure को method, sampling plan और acceptance criteria define करने चाहिए। Ordinary office-cleaning programme में केवल “more scientific” दिखने के लिए ऐसे methods जोड़ना सही नहीं है। Verification tool को risk और decision के अनुरूप होना चाहिए।</p></section><section id="hi-when-results-vary"><h2>Results बदलें तो system को investigate करें</h2><p>Repeated poor results अक्सर किसी एक worker की carelessness से ज्यादा process mismatch के कारण होते हैं। Check करें कि soil बदला है या नहीं, product suitable है या नहीं, dilution controlled है या नहीं, tool surface तक सही contact कर रहा है या नहीं, working time पर्याप्त है या नहीं, dirty solution remove हो रहा है या नहीं और frequency अभी भी traffic के अनुसार है या नहीं। अगर coating worn है या material permanently stained है, तो solution maintenance या restoration हो सकता है, stronger cleaning नहीं।</p>
+<div class="key-point"><strong>Professional cleaning का अर्थ controlled cleaning है।</strong><p>लक्ष्य maximum chemical strength या maximum labour नहीं है। लक्ष्य ऐसा safe, repeatable method है जो required result दे और जिसे समझाया, सिखाया, check किया और improve किया जा सके।</p></div></section><section id="hi-planning-questions"><h2>Cleaning plan approve करने से पहले ये प्रश्न clear हों</h2><ul>
+<li>कौन-से areas, surfaces और shared items scope में हैं?</li>
+<li>कौन-से tasks routine, periodic या incident-driven हैं?</li>
+<li>हर surface के लिए कौन-से products और tools approved हैं?</li>
+<li>Specialist equipment और exceptions की responsibility किसकी है?</li>
+<li>Completion और quality का कौन-सा evidence वास्तव में useful है?</li>
+<li>Approved method expected result न दे तो escalation क्या होगा?</li>
+</ul></section><section class="references" id="hi-references"><h2>संदर्भ</h2><ol>
+<li id="hi-ref-1"><a href="https://cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html">CDC, When and How to Clean and Disinfect a Facility</a>.</li>
+<li id="hi-ref-2"><a href="https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html">CDC, Environmental Cleaning Procedures</a>.</li>
+<li id="hi-ref-3"><a href="https://www.cdc.gov/hygiene/cleaning-disinfecting/index.html">CDC, Cleaning and Disinfecting</a>.</li>
+<li id="hi-ref-4"><a href="https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants">US EPA, Selected EPA-Registered Disinfectants — Directions for Use</a>.</li>
+<li id="hi-ref-5"><a href="https://www.osha.gov/sites/default/files/publications/OSHA3512.pdf">US OSHA, Protecting Workers Who Use Cleaning Chemicals</a>.</li>
+</ol></section></article>
+<aside aria-label="Article tools and navigation" class="rail">
+<section class="rail-section">
+<h2>लेख</h2>
+<div class="tools">
+<div class="tool-wrap">
+<button aria-expanded="false" aria-haspopup="menu" class="tool js-share-toggle" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><path d="M8.6 10.6 15.4 6.5M8.6 13.4l6.8 4.1"></path></svg>
+<span>साझा करें</span>
+</button>
+<div class="popover js-share-popover" hidden="" role="menu">
+<div class="share-grid">
+<button aria-label="Copy link" class="js-copy-link" role="menuitem" title="Copy link" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.1 0l2-2a5 5 0 0 0-7.1-7.1l-1.1 1.1"></path><path d="M14 11a5 5 0 0 0-7.1 0l-2 2A5 5 0 0 0 12 20.1l1.1-1.1"></path></svg>
+</button>
+<a aria-label="Share by email" class="js-share-url" data-share="email" role="menuitem" title="Email">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><rect height="14" rx="1" width="18" x="3" y="5"></rect><path d="m4 7 8 6 8-6"></path></svg>
+</a>
+<a aria-label="Share on WhatsApp" class="js-share-url" data-share="whatsapp" role="menuitem" title="WhatsApp"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%23000000"/></a>
+<a aria-label="Share on X" class="js-share-url" data-share="x" role="menuitem" title="X"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:x.svg?color=%23000000"/></a>
+<a aria-label="Share on LinkedIn" class="js-share-url" data-share="linkedin" role="menuitem" title="LinkedIn"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23000000"/></a>
+<a aria-label="Share on Facebook" class="js-share-url" data-share="facebook" role="menuitem" title="Facebook"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:facebook.svg?color=%23000000"/></a>
+<a aria-label="Share on Telegram" class="js-share-url" data-share="telegram" role="menuitem" title="Telegram"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:telegram.svg?color=%23000000"/></a>
+<a aria-label="Share on Reddit" class="js-share-url" data-share="reddit" role="menuitem" title="Reddit"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:reddit.svg?color=%23000000"/></a>
+</div>
+</div>
+</div>
+<div class="tool-wrap">
+<button aria-expanded="false" aria-haspopup="menu" class="tool js-save-toggle" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4V3Z"></path></svg>
+<span>सेव करें</span>
+</button>
+<div class="popover save-pop js-save-popover" hidden="" role="menu">
+<div class="browser-save-list">
+<button class="browser-save-action js-browser-save" data-save-action="bookmark" role="menuitem" type="button">
+<span><strong>Bookmark page</strong><span>Use your browser bookmark tool</span></span>
+<kbd class="browser-shortcut js-bookmark-shortcut">⌘D</kbd>
+</button>
+<button class="browser-save-action js-browser-save" data-save-action="save" role="menuitem" type="button">
+<span><strong>Save page</strong><span>Download the current page from the browser</span></span>
+<kbd class="browser-shortcut js-save-shortcut">⌘S</kbd>
+</button>
+<button class="browser-save-action js-browser-save" data-save-action="print" role="menuitem" type="button">
+<span><strong>Print / Save PDF</strong><span>Opens the browser print dialog</span></span>
+<kbd class="browser-shortcut js-print-shortcut">⌘P</kbd>
+</button>
+</div>
+</div>
+</div>
+<div class="tool-wrap">
+<button aria-expanded="false" aria-haspopup="menu" class="tool js-text-toggle" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><path d="M4 6h16M8 6v12m8-12v12M6 18h4m4 0h4"></path></svg>
+<span>टेक्स्ट</span>
+</button>
+<div class="popover text-pop js-text-popover" hidden="">
+<div class="text-controls">
+<button aria-label="Decrease article text size" class="js-smaller" type="button">A−</button>
+<span class="text-size-readout js-size-readout">17px</span>
+<button aria-label="Increase article text size" class="js-larger" type="button">A+</button>
+</div>
+</div>
+</div>
+</div>
+<p aria-live="polite" class="tool-status"></p>
+</section>
+<section class="rail-section">
+<h2>इस पृष्ठ पर</h2>
+<nav aria-label="On this page" class="hook-sidebar">
+<div class="hook-list" id="acx-hook-list">
+<span aria-hidden="true" class="hook-rail active" id="acx-hook-active">
+<span class="hook-rail-segment is-dashed"></span>
+<svg class="hook-rail-corner" viewbox="0 0 12 7">
+<path d="M0.5 0a6 6 0 0 0 6 6H12" stroke-dasharray="2 2"></path>
+</svg>
+</span>
+<span aria-hidden="true" class="hook-rail hover" hidden="" id="acx-hook-hover">
+<span class="hook-rail-segment is-dashed"></span>
+<svg class="hook-rail-corner" viewbox="0 0 12 7">
+<path d="M0.5 0a6 6 0 0 0 6 6H12" stroke-dasharray="2 2"></path>
+</svg>
+</span>
+
+
+
+
+
+
+
+
+
+</div>
+<a class="hook-item" data-target="overview" href="#overview">सारांश</a><a class="hook-item" data-target="hi-professional-cleaning-system" href="#hi-professional-cleaning-system">पेशेवर cleaning system के पाँच हिस्से</a><a class="hook-item" data-target="hi-what-the-work-includes" href="#hi-what-the-work-includes">काम के दायरे में क्या आता है</a><a class="hook-item" data-target="hi-repeatable-workflow" href="#hi-repeatable-workflow">एक दोहराने योग्य cleaning workflow</a><a class="hook-item" data-target="hi-cleaning-vs-antimicrobial-work" href="#hi-cleaning-vs-antimicrobial-work">Cleaning और antimicrobial treatment अलग decisions हैं</a><a class="hook-item" data-target="hi-worker-safety" href="#hi-worker-safety">Worker safety भी cleaning quality का हिस्सा है</a><a class="hook-item" data-target="hi-verification" href="#hi-verification">Verification: supervisor वास्तव में क्या साबित कर सकता है?</a><a class="hook-item" data-target="hi-when-results-vary" href="#hi-when-results-vary">Results बदलें तो system को investigate करें</a><a class="hook-item" data-target="hi-planning-questions" href="#hi-planning-questions">Cleaning plan approve करने से पहले ये प्रश्न clear हों</a><a class="hook-item" data-target="hi-references" href="#hi-references">संदर्भ</a></nav>
+</section>
+<section class="rail-section">
+<h2>संबंधित लेख</h2>
+<div class="suggestions"><a class="suggestion" href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/cleaning-vs-sanitising-vs-disinfecting/hi.html"><strong>क्लीनिंग, सैनिटाइजिंग और डिसइन्फेक्टिंग में क्या अंतर है?</strong><span>संबंधित Knowledge guide।</span></a><a class="suggestion" href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/the-four-factors-that-influence-cleaning-performance/hi.html"><strong>सफाई के प्रदर्शन को प्रभावित करने वाले चार कारक</strong><span>संबंधित Knowledge guide।</span></a><a class="suggestion" href="/knowledge-library/library/cleaning-housekeeping/daily-cleaning/what-is-routine-daily-cleaning/hi.html"><strong>नियमित दैनिक सफाई क्या है?</strong><span>संबंधित Knowledge guide।</span></a></div>
+</section>
+</aside>
+<div aria-label="Mobile article controls" class="mobile-rail">
+<div class="mobile-tools tools">
+<div class="tool-wrap">
+<button aria-expanded="false" aria-haspopup="menu" class="tool js-share-toggle" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><path d="M8.6 10.6 15.4 6.5M8.6 13.4l6.8 4.1"></path></svg>
+<span>साझा करें</span>
+</button>
+<div class="popover js-share-popover" hidden="" role="menu">
+<div class="share-grid">
+<button aria-label="Copy link" class="js-copy-link" role="menuitem" title="Copy link" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.1 0l2-2a5 5 0 0 0-7.1-7.1l-1.1 1.1"></path><path d="M14 11a5 5 0 0 0-7.1 0l-2 2A5 5 0 0 0 12 20.1l1.1-1.1"></path></svg>
+</button>
+<a aria-label="Share by email" class="js-share-url" data-share="email" role="menuitem" title="Email">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><rect height="14" rx="1" width="18" x="3" y="5"></rect><path d="m4 7 8 6 8-6"></path></svg>
+</a>
+<a aria-label="Share on WhatsApp" class="js-share-url" data-share="whatsapp" role="menuitem" title="WhatsApp"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%23000000"/></a>
+<a aria-label="Share on X" class="js-share-url" data-share="x" role="menuitem" title="X"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:x.svg?color=%23000000"/></a>
+<a aria-label="Share on LinkedIn" class="js-share-url" data-share="linkedin" role="menuitem" title="LinkedIn"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23000000"/></a>
+<a aria-label="Share on Facebook" class="js-share-url" data-share="facebook" role="menuitem" title="Facebook"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:facebook.svg?color=%23000000"/></a>
+<a aria-label="Share on Telegram" class="js-share-url" data-share="telegram" role="menuitem" title="Telegram"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:telegram.svg?color=%23000000"/></a>
+<a aria-label="Share on Reddit" class="js-share-url" data-share="reddit" role="menuitem" title="Reddit"><img alt="" aria-hidden="true" class="brand-logo" src="https://api.iconify.design/simple-icons:reddit.svg?color=%23000000"/></a>
+</div>
+</div>
+</div>
+<div class="tool-wrap">
+<button aria-expanded="false" aria-haspopup="menu" class="tool js-save-toggle" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4V3Z"></path></svg>
+<span>सेव करें</span>
+</button>
+<div class="popover save-pop js-save-popover" hidden="" role="menu">
+<div class="browser-save-list">
+<button class="browser-save-action js-browser-save" data-save-action="bookmark" role="menuitem" type="button">
+<span><strong>Bookmark page</strong><span>Use your browser bookmark tool</span></span>
+<kbd class="browser-shortcut js-bookmark-shortcut">⌘D</kbd>
+</button>
+<button class="browser-save-action js-browser-save" data-save-action="save" role="menuitem" type="button">
+<span><strong>Save page</strong><span>Download the current page from the browser</span></span>
+<kbd class="browser-shortcut js-save-shortcut">⌘S</kbd>
+</button>
+<button class="browser-save-action js-browser-save" data-save-action="print" role="menuitem" type="button">
+<span><strong>Print / Save PDF</strong><span>Opens the browser print dialog</span></span>
+<kbd class="browser-shortcut js-print-shortcut">⌘P</kbd>
+</button>
+</div>
+</div>
+</div>
+<div class="tool-wrap">
+<button aria-expanded="false" aria-haspopup="menu" class="tool js-text-toggle" type="button">
+<svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><path d="M4 6h16M8 6v12m8-12v12M6 18h4m4 0h4"></path></svg>
+<span>टेक्स्ट</span>
+</button>
+<div class="popover text-pop js-text-popover" hidden="">
+<div class="text-controls">
+<button aria-label="Decrease article text size" class="js-smaller" type="button">A−</button>
+<span class="text-size-readout js-size-readout">17px</span>
+<button aria-label="Increase article text size" class="js-larger" type="button">A+</button>
+</div>
+</div>
+</div>
+</div>
+<details>
+<summary>लेख के विषय</summary>
+<div class="mobile-panel">
+<nav aria-label="On this page" class="toc"><a href="#overview">सारांश</a><a href="#hi-professional-cleaning-system">पेशेवर cleaning system के पाँच हिस्से</a><a href="#hi-what-the-work-includes">काम के दायरे में क्या आता है</a><a href="#hi-repeatable-workflow">एक दोहराने योग्य cleaning workflow</a><a href="#hi-cleaning-vs-antimicrobial-work">Cleaning और antimicrobial treatment अलग decisions हैं</a><a href="#hi-worker-safety">Worker safety भी cleaning quality का हिस्सा है</a><a href="#hi-verification">Verification: supervisor वास्तव में क्या साबित कर सकता है?</a><a href="#hi-when-results-vary">Results बदलें तो system को investigate करें</a><a href="#hi-planning-questions">Cleaning plan approve करने से पहले ये प्रश्न clear हों</a><a href="#hi-references">संदर्भ</a></nav>
+</div>
+</details>
+<p aria-live="polite" class="tool-status"></p>
+</div>
+</div>
+<footer class="open-knowledge"><strong>Alle's ClinX Open Knowledge</strong><p>पढ़ने, डाउनलोड करने, साझा करने और attribution के साथ reuse/adapt करने के लिए मुक्त। <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>.</p><p>Alle's ClinX नाम और trademarks इस content license का हिस्सा नहीं हैं।</p></footer></main>
+<script>
+(function(){
+  const root = document.querySelector('.page') || document.documentElement;
+  const sizeKey = 'acx-reading-size';
+
+  const statuses = Array.from(document.querySelectorAll('.tool-status'));
+  const shareToggles = Array.from(document.querySelectorAll('.js-share-toggle'));
+  const saveToggles = Array.from(document.querySelectorAll('.js-save-toggle'));
+  const textToggles = Array.from(document.querySelectorAll('.js-text-toggle'));
+  const shareLinks = Array.from(document.querySelectorAll('.js-share-url'));
+  const copyButtons = Array.from(document.querySelectorAll('.js-copy-link'));
+  const browserSaveButtons = Array.from(document.querySelectorAll('.js-browser-save'));
+  const smallerButtons = Array.from(document.querySelectorAll('.js-smaller'));
+  const largerButtons = Array.from(document.querySelectorAll('.js-larger'));
+  const sizeReadouts = Array.from(document.querySelectorAll('.js-size-readout'));
+  const tocLinks = Array.from(document.querySelectorAll('.rail .toc a'));
+  const observedSections = Array.from(document.querySelectorAll('.article section[id]'));
+
+  function status(message){
+    statuses.forEach(function(el){ el.textContent = message; });
+    if(message){
+      clearTimeout(status.timer);
+      status.timer = setTimeout(function(){
+        statuses.forEach(function(el){ el.textContent = ''; });
+      }, 3000);
+    }
+  }
+
+  function canonicalUrl(){
+    const canonical = document.querySelector('link[rel="canonical"]');
+    return canonical?.href || window.location.href;
+  }
+
+  function syncPopoverState(){
+    const open = Array.from(document.querySelectorAll('.popover')).some(function(pop){
+      return !pop.hidden;
+    });
+    document.documentElement.classList.toggle('has-tool-popover', open);
+  }
+
+  function closePopovers(except){
+    document.querySelectorAll('.popover').forEach(function(pop){
+      if(pop === except) return;
+      pop.hidden = true;
+      const wrap = pop.closest('.tool-wrap');
+      wrap?.querySelector('.tool')?.setAttribute('aria-expanded','false');
+    });
+    syncPopoverState();
+  }
+
+  function setupToggle(button, selector){
+    button.addEventListener('click', function(event){
+      event.stopPropagation();
+      const wrap = button.closest('.tool-wrap');
+      const pop = wrap?.querySelector(selector);
+      if(!pop) return;
+
+      const open = pop.hidden;
+      closePopovers(pop);
+      pop.hidden = !open;
+      button.setAttribute('aria-expanded', open ? 'true' : 'false');
+      syncPopoverState();
+    });
+  }
+
+  shareToggles.forEach(function(btn){ setupToggle(btn,'.js-share-popover'); });
+  saveToggles.forEach(function(btn){ setupToggle(btn,'.js-save-popover'); });
+  textToggles.forEach(function(btn){ setupToggle(btn,'.js-text-popover'); });
+
+  function updateShareUrls(){
+    const url = canonicalUrl();
+    const title = document.querySelector('h1')?.textContent?.trim() || document.title;
+    const u = encodeURIComponent(url);
+    const t = encodeURIComponent(title);
+
+    const targets = {
+      email: 'mailto:?subject=' + t + '&body=' + encodeURIComponent(title + '\n\n' + url),
+      whatsapp: 'https://wa.me/?text=' + encodeURIComponent(title + ' ' + url),
+      x: 'https://twitter.com/intent/tweet?text=' + t + '&url=' + u,
+      linkedin: 'https://www.linkedin.com/sharing/share-offsite/?url=' + u,
+      facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
+      telegram: 'https://t.me/share/url?url=' + u + '&text=' + t,
+      reddit: 'https://www.reddit.com/submit?url=' + u + '&title=' + t
+    };
+
+    shareLinks.forEach(function(link){
+      const type = link.dataset.share;
+      link.href = targets[type] || url;
+      if(type !== 'email'){
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    });
+  }
+
+  async function copyLink(){
+    const url = canonicalUrl();
+    try{
+      if(navigator.clipboard && window.isSecureContext){
+        await navigator.clipboard.writeText(url);
+      }else{
+        const temp = document.createElement('textarea');
+        temp.value = url;
+        temp.setAttribute('readonly','');
+        temp.style.position = 'fixed';
+        temp.style.opacity = '0';
+        document.body.appendChild(temp);
+        temp.select();
+        document.execCommand('copy');
+        temp.remove();
+      }
+      status('Link copied.');
+    }catch(error){
+      status('Copy the page URL from your browser.');
+    }
+  }
+
+  copyButtons.forEach(function(btn){
+    btn.addEventListener('click', async function(){
+      await copyLink();
+      closePopovers();
+    });
+  });
+
+  shareLinks.forEach(function(link){
+    link.addEventListener('click', function(){ closePopovers(); });
+  });
+
+  /* Browsers intentionally do not expose JS APIs that can silently create
+     bookmarks or trigger the native Save Page command. We therefore surface
+     the browser-native shortcuts. Print is the exception: window.print()
+     can legitimately open the native print dialog. */
+  const isApple = /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent);
+  const shortcuts = {
+    bookmark: isApple ? '⌘D' : 'Ctrl+D',
+    save: isApple ? '⌘S' : 'Ctrl+S',
+    print: isApple ? '⌘P' : 'Ctrl+P'
+  };
+
+  document.querySelectorAll('.js-bookmark-shortcut').forEach(function(el){ el.textContent = shortcuts.bookmark; });
+  document.querySelectorAll('.js-save-shortcut').forEach(function(el){ el.textContent = shortcuts.save; });
+  document.querySelectorAll('.js-print-shortcut').forEach(function(el){ el.textContent = shortcuts.print; });
+
+  browserSaveButtons.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      const action = btn.dataset.saveAction;
+
+      if(action === 'print'){
+        closePopovers();
+        window.print();
+        return;
+      }
+
+      if(action === 'bookmark'){
+        status('Press ' + shortcuts.bookmark + ' to bookmark this page in your browser.');
+      }else if(action === 'save'){
+        status('Press ' + shortcuts.save + ' to save this page using your browser.');
+      }
+
+      closePopovers();
+    });
+  });
+
+  document.addEventListener('click', function(event){
+    if(!event.target.closest('.tool-wrap')) closePopovers();
+  });
+
+  document.addEventListener('keydown', function(event){
+    if(event.key === 'Escape'){
+      closePopovers();
+      document.activeElement?.blur?.();
+    }
+  });
+
+  let storedSize = '17';
+  try{ storedSize = localStorage.getItem(sizeKey) || '17'; }catch(error){}
+  let size = parseInt(storedSize, 10);
+  if(!Number.isFinite(size)) size = 17;
+  size = Math.min(21, Math.max(15, size));
+
+  function applySize(){
+    root.style.setProperty('--reading-size', size + 'px');
+    sizeReadouts.forEach(function(el){ el.textContent = size + 'px'; });
+    try{ localStorage.setItem(sizeKey, String(size)); }catch(error){}
+  }
+
+  smallerButtons.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      size = Math.max(15, size - 1);
+      applySize();
+      status('Text size ' + size + 'px');
+    });
+  });
+
+  largerButtons.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      size = Math.min(21, size + 1);
+      applySize();
+      status('Text size ' + size + 'px');
+    });
+  });
+
+  if('IntersectionObserver' in window){
+    const observer = new IntersectionObserver(function(entries){
+      const visible = entries
+        .filter(function(entry){ return entry.isIntersecting; })
+        .sort(function(a,b){ return a.boundingClientRect.top - b.boundingClientRect.top; });
+
+      if(!visible.length) return;
+      const id = '#' + visible[0].target.id;
+
+      tocLinks.forEach(function(link){
+        link.classList.toggle('is-active', link.getAttribute('href') === id);
+      });
+    }, {rootMargin:'-18% 0px -70% 0px', threshold:0});
+
+    observedSections.forEach(function(section){ observer.observe(section); });
+  }
+
+  updateShareUrls();
+  applySize();
+})();
+</script>
+<div class="scroll-progress" id="acx-scroll-progress">
+<div class="scroll-progress-shell">
+<button aria-controls="acx-scroll-progress-list" aria-expanded="false" aria-label="Show article sections" class="scroll-progress-toggle" id="acx-scroll-progress-toggle" type="button">
+<svg aria-hidden="true" class="scroll-ring" viewbox="0 0 24 24">
+<circle class="scroll-ring-track" cx="12" cy="12" r="10"></circle>
+<circle class="scroll-ring-value" cx="12" cy="12" id="acx-scroll-ring-value" r="10"></circle>
+</svg>
+<span class="scroll-progress-label" id="acx-scroll-progress-label">सारांश</span>
+</button>
+<div aria-label="Article sections" class="scroll-progress-list" id="acx-scroll-progress-list" role="navigation"><a class="scroll-progress-item" data-target="overview" href="#overview"><span aria-hidden="true" class="scroll-progress-dot"></span><span>सारांश</span></a><a class="scroll-progress-item" data-target="hi-professional-cleaning-system" href="#hi-professional-cleaning-system"><span aria-hidden="true" class="scroll-progress-dot"></span><span>पेशेवर cleaning system के पाँच हिस्से</span></a><a class="scroll-progress-item" data-target="hi-what-the-work-includes" href="#hi-what-the-work-includes"><span aria-hidden="true" class="scroll-progress-dot"></span><span>काम के दायरे में क्या आता है</span></a><a class="scroll-progress-item" data-target="hi-repeatable-workflow" href="#hi-repeatable-workflow"><span aria-hidden="true" class="scroll-progress-dot"></span><span>एक दोहराने योग्य cleaning workflow</span></a><a class="scroll-progress-item" data-target="hi-cleaning-vs-antimicrobial-work" href="#hi-cleaning-vs-antimicrobial-work"><span aria-hidden="true" class="scroll-progress-dot"></span><span>Cleaning और antimicrobial treatment अलग decisions हैं</span></a><a class="scroll-progress-item" data-target="hi-worker-safety" href="#hi-worker-safety"><span aria-hidden="true" class="scroll-progress-dot"></span><span>Worker safety भी cleaning quality का हिस्सा है</span></a><a class="scroll-progress-item" data-target="hi-verification" href="#hi-verification"><span aria-hidden="true" class="scroll-progress-dot"></span><span>Verification: supervisor वास्तव में क्या साबित कर सकता है?</span></a><a class="scroll-progress-item" data-target="hi-when-results-vary" href="#hi-when-results-vary"><span aria-hidden="true" class="scroll-progress-dot"></span><span>Results बदलें तो system को investigate करें</span></a><a class="scroll-progress-item" data-target="hi-planning-questions" href="#hi-planning-questions"><span aria-hidden="true" class="scroll-progress-dot"></span><span>Cleaning plan approve करने से पहले ये प्रश्न clear हों</span></a><a class="scroll-progress-item" data-target="hi-references" href="#hi-references"><span aria-hidden="true" class="scroll-progress-dot"></span><span>संदर्भ</span></a></div>
+</div>
+</div>
+<script>
+(function(){
+  const widget = document.getElementById('acx-scroll-progress');
+  if(!widget) return;
+
+  const toggle = document.getElementById('acx-scroll-progress-toggle');
+  const label = document.getElementById('acx-scroll-progress-label');
+  const ring = document.getElementById('acx-scroll-ring-value');
+  const items = Array.from(widget.querySelectorAll('.scroll-progress-item'));
+  const article = document.getElementById('article-content');
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const circumference = 2 * Math.PI * 10;
+  let scrollLock = false;
+  let scrollLockTimer = null;
+
+  function setOpen(open){
+    widget.classList.toggle('is-open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    toggle.setAttribute('aria-label', open ? 'Hide article sections' : 'Show article sections');
+  }
+
+  toggle.addEventListener('click', function(){
+    setOpen(!widget.classList.contains('is-open'));
+  });
+
+  function sectionLabel(item){
+    return item.querySelector('span:last-child')?.textContent?.trim() || '';
+  }
+
+  function setActive(id){
+    items.forEach(function(item){
+      const active = item.dataset.target === id;
+      item.classList.toggle('is-active', active);
+      item.setAttribute('aria-current', active ? 'true' : 'false');
+      if(active) label.textContent = sectionLabel(item);
+    });
+  }
+
+  items.forEach(function(item){
+    item.addEventListener('click', function(event){
+      event.preventDefault();
+      const target = document.getElementById(item.dataset.target);
+      if(!target) return;
+
+      scrollLock = true;
+      clearTimeout(scrollLockTimer);
+      setActive(item.dataset.target);
+      setOpen(false);
+
+      target.scrollIntoView({
+        behavior: reduceMotion.matches ? 'auto' : 'smooth',
+        block: 'start'
+      });
+
+      if(history.pushState){
+        history.pushState(null, '', '#' + item.dataset.target);
+      }
+
+      scrollLockTimer = setTimeout(function(){
+        scrollLock = false;
+        updateActive();
+      }, reduceMotion.matches ? 0 : 700);
+    });
+  });
+
+  function updateVisibility(){
+    if(!article) return;
+    const rect = article.getBoundingClientRect();
+    const viewport = window.innerHeight || document.documentElement.clientHeight;
+    const mobile = window.matchMedia('(max-width: 900px)').matches;
+    const visible = mobile && rect.top <= 120 && rect.bottom >= viewport * 0.45;
+    widget.classList.toggle('is-visible', visible);
+    if(!visible && widget.classList.contains('is-open')) setOpen(false);
+  }
+
+  function updateProgress(){
+    if(!article) return;
+    const rect = article.getBoundingClientRect();
+    const viewport = window.innerHeight || document.documentElement.clientHeight;
+    const start = window.scrollY + rect.top;
+    const end = start + article.offsetHeight - viewport * 0.35;
+    const current = window.scrollY + viewport * 0.18;
+    const raw = end > start ? (current - start) / (end - start) : 0;
+    const progress = Math.min(1, Math.max(0, raw));
+    ring.style.strokeDasharray = circumference.toFixed(3);
+    ring.style.strokeDashoffset = (circumference * (1 - progress)).toFixed(3);
+  }
+
+  function updateActive(){
+    if(scrollLock) return;
+    const anchor = 120;
+    let active = items[0]?.dataset.target;
+
+    items.forEach(function(item){
+      const section = document.getElementById(item.dataset.target);
+      if(section && section.getBoundingClientRect().top <= anchor){
+        active = item.dataset.target;
+      }
+    });
+
+    if(active) setActive(active);
+  }
+
+  let ticking = false;
+  function onScroll(){
+    if(ticking) return;
+    ticking = true;
+    requestAnimationFrame(function(){
+      updateVisibility();
+      updateProgress();
+      updateActive();
+      ticking = false;
+    });
+  }
+
+  document.addEventListener('pointerdown', function(event){
+    if(widget.classList.contains('is-open') && !widget.contains(event.target)){
+      setOpen(false);
+    }
+  });
+
+  document.addEventListener('keydown', function(event){
+    if(event.key === 'Escape' && widget.classList.contains('is-open')){
+      setOpen(false);
+      toggle.focus();
+    }
+  });
+
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll);
+
+  updateVisibility();
+  updateProgress();
+  updateActive();
+})();
+</script>
+<script>
+(function(){
+  const list = document.getElementById('acx-hook-list');
+  if(!list) return;
+
+  const items = Array.from(list.querySelectorAll('.hook-item'));
+  const activeRail = document.getElementById('acx-hook-active');
+  const hoverRail = document.getElementById('acx-hook-hover');
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  let centers = [];
+  let activeIndex = 0;
+  let hoverIndex = null;
+  let pointerInside = false;
+  let focusInside = false;
+  let scrollLock = false;
+  let scrollLockTimer = null;
+
+  function measure(){
+    centers = items.map(function(item){
+      return item.offsetTop + item.offsetHeight / 2;
+    });
+    positionRail(activeRail, activeIndex, 0);
+    if(hoverIndex !== null) positionHoverRail();
+  }
+
+  function positionRail(rail, index, from){
+    const y = centers[index];
+    if(!rail || y == null) return;
+
+    const corner = rail.querySelector('.hook-rail-corner');
+    const segment = rail.querySelector('.hook-rail-segment');
+    const cornerSize = 6;
+
+    segment.style.top = from + 'px';
+    segment.style.height = Math.max(0, y - cornerSize - from) + 'px';
+    corner.style.top = (y - cornerSize) + 'px';
+  }
+
+  function positionHoverRail(){
+    if(hoverIndex === null){
+      hoverRail.hidden = true;
+      return;
+    }
+
+    const activeY = centers[activeIndex];
+    const hoverY = centers[hoverIndex];
+
+    if(activeY == null || hoverY == null){
+      hoverRail.hidden = true;
+      return;
+    }
+
+    const hoverFrom = hoverY <= activeY
+      ? Math.max(0, hoverY - 6)
+      : activeY;
+
+    hoverRail.hidden = false;
+    positionRail(hoverRail, hoverIndex, hoverFrom);
+  }
+
+  function setActive(index){
+    if(index < 0 || index >= items.length) return;
+    activeIndex = index;
+
+    items.forEach(function(item, i){
+      const active = i === index;
+      item.classList.toggle('is-active', active);
+      item.setAttribute('aria-current', active ? 'true' : 'false');
+    });
+
+    positionRail(activeRail, activeIndex, 0);
+    positionHoverRail();
+  }
+
+  function updateActiveFromScroll(){
+    if(scrollLock) return;
+
+    const anchor = 120;
+    let next = 0;
+
+    items.forEach(function(item, index){
+      const section = document.getElementById(item.dataset.target);
+      if(section && section.getBoundingClientRect().top <= anchor){
+        next = index;
+      }
+    });
+
+    if(next !== activeIndex) setActive(next);
+  }
+
+  items.forEach(function(item, index){
+    item.addEventListener('mouseenter', function(){
+      hoverIndex = index;
+      pointerInside = true;
+      if(index !== activeIndex) positionHoverRail();
+      else hoverRail.hidden = true;
+    });
+
+    item.addEventListener('focus', function(){
+      hoverIndex = index;
+      focusInside = true;
+      if(index !== activeIndex) positionHoverRail();
+      else hoverRail.hidden = true;
+    });
+
+    item.addEventListener('blur', function(){
+      focusInside = false;
+      if(!pointerInside) hoverRail.hidden = true;
+    });
+
+    item.addEventListener('click', function(event){
+      event.preventDefault();
+      const target = document.getElementById(item.dataset.target);
+      if(!target) return;
+
+      scrollLock = true;
+      clearTimeout(scrollLockTimer);
+      setActive(index);
+
+      target.scrollIntoView({
+        behavior: reduceMotion.matches ? 'auto' : 'smooth',
+        block: 'start'
+      });
+
+      if(history.pushState){
+        history.pushState(null, '', '#' + item.dataset.target);
+      }
+
+      scrollLockTimer = setTimeout(function(){
+        scrollLock = false;
+        updateActiveFromScroll();
+      }, reduceMotion.matches ? 0 : 700);
+    });
+  });
+
+  list.addEventListener('mouseleave', function(){
+    pointerInside = false;
+    if(!focusInside) hoverRail.hidden = true;
+  });
+
+  if('ResizeObserver' in window){
+    const ro = new ResizeObserver(measure);
+    ro.observe(list);
+    items.forEach(function(item){ ro.observe(item); });
+  }
+
+  window.addEventListener('resize', measure);
+  window.addEventListener('scroll', updateActiveFromScroll, {passive:true});
+
+  document.fonts?.ready?.then(measure).catch(function(){});
+
+  measure();
+  updateActiveFromScroll();
+})();
+</script>
+</body>
+</html>
