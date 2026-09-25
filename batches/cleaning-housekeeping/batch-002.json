@@ -9,7 +9,7 @@
     "ACX-KB-0009",
     "ACX-KB-0010"
   ],
-  "stage": "preview-ready",
+  "stage": "completed",
   "english": {
     "source_status": "complete",
     "editorial_status": "review",
@@ -30,7 +30,7 @@
     "article_count": 5
   },
   "preview": {
-    "status": "ready",
+    "status": "live",
     "pages": 10,
     "design": "locked Gold Standard article shell",
     "qa": {
@@ -48,5 +48,6 @@
     "HSE material supports wet-floor and slip-risk controls.",
     "OSHA/NIOSH material supports worker chemical-safety and training statements; it is US occupational guidance, not India-specific law."
   ],
-  "gate": "Do not mark Batch 002 live until English editorial review, Hindi translation review, Gold Standard rendering and responsive/navigation QA pass."
+  "gate": "Do not mark Batch 002 live until English editorial review, Hindi translation review, Gold Standard rendering and responsive/navigation QA pass.",
+  "completed_after_validation": true
 }
