@@ -1,0 +1,26 @@
+{
+  "article_id": "ACX-KB-0011",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "locked",
+  "translation_status": "source",
+  "title": "Deep Cleaning vs Routine Cleaning",
+  "slug": "deep-cleaning-vs-routine-cleaning",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Deep Cleaning",
+  "subcategory_slug": "deep-cleaning",
+  "excerpt": "Routine cleaning maintains everyday conditions; deep cleaning extends the scope, access, detail or intensity when a normal routine is not enough.",
+  "content_html": "<p>Routine cleaning and deep cleaning are not competing methods. They serve different purposes. Routine cleaning maintains the normal condition of a facility; deep cleaning extends the work when broader access, more detail or a reset is required.</p>\n<h2 id=\"key-differences\">Key differences</h2>\n<table class=\"data-table\"><thead><tr><th>Feature</th><th>Routine cleaning</th><th>Deep cleaning</th></tr></thead><tbody><tr><td>Purpose</td><td>Maintain normal cleanliness and control ordinary soil</td><td>Restore or reset areas beyond the normal routine scope</td></tr><tr><td>Frequency</td><td>Recurring, often daily or multiple times according to risk</td><td>Periodic or triggered by condition, event or operational need</td></tr><tr><td>Scope</td><td>Defined everyday tasks and priority surfaces</td><td>Expanded detail, low-touch areas, inaccessible spaces or accumulated residues</td></tr><tr><td>Access</td><td>Designed around normal building use</td><td>May require moving items, closing areas or using quieter periods</td></tr><tr><td>Time and labour</td><td>Predictable recurring workload</td><td>Usually more time, planning and detailed work</td></tr><tr><td>Verification</td><td>Routine checklist and inspection</td><td>Completion inspection against the defined deep-clean scope</td></tr></tbody></table>\n<h2 id=\"routine-cleaning-prevents-build-up\">Routine cleaning prevents build-up</h2>\n<p>A strong routine program removes ordinary soil before it becomes difficult to manage. It also creates visibility: when a recurring problem appears, staff can identify it early instead of waiting for a large periodic clean.</p>\n<h2 id=\"deep-cleaning-addresses-the-gaps\">Deep cleaning addresses the gaps</h2>\n<p>Some tasks cannot be completed efficiently every day. Low-touch surfaces, hidden areas and intensive detail work may be intentionally scheduled for longer intervals. Deep cleaning gives those tasks enough time and access.</p>\n<h2 id=\"neither-term-defines-disinfection\">Neither term defines disinfection</h2>\n<p>Routine and deep describe the scope and intensity of cleaning. They do not by themselves determine whether a disinfectant is required. That decision comes from the facility type, risk, product claim and applicable procedure.</p>\n<h2 id=\"how-the-two-programs-should-connect\">How the two programs should connect</h2>\n<p>Deep-clean findings should improve routine cleaning. If the same heavy residue appears every time, the daily or weekly method may need adjustment. Conversely, if the routine program is working well, deep cleaning can remain focused on genuinely periodic work instead of repairing everyday failures.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2>\n<p>Use routine cleaning to maintain the facility; use deep cleaning to extend the scope when the routine cannot reasonably cover a task. Define both clearly so staff know which work belongs where.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a></li></ol>",
+  "seo_title": "Deep Cleaning vs Routine Cleaning | Alle's ClinX Knowledge",
+  "meta_description": "Compare routine and deep cleaning by purpose, scope, frequency, access, labour and verification so each is used for the right facility need.",
+  "canonical_url": "https://allesclinx.com/library/cleaning-housekeeping/deep-cleaning/deep-cleaning-vs-routine-cleaning/",
+  "related_article_ids": [
+    "ACX-KB-0009",
+    "ACX-KB-0010",
+    "ACX-KB-0005"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}
