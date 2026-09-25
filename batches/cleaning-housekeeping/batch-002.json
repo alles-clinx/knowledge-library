@@ -1,0 +1,41 @@
+{
+  "batch_id": "batch-002",
+  "category": "Cleaning & Housekeeping",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0006",
+    "ACX-KB-0007",
+    "ACX-KB-0008",
+    "ACX-KB-0009",
+    "ACX-KB-0010"
+  ],
+  "stage": "english-review",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "review",
+    "qa": {
+      "canonical_identity": true,
+      "no_h1_in_content_html": true,
+      "no_css_or_js_in_content_html": true,
+      "unique_internal_ids": true,
+      "internal_hash_links_resolve": true,
+      "seo_titles_present": true,
+      "meta_descriptions_present": true,
+      "references_present": true
+    }
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "not-started"
+  },
+  "preview": {
+    "status": "not-live"
+  },
+  "source_notes": [
+    "CDC facility-cleaning guidance is used for general facility principles.",
+    "CDC/WHO healthcare cleaning guidance is explicitly labelled when principles are adapted outside healthcare.",
+    "HSE material supports wet-floor and slip-risk controls.",
+    "OSHA/NIOSH material supports worker chemical-safety and training statements; it is US occupational guidance, not India-specific law."
+  ],
+  "gate": "Do not mark Batch 002 live until English editorial review, Hindi translation review, Gold Standard rendering and responsive/navigation QA pass."
+}
