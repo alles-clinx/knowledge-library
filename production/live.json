@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "current_batch": "batch-001",
+  "current_batch": "batch-002",
   "live_article_ids": [
     "ACX-KB-0001",
     "ACX-KB-0002",
@@ -8,6 +8,8 @@
     "ACX-KB-0004",
     "ACX-KB-0005"
   ],
-  "completed_batches": [],
-  "note": "Batch 001 English content is editorially locked. Hindi variants remain in translation review. All five articles use the locked Gold Standard article UI."
+  "completed_batches": [
+    "batch-001"
+  ],
+  "note": "Batch 001 is locked. Batch 002 is active; only QA-passed article IDs belong in live_article_ids."
 }

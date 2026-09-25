@@ -92,7 +92,19 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
         errors.append(f"Language tabs incorrectly placed above hero: {page.relative_to(ROOT)}")
     if html.count('role="tablist"') != 2:
         errors.append(f"Language tablist count failure: {page.relative_to(ROOT)}")
-    if html.count('aria-selected="true"') != 2:
+    tablists=[]
+    pos=0
+    while True:
+        start=html.find('<nav aria-label="Article language"', pos)
+        if start < 0:
+            break
+        end=html.find('</nav>', start)
+        if end < 0:
+            errors.append(f"Malformed language tablist: {page.relative_to(ROOT)}")
+            break
+        tablists.append(html[start:end])
+        pos=end+6
+    if len(tablists) != 2 or any(block.count('aria-selected="true"') != 1 for block in tablists):
         errors.append(f"Language selected-tab count failure: {page.relative_to(ROOT)}")
 
 print(f"Categories: {len(cats)}")
