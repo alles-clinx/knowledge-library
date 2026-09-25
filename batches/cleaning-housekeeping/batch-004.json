@@ -9,7 +9,7 @@
     "ACX-KB-0019",
     "ACX-KB-0020"
   ],
-  "stage": "translation-review",
+  "stage": "completed",
   "english": {
     "source_status": "complete",
     "editorial_status": "locked"
@@ -20,7 +20,23 @@
     "article_count": 5
   },
   "preview": {
-    "status": "pending-render"
+    "status": "live",
+    "pages": 10,
+    "design": "locked Gold Standard article shell",
+    "qa": {
+      "one_h1": true,
+      "language_tabs": true,
+      "hook_targets_resolve": true,
+      "floating_progress_targets_resolve": true,
+      "duplicate_dom_ids": false,
+      "hook_runtime": true,
+      "compact_hero_scale": true
+    }
   },
-  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest."
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest.",
+  "validation": {
+    "structural_qa": true,
+    "pages_deployment_commit": "02169255fa402fa49fd43fe1d8980e35bf4f0740",
+    "pages_deployment": "success"
+  }
 }
