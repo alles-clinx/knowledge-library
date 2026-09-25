@@ -67,6 +67,15 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
     if total and inside != total:
         errors.append(f"Hook navigation containment failure: {page.relative_to(ROOT)} ({inside}/{total} items inside list)")
 
+
+# Hook runtime initialization: first item must be explicitly activated after layout.
+for page in (ROOT/"docs"/"library").rglob("*.html"):
+    html=page.read_text(encoding="utf-8")
+    if 'id="acx-hook-list"' not in html:
+        continue
+    if "let activeIndex = -1;" not in html or "updateActiveFromScroll(true);" not in html:
+        errors.append(f"Hook runtime initialization failure: {page.relative_to(ROOT)}")
+
 print(f"Categories: {len(cats)}")
 print(f"Subcategories: {len(subs)}")
 print(f"Articles: {len(ids)}")

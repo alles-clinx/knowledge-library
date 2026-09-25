@@ -1795,53 +1795,51 @@ html:not(.acx-js) .mobile-tools{
   const activeRail = document.getElementById('acx-hook-active');
   const hoverRail = document.getElementById('acx-hook-hover');
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  if(!items.length || !activeRail) return;
+
   let centers = [];
-  let activeIndex = 0;
+  let activeIndex = -1;
   let hoverIndex = null;
   let pointerInside = false;
   let focusInside = false;
   let scrollLock = false;
   let scrollLockTimer = null;
-
-  function measure(){
-    centers = items.map(function(item){
-      return item.offsetTop + item.offsetHeight / 2;
-    });
-    positionRail(activeRail, activeIndex, 0);
-    if(hoverIndex !== null) positionHoverRail();
-  }
+  let scrollTicking = false;
 
   function positionRail(rail, index, from){
+    if(!rail || index < 0) return;
     const y = centers[index];
-    if(!rail || y == null) return;
-
+    if(y == null) return;
     const corner = rail.querySelector('.hook-rail-corner');
     const segment = rail.querySelector('.hook-rail-segment');
+    if(!corner || !segment) return;
     const cornerSize = 6;
-
     segment.style.top = from + 'px';
     segment.style.height = Math.max(0, y - cornerSize - from) + 'px';
     corner.style.top = (y - cornerSize) + 'px';
   }
 
+  function measure(){
+    centers = items.map(function(item){
+      return item.offsetTop + item.offsetHeight / 2;
+    });
+    if(activeIndex >= 0) positionRail(activeRail, activeIndex, 0);
+    if(hoverIndex !== null) positionHoverRail();
+  }
+
   function positionHoverRail(){
-    if(hoverIndex === null){
+    if(!hoverRail) return;
+    if(hoverIndex === null || activeIndex < 0){
       hoverRail.hidden = true;
       return;
     }
-
     const activeY = centers[activeIndex];
     const hoverY = centers[hoverIndex];
-
     if(activeY == null || hoverY == null){
       hoverRail.hidden = true;
       return;
     }
-
-    const hoverFrom = hoverY <= activeY
-      ? Math.max(0, hoverY - 6)
-      : activeY;
-
+    const hoverFrom = hoverY <= activeY ? Math.max(0, hoverY - 6) : activeY;
     hoverRail.hidden = false;
     positionRail(hoverRail, hoverIndex, hoverFrom);
   }
@@ -1849,51 +1847,54 @@ html:not(.acx-js) .mobile-tools{
   function setActive(index){
     if(index < 0 || index >= items.length) return;
     activeIndex = index;
-
     items.forEach(function(item, i){
       const active = i === index;
       item.classList.toggle('is-active', active);
-      item.setAttribute('aria-current', active ? 'true' : 'false');
+      if(active) item.setAttribute('aria-current', 'true');
+      else item.removeAttribute('aria-current');
     });
-
     positionRail(activeRail, activeIndex, 0);
     positionHoverRail();
   }
 
-  function updateActiveFromScroll(){
-    if(scrollLock) return;
-
+  function currentIndexFromScroll(){
     const anchor = 120;
     let next = 0;
-
     items.forEach(function(item, index){
       const section = document.getElementById(item.dataset.target);
-      if(section && section.getBoundingClientRect().top <= anchor){
-        next = index;
-      }
+      if(section && section.getBoundingClientRect().top <= anchor) next = index;
     });
+    return next;
+  }
 
-    if(next !== activeIndex) setActive(next);
+  function updateActiveFromScroll(force){
+    if(scrollLock && !force) return;
+    const next = currentIndexFromScroll();
+    if(force || next !== activeIndex) setActive(next);
   }
 
   items.forEach(function(item, index){
     item.addEventListener('mouseenter', function(){
       hoverIndex = index;
       pointerInside = true;
-      if(index !== activeIndex) positionHoverRail();
-      else hoverRail.hidden = true;
+      if(hoverRail){
+        if(index !== activeIndex) positionHoverRail();
+        else hoverRail.hidden = true;
+      }
     });
 
     item.addEventListener('focus', function(){
       hoverIndex = index;
       focusInside = true;
-      if(index !== activeIndex) positionHoverRail();
-      else hoverRail.hidden = true;
+      if(hoverRail){
+        if(index !== activeIndex) positionHoverRail();
+        else hoverRail.hidden = true;
+      }
     });
 
     item.addEventListener('blur', function(){
       focusInside = false;
-      if(!pointerInside) hoverRail.hidden = true;
+      if(hoverRail && !pointerInside) hoverRail.hidden = true;
     });
 
     item.addEventListener('click', function(event){
@@ -1910,35 +1911,61 @@ html:not(.acx-js) .mobile-tools{
         block: 'start'
       });
 
-      if(history.pushState){
-        history.pushState(null, '', '#' + item.dataset.target);
+      if(history.replaceState){
+        history.replaceState(null, '', '#' + item.dataset.target);
       }
 
       scrollLockTimer = setTimeout(function(){
         scrollLock = false;
-        updateActiveFromScroll();
-      }, reduceMotion.matches ? 0 : 700);
+        updateActiveFromScroll(true);
+      }, reduceMotion.matches ? 0 : 750);
     });
   });
 
   list.addEventListener('mouseleave', function(){
     pointerInside = false;
-    if(!focusInside) hoverRail.hidden = true;
+    if(hoverRail && !focusInside) hoverRail.hidden = true;
   });
 
+  function onScroll(){
+    if(scrollTicking) return;
+    scrollTicking = true;
+    requestAnimationFrame(function(){
+      updateActiveFromScroll(false);
+      scrollTicking = false;
+    });
+  }
+
   if('ResizeObserver' in window){
-    const ro = new ResizeObserver(measure);
+    const ro = new ResizeObserver(function(){
+      measure();
+      updateActiveFromScroll(true);
+    });
     ro.observe(list);
     items.forEach(function(item){ ro.observe(item); });
   }
 
-  window.addEventListener('resize', measure);
-  window.addEventListener('scroll', updateActiveFromScroll, {passive:true});
+  window.addEventListener('resize', function(){
+    measure();
+    updateActiveFromScroll(true);
+  });
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('hashchange', function(){
+    measure();
+    updateActiveFromScroll(true);
+  });
 
-  document.fonts?.ready?.then(measure).catch(function(){});
+  requestAnimationFrame(function(){
+    measure();
+    updateActiveFromScroll(true);
+  });
 
-  measure();
-  updateActiveFromScroll();
+  if(document.fonts && document.fonts.ready){
+    document.fonts.ready.then(function(){
+      measure();
+      updateActiveFromScroll(true);
+    }).catch(function(){});
+  }
 })();
 </script>
 </body>
