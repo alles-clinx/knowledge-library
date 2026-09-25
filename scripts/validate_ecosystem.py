@@ -77,20 +77,23 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
         errors.append(f"Hook runtime initialization failure: {page.relative_to(ROOT)}")
 
 
-# Language tab control: bilingual article pages use the locked two-tab segmented switch.
+# Language tab control: desktop and mobile switches sit above share tools, not in the hero.
 for page in (ROOT/"docs"/"library").rglob("*.html"):
     html=page.read_text(encoding="utf-8")
-    if 'class="language-switch"' not in html:
+    if 'class="language-switch' not in html:
         continue
-    start=html.find('class="language-switch"')
-    end=html.find("</nav>", start)
-    block=html[start:end]
-    if 'role="tablist"' not in block:
-        errors.append(f"Language tablist missing: {page.relative_to(ROOT)}")
-    if block.count('role="tab"') != 2:
-        errors.append(f"Language tab count failure: {page.relative_to(ROOT)}")
-    if block.count('aria-selected="true"') != 1:
-        errors.append(f"Language selected-tab failure: {page.relative_to(ROOT)}")
+    if html.count('class="language-switch rail-language-switch"') != 1:
+        errors.append(f"Desktop language tabs missing/duplicated: {page.relative_to(ROOT)}")
+    if html.count('class="language-switch mobile-language-switch"') != 1:
+        errors.append(f"Mobile language tabs missing/duplicated: {page.relative_to(ROOT)}")
+    main=html.find('<main class="page">')
+    head=html.find('<header class="article-head">')
+    if main >= 0 and head > main and 'language-switch' in html[main:head]:
+        errors.append(f"Language tabs incorrectly placed above hero: {page.relative_to(ROOT)}")
+    if html.count('role="tablist"') != 2:
+        errors.append(f"Language tablist count failure: {page.relative_to(ROOT)}")
+    if html.count('aria-selected="true"') != 2:
+        errors.append(f"Language selected-tab count failure: {page.relative_to(ROOT)}")
 
 print(f"Categories: {len(cats)}")
 print(f"Subcategories: {len(subs)}")
