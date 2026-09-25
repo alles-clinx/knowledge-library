@@ -1,0 +1,27 @@
+{
+  "article_id": "ACX-KB-0017",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0017",
+  "title": "Cleaning Schedule vs Cleaning Checklist",
+  "slug": "cleaning-schedule-vs-cleaning-checklist",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Cleaning Schedules",
+  "subcategory_slug": "cleaning-schedules",
+  "excerpt": "Cleaning schedule बताता है क्या और कितनी बार होना है; cleaning checklist staff को due tasks execute या verify करने में मदद करती है।",
+  "content_html": "<p>Cleaning schedule और cleaning checklist अक्सर साथ use होते हैं, लेकिन वे same चीज नहीं हैं। Schedule recurring plan define करता है। Checklist due work की execution और verification support करती है।</p>\n<h2 id=\"hi17-schedule\">Schedule क्या करता है</h2><p>Schedule planning questions answer करता है: क्या clean होना है, कितनी बार, किस method से और responsibility किसकी है। इसमें daily, weekly, monthly और event-driven tasks शामिल हो सकते हैं।</p>\n<h2 id=\"hi17-checklist\">Checklist क्या करती है</h2><p>Checklist due work को shift, room या task के actionable list में translate करती है। यह omissions कम करती है और completion/inspection का record दे सकती है।</p>\n<h2 id=\"hi17-comparison\">Comparison</h2>\n<table class=\"data-table\"><thead><tr><th>Feature</th><th>Cleaning schedule</th><th>Cleaning checklist</th></tr></thead><tbody>\n<tr><td>Primary purpose</td><td>Recurring requirements plan करना</td><td>Task completion guide/record करना</td></tr>\n<tr><td>Time horizon</td><td>Ongoing programme</td><td>Specific shift, visit, area या inspection</td></tr>\n<tr><td>Main fields</td><td>Task, frequency, method, responsibility</td><td>Due tasks, completion, exceptions, sign-off</td></tr>\n<tr><td>Best use</td><td>Programme design और workload planning</td><td>Execution और verification</td></tr>\n<tr><td>Review trigger</td><td>Risk, use या condition changes</td><td>Task changes या recurring missed items</td></tr>\n</tbody></table>\n<h2 id=\"hi17-both\">दोनों useful क्यों हैं</h2><p>Schedule के बिना checklist arbitrary list बन सकती है जो नहीं बताती work क्यों या कब due है। Practical checklist के बिना schedule day-to-day execution के लिए too abstract हो सकता है। Together वे planning को action से connect करते हैं।</p>\n<h2 id=\"hi17-checkbox\">Checkbox-only management avoid करें</h2><p>Tick required outcome prove नहीं करता। Supervisors को recurring problem areas inspect करने चाहिए और staff के पास damage, access problems या missing supplies जैसी exceptions record करने का तरीका होना चाहिए।</p>\n<h2 id=\"hi17-takeaway\">Practical takeaway</h2><p>Schedule से work decide करें और checklist से उसे deliver/verify करें। दोनों aligned रखें ताकि staff को current cleaning plan से बाहर tasks complete करने को न कहा जाए।</p>\n<h2 id=\"hi17-references\">संदर्भ</h2><ol>\n<li id=\"hi17-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi17-ref-2\"><a href=\"https://www.hse.gov.uk/pubns/guidance/ofe1.pdf\">HSE — Cleaning schedule guidance</a>.</li></ol>",
+  "seo_title": "Cleaning Schedule vs Cleaning Checklist | Alle's ClinX",
+  "meta_description": "Cleaning schedule और checklist में अंतर, उनका use और strong housekeeping system में दोनों की role समझें।",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0016",
+    "ACX-KB-0018"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

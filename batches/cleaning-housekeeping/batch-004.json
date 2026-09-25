@@ -1,0 +1,26 @@
+{
+  "batch_id": "batch-004",
+  "category": "Cleaning & Housekeeping",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0016",
+    "ACX-KB-0017",
+    "ACX-KB-0018",
+    "ACX-KB-0019",
+    "ACX-KB-0020"
+  ],
+  "stage": "translation-review",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "locked"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "review",
+    "article_count": 5
+  },
+  "preview": {
+    "status": "pending-render"
+  },
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest."
+}

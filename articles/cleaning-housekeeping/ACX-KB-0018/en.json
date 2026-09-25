@@ -1,0 +1,25 @@
+{
+  "article_id": "ACX-KB-0018",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "locked",
+  "translation_status": "source",
+  "title": "What Is a Housekeeping Workflow?",
+  "slug": "what-is-a-housekeeping-workflow",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Housekeeping Workflows",
+  "subcategory_slug": "housekeeping-workflows",
+  "excerpt": "A housekeeping workflow is the organised sequence of people, tasks, tools and movement used to clean an area consistently from preparation through closeout.",
+  "content_html": "<p>A housekeeping workflow is the organised sequence used to complete cleaning work from preparation to closeout. It connects the cleaning schedule with the way staff actually move, use supplies, handle waste, clean surfaces and verify the area.</p>\n<h2 id=\"workflow-connects-the-parts\">Workflow connects the parts</h2><p>A facility may have good chemicals, good equipment and a good checklist but still lose time if the sequence is poorly designed. Repeated trips for supplies, crossing back through cleaned areas or unclear responsibility can make the same task slower and less consistent.</p>\n<h2 id=\"core-parts-of-a-workflow\">Core parts of a workflow</h2>\n<ol><li><strong>Prepare:</strong> review the task, gather supplies and identify hazards or access limits.</li><li><strong>Enter and assess:</strong> check the actual condition and deal with exceptions.</li><li><strong>Work systematically:</strong> use a repeatable route and suitable clean-to-dirty/high-to-low logic.</li><li><strong>Complete priority tasks:</strong> address scheduled surfaces and event-driven needs.</li><li><strong>Finish floors and reset:</strong> leave the area safe, dry and ready for use.</li><li><strong>Close out:</strong> clean or store equipment, remove waste correctly and record exceptions.</li></ol>\n<h2 id=\"workflow-reduces-variation\">Workflow reduces variation</h2><p>When the route and order are standardised, new staff can be trained more easily and supervisors can identify where the process broke down. A workflow also makes workload planning more realistic because travel, equipment handling and drying time become visible.</p>\n<h2 id=\"workflow-should-match-the-building\">Workflow should match the building</h2><p>The best route depends on entrances, exits, traffic, room layout, soil patterns, service windows and available storage. A generic workflow should therefore be adapted rather than copied blindly.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A housekeeping workflow answers: <strong>How will the work move through this area?</strong> Designing that movement is as important as listing the tasks themselves.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://iris.who.int/bitstream/handle/10665/366380/9789240051065-eng.pdf\">WHO — Environmental cleaning</a>.</li></ol>",
+  "seo_title": "What Is a Housekeeping Workflow? | Alle's ClinX Knowledge",
+  "meta_description": "Learn what a housekeeping workflow is and how preparation, sequencing, responsibilities, supplies and closeout turn tasks into a repeatable system.",
+  "related_article_ids": [
+    "ACX-KB-0019",
+    "ACX-KB-0015",
+    "ACX-KB-0006"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

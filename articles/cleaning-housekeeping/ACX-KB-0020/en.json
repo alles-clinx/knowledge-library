@@ -1,0 +1,25 @@
+{
+  "article_id": "ACX-KB-0020",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "locked",
+  "translation_status": "source",
+  "title": "Clean-to-Dirty and High-to-Low Cleaning Principles",
+  "slug": "clean-to-dirty-and-high-to-low-cleaning-principles",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Housekeeping Workflows",
+  "subcategory_slug": "housekeeping-workflows",
+  "excerpt": "Clean-to-dirty and high-to-low are sequencing principles that reduce recontamination: move toward dirtier areas, clean upper surfaces before lower ones, and finish floors later.",
+  "content_html": "<p>Clean-to-dirty and high-to-low are two sequencing principles used to reduce recontamination during cleaning. They do not tell you which chemical to use; they tell you how to move through a task so the process does not carry soil backward or drop debris onto finished work.</p>\n<h2 id=\"clean-to-dirty\">Clean to dirty</h2><p>Clean-to-dirty means starting with the cleaner part of the area or task and progressing toward the more contaminated part. WHO and CDC environmental-cleaning guidance use this principle to reduce the transfer of soil and microorganisms from dirtier zones onto cleaner surfaces.</p><p>The principle also affects cloth and tool management. If a cloth becomes heavily soiled, continuing to use it on cleaner surfaces defeats the sequence. Change or reprocess cleaning materials according to the facility procedure.</p>\n<h2 id=\"high-to-low\">High to low</h2><p>High-to-low means cleaning upper surfaces before lower ones. Dust, droplets and debris can fall during cleaning, so completing the floor first and then wiping shelves above it can create unnecessary rework.</p>\n<ul><li>Higher shelves before lower ledges.</li><li>Furniture surfaces before legs and bases.</li><li>Fixtures before the floor below them.</li><li>Floors near the end of the room sequence.</li></ul>\n<h2 id=\"use-a-systematic-path\">Use a systematic path</h2><p>The two principles work best with a repeatable route such as clockwise or left-to-right. A methodical path reduces missed areas and makes the process easier to train and inspect.</p>\n<h2 id=\"when-the-sequence-changes\">When the sequence changes</h2><p>An immediate safety problem can override the normal route. A spill, broken item or unusual contamination may need prompt control. The facility's specific procedure and sector requirements should always take priority over a generic sequence.</p>\n<h2 id=\"frequency-and-sequence-are-different\">Frequency and sequence are different</h2><p>High-touch surfaces often need more frequent cleaning, but they are not automatically the first thing cleaned in every room. Frequency is a scheduling decision; sequence is a process-flow decision.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Use clean-to-dirty to control the direction of contamination, high-to-low to control falling soil, and a systematic route to control omissions. Together they create a simple framework for more consistent housekeeping.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://iris.who.int/bitstream/handle/10665/366380/9789240051065-eng.pdf\">WHO — Environmental cleaning</a>.</li></ol>",
+  "seo_title": "Clean-to-Dirty and High-to-Low Cleaning Principles | Alle's ClinX",
+  "meta_description": "Learn how clean-to-dirty and high-to-low cleaning principles reduce recontamination and how to apply them systematically in facility housekeeping.",
+  "related_article_ids": [
+    "ACX-KB-0019",
+    "ACX-KB-0007",
+    "ACX-KB-0014"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

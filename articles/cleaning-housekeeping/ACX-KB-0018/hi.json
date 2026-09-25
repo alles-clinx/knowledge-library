@@ -1,0 +1,27 @@
+{
+  "article_id": "ACX-KB-0018",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0018",
+  "title": "Housekeeping workflow क्या है?",
+  "slug": "what-is-a-housekeeping-workflow",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Housekeeping Workflows",
+  "subcategory_slug": "housekeeping-workflows",
+  "excerpt": "Housekeeping workflow people, tasks, tools और movement का organised sequence है जो preparation से closeout तक cleaning को consistent बनाता है।",
+  "content_html": "<p>Housekeeping workflow वह organised sequence है जिससे cleaning work preparation से closeout तक complete होता है। यह cleaning schedule को staff की actual movement, supplies use, waste handling, surface cleaning और verification से connect करता है।</p>\n<h2 id=\"hi18-connects\">Workflow parts को connect करता है</h2><p>Facility के पास good chemicals, equipment और checklist हो सकते हैं, फिर भी poor sequence से time waste हो सकता है। Supplies के लिए repeated trips, cleaned areas से वापस crossing या unclear responsibility same task को slower और less consistent बना सकते हैं।</p>\n<h2 id=\"hi18-core\">Workflow के core parts</h2>\n<ol><li><strong>Prepare:</strong> task review करें, supplies gather करें और hazards/access limits identify करें।</li><li><strong>Enter and assess:</strong> actual condition check करें और exceptions handle करें।</li><li><strong>Work systematically:</strong> repeatable route और suitable clean-to-dirty/high-to-low logic use करें।</li><li><strong>Complete priority tasks:</strong> scheduled surfaces और event-driven needs address करें।</li><li><strong>Finish floors and reset:</strong> area safe, dry और ready for use छोड़ें।</li><li><strong>Close out:</strong> equipment clean/store करें, waste correctly remove करें और exceptions record करें।</li></ol>\n<h2 id=\"hi18-variation\">Workflow variation कम करता है</h2><p>Route और order standardised हों तो new staff training आसान होती है और supervisors process breakdown identify कर सकते हैं। Workflow workload planning को realistic बनाता है क्योंकि travel, equipment handling और drying time visible होते हैं।</p>\n<h2 id=\"hi18-building\">Workflow building के अनुसार होना चाहिए</h2><p>Best route entrances, exits, traffic, room layout, soil patterns, service windows और storage पर depend करता है। Generic workflow को adapt करना चाहिए, blindly copy नहीं।</p>\n<h2 id=\"hi18-takeaway\">Practical takeaway</h2><p>Housekeeping workflow का सवाल है: <strong>Work इस area में कैसे move करेगा?</strong> Movement design करना tasks list करने जितना ही important है।</p>\n<h2 id=\"hi18-references\">संदर्भ</h2><ol>\n<li id=\"hi18-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi18-ref-2\"><a href=\"https://iris.who.int/bitstream/handle/10665/366380/9789240051065-eng.pdf\">WHO — Environmental cleaning</a>.</li></ol>",
+  "seo_title": "Housekeeping workflow क्या है? | Alle's ClinX",
+  "meta_description": "Preparation, sequencing, responsibilities, supplies और closeout कैसे tasks को repeatable housekeeping workflow में बदलते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0019",
+    "ACX-KB-0015",
+    "ACX-KB-0006"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

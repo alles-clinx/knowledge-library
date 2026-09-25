@@ -1,0 +1,27 @@
+{
+  "article_id": "ACX-KB-0020",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0020",
+  "title": "Clean-to-Dirty और High-to-Low cleaning principles",
+  "slug": "clean-to-dirty-and-high-to-low-cleaning-principles",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Housekeeping Workflows",
+  "subcategory_slug": "housekeeping-workflows",
+  "excerpt": "Clean-to-dirty और high-to-low sequencing principles recontamination कम करते हैं: dirtier areas की ओर move करें, upper surfaces पहले और floors बाद में clean करें।",
+  "content_html": "<p>Clean-to-dirty और high-to-low दो sequencing principles हैं जो cleaning के दौरान recontamination कम करने के लिए use होते हैं। वे chemical नहीं चुनते; वे बताते हैं task में कैसे move करना है ताकि soil backward carry न हो और debris finished work पर न गिरे।</p>\n<h2 id=\"hi20-clean-to-dirty\">Clean to dirty</h2><p>Clean-to-dirty का मतलब cleaner part से start करके more contaminated part की ओर बढ़ना है। WHO और CDC environmental-cleaning guidance इस principle को dirtier zones से cleaner surfaces पर soil/microorganism transfer कम करने के लिए use करती है।</p><p>यह cloth/tool management पर भी apply होता है। Heavily soiled cloth को cleaner surfaces पर continue करना sequence को defeat करता है। Cleaning materials facility procedure के अनुसार change/reprocess करें।</p>\n<h2 id=\"hi20-high-to-low\">High to low</h2><p>High-to-low का मतलब upper surfaces को lower surfaces से पहले clean करना है। Dust, droplets और debris नीचे गिर सकते हैं, इसलिए floor पहले finish करके ऊपर की shelf बाद में wipe करना unnecessary rework बनाता है।</p>\n<ul><li>Higher shelves before lower ledges.</li><li>Furniture surfaces before legs and bases.</li><li>Fixtures before the floor below them.</li><li>Floors near the end of the room sequence.</li></ul>\n<h2 id=\"hi20-path\">Systematic path use करें</h2><p>दोनों principles clockwise या left-to-right जैसे repeatable route के साथ best work करते हैं। Methodical path missed areas कम करता है और process train/inspect करना आसान बनाता है।</p>\n<h2 id=\"hi20-changes\">Sequence कब बदल सकता है</h2><p>Immediate safety problem normal route override कर सकता है। Spill, broken item या unusual contamination को prompt control चाहिए हो सकता है। Facility का specific procedure और sector requirements generic sequence से priority लेते हैं।</p>\n<h2 id=\"hi20-frequency\">Frequency और sequence अलग decisions हैं</h2><p>High-touch surfaces को अधिक frequent cleaning चाहिए हो सकती है, लेकिन वे हर room में automatically first item नहीं हैं। Frequency scheduling decision है; sequence process-flow decision है।</p>\n<h2 id=\"hi20-takeaway\">Practical takeaway</h2><p>Clean-to-dirty contamination की direction control करता है, high-to-low falling soil control करता है, और systematic route omissions control करता है। Together वे more consistent housekeeping का simple framework बनाते हैं।</p>\n<h2 id=\"hi20-references\">संदर्भ</h2><ol>\n<li id=\"hi20-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi20-ref-2\"><a href=\"https://iris.who.int/bitstream/handle/10665/366380/9789240051065-eng.pdf\">WHO — Environmental cleaning</a>.</li></ol>",
+  "seo_title": "Clean-to-Dirty और High-to-Low principles | Alle's ClinX",
+  "meta_description": "Clean-to-dirty और high-to-low principles recontamination कैसे कम करते हैं और facility housekeeping में कैसे apply होते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0019",
+    "ACX-KB-0007",
+    "ACX-KB-0014"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

@@ -1,0 +1,25 @@
+{
+  "article_id": "ACX-KB-0016",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "locked",
+  "translation_status": "source",
+  "title": "How Cleaning Frequency Should Be Decided",
+  "slug": "how-cleaning-frequency-should-be-decided",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Cleaning Schedules",
+  "subcategory_slug": "cleaning-schedules",
+  "excerpt": "Cleaning frequency should be decided by risk, use and condition: touch frequency, traffic, contamination probability, user vulnerability, visible soil and sector requirements.",
+  "content_html": "<p>Cleaning frequency should be based on how quickly a surface or area can become unacceptable or risky, not on a single building-wide rule. The right interval can differ between two surfaces in the same room.</p>\n<h2 id=\"factor-touch-frequency\">Factor 1: Touch frequency</h2><p>Frequently handled surfaces generally need more frequent attention than surfaces with little hand contact. This is one reason high-touch points are separated from low-touch surfaces in cleaning guidance.</p>\n<h2 id=\"factor-traffic-and-use\">Factor 2: Traffic and use</h2><p>A lightly used meeting room and a busy public entrance accumulate soil at different rates. Occupancy, opening hours, weather and the type of activity all affect how often cleaning may be needed.</p>\n<h2 id=\"factor-probability-of-contamination\">Factor 3: Probability of contamination</h2><p>Areas exposed to food residues, washroom use, process dust, spills or other predictable contamination may need shorter intervals or event-driven cleaning in addition to the normal schedule.</p>\n<h2 id=\"factor-user-vulnerability\">Factor 4: User vulnerability</h2><p>In healthcare, CDC risk-assessment guidance explicitly includes patient vulnerability when determining cleaning frequency. Other sectors have their own requirements. A general facility should apply the regulations and standards relevant to its users and activities.</p>\n<h2 id=\"factor-visible-soil-and-condition\">Factor 5: Visible soil and condition</h2><p>A schedule is the minimum planned interval, not permission to leave an obviously dirty or unsafe surface until the next time slot. Spills and visible soil usually require prompt attention using the appropriate procedure.</p>\n<h2 id=\"factor-operational-and-sector-requirements\">Factor 6: Operational and sector requirements</h2><p>Food service, healthcare, childcare, manufacturing and other regulated environments can have specific hygiene requirements. Those rules take priority over generic housekeeping guidance.</p>\n<h2 id=\"use-a-simple-risk-review\">Use a simple risk review</h2>\n<table class=\"data-table\"><thead><tr><th>Question</th><th>If the answer increases risk</th></tr></thead><tbody>\n<tr><td>Is the surface touched often?</td><td>Consider a shorter cleaning interval</td></tr>\n<tr><td>Is the area heavily used?</td><td>Increase inspection or cleaning frequency</td></tr>\n<tr><td>Is contamination likely?</td><td>Use event-driven plus scheduled cleaning</td></tr>\n<tr><td>Are users more vulnerable?</td><td>Apply the relevant sector controls</td></tr>\n<tr><td>Does soil build up before the next clean?</td><td>Shorten the interval or improve the method</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Set frequency by evidence, then review it. If surfaces are consistently clean long before the next task, the schedule may be inefficient; if they become unacceptable between cleans, the frequency or method needs to change.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-a.html\">CDC — Appendix A risk assessment</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.hse.gov.uk/cleaning/topics/risk-assessment.htm\">HSE — Cleaning industry risk assessment</a>.</li></ol>",
+  "seo_title": "How Cleaning Frequency Should Be Decided | Alle's ClinX",
+  "meta_description": "Learn how to set cleaning frequency using touch, traffic, contamination risk, user vulnerability, visible soil, operational conditions and sector requirements.",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0017",
+    "ACX-KB-0014"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

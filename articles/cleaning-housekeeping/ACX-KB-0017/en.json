@@ -1,0 +1,25 @@
+{
+  "article_id": "ACX-KB-0017",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "locked",
+  "translation_status": "source",
+  "title": "Cleaning Schedule vs Cleaning Checklist",
+  "slug": "cleaning-schedule-vs-cleaning-checklist",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Cleaning Schedules",
+  "subcategory_slug": "cleaning-schedules",
+  "excerpt": "A cleaning schedule defines what must happen and how often; a cleaning checklist helps staff execute or verify the tasks that are due.",
+  "content_html": "<p>A cleaning schedule and a cleaning checklist are often combined, but they are not the same thing. The schedule defines the recurring plan. The checklist supports execution and verification of the work that is due.</p>\n<h2 id=\"what-the-schedule-does\">What the schedule does</h2><p>The schedule answers planning questions: what needs cleaning, how often, by which method and who is responsible. It may include daily, weekly, monthly and event-driven tasks.</p>\n<h2 id=\"what-the-checklist-does\">What the checklist does</h2><p>The checklist translates due work into an actionable list for a shift, room or task. It helps reduce omissions and can provide a record that the work was completed or inspected.</p>\n<h2 id=\"comparison\">Comparison</h2>\n<table class=\"data-table\"><thead><tr><th>Feature</th><th>Cleaning schedule</th><th>Cleaning checklist</th></tr></thead><tbody>\n<tr><td>Primary purpose</td><td>Plan recurring requirements</td><td>Guide or record task completion</td></tr>\n<tr><td>Time horizon</td><td>Ongoing program</td><td>Specific shift, visit, area or inspection</td></tr>\n<tr><td>Main fields</td><td>Task, frequency, method, responsibility</td><td>Tasks due, completion, exceptions, sign-off</td></tr>\n<tr><td>Best use</td><td>Program design and workload planning</td><td>Execution and verification</td></tr>\n<tr><td>Review trigger</td><td>Risk, use or condition changes</td><td>Task changes or recurring missed items</td></tr>\n</tbody></table>\n<h2 id=\"why-both-are-useful\">Why both are useful</h2><p>A checklist without a schedule can become an arbitrary list that does not explain why or when work is due. A schedule without a practical checklist can be too abstract for day-to-day execution. Together they connect planning with action.</p>\n<h2 id=\"avoid-checkbox-only-management\">Avoid checkbox-only management</h2><p>A tick does not prove that the required outcome was achieved. Supervisors still need to inspect recurring problem areas, and staff need a way to record exceptions such as damage, access problems or missing supplies.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Use the schedule to decide the work and the checklist to help deliver it. Keep both aligned so staff are never asked to complete tasks that are not part of the current cleaning plan.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.hse.gov.uk/pubns/guidance/ofe1.pdf\">HSE — Cleaning schedule guidance</a>.</li></ol>",
+  "seo_title": "Cleaning Schedule vs Cleaning Checklist | Alle's ClinX",
+  "meta_description": "Understand the difference between a cleaning schedule and checklist, how each is used, and why a strong housekeeping system normally needs both.",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0016",
+    "ACX-KB-0018"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

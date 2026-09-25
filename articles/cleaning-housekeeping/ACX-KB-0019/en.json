@@ -1,0 +1,26 @@
+{
+  "article_id": "ACX-KB-0019",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "locked",
+  "translation_status": "source",
+  "title": "How to Sequence Cleaning Tasks",
+  "slug": "how-to-sequence-cleaning-tasks",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Housekeeping Workflows",
+  "subcategory_slug": "housekeeping-workflows",
+  "excerpt": "Sequence cleaning tasks so the process does not undo itself: assess first, prepare supplies, work clean-to-dirty and high-to-low, use a systematic route and clean floors near the end.",
+  "content_html": "<p>Good task sequencing reduces rework and the chance of moving soil onto a surface that has already been cleaned. The exact route varies by room, but the underlying logic can be standardised.</p>\n<h2 id=\"step-1-assess\">Step 1: Assess</h2><p>Check for spills, heavy soil, hazards, damage, access problems and tasks that require a different procedure. An urgent hazard can change the normal sequence.</p>\n<h2 id=\"step-2-prepare\">Step 2: Prepare</h2><p>Gather the approved products, cloths, tools, waste materials and signs needed for the area. Confirm equipment is in working condition and that the method matches the surface.</p>\n<h2 id=\"step-3-remove-obvious-obstacles\">Step 3: Remove obvious obstacles</h2><p>Handle waste, loose debris and movable items according to the facility procedure so they do not interfere with the cleaning route. Avoid creating unnecessary cross-traffic through cleaned areas.</p>\n<h2 id=\"step-4-clean-to-dirty\">Step 4: Work cleaner to dirtier</h2><p>Start with the cleaner part of the task and progress toward dirtier surfaces or zones. Change cloths, tools or solution as required so soil is not carried backward through the workflow.</p>\n<h2 id=\"step-5-work-high-to-low\">Step 5: Work high to low</h2><p>Clean higher surfaces before lower ones so falling dust or debris does not contaminate finished work. Floors are generally left until later in the sequence.</p>\n<h2 id=\"step-6-follow-a-systematic-route\">Step 6: Follow a systematic route</h2><p>A clockwise, left-to-right or other repeatable pattern helps prevent omissions. Choose one route that fits the room and train staff to use it consistently.</p>\n<h2 id=\"step-7-finish-and-verify\">Step 7: Finish and verify</h2><p>Complete floor care, allow safe drying, reset the area, return equipment for cleaning or storage and inspect the result against the task standard.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Sequence should make the process flow in one direction. If staff repeatedly walk back through finished areas or clean the same surface twice, the workflow should be redesigned.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://iris.who.int/bitstream/handle/10665/366380/9789240051065-eng.pdf\">WHO — Environmental cleaning</a>.</li></ol>",
+  "seo_title": "How to Sequence Cleaning Tasks | Alle's ClinX Knowledge",
+  "meta_description": "Learn a systematic way to sequence cleaning tasks using assessment, preparation, clean-to-dirty, high-to-low, touchpoint cleaning, floors and closeout.",
+  "related_article_ids": [
+    "ACX-KB-0018",
+    "ACX-KB-0020",
+    "ACX-KB-0006",
+    "ACX-KB-0007"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

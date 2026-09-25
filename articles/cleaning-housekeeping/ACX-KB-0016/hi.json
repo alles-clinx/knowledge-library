@@ -1,0 +1,27 @@
+{
+  "article_id": "ACX-KB-0016",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0016",
+  "title": "Cleaning frequency कैसे तय करनी चाहिए",
+  "slug": "how-cleaning-frequency-should-be-decided",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Cleaning Schedules",
+  "subcategory_slug": "cleaning-schedules",
+  "excerpt": "Cleaning frequency risk, use और condition से तय होनी चाहिए: touch frequency, traffic, contamination probability, user vulnerability, visible soil और sector requirements।",
+  "content_html": "<p>Cleaning frequency एक building-wide fixed rule से तय नहीं होनी चाहिए। सही interval इस बात पर depend करता है कि surface या area कितनी जल्दी unacceptable या risky condition में पहुँच सकता है। Same room की दो surfaces की frequency अलग हो सकती है।</p>\n<h2 id=\"hi16-touch-frequency\">Factor 1: Touch frequency</h2><p>Frequently handled surfaces को little-hand-contact surfaces की तुलना में अधिक attention चाहिए हो सकती है। यही कारण है कि high-touch points को low-touch surfaces से अलग plan किया जाता है।</p>\n<h2 id=\"hi16-traffic\">Factor 2: Traffic और use</h2><p>Lightly used meeting room और busy public entrance अलग rate से soil accumulate करते हैं। Occupancy, opening hours, weather और activity type frequency को affect करते हैं।</p>\n<h2 id=\"hi16-contamination\">Factor 3: Contamination probability</h2><p>Food residues, washroom use, process dust, spills या predictable contamination वाले areas को shorter intervals या normal schedule के साथ event-driven cleaning चाहिए हो सकती है।</p>\n<h2 id=\"hi16-vulnerability\">Factor 4: User vulnerability</h2><p>Healthcare में CDC risk-assessment guidance cleaning frequency तय करते समय patient vulnerability को include करती है। Other sectors की अपनी requirements होती हैं। General facility को अपने users और activities पर applicable rules follow करने चाहिए।</p>\n<h2 id=\"hi16-visible-soil\">Factor 5: Visible soil और condition</h2><p>Schedule minimum planned interval है; visibly dirty या unsafe surface को next slot तक छोड़ने की permission नहीं। Spills और visible soil को appropriate procedure से prompt attention चाहिए।</p>\n<h2 id=\"hi16-sector\">Factor 6: Operational और sector requirements</h2><p>Food service, healthcare, childcare, manufacturing और other regulated environments में specific hygiene requirements हो सकती हैं। वे generic housekeeping guidance से priority लेती हैं।</p>\n<h2 id=\"hi16-risk-review\">Simple risk review</h2>\n<table class=\"data-table\"><thead><tr><th>Question</th><th>Risk बढ़े तो</th></tr></thead><tbody>\n<tr><td>Surface बहुत touch होती है?</td><td>Shorter cleaning interval consider करें</td></tr>\n<tr><td>Area heavily used है?</td><td>Inspection या cleaning frequency बढ़ाएँ</td></tr>\n<tr><td>Contamination likely है?</td><td>Scheduled + event-driven cleaning use करें</td></tr>\n<tr><td>Users more vulnerable हैं?</td><td>Relevant sector controls apply करें</td></tr>\n<tr><td>Next clean से पहले soil build-up होता है?</td><td>Interval shorten या method improve करें</td></tr>\n</tbody></table>\n<h2 id=\"hi16-takeaway\">Practical takeaway</h2><p>Frequency evidence से set करें और फिर review करें। Surface next task से बहुत पहले consistently clean रहती है तो schedule inefficient हो सकता है; cleans के बीच unacceptable हो जाए तो frequency या method बदलना चाहिए।</p>\n<h2 id=\"hi16-references\">संदर्भ</h2><ol>\n<li id=\"hi16-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi16-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-a.html\">CDC — Appendix A risk assessment</a>.</li>\n<li id=\"hi16-ref-3\"><a href=\"https://www.hse.gov.uk/cleaning/topics/risk-assessment.htm\">HSE — Cleaning industry risk assessment</a>.</li></ol>",
+  "seo_title": "Cleaning frequency कैसे तय करें | Alle's ClinX",
+  "meta_description": "Touch, traffic, contamination risk, user vulnerability, visible soil और sector requirements के आधार पर cleaning frequency तय करना समझें।",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0017",
+    "ACX-KB-0014"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}

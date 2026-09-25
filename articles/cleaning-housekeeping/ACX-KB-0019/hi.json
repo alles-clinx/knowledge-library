@@ -1,0 +1,28 @@
+{
+  "article_id": "ACX-KB-0019",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0019",
+  "title": "Cleaning tasks को sequence कैसे करें",
+  "slug": "how-to-sequence-cleaning-tasks",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "Housekeeping Workflows",
+  "subcategory_slug": "housekeeping-workflows",
+  "excerpt": "Cleaning tasks को ऐसे sequence करें कि process खुद को undo न करे: assess, prepare, clean-to-dirty, high-to-low, systematic route और floors near the end।",
+  "content_html": "<p>Good task sequencing rework और already-cleaned surface पर soil transfer होने की chance कम करता है। Exact route room के अनुसार बदलता है, लेकिन underlying logic standardise किया जा सकता है।</p>\n<h2 id=\"hi19-step1\">Step 1: Assess</h2><p>Spills, heavy soil, hazards, damage, access problems और अलग procedure मांगने वाले tasks check करें। Urgent hazard normal sequence बदल सकता है।</p>\n<h2 id=\"hi19-step2\">Step 2: Prepare</h2><p>Approved products, cloths, tools, waste materials और signs gather करें। Equipment working condition में हो और method surface से match करे।</p>\n<h2 id=\"hi19-step3\">Step 3: Obvious obstacles remove करें</h2><p>Waste, loose debris और movable items facility procedure के अनुसार handle करें ताकि route interfere न हो। Cleaned areas में unnecessary cross-traffic avoid करें।</p>\n<h2 id=\"hi19-step4\">Step 4: Cleaner to dirtier काम करें</h2><p>Cleaner part से start करके dirtier surfaces/zones की ओर जाएँ। Cloths, tools या solution जरूरत के अनुसार change करें ताकि soil backward carry न हो।</p>\n<h2 id=\"hi19-step5\">Step 5: High to low काम करें</h2><p>Higher surfaces को lower surfaces से पहले clean करें ताकि falling dust/debris finished work contaminate न करे। Floors सामान्यतः sequence में बाद में आते हैं।</p>\n<h2 id=\"hi19-step6\">Step 6: Systematic route follow करें</h2><p>Clockwise, left-to-right या अन्य repeatable pattern omissions कम करता है। Room के लिए suitable route चुनें और staff को consistently use करने की training दें।</p>\n<h2 id=\"hi19-step7\">Step 7: Finish और verify करें</h2><p>Floor care complete करें, safe drying allow करें, area reset करें, equipment cleaning/storage के लिए return करें और result task standard के against inspect करें।</p>\n<h2 id=\"hi19-takeaway\">Practical takeaway</h2><p>Sequence process को one-direction flow देना चाहिए। अगर staff repeatedly finished areas से वापस चलते हैं या same surface दो बार clean करते हैं, workflow redesign करें।</p>\n<h2 id=\"hi19-references\">संदर्भ</h2><ol>\n<li id=\"hi19-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi19-ref-2\"><a href=\"https://iris.who.int/bitstream/handle/10665/366380/9789240051065-eng.pdf\">WHO — Environmental cleaning</a>.</li></ol>",
+  "seo_title": "Cleaning tasks को sequence कैसे करें | Alle's ClinX",
+  "meta_description": "Assessment, preparation, clean-to-dirty, high-to-low, systematic route, floor care और closeout के साथ cleaning task sequence समझें।",
+  "related_article_ids": [
+    "ACX-KB-0018",
+    "ACX-KB-0020",
+    "ACX-KB-0006",
+    "ACX-KB-0007"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}
