@@ -9,7 +9,7 @@
     "ACX-KB-0009",
     "ACX-KB-0010"
   ],
-  "stage": "english-review",
+  "stage": "preview-ready",
   "english": {
     "source_status": "complete",
     "editorial_status": "review",
@@ -26,10 +26,21 @@
   },
   "translation": {
     "locale": "hi-IN",
-    "status": "not-started"
+    "status": "review",
+    "article_count": 5
   },
   "preview": {
-    "status": "not-live"
+    "status": "ready",
+    "pages": 10,
+    "design": "locked Gold Standard article shell",
+    "qa": {
+      "one_h1": true,
+      "language_tabs": true,
+      "hook_targets_resolve": true,
+      "floating_progress_targets_resolve": true,
+      "duplicate_dom_ids": false,
+      "locked_compact_hero_scale": true
+    }
   },
   "source_notes": [
     "CDC facility-cleaning guidance is used for general facility principles.",
