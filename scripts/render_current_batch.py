@@ -73,10 +73,14 @@ def render(template, article, locale):
     page = replace_required(page, r'<nav aria-label="Breadcrumb" class="breadcrumb">[\s\S]*?</nav>', breadcrumb, "breadcrumb")
 
     def lang_nav(css_class):
+        en_current = ' aria-current="page"' if is_en else ''
+        hi_current = ' aria-current="page"' if not is_en else ''
+        en_selected = 'true' if is_en else 'false'
+        hi_selected = 'false' if is_en else 'true'
         return (
             f'<nav aria-label="Article language" class="language-switch {css_class}" role="tablist">'
-            f'<a href="{base}"{" aria-current=\"page\"" if is_en else ""} role="tab" aria-selected="{"true" if is_en else "false"}" lang="en">English</a>'
-            f'<a href="{base}hi.html"{" aria-current=\"page\"" if not is_en else ""} role="tab" aria-selected="{"false" if is_en else "true"}" lang="hi">हिन्दी</a>'
+            f'<a href="{base}"{en_current} role="tab" aria-selected="{en_selected}" lang="en">English</a>'
+            f'<a href="{base}hi.html"{hi_current} role="tab" aria-selected="{hi_selected}" lang="hi">हिन्दी</a>'
             '</nav>'
         )
 
