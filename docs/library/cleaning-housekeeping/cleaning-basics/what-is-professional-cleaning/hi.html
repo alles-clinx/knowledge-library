@@ -1162,25 +1162,50 @@ html:not(.acx-js) .mobile-tools{
 
 /* ---------- locked additions: language + open knowledge ---------- */
 .language-switch{
-  display:flex;
+  display:inline-grid;
+  grid-template-columns:repeat(2,minmax(96px,1fr));
+  gap:3px;
   width:max-content;
-  gap:20px;
+  min-width:230px;
   margin:-22px 0 44px;
-  border-bottom:1px solid #bdbdbd;
+  padding:3px;
+  border:1px solid var(--black);
+  border-radius:11px;
+  background:#f3f3f3;
 }
 .language-switch a{
-  position:relative;
-  padding:0 0 9px;
+  min-height:38px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:0 16px;
+  border-radius:7px;
+  color:var(--black);
   font-size:13px;
-  line-height:1.2;
+  line-height:1;
+  font-weight:650;
   text-decoration:none;
+  white-space:nowrap;
+  transition:background-color .14s ease,color .14s ease,transform .14s ease;
 }
-.language-switch a[aria-current="true"]{font-weight:700}
-.language-switch a[aria-current="true"]::after{
-  content:"";
-  position:absolute;
-  left:0;right:0;bottom:-1px;
-  height:1px;background:#000;
+.language-switch a:hover{
+  background:#e7e7e7;
+}
+.language-switch a[aria-selected="true"]{
+  background:var(--black);
+  color:var(--white);
+  font-weight:750;
+}
+.language-switch a[aria-selected="true"]:hover{
+  background:var(--black);
+  color:var(--white);
+}
+.language-switch a:focus-visible{
+  outline:2px solid var(--black);
+  outline-offset:3px;
+}
+.language-switch a[aria-selected="true"]:focus-visible{
+  outline-color:var(--black);
 }
 .open-knowledge{
   max-width:760px;
@@ -1198,13 +1223,14 @@ html:not(.acx-js) .mobile-tools{
   .open-knowledge{margin-top:58px}
 }
 @media(max-width:390px){
-  .language-switch{margin:-8px 0 30px}
+  .language-switch{width:100%;min-width:0;margin:-8px 0 30px}
+  .language-switch a{padding:0 12px}
 }
 </style>
 </head>
 <body>
 <main class="page">
-<nav aria-label="Breadcrumb" class="breadcrumb"><a href="/knowledge-library/">Knowledge</a><span aria-hidden="true">/</span><a href="/knowledge-library/library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a><span aria-hidden="true">/</span><a href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/">Cleaning Basics</a><span aria-hidden="true">/</span><span aria-current="page" class="current">पेशेवर सफाई क्या है?</span></nav><nav aria-label="Language" class="language-switch"><a href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/" lang="en">English</a><a aria-current="true" href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/hi.html" lang="hi">हिन्दी</a></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb"><a href="/knowledge-library/">Knowledge</a><span aria-hidden="true">/</span><a href="/knowledge-library/library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a><span aria-hidden="true">/</span><a href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/">Cleaning Basics</a><span aria-hidden="true">/</span><span aria-current="page" class="current">पेशेवर सफाई क्या है?</span></nav><nav aria-label="Article language" class="language-switch" role="tablist"><a href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/"  role="tab" aria-selected="false" lang="en">English</a><a href="/knowledge-library/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/hi.html"  aria-current="page" role="tab" aria-selected="true" lang="hi">हिन्दी</a></nav>
 <header class="article-head">
 <h1>पेशेवर सफाई क्या है?</h1>
 <p class="deck">पेशेवर सफाई एक नियोजित और दोहराने योग्य प्रणाली है जिसमें scope, method, frequency, responsibility और verification को नियंत्रित करके किसी facility को उपयोग योग्य रखा जाता है।</p>

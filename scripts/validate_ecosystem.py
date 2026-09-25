@@ -76,6 +76,22 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
     if "let activeIndex = -1;" not in html or "updateActiveFromScroll(true);" not in html:
         errors.append(f"Hook runtime initialization failure: {page.relative_to(ROOT)}")
 
+
+# Language tab control: bilingual article pages use the locked two-tab segmented switch.
+for page in (ROOT/"docs"/"library").rglob("*.html"):
+    html=page.read_text(encoding="utf-8")
+    if 'class="language-switch"' not in html:
+        continue
+    start=html.find('class="language-switch"')
+    end=html.find("</nav>", start)
+    block=html[start:end]
+    if 'role="tablist"' not in block:
+        errors.append(f"Language tablist missing: {page.relative_to(ROOT)}")
+    if block.count('role="tab"') != 2:
+        errors.append(f"Language tab count failure: {page.relative_to(ROOT)}")
+    if block.count('aria-selected="true"') != 1:
+        errors.append(f"Language selected-tab failure: {page.relative_to(ROOT)}")
+
 print(f"Categories: {len(cats)}")
 print(f"Subcategories: {len(subs)}")
 print(f"Articles: {len(ids)}")
