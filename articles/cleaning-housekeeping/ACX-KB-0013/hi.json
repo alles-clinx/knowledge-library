@@ -1,0 +1,27 @@
+{
+  "article_id": "ACX-KB-0013",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0013",
+  "title": "High-touch cleaning क्यों महत्वपूर्ण है?",
+  "slug": "why-high-touch-cleaning-matters",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "High-Touch Cleaning",
+  "subcategory_slug": "high-touch-cleaning",
+  "excerpt": "High-touch cleaning important है क्योंकि frequently handled surfaces पर repeated contamination और transfer के अधिक opportunities होते हैं।",
+  "content_html": "<p>High-touch cleaning important है क्योंकि हर hand contact surface पर soil या microorganisms pick up या transfer करने का opportunity देता है। इसलिए frequently handled surface पर rarely touched surface की तुलना में repeated contamination के अधिक chances होते हैं।</p>\n<h2 id=\"hi13-contact-frequency\">Contact frequency exposure बदलती है</h2>\n<p>CDC high-touch surfaces को separate cleaning priority मानता है और उन्हें regularly clean करने की सलाह देता है। Healthcare guidance में high-touch surfaces को low-touch surfaces की तुलना में अधिक frequent और rigorous cleaning मिलती है क्योंकि potential exposure अधिक होता है।</p>\n<h2 id=\"hi13-small-high-priority\">Small surfaces भी high priority हो सकती हैं</h2>\n<p>Cleaning plans कभी-कभी floors जैसी large visible areas पर ज्यादा focus करती हैं और handles, switches तथा controls को underemphasise करती हैं। Visual size touch frequency का अच्छा proxy नहीं है। Useful schedule यह map करती है कि लोग क्या touch करते हैं, सिर्फ क्या बड़ा दिखता है यह नहीं।</p>\n<h2 id=\"hi13-clean-before-disinfection\">Disinfection से पहले cleaning soil कम करती है</h2>\n<p>जहाँ disinfection required हो, surface को सही cleaning preparation फिर भी चाहिए। Dirt और other impurities sanitising/disinfecting chemicals की effectiveness कम कर सकती हैं।</p>\n<h2 id=\"hi13-not-constant-disinfection\">Priority का मतलब constant disinfection नहीं</h2>\n<p>High-touch surface को more frequent cleaning चाहिए हो सकती है, लेकिन इसका अर्थ हर cleaning event पर disinfectant use करना नहीं है। Required method facility type, illness event, product claim, local procedure और sector rules पर depend करता है।</p>\n<h2 id=\"hi13-verification\">Verification महत्वपूर्ण है</h2>\n<p>High-touch tasks miss होना आसान है क्योंकि बहुत से touchpoints छोटे होते हैं। उन्हें checklists, inspections और staff training में include करें। Building layout, equipment या traffic pattern change हो तो touchpoint map भी update करें।</p>\n<h2 id=\"hi13-practical\">Practical takeaway</h2>\n<p>High-touch cleaning prioritisation tool है। Frequently handled surfaces identify करें, use/risk के अनुसार frequency set करें और verify करें कि छोटे high-touch tasks larger low-touch tasks के बीच miss न हों।</p>\n<h2 id=\"hi13-references\">संदर्भ</h2><ol><li>CDC — When and How to Clean and Disinfect a Facility</li><li>CDC — Environmental Cleaning Procedures</li></ol>",
+  "seo_title": "High-touch cleaning क्यों महत्वपूर्ण है? | Alle's ClinX",
+  "meta_description": "Frequently touched surfaces को higher cleaning priority क्यों मिलती है और touch frequency, traffic, soil तथा risk cleaning plan को कैसे affect करते हैं।",
+  "related_article_ids": [
+    "ACX-KB-0012",
+    "ACX-KB-0014",
+    "ACX-KB-0002"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}
