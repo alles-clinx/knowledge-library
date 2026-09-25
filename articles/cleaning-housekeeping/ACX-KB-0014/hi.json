@@ -1,0 +1,27 @@
+{
+  "article_id": "ACX-KB-0014",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0014",
+  "title": "Facility में high-touch points कैसे पहचानें",
+  "slug": "how-to-identify-high-touch-points-in-a-facility",
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "subcategory": "High-Touch Cleaning",
+  "subcategory_slug": "high-touch-cleaning",
+  "excerpt": "High-touch points identify करने के लिए real hand contact, traffic, shared equipment और user behaviour observe करें, फिर list को periodically review करें।",
+  "content_html": "<p>Reliable high-touch list यह observe करने से बनती है कि लोग facility को वास्तव में कैसे use करते हैं। Generic checklists useful prompts हैं, लेकिन वे आपके building के specific doors, controls, latches, counters और shared equipment का actual hand contact नहीं देख सकतीं।</p>\n<h2 id=\"hi14-walk-route\">1. User route walk करें</h2>\n<p>Entry से exit तक staff, visitors या customers का path follow करें। Note करें कि movement के लिए क्या touch करना पड़ता है: doors, access controls, lifts, rails, switches, shared devices और service counters।</p>\n<h2 id=\"hi14-watch-task\">2. Room नहीं, task भी observe करें</h2>\n<p>Touchpoint workflow से create हो सकता है। Shared tools, printer controls, trolley handles, equipment buttons और cupboard pulls repeated contact receive कर सकते हैं भले surrounding room low traffic लगे।</p>\n<h2 id=\"hi14-separate-visible-soil\">3. Touch frequency और visible dirt अलग रखें</h2>\n<p>Surface clean दिख सकती है और फिर भी hundreds of times touch हुई हो सकती है। High-touch identification contact पर based है; visible soil अलग cleaning trigger है।</p>\n<h2 id=\"hi14-consider-users\">4. कौन use करता है यह consider करें</h2>\n<p>Many users द्वारा shared touchpoint single-user surface से higher priority हो सकता है। Vulnerable users वाली facilities या sector-specific hygiene rules वाली settings को more rigorous controls चाहिए हो सकते हैं।</p>\n<h2 id=\"hi14-record-rank\">5. Points record और rank करें</h2>\n<table class=\"data-table\"><thead><tr><th>Question</th><th>क्या record करें</th></tr></thead><tbody>\n<tr><td>कितनी बार touch होता है?</td><td>Low, moderate या high observed contact</td></tr>\n<tr><td>कितने लोग share करते हैं?</td><td>Single user, small team, public/shared</td></tr>\n<tr><td>Contamination likelihood?</td><td>Normal, elevated, visibly soiled या incident-driven</td></tr>\n<tr><td>Surface क्या है?</td><td>Material और compatibility considerations</td></tr>\n<tr><td>कौन-सी frequency चाहिए?</td><td>Facility-approved cleaning interval</td></tr>\n</tbody></table>\n<h2 id=\"hi14-review-list\">6. List review करें</h2>\n<p>High-touch maps permanent नहीं होतीं। Furniture move होता है, equipment बदलता है और traffic patterns shift करते हैं। Cleaners और frontline staff से feedback लें और evidence बदलने पर schedule update करें।</p>\n<h2 id=\"hi14-practical\">Practical takeaway</h2>\n<p>Best high-touch list local, observed और revisited होती है। Real behaviour से list बनाएं, फिर frequency, method और verification decide करें।</p>\n<h2 id=\"hi14-references\">संदर्भ</h2><ol><li>CDC — Environmental Cleaning Procedures</li><li>CDC — Appendix A risk assessment</li></ol>",
+  "seo_title": "Facility में high-touch points कैसे पहचानें | Alle's ClinX",
+  "meta_description": "Systematic walk-through से real hand contact, shared use, traffic और risk के आधार पर high-touch points identify करना सीखें।",
+  "related_article_ids": [
+    "ACX-KB-0012",
+    "ACX-KB-0013",
+    "ACX-KB-0016"
+  ],
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge"
+}
