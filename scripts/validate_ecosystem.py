@@ -49,6 +49,24 @@ for c in cats:
         if not p.exists():
             errors.append(f"Missing subcategory page: {p.relative_to(ROOT)}")
 
+
+# Hook navigation containment: article hook links must live inside #acx-hook-list.
+for page in (ROOT/"docs"/"library").rglob("*.html"):
+    html=page.read_text(encoding="utf-8")
+    marker='<div class="hook-list" id="acx-hook-list">'
+    if marker not in html:
+        continue
+    start=html.index(marker)
+    close=html.find("</div>", start)
+    nav_close=html.find("</nav>", start)
+    if close < 0 or nav_close < 0:
+        errors.append(f"Malformed hook navigation: {page.relative_to(ROOT)}")
+        continue
+    total=html.count('class="hook-item"')
+    inside=html[start:close].count('class="hook-item"')
+    if total and inside != total:
+        errors.append(f"Hook navigation containment failure: {page.relative_to(ROOT)} ({inside}/{total} items inside list)")
+
 print(f"Categories: {len(cats)}")
 print(f"Subcategories: {len(subs)}")
 print(f"Articles: {len(ids)}")
