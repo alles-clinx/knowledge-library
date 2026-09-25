@@ -1,0 +1,41 @@
+{
+  "batch_id": "batch-003",
+  "category": "Cleaning & Housekeeping",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0011",
+    "ACX-KB-0012",
+    "ACX-KB-0013",
+    "ACX-KB-0014",
+    "ACX-KB-0015"
+  ],
+  "stage": "completed",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "locked"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "review",
+    "article_count": 5
+  },
+  "preview": {
+    "status": "live",
+    "pages": 10,
+    "design": "locked Gold Standard article shell",
+    "qa": {
+      "one_h1": true,
+      "language_tabs": true,
+      "hook_targets_resolve": true,
+      "floating_progress_targets_resolve": true,
+      "duplicate_dom_ids": false,
+      "hook_runtime": true,
+      "compact_hero_scale": true
+    }
+  },
+  "validation": {
+    "structural_qa": true,
+    "pages_deployment_commit": "2b886b26ca37fb964d35669da45b1d34126c1648",
+    "pages_deployment": "success"
+  }
+}
