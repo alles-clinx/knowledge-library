@@ -2,14 +2,65 @@
   "batch_id": "cleaning-housekeeping-001",
   "category": "Cleaning & Housekeeping",
   "article_count": 5,
-  "article_ids": ["ACX-KB-0001","ACX-KB-0002","ACX-KB-0003","ACX-KB-0004","ACX-KB-0005"],
-  "articles": [
-    {"article_id":"ACX-KB-0001","path":"articles/cleaning-housekeeping/ACX-KB-0001/","locales":["en","hi-IN"]},
-    {"article_id":"ACX-KB-0002","path":"articles/cleaning-housekeeping/ACX-KB-0002/","locales":["en","hi-IN"]},
-    {"article_id":"ACX-KB-0003","path":"articles/cleaning-housekeeping/ACX-KB-0003/","locales":["en","hi-IN"]},
-    {"article_id":"ACX-KB-0004","path":"articles/cleaning-housekeeping/ACX-KB-0004/","locales":["en","hi-IN"]},
-    {"article_id":"ACX-KB-0005","path":"articles/cleaning-housekeeping/ACX-KB-0005/","locales":["en","hi-IN"]}
+  "article_ids": [
+    "ACX-KB-0001",
+    "ACX-KB-0002",
+    "ACX-KB-0003",
+    "ACX-KB-0004",
+    "ACX-KB-0005"
   ],
-  "status": "review",
-  "notes": "English source records are draft. Hindi records are translation-review. Publish only after editorial and rendering QA."
+  "articles": [
+    {
+      "article_id": "ACX-KB-0001",
+      "path": "articles/cleaning-housekeeping/ACX-KB-0001/",
+      "locales": [
+        "en",
+        "hi-IN"
+      ]
+    },
+    {
+      "article_id": "ACX-KB-0002",
+      "path": "articles/cleaning-housekeeping/ACX-KB-0002/",
+      "locales": [
+        "en",
+        "hi-IN"
+      ]
+    },
+    {
+      "article_id": "ACX-KB-0003",
+      "path": "articles/cleaning-housekeeping/ACX-KB-0003/",
+      "locales": [
+        "en",
+        "hi-IN"
+      ]
+    },
+    {
+      "article_id": "ACX-KB-0004",
+      "path": "articles/cleaning-housekeeping/ACX-KB-0004/",
+      "locales": [
+        "en",
+        "hi-IN"
+      ]
+    },
+    {
+      "article_id": "ACX-KB-0005",
+      "path": "articles/cleaning-housekeeping/ACX-KB-0005/",
+      "locales": [
+        "en",
+        "hi-IN"
+      ]
+    }
+  ],
+  "status": "preview-ready",
+  "notes": "English source records are draft. Hindi records are translation-review. Publish only after editorial and rendering QA.",
+  "english_status": "locked",
+  "hindi_status": "translation-review",
+  "preview_status": "live",
+  "live_article_ids": [
+    "ACX-KB-0001",
+    "ACX-KB-0002",
+    "ACX-KB-0003",
+    "ACX-KB-0004",
+    "ACX-KB-0005"
+  ]
 }
