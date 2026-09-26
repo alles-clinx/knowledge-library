@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0021",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0021",
+  "title": "Housekeeping shifts के बीच handover क्यों महत्वपूर्ण है",
+  "slug": "why-handover-matters-between-housekeeping-shifts",
+  "subcategory": "Housekeeping Workflows",
+  "subcategory_slug": "housekeeping-workflows",
+  "excerpt": "अच्छा housekeeping handover unfinished work, exceptions, hazards, access issues और priorities transfer करता है ताकि incoming shift बिना guesswork के काम जारी रख सके।",
+  "content_html": "<p>Housekeeping work shift boundary पर हमेशा neatly खत्म नहीं होता। कुछ rooms drying में हो सकते हैं, supplies कम हो सकती हैं, equipment unavailable हो सकता है और priority tasks open रह सकते हैं। Shift handover incoming team को यह changing situation clear करता है ताकि work बिना guesswork के continue हो सके।</p>\n<h2 id=\"hi21-continuity\">Handover continuity के लिए है</h2><p>HSE shift handover को task-relevant information का reliable transfer बताता है जब responsibility एक person या team से दूसरे को जाती है। Housekeeping में भी incoming shift को यह समझना चाहिए कि क्या complete हुआ, क्या बाकी है और क्या बदल गया है।</p>\n<h2 id=\"hi21-next-shift-needs\">Next shift को क्या जानना चाहिए</h2><ul>\n<li><strong>Outstanding tasks:</strong> incomplete, deferred या access का wait कर रहा work.</li>\n<li><strong>Exceptions:</strong> unusual soil, spills, damage, complaints या areas जो normal standard meet नहीं कर पाए.</li>\n<li><strong>Safety और access:</strong> wet floors, isolated areas, maintenance activity, locked rooms या अन्य restrictions.</li>\n<li><strong>Equipment और supplies:</strong> out-of-service machines, low stock, missing tools या reprocessing का wait कर रहे items.</li>\n<li><strong>Priority changes:</strong> events, occupancy changes, room turnover या instructions जो normal sequence बदलते हैं.</li>\n</ul>\n<h2 id=\"hi21-verbal-written\">Verbal और written handover साथ use करें</h2><p>HSE two-way handover और verbal + written communication दोनों recommend करता है। Short conversation incoming team को questions पूछने देता है; log या digital record outgoing team के जाने के बाद reference देता है। दोनों एक-दूसरे को support करें।</p>\n<h2 id=\"hi21-structure\">Simple housekeeping handover structure</h2><ol>\n<li><strong>Prepare:</strong> outgoing shift open work review करे और exceptions record करे.</li>\n<li><strong>Transfer:</strong> दोनों shifts priorities, hazards, access issues और incomplete tasks discuss करें.</li>\n<li><strong>Cross-check:</strong> incoming shift अपनी understanding confirm करे और critical records/areas check करे.</li>\n<li><strong>Accept responsibility:</strong> handover के end पर open work का ownership clear हो.</li>\n</ol>\n<h2 id=\"hi21-exceptions\">हर चीज़ नहीं, exceptions record करें</h2><p>Handover cleaning schedule की duplicate copy नहीं होना चाहिए। Schedule routine work define करता है। Handover उन चीज़ों पर focus करे जो normal plan से नहीं पता चलेंगी: incomplete work, unusual conditions, changed priorities और unresolved problems.</p>\n<h2 id=\"hi21-logs\">Checklists और logs से connect करें</h2><p>CDC guidance schedules, checklists, logs और job aids से consistent cleaning support करती है। Completion records बताते हैं क्या due था और क्या किया गया; handover records बताते हैं क्या बदला, क्या fail हुआ या क्या अभी attention मांगता है।</p>\n<h2 id=\"hi21-failures\">Common handover failures</h2><ul>\n<li>मान लेना कि next shift unfinished work खुद notice कर लेगी.</li>\n<li>“Check area” जैसे vague notes लिखना बिना issue explain किए.</li>\n<li>Problem report करना लेकिन follow-up responsibility clear न करना.</li>\n<li>ऐसी verbal information देना जो conversation के बाद भी important है लेकिन record नहीं करना.</li>\n<li>Routine information इतना भर देना कि important exceptions ढूँढना मुश्किल हो जाए.</li>\n</ul>\n<h2 id=\"hi21-takeaway\">Practical takeaway</h2><p>Useful handover तीन questions answer करे: <strong>क्या बदला? क्या अभी open है? Next shift को सबसे पहले किस पर act करना है?</strong> Information concise, specific और easy to cross-check रखें।</p>\n<h2 id=\"hi21-references\">संदर्भ</h2><ol>\n<li id=\"hi21-ref-1\"><a href=\"https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm\">HSE — Shift handover</a>.</li>\n<li id=\"hi21-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n</ol>",
+  "seo_title": "Housekeeping shift handover क्यों जरूरी है | Alle's ClinX",
+  "meta_description": "जानें housekeeping shift handover में क्या transfer होना चाहिए, verbal और written handover कैसे साथ काम करते हैं, और open tasks को visible कैसे रखें।",
+  "related_article_ids": [
+    "ACX-KB-0018",
+    "ACX-KB-0019",
+    "ACX-KB-0015"
+  ]
+}

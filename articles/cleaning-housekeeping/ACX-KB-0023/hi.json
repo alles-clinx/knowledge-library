@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0023",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0023",
+  "title": "Cleaning के बाद residue या streaks क्यों रह जाते हैं",
+  "slug": "why-cleaning-leaves-residue-or-streaks",
+  "subcategory": "Cleaning Troubleshooting",
+  "subcategory_slug": "cleaning-troubleshooting",
+  "excerpt": "Residue और streaks अक्सर incorrect dilution, overloaded cloths, required rinse miss होने, hard-water deposits, uneven application या product-surface mismatch जैसे process problems दिखाते हैं।",
+  "content_html": "<p>Residue और streaks useful troubleshooting clues हैं। वे अक्सर बताते हैं कि surface dry होने पर कुछ material पीछे रह गया या redistribute हुआ। कोई single universal “streak-free” method नहीं है; cause product, water, tools, surface और drying process पर depend करती है।</p>\n<h2 id=\"hi23-product\">Cause 1: Product ज्यादा है या dilution गलत है</h2><p>Cleaning solutions manufacturer instructions के अनुसार prepare होने चाहिए। CDC और WHO correct preparation और dilution पर जोर देते हैं। Specified से stronger solution ज्यादा material पीछे छोड़ सकती है और surface incompatibility का risk बढ़ा सकती है।</p>\n<h2 id=\"hi23-overloaded\">Cause 2: Cloth, mop या solution overloaded है</h2><p>Cloth या solution soil collect करते-करते additional material remove करने में कम effective हो सकता है। CDC cloth faces rotate करने और soiled cloth/solution change करने की सलाह देता है। Overloaded tool thin film surface पर फैला सकता है।</p>\n<h2 id=\"hi23-rinse\">Cause 3: Required rinse step miss हुआ</h2><p>कुछ products या procedures cleaning/disinfection के बाद rinse मांगते हैं; कुछ नहीं। Automatically rinse add करने की बजाय product और facility instructions follow करें। CDC यह भी बताता है कि जहाँ residues आगे की processing में interfere कर सकते हैं वहाँ adequate rinsing important है।</p>\n<h2 id=\"hi23-hard-water\">Cause 4: Hard water spots या film छोड़ रहा है</h2><p>USGS calcium और magnesium को water hardness के main contributors बताता है और hard water film, spots और scale छोड़ सकता है। Glass, polished fittings और reflective surfaces पर drying के बाद mineral residue ज्यादा visible हो सकता है।</p>\n<h2 id=\"hi23-drying\">Cause 5: Application या drying uneven है</h2><p>अगर एक area पर दूसरे से बहुत ज्यादा solution जाता है, या contaminated liquid edge पर push होकर dry होता है, visible lines रह सकती हैं। Systematically work करें, tool suitably damp रखें और task के दौरान clean cloth sections use करें।</p>\n<h2 id=\"hi23-mismatch\">Cause 6: Product और surface compatible नहीं हैं</h2><p>Dull या cloudy appearance हमेशा removable residue नहीं होती। CDC ऐसे products select करने को कहता है जो surface/equipment damage न करें। Controlled re-clean mark remove न करे तो stronger chemistry बढ़ाने से पहले finish change, etching या damage inspect करें।</p>\n<h2 id=\"hi23-check\">Practical check</h2><ol>\n<li>Correct product और dilution confirm करें.</li>\n<li>Clean cloth/mop और fresh solution use करें.</li>\n<li>Small test area systematically clean करें.</li>\n<li>Stated rinse requirement follow करें.</li>\n<li>Directed तरीके से dry करें या dry होने दें.</li>\n<li>Streaks रहें तो chemistry बदलने से पहले water quality और surface condition compare करें.</li>\n</ol>\n<h2 id=\"hi23-more-residue\">Residue को more residue से fix न करें</h2><p>Repeatedly more concentrate apply करने से problem worse हो सकती है। एक समय में एक variable बदलें ताकि dilution, tools, water, technique या surface में से responsible factor identify हो सके।</p>\n<h2 id=\"hi23-takeaway\">Practical takeaway</h2><p>Streaks अक्सर बताती हैं कि कुछ पीछे रह गया, unevenly move हुआ या surface alter हुई। Stronger chemical assume करने से पहले dilution, clean tools, required rinse और water quality check करें।</p>\n<h2 id=\"hi23-references\">संदर्भ</h2><ol>\n<li id=\"hi23-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi23-ref-2\"><a href=\"https://iris.who.int/bitstream/handle/10665/366380/9789240051065-eng.pdf\">WHO — Environmental cleaning</a>.</li>\n<li id=\"hi23-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/summary-recommendations.html\">CDC — Recommendations for Disinfection and Sterilization</a>.</li>\n<li id=\"hi23-ref-4\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Cleaning के बाद residue या streaks क्यों रहते हैं | Alle's ClinX",
+  "meta_description": "Dilution, cloth loading, rinsing, hard water, drying और product compatibility से residue/streaks कैसे बनते हैं और उन्हें कैसे troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0022",
+    "ACX-KB-0024",
+    "ACX-KB-0004"
+  ]
+}

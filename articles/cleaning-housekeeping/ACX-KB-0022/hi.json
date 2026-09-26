@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning & Housekeeping",
+  "category_slug": "cleaning-housekeeping",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0022",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0022",
+  "title": "Cleaning के बाद भी surface dirty क्यों दिखती है?",
+  "slug": "why-does-a-surface-still-look-dirty-after-cleaning",
+  "subcategory": "Cleaning Troubleshooting",
+  "subcategory_slug": "cleaning-troubleshooting",
+  "excerpt": "अगर cleaning के बाद भी surface dirty दिखती है, method बदलने से पहले removable soil, residue, mineral deposit, stain, finish damage और wear को अलग पहचानें।",
+  "content_html": "<p>Operator routine follow करे तब भी surface cleaning के बाद dirty दिख सकती है। Next step automatically “more chemical” नहीं होना चाहिए। पहले identify करें कि क्या बचा है। Soil, cleaning residue, mineral deposits, staining और permanent surface damage एक जैसे दिख सकते हैं लेकिन उनका response अलग होता है।</p>\n<h2 id=\"hi22-see\">जो दिख रहा है उसे पहले classify करें</h2><p>देखें remaining mark loose soil है, oily film है, dried residue है, mineral deposit है, material के अंदर stain है या surface condition में change है। CDC cleaning से पहले visual assessment और damaged surfaces report करने पर जोर देता है; damage हमेशा cleaning से ठीक नहीं होता।</p>\n<h2 id=\"hi22-method\">Cause 1: Soil और method match नहीं करते</h2><p>Cleaning products water और mechanical action के साथ soil remove या suspend करने में help करते हैं। CDC detergents को water और friction के साथ use करने की बात करता है, जबकि कुछ soils/materials के लिए specialised product चाहिए हो सकता है। Unsuitable method से repeated wiping भी appearance नहीं बदल सकती।</p>\n<h2 id=\"hi22-action\">Cause 2: Mechanical action कम है</h2><p>कुछ removable soil को surface limit के अंदर adequate wiping, agitation या scrubbing चाहिए। Quick pass soil wet कर सकता है लेकिन पूरी तरह lift नहीं करता। Compatibility check किए बिना force बढ़ाना finish damage कर सकता है।</p>\n<h2 id=\"hi22-redeposit\">Cause 3: Soil वापस redeposit हो रही है</h2><p>Dirty cloth, overloaded mop, contaminated solution या same cleaning face बार-बार use करने से soil remove होने की बजाय move हो सकती है। CDC fresh cloths, clean cloth surfaces use करने और soiled cloth/solution replace करने की सलाह देता है।</p>\n<h2 id=\"hi22-dilution\">Cause 4: Product preparation गलत है</h2><p>More concentrate हमेशा better नहीं होता। CDC के अनुसार cleaning और disinfectant solutions manufacturer instructions के अनुसार prepare होने चाहिए। Wrong dilution cleaning performance घटा सकती है, residue बढ़ा सकती है या surface damage का risk बढ़ा सकती है।</p>\n<h2 id=\"hi22-minerals\">Cause 5: Mineral deposit को ordinary soil समझ लिया गया है</h2><p>Hard water में dissolved calcium और magnesium होते हैं। USGS बताता है कि hard water film, spots और scale छोड़ सकता है। ये loose everyday soil जैसे नहीं हैं, इसलिए routine detergent wipe repeat करना पर्याप्त नहीं हो सकता।</p>\n<h2 id=\"hi22-damage\">Cause 6: Surface stained, worn या damaged है</h2><p>Scratches, etched areas, worn coatings और colour changes soil trap कर सकते हैं या light अलग reflect कर सकते हैं। Appropriate test clean के बाद mark रहे तो stronger chemistry या abrasion से पहले material condition inspect करें।</p>\n<h2 id=\"hi22-sequence\">Simple troubleshooting sequence</h2><ol>\n<li>Material और visible problem identify करें.</li>\n<li>Approved product, dilution और method check करें.</li>\n<li>Clean tools और fresh solution use करें.</li>\n<li>Adequate mechanical action के साथ small controlled test repeat करें.</li>\n<li>Product instructions में rinse या drying requirement check करें.</li>\n<li>Mark रहे तो routine soil की बजाय mineral deposit, stain या surface damage consider करें.</li>\n</ol>\n<h2 id=\"hi22-takeaway\">Practical takeaway</h2><p>Surface dirty दिखे तो process intensify करने से पहले diagnose करें। Safe troubleshooting cleaning failure, residue problem, water-quality issue और damaged surface को अलग पहचानने से शुरू होती है।</p>\n<h2 id=\"hi22-references\">संदर्भ</h2><ol>\n<li id=\"hi22-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi22-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi22-ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Cleaning के बाद surface dirty क्यों दिखती है? | Alle's ClinX",
+  "meta_description": "Soil type, method, mechanical action, dilution, redeposition, mineral deposits और surface damage check करके dirty-looking surfaces troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0023",
+    "ACX-KB-0024",
+    "ACX-KB-0004"
+  ]
+}
