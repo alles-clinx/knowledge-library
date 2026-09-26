@@ -107,6 +107,98 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
     if len(tablists) != 2 or any(block.count('aria-selected="true"') != 1 for block in tablists):
         errors.append(f"Language selected-tab count failure: {page.relative_to(ROOT)}")
 
+
+
+# Interaction contract: shared controls must be present and wired on every Gold Standard article page.
+interaction_pages=0
+for page in (ROOT/"docs"/"library").rglob("*.html"):
+    html=page.read_text(encoding="utf-8")
+    if 'id="article-content"' not in html or 'js-share-toggle' not in html:
+        continue
+    interaction_pages += 1
+    rel=page.relative_to(ROOT)
+
+    required_counts={
+        "js-share-toggle":2,
+        "js-save-toggle":2,
+        "js-text-toggle":2,
+        "js-share-popover":2,
+        "js-save-popover":2,
+        "js-text-popover":2,
+        "js-copy-link":2,
+        "js-smaller":2,
+        "js-larger":2,
+        "tool-status":2,
+    }
+    for token,minimum in required_counts.items():
+        count=html.count(token)
+        if count < minimum:
+            errors.append(f"Interaction control missing: {rel} ({token} {count}/{minimum})")
+
+    runtime_tokens=[
+        "setupToggle(btn,'.js-share-popover')",
+        "setupToggle(btn,'.js-save-popover')",
+        "setupToggle(btn,'.js-text-popover')",
+        "updateShareUrls();",
+        "applySize();",
+        "navigator.clipboard",
+        "window.print();",
+        "localStorage.setItem(sizeKey",
+        'id="acx-scroll-progress-toggle"',
+        "function updateActive()",
+    ]
+    for token in runtime_tokens:
+        if token not in html:
+            errors.append(f"Interaction runtime missing: {rel} ({token})")
+
+    section_ids=set(__import__("re").findall(r'<section(?:\s+class="[^"]*")?\s+id="([^"]+)"', html))
+    for target in __import__("re").findall(r'class="scroll-progress-item"[^>]*data-target="([^"]+)"', html):
+        if target not in section_ids:
+            errors.append(f"Scroll-progress target missing: {rel} -> #{target}")
+    for target in __import__("re").findall(r'class="hook-item"[^>]*data-target="([^"]+)"', html):
+        if target not in section_ids:
+            errors.append(f"Hook target missing: {rel} -> #{target}")
+
+    for button in __import__("re").findall(r'<button\b[^>]*>', html):
+        if 'type="button"' not in button and 'type="submit"' not in button:
+            errors.append(f"Button missing explicit type: {rel}: {button[:100]}")
+
+site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
+site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
+home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
+
+bad_shell_selector='.acx-site-header,.acx-bottom-brand,.acx-search-dialog,.acx-mobile-drawer{\n  display:block;\n  position:fixed;'
+if bad_shell_selector in site_css:
+    errors.append("Global shell CSS regression: header/search/brand incorrectly inherit drawer hidden-state rules")
+
+for token in [
+    ".acx-site-header{",
+    ".acx-site-header.is-scrolled{",
+    ".acx-search-button{",
+    ".acx-menu-button{",
+    ".acx-mobile-drawer.is-open{",
+    ".acx-search-dialog.is-open{",
+    ".acx-bottom-brand{",
+]:
+    if token not in site_css:
+        errors.append(f"Global shell style missing: {token}")
+
+for token in [
+    "menuBtn.addEventListener('click'",
+    "searchBtns.forEach(function(button){button.addEventListener('click',openSearch);})",
+    "closeBtn.addEventListener('click',closeSearch)",
+    "input.addEventListener('input',renderSearch)",
+    "loadRecords();",
+]:
+    if token not in site_js:
+        errors.append(f"Global shell interaction runtime missing: {token}")
+
+for token in ["data-slider-prev=", "data-slider-next=", "data-slider", "slider.addEventListener('scroll'", "button.addEventListener('click'"]:
+    if token not in home_html:
+        errors.append(f"Homepage interaction contract missing: {token}")
+
+print(f"Interaction article pages: {interaction_pages}")
+
 print(f"Categories: {len(cats)}")
 print(f"Subcategories: {len(subs)}")
 print(f"Articles: {len(ids)}")
