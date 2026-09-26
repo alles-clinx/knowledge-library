@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0075",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Professional Kitchen Cleaning Program?",
+  "slug": "what-is-a-professional-kitchen-cleaning-program",
+  "subcategory": "Kitchen Cleaning",
+  "subcategory_slug": "kitchen-cleaning",
+  "excerpt": "A professional kitchen cleaning program is a documented system that assigns what must be cleaned, when, by whom, by which method, how food-contact surfaces are sanitized, and how completion is verified.",
+  "content_html": "<p>A professional kitchen cleaning program is a controlled hygiene system for food-preparation areas, equipment, utensils and the physical environment. It defines responsibilities, methods, frequencies and verification so cleaning is repeatable rather than dependent on memory.</p>\n<h2 id=\"food-safety-focus\">Kitchen cleaning has a food-safety purpose</h2><p>Food-service cleaning is not only about appearance. The 2026 FDA Food Code treats clean food-contact surfaces, utensils and equipment as part of controlling contamination in retail and food service. Codex food-hygiene principles likewise call for cleaning programmes that cover areas, equipment, responsibilities, methods, frequencies and monitoring.</p>\n<h2 id=\"scope\">Define the full cleaning scope</h2><p>A useful program separates food-contact surfaces, nonfood-contact equipment surfaces, floors, walls, drains, waste zones and cleaning equipment. It also identifies items that need dismantling or access beyond routine wiping.</p>\n<h2 id=\"food-contact\">Food-contact surfaces need controlled cleaning and sanitizing</h2><p>Food-contact surfaces and utensils should be cleaned when contamination may have occurred and at the frequencies required by the applicable food code and operation. After cleaning and rinsing, sanitizing is performed where required before the surface returns to food use. Local regulations and product instructions determine the exact parameters.</p>\n<h2 id=\"frequency\">Use risk-based frequencies</h2><p>Frequency depends on what the surface contacts, the type of food, operating time, soil load and contamination risk. A cutting board used during active food preparation needs a different schedule from a wall or ceiling surface.</p>\n<h2 id=\"chemistry\">Control chemistry and tools</h2><p>Cleaning agents should match the soil and material. Store chemicals away from food, use them according to instructions, and keep tools clean and suitable for their assigned zones. Do not use stronger chemistry as a substitute for correct method or frequency.</p>\n<h2 id=\"verification\">Verify the result</h2><p>Verification can include visual inspection, checking that equipment was dismantled where required, confirming sanitizer-control measurements where applicable, reviewing records and checking that no food, residue or chemical film remains.</p>\n<h2 id=\"program-elements\">Minimum program elements</h2><ul>\n<li>Area, item or equipment name.</li>\n<li>Food-contact or nonfood-contact classification.</li>\n<li>Cleaning method and approved chemistry.</li>\n<li>Required sanitizing step where applicable.</li>\n<li>Frequency or condition trigger.</li>\n<li>Responsible role.</li>\n<li>Verification method.</li>\n<li>Corrective action for failed results.</li>\n</ul>\n<h2 id=\"regulatory-note\">Regulatory note</h2><p>The FDA Food Code is a model code, not a universal legal requirement. Food businesses should follow the food-safety rules adopted by their own jurisdiction and the equipment and chemical manufacturer's instructions.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A professional kitchen cleaning program converts hygiene expectations into assigned, repeatable and verifiable work. It should make clear what is cleaned, what is sanitized, how often, by whom and how the result is checked.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, full document</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex Alimentarius — General Principles of Food Hygiene (CXC 1-1969)</a>.</li>\n</ol>",
+  "seo_title": "What Is a Professional Kitchen Cleaning Program? | Alle's ClinX",
+  "meta_description": "Learn how a professional kitchen cleaning program defines scope, food-contact cleaning, sanitizing, frequency, responsibilities, verification and corrective action.",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0046",
+    "ACX-KB-0055"
+  ]
+}

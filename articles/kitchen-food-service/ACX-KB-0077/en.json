@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0077",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Separate Routine and Periodic Kitchen Cleaning",
+  "slug": "how-to-separate-routine-and-periodic-kitchen-cleaning",
+  "subcategory": "Kitchen Cleaning",
+  "subcategory_slug": "kitchen-cleaning",
+  "excerpt": "Routine kitchen cleaning controls contamination generated during normal operation; periodic cleaning covers less-accessible, slower-soiling or dismantled areas that still need defined frequencies and verification.",
+  "content_html": "<p>Kitchen cleaning becomes easier to manage when tasks are divided into routine and periodic work. Routine tasks control the contamination created during normal food preparation and service. Periodic tasks address slower-soiling, less-accessible or deeper-cleaning needs that do not require attention after every use.</p>\n<h2 id=\"routine\">What belongs in routine cleaning?</h2><p>Routine cleaning includes food-contact surfaces and utensils at the frequencies required by the operation, spill response, food-preparation surfaces, warewashing areas, touchpoints, waste handling and floors where soil accumulates during service.</p>\n<h2 id=\"periodic\">What belongs in periodic cleaning?</h2><p>Periodic work may include behind or beneath movable equipment, upper surfaces, ventilation-accessible areas, walls, shelving, caster assemblies, equipment interiors that require scheduled dismantling and other zones that soil more slowly.</p>\n<h2 id=\"frequency\">Do not use “periodic” to mean “whenever someone remembers”</h2><p>Codex cleaning-programme guidance calls for defined responsibilities, methods and frequencies. Each periodic task should therefore have a trigger such as weekly, monthly, operating-hours based, manufacturer specified or condition based.</p>\n<h2 id=\"food-contact\">Food-contact rules override a generic periodic schedule</h2><p>A surface cannot be moved to a weekly deep-clean list if food-safety rules require more frequent cleaning. The FDA Food Code includes specific triggers for food-contact surfaces, including changes in food use and contamination events.</p>\n<h2 id=\"access\">Use periodic cleaning to reach hidden soil</h2><p>Grease and food debris can accumulate behind guards, under equipment, around casters and inside removable components. Periodic plans should identify what must be moved, dismantled or isolated and who is authorized to do it.</p>\n<h2 id=\"verification\">Verify both programs</h2><p>Routine tasks need completion checks during operation; periodic tasks need evidence that the deeper scope was actually reached. Photos, checklists, supervisor review or equipment-specific sign-off can be used depending on the facility.</p>\n<h2 id=\"example\">Example split</h2><table class=\"data-table\"><thead><tr><th>Routine / operational</th><th>Periodic / deeper scope</th></tr></thead><tbody>\n<tr><td>Preparation tables and boards</td><td>Behind and beneath equipment</td></tr>\n<tr><td>Utensils and active food-contact equipment</td><td>Scheduled equipment dismantling</td></tr>\n<tr><td>Spills and contamination events</td><td>Upper ledges and slow-soiling surfaces</td></tr>\n<tr><td>Waste-contact and floor soil during service</td><td>Deep grease or inaccessible buildup</td></tr>\n<tr><td>Warewashing area housekeeping</td><td>Detailed equipment and storage-zone cleaning</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Routine and periodic cleaning are two parts of one program. Routine work controls today's operational contamination; periodic work prevents hidden or slower buildup from becoming tomorrow's hygiene failure.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — General Principles of Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "Routine vs Periodic Kitchen Cleaning | Alle's ClinX",
+  "meta_description": "Separate routine kitchen cleaning from periodic deeper cleaning without missing food-contact frequencies, hidden soil, equipment access or verification.",
+  "related_article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0010",
+    "ACX-KB-0015"
+  ]
+}

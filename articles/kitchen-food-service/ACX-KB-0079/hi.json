@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0079",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0079",
+  "title": "Manual warewashing क्या है?",
+  "slug": "what-is-manual-warewashing",
+  "subcategory": "Manual Dishwashing",
+  "subcategory_slug": "manual-dishwashing",
+  "excerpt": "Manual warewashing utensils/equipment की controlled hand-cleaning process है: preclean, wash, rinse, required sanitizing, फिर air-dry और protected storage।",
+  "content_html": "<p>Manual warewashing hand-operated process है जो approved mechanical warewashing machine use न होने पर utensils/equipment clean करने के लिए use होती है। Goal केवल visual cleanliness नहीं, बल्कि food soil, chemistry और microorganisms control करना है।</p>\n<h2 id=\"hi79-sequence\">Common model-code sequence</h2><p>2026 FDA Food Code washing, rinsing और sanitizing framework use करता है, with precleaning before wash and protected drying/storage afterward। Local adopted food code हमेशा govern करती है।</p>\n<h2 id=\"hi79-preclean\">1. Preclean</h2><p>Food debris scrape/drain/remove करें ताकि wash solution overload न हो। Heavy soil को appropriate presoaking/precleaning की जरूरत हो सकती है।</p>\n<h2 id=\"hi79-wash\">2. Wash</h2><p>Approved cleaner और required mechanical action से soil loosen/remove करें। Method utensil/equipment और soil type से match हो।</p>\n<h2 id=\"hi79-rinse\">3. Rinse</h2><p>Rinse loosened food debris और cleaning chemicals remove करती है before sanitizing। Dirty rinse process compromise कर सकती है।</p>\n<h2 id=\"hi79-sanitize\">4. Required sanitizing</h2><p>Cleaning/rinsing के बाद applicable food code और product/equipment instructions के अनुसार food-contact surfaces sanitize करें। Required test/measurement device use करें; smell/colour से control guess न करें।</p>\n<h2 id=\"hi79-dry\">5. Air-dry</h2><p>Items को applicable procedure के अनुसार air-dry होने दें। Uncontrolled towel clean utensil recontaminate कर सकती है।</p>\n<h2 id=\"hi79-store\">6. Protected storage</h2><p>Clean items को splash, dust, hands, waste और dirty equipment से protect करें। Wet nesting/stacking drying prevent कर सकती है।</p>\n<h2 id=\"hi79-sink\">Three-compartment sinks</h2><p>FDA Food Code model generally manual washing, rinsing और sanitizing के लिए three compartments provide करता है, approved alternatives के साथ। Specific facility को local rules follow करनी होंगी।</p>\n<h2 id=\"hi79-failures\">Common failures</h2><ul>\n<li>Precleaning skip करना.</li>\n<li>Dirty wash/rinse solution use करना.</li>\n<li>Compartments overload करना.</li>\n<li>Sanitizer setup/verification गलत होना.</li>\n<li>Clean/dirty items mix करना.</li>\n<li>Proper dry होने से पहले towel-dry/stack करना.</li>\n</ul>\n<h2 id=\"hi79-takeaway\">Practical takeaway</h2><p>Manual warewashing controlled sequence है: <strong>preclean → wash → rinse → required sanitize → air-dry → protected storage.</strong></p>\n<h2 id=\"hi79-references\">संदर्भ</h2><ol>\n<li id=\"hi79-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026, Chapter 4</a>.</li>\n<li id=\"hi79-ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi79-ref-3\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "Manual Warewashing | Alle's ClinX",
+  "meta_description": "Preclean, wash, rinse, required sanitizing, air-dry और protected storage के रूप में manual warewashing process समझें।",
+  "related_article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0046",
+    "ACX-KB-0023"
+  ]
+}

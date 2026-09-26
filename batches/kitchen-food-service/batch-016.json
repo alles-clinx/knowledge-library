@@ -1,0 +1,28 @@
+{
+  "batch_id": "batch-016",
+  "category": "Kitchen & Food-Service Hygiene",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0076",
+    "ACX-KB-0077",
+    "ACX-KB-0078",
+    "ACX-KB-0079"
+  ],
+  "stage": "review",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "review"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "review",
+    "article_count": 5
+  },
+  "preview": {
+    "status": "pending-render",
+    "pages": 10,
+    "design": "locked Gold Standard article shell"
+  },
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest."
+}

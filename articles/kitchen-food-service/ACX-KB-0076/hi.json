@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0076",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0076",
+  "title": "Kitchen cleaning general housekeeping से कैसे अलग है",
+  "slug": "how-kitchen-cleaning-differs-from-general-housekeeping",
+  "subcategory": "Kitchen Cleaning",
+  "subcategory_slug": "kitchen-cleaning",
+  "excerpt": "Kitchen cleaning अलग है क्योंकि food-contact surfaces, raw-to-ready-to-eat cross-contamination, sanitizing, food-safe chemical use और operating-time frequencies tighter controls मांगते हैं।",
+  "content_html": "<p>Kitchen cleaning और general housekeeping basic principles share करते हैं: soil remove करना, compatible tools/chemistry use करना और cross-contamination prevent करना। Food-service kitchen में extra food-safety controls जुड़ते हैं।</p>\n<h2 id=\"hi76-contact\">Food-contact surfaces standard बदलती हैं</h2><p>Desk या lobby floor mostly cleanliness/material condition से judge होती है। Food-contact surface को food contamination prevent करनी होती है। FDA Food Code food-contact surfaces/utensils की cleaning और applicable sanitizing control करता है।</p>\n<h2 id=\"hi76-cross\">Raw-to-ready-to-eat transitions matter करती हैं</h2><p>Equipment raw food से ready-to-eat food पर switch करे या contamination occur हो तो cleaning triggers activate होते हैं। Ordinary housekeeping में यह requirement normally नहीं होती।</p>\n<h2 id=\"hi76-frequency\">Operational frequencies tighter हो सकती हैं</h2><p>Continuously used food-contact equipment food type, temperature और risk के आधार पर operating day में multiple cleaning points मांग सकती है।</p>\n<h2 id=\"hi76-chemistry\">Food के आसपास chemical selection tighter है</h2><p>Cleaning/sanitizing chemicals intended food-service use के लिए suitable हों और food contaminate न करें। Residue/rinsing requirements खासकर food-contact surfaces पर important हैं।</p>\n<h2 id=\"hi76-tools\">Tools/zones segregate करें</h2><p>Raw prep, ready-to-eat prep, warewashing, waste और floor-cleaning activities contamination/chemistry एक-दूसरे में transfer न करें।</p>\n<h2 id=\"hi76-housekeeping\">General housekeeping फिर भी जरूरी है</h2><p>Floors, walls, ceilings, storage और nonfood-contact surfaces custodial care मांगते हैं, लेकिन cleaning food/clean utensils contaminate किए बिना होनी चाहिए।</p>\n<h2 id=\"hi76-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Area</th><th>General housekeeping</th><th>Food-service kitchen</th></tr></thead><tbody>\n<tr><td>Objective</td><td>Clean, safe, presentable environment</td><td>Environment + food contamination control</td></tr>\n<tr><td>Food-contact surfaces</td><td>Usually N/A</td><td>Controlled cleaning/sanitizing</td></tr>\n<tr><td>Triggers</td><td>Schedule/visible soil</td><td>Schedule + food-safety transitions</td></tr>\n<tr><td>Chemistry</td><td>Material/safety compatibility</td><td>Material/safety + food-contact suitability</td></tr>\n<tr><td>Verification</td><td>Condition/completion</td><td>Condition + food-safety controls</td></tr>\n</tbody></table>\n<h2 id=\"hi76-takeaway\">Practical takeaway</h2><p>Kitchen cleaning housekeeping + food-safety control है। Exposed food के जितना close surface होगा, उतना tighter frequency, sanitizing, chemistry, segregation और verification चाहिए।</p>\n<h2 id=\"hi76-references\">संदर्भ</h2><ol>\n<li id=\"hi76-ref-1\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi76-ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026 full document</a>.</li>\n<li id=\"hi76-ref-3\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "Kitchen Cleaning vs Housekeeping | Alle's ClinX",
+  "meta_description": "Food-contact surfaces, sanitizing, cross-contamination, frequency और chemical control के आधार पर kitchen cleaning और housekeeping compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0019",
+    "ACX-KB-0046"
+  ]
+}

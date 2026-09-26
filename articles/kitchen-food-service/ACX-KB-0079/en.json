@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0079",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Manual Warewashing?",
+  "slug": "what-is-manual-warewashing",
+  "subcategory": "Manual Dishwashing",
+  "subcategory_slug": "manual-dishwashing",
+  "excerpt": "Manual warewashing is the controlled hand-cleaning process for utensils and equipment: preclean, wash, rinse, sanitize where required, then air-dry and store without recontamination.",
+  "content_html": "<p>Manual warewashing is the hand-operated process used to clean utensils and equipment when an approved mechanical warewashing machine is not being used. Its purpose is not simply to make items look clean; the process controls food soil, cleaning chemicals and microorganisms before items return to food use.</p>\n<h2 id=\"model-code\">The common model-code sequence</h2><p>The 2026 FDA Food Code uses a three-stage manual warewashing framework—washing, rinsing and sanitizing—with precleaning before washing and protected drying/storage afterward. Many jurisdictions use similar principles, but facilities must follow their own adopted food code.</p>\n<h2 id=\"preclean\">1. Preclean</h2><p>Scrape, drain or otherwise remove food debris that would overload the wash solution. Heavily soiled items may need appropriate presoaking or additional precleaning so detergent can reach the surface.</p>\n<h2 id=\"wash\">2. Wash</h2><p>Wash with the approved cleaning agent and the mechanical action needed to loosen and remove soil. The method should match the utensil or equipment and the type of soil.</p>\n<h2 id=\"rinse\">3. Rinse</h2><p>Rinsing removes loosened food debris, abrasive material and cleaning chemicals before sanitizing. A dirty or detergent-loaded rinse step can undermine the process.</p>\n<h2 id=\"sanitize\">4. Sanitize where required</h2><p>After cleaning and rinsing, food-contact surfaces and utensils are sanitized using the approved method and parameters required by the applicable food code and sanitizer or equipment instructions. Use the required measuring or test device; do not estimate sanitizer control by smell or colour.</p>\n<h2 id=\"air-dry\">5. Air-dry</h2><p>Allow cleaned and sanitized items to air-dry as required by the applicable procedure. Towel-drying can recontaminate a clean utensil if the towel is not controlled for that purpose.</p>\n<h2 id=\"store\">6. Protect during storage</h2><p>Store clean items where splash, dust, hands, waste or dirty equipment cannot recontaminate them. Wet nesting or stacking can also prevent proper drying.</p>\n<h2 id=\"three-compartment\">About three-compartment sinks</h2><p>The FDA Food Code model generally provides for at least three sink compartments for manual washing, rinsing and sanitizing, with approved alternatives for special constraints. This is a model-code reference; local rules determine what a specific facility must provide.</p>\n<h2 id=\"common-failures\">Common manual-warewashing failures</h2><ul>\n<li>Skipping scraping or precleaning.</li>\n<li>Using dirty wash or rinse solution.</li>\n<li>Overloading sink compartments.</li>\n<li>Incorrect sanitizer setup or no verification.</li>\n<li>Mixing clean and dirty items.</li>\n<li>Towel-drying or stacking items before they are properly dry.</li>\n</ul>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Manual warewashing is a controlled sequence: <strong>preclean → wash → rinse → sanitize as required → air-dry → protected storage.</strong> Each step depends on the previous one being completed correctly.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — General Principles of Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "What Is Manual Warewashing? | Alle's ClinX Knowledge",
+  "meta_description": "Understand manual warewashing as a controlled preclean, wash, rinse, sanitize, air-dry and protected-storage process for food-service utensils and equipment.",
+  "related_article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0046",
+    "ACX-KB-0023"
+  ]
+}

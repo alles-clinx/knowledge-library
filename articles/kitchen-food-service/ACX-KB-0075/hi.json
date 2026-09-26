@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0075",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0075",
+  "title": "Professional kitchen cleaning program क्या है?",
+  "slug": "what-is-a-professional-kitchen-cleaning-program",
+  "subcategory": "Kitchen Cleaning",
+  "subcategory_slug": "kitchen-cleaning",
+  "excerpt": "Professional kitchen cleaning program documented system है जो define करता है क्या clean होगा, कब, किसके द्वारा, किस method से, food-contact surfaces कैसे sanitize होंगी और result कैसे verify होगा।",
+  "content_html": "<p>Professional kitchen cleaning program food-preparation areas, equipment, utensils और physical environment के लिए controlled hygiene system है। यह responsibilities, methods, frequencies और verification define करता है ताकि cleaning memory पर depend न करे।</p>\n<h2 id=\"hi75-purpose\">Kitchen cleaning का food-safety purpose है</h2><p>Food-service cleaning केवल appearance नहीं है। 2026 FDA Food Code clean food-contact surfaces, utensils और equipment को contamination control का हिस्सा मानता है। Codex भी documented cleaning programmes और monitoring पर जोर देता है।</p>\n<h2 id=\"hi75-scope\">Full cleaning scope define करें</h2><p>Food-contact surfaces, nonfood-contact equipment surfaces, floors, walls, drains, waste zones और cleaning equipment अलग identify करें। Dismantling या deeper access वाले items भी include करें।</p>\n<h2 id=\"hi75-contact\">Food-contact surfaces में controlled cleaning/sanitizing चाहिए</h2><p>Applicable food code और operation के अनुसार food-contact surfaces/utensils appropriate frequency पर clean हों। Cleaning/rinsing के बाद जहाँ required हो sanitizing करें। Exact parameters local rules और product instructions से लें।</p>\n<h2 id=\"hi75-frequency\">Risk-based frequency use करें</h2><p>Frequency food contact, food type, operating time, soil load और contamination risk पर depend करती है। Active-prep cutting board और wall का schedule same नहीं होना चाहिए।</p>\n<h2 id=\"hi75-chemistry\">Chemistry और tools control करें</h2><p>Cleaner soil/material से match करें। Chemicals food से separate store करें, instructions follow करें और assigned-zone tools clean रखें। Stronger chemistry correct method का substitute नहीं है।</p>\n<h2 id=\"hi75-verify\">Result verify करें</h2><p>Visual inspection, required dismantling, applicable sanitizer-control checks, records और residue-free result verification का हिस्सा हो सकते हैं।</p>\n<h2 id=\"hi75-elements\">Minimum elements</h2><ul>\n<li>Area/item/equipment name.</li>\n<li>Food-contact या nonfood-contact classification.</li>\n<li>Cleaning method/approved chemistry.</li>\n<li>Applicable sanitizing step.</li>\n<li>Frequency/condition trigger.</li>\n<li>Responsible role.</li>\n<li>Verification method.</li>\n<li>Failed result के लिए corrective action.</li>\n</ul>\n<h2 id=\"hi75-note\">Regulatory note</h2><p>FDA Food Code model code है, universal law नहीं। Facility को अपने jurisdiction के adopted food-safety rules और manufacturer instructions follow करने चाहिए।</p>\n<h2 id=\"hi75-takeaway\">Practical takeaway</h2><p>Professional program स्पष्ट करे क्या clean होगा, क्या sanitize होगा, कितनी बार, किसके द्वारा और result कैसे check होगा।</p>\n<h2 id=\"hi75-references\">संदर्भ</h2><ol>\n<li id=\"hi75-ref-1\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi75-ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026 full document</a>.</li>\n<li id=\"hi75-ref-3\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — General Principles of Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "Professional Kitchen Cleaning Program | Alle's ClinX",
+  "meta_description": "Scope, food-contact cleaning, sanitizing, frequency, responsibilities और verification के साथ professional kitchen cleaning program समझें।",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0046",
+    "ACX-KB-0055"
+  ]
+}

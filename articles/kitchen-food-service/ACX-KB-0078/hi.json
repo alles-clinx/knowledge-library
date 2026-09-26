@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0078",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0078",
+  "title": "Common kitchen cleaning failures और उनके causes",
+  "slug": "common-kitchen-cleaning-failures-and-what-causes-them",
+  "subcategory": "Kitchen Cleaning",
+  "subcategory_slug": "kitchen-cleaning",
+  "excerpt": "Kitchen cleaning failures जैसे greasy film, food debris, sanitizer failure, chemical residue, cross-contamination और hidden soil अक्सर process errors से आते हैं।",
+  "content_html": "<p>Kitchen cleaning failures अक्सर process failures होती हैं। Wrong dilution, missed precleaning, dirty solution, blocked spray या poor tool segregation को more scrubbing fix नहीं करती।</p>\n<h2 id=\"hi78-grease\">Failure 1: Greasy film remain करती है</h2><p><strong>Causes:</strong> wrong cleaner, insufficient action, overloaded solution, poor access या incomplete rinsing। Chemistry/method soil से match करें।</p>\n<h2 id=\"hi78-debris\">Failure 2: Equipment में food debris रह जाती है</h2><p><strong>Causes:</strong> poor scraping/precleaning, removable parts dismantle न करना, inaccessible corners या overloaded racks। Surfaces detergent/spray के लिए exposed हों।</p>\n<h2 id=\"hi78-sanitizer\">Failure 3: Sanitizer control out of range</h2><p><strong>Causes:</strong> incorrect setup, depleted chemical, water conditions, dosing fault या testing missing। Approved test device और manufacturer instructions use करें; smell से concentration guess न करें।</p>\n<h2 id=\"hi78-residue\">Failure 4: Chemical residue remain करती है</h2><p><strong>Causes:</strong> overdosing, poor rinse, dirty rinse water या solution dry होना। Wash के बाद rinse loose soil/chemistry remove करने के लिए important है।</p>\n<h2 id=\"hi78-cross\">Failure 5: Clean surface recontaminate होती है</h2><p><strong>Causes:</strong> dirty cloths, raw-to-ready-to-eat tool transfer, contaminated hands, wet stacking या clean utensils को dirty surface पर रखना।</p>\n<h2 id=\"hi78-hidden\">Failure 6: Hidden zones dirty रहती हैं</h2><p><strong>Causes:</strong> schedule visible surfaces तक limited है, equipment move/dismantle नहीं होता या periodic task owner/frequency missing है।</p>\n<h2 id=\"hi78-resoil\">Failure 7: Surface जल्दी resoil होती है</h2><p><strong>Causes:</strong> residue, poor grease removal, nearby contamination source, waste control issue, leak या operating process।</p>\n<h2 id=\"hi78-sequence\">Troubleshooting sequence</h2><ol>\n<li>Dry result में exact failure identify करें.</li>\n<li>Precleaning/access check करें.</li>\n<li>Cleaner, dilution और method verify करें.</li>\n<li>Tools/solution cleanliness check करें.</li>\n<li>Applicable rinse/sanitizing controls confirm करें.</li>\n<li>Post-cleaning recontamination inspect करें.</li>\n<li>Chemistry strength बढ़ाने से पहले process correct करें.</li>\n</ol>\n<h2 id=\"hi78-takeaway\">Practical takeaway</h2><p>Failure होने पर step identify करें: access, preclean, wash, rinse, sanitize, dry, store या recontamination prevention। Process correction harder cleaning से ज्यादा reliable है।</p>\n<h2 id=\"hi78-references\">संदर्भ</h2><ol>\n<li id=\"hi78-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi78-ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi78-ref-3\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "Kitchen Cleaning Failures | Alle's ClinX",
+  "meta_description": "Grease, food debris, sanitizer failure, residue, cross-contamination और hidden soil के process causes troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0023",
+    "ACX-KB-0049"
+  ]
+}

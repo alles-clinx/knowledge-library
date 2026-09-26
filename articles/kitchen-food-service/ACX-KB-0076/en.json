@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0076",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Kitchen Cleaning Differs from General Housekeeping",
+  "slug": "how-kitchen-cleaning-differs-from-general-housekeeping",
+  "subcategory": "Kitchen Cleaning",
+  "subcategory_slug": "kitchen-cleaning",
+  "excerpt": "Kitchen cleaning differs from general housekeeping because food-contact surfaces, raw-to-ready-to-eat cross-contamination, sanitizing, food-safe chemical use and operating-time cleaning frequencies require tighter controls.",
+  "content_html": "<p>Kitchen cleaning and general housekeeping share basic principles—remove soil, use compatible tools and chemicals, prevent cross-contamination and verify the result. The difference is that food-service kitchens add direct food-safety controls.</p>\n<h2 id=\"food-contact\">Food-contact surfaces change the standard</h2><p>A desk, corridor wall or lobby floor is generally judged by cleanliness and material condition. A food-contact surface must also be controlled so it does not contaminate food. The FDA Food Code requires food-contact surfaces and utensils to be clean and, after cleaning, sanitized before use where required.</p>\n<h2 id=\"cross-contamination\">Raw-to-ready-to-eat transitions matter</h2><p>Kitchen procedures must prevent contamination when equipment changes from raw foods to ready-to-eat foods or when contamination may have occurred. This creates cleaning triggers that do not exist in ordinary housekeeping.</p>\n<h2 id=\"frequency\">Operational cleaning frequencies can be tighter</h2><p>Food-contact equipment used continuously may need cleaning during the operating day based on food type, temperature and risk. General housekeeping more often uses area-based daily or periodic schedules.</p>\n<h2 id=\"chemicals\">Chemical selection is more restricted around food</h2><p>Cleaning and sanitizing chemicals must be suitable for their intended food-service use and handled so they do not contaminate food. Residue-control and rinsing requirements matter particularly on food-contact surfaces.</p>\n<h2 id=\"segregation\">Tools and zones require clear segregation</h2><p>Raw-food preparation, ready-to-eat preparation, warewashing, waste handling and floor cleaning should not transfer soil or chemicals into one another. Tool assignment and work sequence therefore become part of food-safety control.</p>\n<h2 id=\"housekeeping-still-matters\">General housekeeping still matters in kitchens</h2><p>Floors, walls, ceilings, storage areas and nonfood-contact surfaces still need normal custodial care. The key is that these tasks must be scheduled and performed without contaminating food, clean utensils or food-contact surfaces.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Area</th><th>General housekeeping</th><th>Food-service kitchen</th></tr></thead><tbody>\n<tr><td>Primary objective</td><td>Clean, safe, presentable environment</td><td>Clean environment plus food-contamination control</td></tr>\n<tr><td>Food-contact surfaces</td><td>Usually not applicable</td><td>Controlled cleaning and sanitizing requirements</td></tr>\n<tr><td>Cleaning triggers</td><td>Schedule and visible soil</td><td>Schedule, soil and food-safety transitions</td></tr>\n<tr><td>Chemical control</td><td>Material and safety compatibility</td><td>Material, safety and food-contact suitability</td></tr>\n<tr><td>Verification</td><td>Condition and completion</td><td>Condition, completion and food-safety controls</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Kitchen cleaning is housekeeping plus food-safety control. The closer a surface is to exposed food or utensils, the more tightly cleaning frequency, sanitizing, chemistry, tool segregation and verification must be managed.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — General Principles of Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "Kitchen Cleaning vs General Housekeeping | Alle's ClinX",
+  "meta_description": "Compare kitchen cleaning with general housekeeping across food-contact surfaces, sanitizing, cross-contamination, frequency, chemical control and verification.",
+  "related_article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0019",
+    "ACX-KB-0046"
+  ]
+}

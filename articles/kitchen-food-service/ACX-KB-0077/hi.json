@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0077",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0077",
+  "title": "Routine और periodic kitchen cleaning को कैसे separate करें",
+  "slug": "how-to-separate-routine-and-periodic-kitchen-cleaning",
+  "subcategory": "Kitchen Cleaning",
+  "subcategory_slug": "kitchen-cleaning",
+  "excerpt": "Routine kitchen cleaning normal operation की contamination control करती है; periodic cleaning less-accessible, slower-soiling या dismantled areas को defined schedule पर cover करती है।",
+  "content_html": "<p>Kitchen tasks routine और periodic work में divide करने से program manageable बनता है। Routine tasks normal food preparation/service की contamination control करती हैं; periodic tasks deeper/less-accessible needs cover करती हैं।</p>\n<h2 id=\"hi77-routine\">Routine cleaning में क्या आता है?</h2><p>Food-contact surfaces/utensils applicable frequency पर, spills, prep surfaces, warewashing areas, touchpoints, waste zones और service के दौरान soiled floors routine work हैं।</p>\n<h2 id=\"hi77-periodic\">Periodic cleaning में क्या आता है?</h2><p>Movable equipment के पीछे/नीचे, upper surfaces, accessible ventilation areas, walls, shelving, casters और scheduled dismantling वाले equipment interiors periodic scope में आ सकते हैं।</p>\n<h2 id=\"hi77-frequency\">Periodic = whenever remembered नहीं</h2><p>Codex defined responsibilities, methods और frequencies की guidance देता है। Weekly, monthly, operating-hours, manufacturer-specified या condition trigger define करें।</p>\n<h2 id=\"hi77-contact\">Food-contact rules generic periodic schedule को override करती हैं</h2><p>Required frequent food-contact surface को weekly deep-clean list पर shift नहीं किया जा सकता। Applicable food code triggers follow करें।</p>\n<h2 id=\"hi77-access\">Hidden soil के लिए periodic cleaning use करें</h2><p>Guards, equipment underside, casters और removable components के आसपास grease/food debris accumulate हो सकती है। Plan बताए क्या move/dismantle होगा और कौन authorized है।</p>\n<h2 id=\"hi77-verify\">दोनों programs verify करें</h2><p>Routine tasks operating checks मांगती हैं; periodic tasks proof मांगती हैं कि deeper scope actually reach हुआ।</p>\n<h2 id=\"hi77-example\">Example split</h2><table class=\"data-table\"><thead><tr><th>Routine</th><th>Periodic</th></tr></thead><tbody>\n<tr><td>Prep tables/boards</td><td>Behind/beneath equipment</td></tr>\n<tr><td>Active utensils/equipment</td><td>Scheduled dismantling</td></tr>\n<tr><td>Spills/contamination events</td><td>Upper/slow-soiling surfaces</td></tr>\n<tr><td>Waste/floor soil</td><td>Deep grease/inaccessible buildup</td></tr>\n<tr><td>Warewashing housekeeping</td><td>Detailed storage/equipment zones</td></tr>\n</tbody></table>\n<h2 id=\"hi77-takeaway\">Practical takeaway</h2><p>Routine work today's contamination control करती है; periodic work hidden/slower buildup को future hygiene failure बनने से रोकती है।</p>\n<h2 id=\"hi77-references\">संदर्भ</h2><ol>\n<li id=\"hi77-ref-1\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi77-ref-2\"><a href=\"https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice\">FAO/WHO Codex — Food Hygiene</a>.</li>\n</ol>",
+  "seo_title": "Routine vs Periodic Kitchen Cleaning | Alle's ClinX",
+  "meta_description": "Food-contact frequencies, hidden soil और verification को preserve करते हुए routine और periodic kitchen cleaning separate करें।",
+  "related_article_ids": [
+    "ACX-KB-0075",
+    "ACX-KB-0010",
+    "ACX-KB-0015"
+  ]
+}
