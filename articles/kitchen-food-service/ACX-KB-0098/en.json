@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0098",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Kitchen Floors Stay Greasy After Cleaning",
+  "slug": "why-kitchen-floors-stay-greasy-after-cleaning",
+  "subcategory": "Kitchen Troubleshooting",
+  "subcategory_slug": "kitchen-troubleshooting",
+  "excerpt": "Kitchen floors can stay greasy when cleaner chemistry is too weak, grease is aged, wash solution is overloaded, tools redeposit soil, dwell or agitation is insufficient, rinse/recovery is incomplete or new grease is continually deposited.",
+  "content_html": "<p>A kitchen floor can look wet-cleaned yet remain slick because grease was loosened but not fully removed. Troubleshooting should identify whether the failure is chemistry, action, recovery, tools, drainage or a continuing grease source.</p>\n<h2 id=\"chemistry\">Cause 1: Cleaner does not match the soil</h2><p>Heavy fats and oils may require a compatible degreasing process rather than a light general-purpose cleaner. The FDA Food Code model states that cleaning procedures should be selected according to the type of soil and equipment or surface.</p>\n<h2 id=\"aged\">Cause 2: Grease is aged</h2><p>Old grease exposed to heat and oxygen can become more viscous and strongly bonded. A routine mop pass may not remove a hardened layer.</p>\n<h2 id=\"solution\">Cause 3: Mop water or solution is overloaded</h2><p>Dirty solution can redistribute emulsified grease across the floor. Replace solution and mop heads before they become heavily contaminated.</p>\n<h2 id=\"action\">Cause 4: Too little dwell or mechanical action</h2><p>Textured safety flooring and grout can hold grease below the top surface. Compatible dwell, scrubbing or agitation may be needed to release it.</p>\n<h2 id=\"recovery\">Cause 5: Loosened grease is not recovered</h2><p>Leaving dirty solution on the floor allows grease and detergent to dry back as a slippery film. Proper rinsing, wet recovery or fresh-water mopping may be required by the chosen process.</p>\n<h2 id=\"source\">Cause 6: Grease is being deposited continuously</h2><p>Fryer splatter, leaking equipment, poor mats, waste handling or grease-laden traffic can recontaminate a floor almost immediately after cleaning.</p>\n<h2 id=\"surface\">Cause 7: Surface condition has changed</h2><p>Worn, damaged or porous flooring may retain grease more easily. If a correctly cleaned test area stays slick when dry, inspect the floor finish and material condition.</p>\n<h2 id=\"food-safety\">Clean floors without contaminating food</h2><p>The FDA Food Code model calls for floor cleaning by dustless methods and generally during periods when the least amount of food is exposed, except when immediate spill cleaning is needed.</p>\n<h2 id=\"diagnostic\">Diagnostic sequence</h2><ol>\n<li>Allow the floor to dry before judging slickness.</li>\n<li>Identify fresh versus aged grease.</li>\n<li>Check degreaser suitability and dilution.</li>\n<li>Use fresh solution and clean tools on a test zone.</li>\n<li>Add compatible mechanical action where texture holds soil.</li>\n<li>Recover/rinse spent solution completely.</li>\n<li>Check for active leaks, splatter and traffic sources.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Greasy floors usually stay greasy because soil is being spread, not fully detached, not fully recovered or immediately replaced. Correct the process before adding more product.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapters 4 and 6</a>.</li>\n<li id=\"ref-2\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/41089756/\">PubMed — Chemical Changes in Deep-Fat Frying</a>.</li>\n</ol>",
+  "seo_title": "Why Kitchen Floors Stay Greasy After Cleaning | Alle's ClinX",
+  "meta_description": "Troubleshoot greasy kitchen floors by checking degreaser strength, aged grease, dirty solution, agitation, recovery, recontamination and floor condition.",
+  "related_article_ids": [
+    "ACX-KB-0085",
+    "ACX-KB-0088",
+    "ACX-KB-0078"
+  ]
+}

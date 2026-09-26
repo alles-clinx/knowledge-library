@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0095",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0095",
+  "title": "Stainless steel kitchen equipment पर smears क्यों दिखती हैं",
+  "slug": "why-stainless-steel-kitchen-equipment-shows-smears",
+  "subcategory": "Stainless Steel Equipment",
+  "subcategory_slug": "stainless-steel-equipment",
+  "excerpt": "Fingerprints, grease, detergent residue, hard-water minerals और uneven wiping reflective stainless-steel surface पर smears दिखा सकते हैं।",
+  "content_html": "<p>Stainless steel reflective होने के कारण smears जल्दी दिखाती है। Mark fingerprint, grease, cleaner residue, water minerals या uneven drying से हो सकती है—permanent damage जरूरी नहीं।</p>\n<h2 id=\"hi95-finger\">Fingerprints/skin oils</h2><p>BSSA guidance के अनुसार fingerprints detergent और warm water या suitable stainless-steel cleaner से remove की जा सकती हैं।</p>\n<h2 id=\"hi95-grease\">Grease film</h2><p>Kitchen vapour और hand contact thin oily layer छोड़ते हैं। Saturated cloth oil को remove करने की बजाय spread कर सकती है।</p>\n<h2 id=\"hi95-detergent\">Cleaner residue</h2><p>Too much detergent/incomplete rinse film छोड़ सकते हैं। Mild cleaning के बाद clean-water rinse और drying useful है।</p>\n<h2 id=\"hi95-water\">Hard-water minerals</h2><p>Mineral-rich droplets dry होकर spots/haze छोड़ सकती हैं। Repeated wetting polished metal पर भी visible film बना सकती है।</p>\n<h2 id=\"hi95-grain\">Wiping direction appearance affect करती है</h2><p>Brushed/polished stainless steel को visible grain direction में wipe करना uniform finish देता है।</p>\n<h2 id=\"hi95-tools\">Dirty tools new smears बनाते हैं</h2><p>Grease/cleaner-loaded cloth clean finish नहीं दे सकती। Clean cloth faces use करें।</p>\n<h2 id=\"hi95-check\">Smear check</h2><ol>\n<li>Surface cool/dry होने दें.</li>\n<li>Clean damp microfibre + compatible mild cleaner use करें.</li>\n<li>Required rinse करें.</li>\n<li>Visible grain direction में dry करें.</li>\n<li>Mark unchanged रहे तो stain/scratch/finish damage inspect करें.</li>\n</ol>\n<h2 id=\"hi95-takeaway\">Practical takeaway</h2><p>Most smears removable films हैं। Steel discoloured assume करने से पहले clean, rinse और dry correctly करें।</p>\n<h2 id=\"hi95-references\">संदर्भ</h2><ol>\n<li id=\"hi95-ref-1\"><a href=\"https://bssa.org.uk/bssa_articles/cleaning-methods-for-stainless-steel/\">BSSA — Cleaning Methods for Stainless Steel</a>.</li>\n<li id=\"hi95-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Stainless Steel Smears | Alle's ClinX",
+  "meta_description": "Fingerprints, grease, cleaner residue, hard water और wiping pattern से stainless-steel smears diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0037",
+    "ACX-KB-0096",
+    "ACX-KB-0097"
+  ]
+}

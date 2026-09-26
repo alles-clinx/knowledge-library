@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0099",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Glassware Looks Cloudy After Washing",
+  "slug": "why-glassware-looks-cloudy-after-washing",
+  "subcategory": "Kitchen Troubleshooting",
+  "subcategory_slug": "kitchen-troubleshooting",
+  "excerpt": "Cloudy glassware can result from hard-water minerals, detergent or rinse residue, poor drainage, dirty wash solution or permanent etching; the first step is to determine whether the film is removable.",
+  "content_html": "<p>Cloudy glassware is a symptom shared by both manual and machine warewashing. The most useful first question is whether the cloudiness is a removable deposit or a permanent change in the glass.</p>\n<h2 id=\"hard-water\">Hard-water minerals</h2><p>USGS identifies hard water as one of the most common causes of cloudy dishes and glassware. Calcium and magnesium can dry onto the surface as spots or a whitish film.</p>\n<h2 id=\"detergent\">Detergent or rinse residue</h2><p>Too much detergent, inadequate rinsing or chemical carryover can leave a cloudy film. Review dilution, chemical feed and rinse quality before increasing product strength.</p>\n<h2 id=\"dirty-water\">Dirty wash or rinse water</h2><p>Soil-loaded wash water or contaminated rinse water can redeposit material on otherwise clean glassware. Fresh water and correct solution replacement matter.</p>\n<h2 id=\"drying\">Poor drainage and drying</h2><p>Water trapped on the surface can leave mineral spots as it evaporates. Correct rack angle, spacing and complete air-drying reduce pooled droplets.</p>\n<h2 id=\"machine\">Machine-related causes</h2><p>In machine warewashing, blocked nozzles, overloaded racks, chemical-feed errors or operating outside the machine's required parameters can create film or cloudiness.</p>\n<h2 id=\"etching\">Permanent etching</h2><p>If a compatible residue-removal test does not change the cloudy appearance, the glass may be etched or permanently altered. Stronger chemistry cannot reverse lost glass clarity and may worsen damage.</p>\n<h2 id=\"diagnostic\">Diagnostic sequence</h2><ol>\n<li>Dry the glass completely.</li>\n<li>Check whether the haze wipes or transfers.</li>\n<li>Review water hardness.</li>\n<li>Check detergent amount and rinse quality.</li>\n<li>For machine washing, inspect loading, spray and chemical feed.</li>\n<li>Rewash one test item under controlled conditions.</li>\n<li>If cloudiness remains unchanged, investigate etching or wear.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Cloudy glassware is usually either removable film or permanent surface change. Diagnose that difference before changing chemistry or equipment settings.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/media/images/hard-water-film\">USGS — Hard Water Film</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Why Glassware Looks Cloudy After Washing | Alle's ClinX",
+  "meta_description": "Diagnose cloudy glassware by checking hard water, detergent residue, rinse quality, wash water, drying, machine setup and permanent etching.",
+  "related_article_ids": [
+    "ACX-KB-0081",
+    "ACX-KB-0083",
+    "ACX-KB-0084"
+  ]
+}

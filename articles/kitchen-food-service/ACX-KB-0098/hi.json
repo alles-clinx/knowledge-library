@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0098",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0098",
+  "title": "Cleaning के बाद kitchen floors greasy क्यों रहती हैं",
+  "slug": "why-kitchen-floors-stay-greasy-after-cleaning",
+  "subcategory": "Kitchen Troubleshooting",
+  "subcategory_slug": "kitchen-troubleshooting",
+  "excerpt": "Kitchen floors wrong chemistry, aged grease, overloaded solution, dirty tools, insufficient action, incomplete recovery या continuous new grease deposition के कारण greasy रह सकती हैं।",
+  "content_html": "<p>Floor wet-cleaned दिख सकती है लेकिन slick remain कर सकती है क्योंकि grease loosen हुई पर fully remove नहीं हुई।</p>\n<h2 id=\"hi98-chemistry\">Cause 1: Cleaner soil से match नहीं करती</h2><p>Heavy fats/oils light general cleaner की बजाय compatible degreasing process मांग सकती हैं।</p>\n<h2 id=\"hi98-aged\">Cause 2: Grease aged है</h2><p>Heat/oxygen old grease को stronger bonded बना सकते हैं। Routine mop pass hardened layer remove नहीं कर सकती।</p>\n<h2 id=\"hi98-solution\">Cause 3: Solution overloaded है</h2><p>Dirty mop water emulsified grease पूरे floor पर redistribute कर सकती है। Solution/mop heads timely replace करें।</p>\n<h2 id=\"hi98-action\">Cause 4: Dwell/action insufficient है</h2><p>Textured safety floors/grout grease hold कर सकते हैं। Compatible dwell/scrubbing चाहिए।</p>\n<h2 id=\"hi98-recovery\">Cause 5: Loosened grease recover नहीं हुई</h2><p>Dirty solution floor पर dry हो तो slippery film वापस बन सकती है। Required rinse/recovery करें।</p>\n<h2 id=\"hi98-source\">Cause 6: New grease continuously deposit हो रही है</h2><p>Fryer splatter, leaks, waste handling या greasy traffic immediate recontamination कर सकते हैं।</p>\n<h2 id=\"hi98-surface\">Cause 7: Floor condition बदल चुकी है</h2><p>Worn/porous flooring grease अधिक retain कर सकती है। Dry test zone slick रहे तो material inspect करें।</p>\n<h2 id=\"hi98-food\">Food contamination avoid करें</h2><p>FDA Food Code model floor cleaning को dustless methods और generally low-food-exposure periods में करने की guidance देता है, except immediate spills.</p>\n<h2 id=\"hi98-check\">Diagnostic</h2><ol>\n<li>Floor dry होने पर slickness judge करें.</li>\n<li>Fresh vs aged grease identify करें.</li>\n<li>Degreaser suitability/dilution check करें.</li>\n<li>Fresh solution/clean tools से test करें.</li>\n<li>Texture में compatible action add करें.</li>\n<li>Spent solution fully recover/rinse करें.</li>\n<li>Leaks/splatter/traffic sources check करें.</li>\n</ol>\n<h2 id=\"hi98-takeaway\">Practical takeaway</h2><p>Greasy floor अक्सर spread, incomplete removal/recovery या immediate recontamination का result है। More product से पहले process correct करें।</p>\n<h2 id=\"hi98-references\">संदर्भ</h2><ol>\n<li id=\"hi98-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi98-ref-2\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/41089756/\">PubMed — Deep-Fat Frying Changes</a>.</li>\n</ol>",
+  "seo_title": "Greasy Kitchen Floors After Cleaning | Alle's ClinX",
+  "meta_description": "Chemistry, aged grease, dirty solution, action, recovery और recontamination से greasy kitchen floors troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0085",
+    "ACX-KB-0088",
+    "ACX-KB-0078"
+  ]
+}

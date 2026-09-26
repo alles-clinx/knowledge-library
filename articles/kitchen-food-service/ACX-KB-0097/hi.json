@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0097",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0097",
+  "title": "Stainless steel kitchen discolouration क्यों होती है?",
+  "slug": "stainless-steel-kitchen-discolouration-causes",
+  "subcategory": "Stainless Steel Equipment",
+  "subcategory_slug": "stainless-steel-equipment",
+  "excerpt": "Heat tint, grease film, hard-water minerals, iron contamination, chemical attack, chlorides या surface damage stainless-steel discolouration cause कर सकते हैं।",
+  "content_html": "<p>Stainless-steel discolouration one condition नहीं है। कुछ marks removable deposits हैं; others oxidation, contamination या damage हैं।</p>\n<h2 id=\"hi97-heat\">Heat tint</h2><p>BSSA बताता है heating stainless steel की oxide layer thicken करके yellow/brown/purple/blue colours बना सकती है। यह grease नहीं है।</p>\n<h2 id=\"hi97-grease\">Grease/cleaner film</h2><p>Thin grease, fingerprints या cleaner residue reflective surface dark/rainbow दिखा सकते हैं। पहले routine compatible clean करें।</p>\n<h2 id=\"hi97-minerals\">Hard-water deposits</h2><p>Repeated wetting whitish spots/film छोड़ सकती है। इन्हें oxide colour/corrosion से अलग identify करें।</p>\n<h2 id=\"hi97-iron\">Iron contamination/rust staining</h2><p>Carbon-steel particles tools/wire wool से stainless surface पर rust करके brown stains बना सकती हैं।</p>\n<h2 id=\"hi97-chloride\">Chloride/chemical attack</h2><p>BSSA chlorine-releasing chemicals जैसे hypochlorites से pitting risk note करता है। Incompatible acids/cleaners भी damage कर सकते हैं।</p>\n<h2 id=\"hi97-abrasion\">Abrasion/finish damage</h2><p>Scratches light differently reflect करती हैं और dull/discoloured दिख सकती हैं। Cleaning altered finish restore नहीं करती।</p>\n<h2 id=\"hi97-check\">Diagnostic sequence</h2><ol>\n<li>Steel cool/dry होने दें.</li>\n<li>Routine clean से grease/residue remove करें.</li>\n<li>Wet zones में minerals check करें.</li>\n<li>Hot zones में heat colour देखें.</li>\n<li>Iron contamination, pitting और scratches inspect करें.</li>\n<li>Non-removable/corrosive issue में manufacturer/specialist guidance follow करें.</li>\n</ol>\n<h2 id=\"hi97-takeaway\">Practical takeaway</h2><p>Discolouration residue, minerals, heat tint, contamination या damage हो सकती है। Mechanism identify करें; हर mark को harder scrub न करें।</p>\n<h2 id=\"hi97-references\">संदर्भ</h2><ol>\n<li id=\"hi97-ref-1\"><a href=\"https://bssa.org.uk/bssa_articles/heat-tint-temper-colours-on-stainless-steel-surface-heated-in-air/\">BSSA — Heat Tint</a>.</li>\n<li id=\"hi97-ref-2\"><a href=\"https://bssa.org.uk/bssa_articles/cleaning-methods-for-stainless-steel/\">BSSA — Cleaning Stainless Steel</a>.</li>\n<li id=\"hi97-ref-3\"><a href=\"https://bssa.org.uk/bssa_articles/selection-of-stainless-steels-for-the-food-processing-industries/\">BSSA — Food Processing Stainless Steel</a>.</li>\n</ol>",
+  "seo_title": "Stainless Steel Discolouration | Alle's ClinX",
+  "meta_description": "Heat tint, grease, minerals, iron contamination, chlorides और finish damage से stainless-steel discolouration diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0095",
+    "ACX-KB-0096",
+    "ACX-KB-0038"
+  ]
+}

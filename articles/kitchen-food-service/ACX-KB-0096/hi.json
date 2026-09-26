@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0096",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0096",
+  "title": "Stainless steel equipment: cleaning vs polishing",
+  "slug": "cleaning-vs-polishing-stainless-steel-equipment",
+  "subcategory": "Stainless Steel Equipment",
+  "subcategory_slug": "stainless-steel-equipment",
+  "excerpt": "Cleaning soil/grease/residue remove करती है; polishing appearance-focused finishing step है और food-service cleaning का substitute नहीं है।",
+  "content_html": "<p>Cleaning और polishing अलग tasks हैं। Cleaning contamination remove करती है; polishing already-clean surface की appearance improve करती है।</p>\n<h2 id=\"hi96-clean\">Cleaning soil remove करती है</h2><p>Routine stainless-steel cleaning water, mild detergent या compatible cleaner से fingerprints, grease और food soil remove करती है; required rinse/dry follow करें।</p>\n<h2 id=\"hi96-polish\">Polishing appearance improve करती है</h2><p>Polish decorative surfaces पर finger marks कम या sheen uniform कर सकती है। Heavy food soil remove करने का substitute नहीं है।</p>\n<h2 id=\"hi96-food\">Food-contact areas में caution</h2><p>Food-contact surface पर polish तभी use करें जब product specifically approved हो। Applicable cleaning/sanitising rules follow करें।</p>\n<h2 id=\"hi96-residue\">Polish intentionally film छोड़ सकती है</h2><p>कुछ polishes protective/appearance film छोड़ती हैं। Decorative exterior पर acceptable हो सकती है लेकिन prep/food-contact zones में undesirable हो सकती है।</p>\n<h2 id=\"hi96-industrial\">Mechanical polishing अलग process है</h2><p>Abrasive refinishing surface itself alter करती है; routine cleaner/polish से अलग specialist task है।</p>\n<h2 id=\"hi96-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Cleaning</th><th>Polishing</th></tr></thead><tbody>\n<tr><td>Purpose</td><td>Soil/residue removal</td><td>Appearance improvement</td></tr>\n<tr><td>When</td><td>First</td><td>After cleaning, if appropriate</td></tr>\n<tr><td>Food-contact</td><td>Approved process</td><td>Only specifically approved</td></tr>\n<tr><td>Residue</td><td>Removed/rinsed as required</td><td>May leave film</td></tr>\n</tbody></table>\n<h2 id=\"hi96-takeaway\">Practical takeaway</h2><p>पहले clean करें। Polish तभी करें जब surface/location/product label suitable हो। Shiny = hygienically clean नहीं।</p>\n<h2 id=\"hi96-references\">संदर्भ</h2><ol>\n<li id=\"hi96-ref-1\"><a href=\"https://bssa.org.uk/bssa_articles/cleaning-methods-for-stainless-steel/\">BSSA — Stainless Steel Cleaning</a>.</li>\n<li id=\"hi96-ref-2\"><a href=\"https://bssa.org.uk/bssa_articles/selection-of-stainless-steels-for-the-food-processing-industries/\">BSSA — Food Processing Stainless Steel</a>.</li>\n<li id=\"hi96-ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Cleaning vs Polishing Stainless Steel | Alle's ClinX",
+  "meta_description": "Purpose, residue और food-contact suitability के आधार पर stainless-steel cleaning और polishing compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0095",
+    "ACX-KB-0097",
+    "ACX-KB-0036"
+  ]
+}

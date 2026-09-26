@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0095",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Stainless Steel Kitchen Equipment Shows Smears",
+  "slug": "why-stainless-steel-kitchen-equipment-shows-smears",
+  "subcategory": "Stainless Steel Equipment",
+  "subcategory_slug": "stainless-steel-equipment",
+  "excerpt": "Stainless-steel kitchen equipment can show smears when fingerprints, grease, detergent residue, hard-water minerals or uneven wiping remain on the reflective surface.",
+  "content_html": "<p>Stainless steel often shows smears more clearly than less reflective materials. The mark may come from fingerprints, grease, cleaner residue, water minerals or simply uneven drying rather than permanent damage.</p>\n<h2 id=\"fingerprints\">Fingerprints and skin oils</h2><p>Fingerprints contain oils that change how light reflects from the stainless-steel finish. BSSA guidance notes that fingerprints can usually be removed with detergent and warm water or a suitable stainless-steel cleaner.</p>\n<h2 id=\"grease\">Grease film</h2><p>Kitchen vapour and hand contact can leave a thin oily layer. If a cloth becomes saturated, wiping may spread the oil into streaks instead of removing it.</p>\n<h2 id=\"detergent\">Cleaner residue</h2><p>Too much detergent or incomplete rinsing can leave a film. Routine cleaning guidance for stainless steel commonly recommends washing with mild detergent, rinsing with clean water and drying.</p>\n<h2 id=\"hard-water\">Hard-water minerals</h2><p>Mineral-rich droplets can dry as spots or haze. USGS identifies hard water as a common cause of film on glassware, and the same mineral-deposition principle can affect polished metal surfaces exposed to repeated wetting.</p>\n<h2 id=\"grain\">Wiping direction affects appearance</h2><p>On brushed or polished stainless steel, wiping with the grain helps produce a more uniform visual finish. Cross-grain rubbing can make streaks or fine marks more noticeable.</p>\n<h2 id=\"tools\">Dirty tools create new smears</h2><p>A cloth loaded with grease or cleaner cannot produce a clean finish. Use clean cloth faces and replace or rinse tools before they become saturated.</p>\n<h2 id=\"diagnostic\">A simple smear check</h2><ol>\n<li>Let the surface cool and dry.</li>\n<li>Use a clean damp microfibre cloth with a compatible mild cleaner.</li>\n<li>Rinse if required.</li>\n<li>Dry with a clean cloth, following the polish grain where visible.</li>\n<li>If the mark remains unchanged, inspect for scratching, staining or finish damage rather than repeating polish.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Most stainless-steel smears are removable films. Clean, rinse and dry with clean tools before assuming the steel itself is discoloured.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://bssa.org.uk/bssa_articles/cleaning-methods-for-stainless-steel/\">British Stainless Steel Association — Cleaning Methods for Stainless Steel</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Why Stainless Steel Kitchen Equipment Shows Smears | Alle's ClinX",
+  "meta_description": "Troubleshoot stainless-steel smears caused by fingerprints, grease, cleaner residue, hard-water film, dirty tools and uneven wiping.",
+  "related_article_ids": [
+    "ACX-KB-0037",
+    "ACX-KB-0096",
+    "ACX-KB-0097"
+  ]
+}

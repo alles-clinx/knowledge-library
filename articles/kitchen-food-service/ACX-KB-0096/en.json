@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0096",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning vs Polishing Stainless Steel Equipment",
+  "slug": "cleaning-vs-polishing-stainless-steel-equipment",
+  "subcategory": "Stainless Steel Equipment",
+  "subcategory_slug": "stainless-steel-equipment",
+  "excerpt": "Cleaning stainless steel removes soil, grease and residue; polishing is an appearance-focused finishing step and should not be used as a substitute for cleaning food-service equipment.",
+  "content_html": "<p>Cleaning and polishing stainless steel are different tasks. Cleaning removes contamination from the surface. Polishing changes or improves the visual finish after the surface is already clean.</p>\n<h2 id=\"cleaning\">Cleaning removes soil</h2><p>Routine stainless-steel cleaning typically uses water, mild detergent or another compatible cleaner to remove fingerprints, grease and food soil, followed by rinsing and drying where required.</p>\n<h2 id=\"polishing\">Polishing improves appearance</h2><p>Polishing products can reduce visible finger marks or add a more uniform sheen on suitable decorative surfaces. They do not remove heavy food soil and should not be relied upon to make an unclean surface hygienic.</p>\n<h2 id=\"food-contact\">Food-contact areas need special caution</h2><p>Do not apply an appearance polish to a food-contact surface unless the product is specifically approved for that use and the label permits the complete process. Food-contact equipment must follow the applicable food-safety cleaning and sanitising requirements.</p>\n<h2 id=\"residue\">Polish can leave residue by design</h2><p>Some polishes leave a thin protective or appearance-enhancing film. That can be acceptable on a suitable decorative exterior but undesirable on handles, preparation zones or food-contact surfaces.</p>\n<h2 id=\"grain\">Mechanical polishing and routine polishing are not the same</h2><p>Industrial refinishing, abrasive polishing or restoration can alter the stainless-steel surface itself. This is different from routine use of a cleaner or appearance product and should follow manufacturer or specialist guidance.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Cleaning</th><th>Polishing</th></tr></thead><tbody>\n<tr><td>Purpose</td><td>Remove soil/residue</td><td>Improve or uniform appearance</td></tr>\n<tr><td>When</td><td>Before any appearance treatment</td><td>After cleaning, if appropriate</td></tr>\n<tr><td>Food-contact suitability</td><td>Use approved cleaning process</td><td>Only if specifically approved</td></tr>\n<tr><td>Residue</td><td>Normally removed/rinsed as required</td><td>May intentionally leave a film</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Clean first. Polish only when the surface, location and product label make it appropriate. A shiny surface is not proof of a clean food-service surface.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://bssa.org.uk/bssa_articles/cleaning-methods-for-stainless-steel/\">BSSA — Cleaning Methods for Stainless Steel</a>.</li>\n<li id=\"ref-2\"><a href=\"https://bssa.org.uk/bssa_articles/selection-of-stainless-steels-for-the-food-processing-industries/\">BSSA — Stainless Steels for Food Processing Industries</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Cleaning vs Polishing Stainless Steel Equipment | Alle's ClinX",
+  "meta_description": "Compare stainless-steel cleaning with polishing by purpose, residue, food-contact suitability and when each process belongs in kitchen maintenance.",
+  "related_article_ids": [
+    "ACX-KB-0095",
+    "ACX-KB-0097",
+    "ACX-KB-0036"
+  ]
+}
