@@ -60,6 +60,7 @@ def render(template, article, locale):
     page = re.sub(r'<html lang="[^"]+">', f'<html lang="{"en" if is_en else "hi"}">', page, count=1)
     page = replace_required(page, r'<title>[\s\S]*?</title>', f'<title>{esc(article["seo_title"])}</title>', "title")
     page = replace_required(page, r'<meta content="[^"]*" name="description"/>', f'<meta content="{esc(article["meta_description"])}" name="description"/>', "description")
+    page = page.replace('</head>', '<link rel="stylesheet" href="/knowledge-library/assets/site.css">\n<script src="/knowledge-library/assets/site.js" defer></script>\n</head>', 1)
 
     breadcrumb = (
         '<nav aria-label="Breadcrumb" class="breadcrumb">'
