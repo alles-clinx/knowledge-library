@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 118,
+  "record_count": 128,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1300,6 +1300,116 @@
       "subcategory_slug": "toilet-urinal-care",
       "excerpt": "Routine toilet care daily soil और hygiene condition maintain करती है; periodic descaling established mineral deposits target करती है जिन्हें routine cleaning remove करने के लिए designed नहीं होती।",
       "url": "library/washroom-hygiene/toilet-urinal-care/routine-toilet-care-vs-periodic-descaling/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0060",
+      "locale": "en",
+      "title": "Why Urinals Develop Persistent Odours",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Toilet & Urinal Care",
+      "subcategory_slug": "toilet-urinal-care",
+      "excerpt": "Persistent urinal odour usually means the source remains—such as urine residue, mineral or urine scale, contaminated splash zones, drain biofilm, trap-seal problems or inadequate flushing—rather than a lack of fragrance.",
+      "url": "library/washroom-hygiene/toilet-urinal-care/why-urinals-develop-persistent-odours/"
+    },
+    {
+      "article_id": "ACX-KB-0060",
+      "locale": "hi-IN",
+      "title": "Urinals में persistent odour क्यों develop होती है?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Toilet & Urinal Care",
+      "subcategory_slug": "toilet-urinal-care",
+      "excerpt": "Persistent urinal odour अक्सर remaining urine residue, mineral/urine scale, contaminated splash zones, drain biofilm, trap-seal problems या inadequate flushing का संकेत होती है।",
+      "url": "library/washroom-hygiene/toilet-urinal-care/why-urinals-develop-persistent-odours/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0061",
+      "locale": "en",
+      "title": "What Is Limescale?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Limescale & Mineral Deposits",
+      "subcategory_slug": "limescale-mineral-deposits",
+      "excerpt": "Limescale is a hard mineral deposit, commonly rich in calcium carbonate, that forms as hard water is heated, evaporates or repeatedly wets a surface and leaves dissolved minerals behind.",
+      "url": "library/washroom-hygiene/limescale-mineral-deposits/what-is-limescale/"
+    },
+    {
+      "article_id": "ACX-KB-0061",
+      "locale": "hi-IN",
+      "title": "Limescale क्या है?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Limescale & Mineral Deposits",
+      "subcategory_slug": "limescale-mineral-deposits",
+      "excerpt": "Limescale hard mineral deposit है, commonly calcium-carbonate rich, जो hard water के heating, evaporation या repeated wetting के बाद minerals पीछे रहने से बनती है।",
+      "url": "library/washroom-hygiene/limescale-mineral-deposits/what-is-limescale/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0062",
+      "locale": "en",
+      "title": "Hard-Water Stains vs Soap Residue",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Limescale & Mineral Deposits",
+      "subcategory_slug": "limescale-mineral-deposits",
+      "excerpt": "Hard-water stains are mineral deposits left as water dries; soap residue or soap scum forms when soap and hard-water minerals react or when cleaning product remains on the surface.",
+      "url": "library/washroom-hygiene/limescale-mineral-deposits/hard-water-stains-vs-soap-residue/"
+    },
+    {
+      "article_id": "ACX-KB-0062",
+      "locale": "hi-IN",
+      "title": "Hard-water stains vs soap residue",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Limescale & Mineral Deposits",
+      "subcategory_slug": "limescale-mineral-deposits",
+      "excerpt": "Hard-water stains water drying के बाद mineral deposits होती हैं; soap residue/scum soap और hard-water minerals की reaction या remaining cleaning product से बन सकती है।",
+      "url": "library/washroom-hygiene/limescale-mineral-deposits/hard-water-stains-vs-soap-residue/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0063",
+      "locale": "en",
+      "title": "Why Mineral Deposits Return After Cleaning",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Limescale & Mineral Deposits",
+      "subcategory_slug": "limescale-mineral-deposits",
+      "excerpt": "Mineral deposits return when the source water remains hard, surfaces repeatedly wet and dry, scale is only partly removed, leaks continue or rough deposits make new mineral buildup easier to see.",
+      "url": "library/washroom-hygiene/limescale-mineral-deposits/why-mineral-deposits-return-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0063",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद mineral deposits वापस क्यों आती हैं",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Limescale & Mineral Deposits",
+      "subcategory_slug": "limescale-mineral-deposits",
+      "excerpt": "Mineral deposits तब वापस आती हैं जब source water hard रहती है, surfaces repeatedly wet/dry होती हैं, scale partly remain करती है या leaks continuous mineral delivery करती हैं।",
+      "url": "library/washroom-hygiene/limescale-mineral-deposits/why-mineral-deposits-return-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0064",
+      "locale": "en",
+      "title": "Why Grout Gets Darker Than Tile",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Tiles & Grout",
+      "subcategory_slug": "tiles-grout",
+      "excerpt": "Grout often darkens before tile because many grout systems are more porous and textured than glazed tile, so they retain moisture, soil and staining material more readily.",
+      "url": "library/washroom-hygiene/tiles-grout/why-grout-gets-darker-than-tile/"
+    },
+    {
+      "article_id": "ACX-KB-0064",
+      "locale": "hi-IN",
+      "title": "Grout tile से darker क्यों हो जाती है",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Tiles & Grout",
+      "subcategory_slug": "tiles-grout",
+      "excerpt": "Grout अक्सर tile से पहले dark होती है क्योंकि कई grout systems glazed tile से ज्यादा porous/textured होती हैं और moisture, soil तथा staining material ज्यादा retain करती हैं।",
+      "url": "library/washroom-hygiene/tiles-grout/why-grout-gets-darker-than-tile/hi.html"
     }
   ]
 }
