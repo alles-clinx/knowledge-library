@@ -18,13 +18,15 @@
   }
   const liveRows=[...document.querySelectorAll('[data-article-id]')];
   if(liveRows.length){
-    fetch('/knowledge-library/production/live.json',{cache:'no-store'})
+    fetch('/knowledge-library/assets/live-search.json',{cache:'no-store'})
       .then(r=>r.ok?r.json():Promise.reject())
       .then(data=>{
-        const live=new Set(data.live_article_ids||[]);
+        const live=new Set((data.records||[]).map(record=>record.article_id));
         liveRows.forEach(row=>{
-          if(live.has(row.dataset.articleId)) row.classList.remove('is-planned');
-          else row.classList.add('is-planned');
+          const isLive=live.has(row.dataset.articleId);
+          row.classList.toggle('is-planned',!isLive);
+          if(isLive) row.removeAttribute('aria-disabled');
+          else row.setAttribute('aria-disabled','true');
         });
       }).catch(()=>{});
   }
