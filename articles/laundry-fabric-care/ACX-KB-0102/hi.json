@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0102",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0102",
+  "title": "Laundry results किन factors पर depend करती हैं?",
+  "slug": "what-factors-influence-laundry-results",
+  "subcategory": "Laundry Basics",
+  "subcategory_slug": "laundry-basics",
+  "excerpt": "Laundry results time, temperature, mechanical action, water quality, load size, soil level, chemistry और equipment condition जैसे interacting factors पर depend करती हैं।",
+  "content_html": "<p>Laundry performance system outcome है। Poor result अक्सर single variable से explain नहीं होती क्योंकि wash chemistry, time, temperature, mechanical action, water quality, load size, soil level और equipment एक-दूसरे को affect करते हैं।</p>\n<h2 id=\"hi102-time\">Time और temperature</h2><p>Temperature soil removal, chemistry performance और hygienic outcomes को influence कर सकती है, जबकि time process को act करने का duration देता है। More heat/time automatically better नहीं है क्योंकि textiles और products की compatibility limits होती हैं।</p>\n<h2 id=\"hi102-action\">Mechanical action</h2><p>Rotation, water movement और textile movement soil loosen/transport करने में मदद करते हैं। Overloading या unsuitable program mechanical action को reduce कर सकता है।</p>\n<h2 id=\"hi102-water\">Water quality</h2><p>Water pH और hardness detergent performance affect करते हैं। Hardness minerals surfactant efficiency interfere कर सकते हैं और deposits contribute कर सकते हैं, इसलिए wash formula local water के अनुसार suitable होना चाहिए।</p>\n<h2 id=\"hi102-load\">Load volume और soil level</h2><p>CDC laundering effectiveness में load volume और extent of soiling को important factors बताता है। Heavily soiled load को lightly used linen से अलग process चाहिए हो सकती है; overloaded washer movement/rinsing कम करता है।</p>\n<h2 id=\"hi102-chemistry\">Chemistry और dosage</h2><p>Detergent, builders, enzymes, bleaching systems और other ingredients अलग functions देते हैं। Too little chemistry soil छोड़ सकती है; excess product rinsing difficult या residue cause कर सकता है।</p>\n<h2 id=\"hi102-equipment\">Equipment condition</h2><p>Washer design, dryer performance, water delivery, drainage, chemical dosing और maintenance repeatability affect करते हैं। Incorrectly maintained equipment को correct formula पूरी तरह compensate नहीं कर सकती।</p>\n<h2 id=\"hi102-troubleshoot\">System troubleshoot करें</h2><p>Results बदलें तो current load, soil, water, chemistry, program और machine condition को last known good process से compare करें। Possible हो तो एक time पर एक factor change करें।</p>\n<h2 id=\"hi102-references\">संदर्भ</h2><ol><li id=\"hi102-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"hi102-ref-2\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"hi102-ref-3\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Laundry Results के Key Factors | Alle's ClinX",
+  "meta_description": "Time, temperature, mechanical action, water quality, load size, soil, chemistry और equipment condition laundry results को कैसे affect करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0101",
+    "ACX-KB-0104",
+    "ACX-KB-0105"
+  ]
+}

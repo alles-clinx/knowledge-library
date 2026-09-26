@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0105",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Laundry Detergents Remove Different Soils",
+  "slug": "how-laundry-detergents-remove-different-soils",
+  "subcategory": "Laundry Detergents",
+  "subcategory_slug": "laundry-detergents",
+  "excerpt": "Laundry detergents remove mixed soil through several mechanisms: wetting and surfactant action, water conditioning, suspension, anti-redeposition and specialised ingredients matched to the soil.",
+  "content_html": "<p>Laundry loads rarely contain one kind of soil. Body oils, food, dust, mineral deposits and other residues behave differently, so detergent formulations use several cleaning mechanisms at the same time.</p>\n<h2 id=\"oily-soil\">Oily and greasy soil</h2><p>Surfactants have water-compatible and oil-compatible regions. They lower surface tension, improve wetting and help detach and disperse oily material so it can be carried in the wash liquor rather than remaining on the textile.</p>\n<h2 id=\"particulate-soil\">Particulate soil</h2><p>Dust and fine particles must be loosened from the fibre surface and kept suspended long enough to leave during drainage and rinsing. Surfactants, builders and anti-redeposition ingredients can support this process.</p>\n<h2 id=\"hard-water\">Hard-water interference</h2><p>Calcium and magnesium can reduce detergent efficiency and contribute to deposits. Builders, chelants or sequestrants bind or manage hardness ions so surfactants can work more effectively.</p>\n<h2 id=\"enzymatic\">Protein, starch and other targeted soils</h2><p>Some formulations include enzymes selected for particular soil classes. Enzymes can break large soil molecules into smaller or more removable material, but their effectiveness depends on the formulation and wash conditions.</p>\n<h2 id=\"bleaching\">Bleachable coloured soils</h2><p>Where a compatible bleaching system is part of the approved process, oxidation can alter certain coloured stains that remain after ordinary surfactant cleaning. Bleach is not a universal soil-removal step and must match the textile and program.</p>\n<h2 id=\"rinsing\">Why rinsing matters</h2><p>Detergent can loosen and suspend soil, but the process still has to remove the wash liquor. Inadequate draining or rinsing can leave detergent, minerals or loosened soil on the textile.</p>\n<h2 id=\"match-process\">Match the detergent and process to the soil</h2><p>Effective laundry cleaning combines the right formulation with suitable water quality, dosage, temperature, time, mechanical action and load size. A stronger product is not automatically a better answer to every stain.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100BGBK.TXT\">US EPA — Detergent Industry Source Category Survey</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/17898499/\">PubMed — Laundry Detergents: An Overview</a>.</li></ol>",
+  "seo_title": "How Laundry Detergents Remove Different Soils | Alle's ClinX",
+  "meta_description": "See how surfactants, builders, anti-redeposition ingredients, enzymes, bleaching systems and rinsing address different laundry soils.",
+  "related_article_ids": [
+    "ACX-KB-0104",
+    "ACX-KB-0102",
+    "ACX-KB-0101"
+  ]
+}

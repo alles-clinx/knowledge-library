@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0101",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0101",
+  "title": "Professional laundry cleaning कैसे काम करती है",
+  "slug": "how-professional-laundry-cleaning-works",
+  "subcategory": "Laundry Basics",
+  "subcategory_slug": "laundry-basics",
+  "excerpt": "Professional laundry cleaning safe collection और sorting से शुरू होकर controlled washing, drying, finishing और protected clean storage तक चलने वाली process है।",
+  "content_html": "<p>Professional laundry cleaning केवल textiles को washer में डालना नहीं है। यह controlled workflow है जो soiled और clean work अलग रखता है, defined wash process चलाता है, textiles को पूरी तरह dry करता है और clean items को recontamination से protect करता है।</p>\n<h2 id=\"hi101-collection\">Collection और containment</h2><p>Soiled textiles को point of use पर contain करना और minimum agitation से handle करना चाहिए। Healthcare settings में CDC contaminated linen को bag/container में रखने और unnecessary shaking/sorting avoid करने पर जोर देता है।</p>\n<h2 id=\"hi101-sorting\">Controlled sorting</h2><p>Sorting textiles को fabric type, colour, soil level और required wash process के अनुसार group करती है। Institutional settings में यह designated laundry workflow में होना चाहिए, occupied care areas में uncontrolled handling के रूप में नहीं।</p>\n<h2 id=\"hi101-loading\">Washer loading</h2><p>Load size mechanical action, water movement और chemical distribution को affect करती है। Overloading soil removal/rinsing कम कर सकती है; underloading water, energy और chemistry waste कर सकती है।</p>\n<h2 id=\"hi101-cycle\">Wash cycle</h2><p>Institutional cycles में flushing, main wash, optional bleaching, rinsing और textile/program के अनुसार final conditioning या souring steps हो सकते हैं। Time, temperature, chemistry और mechanical action साथ काम करते हैं।</p>\n<h2 id=\"hi101-drying\">Drying और finishing</h2><p>Textiles को material-compatible process से पूरी तरह dry करना चाहिए। Finishing में pressing, folding या packaging हो सकती है ताकि item use के लिए ready रहे और दोबारा soil न हो।</p>\n<h2 id=\"hi101-storage\">Clean linen protect करें</h2><p>Clean textiles को इस तरह package, transport और store करें कि dust, dirty carts या soiled linen उन्हें फिर contaminate न करें। Dirty और clean flow का separation key control है।</p>\n<h2 id=\"hi101-takeaway\">Practical takeaway</h2><p>Reliable laundry program पूरे route को control करता है: collection, sorting, loading, washing, rinsing, drying, finishing, transport और storage। किसी भी stage की failure पहले का अच्छा work undo कर सकती है।</p>\n<h2 id=\"hi101-references\">संदर्भ</h2><ol><li id=\"hi101-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"hi101-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"hi101-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html\">CDC — Environmental Infection Control Recommendations</a>.</li></ol>",
+  "seo_title": "Professional Laundry Cleaning Process | Alle's ClinX",
+  "meta_description": "Safe collection, sorting, washing, rinsing, drying, finishing और protected clean storage के through professional laundry cleaning समझें।",
+  "related_article_ids": [
+    "ACX-KB-0102",
+    "ACX-KB-0103",
+    "ACX-KB-0104"
+  ]
+}

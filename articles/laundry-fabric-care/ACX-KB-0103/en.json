@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0103",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Sorting Matters in Institutional Laundry",
+  "slug": "why-sorting-matters-in-institutional-laundry",
+  "subcategory": "Laundry Basics",
+  "subcategory_slug": "laundry-basics",
+  "excerpt": "Institutional laundry sorting helps match textiles to the right process while controlling contamination, fabric damage, colour transfer, load balance and workflow.",
+  "content_html": "<p>Sorting is the decision point that matches each textile to an appropriate laundry process. In institutional operations it also supports contamination control, predictable loading and protection of fabrics that should not be processed together.</p>\n<h2 id=\"point-of-use\">Contain first, sort in the right place</h2><p>In healthcare settings, contaminated linen should be contained at the point of use and handled with minimum agitation. CDC guidance says contaminated textiles should not be sorted or prerinsed in patient-care areas. Sorting belongs in the controlled laundry workflow.</p>\n<h2 id=\"soil-level\">Separate by soil level and process need</h2><p>Lightly soiled linen and heavily contaminated textiles may need different prewash, chemistry, time or temperature decisions. Mixing them without a defined rule can cause either underprocessing or unnecessary treatment.</p>\n<h2 id=\"fabric\">Separate by fabric and construction</h2><p>Textile fibres, coatings, finishes and garment construction can have different limits for temperature, bleach, alkalinity, drying and mechanical action. Sorting protects items from a process that is acceptable for one textile but damaging to another.</p>\n<h2 id=\"colour\">Manage colour transfer and appearance</h2><p>Colourfastness and dye transfer can vary between textiles. Separating incompatible colours or new items reduces the chance that one load changes the appearance of another.</p>\n<h2 id=\"load\">Build workable machine loads</h2><p>Sorting also helps create loads with similar process requirements and appropriate volume. Consistent loads make chemical dosing, mechanical action, extraction and drying easier to control.</p>\n<h2 id=\"clean-dirty-flow\">Protect clean and dirty flows</h2><p>Sorting should never collapse the separation between soiled and clean work. Containers, carts, work surfaces and staff movement should support a one-way process that prevents clean linen from contacting contaminated items.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Good sorting is not just colour separation. It is process classification: soil, fabric, compatibility, load requirements and contamination risk are grouped so the wash formula can be controlled.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html\">CDC — Environmental Infection Control Recommendations</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html\">CDC — Fundamental Elements: Textiles and Laundry</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li></ol>",
+  "seo_title": "Why Sorting Matters in Institutional Laundry | Alle's ClinX",
+  "meta_description": "See why institutional laundry sorting matters for contamination control, soil level, fabric compatibility, colour transfer, load consistency and workflow.",
+  "related_article_ids": [
+    "ACX-KB-0101",
+    "ACX-KB-0102",
+    "ACX-KB-0104"
+  ]
+}

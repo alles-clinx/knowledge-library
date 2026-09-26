@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0103",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0103",
+  "title": "Institutional laundry में sorting क्यों महत्वपूर्ण है",
+  "slug": "why-sorting-matters-in-institutional-laundry",
+  "subcategory": "Laundry Basics",
+  "subcategory_slug": "laundry-basics",
+  "excerpt": "Institutional laundry sorting textiles को सही process से match करने और contamination, fabric damage, colour transfer, load balance तथा workflow control करने में मदद करती है।",
+  "content_html": "<p>Sorting वह decision point है जो हर textile को appropriate laundry process से match करती है। Institutional operation में यह contamination control, predictable loading और incompatible fabrics की protection भी support करती है।</p>\n<h2 id=\"hi103-point\">पहले contain करें, सही जगह sort करें</h2><p>Healthcare settings में contaminated linen को point of use पर contain और minimum agitation से handle करना चाहिए। CDC patient-care areas में contaminated textiles की sorting/prerinsing avoid करने की guidance देता है।</p>\n<h2 id=\"hi103-soil\">Soil level और process need के अनुसार separate करें</h2><p>Lightly soiled linen और heavily contaminated textiles को अलग prewash, chemistry, time या temperature decisions चाहिए हो सकते हैं। बिना rule mix करने से underprocessing या unnecessary treatment हो सकती है।</p>\n<h2 id=\"hi103-fabric\">Fabric/construction के अनुसार sort करें</h2><p>Fibres, coatings, finishes और garment construction की temperature, bleach, alkalinity, drying और mechanical-action limits अलग हो सकती हैं। Sorting incompatible process से damage रोकती है।</p>\n<h2 id=\"hi103-colour\">Colour transfer manage करें</h2><p>Colourfastness और dye transfer textiles के बीच vary कर सकते हैं। Incompatible colours या new items separate करने से एक load दूसरे की appearance change करने का risk कम होता है।</p>\n<h2 id=\"hi103-load\">Workable machine loads बनाएं</h2><p>Sorting similar process requirements और appropriate volume वाली loads बनाती है। Consistent loads chemical dosing, mechanical action, extraction और drying control करना आसान बनाती हैं।</p>\n<h2 id=\"hi103-flow\">Clean और dirty flow अलग रखें</h2><p>Sorting soiled और clean work separation को collapse नहीं करनी चाहिए। Containers, carts, work surfaces और staff movement one-way process support करें ताकि clean linen contaminated items touch न करे।</p>\n<h2 id=\"hi103-takeaway\">Practical takeaway</h2><p>Good sorting सिर्फ colour separation नहीं है। यह process classification है: soil, fabric, compatibility, load requirements और contamination risk को controlled wash formula के लिए group किया जाता है।</p>\n<h2 id=\"hi103-references\">संदर्भ</h2><ol><li id=\"hi103-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html\">CDC — Environmental Infection Control Recommendations</a>.</li><li id=\"hi103-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html\">CDC — Fundamental Elements: Textiles and Laundry</a>.</li><li id=\"hi103-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li></ol>",
+  "seo_title": "Institutional Laundry Sorting | Alle's ClinX",
+  "meta_description": "Contamination control, soil level, fabric compatibility, colour transfer, load consistency और workflow के लिए institutional laundry sorting समझें।",
+  "related_article_ids": [
+    "ACX-KB-0101",
+    "ACX-KB-0102",
+    "ACX-KB-0104"
+  ]
+}

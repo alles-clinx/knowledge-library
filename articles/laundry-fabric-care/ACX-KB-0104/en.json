@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0104",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Laundry Detergent?",
+  "slug": "what-is-a-laundry-detergent",
+  "subcategory": "Laundry Detergents",
+  "subcategory_slug": "laundry-detergents",
+  "excerpt": "A laundry detergent is a formulated cleaning product that combines functional ingredients such as surfactants, water-conditioning agents and other auxiliaries to remove soil from textiles.",
+  "content_html": "<p>A laundry detergent is a formulated cleaning product designed to remove soil from textiles in water. It is not a single chemical. Different ingredients perform different jobs, and the exact formulation depends on the intended wash conditions and textile application.</p>\n<h2 id=\"surfactants\">Surfactants</h2><p>Surfactants are key detergent ingredients. They help water wet textile surfaces, interact with oily and particulate soil, and support removal and suspension so loosened soil can leave with the wash liquor.</p>\n<h2 id=\"builders\">Builders and water conditioning</h2><p>Builders or chelating/sequestering ingredients help detergents work in mineral-containing water. EPA describes builders as ingredients that change water qualities so detergents can perform better, while chelating agents can reduce the effect of hardness ions.</p>\n<h2 id=\"enzymes\">Enzymes and specialised ingredients</h2><p>Some laundry detergents use enzymes or other specialised ingredients to target particular types of soil. Bleaching systems, anti-redeposition agents, solvents, polymers, fragrances and optical ingredients may also be present depending on the product.</p>\n<h2 id=\"formulation\">Why formulation matters</h2><p>Two detergents can behave differently even when both are described as laundry detergents. Concentration, ingredient balance, pH, foam profile, water hardness tolerance and compatibility with the machine all influence performance.</p>\n<h2 id=\"dosage\">Detergent is part of a process</h2><p>Correct detergent still requires correct dosage, load size, time, temperature, mechanical action and rinsing. Increasing detergent cannot reliably compensate for a poor process and may create residue or difficult rinsing.</p>\n<h2 id=\"safety\">Use the approved product information</h2><p>Follow the product label, technical directions and workplace safety information for dilution, dosing, handling and textile compatibility. Do not assume that products with similar names are interchangeable.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Think of laundry detergent as a coordinated formulation. Surfactants remove and suspend soil, water-conditioning ingredients support performance, and other functional ingredients address specific cleaning or process needs.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/17898499/\">PubMed — Laundry Detergents: An Overview</a>.</li></ol>",
+  "seo_title": "What Is a Laundry Detergent? | Alle's ClinX",
+  "meta_description": "Learn what laundry detergent is and how surfactants, builders, enzymes and other functional ingredients work together in textile cleaning.",
+  "related_article_ids": [
+    "ACX-KB-0105",
+    "ACX-KB-0102",
+    "ACX-KB-0101"
+  ]
+}

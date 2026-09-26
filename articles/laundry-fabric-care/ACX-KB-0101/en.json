@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0101",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Professional Laundry Cleaning Works",
+  "slug": "how-professional-laundry-cleaning-works",
+  "subcategory": "Laundry Basics",
+  "subcategory_slug": "laundry-basics",
+  "excerpt": "Professional laundry cleaning is a controlled process that moves textiles from safe collection and sorting through washing, drying, finishing and protected clean storage.",
+  "content_html": "<p>Professional laundry cleaning is more than putting textiles into a washer. It is a controlled workflow that separates soiled and clean work, applies a defined wash process, dries items completely and protects clean textiles from recontamination.</p>\n<h2 id=\"collection\">Collection and containment</h2><p>Soiled textiles should be contained at the point of use and handled with minimum agitation. In healthcare settings, CDC guidance emphasizes bagging or containing contaminated linen and avoiding unnecessary shaking or sorting in patient-care areas.</p>\n<h2 id=\"sorting\">Controlled sorting</h2><p>Sorting groups textiles by factors such as fabric type, colour, soil level and the wash process they require. In institutional settings this should happen in the designated laundry workflow, not as uncontrolled handling in occupied care areas.</p>\n<h2 id=\"loading\">Loading the washer correctly</h2><p>Load size affects mechanical action, water movement and chemical distribution. Overloading can reduce soil removal and rinsing, while underloading may waste water, energy and chemistry.</p>\n<h2 id=\"wash-cycle\">The wash cycle</h2><p>Institutional cycles can include flushing, main washing, optional bleaching, rinsing and final conditioning or souring steps depending on the textile, soil and approved program. Time, temperature, chemistry and mechanical action work together rather than independently.</p>\n<h2 id=\"drying-finishing\">Drying and finishing</h2><p>Textiles should be dried completely using a process suitable for the material. Finishing may include pressing, folding or packaging so the item is ready for use without being re-soiled.</p>\n<h2 id=\"clean-storage\">Protecting clean linen</h2><p>Clean textiles should be packaged, transported and stored so that dust, dirty carts and soiled linen cannot contaminate them again. Separation between dirty and clean flows is a core operational control.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A reliable laundry program controls the whole route: collection, sorting, loading, washing, rinsing, drying, finishing, transport and storage. A failure at any stage can undo work performed earlier in the process.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html\">CDC — Environmental Infection Control Recommendations</a>.</li></ol>",
+  "seo_title": "How Professional Laundry Cleaning Works | Alle's ClinX",
+  "meta_description": "Learn the professional laundry workflow from safe collection and sorting through washing, rinsing, drying, finishing and protected clean storage.",
+  "related_article_ids": [
+    "ACX-KB-0102",
+    "ACX-KB-0103",
+    "ACX-KB-0104"
+  ]
+}

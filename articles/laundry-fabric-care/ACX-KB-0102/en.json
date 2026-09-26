@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0102",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Factors Influence Laundry Results?",
+  "slug": "what-factors-influence-laundry-results",
+  "subcategory": "Laundry Basics",
+  "subcategory_slug": "laundry-basics",
+  "excerpt": "Laundry results depend on interacting process variables including time, temperature, mechanical action, water quality, load size, soil level, chemistry and equipment condition.",
+  "content_html": "<p>Laundry performance is a system outcome. A poor result is rarely explained by one variable alone, because wash chemistry, time, temperature, mechanical action, water quality, load size, soil level and equipment all interact.</p>\n<h2 id=\"time-temperature\">Time and temperature</h2><p>Temperature can influence soil removal, chemistry performance and hygienic outcomes, while time determines how long the process can act. More heat or more time is not automatically better because textiles and products have compatibility limits.</p>\n<h2 id=\"mechanical-action\">Mechanical action</h2><p>Rotation, water movement and textile-to-textile movement help loosen and transport soil. Mechanical action falls when a machine is overloaded or when the selected program does not provide suitable movement.</p>\n<h2 id=\"water-quality\">Water quality</h2><p>Water pH and hardness affect detergent performance. Hardness minerals can interfere with surfactant efficiency and contribute to deposits, so the wash formula must be suitable for the local water supply.</p>\n<h2 id=\"load-soil\">Load volume and soil level</h2><p>CDC lists load volume and extent of soiling among the factors that affect laundering effectiveness. A heavily soiled load may need a different process from lightly used linen, and an overloaded washer reduces room for effective movement and rinsing.</p>\n<h2 id=\"chemistry\">Chemistry and dosage</h2><p>Detergent, builders, enzymes, bleaching systems and other ingredients have different functions. Correct product selection and dosage matter; too little chemistry may leave soil, while excess product can make rinsing harder or leave residue.</p>\n<h2 id=\"equipment\">Equipment condition</h2><p>Washer design, dryer performance, water delivery, drainage, chemical dosing and maintenance all affect repeatability. A correct formula cannot fully compensate for blocked, poorly maintained or incorrectly programmed equipment.</p>\n<h2 id=\"troubleshoot\">Troubleshoot the system</h2><p>When results change, compare the current load, soil, water, chemistry, program and machine condition with the last known good process. Change one factor at a time when possible so the real cause is not hidden.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "What Factors Influence Laundry Results? | Alle's ClinX",
+  "meta_description": "Understand how time, temperature, mechanical action, water quality, load size, soil, chemistry and equipment condition influence laundry results.",
+  "related_article_ids": [
+    "ACX-KB-0101",
+    "ACX-KB-0104",
+    "ACX-KB-0105"
+  ]
+}

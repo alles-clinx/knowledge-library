@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0104",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0104",
+  "title": "Laundry detergent क्या है?",
+  "slug": "what-is-a-laundry-detergent",
+  "subcategory": "Laundry Detergents",
+  "subcategory_slug": "laundry-detergents",
+  "excerpt": "Laundry detergent formulated cleaning product है जो surfactants, water-conditioning agents और other auxiliaries जैसे functional ingredients को combine करके textiles से soil remove करती है।",
+  "content_html": "<p>Laundry detergent water में textiles से soil remove करने के लिए designed formulated cleaning product है। यह single chemical नहीं है। Different ingredients अलग jobs करते हैं और formulation wash conditions तथा textile application के अनुसार बदलती है।</p>\n<h2 id=\"hi104-surfactants\">Surfactants</h2><p>Surfactants key detergent ingredients हैं। वे water को textile surface wet करने, oily/particulate soil के साथ interact करने और loosened soil को wash liquor में suspend/remove करने में मदद करते हैं।</p>\n<h2 id=\"hi104-builders\">Builders और water conditioning</h2><p>Builders या chelating/sequestering ingredients mineral-containing water में detergent performance support करते हैं। EPA builders को water qualities बदलकर detergent performance improve करने वाले ingredients के रूप में describe करता है।</p>\n<h2 id=\"hi104-enzymes\">Enzymes और specialised ingredients</h2><p>कुछ laundry detergents specific soil types target करने के लिए enzymes या other specialised ingredients use करती हैं। Product के अनुसार bleaching systems, anti-redeposition agents, solvents, polymers, fragrances और optical ingredients भी हो सकते हैं।</p>\n<h2 id=\"hi104-formulation\">Formulation क्यों matter करती है</h2><p>दो laundry detergents अलग behave कर सकती हैं। Concentration, ingredient balance, pH, foam profile, water-hardness tolerance और machine compatibility performance influence करते हैं।</p>\n<h2 id=\"hi104-dosage\">Detergent process का एक हिस्सा है</h2><p>Correct detergent को भी correct dosage, load size, time, temperature, mechanical action और rinsing चाहिए। Poor process को extra detergent reliably fix नहीं करती और residue/rinsing problems create कर सकती है।</p>\n<h2 id=\"hi104-safety\">Approved product information follow करें</h2><p>Dilution, dosing, handling और textile compatibility के लिए product label, technical directions और workplace safety information follow करें। Similar names वाले products को automatically interchangeable न मानें।</p>\n<h2 id=\"hi104-takeaway\">Practical takeaway</h2><p>Laundry detergent को coordinated formulation की तरह समझें। Surfactants soil remove/suspend करते हैं, water-conditioning ingredients performance support करते हैं और other ingredients specific cleaning/process needs address करते हैं।</p>\n<h2 id=\"hi104-references\">संदर्भ</h2><ol><li id=\"hi104-ref-1\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"hi104-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi104-ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/17898499/\">PubMed — Laundry Detergents: An Overview</a>.</li></ol>",
+  "seo_title": "Laundry Detergent क्या है? | Alle's ClinX",
+  "meta_description": "Surfactants, builders, enzymes और other functional ingredients मिलकर laundry detergent में textile cleaning कैसे support करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0105",
+    "ACX-KB-0102",
+    "ACX-KB-0101"
+  ]
+}
