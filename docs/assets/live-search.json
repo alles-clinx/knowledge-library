@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 78,
+  "record_count": 88,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -860,6 +860,116 @@
       "subcategory_slug": "wood-furniture",
       "excerpt": "Finished wood की safe care finish identify करने, loose dust पहले remove करने, moisture sparingly use करने, unfamiliar method test करने और promptly dry करने से शुरू होती है।",
       "url": "library/floor-surface-care/wood-furniture/what-is-safe-surface-care-for-finished-wood/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0040",
+      "locale": "en",
+      "title": "Furniture Cleaner vs Furniture Polish",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Wood & Furniture",
+      "subcategory_slug": "wood-furniture",
+      "excerpt": "Furniture cleaner removes soil from a compatible finished surface; furniture polish or wax changes the surface condition by leaving a maintenance film or protective layer. They are not interchangeable.",
+      "url": "library/floor-surface-care/wood-furniture/furniture-cleaner-vs-furniture-polish/"
+    },
+    {
+      "article_id": "ACX-KB-0040",
+      "locale": "hi-IN",
+      "title": "Furniture cleaner vs furniture polish",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Wood & Furniture",
+      "subcategory_slug": "wood-furniture",
+      "excerpt": "Furniture cleaner compatible finished surface से soil remove करता है; furniture polish या wax surface पर maintenance/protective layer छोड़ता है। दोनों interchangeable नहीं हैं।",
+      "url": "library/floor-surface-care/wood-furniture/furniture-cleaner-vs-furniture-polish/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0041",
+      "locale": "en",
+      "title": "Why Moisture and Chemistry Matter on Wood Finishes",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Wood & Furniture",
+      "subcategory_slug": "wood-furniture",
+      "excerpt": "Moisture and cleaning chemistry matter on finished wood because water can enter joints or damaged finishes while solvents, detergents and other chemicals can soften, cloud or remove coatings.",
+      "url": "library/floor-surface-care/wood-furniture/why-moisture-and-chemistry-matter-on-wood-finishes/"
+    },
+    {
+      "article_id": "ACX-KB-0041",
+      "locale": "hi-IN",
+      "title": "Wood finishes पर moisture और chemistry क्यों matter करती है",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Wood & Furniture",
+      "subcategory_slug": "wood-furniture",
+      "excerpt": "Finished wood पर moisture और chemistry important हैं क्योंकि water joints/damaged finish में जा सकता है और solvents/detergents coating को soften, cloud या remove कर सकते हैं।",
+      "url": "library/floor-surface-care/wood-furniture/why-moisture-and-chemistry-matter-on-wood-finishes/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0042",
+      "locale": "en",
+      "title": "What Are the Main Carpet Cleaning Methods?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "Commercial carpet care combines routine vacuuming and spot cleaning with interim or restorative methods such as absorbent compound, bonnet/pad cleaning, dry foam, shampoo and hot-water extraction.",
+      "url": "library/floor-surface-care/carpet-upholstery/what-are-the-main-carpet-cleaning-methods/"
+    },
+    {
+      "article_id": "ACX-KB-0042",
+      "locale": "hi-IN",
+      "title": "Main carpet cleaning methods क्या हैं?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "Commercial carpet care routine vacuuming/spot cleaning को absorbent compound, bonnet/pad, dry foam, shampoo और hot-water extraction जैसे interim/restorative methods के साथ combine करती है।",
+      "url": "library/floor-surface-care/carpet-upholstery/what-are-the-main-carpet-cleaning-methods/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0043",
+      "locale": "en",
+      "title": "Carpet Shampoo vs Extraction Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "Carpet shampoo suspends soil with foaming chemistry and agitation; extraction cleaning uses liquid and suction to flush and recover suspended soil and moisture. Both require compatibility and complete drying.",
+      "url": "library/floor-surface-care/carpet-upholstery/carpet-shampoo-vs-extraction-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0043",
+      "locale": "hi-IN",
+      "title": "Carpet shampoo vs extraction cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "Carpet shampoo foaming chemistry और agitation से soil suspend करता है; extraction liquid और suction से suspended soil/moisture flush और recover करती है।",
+      "url": "library/floor-surface-care/carpet-upholstery/carpet-shampoo-vs-extraction-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0044",
+      "locale": "en",
+      "title": "Why Carpet Spots Reappear After Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "A carpet spot can reappear because remaining soil or soluble material migrates upward during drying, because sticky residue attracts new soil, or because contamination remains in the backing or substrate.",
+      "url": "library/floor-surface-care/carpet-upholstery/why-carpet-spots-reappear-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0044",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद carpet spots वापस क्यों आते हैं",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "Carpet spot wicking, sticky residue से resoiling, backing/substrate में remaining contamination या permanent appearance change के कारण cleaning के बाद वापस दिख सकता है।",
+      "url": "library/floor-surface-care/carpet-upholstery/why-carpet-spots-reappear-after-cleaning/hi.html"
     }
   ]
 }
