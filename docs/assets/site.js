@@ -9,30 +9,36 @@
   const BASE='/knowledge-library/';
   const isKnowledge=true;
   const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>';
-  const mark='<span class="acx-brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span class="acx-brand-name">Alle\'s ClinX</span>';
+  const wordmark='<span class="acx-wordmark">Alle\'s ClinX</span>';
   const nav=[
     ['Solutions','https://allesclinx.com/solutions/'],
     ['ClinXAi','https://allesclinx.com/clinxai/'],
     ['Shop','https://allesclinx.com/shop/'],
-    ['Knowledge',BASE],
+    ['Plus','https://allesclinx.com/plus/'],
     ['Support','https://allesclinx.com/support/']
   ];
-  function links(cls){
-    return nav.map(([label,href])=>'<a '+(cls?'class="'+cls+'" ':'')+'href="'+href+'"'+(label==='Knowledge'?' aria-current="page"':'')+'>'+label+'</a>').join('');
+  function links(){
+    return nav.map(([label,href])=>'<a href="'+href+'">'+label+'</a>').join('');
   }
   const header=document.createElement('div');
   header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
-    '<a class="acx-brand" href="https://allesclinx.com/" aria-label="Alle\'s ClinX home">'+mark+'</a>'+
-    '<nav class="acx-primary-nav" aria-label="Primary">'+links('')+'</nav>'+
+    '<div class="acx-brand-cluster"><a class="acx-wordmark" href="https://allesclinx.com/" aria-label="Alle\'s ClinX main website">Alle\'s ClinX</a><span class="acx-brand-divider" aria-hidden="true"></span><a class="acx-context-link" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Knowledge</a></div>'+
+    '<nav class="acx-primary-nav" aria-label="Primary">'+links()+'</nav>'+
     '<div class="acx-site-actions"><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'<span class="acx-search-label">Search</span><kbd>⌘K</kbd></button>'+
     '<button class="acx-menu-button" type="button" aria-label="Open menu" aria-expanded="false"><span></span></button></div></div>'+
-    '<div class="acx-mobile-drawer" id="acx-mobile-drawer"><nav class="acx-mobile-drawer-inner" aria-label="Mobile primary">'+links('')+'</nav></div></header>';
+    '<div class="acx-mobile-drawer" id="acx-mobile-drawer"><div class="acx-mobile-drawer-inner"><div class="acx-mobile-context"><strong>Knowledge</strong><a href="'+BASE+'">Knowledge home</a></div><nav class="acx-mobile-nav" aria-label="Mobile primary">'+links()+'</nav></div></div></header>';
   document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
+  const siteHeader=document.querySelector('.acx-site-header');
+  function syncHeaderState(){
+    siteHeader.classList.toggle('is-scrolled',window.scrollY>10);
+  }
+  window.addEventListener('scroll',syncHeaderState,{passive:true});
+  syncHeaderState();
 
   const footer=document.createElement('footer');
   footer.className='acx-site-footer';
   footer.innerHTML='<div class="acx-footer-inner"><div class="acx-footer-top">'+
-    '<div class="acx-footer-brand"><a class="acx-brand" href="https://allesclinx.com/">'+mark+'</a><p>Institutional hygiene systems, technical knowledge and practical tools for cleaner, safer facility operations.</p></div>'+
+    '<div class="acx-footer-brand"><a class="acx-wordmark" href="https://allesclinx.com/">Alle\'s ClinX</a><p>Institutional hygiene systems, technical knowledge and practical tools for cleaner, safer facility operations.</p></div>'+
     '<div class="acx-footer-col"><strong>Explore</strong><a href="'+BASE+'">Knowledge</a><a href="https://allesclinx.com/shop/">Products</a><a href="https://allesclinx.com/solutions/">Solutions</a></div>'+
     '<div class="acx-footer-col"><strong>Tools</strong><a href="https://allesclinx.com/clinxai/">ClinXAi</a><a href="https://allesclinx.com/metricon/">Metricon</a><a href="https://allesclinx.com/support/media-documents/">Document Center</a></div>'+
     '<div class="acx-footer-col"><strong>Company</strong><a href="https://allesclinx.com/company/">Company</a><a href="https://allesclinx.com/sustainability/">Sustainability</a><a href="https://allesclinx.com/support/contact/">Contact</a></div>'+
