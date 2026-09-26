@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 128,
+  "record_count": 138,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1410,6 +1410,116 @@
       "subcategory_slug": "tiles-grout",
       "excerpt": "Grout अक्सर tile से पहले dark होती है क्योंकि कई grout systems glazed tile से ज्यादा porous/textured होती हैं और moisture, soil तथा staining material ज्यादा retain करती हैं।",
       "url": "library/washroom-hygiene/tiles-grout/why-grout-gets-darker-than-tile/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0065",
+      "locale": "en",
+      "title": "How Tile and Grout Cleaning Requirements Differ",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Tiles & Grout",
+      "subcategory_slug": "tiles-grout",
+      "excerpt": "Tile and grout sit together but can have different porosity, texture, finish and chemical resistance, so one cleaning method should not automatically be assumed suitable for both.",
+      "url": "library/washroom-hygiene/tiles-grout/how-tile-and-grout-cleaning-requirements-differ/"
+    },
+    {
+      "article_id": "ACX-KB-0065",
+      "locale": "hi-IN",
+      "title": "Tile और grout cleaning requirements कैसे अलग होती हैं",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Tiles & Grout",
+      "subcategory_slug": "tiles-grout",
+      "excerpt": "Tile और grout साथ होती हैं लेकिन porosity, texture, finish और chemical resistance अलग हो सकती है, इसलिए same method automatically दोनों के लिए suitable नहीं होती।",
+      "url": "library/washroom-hygiene/tiles-grout/how-tile-and-grout-cleaning-requirements-differ/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0066",
+      "locale": "en",
+      "title": "What Causes Haze on Washroom Tiles?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Tiles & Grout",
+      "subcategory_slug": "tiles-grout",
+      "excerpt": "Washroom tile haze can come from cleaner residue, hard-water minerals, soap scum, grout or salt residue, incomplete rinsing, condensation or permanent finish change.",
+      "url": "library/washroom-hygiene/tiles-grout/what-causes-haze-on-washroom-tiles/"
+    },
+    {
+      "article_id": "ACX-KB-0066",
+      "locale": "hi-IN",
+      "title": "Washroom tiles पर haze क्यों बनती है?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Tiles & Grout",
+      "subcategory_slug": "tiles-grout",
+      "excerpt": "Washroom tile haze cleaner residue, hard-water minerals, soap scum, grout/salt residue, incomplete rinsing, condensation या permanent finish change से बन सकती है।",
+      "url": "library/washroom-hygiene/tiles-grout/what-causes-haze-on-washroom-tiles/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0067",
+      "locale": "en",
+      "title": "Why Washrooms Smell Even After Cleaning",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Odour Control",
+      "subcategory_slug": "washroom-odour-control",
+      "excerpt": "A washroom can smell after cleaning when the odour source remains in splash zones, drains, porous grout, waste, standing moisture, scale, plumbing or ventilation rather than on the surfaces that were wiped.",
+      "url": "library/washroom-hygiene/washroom-odour-control/why-washrooms-smell-even-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0067",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद भी washrooms smell क्यों करती हैं",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Odour Control",
+      "subcategory_slug": "washroom-odour-control",
+      "excerpt": "Cleaning के बाद भी washroom smell कर सकती है जब odour source splash zones, drains, grout, waste, moisture, scale, plumbing या ventilation में remain करे।",
+      "url": "library/washroom-hygiene/washroom-odour-control/why-washrooms-smell-even-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0068",
+      "locale": "en",
+      "title": "Cleaning Odour vs Drain or Plumbing Odour",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Odour Control",
+      "subcategory_slug": "washroom-odour-control",
+      "excerpt": "Cleaning-product odour usually follows product application and fades with drying or ventilation; drain or plumbing odour is more likely to localise near drains, traps or fixtures and recur independently of cleaning.",
+      "url": "library/washroom-hygiene/washroom-odour-control/cleaning-odour-vs-drain-or-plumbing-odour/"
+    },
+    {
+      "article_id": "ACX-KB-0068",
+      "locale": "hi-IN",
+      "title": "Cleaning odour vs drain या plumbing odour",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Odour Control",
+      "subcategory_slug": "washroom-odour-control",
+      "excerpt": "Cleaning-product odour product application के बाद आती है और drying/ventilation से घटती है; drain/plumbing odour drains, traps या fixtures के पास localise होकर cleaning से independent return कर सकती है।",
+      "url": "library/washroom-hygiene/washroom-odour-control/cleaning-odour-vs-drain-or-plumbing-odour/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0069",
+      "locale": "en",
+      "title": "How Cleaning Programs Influence Washroom Odour",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Odour Control",
+      "subcategory_slug": "washroom-odour-control",
+      "excerpt": "Washroom odour is influenced by what the cleaning program covers, how often it checks conditions, whether tools are segregated, how moisture is controlled, and how quickly plumbing or maintenance faults are escalated.",
+      "url": "library/washroom-hygiene/washroom-odour-control/how-cleaning-programs-influence-washroom-odour/"
+    },
+    {
+      "article_id": "ACX-KB-0069",
+      "locale": "hi-IN",
+      "title": "Cleaning programs washroom odour को कैसे influence करती हैं",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Odour Control",
+      "subcategory_slug": "washroom-odour-control",
+      "excerpt": "Washroom odour cleaning scope, inspection frequency, tool segregation, moisture control और plumbing/maintenance faults के escalation से directly influence होती है।",
+      "url": "library/washroom-hygiene/washroom-odour-control/how-cleaning-programs-influence-washroom-odour/hi.html"
     }
   ]
 }
