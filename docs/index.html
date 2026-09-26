@@ -119,6 +119,29 @@ h1{
   position:relative;
   margin-top:18px;
 }
+.slider-shell::before,.slider-shell::after{
+  content:"";
+  position:absolute;
+  top:0;
+  bottom:8px;
+  width:54px;
+  z-index:3;
+  pointer-events:none;
+  opacity:0;
+  transition:opacity .16s ease;
+  backdrop-filter:blur(5px);
+  -webkit-backdrop-filter:blur(5px);
+}
+.slider-shell::before{
+  left:0;
+  background:linear-gradient(90deg,rgba(255,255,255,.96),rgba(255,255,255,.55),rgba(255,255,255,0));
+}
+.slider-shell::after{
+  right:0;
+  background:linear-gradient(270deg,rgba(255,255,255,.96),rgba(255,255,255,.55),rgba(255,255,255,0));
+}
+.slider-shell.can-scroll-left::before{opacity:1}
+.slider-shell.can-scroll-right::after{opacity:1}
 .bento-slider{
   display:flex;
   gap:12px;
@@ -502,10 +525,17 @@ h2{
     const prev=document.querySelector('[data-slider-prev="'+id+'"]');
     const next=document.querySelector('[data-slider-next="'+id+'"]');
     const step=function(){return Math.max(260,Math.min(slider.clientWidth*.82,440));};
+    const shell=slider.closest('.slider-shell');
     function sync(){
       const max=slider.scrollWidth-slider.clientWidth;
-      prev.disabled=slider.scrollLeft<=2;
-      next.disabled=slider.scrollLeft>=max-2;
+      const canLeft=slider.scrollLeft>2;
+      const canRight=slider.scrollLeft<max-2;
+      prev.disabled=!canLeft;
+      next.disabled=!canRight;
+      if(shell){
+        shell.classList.toggle('can-scroll-left',canLeft);
+        shell.classList.toggle('can-scroll-right',canRight);
+      }
     }
     prev.addEventListener('click',function(){
       slider.scrollBy({left:-step(),behavior:'smooth'});
