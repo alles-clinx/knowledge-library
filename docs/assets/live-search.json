@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 108,
+  "record_count": 118,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1190,6 +1190,116 @@
       "subcategory_slug": "floor-surface-troubleshooting",
       "excerpt": "Stain वापस आ सकती है जब contamination porous material के अंदर remain हो, staining source active हो, residue new soil attract करे या moisture dissolved material को surface पर वापस लाए।",
       "url": "library/floor-surface-care/floor-surface-troubleshooting/why-stains-return-after-surface-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0055",
+      "locale": "en",
+      "title": "What Is a Routine Washroom Cleaning Program?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Routine Washroom Cleaning",
+      "subcategory_slug": "routine-washroom-cleaning",
+      "excerpt": "A routine washroom cleaning program is a repeatable plan that defines what must be checked, cleaned, disinfected where required, restocked, recorded and escalated during normal operation.",
+      "url": "library/washroom-hygiene/routine-washroom-cleaning/what-is-a-routine-washroom-cleaning-program/"
+    },
+    {
+      "article_id": "ACX-KB-0055",
+      "locale": "hi-IN",
+      "title": "Routine washroom cleaning program क्या है?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Routine Washroom Cleaning",
+      "subcategory_slug": "routine-washroom-cleaning",
+      "excerpt": "Routine washroom cleaning program एक repeatable plan है जो inspection, cleaning, required disinfection, restocking, recording और escalation define करता है।",
+      "url": "library/washroom-hygiene/routine-washroom-cleaning/what-is-a-routine-washroom-cleaning-program/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0056",
+      "locale": "en",
+      "title": "How to Structure a Washroom Cleaning Sequence",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Routine Washroom Cleaning",
+      "subcategory_slug": "routine-washroom-cleaning",
+      "excerpt": "A washroom cleaning sequence should control access, remove waste, work from cleaner to dirtier surfaces, prioritise high-touch fixtures, prevent tool cross-contamination and finish with floors and verification.",
+      "url": "library/washroom-hygiene/routine-washroom-cleaning/how-to-structure-a-washroom-cleaning-sequence/"
+    },
+    {
+      "article_id": "ACX-KB-0056",
+      "locale": "hi-IN",
+      "title": "Washroom cleaning sequence कैसे structure करें",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Routine Washroom Cleaning",
+      "subcategory_slug": "routine-washroom-cleaning",
+      "excerpt": "Washroom sequence access control, waste removal, cleaner-to-dirtier movement, high-touch priority, tool segregation, floors और final verification को logically organise करती है।",
+      "url": "library/washroom-hygiene/routine-washroom-cleaning/how-to-structure-a-washroom-cleaning-sequence/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0057",
+      "locale": "en",
+      "title": "How Often Should Washrooms Be Inspected?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Routine Washroom Cleaning",
+      "subcategory_slug": "routine-washroom-cleaning",
+      "excerpt": "Washroom inspection frequency should be set by traffic, contamination risk, supply use, complaint history and operating hours, with extra checks when conditions change rather than one universal interval.",
+      "url": "library/washroom-hygiene/routine-washroom-cleaning/how-often-should-washrooms-be-inspected/"
+    },
+    {
+      "article_id": "ACX-KB-0057",
+      "locale": "hi-IN",
+      "title": "Washrooms को कितनी बार inspect करना चाहिए?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Routine Washroom Cleaning",
+      "subcategory_slug": "routine-washroom-cleaning",
+      "excerpt": "Washroom inspection frequency traffic, contamination risk, supply use, complaints और operating hours पर base होनी चाहिए; one universal interval हर facility पर fit नहीं होता।",
+      "url": "library/washroom-hygiene/routine-washroom-cleaning/how-often-should-washrooms-be-inspected/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0058",
+      "locale": "en",
+      "title": "What Causes Toilet-Bowl Ring and Mineral Buildup?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Toilet & Urinal Care",
+      "subcategory_slug": "toilet-urinal-care",
+      "excerpt": "Toilet-bowl ring and mineral buildup can form where hard-water minerals, urine scale, soil and repeated evaporation concentrate deposits at the waterline or on wet fixture surfaces.",
+      "url": "library/washroom-hygiene/toilet-urinal-care/what-causes-toilet-bowl-ring-and-mineral-buildup/"
+    },
+    {
+      "article_id": "ACX-KB-0058",
+      "locale": "hi-IN",
+      "title": "Toilet-bowl ring और mineral buildup क्यों बनते हैं?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Toilet & Urinal Care",
+      "subcategory_slug": "toilet-urinal-care",
+      "excerpt": "Toilet-bowl ring hard-water minerals, urine-related deposits, soil और repeated evaporation के कारण waterline या wet fixture surfaces पर develop हो सकती है।",
+      "url": "library/washroom-hygiene/toilet-urinal-care/what-causes-toilet-bowl-ring-and-mineral-buildup/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0059",
+      "locale": "en",
+      "title": "Routine Toilet Care vs Periodic Descaling",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Toilet & Urinal Care",
+      "subcategory_slug": "toilet-urinal-care",
+      "excerpt": "Routine toilet care removes everyday soil and maintains hygiene; periodic descaling targets established mineral deposits that routine cleaning is not designed to remove.",
+      "url": "library/washroom-hygiene/toilet-urinal-care/routine-toilet-care-vs-periodic-descaling/"
+    },
+    {
+      "article_id": "ACX-KB-0059",
+      "locale": "hi-IN",
+      "title": "Routine toilet care vs periodic descaling",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Toilet & Urinal Care",
+      "subcategory_slug": "toilet-urinal-care",
+      "excerpt": "Routine toilet care daily soil और hygiene condition maintain करती है; periodic descaling established mineral deposits target करती है जिन्हें routine cleaning remove करने के लिए designed नहीं होती।",
+      "url": "library/washroom-hygiene/toilet-urinal-care/routine-toilet-care-vs-periodic-descaling/hi.html"
     }
   ]
 }
