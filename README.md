@@ -1,4 +1,16 @@
-# Alle's ClinX Knowledge Library
+<div align="center">
+
+# Alle's ClinX
+
+**KNOWLEDGE**
+
+[Solutions](https://allesclinx.com/solutions/) · [ClinXAi](https://allesclinx.com/clinxai/) · [Shop](https://allesclinx.com/shop/) · [Plus](https://allesclinx.com/plus/) · [Support](https://allesclinx.com/support/)
+
+[Open Knowledge Website](https://alles-clinx.github.io/knowledge-library/)
+
+</div>
+
+---
 
 Open knowledge for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.
 
