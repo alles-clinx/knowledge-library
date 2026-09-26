@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 178,
+  "record_count": 188,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1960,6 +1960,116 @@
       "subcategory_slug": "chimney-exhaust-cleaning",
       "excerpt": "Cooking grease-laden vapours/aerosols release करती है जिन्हें hood capture करता है; filters, plenums, ducts और fans से गुजरते समय कुछ grease surfaces पर deposit होती है।",
       "url": "library/kitchen-food-service/chimney-exhaust-cleaning/why-kitchen-exhaust-systems-accumulate-grease/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0090",
+      "locale": "en",
+      "title": "Routine Surface Degreasing vs Exhaust-System Cleaning",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Chimney & Exhaust Cleaning",
+      "subcategory_slug": "chimney-exhaust-cleaning",
+      "excerpt": "Routine surface degreasing removes accessible grease from kitchen surfaces; exhaust-system cleaning addresses grease inside hoods, filters, plenums, ducts and fans under a separate inspection and maintenance program.",
+      "url": "library/kitchen-food-service/chimney-exhaust-cleaning/routine-surface-degreasing-vs-exhaust-system-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0090",
+      "locale": "hi-IN",
+      "title": "Routine surface degreasing vs exhaust-system cleaning",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Chimney & Exhaust Cleaning",
+      "subcategory_slug": "chimney-exhaust-cleaning",
+      "excerpt": "Routine surface degreasing accessible grease remove करती है; exhaust-system cleaning hood internals, filters, plenums, ducts और fans के grease को separate inspection/maintenance program में address करती है।",
+      "url": "library/kitchen-food-service/chimney-exhaust-cleaning/routine-surface-degreasing-vs-exhaust-system-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0091",
+      "locale": "en",
+      "title": "Carbonised Grease vs Fresh Grease",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Chimney & Exhaust Cleaning",
+      "subcategory_slug": "chimney-exhaust-cleaning",
+      "excerpt": "Fresh grease is relatively soft and oily; carbonised or heavily heat-aged grease is darker, harder and more strongly bonded because heat, oxidation, polymerization and food solids have changed the deposit.",
+      "url": "library/kitchen-food-service/chimney-exhaust-cleaning/carbonised-grease-vs-fresh-grease/"
+    },
+    {
+      "article_id": "ACX-KB-0091",
+      "locale": "hi-IN",
+      "title": "Carbonised grease vs fresh grease",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Chimney & Exhaust Cleaning",
+      "subcategory_slug": "chimney-exhaust-cleaning",
+      "excerpt": "Fresh grease soft/oily होती है; heavily heat-aged या carbonised grease heat, oxidation, polymerization और food solids के कारण darker, harder और strongly bonded हो सकती है।",
+      "url": "library/kitchen-food-service/chimney-exhaust-cleaning/carbonised-grease-vs-fresh-grease/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0092",
+      "locale": "en",
+      "title": "What Is a Food-Contact Surface?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Food-Contact Surfaces",
+      "subcategory_slug": "food-contact-surfaces",
+      "excerpt": "A food-contact surface is equipment or utensil surface that normally touches food, or a surface from which food can drain, drip or splash into food or onto another food-contact surface.",
+      "url": "library/kitchen-food-service/food-contact-surfaces/what-is-a-food-contact-surface/"
+    },
+    {
+      "article_id": "ACX-KB-0092",
+      "locale": "hi-IN",
+      "title": "Food-contact surface क्या है?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Food-Contact Surfaces",
+      "subcategory_slug": "food-contact-surfaces",
+      "excerpt": "Food-contact surface equipment/utensil surface है जो normally food touch करती है, या जहाँ से food drain, drip या splash होकर food/other food-contact surface तक पहुँच सकती है।",
+      "url": "library/kitchen-food-service/food-contact-surfaces/what-is-a-food-contact-surface/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0093",
+      "locale": "en",
+      "title": "Cleaning vs Sanitising Food-Contact Surfaces",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Food-Contact Surfaces",
+      "subcategory_slug": "food-contact-surfaces",
+      "excerpt": "Cleaning removes food soil and residue from food-contact surfaces; sanitising is a separate post-cleaning step that reduces microorganisms using an approved hot-water or chemical method before the surface returns to use.",
+      "url": "library/kitchen-food-service/food-contact-surfaces/cleaning-vs-sanitising-food-contact-surfaces/"
+    },
+    {
+      "article_id": "ACX-KB-0093",
+      "locale": "hi-IN",
+      "title": "Food-contact surfaces: cleaning vs sanitising",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Food-Contact Surfaces",
+      "subcategory_slug": "food-contact-surfaces",
+      "excerpt": "Cleaning food soil/residue remove करती है; sanitising effective cleaning के बाद approved hot-water/chemical method से microorganisms reduce करने का separate step है।",
+      "url": "library/kitchen-food-service/food-contact-surfaces/cleaning-vs-sanitising-food-contact-surfaces/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0094",
+      "locale": "en",
+      "title": "Why Product Labels Matter on Food-Contact Areas",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Food-Contact Surfaces",
+      "subcategory_slug": "food-contact-surfaces",
+      "excerpt": "Product labels matter on food-contact areas because they define whether the use is approved, the required dilution, contact time, rinse or no-rinse direction, surface type, application method and safety conditions.",
+      "url": "library/kitchen-food-service/food-contact-surfaces/why-product-labels-matter-on-food-contact-areas/"
+    },
+    {
+      "article_id": "ACX-KB-0094",
+      "locale": "hi-IN",
+      "title": "Food-contact areas पर product labels क्यों matter करते हैं",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Food-Contact Surfaces",
+      "subcategory_slug": "food-contact-surfaces",
+      "excerpt": "Product label define करता है use approved है या नहीं, dilution, contact time, rinse/no-rinse direction, surface type, application method और safety conditions क्या हैं।",
+      "url": "library/kitchen-food-service/food-contact-surfaces/why-product-labels-matter-on-food-contact-areas/hi.html"
     }
   ]
 }
