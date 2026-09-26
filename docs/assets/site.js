@@ -1,4 +1,9 @@
 (function(){
+  document.querySelectorAll('link[rel~="icon"],link[rel="shortcut icon"],link[rel="apple-touch-icon"],link[rel="mask-icon"]').forEach(function(el){el.remove();});
+  const blankIcon=document.createElement('link');
+  blankIcon.rel='icon';
+  blankIcon.href='data:,';
+  document.head.appendChild(blankIcon);
   if(window.__ACX_SITE_SHELL__) return;
   window.__ACX_SITE_SHELL__=true;
   const BASE='/knowledge-library/';
