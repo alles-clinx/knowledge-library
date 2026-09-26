@@ -156,4 +156,33 @@ for article_id in article_ids:
     (out_dir / "hi.html").write_text(render(TEMPLATE_HI, hi, "hi-IN"), encoding="utf-8")
     rendered += 2
 
+search_records = []
+for live_id in LIVE.get("live_article_ids", []):
+    meta = BY_ID.get(live_id)
+    if not meta:
+        continue
+    en_path = ROOT / "articles" / meta["category_slug"] / live_id / "en.json"
+    if not en_path.exists():
+        continue
+    en = json.loads(en_path.read_text(encoding="utf-8"))
+    search_records.append({
+        "article_id": en["article_id"],
+        "title": en["title"],
+        "category": en["category"],
+        "category_slug": en["category_slug"],
+        "subcategory": en["subcategory"],
+        "subcategory_slug": en["subcategory_slug"],
+        "url": route(en).lstrip("/")
+    })
+
+(ROOT / "docs" / "assets" / "live-search.json").write_text(
+    json.dumps({
+        "version": 1,
+        "generated_for": "GitHub Pages live site",
+        "record_count": len(search_records),
+        "records": search_records
+    }, ensure_ascii=False, indent=2) + "\n",
+    encoding="utf-8"
+)
+
 print(f"Rendered {rendered} pages for {current}.")
