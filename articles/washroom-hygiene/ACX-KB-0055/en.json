@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0055",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Routine Washroom Cleaning Program?",
+  "slug": "what-is-a-routine-washroom-cleaning-program",
+  "subcategory": "Routine Washroom Cleaning",
+  "subcategory_slug": "routine-washroom-cleaning",
+  "excerpt": "A routine washroom cleaning program is a repeatable plan that defines what must be checked, cleaned, disinfected where required, restocked, recorded and escalated during normal operation.",
+  "content_html": "<p>A routine washroom cleaning program is a defined system for keeping toilets, urinals, sinks, touchpoints, floors and supplies in an acceptable condition throughout normal use. It combines scheduled work with condition-based response so staff know what to do, how often to check, and when a problem needs escalation.</p>\n<h2 id=\"program-not-single-task\">A program is more than one cleaning task</h2><p>Washrooms contain high-touch and frequently contaminated surfaces, supply points, plumbing fixtures, floors and low-touch areas. CDC guidance treats toilet areas as higher-risk than many general spaces because of frequent contact and contamination, so the program should separate routine cleaning, high-touch attention, visible-soil response and scheduled low-touch work.</p>\n<h2 id=\"core-program-elements\">Core elements of a routine program</h2><ul>\n<li><strong>Inspection:</strong> check soil, moisture, odour, consumables, damage and access conditions.</li>\n<li><strong>Cleaning:</strong> remove visible soil from fixtures, partitions, dispensers and floors.</li>\n<li><strong>Disinfection where required:</strong> apply an approved disinfectant to specified high-touch or frequently contaminated surfaces after cleaning.</li>\n<li><strong>Restocking:</strong> replenish soap, tissue, towels and other required supplies.</li>\n<li><strong>Drying and safety:</strong> control wet floors and return the area to use only when safe.</li>\n<li><strong>Recording and escalation:</strong> document completion, exceptions, damage, leaks, blockages and recurring hygiene issues.</li>\n</ul>\n<h2 id=\"high-touch-priority\">High-touch surfaces need priority</h2><p>Door handles, flush controls, taps, dispenser touchpoints, grab rails and toilet-seat contact areas are touched frequently and should receive more attention than low-touch walls or upper partitions. CDC recommends more frequent cleaning of high-touch surfaces than low-touch surfaces.</p>\n<h2 id=\"visible-soil-response\">Visible soil overrides the normal schedule</h2><p>A timetable is not a reason to leave a visibly soiled fixture until the next round. Spills, body-fluid contamination, standing water, blocked fixtures and overflowing bins require prompt response according to the facility's procedures.</p>\n<h2 id=\"supplies-are-part-of-hygiene\">Supplies are part of washroom hygiene</h2><p>A visually clean washroom can still fail operationally if soap, hand-drying supplies or toilet tissue are unavailable. Inspection rounds should therefore check consumables as well as surfaces.</p>\n<h2 id=\"low-touch-scheduled-work\">Low-touch work belongs on a scheduled cycle</h2><p>Walls, vents, upper ledges and other low-touch surfaces usually need less frequent attention than high-touch points, but they still need a defined schedule and cleaning when visibly soiled.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A good routine program answers five questions: <strong>what is checked, what is cleaned, what is disinfected, what is restocked, and what must be escalated?</strong> The schedule should be adjusted to traffic and condition rather than treated as a fixed ritual.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Engineering Consolidated Services specification</a>.</li>\n</ol>",
+  "seo_title": "What Is a Routine Washroom Cleaning Program? | Alle's ClinX",
+  "meta_description": "Learn how a routine washroom cleaning program combines inspection, cleaning, high-touch disinfection where required, restocking, safety, recording and escalation.",
+  "related_article_ids": [
+    "ACX-KB-0056",
+    "ACX-KB-0057",
+    "ACX-KB-0015"
+  ]
+}

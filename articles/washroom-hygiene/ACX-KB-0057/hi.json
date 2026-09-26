@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0057",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0057",
+  "title": "Washrooms को कितनी बार inspect करना चाहिए?",
+  "slug": "how-often-should-washrooms-be-inspected",
+  "subcategory": "Routine Washroom Cleaning",
+  "subcategory_slug": "routine-washroom-cleaning",
+  "excerpt": "Washroom inspection frequency traffic, contamination risk, supply use, complaints और operating hours पर base होनी चाहिए; one universal interval हर facility पर fit नहीं होता।",
+  "content_html": "<p>हर washroom के लिए single inspection interval नहीं है। Low-use staff washroom और busy public washroom की condition अलग speed से बदलती है। Frequency इस पर base करें कि rounds के बीच hygiene, supplies और safety कितनी जल्दी deteriorate हो सकती है।</p>\n<h2 id=\"hi57-risk\">Risk और use से start करें</h2><p>CDC high-touch/high-traffic areas में more frequent cleaning recommend करता है। Healthcare shared toilets higher-risk माने जाते हैं और more frequent cleaning/disinfection मांग सकते हैं। Exact healthcare frequency हर building पर copy नहीं करनी चाहिए, लेकिन principle clear है: more use = more attention.</p>\n<h2 id=\"hi57-checks\">Inspection क्या check करे</h2><ul>\n<li>Visible soil, spills और standing water.</li>\n<li>Toilet, urinal, sink और drain condition.</li>\n<li>Soap, tissue और hand-drying supplies.</li>\n<li>Waste-bin level.</li>\n<li>Odour source.</li>\n<li>Wet-floor/slip conditions.</li>\n<li>Leaks, blockages, damage या fixture failure.</li>\n<li>High-touch surface condition.</li>\n</ul>\n<h2 id=\"hi57-more\">कब checks ज्यादा frequent होने चाहिए</h2><p>Peak occupancy, events, school breaks, shift change, transport surges, outbreaks, wet weather, plumbing problems, repeated complaints या unusually fast supply consumption के दौरान frequency बढ़ाएं।</p>\n<h2 id=\"hi57-data\">Habit नहीं, data use करें</h2><p>Inspection logs दिखाते हैं failures कब होते हैं। Soap rounds के बीच repeatedly खत्म हो तो interval बहुत long है या dispenser capacity insufficient है। Consistently acceptable low-use washroom में resources elsewhere shift किए जा सकते हैं जबकि minimum schedule maintained रहे।</p>\n<h2 id=\"hi57-inspect-vs-clean\">Inspection full cleaning जैसी नहीं है</h2><p>Inspection targeted action trigger कर सकती है—soap refill, touchpoint wipe, waste removal या spill response—बिना हर routine task repeat किए।</p>\n<h2 id=\"hi57-method\">Simple frequency-setting method</h2><ol>\n<li>Operating hours और expected traffic define करें.</li>\n<li>Initial inspection interval set करें.</li>\n<li>कुछ cycles तक between-round failures record करें.</li>\n<li>जहाँ hygiene/supply/safety next check से पहले fail हो वहाँ interval छोटा करें.</li>\n<li>Traffic/conditions change होने पर reassess करें.</li>\n</ol>\n<h2 id=\"hi57-takeaway\">Practical takeaway</h2><p>Right frequency वह interval है जो unacceptable/unsafe condition users तक पहुँचने से पहले deterioration catch करे। Actual use/evidence पर base करें, universal clock time पर नहीं।</p>\n<h2 id=\"hi57-references\">संदर्भ</h2><ol>\n<li id=\"hi57-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi57-ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning Frequency</a>.</li>\n<li id=\"hi57-ref-3\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Services specification</a>.</li>\n</ol>",
+  "seo_title": "Washroom Inspection Frequency | Alle's ClinX",
+  "meta_description": "Traffic, contamination risk, supplies, complaints और operating hours के आधार पर washroom inspection frequency set करना समझें।",
+  "related_article_ids": [
+    "ACX-KB-0055",
+    "ACX-KB-0056",
+    "ACX-KB-0016"
+  ]
+}

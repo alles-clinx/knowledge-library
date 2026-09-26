@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0056",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Structure a Washroom Cleaning Sequence",
+  "slug": "how-to-structure-a-washroom-cleaning-sequence",
+  "subcategory": "Routine Washroom Cleaning",
+  "subcategory_slug": "routine-washroom-cleaning",
+  "excerpt": "A washroom cleaning sequence should control access, remove waste, work from cleaner to dirtier surfaces, prioritise high-touch fixtures, prevent tool cross-contamination and finish with floors and verification.",
+  "content_html": "<p>A defined washroom cleaning sequence reduces missed tasks, repeated work and cross-contamination. The exact route depends on the facility and washroom layout, but the sequence should move logically from preparation through fixtures and touchpoints to floors, drying and final verification.</p>\n<h2 id=\"step-1-control-access\">1. Control access and inspect</h2><p>Place the washroom under the facility's approved access-control procedure. Inspect for spills, blockages, damage, sharps or other hazards, overflowing waste, low supplies and unusual contamination before starting.</p>\n<h2 id=\"step-2-remove-waste-and-replenish\">2. Remove waste and prepare supplies</h2><p>Empty waste as required and bring clean tools and enough consumables for the round. Keep clean supplies separated from used cloths, waste and contaminated equipment.</p>\n<h2 id=\"step-3-clean-cleaner-to-dirtier\">3. Work from cleaner to dirtier areas</h2><p>CDC recommends systematic cleaning patterns and cleaner-to-dirtier movement to reduce transfer of contamination. In a washroom, this means avoiding use of the same cloth face or tool on a sink area and then on a more contaminated toilet or urinal surface.</p>\n<h2 id=\"step-4-high-touch-surfaces\">4. Clean high-touch surfaces</h2><p>Prioritise handles, taps, flush controls, dispenser touchpoints, grab rails and other frequently touched surfaces. Where disinfection is required, clean first and then use the approved disinfectant according to its label and facility procedure.</p>\n<h2 id=\"step-5-toilets-and-urinals\">5. Clean toilets and urinals with dedicated tools</h2><p>Use dedicated or clearly segregated tools for toilets and urinals so contamination is not transferred to sinks, counters or other cleaner surfaces. Follow product compatibility and dwell/contact instructions.</p>\n<h2 id=\"step-6-floors-last\">6. Clean floors near the end</h2><p>Floors collect material dislodged during the rest of the process. Cleaning them near the end avoids re-soiling a floor that was completed too early. Control wet-floor risk until the area is dry.</p>\n<h2 id=\"step-7-verify-and-reopen\">7. Verify before reopening</h2><p>Check visible cleanliness, dry condition, supplies, odour source, fixture operation, waste removal and any unresolved maintenance issue. Record exceptions rather than marking a round complete when a problem remains open.</p>\n<h2 id=\"avoid-common-sequence-errors\">Avoid common sequence errors</h2><ul>\n<li>Using one cloth or mop system across incompatible contamination zones.</li>\n<li>Cleaning floors first and then dropping soil back onto them.</li>\n<li>Applying disinfectant to visible soil without a cleaning step where cleaning is required first.</li>\n<li>Restocking clean supplies with contaminated gloves or hands.</li>\n<li>Reopening the area while floors remain wet or a hazard is unresolved.</li>\n</ul>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A robust sequence is: <strong>inspect and control access → remove waste → cleaner surfaces → high-touch points → toilets/urinals → floors → restock and verify.</strong> Keep tools segregated and adapt the route to the actual washroom layout.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li>\n</ol>",
+  "seo_title": "How to Structure a Washroom Cleaning Sequence | Alle's ClinX",
+  "meta_description": "Structure washroom cleaning from access control and inspection through cleaner surfaces, touchpoints, toilets, floors, restocking and final verification.",
+  "related_article_ids": [
+    "ACX-KB-0055",
+    "ACX-KB-0057",
+    "ACX-KB-0019"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0055",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0055",
+  "title": "Routine washroom cleaning program क्या है?",
+  "slug": "what-is-a-routine-washroom-cleaning-program",
+  "subcategory": "Routine Washroom Cleaning",
+  "subcategory_slug": "routine-washroom-cleaning",
+  "excerpt": "Routine washroom cleaning program एक repeatable plan है जो inspection, cleaning, required disinfection, restocking, recording और escalation define करता है।",
+  "content_html": "<p>Routine washroom cleaning program toilets, urinals, sinks, touchpoints, floors और supplies को normal use के दौरान acceptable condition में रखने का defined system है। इसमें scheduled work और condition-based response दोनों शामिल होते हैं।</p>\n<h2 id=\"hi55-program\">Program एक single task नहीं है</h2><p>Washrooms में high-touch surfaces, frequently contaminated fixtures, consumables, floors और low-touch areas होते हैं। CDC toilet areas को many general spaces से higher-risk मानता है, इसलिए routine cleaning, touchpoint attention, visible-soil response और scheduled work अलग define होने चाहिए।</p>\n<h2 id=\"hi55-elements\">Core program elements</h2><ul>\n<li><strong>Inspection:</strong> soil, moisture, odour, consumables, damage और access check करें.</li>\n<li><strong>Cleaning:</strong> fixtures, partitions, dispensers और floors से visible soil remove करें.</li>\n<li><strong>Required disinfection:</strong> facility procedure के अनुसार specified high-touch/frequently contaminated surfaces पर approved disinfectant use करें.</li>\n<li><strong>Restocking:</strong> soap, tissue, hand-drying supplies और required consumables replenish करें.</li>\n<li><strong>Drying and safety:</strong> wet-floor risk control करें.</li>\n<li><strong>Recording/escalation:</strong> leaks, blockages, damage और recurring issues document करें.</li>\n</ul>\n<h2 id=\"hi55-touch\">High-touch surfaces priority हैं</h2><p>Door handles, flush controls, taps, dispenser touchpoints, grab rails और toilet-seat contact areas low-touch walls से ज्यादा frequently handled होते हैं। CDC high-touch surfaces को more frequent attention देने को कहता है।</p>\n<h2 id=\"hi55-soil\">Visible soil schedule को override करती है</h2><p>Timetable visibly soiled fixture को next round तक छोड़ने का reason नहीं है। Spill, standing water, overflow, blockage या other contamination पर prompt response चाहिए।</p>\n<h2 id=\"hi55-supplies\">Supplies भी hygiene का हिस्सा हैं</h2><p>Washroom visually clean हो सकती है लेकिन soap, hand-drying supply या tissue missing हो तो operationally fail करती है। Inspection round में consumables भी check करें।</p>\n<h2 id=\"hi55-lowtouch\">Low-touch work scheduled cycle पर रखें</h2><p>Walls, vents, upper ledges जैसे areas high-touch points से less frequent attention मांगते हैं, लेकिन उनका defined schedule होना चाहिए और visible soil पर clean करना चाहिए।</p>\n<h2 id=\"hi55-takeaway\">Practical takeaway</h2><p>Good routine program पाँच questions answer करे: <strong>क्या check होगा, क्या clean होगा, क्या disinfect होगा, क्या restock होगा, और क्या escalate होगा?</strong> Frequency traffic और condition के अनुसार adjust करें।</p>\n<h2 id=\"hi55-references\">संदर्भ</h2><ol>\n<li id=\"hi55-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi55-ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning and Disinfection</a>.</li>\n<li id=\"hi55-ref-3\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Services specification</a>.</li>\n</ol>",
+  "seo_title": "Routine Washroom Cleaning Program | Alle's ClinX",
+  "meta_description": "Inspection, cleaning, required disinfection, restocking, safety, recording और escalation के साथ routine washroom program समझें।",
+  "related_article_ids": [
+    "ACX-KB-0056",
+    "ACX-KB-0057",
+    "ACX-KB-0015"
+  ]
+}

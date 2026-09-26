@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0059",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Routine Toilet Care vs Periodic Descaling",
+  "slug": "routine-toilet-care-vs-periodic-descaling",
+  "subcategory": "Toilet & Urinal Care",
+  "subcategory_slug": "toilet-urinal-care",
+  "excerpt": "Routine toilet care removes everyday soil and maintains hygiene; periodic descaling targets established mineral deposits that routine cleaning is not designed to remove.",
+  "content_html": "<p>Routine toilet care and periodic descaling solve different problems. Routine care controls daily soil, visible contamination and touchpoint hygiene. Descaling is an occasional maintenance process for established mineral deposits or scale that remain after correct routine cleaning.</p>\n<h2 id=\"routine-care\">Routine toilet care</h2><p>Routine care is the recurring process used to keep the fixture hygienic and presentable. It includes inspection, removal of visible soil, cleaning of the bowl or urinal, attention to flush controls and nearby touchpoints, and response to spills or blockages.</p>\n<h2 id=\"periodic-descaling\">Periodic descaling</h2><p>Descaling targets mineral deposits associated with hard water and repeated evaporation. USGS identifies calcium and magnesium as the main contributors to water hardness. These minerals can form scale that is physically and chemically different from ordinary daily soil.</p>\n<h2 id=\"why-they-should-not-be-confused\">Why the two processes should not be confused</h2><p>If descaling chemistry is used as an everyday cleaner when scale is absent, the facility may expose fixtures, seals, metal components or surrounding surfaces to unnecessary chemical stress. If routine cleaner is repeatedly used on established mineral scale, staff may scrub harder without addressing the actual deposit.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Routine care</th><th>Periodic descaling</th></tr></thead><tbody>\n<tr><td>Purpose</td><td>Control daily soil and hygiene condition</td><td>Remove established mineral scale</td></tr>\n<tr><td>Frequency</td><td>Recurring, based on use and risk</td><td>Condition-triggered or scheduled as needed</td></tr>\n<tr><td>Chemistry</td><td>Routine fixture-compatible cleaner</td><td>Compatible scale-removal product selected for the fixture</td></tr>\n<tr><td>Mechanical action</td><td>Normal cleaning action</td><td>May require more focused treatment within surface limits</td></tr>\n<tr><td>Trigger</td><td>Normal operating schedule and visible soil</td><td>Persistent mineral buildup after routine cleaning</td></tr>\n</tbody></table>\n<h2 id=\"compatibility-before-descaling\">Compatibility comes before descaling</h2><p>Do not choose a descaler only because it is strong or acidic. Confirm the toilet or urinal material, metal fittings, seals and manufacturer restrictions. CDC recommends using products that do not damage the surface and following manufacturer instructions.</p>\n<h2 id=\"when-to-escalate\">When to escalate</h2><p>If a deposit returns very quickly, check water hardness, flushing performance, leaks and fixture condition. Repeated scale formation can be a water-quality or maintenance issue, not simply a cleaning-frequency problem.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Routine care is the everyday hygiene process; descaling is targeted maintenance. Use descaling only when mineral buildup requires it, and keep the product compatible with the complete fixture system.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning</a>.</li>\n</ol>",
+  "seo_title": "Routine Toilet Care vs Periodic Descaling | Alle's ClinX",
+  "meta_description": "Compare routine toilet care with periodic descaling by purpose, frequency, chemistry, trigger and surface-compatibility requirements.",
+  "related_article_ids": [
+    "ACX-KB-0058",
+    "ACX-KB-0046",
+    "ACX-KB-0047"
+  ]
+}

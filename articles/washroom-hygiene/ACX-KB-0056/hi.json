@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0056",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0056",
+  "title": "Washroom cleaning sequence कैसे structure करें",
+  "slug": "how-to-structure-a-washroom-cleaning-sequence",
+  "subcategory": "Routine Washroom Cleaning",
+  "subcategory_slug": "routine-washroom-cleaning",
+  "excerpt": "Washroom sequence access control, waste removal, cleaner-to-dirtier movement, high-touch priority, tool segregation, floors और final verification को logically organise करती है।",
+  "content_html": "<p>Defined washroom cleaning sequence missed tasks, repeated work और cross-contamination कम करती है। Exact route facility/layout पर depend करती है, लेकिन process preparation से fixtures/touchpoints, floors, drying और verification तक logical होना चाहिए।</p>\n<h2 id=\"hi56-access\">1. Access control और inspection</h2><p>Facility-approved procedure से area control करें। Spill, blockage, damage, sharps/other hazards, overflowing waste, low supplies और unusual contamination check करें।</p>\n<h2 id=\"hi56-waste\">2. Waste remove करें और supplies prepare करें</h2><p>Waste remove करें और clean tools/consumables ready रखें। Clean supplies को used cloths, waste और contaminated equipment से separate रखें।</p>\n<h2 id=\"hi56-cleaner\">3. Cleaner से dirtier direction में work करें</h2><p>CDC systematic और cleaner-to-dirtier cleaning recommend करता है। Sink/counter area के लिए used cloth face को toilet/urinal जैसी dirtier zone पर reuse न करें।</p>\n<h2 id=\"hi56-touch\">4. High-touch surfaces clean करें</h2><p>Handles, taps, flush controls, dispenser touchpoints और grab rails priority हैं। Disinfection required हो तो cleaning के बाद approved disinfectant label/facility procedure के अनुसार use करें।</p>\n<h2 id=\"hi56-toilets\">5. Toilets/urinals के लिए dedicated tools रखें</h2><p>Dedicated या clearly segregated tools use करें ताकि contamination sinks/counters पर transfer न हो। Product compatibility और dwell/contact instructions follow करें।</p>\n<h2 id=\"hi56-floor\">6. Floors near the end clean करें</h2><p>बाकी process में dislodged material floor पर आता है। Floors end के near clean करने से re-soiling कम होती है। Dry होने तक wet-floor risk control करें।</p>\n<h2 id=\"hi56-verify\">7. Reopen से पहले verify करें</h2><p>Visible cleanliness, dry condition, supplies, fixture operation, waste removal और unresolved maintenance issues check करें। Open problem हो तो exception record करें।</p>\n<h2 id=\"hi56-errors\">Common sequence errors</h2><ul>\n<li>Same cloth/tool को incompatible zones में use करना.</li>\n<li>Floor पहले clean करके बाद में soil वापस गिराना.</li>\n<li>Visible soil के ऊपर directly disinfectant लगाना जब cleaning first required हो.</li>\n<li>Contaminated gloves से clean supplies restock करना.</li>\n<li>Wet floor या unresolved hazard के साथ area reopen करना.</li>\n</ul>\n<h2 id=\"hi56-takeaway\">Practical takeaway</h2><p>Robust sequence: <strong>inspect/access control → waste → cleaner surfaces → high-touch points → toilets/urinals → floors → restock/verify.</strong> Tools segregated रखें।</p>\n<h2 id=\"hi56-references\">संदर्भ</h2><ol>\n<li id=\"hi56-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi56-ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning</a>.</li>\n</ol>",
+  "seo_title": "Washroom Cleaning Sequence | Alle's ClinX",
+  "meta_description": "Access control, cleaner-to-dirtier movement, touchpoints, toilets, floors, restocking और verification के साथ washroom sequence structure करें।",
+  "related_article_ids": [
+    "ACX-KB-0055",
+    "ACX-KB-0057",
+    "ACX-KB-0019"
+  ]
+}

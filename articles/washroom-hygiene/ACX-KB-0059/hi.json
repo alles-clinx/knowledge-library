@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0059",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0059",
+  "title": "Routine toilet care vs periodic descaling",
+  "slug": "routine-toilet-care-vs-periodic-descaling",
+  "subcategory": "Toilet & Urinal Care",
+  "subcategory_slug": "toilet-urinal-care",
+  "excerpt": "Routine toilet care daily soil और hygiene condition maintain करती है; periodic descaling established mineral deposits target करती है जिन्हें routine cleaning remove करने के लिए designed नहीं होती।",
+  "content_html": "<p>Routine toilet care और periodic descaling अलग problems solve करते हैं। Routine care daily soil, visible contamination और touchpoint hygiene control करती है। Descaling established mineral deposits के लिए occasional maintenance process है।</p>\n<h2 id=\"hi59-routine\">Routine toilet care</h2><p>Routine care recurring process है: inspection, visible soil removal, bowl/urinal cleaning, flush controls/touchpoints और spills/blockages response।</p>\n<h2 id=\"hi59-descale\">Periodic descaling</h2><p>Descaling hard-water minerals और repeated evaporation से बने deposits target करती है। USGS calcium और magnesium को water hardness के main contributors बताता है।</p>\n<h2 id=\"hi59-difference\">दोनों को confuse क्यों नहीं करना चाहिए</h2><p>Scale absent हो और aggressive descaling chemistry daily use की जाए तो fixtures, seals, metal components या adjacent surfaces पर unnecessary chemical stress हो सकता है। Established scale पर routine cleaner repeat करने से staff harder scrub कर सकते हैं लेकिन deposit solve नहीं होगा।</p>\n<h2 id=\"hi59-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Routine care</th><th>Periodic descaling</th></tr></thead><tbody>\n<tr><td>Purpose</td><td>Daily soil/hygiene control</td><td>Established mineral scale removal</td></tr>\n<tr><td>Frequency</td><td>Recurring, use/risk based</td><td>Condition-triggered/as needed</td></tr>\n<tr><td>Chemistry</td><td>Routine fixture-compatible cleaner</td><td>Fixture-compatible scale remover</td></tr>\n<tr><td>Action</td><td>Normal cleaning action</td><td>Focused treatment within surface limits</td></tr>\n<tr><td>Trigger</td><td>Schedule और visible soil</td><td>Routine cleaning के बाद persistent mineral buildup</td></tr>\n</tbody></table>\n<h2 id=\"hi59-compatibility\">Descaling से पहले compatibility</h2><p>Descaler केवल strong/acidic होने के कारण न चुनें। Toilet/urinal material, metal fittings, seals और manufacturer restrictions confirm करें। CDC surface-damaging products avoid करने को कहता है।</p>\n<h2 id=\"hi59-escalate\">कब escalate करें</h2><p>Deposit बहुत जल्दी return करे तो water hardness, flushing performance, leaks और fixture condition check करें। Repeated scale water-quality या maintenance problem भी हो सकती है।</p>\n<h2 id=\"hi59-takeaway\">Practical takeaway</h2><p>Routine care everyday hygiene process है; descaling targeted maintenance है। Mineral buildup require करे तभी descaling करें और complete fixture system के साथ product compatibility confirm करें।</p>\n<h2 id=\"hi59-references\">संदर्भ</h2><ol>\n<li id=\"hi59-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi59-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi59-ref-3\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning</a>.</li>\n</ol>",
+  "seo_title": "Routine Toilet Care vs Descaling | Alle's ClinX",
+  "meta_description": "Purpose, frequency, chemistry, trigger और compatibility के आधार पर routine toilet care और periodic descaling compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0058",
+    "ACX-KB-0046",
+    "ACX-KB-0047"
+  ]
+}

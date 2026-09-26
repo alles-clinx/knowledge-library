@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0057",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Often Should Washrooms Be Inspected?",
+  "slug": "how-often-should-washrooms-be-inspected",
+  "subcategory": "Routine Washroom Cleaning",
+  "subcategory_slug": "routine-washroom-cleaning",
+  "excerpt": "Washroom inspection frequency should be set by traffic, contamination risk, supply use, complaint history and operating hours, with extra checks when conditions change rather than one universal interval.",
+  "content_html": "<p>There is no single inspection interval that fits every washroom. A low-use staff washroom and a busy public washroom can change condition at very different rates. Inspection frequency should be based on how quickly hygiene, supplies and safety can deteriorate between rounds.</p>\n<h2 id=\"start-with-risk-and-use\">Start with risk and use</h2><p>CDC recommends increasing cleaning frequency for high-touch and high-traffic areas. In healthcare settings, shared toilets are treated as higher-risk and may require cleaning and disinfection at least twice daily or more often depending on use and contamination. Those healthcare frequencies should not be copied mechanically into every building, but the underlying principle is useful: more use and more contamination require more attention.</p>\n<h2 id=\"what-an-inspection-checks\">What an inspection should check</h2><ul>\n<li>Visible soil, spills and standing water.</li>\n<li>Toilet, urinal, sink and drain condition.</li>\n<li>Soap, tissue and hand-drying supplies.</li>\n<li>Waste-bin level.</li>\n<li>Odour source rather than fragrance alone.</li>\n<li>Wet-floor or slip conditions.</li>\n<li>Damage, leaks, blockages or fixture failure.</li>\n<li>High-touch surface condition.</li>\n</ul>\n<h2 id=\"factors-that-require-more-frequent-checks\">Factors that require more frequent checks</h2><p>Increase inspection frequency during peak occupancy, events, school breaks, shift changes, transport surges, outbreaks, wet weather, plumbing problems, repeated complaints or periods when supplies are being consumed unusually quickly.</p>\n<h2 id=\"use-data-not-habit\">Use data, not habit</h2><p>Inspection logs can show when failures actually occur. If soap repeatedly runs out between two scheduled rounds, the interval is too long or dispenser capacity is too low. If a low-use washroom remains consistently acceptable, resources may be better placed elsewhere while still maintaining a defined minimum schedule.</p>\n<h2 id=\"inspection-is-not-the-same-as-full-cleaning\">Inspection is not the same as full cleaning</h2><p>An inspection round can trigger a targeted action—refill soap, wipe a touchpoint, remove waste or respond to a spill—without automatically repeating every routine cleaning task. This makes frequent checks practical in busy facilities.</p>\n<h2 id=\"a-simple-frequency-method\">A simple frequency-setting method</h2><ol>\n<li>Define operating hours and expected traffic.</li>\n<li>Set an initial inspection interval.</li>\n<li>Record failures between rounds for several operating cycles.</li>\n<li>Shorten the interval where hygiene, supplies or safety fail before the next check.</li>\n<li>Reassess when traffic or facility conditions change.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>The right inspection frequency is the interval that catches deterioration before users experience an unacceptable or unsafe condition. Base it on actual use and evidence, not a universal clock time.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning Frequency</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Services specification</a>.</li>\n</ol>",
+  "seo_title": "How Often Should Washrooms Be Inspected? | Alle's ClinX",
+  "meta_description": "Set washroom inspection frequency using traffic, contamination risk, supplies, complaints and operating hours instead of relying on one universal interval.",
+  "related_article_ids": [
+    "ACX-KB-0055",
+    "ACX-KB-0056",
+    "ACX-KB-0016"
+  ]
+}
