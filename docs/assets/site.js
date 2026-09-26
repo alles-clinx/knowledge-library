@@ -39,15 +39,11 @@
   window.addEventListener('scroll',syncHeaderState,{passive:true});
   syncHeaderState();
 
-  const footer=document.createElement('footer');
-  footer.className='acx-site-footer';
-  footer.innerHTML='<div class="acx-footer-inner"><div class="acx-footer-top">'+
-    '<div class="acx-footer-brand"><a class="acx-wordmark" href="https://allesclinx.com/">Alle\'s ClinX</a><p>Institutional hygiene systems, technical knowledge and practical tools for cleaner, safer facility operations.</p></div>'+
-    '<div class="acx-footer-col"><strong>Explore</strong><a href="'+BASE+'">Knowledge</a><a href="https://allesclinx.com/shop/">Products</a><a href="https://allesclinx.com/solutions/">Solutions</a></div>'+
-    '<div class="acx-footer-col"><strong>Tools</strong><a href="https://allesclinx.com/clinxai/">ClinXAi</a><a href="https://allesclinx.com/metricon/">Metricon</a><a href="https://allesclinx.com/support/media-documents/">Document Center</a></div>'+
-    '<div class="acx-footer-col"><strong>Company</strong><a href="https://allesclinx.com/company/">Company</a><a href="https://allesclinx.com/sustainability/">Sustainability</a><a href="https://allesclinx.com/support/contact/">Contact</a></div>'+
-    '</div><div class="acx-footer-bottom"><div>© 2026 Alle\'s ClinX. Open Knowledge content is available under CC BY 4.0.</div><span><a href="https://allesclinx.com/privacy-legal/">Privacy & Legal</a> · <a href="https://allesclinx.com/terms-conditions/">Terms</a></span></div></div>';
-  document.body.appendChild(footer);
+  const bottomBrand=document.createElement('div');
+  bottomBrand.className='acx-bottom-brand';
+  bottomBrand.setAttribute('aria-hidden','true');
+  bottomBrand.textContent="Alle's ClinX";
+  document.body.appendChild(bottomBrand);
 
   const dialog=document.createElement('div');
   dialog.className='acx-search-dialog';
