@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0068",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Odour vs Drain or Plumbing Odour",
+  "slug": "cleaning-odour-vs-drain-or-plumbing-odour",
+  "subcategory": "Washroom Odour Control",
+  "subcategory_slug": "washroom-odour-control",
+  "excerpt": "Cleaning-product odour usually follows product application and fades with drying or ventilation; drain or plumbing odour is more likely to localise near drains, traps or fixtures and recur independently of cleaning.",
+  "content_html": "<p>Not every washroom smell has the same source. A cleaner or disinfectant can produce a temporary chemical or fragrance odour, while drains, traps and plumbing can produce a recurring odour that is unrelated to whether the visible surfaces were just cleaned.</p>\n<h2 id=\"cleaning-product-odour\">Cleaning-product odour</h2><p>Cleaning odour usually appears during or immediately after product use. It often follows the cleaned area rather than one drain and normally reduces as the product dries and the room ventilates. Strong odour is not evidence that a product is cleaning better.</p>\n<h2 id=\"drain-odour\">Drain odour</h2><p>Drain odour is often strongest close to a floor drain, sink drain, urinal outlet or fixture base. CDC notes that moist drain systems can sustain biofilms, while plumbing systems can also develop stagnation or drainage problems that require maintenance rather than extra surface cleaner.</p>\n<h2 id=\"trap-seal\">Trap or sewer-gas odour</h2><p>Traps and urinal seal systems are designed to limit sewer gases. EPA WaterSense guidance describes trap-seal systems used in urinals to prevent odour and sewer-gas escape. A dry or failed seal can create a characteristic recurring plumbing odour.</p>\n<h2 id=\"timing-clues\">Timing clues</h2><table class=\"data-table\"><thead><tr><th>Clue</th><th>Cleaning-product odour</th><th>Drain/plumbing odour</th></tr></thead><tbody>\n<tr><td>When strongest</td><td>During or just after cleaning</td><td>May occur before cleaning or return after the room is dry</td></tr>\n<tr><td>Location</td><td>Across recently treated surfaces</td><td>Often concentrated near drain, trap or fixture</td></tr>\n<tr><td>Response to ventilation</td><td>Usually falls as room airs out</td><td>May return while plumbing source remains</td></tr>\n<tr><td>Corrective action</td><td>Check product amount, ventilation and instructions</td><td>Inspect drain, trap, seal, blockage, leak or plumbing condition</td></tr>\n</tbody></table>\n<h2 id=\"do-not-mask\">Do not use fragrance to diagnose the source</h2><p>Air freshener can make both types harder to identify. First isolate the strongest source, then determine whether the smell tracks product application or a plumbing location.</p>\n<h2 id=\"safety\">Use products as labelled</h2><p>Never mix cleaning products to change or remove an odour. Use each product according to its label, dilution and ventilation instructions. If a plumbing odour persists, escalate it to the appropriate maintenance team.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Cleaning-product odour follows product use; drain or plumbing odour follows the fixture or drainage system. Timing, location and recurrence are more useful clues than how strong the smell seems.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Water Management: Sinks and Drains</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.epa.gov/watersense/watersense-work\">U.S. EPA WaterSense at Work</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning and Disinfection</a>.</li>\n</ol>",
+  "seo_title": "Cleaning Odour vs Drain or Plumbing Odour | Alle's ClinX",
+  "meta_description": "Use timing, location and recurrence to distinguish temporary cleaning-product odour from drain, trap or plumbing odour in washrooms.",
+  "related_article_ids": [
+    "ACX-KB-0067",
+    "ACX-KB-0060",
+    "ACX-KB-0069"
+  ]
+}

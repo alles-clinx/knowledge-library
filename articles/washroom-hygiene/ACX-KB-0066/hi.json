@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0066",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0066",
+  "title": "Washroom tiles पर haze क्यों बनती है?",
+  "slug": "what-causes-haze-on-washroom-tiles",
+  "subcategory": "Tiles & Grout",
+  "subcategory_slug": "tiles-grout",
+  "excerpt": "Washroom tile haze cleaner residue, hard-water minerals, soap scum, grout/salt residue, incomplete rinsing, condensation या permanent finish change से बन सकती है।",
+  "content_html": "<p>Washroom tile haze cleaning/drying के बाद cloudy appearance है। यह symptom है, diagnosis नहीं। कुछ haze surface पर removable film होती है, कुछ mineral deposit, grout residue या changed finish से आती है।</p>\n<h2 id=\"hi66-cleaner\">Cause 1: Cleaner residue</h2><p>Too much cleaner, wrong dilution या incomplete rinsing drying के बाद film छोड़ सकती है। NPS solution को tile पर dry न होने देने और thorough rinsing की सलाह देता है।</p>\n<h2 id=\"hi66-water\">Cause 2: Hard-water minerals</h2><p>USGS बताता है hard water के calcium/magnesium evaporation के बाद spots/cloudy film छोड़ सकते हैं। Taps, shower और splash zones especially exposed होते हैं।</p>\n<h2 id=\"hi66-soap\">Cause 3: Soap scum</h2><p>Hard-water minerals soap से react करके insoluble film बना सकते हैं। यह white-gray haze ordinary loose soil से अलग है।</p>\n<h2 id=\"hi66-salts\">Cause 4: Grout/salt residue</h2><p>NPS water-soluble salts से whitish haze/efflorescence describe करता है। Moisture grout/masonry से move कर रही हो तो wiping temporary improvement दे सकती है।</p>\n<h2 id=\"hi66-condensation\">Cause 5: Condensation/persistent moisture</h2><p>Damp film tile cloudy दिखा सकती है। EPA bathrooms और tile/grout को moisture-prone locations बताता है। Haze humidity cycle follow करे तो ventilation/drying improve करें।</p>\n<h2 id=\"hi66-finish\">Cause 6: Finish change</h2><p>Etching, abrasion, sealer whitening या coating damage haze जैसा दिख सकता है। Compatible test clean appearance change न करे तो stronger chemistry बढ़ाना stop करें।</p>\n<h2 id=\"hi66-check\">Haze diagnostic check</h2><ol>\n<li>Tile fully dry होने दें.</li>\n<li>Product dilution/rinse requirements check करें.</li>\n<li>Clean tools/fresh solution से small test area re-clean करें.</li>\n<li>Water-exposed और protected dry areas compare करें.</li>\n<li>Grout joints में salt/moisture check करें.</li>\n<li>Haze unchanged रहे तो surface/coating damage investigate करें.</li>\n</ol>\n<h2 id=\"hi66-takeaway\">Practical takeaway</h2><p>Tile haze residue, mineral film, soap scum, salts, moisture या finish change हो सकती है। Layer identify करें; stronger cleaner universal answer नहीं है।</p>\n<h2 id=\"hi66-references\">संदर्भ</h2><ol>\n<li id=\"hi66-ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf\">U.S. NPS — Ceramic Tile Floors</a>.</li>\n<li id=\"hi66-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi66-ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap and Water Hardness</a>.</li>\n<li id=\"hi66-ref-4\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold and Moisture</a>.</li>\n</ol>",
+  "seo_title": "Washroom Tile Haze | Alle's ClinX",
+  "meta_description": "Cleaner residue, hard water, soap scum, grout salts, moisture और finish damage से washroom tile haze diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0065",
+    "ACX-KB-0062",
+    "ACX-KB-0064"
+  ]
+}

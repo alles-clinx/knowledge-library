@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0068",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0068",
+  "title": "Cleaning odour vs drain या plumbing odour",
+  "slug": "cleaning-odour-vs-drain-or-plumbing-odour",
+  "subcategory": "Washroom Odour Control",
+  "subcategory_slug": "washroom-odour-control",
+  "excerpt": "Cleaning-product odour product application के बाद आती है और drying/ventilation से घटती है; drain/plumbing odour drains, traps या fixtures के पास localise होकर cleaning से independent return कर सकती है।",
+  "content_html": "<p>हर washroom smell का source same नहीं होता। Cleaner/disinfectant temporary chemical/fragrance odour दे सकता है, जबकि drain, trap या plumbing recurring odour create कर सकते हैं।</p>\n<h2 id=\"hi68-product\">Cleaning-product odour</h2><p>Cleaning odour usually product use के during/immediately after आती है। यह one drain की बजाय treated area follow करती है और drying/ventilation के साथ कम होती है। Strong smell better cleaning का proof नहीं है।</p>\n<h2 id=\"hi68-drain\">Drain odour</h2><p>Drain odour floor drain, sink drain, urinal outlet या fixture base के पास strongest हो सकती है। CDC moist drains में biofilm और plumbing maintenance issues को recognise करता है।</p>\n<h2 id=\"hi68-trap\">Trap/sewer-gas odour</h2><p>Traps और urinal seals sewer gases limit करने के लिए होते हैं। EPA WaterSense trap-seal systems describe करता है। Dry/failed seal recurring plumbing odour create कर सकती है।</p>\n<h2 id=\"hi68-clues\">Timing clues</h2><table class=\"data-table\"><thead><tr><th>Clue</th><th>Cleaning odour</th><th>Drain/plumbing odour</th></tr></thead><tbody>\n<tr><td>Strongest कब</td><td>Cleaning के during/just after</td><td>Cleaning से पहले भी हो सकती है और dry होने बाद return कर सकती है</td></tr>\n<tr><td>Location</td><td>Recently treated surfaces</td><td>Drain, trap या fixture के पास</td></tr>\n<tr><td>Ventilation response</td><td>Room air out होने पर usually घटती है</td><td>Source remain हो तो return करती है</td></tr>\n<tr><td>Action</td><td>Product amount, ventilation, instructions check करें</td><td>Drain/trap/seal/blockage/leak/plumbing inspect करें</td></tr>\n</tbody></table>\n<h2 id=\"hi68-mask\">Fragrance से source diagnose न करें</h2><p>Air freshener दोनों smells को mask कर सकती है। Strongest source isolate करें और देखें smell product application track करती है या plumbing location।</p>\n<h2 id=\"hi68-safety\">Products label के अनुसार use करें</h2><p>Odour change/remove करने के लिए cleaning products mix न करें। Label, dilution और ventilation instructions follow करें। Persistent plumbing odour maintenance को escalate करें।</p>\n<h2 id=\"hi68-takeaway\">Practical takeaway</h2><p>Cleaning-product odour product use follow करती है; drain/plumbing odour fixture/drainage system follow करती है। Timing, location और recurrence best clues हैं।</p>\n<h2 id=\"hi68-references\">संदर्भ</h2><ol>\n<li id=\"hi68-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Sinks and Drains</a>.</li>\n<li id=\"hi68-ref-2\"><a href=\"https://www.epa.gov/watersense/watersense-work\">U.S. EPA WaterSense at Work</a>.</li>\n<li id=\"hi68-ref-3\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning</a>.</li>\n</ol>",
+  "seo_title": "Cleaning Odour vs Drain Odour | Alle's ClinX",
+  "meta_description": "Timing, location और recurrence से cleaning-product odour और drain/plumbing odour को distinguish करना समझें।",
+  "related_article_ids": [
+    "ACX-KB-0067",
+    "ACX-KB-0060",
+    "ACX-KB-0069"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0067",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Washrooms Smell Even After Cleaning",
+  "slug": "why-washrooms-smell-even-after-cleaning",
+  "subcategory": "Washroom Odour Control",
+  "subcategory_slug": "washroom-odour-control",
+  "excerpt": "A washroom can smell after cleaning when the odour source remains in splash zones, drains, porous grout, waste, standing moisture, scale, plumbing or ventilation rather than on the surfaces that were wiped.",
+  "content_html": "<p>A washroom can look clean and still smell because odour is a source problem, not simply an appearance problem. If the source sits in a drain, grout joint, floor edge, waste container, mineral deposit or plumbing system, wiping the most visible surfaces may not remove it.</p>\n<h2 id=\"missed-contamination-zones\">Cause 1: Missed contamination zones</h2><p>Urine, splash and soil can reach wall edges, grout, fixture bases, undersides, partition hardware and floor joints. A routine that cleans only bowls, sinks and counters may leave these lower-visibility areas untreated.</p>\n<h2 id=\"drains\">Cause 2: Drains and moist plumbing</h2><p>CDC notes that sinks and drains can develop persistent biofilms in moist plumbing systems. Surface cleaning around the drain does not necessarily remove deeper plumbing contamination. Drain issues should follow the facility's maintenance or water-management process.</p>\n<h2 id=\"trap-plumbing\">Cause 3: Trap or plumbing problems</h2><p>Plumbing traps and urinal seal systems are designed to limit sewer-gas escape. A dry trap, failed seal, blocked line or poorly maintained waterless urinal can create odour even when surrounding surfaces are clean.</p>\n<h2 id=\"scale-soil\">Cause 4: Scale holding contamination</h2><p>Mineral and urine-related deposits create rough surfaces that can retain soil. Routine wiping may clean around the scale while contamination remains embedded in or behind the deposit.</p>\n<h2 id=\"moisture\">Cause 5: Persistent moisture</h2><p>EPA identifies moisture as the key factor supporting indoor mold growth and notes bathrooms and grout as common moisture-prone areas. Slow drying, leaks and condensation can therefore contribute to musty odour.</p>\n<h2 id=\"waste-supplies\">Cause 6: Waste or consumable systems</h2><p>Bins, sanitary-waste units, blocked dispensers and discarded wet material can become odour sources. A cleaning round should inspect waste and supplies rather than treating only fixed surfaces.</p>\n<h2 id=\"ventilation\">Cause 7: Poor air movement</h2><p>If odour clears when doors are opened or exhaust performance improves, ventilation may be part of the problem. Cleaning cannot compensate indefinitely for inadequate extraction, persistent humidity or plumbing gases.</p>\n<h2 id=\"source-check\">A source check</h2><ol>\n<li>Identify where the odour is strongest rather than spraying fragrance.</li>\n<li>Inspect fixture bases, grout, floor edges and waste units.</li>\n<li>Check drains, traps, flushing and plumbing condition.</li>\n<li>Look for leaks, condensation and slow-drying areas.</li>\n<li>Check for scale or deposits that retain contamination.</li>\n<li>Escalate plumbing, drainage or ventilation faults to maintenance.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>If odour returns immediately after cleaning, the program should search for the remaining source. Fragrance can change perception; it does not prove that contamination, drainage or moisture problems are resolved.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Water Management: Sinks and Drains</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.epa.gov/watersense/watersense-work\">U.S. EPA WaterSense at Work</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold and Moisture</a>.</li>\n</ol>",
+  "seo_title": "Why Washrooms Smell Even After Cleaning | Alle's ClinX",
+  "meta_description": "Troubleshoot persistent washroom odour by checking missed splash zones, drains, traps, scale, waste, moisture, ventilation and plumbing rather than masking the smell.",
+  "related_article_ids": [
+    "ACX-KB-0060",
+    "ACX-KB-0068",
+    "ACX-KB-0069"
+  ]
+}

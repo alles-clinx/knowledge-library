@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0069",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0069",
+  "title": "Cleaning programs washroom odour को कैसे influence करती हैं",
+  "slug": "how-cleaning-programs-influence-washroom-odour",
+  "subcategory": "Washroom Odour Control",
+  "subcategory_slug": "washroom-odour-control",
+  "excerpt": "Washroom odour cleaning scope, inspection frequency, tool segregation, moisture control और plumbing/maintenance faults के escalation से directly influence होती है।",
+  "content_html": "<p>Odour control अलग fragrance task नहीं है; यह cleaning/maintenance system का outcome है। Program contamination remove करे, waste/supplies control करे, moisture manage करे और faults escalate करे तो odour better control होती है।</p>\n<h2 id=\"hi69-scope\">Program scope तय करती है क्या miss होगा</h2><p>Schedule केवल toilets, sinks और floors list करे तो splash walls, fixture bases, grout, partitions, drains और waste units miss हो सकते हैं। CDC detailed schedules/job aids recommend करता है।</p>\n<h2 id=\"hi69-frequency\">Inspection frequency odour buildup influence करती है</h2><p>Busy shared washrooms जल्दी deteriorate कर सकती हैं। Condition checks waste, spills और wet zones को established odour source बनने से पहले catch करती हैं।</p>\n<h2 id=\"hi69-tools\">Tool segregation cross-contamination influence करती है</h2><p>Restroom tools cleaner areas में contamination नहीं फैलाने चाहिए। GSA restroom mops/rags को other areas में reuse न करने की guidance देता है।</p>\n<h2 id=\"hi69-moisture\">Moisture management musty odour influence करती है</h2><p>EPA moisture को mold growth का key factor बताता है। Program में drying, leak reporting, ventilation awareness और standing water response शामिल होना चाहिए।</p>\n<h2 id=\"hi69-scale\">Periodic maintenance trapped contamination influence करती है</h2><p>Mineral/urine-related scale rough surface बनाती है जो soil retain करती है। केवल routine neutral cleaning हो और scale maintenance न हो तो odour source remain कर सकती है।</p>\n<h2 id=\"hi69-handoff\">Maintenance handoff matter करता है</h2><p>Cleaning staff leaks, blocked drains, failed traps, poor flushing और ventilation faults identify कर सकती है, लेकिन repair maintenance team का काम हो सकता है। Program exception ownership clear करे।</p>\n<h2 id=\"hi69-verify\">Verification source removal check करे</h2><p>Checklist complete होना enough नहीं अगर odour remain करे। Area visibly clean, dry, supplied और waste-free है या नहीं check करें, और remaining odour का maintenance cause document करें।</p>\n<h2 id=\"hi69-check\">Program-level odour check</h2><ol>\n<li>Recurring odour locations map करें.</li>\n<li>Confirm करें वे cleaning scope में हैं.</li>\n<li>Odour failures को traffic/inspection frequency से compare करें.</li>\n<li>Tool segregation और residue-control practices review करें.</li>\n<li>Moisture, leaks, drains और ventilation exceptions check करें.</li>\n<li>Maintenance issues वास्तव में close होते हैं या नहीं track करें.</li>\n</ol>\n<h2 id=\"hi69-takeaway\">Practical takeaway</h2><p>Good odour control complete program से आती है: correct scope, adequate inspections, clean tools, moisture control, periodic maintenance और reliable escalation। Fragrance इन controls का substitute नहीं है।</p>\n<h2 id=\"hi69-references\">संदर्भ</h2><ol>\n<li id=\"hi69-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi69-ref-2\"><a href=\"https://www.gsa.gov/system/files/2025%20National%20Custodial%20Specification.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi69-ref-3\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold and Moisture</a>.</li>\n<li id=\"hi69-ref-4\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Sinks and Drains</a>.</li>\n</ol>",
+  "seo_title": "Cleaning Programs and Washroom Odour | Alle's ClinX",
+  "meta_description": "Cleaning scope, inspection frequency, tool segregation, moisture control और maintenance escalation washroom odour को कैसे influence करते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0067",
+    "ACX-KB-0068",
+    "ACX-KB-0055"
+  ]
+}

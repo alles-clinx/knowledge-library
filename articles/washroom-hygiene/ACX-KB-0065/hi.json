@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0065",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0065",
+  "title": "Tile और grout cleaning requirements कैसे अलग होती हैं",
+  "slug": "how-tile-and-grout-cleaning-requirements-differ",
+  "subcategory": "Tiles & Grout",
+  "subcategory_slug": "tiles-grout",
+  "excerpt": "Tile और grout साथ होती हैं लेकिन porosity, texture, finish और chemical resistance अलग हो सकती है, इसलिए same method automatically दोनों के लिए suitable नहीं होती।",
+  "content_html": "<p>Tile और grout एक installation बनाते हैं, लेकिन material behavior same नहीं होती। Glazed tile face relatively smooth/low-absorption हो सकती है, जबकि cement grout ज्यादा porous और textured हो सकती है।</p>\n<h2 id=\"hi65-tile\">Tile usually smoother surface होती है</h2><p>NPS ceramic tile guidance बताती है glazed/vitrified surfaces loose grit remove करने के बाद relatively mild methods से clean हो सकती हैं। Smooth tile पर soil के लिए कम pores/recesses होते हैं।</p>\n<h2 id=\"hi65-grout\">Grout ज्यादा moisture और soil hold कर सकती है</h2><p>Traditional cementitious grout glazed tile से generally ज्यादा porous होती है। Recessed joints भी soil collect करती हैं, इसलिए tile clean दिखे जबकि grout darker रह सकती है।</p>\n<h2 id=\"hi65-action\">Mechanical action अलग हो सकती है</h2><p>Smooth tile को cloth/mop/soft pad पर्याप्त हो सकता है, जबकि textured grout के लिए compatible brush useful हो सकती है। Aggressive abrasion tile scratch या grout erode कर सकती है।</p>\n<h2 id=\"hi65-chemistry\">Chemistry दोनों materials के लिए compatible हो</h2><p>NPS stains identify करने और product directions follow करने पर जोर देता है। Acidic, alkaline या oxidizing chemistry grout, sealer, natural-stone tile, trim या coating को differently affect कर सकती है।</p>\n<h2 id=\"hi65-rinse\">Rinsing/recovery grout lines में ज्यादा important है</h2><p>Recessed या porous joints में cleaning solution dry होकर residue छोड़ सकती है। Product require करे तो thorough rinse/recovery haze और recurring dark lines कम करती है।</p>\n<h2 id=\"hi65-types\">हर grout cement grout नहीं होती</h2><p>Epoxy, sealed और specialty grout systems की absorption/chemical limits अलग होती हैं। Installation instructions follow करें।</p>\n<h2 id=\"hi65-method\">Practical method</h2><ol>\n<li>Tile, grout और sealer/coating identify करें.</li>\n<li>Wet cleaning से पहले loose grit remove करें.</li>\n<li>Least aggressive compatible chemistry use करें.</li>\n<li>हर surface पर जितना action चाहिए उतना ही use करें.</li>\n<li>Required rinse/recovery करें.</li>\n<li>Grout colour/tile haze judge करने से पहले fully dry होने दें.</li>\n</ol>\n<h2 id=\"hi65-takeaway\">Practical takeaway</h2><p>Tile और grout को connected system की तरह clean करें, लेकिन उनकी अलग material properties respect करें। One aggressive method पूरे installation पर force न करें।</p>\n<h2 id=\"hi65-references\">संदर्भ</h2><ol>\n<li id=\"hi65-ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf\">U.S. NPS — Ceramic Tile Floors</a>.</li>\n<li id=\"hi65-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Tile vs Grout Cleaning | Alle's ClinX",
+  "meta_description": "Porosity, texture, chemistry, mechanical action और rinsing के आधार पर tile और grout cleaning requirements compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0064",
+    "ACX-KB-0066",
+    "ACX-KB-0046"
+  ]
+}

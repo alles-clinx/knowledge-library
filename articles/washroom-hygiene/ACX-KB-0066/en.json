@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0066",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Causes Haze on Washroom Tiles?",
+  "slug": "what-causes-haze-on-washroom-tiles",
+  "subcategory": "Tiles & Grout",
+  "subcategory_slug": "tiles-grout",
+  "excerpt": "Washroom tile haze can come from cleaner residue, hard-water minerals, soap scum, grout or salt residue, incomplete rinsing, condensation or permanent finish change.",
+  "content_html": "<p>Haze on washroom tile is a cloudy or low-clarity appearance that remains after cleaning or drying. It is a symptom rather than a diagnosis. Some haze sits on the tile and can be removed; other haze comes from mineral deposits, grout residue or a changed surface finish.</p>\n<h2 id=\"cleaner-residue\">Cause 1: Cleaner residue</h2><p>Too much cleaner, incorrect dilution or incomplete rinsing can leave a film after drying. NPS tile guidance recommends thorough rinsing after cleaning and warns against allowing cleaning solution to dry on the tile.</p>\n<h2 id=\"hard-water\">Cause 2: Hard-water minerals</h2><p>USGS notes that hard water contains dissolved calcium and magnesium that can remain as spots or cloudy film when water evaporates. Washroom tile around taps, showers and splash zones is especially exposed to repeated wet-dry cycles.</p>\n<h2 id=\"soap-scum\">Cause 3: Soap scum</h2><p>Hard-water minerals can react with soap to create an insoluble film. This can produce a white-gray haze that is different from ordinary loose soil.</p>\n<h2 id=\"grout-efflorescence\">Cause 4: Grout or salt residue</h2><p>NPS notes that water-soluble salts can create a whitish haze or efflorescent deposit on tile and around joints. If the source is moisture moving through grout or masonry, wiping the tile may only provide temporary improvement.</p>\n<h2 id=\"condensation\">Cause 5: Condensation or persistent moisture</h2><p>A damp film can make tile appear cloudy until the area dries. EPA notes that bathrooms and tile/grout are common moisture-prone locations. If haze follows humidity cycles, improve ventilation and drying before assuming stronger chemistry is needed.</p>\n<h2 id=\"surface-change\">Cause 6: Surface or coating change</h2><p>Etching, abrasion, sealer whitening or coating damage can look like haze. If a small compatible re-clean does not alter the appearance, stop increasing chemical strength and inspect the finish.</p>\n<h2 id=\"diagnostic-check\">A haze diagnostic check</h2><ol>\n<li>Allow the tile to dry completely.</li>\n<li>Check dilution and rinse requirements of the product used.</li>\n<li>Re-clean a small test area with clean tools and fresh solution.</li>\n<li>Compare water-exposed and dry protected areas.</li>\n<li>Inspect grout joints for white salt residue or moisture.</li>\n<li>If haze remains unchanged, investigate surface or coating damage.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Tile haze can be residue, mineral film, soap scum, salts, moisture or finish change. Diagnose the layer first; stronger cleaner is not the universal answer.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf\">U.S. National Park Service — Preservation Brief 40</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap and Water Hardness</a>.</li>\n<li id=\"ref-4\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold and Moisture</a>.</li>\n</ol>",
+  "seo_title": "What Causes Haze on Washroom Tiles? | Alle's ClinX",
+  "meta_description": "Diagnose washroom tile haze from cleaner residue, hard-water minerals, soap scum, grout salts, condensation or finish damage before changing chemistry.",
+  "related_article_ids": [
+    "ACX-KB-0065",
+    "ACX-KB-0062",
+    "ACX-KB-0064"
+  ]
+}

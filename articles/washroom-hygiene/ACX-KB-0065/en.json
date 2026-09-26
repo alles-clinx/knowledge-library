@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0065",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Tile and Grout Cleaning Requirements Differ",
+  "slug": "how-tile-and-grout-cleaning-requirements-differ",
+  "subcategory": "Tiles & Grout",
+  "subcategory_slug": "tiles-grout",
+  "excerpt": "Tile and grout sit together but can have different porosity, texture, finish and chemical resistance, so one cleaning method should not automatically be assumed suitable for both.",
+  "content_html": "<p>Tile and grout form one installation, but they do not necessarily behave as one material. A glazed tile face may be relatively smooth and low-absorption, while cement-based grout can be more porous and textured. That difference changes how soil, moisture and cleaning chemistry interact with each surface.</p>\n<h2 id=\"tile-surface\">Tile usually presents the smoother surface</h2><p>NPS guidance on ceramic tile notes that glazed or vitrified tile surfaces can often be cleaned with relatively mild methods when loose grit is removed first. Smooth tile is easier to wipe clean because soil has fewer pores and recesses to enter.</p>\n<h2 id=\"grout-porosity\">Grout often holds more moisture and soil</h2><p>Traditional cementitious grout is generally more porous than glazed tile and can absorb moisture or cleaning solution. Recessed joints also collect soil more readily. This is why grout can remain darker or look dirty even when the tile face appears clean.</p>\n<h2 id=\"mechanical-action\">Mechanical action may need to differ</h2><p>A smooth tile face may need only a cloth, mop or soft pad, while textured grout may require a compatible brush to reach recessed soil. More abrasion is not automatically better: aggressive tools can scratch tile finishes or erode grout.</p>\n<h2 id=\"chemistry\">Chemistry must suit both materials</h2><p>NPS recommends identifying stains and using products according to directions. Acidic, alkaline or oxidizing chemistry may affect grout, sealers, natural-stone tile, metal trim or coatings differently. The safest method is one that is compatible with the whole installation.</p>\n<h2 id=\"rinsing\">Rinsing and recovery matter more in grout lines</h2><p>Cleaning solution pushed into porous or recessed joints can dry there and leave residue. Thorough removal or rinsing, where the product requires it, helps prevent haze and recurring dark lines.</p>\n<h2 id=\"sealed-epoxy-grout\">Not all grout is cement grout</h2><p>Epoxy, sealed and specialty grout systems have different absorption and chemical limits. Identify the grout type or follow the installation manufacturer's maintenance instructions rather than treating all grout the same.</p>\n<h2 id=\"practical-method\">A practical method</h2><ol>\n<li>Identify tile type, grout type and any sealer or coating.</li>\n<li>Remove loose grit before wet cleaning.</li>\n<li>Use the least aggressive compatible chemistry.</li>\n<li>Apply only the mechanical action needed for each surface.</li>\n<li>Rinse or recover spent solution where required.</li>\n<li>Allow the area to dry before judging grout colour or tile haze.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Tile and grout should be cleaned as a connected system with different material properties. Match chemistry, moisture and mechanical action to both surfaces rather than forcing one aggressive method across the entire installation.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf\">U.S. National Park Service — Preservation Brief 40: Preserving Historic Ceramic Tile Floors</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Tile vs Grout Cleaning Requirements | Alle's ClinX",
+  "meta_description": "Learn why tile and grout may need different cleaning chemistry, moisture control, mechanical action and rinsing because their porosity and finish can differ.",
+  "related_article_ids": [
+    "ACX-KB-0064",
+    "ACX-KB-0066",
+    "ACX-KB-0046"
+  ]
+}
