@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 68,
+  "record_count": 78,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -750,6 +750,116 @@
       "subcategory_slug": "glass-mirrors",
       "excerpt": "Glass/mirrors पर haze product residue, hard-water minerals, oily film, condensation या permanent surface/coating damage से हो सकती है; पहले haze का type identify करें।",
       "url": "library/floor-surface-care/glass-mirrors/what-causes-haze-on-glass-and-mirrors/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0035",
+      "locale": "en",
+      "title": "Glass Cleaning vs General Surface Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Glass & Mirrors",
+      "subcategory_slug": "glass-mirrors",
+      "excerpt": "Glass cleaning uses the same basic soil-removal principles as general surface cleaning, but transparent reflective surfaces make residue, water minerals, lint and uneven drying much more visible.",
+      "url": "library/floor-surface-care/glass-mirrors/glass-cleaning-vs-general-surface-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0035",
+      "locale": "hi-IN",
+      "title": "Glass cleaning vs general surface cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Glass & Mirrors",
+      "subcategory_slug": "glass-mirrors",
+      "excerpt": "Glass cleaning के basic soil-removal principles general surface cleaning जैसे हैं, लेकिन transparent reflective surface residue, water minerals, lint और uneven drying को ज्यादा visible बनाती है।",
+      "url": "library/floor-surface-care/glass-mirrors/glass-cleaning-vs-general-surface-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0036",
+      "locale": "en",
+      "title": "Stainless Steel Care vs General Surface Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Stainless Steel & Metals",
+      "subcategory_slug": "stainless-steel-metals",
+      "excerpt": "Stainless-steel care uses general cleaning principles but adds finish awareness, controlled rubbing, low-residue product use and attention to fingerprints, smears and visible directional grain.",
+      "url": "library/floor-surface-care/stainless-steel-metals/stainless-steel-care-vs-general-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0036",
+      "locale": "hi-IN",
+      "title": "Stainless steel care vs general surface cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Stainless Steel & Metals",
+      "subcategory_slug": "stainless-steel-metals",
+      "excerpt": "Stainless-steel care general cleaning principles use करती है लेकिन finish awareness, controlled rubbing, low-residue product use और fingerprints/smears पर extra attention चाहिए।",
+      "url": "library/floor-surface-care/stainless-steel-metals/stainless-steel-care-vs-general-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0037",
+      "locale": "en",
+      "title": "Why Stainless Steel Shows Fingerprints and Smears",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Stainless Steel & Metals",
+      "subcategory_slug": "stainless-steel-metals",
+      "excerpt": "Fingerprints and smears show easily on stainless steel because skin oils and cleaning films change how light reflects from the finish, especially on smooth or directional surfaces.",
+      "url": "library/floor-surface-care/stainless-steel-metals/why-stainless-steel-shows-fingerprints-and-smears/"
+    },
+    {
+      "article_id": "ACX-KB-0037",
+      "locale": "hi-IN",
+      "title": "Stainless steel पर fingerprints और smears क्यों दिखते हैं",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Stainless Steel & Metals",
+      "subcategory_slug": "stainless-steel-metals",
+      "excerpt": "Skin oils और cleaning films stainless finish पर light reflection बदलते हैं, इसलिए fingerprints और smears smooth या directional surfaces पर आसानी से दिखते हैं।",
+      "url": "library/floor-surface-care/stainless-steel-metals/why-stainless-steel-shows-fingerprints-and-smears/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0038",
+      "locale": "en",
+      "title": "Why Stainless Steel Can Look Dull After Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Stainless Steel & Metals",
+      "subcategory_slug": "stainless-steel-metals",
+      "excerpt": "Stainless steel can look dull after cleaning because of residue, hard-water film, uneven polish, aggressive rubbing, scratches or a changed original finish.",
+      "url": "library/floor-surface-care/stainless-steel-metals/why-stainless-steel-can-look-dull-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0038",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद stainless steel dull क्यों दिख सकता है",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Stainless Steel & Metals",
+      "subcategory_slug": "stainless-steel-metals",
+      "excerpt": "Cleaning के बाद stainless steel residue, hard-water film, uneven polish, aggressive rubbing, scratches या changed original finish के कारण dull दिख सकता है।",
+      "url": "library/floor-surface-care/stainless-steel-metals/why-stainless-steel-can-look-dull-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0039",
+      "locale": "en",
+      "title": "What Is Safe Surface Care for Finished Wood?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Wood & Furniture",
+      "subcategory_slug": "wood-furniture",
+      "excerpt": "Safe care for finished wood starts with identifying the finish, removing loose dust first, using moisture sparingly, testing unfamiliar methods and drying promptly.",
+      "url": "library/floor-surface-care/wood-furniture/what-is-safe-surface-care-for-finished-wood/"
+    },
+    {
+      "article_id": "ACX-KB-0039",
+      "locale": "hi-IN",
+      "title": "Finished wood के लिए safe surface care क्या है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Wood & Furniture",
+      "subcategory_slug": "wood-furniture",
+      "excerpt": "Finished wood की safe care finish identify करने, loose dust पहले remove करने, moisture sparingly use करने, unfamiliar method test करने और promptly dry करने से शुरू होती है।",
+      "url": "library/floor-surface-care/wood-furniture/what-is-safe-surface-care-for-finished-wood/hi.html"
     }
   ]
 }
