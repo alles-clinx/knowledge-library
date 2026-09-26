@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 200,
+  "record_count": 210,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2202,6 +2202,116 @@
       "subcategory_slug": "kitchen-troubleshooting",
       "excerpt": "Persistent kitchen residue grease, excess cleaner, hard-water minerals, redeposition, poor rinsing या surface damage से आ सकती है। Chemical strength बढ़ाने से पहले residue identify करें।",
       "url": "library/kitchen-food-service/kitchen-troubleshooting/persistent-kitchen-cleaning-residue/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0101",
+      "locale": "en",
+      "title": "How Professional Laundry Cleaning Works",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Basics",
+      "subcategory_slug": "laundry-basics",
+      "excerpt": "Professional laundry cleaning is a controlled process that moves textiles from safe collection and sorting through washing, drying, finishing and protected clean storage.",
+      "url": "library/laundry-fabric-care/laundry-basics/how-professional-laundry-cleaning-works/"
+    },
+    {
+      "article_id": "ACX-KB-0101",
+      "locale": "hi-IN",
+      "title": "Professional laundry cleaning कैसे काम करती है",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Basics",
+      "subcategory_slug": "laundry-basics",
+      "excerpt": "Professional laundry cleaning safe collection और sorting से शुरू होकर controlled washing, drying, finishing और protected clean storage तक चलने वाली process है।",
+      "url": "library/laundry-fabric-care/laundry-basics/how-professional-laundry-cleaning-works/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0102",
+      "locale": "en",
+      "title": "What Factors Influence Laundry Results?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Basics",
+      "subcategory_slug": "laundry-basics",
+      "excerpt": "Laundry results depend on interacting process variables including time, temperature, mechanical action, water quality, load size, soil level, chemistry and equipment condition.",
+      "url": "library/laundry-fabric-care/laundry-basics/what-factors-influence-laundry-results/"
+    },
+    {
+      "article_id": "ACX-KB-0102",
+      "locale": "hi-IN",
+      "title": "Laundry results किन factors पर depend करती हैं?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Basics",
+      "subcategory_slug": "laundry-basics",
+      "excerpt": "Laundry results time, temperature, mechanical action, water quality, load size, soil level, chemistry और equipment condition जैसे interacting factors पर depend करती हैं।",
+      "url": "library/laundry-fabric-care/laundry-basics/what-factors-influence-laundry-results/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0103",
+      "locale": "en",
+      "title": "Why Sorting Matters in Institutional Laundry",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Basics",
+      "subcategory_slug": "laundry-basics",
+      "excerpt": "Institutional laundry sorting helps match textiles to the right process while controlling contamination, fabric damage, colour transfer, load balance and workflow.",
+      "url": "library/laundry-fabric-care/laundry-basics/why-sorting-matters-in-institutional-laundry/"
+    },
+    {
+      "article_id": "ACX-KB-0103",
+      "locale": "hi-IN",
+      "title": "Institutional laundry में sorting क्यों महत्वपूर्ण है",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Basics",
+      "subcategory_slug": "laundry-basics",
+      "excerpt": "Institutional laundry sorting textiles को सही process से match करने और contamination, fabric damage, colour transfer, load balance तथा workflow control करने में मदद करती है।",
+      "url": "library/laundry-fabric-care/laundry-basics/why-sorting-matters-in-institutional-laundry/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0104",
+      "locale": "en",
+      "title": "What Is a Laundry Detergent?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Detergents",
+      "subcategory_slug": "laundry-detergents",
+      "excerpt": "A laundry detergent is a formulated cleaning product that combines functional ingredients such as surfactants, water-conditioning agents and other auxiliaries to remove soil from textiles.",
+      "url": "library/laundry-fabric-care/laundry-detergents/what-is-a-laundry-detergent/"
+    },
+    {
+      "article_id": "ACX-KB-0104",
+      "locale": "hi-IN",
+      "title": "Laundry detergent क्या है?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Detergents",
+      "subcategory_slug": "laundry-detergents",
+      "excerpt": "Laundry detergent formulated cleaning product है जो surfactants, water-conditioning agents और other auxiliaries जैसे functional ingredients को combine करके textiles से soil remove करती है।",
+      "url": "library/laundry-fabric-care/laundry-detergents/what-is-a-laundry-detergent/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0105",
+      "locale": "en",
+      "title": "How Laundry Detergents Remove Different Soils",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Detergents",
+      "subcategory_slug": "laundry-detergents",
+      "excerpt": "Laundry detergents remove mixed soil through several mechanisms: wetting and surfactant action, water conditioning, suspension, anti-redeposition and specialised ingredients matched to the soil.",
+      "url": "library/laundry-fabric-care/laundry-detergents/how-laundry-detergents-remove-different-soils/"
+    },
+    {
+      "article_id": "ACX-KB-0105",
+      "locale": "hi-IN",
+      "title": "Laundry detergents अलग-अलग soils कैसे remove करती हैं",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Detergents",
+      "subcategory_slug": "laundry-detergents",
+      "excerpt": "Laundry detergents mixed soil को wetting/surfactant action, water conditioning, suspension, anti-redeposition और soil-matched specialised ingredients के combination से remove करती हैं।",
+      "url": "library/laundry-fabric-care/laundry-detergents/how-laundry-detergents-remove-different-soils/hi.html"
     }
   ]
 }
