@@ -94,13 +94,6 @@ for rec in records:
     public_path = BASE_PATH + rel
     by_url[public_path] = rec
 
-# Generate a unique 1200x630 rich-link card for every live language variant.
-social_root = OUT / SOCIAL_DIR
-if social_root.exists():
-    shutil.rmtree(social_root)
-for rec in records:
-    generate_social_card(rec, social_root / social_filename(rec))
-
 def public_path_for_file(path: Path) -> str:
     rel = path.relative_to(OUT).as_posix()
     if rel == "index.html":
@@ -214,6 +207,13 @@ def generate_social_card(rec: dict, target: Path) -> None:
 
     target.parent.mkdir(parents=True, exist_ok=True)
     image.save(target, format="PNG", optimize=True)
+
+# Generate a unique 1200x630 rich-link card for every live language variant.
+social_root = OUT / SOCIAL_DIR
+if social_root.exists():
+    shutil.rmtree(social_root)
+for rec in records:
+    generate_social_card(rec, social_root / social_filename(rec))
 
 def inject_head(page: str, additions: str) -> str:
     if "</head>" not in page:
