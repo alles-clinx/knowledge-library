@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0091",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Carbonised Grease vs Fresh Grease",
+  "slug": "carbonised-grease-vs-fresh-grease",
+  "subcategory": "Chimney & Exhaust Cleaning",
+  "subcategory_slug": "chimney-exhaust-cleaning",
+  "excerpt": "Fresh grease is relatively soft and oily; carbonised or heavily heat-aged grease is darker, harder and more strongly bonded because heat, oxidation, polymerization and food solids have changed the deposit.",
+  "content_html": "<p>Fresh grease and heavily heat-aged grease behave differently during cleaning. Fresh grease is usually soft, oily and easier to emulsify. Older deposits exposed to heat and air can oxidize, polymerize and combine with food solids until they become dark, hard or resin-like.</p>\n<h2 id=\"fresh\">Fresh grease</h2><p>Fresh deposits are dominated by liquid or semi-liquid fats and oils. They usually respond to compatible degreasing chemistry, moderate mechanical action and prompt recovery.</p>\n<h2 id=\"aged\">Heat-aged and polymerized grease</h2><p>Scientific reviews of cooking oils describe oxidation and polymerization during repeated heating. Polymerized material can form sticky brown or resin-like deposits that adhere more strongly to metal surfaces.</p>\n<h2 id=\"carbonised\">What people often call carbonised grease</h2><p>In kitchen maintenance, “carbonised grease” commonly describes very dark, hardened deposits containing aged grease plus cooked-on or charred food material. It is a practical maintenance term rather than a single pure chemical substance.</p>\n<h2 id=\"cleaning\">Why cleaning demand increases</h2><p>Hard deposits reduce chemical penetration and may require longer compatible dwell, more mechanical action, repeated cycles or specialist methods. Simply increasing cleaner concentration can damage the surface without fully removing the deposit.</p>\n<h2 id=\"heat\">Where hard deposits develop fastest</h2><p>Fryer surrounds, grills, ovens, hood interiors and exhaust paths receive heat plus grease-laden vapour, so deposits can age faster than on cooler kitchen surfaces.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Fresh grease</th><th>Heat-aged/carbonised grease</th></tr></thead><tbody>\n<tr><td>Feel</td><td>Soft, oily, slick</td><td>Sticky, resin-like or hard</td></tr>\n<tr><td>Colour</td><td>Light to amber</td><td>Brown to very dark</td></tr>\n<tr><td>Bond to surface</td><td>Usually lower</td><td>Often stronger</td></tr>\n<tr><td>Cleaning demand</td><td>Routine degreasing may be enough</td><td>More dwell/action or specialist process may be needed</td></tr>\n</tbody></table>\n<h2 id=\"prevention\">Prevention is easier than restoration</h2><p>Frequent removal of thin grease film reduces the time available for heat ageing, oxidation and soil layering. This is one reason routine degreasing and exhaust maintenance should not be delayed.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Fresh grease is mainly a removable oily film; heat-aged or carbonised deposits are changed materials. Diagnose the deposit before choosing chemistry, dwell and mechanical action.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/41089756/\">PubMed — Chemical Changes in Deep-Fat Frying</a>.</li>\n<li id=\"ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8769064/\">PMC — Heated Culinary Oil Oxidation and Polymerization Review</a>.</li>\n</ol>",
+  "seo_title": "Carbonised Grease vs Fresh Grease | Alle's ClinX",
+  "meta_description": "Compare fresh grease with heat-aged or carbonised grease by chemistry, texture, colour, surface bond and cleaning demand.",
+  "related_article_ids": [
+    "ACX-KB-0086",
+    "ACX-KB-0089",
+    "ACX-KB-0090"
+  ]
+}

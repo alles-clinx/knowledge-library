@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0094",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Product Labels Matter on Food-Contact Areas",
+  "slug": "why-product-labels-matter-on-food-contact-areas",
+  "subcategory": "Food-Contact Surfaces",
+  "subcategory_slug": "food-contact-surfaces",
+  "excerpt": "Product labels matter on food-contact areas because they define whether the use is approved, the required dilution, contact time, rinse or no-rinse direction, surface type, application method and safety conditions.",
+  "content_html": "<p>In food-contact areas, the product name or word “sanitizer” is not enough information. The approved label determines how the product may be used, on which surfaces, at what concentration and contact time, and whether a rinse is required.</p>\n<h2 id=\"approved-use\">The label defines the approved use</h2><p>EPA antimicrobial labels identify whether a product is registered for sanitising hard, nonporous food-contact surfaces and describe the eligible application areas and surface types. A product approved for floors or nonfood-contact surfaces should not automatically be used on food-contact equipment.</p>\n<h2 id=\"dilution\">The label defines dilution or ready-to-use status</h2><p>Food-contact sanitizers may be concentrates or ready-to-use products. The label specifies the use dilution or states that the product should not be diluted. Guessing can produce a solution that is ineffective or outside the approved use conditions.</p>\n<h2 id=\"contact\">The label defines contact time</h2><p>Sanitizing claims depend on keeping the surface exposed for the specified time. Some labels require the surface to remain visibly wet for a defined period. Shortening that time means the labelled process was not followed.</p>\n<h2 id=\"rinse\">The label defines rinse or no-rinse requirements</h2><p>Some food-contact sanitizer labels allow air drying without a potable-water rinse when used exactly as directed, while other products or uses may require rinsing. Do not transfer the rinse instruction from one product to another.</p>\n<h2 id=\"preclean\">The label can require precleaning</h2><p>EPA food-contact sanitizer guidance and current registered labels commonly require gross soil removal and cleaning before sanitizing. Applying sanitizer over food residue is therefore not a substitute for cleaning.</p>\n<h2 id=\"food-code\">The Food Code also points back to approved chemical criteria</h2><p>The 2026 FDA Food Code requires chemical sanitizers and other antimicrobials applied to food-contact surfaces to meet applicable regulatory criteria and requires concentration testing to follow the relevant instructions.</p>\n<h2 id=\"what-to-read\">What to check on the label</h2><ul>\n<li>Food-contact versus nonfood-contact use.</li>\n<li>Surface type and material limitations.</li>\n<li>Use dilution or ready-to-use instruction.</li>\n<li>Required contact time.</li>\n<li>Precleaning requirements.</li>\n<li>Rinse or no-rinse direction.</li>\n<li>Application method.</li>\n<li>Safety, storage and personal-protection directions.</li>\n</ul>\n<h2 id=\"do-not-improvise\">Do not improvise combinations</h2><p>Do not increase concentration, mix products or shorten process steps because a stronger smell or faster workflow seems preferable. Use the labelled process and the facility's adopted food-safety procedures.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>On food-contact areas, the label is part of the cleaning process. It tells the operator whether the use is permitted and exactly how the product must be prepared, applied, held, rinsed or dried.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.epa.gov/sites/default/files/2020-04/documents/label_requirements_for_pesticides_used_for_sanitation_of_food_contact_surfaces.pdf\">U.S. EPA — Label Requirements for Pesticides Used for Sanitation of Food-Contact Surfaces</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www3.epa.gov/pesticides/chem_search/ppls/001677-00259-20260513.pdf\">U.S. EPA — Example 2026 Registered Food-Contact Surface Sanitizer Label</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 7</a>.</li>\n</ol>",
+  "seo_title": "Why Product Labels Matter on Food-Contact Areas | Alle's ClinX",
+  "meta_description": "Learn why food-contact product labels control approved use, dilution, contact time, precleaning, rinse instructions, application method and safety conditions.",
+  "related_article_ids": [
+    "ACX-KB-0092",
+    "ACX-KB-0093",
+    "ACX-KB-0075"
+  ]
+}

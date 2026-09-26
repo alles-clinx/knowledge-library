@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0092",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0092",
+  "title": "Food-contact surface क्या है?",
+  "slug": "what-is-a-food-contact-surface",
+  "subcategory": "Food-Contact Surfaces",
+  "subcategory_slug": "food-contact-surfaces",
+  "excerpt": "Food-contact surface equipment/utensil surface है जो normally food touch करती है, या जहाँ से food drain, drip या splash होकर food/other food-contact surface तक पहुँच सकती है।",
+  "content_html": "<p>Food-contact classification केवल intentional food placement से decide नहीं होती। यह इस पर depend करती है कि food surface को कैसे contact कर सकती है।</p>\n<h2 id=\"hi92-definition\">FDA Food Code definition</h2><p>2026 FDA Food Code food-contact surface को ऐसी equipment/utensil surface define करता है जिसे food normally touch करती है, या जहाँ से food drain, drip/splash होकर food या another food-contact surface तक जा सकती है।</p>\n<h2 id=\"hi92-examples\">Common examples</h2><ul>\n<li>Cutting boards/prep tables.</li>\n<li>Knives, tongs, spatulas.</li>\n<li>Mixer bowls/blender jars.</li>\n<li>Food containers/pans की interior surfaces.</li>\n<li>Food-contact conveyors/chutes.</li>\n<li>Exposed food के ऊपर drip/splash path वाली parts.</li>\n</ul>\n<h2 id=\"hi92-notall\">हर kitchen surface food-contact नहीं है</h2><p>Floors, most walls, equipment exteriors और many handles normally nonfood-contact होती हैं। उन्हें भी clean करना होता है, लेकिन controls differ कर सकते हैं।</p>\n<h2 id=\"hi92-design\">Classification design affect करती है</h2><p>FDA model code multiuse food-contact surfaces को smooth, damage/crevice-free और cleaning/inspection accessible रखने की requirements देता है।</p>\n<h2 id=\"hi92-clean\">Food-contact surfaces clean होनी चाहिए</h2><p>2026 FDA Food Code equipment food-contact surfaces/utensils को sight and touch से clean require करता है और contamination/change-of-use triggers define करता है।</p>\n<h2 id=\"hi92-sanitize\">Cleaning के बाद sanitizing</h2><p>FDA model code में utensils/equipment food-contact surfaces cleaning के बाद use से पहले sanitize होती हैं। Exact method adopted local rules/system पर depend करता है।</p>\n<h2 id=\"hi92-test\">Practical classification test</h2><p>पूछें: <strong>क्या food normally इस surface को touch करती है, या food/liquid यहाँ से drain, drip या splash होकर food/another food-contact surface तक जा सकती है?</strong></p>\n<h2 id=\"hi92-note\">Regulatory note</h2><p>FDA Food Code model code है। Facility अपने jurisdiction के adopted rules follow करे।</p>\n<h2 id=\"hi92-takeaway\">Practical takeaway</h2><p>Food-contact surfaces obvious prep tables से ज्यादा broad हो सकती हैं। Food path classification तय करती है और वही cleaning/sanitizing expectations drive करती है।</p>\n<h2 id=\"hi92-references\">संदर्भ</h2><ol>\n<li id=\"hi92-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi92-ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Food-Contact Surface क्या है? | Alle's ClinX",
+  "meta_description": "Direct contact, drip, drain और splash path के आधार पर food-contact surface classification और hygiene requirements समझें।",
+  "related_article_ids": [
+    "ACX-KB-0093",
+    "ACX-KB-0094",
+    "ACX-KB-0075"
+  ]
+}

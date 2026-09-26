@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0093",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0093",
+  "title": "Food-contact surfaces: cleaning vs sanitising",
+  "slug": "cleaning-vs-sanitising-food-contact-surfaces",
+  "subcategory": "Food-Contact Surfaces",
+  "subcategory_slug": "food-contact-surfaces",
+  "excerpt": "Cleaning food soil/residue remove करती है; sanitising effective cleaning के बाद approved hot-water/chemical method से microorganisms reduce करने का separate step है।",
+  "content_html": "<p>Cleaning और sanitising connected but different steps हैं। Surface visibly clean हो सकती है लेकिन required sanitising complete न हुई हो; sanitizer food soil removal का substitute नहीं है।</p>\n<h2 id=\"hi93-clean\">Cleaning soil remove करती है</h2><p>2026 FDA Food Code food-contact surfaces/utensils को sight and touch से clean require करता है। Scraping, detergent, water और action food residue/grease remove करते हैं।</p>\n<h2 id=\"hi93-rinse\">Rinsing stages separate करती है</h2><p>Washing के बाद rinse loosened soil/cleaning chemistry remove करती है ताकि sanitizer clean surface contact करे।</p>\n<h2 id=\"hi93-sanitize\">Sanitising microorganisms control करती है</h2><p>FDA model code में food-contact surfaces cleaning के बाद use से पहले sanitize होती हैं। Approved methods hot water या chemical systems हो सकती हैं।</p>\n<h2 id=\"hi93-disinfect\">Sanitising हर disinfection जैसी नहीं है</h2><p>Sanitizer/disinfectant claims label-specific हैं। One use approval को another use के लिए assume न करें।</p>\n<h2 id=\"hi93-chemical\">Chemical sanitizer concentration/contact पर depend करती है</h2><p>FDA model-code provisions conditions define करते हैं और 2026 Code test kits को manufacturer label instructions के अनुसार use करने की बात करता है।</p>\n<h2 id=\"hi93-sequence\">Basic sequence</h2><ol>\n<li>Gross food soil remove करें.</li>\n<li>Approved cleaner/action से wash करें.</li>\n<li>Required rinse करें.</li>\n<li>Approved sanitizing method apply करें.</li>\n<li>Required concentration/temperature/contact time meet करें.</li>\n<li>Required drain/air-dry करें.</li>\n<li>Recontamination से protect करें.</li>\n</ol>\n<h2 id=\"hi93-failures\">Common failures</h2><ul>\n<li>Visibly dirty surface sanitize करना.</li>\n<li>Required rinse skip करना.</li>\n<li>Sanitizer concentration guess करना.</li>\n<li>Food-contact use के लिए labelled न हो ऐसा disinfectant use करना.</li>\n<li>Contact time short करना.</li>\n<li>Towel-drying से recontaminate करना.</li>\n</ul>\n<h2 id=\"hi93-note\">Regulatory note</h2><p>FDA Food Code model है। Adopted local code और approved product label follow करें।</p>\n<h2 id=\"hi93-takeaway\">Practical takeaway</h2><p>Cleaning soil remove करती है; sanitising effective cleaning के बाद microorganisms control करती है। दोनों अलग आवश्यक steps हैं।</p>\n<h2 id=\"hi93-references\">संदर्भ</h2><ol>\n<li id=\"hi93-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi93-ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/summary-changes-2026-fda-food-code\">U.S. FDA — 2026 Food Code Changes</a>.</li>\n</ol>",
+  "seo_title": "Cleaning vs Sanitising Food-Contact Surfaces | Alle's ClinX",
+  "meta_description": "Food-contact cleaning और sanitising के अलग purpose, sequence और process controls समझें।",
+  "related_article_ids": [
+    "ACX-KB-0092",
+    "ACX-KB-0094",
+    "ACX-KB-0079"
+  ]
+}

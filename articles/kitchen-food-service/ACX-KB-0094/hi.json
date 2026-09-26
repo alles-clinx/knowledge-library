@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0094",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0094",
+  "title": "Food-contact areas पर product labels क्यों matter करते हैं",
+  "slug": "why-product-labels-matter-on-food-contact-areas",
+  "subcategory": "Food-Contact Surfaces",
+  "subcategory_slug": "food-contact-surfaces",
+  "excerpt": "Product label define करता है use approved है या नहीं, dilution, contact time, rinse/no-rinse direction, surface type, application method और safety conditions क्या हैं।",
+  "content_html": "<p>Food-contact areas में product name या “sanitizer” word enough नहीं है। Approved label बताता है product कहाँ, किस concentration/contact time पर और किस rinse condition में use हो सकती है।</p>\n<h2 id=\"hi94-use\">Label approved use define करता है</h2><p>EPA antimicrobial labels बताती हैं product hard nonporous food-contact surfaces के लिए registered है या नहीं और eligible use areas/surfaces क्या हैं।</p>\n<h2 id=\"hi94-dilution\">Label dilution define करता है</h2><p>Sanitizer concentrate या ready-to-use हो सकती है। Label use dilution या no-dilution instruction देती है। Guessing approved condition से बाहर ले जा सकती है।</p>\n<h2 id=\"hi94-contact\">Label contact time define करता है</h2><p>Sanitizing claim specified exposure time पर depend करती है। Surface को required period तक wet रखना पड़ सकता है।</p>\n<h2 id=\"hi94-rinse\">Label rinse/no-rinse requirement define करता है</h2><p>कुछ products exact use पर air-dry/no-rinse allow करती हैं; others rinse मांग सकती हैं। One product की instruction another पर apply न करें।</p>\n<h2 id=\"hi94-preclean\">Label precleaning require कर सकता है</h2><p>EPA food-contact guidance/current labels gross soil removal और cleaning before sanitizing require कर सकती हैं। Sanitizer soil removal का substitute नहीं है।</p>\n<h2 id=\"hi94-foodcode\">Food Code approved chemical criteria reinforce करता है</h2><p>2026 FDA Food Code food-contact antimicrobials के applicable regulatory criteria और concentration testing controls define करता है।</p>\n<h2 id=\"hi94-read\">Label में क्या check करें</h2><ul>\n<li>Food-contact vs nonfood-contact use.</li>\n<li>Surface/material limitations.</li>\n<li>Dilution/ready-to-use instruction.</li>\n<li>Contact time.</li>\n<li>Precleaning.</li>\n<li>Rinse/no-rinse direction.</li>\n<li>Application method.</li>\n<li>Safety/storage/PPE directions.</li>\n</ul>\n<h2 id=\"hi94-noimprovise\">Improvised combinations avoid करें</h2><p>Concentration बढ़ाना, products mix करना या process steps shorten करना avoid करें। Label और facility procedure follow करें।</p>\n<h2 id=\"hi94-takeaway\">Practical takeaway</h2><p>Food-contact areas में label cleaning process का हिस्सा है। वही permitted use और exact preparation/application/rinse/dry method define करता है।</p>\n<h2 id=\"hi94-references\">संदर्भ</h2><ol>\n<li id=\"hi94-ref-1\"><a href=\"https://www.epa.gov/sites/default/files/2020-04/documents/label_requirements_for_pesticides_used_for_sanitation_of_food_contact_surfaces.pdf\">U.S. EPA — Food-Contact Sanitizer Label Requirements</a>.</li>\n<li id=\"hi94-ref-2\"><a href=\"https://www3.epa.gov/pesticides/chem_search/ppls/001677-00259-20260513.pdf\">U.S. EPA — 2026 Registered Sanitizer Label Example</a>.</li>\n<li id=\"hi94-ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Food-Contact Product Labels | Alle's ClinX",
+  "meta_description": "Food-contact use, dilution, contact time, precleaning, rinse और safety के लिए product labels क्यों essential हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0092",
+    "ACX-KB-0093",
+    "ACX-KB-0075"
+  ]
+}

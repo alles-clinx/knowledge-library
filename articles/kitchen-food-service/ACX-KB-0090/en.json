@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0090",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Routine Surface Degreasing vs Exhaust-System Cleaning",
+  "slug": "routine-surface-degreasing-vs-exhaust-system-cleaning",
+  "subcategory": "Chimney & Exhaust Cleaning",
+  "subcategory_slug": "chimney-exhaust-cleaning",
+  "excerpt": "Routine surface degreasing removes accessible grease from kitchen surfaces; exhaust-system cleaning addresses grease inside hoods, filters, plenums, ducts and fans under a separate inspection and maintenance program.",
+  "content_html": "<p>Routine degreasing and exhaust-system cleaning both deal with grease, but they do not cover the same scope. Wiping or degreasing the visible hood face does not mean the grease-removal devices, plenum, ductwork and fan are clean.</p>\n<h2 id=\"routine\">Routine surface degreasing</h2><p>Routine degreasing focuses on accessible kitchen surfaces such as equipment exteriors, splash zones, hood exteriors and other areas that collect grease during normal operation. It is part of the regular cleaning program and is usually performed without opening the full exhaust path.</p>\n<h2 id=\"exhaust\">Exhaust-system cleaning</h2><p>Commercial cooking exhaust systems move grease-laden vapours through hoods, filters or grease-removal devices, plenums, ducts and fans. NFPA 96 addresses inspection and maintenance of these systems because grease can accumulate beyond the visible cooking area.</p>\n<h2 id=\"different-risk\">The risk profile is different</h2><p>Accessible surface grease is primarily a hygiene, slip and material-care issue. Grease inside an exhaust system can also create ventilation and fire-protection concerns. That is why local fire and mechanical requirements may apply in addition to food-hygiene rules.</p>\n<h2 id=\"access\">Access requirements differ</h2><p>Routine cleaning can be completed on exposed surfaces. Exhaust-system work may require opening access panels, removing grease-removal devices, reaching duct interiors or servicing fans. This work should follow the equipment design, applicable standards and facility authorization.</p>\n<h2 id=\"frequency\">Frequency is not determined by the same trigger</h2><p>Surface degreasing may be daily or condition based. Exhaust inspection and cleaning frequency depends on cooking volume, fuel and cooking method, system condition and the requirements adopted by the local authority or facility standard.</p>\n<h2 id=\"food-code\">Food-hygiene requirements still apply</h2><p>The FDA Food Code model requires ventilation hood filters and grease-extracting equipment to be designed for cleaning and states that intake and exhaust ducts and filters should be cleaned or changed so they do not become contamination sources.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Routine surface degreasing</th><th>Exhaust-system cleaning</th></tr></thead><tbody>\n<tr><td>Scope</td><td>Accessible kitchen surfaces</td><td>Hood internals, filters, plenums, ducts, fans</td></tr>\n<tr><td>Primary trigger</td><td>Routine schedule or visible grease</td><td>Inspection, accumulation and applicable standard</td></tr>\n<tr><td>Access</td><td>Normally exposed surfaces</td><td>May require panels, dismantling and specialist access</td></tr>\n<tr><td>Risk controlled</td><td>Hygiene, slip, appearance, material condition</td><td>Hygiene, ventilation performance and fire-protection risk</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Do not treat a clean hood exterior as proof that the exhaust system is clean. Routine degreasing and exhaust-system maintenance should be planned as separate but coordinated programs.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nfpa.org/product/nfpa-96-standard/p0096code\">NFPA — NFPA 96: Ventilation Control and Fire Protection of Commercial Cooking Operations</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Surface Degreasing vs Exhaust-System Cleaning | Alle's ClinX",
+  "meta_description": "Compare routine kitchen surface degreasing with full exhaust-system cleaning by scope, access, frequency, risk and maintenance requirements.",
+  "related_article_ids": [
+    "ACX-KB-0089",
+    "ACX-KB-0085",
+    "ACX-KB-0091"
+  ]
+}

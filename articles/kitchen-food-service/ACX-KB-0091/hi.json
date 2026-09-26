@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0091",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0091",
+  "title": "Carbonised grease vs fresh grease",
+  "slug": "carbonised-grease-vs-fresh-grease",
+  "subcategory": "Chimney & Exhaust Cleaning",
+  "subcategory_slug": "chimney-exhaust-cleaning",
+  "excerpt": "Fresh grease soft/oily होती है; heavily heat-aged या carbonised grease heat, oxidation, polymerization और food solids के कारण darker, harder और strongly bonded हो सकती है।",
+  "content_html": "<p>Fresh grease और heavily heat-aged grease cleaning में differently behave करती हैं। Fresh grease soft/oily होती है; older deposits heat/air से oxidize/polymerize होकर dark, hard या resin-like बन सकती हैं।</p>\n<h2 id=\"hi91-fresh\">Fresh grease</h2><p>Fresh deposits liquid/semi-liquid fats/oils dominated होती हैं और compatible degreasing, moderate action तथा prompt recovery से often remove हो जाती हैं।</p>\n<h2 id=\"hi91-aged\">Heat-aged/polymerized grease</h2><p>Scientific reviews repeated heating के दौरान oxidation/polymerization describe करती हैं। Polymerized material sticky brown/resin-like deposit बना सकती है।</p>\n<h2 id=\"hi91-carbon\">“Carbonised grease” क्या है</h2><p>Kitchen maintenance में यह term dark hardened deposits के लिए use होती है जिसमें aged grease + cooked-on/charred food material हो सकता है। यह one pure chemical substance नहीं है।</p>\n<h2 id=\"hi91-clean\">Cleaning demand क्यों बढ़ती है</h2><p>Hard deposits chemistry penetration reduce करती हैं और longer dwell, more action, repeated cycles या specialist methods मांग सकती हैं। केवल concentration बढ़ाना surface damage कर सकता है।</p>\n<h2 id=\"hi91-heat\">Hard deposits कहाँ faster develop होती हैं</h2><p>Fryers, grills, ovens, hood interiors और exhaust paths heat + grease vapour receive करते हैं, इसलिए deposits faster age कर सकती हैं।</p>\n<h2 id=\"hi91-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Fresh</th><th>Aged/carbonised</th></tr></thead><tbody>\n<tr><td>Feel</td><td>Soft, oily, slick</td><td>Sticky/resin-like/hard</td></tr>\n<tr><td>Colour</td><td>Light to amber</td><td>Brown to very dark</td></tr>\n<tr><td>Bond</td><td>Usually lower</td><td>Often stronger</td></tr>\n<tr><td>Cleaning</td><td>Routine degreasing often enough</td><td>More dwell/action or specialist process</td></tr>\n</tbody></table>\n<h2 id=\"hi91-prevent\">Prevention restoration से easier है</h2><p>Thin grease film routinely remove करने से heat ageing, oxidation और layering के लिए कम time मिलता है।</p>\n<h2 id=\"hi91-takeaway\">Practical takeaway</h2><p>Fresh grease removable oily film है; heat-aged/carbonised deposit changed material है। Chemistry चुनने से पहले deposit diagnose करें।</p>\n<h2 id=\"hi91-references\">संदर्भ</h2><ol>\n<li id=\"hi91-ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/41089756/\">PubMed — Deep-Fat Frying Changes</a>.</li>\n<li id=\"hi91-ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8769064/\">PMC — Heated Culinary Oil Review</a>.</li>\n</ol>",
+  "seo_title": "Carbonised vs Fresh Grease | Alle's ClinX",
+  "meta_description": "Fresh और heat-aged/carbonised grease को texture, colour, bond और cleaning demand के आधार पर compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0086",
+    "ACX-KB-0089",
+    "ACX-KB-0090"
+  ]
+}

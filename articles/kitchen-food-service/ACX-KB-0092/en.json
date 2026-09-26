@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0092",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Food-Contact Surface?",
+  "slug": "what-is-a-food-contact-surface",
+  "subcategory": "Food-Contact Surfaces",
+  "subcategory_slug": "food-contact-surfaces",
+  "excerpt": "A food-contact surface is equipment or utensil surface that normally touches food, or a surface from which food can drain, drip or splash into food or onto another food-contact surface.",
+  "content_html": "<p>Food-contact surfaces are defined by how food can contact them, not only by whether food is intentionally placed on them. This classification matters because food-contact surfaces have tighter design, cleaning and sanitizing requirements than many surrounding surfaces.</p>\n<h2 id=\"definition\">FDA Food Code definition</h2><p>The 2026 FDA Food Code defines a food-contact surface as a surface of equipment or a utensil that food normally contacts, or a surface from which food may drain, drip or splash into food or onto another surface that normally contacts food.</p>\n<h2 id=\"examples\">Common examples</h2><ul>\n<li>Cutting boards and preparation tables.</li>\n<li>Knives, tongs, spatulas and serving utensils.</li>\n<li>Mixer bowls, blender jars and food-processing components.</li>\n<li>Interior surfaces of food containers and pans.</li>\n<li>Conveyor or chute surfaces that directly contact food.</li>\n<li>Parts above exposed food where drips or splash can reach the food-contact zone.</li>\n</ul>\n<h2 id=\"not-all\">Not every kitchen surface is food-contact</h2><p>Floors, most walls, equipment exteriors and many handles are normally nonfood-contact surfaces. They still require cleaning, but the cleaning frequency and sanitizing requirements can differ.</p>\n<h2 id=\"design\">Food-contact classification affects design</h2><p>Under the FDA model code, multiuse food-contact surfaces should be smooth, free from breaks and crevices and accessible for cleaning and inspection. Damaged surfaces can trap soil and become difficult to clean effectively.</p>\n<h2 id=\"clean\">Food-contact surfaces must be clean</h2><p>The 2026 FDA Food Code requires equipment food-contact surfaces and utensils to be clean to sight and touch and includes specific cleaning triggers when contamination may occur or food use changes.</p>\n<h2 id=\"sanitize\">Sanitizing follows cleaning</h2><p>Under the FDA model code, utensils and equipment food-contact surfaces are sanitized before use after cleaning. The exact method depends on the approved hot-water or chemical sanitizing system and local adopted rules.</p>\n<h2 id=\"classification\">A practical classification test</h2><p>Ask: <strong>Does food normally touch this surface, or can food or liquid drain, drip or splash from it into food or onto another food-contact surface?</strong> If yes, manage it as food-contact unless the applicable code or equipment design says otherwise.</p>\n<h2 id=\"regulatory-note\">Regulatory note</h2><p>The FDA Food Code is a model code. Facilities should follow the food-safety requirements adopted by their own jurisdiction.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Food-contact surfaces include more than obvious preparation tables. Classification follows the path food can take, and that classification determines the cleaning, sanitizing and material-control expectations.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, definitions and Chapter 4</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "What Is a Food-Contact Surface? | Alle's ClinX",
+  "meta_description": "Understand the FDA model-code definition of food-contact surfaces and how direct contact, dripping, draining or splashing affects cleaning and sanitizing requirements.",
+  "related_article_ids": [
+    "ACX-KB-0093",
+    "ACX-KB-0094",
+    "ACX-KB-0075"
+  ]
+}

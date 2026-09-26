@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0090",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0090",
+  "title": "Routine surface degreasing vs exhaust-system cleaning",
+  "slug": "routine-surface-degreasing-vs-exhaust-system-cleaning",
+  "subcategory": "Chimney & Exhaust Cleaning",
+  "subcategory_slug": "chimney-exhaust-cleaning",
+  "excerpt": "Routine surface degreasing accessible grease remove करती है; exhaust-system cleaning hood internals, filters, plenums, ducts और fans के grease को separate inspection/maintenance program में address करती है।",
+  "content_html": "<p>Routine degreasing और exhaust-system cleaning दोनों grease handle करती हैं, लेकिन scope same नहीं है। Visible hood face clean होना full exhaust path clean होने का proof नहीं है।</p>\n<h2 id=\"hi90-routine\">Routine surface degreasing</h2><p>Equipment exteriors, splash zones, hood exteriors और other accessible surfaces पर normal operation से जमा grease remove करना routine program का हिस्सा है।</p>\n<h2 id=\"hi90-exhaust\">Exhaust-system cleaning</h2><p>Grease-laden vapours hoods, filters, plenums, ducts और fans से गुजरती हैं। NFPA 96 इन systems की inspection/maintenance address करता है क्योंकि grease visible area से beyond accumulate होती है।</p>\n<h2 id=\"hi90-risk\">Risk profile अलग है</h2><p>Accessible grease hygiene/slip/material-care issue है; exhaust grease ventilation और fire-protection concern भी बन सकती है। इसलिए local fire/mechanical requirements भी apply कर सकती हैं।</p>\n<h2 id=\"hi90-access\">Access requirements अलग हैं</h2><p>Routine cleaning exposed surfaces पर होती है। Exhaust work में panels खोलना, filters हटाना, duct/fan access या specialist work लग सकता है।</p>\n<h2 id=\"hi90-frequency\">Frequency same trigger से decide नहीं होती</h2><p>Surface degreasing daily/condition-based हो सकती है। Exhaust frequency cooking volume, method, system condition और adopted local requirements पर depend करती है।</p>\n<h2 id=\"hi90-foodcode\">Food-hygiene requirements भी apply करती हैं</h2><p>FDA Food Code model ventilation filters/grease extractors को cleanable design और ducts/filters को contamination source बनने से रोकने के लिए clean/change करने की guidance देता है।</p>\n<h2 id=\"hi90-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Surface degreasing</th><th>Exhaust cleaning</th></tr></thead><tbody>\n<tr><td>Scope</td><td>Accessible kitchen surfaces</td><td>Hood internals, filters, plenums, ducts, fans</td></tr>\n<tr><td>Trigger</td><td>Routine/visible grease</td><td>Inspection, buildup, applicable standard</td></tr>\n<tr><td>Access</td><td>Exposed surfaces</td><td>Panels/dismantling/specialist access</td></tr>\n<tr><td>Risk</td><td>Hygiene/slip/material condition</td><td>Hygiene + ventilation/fire protection</td></tr>\n</tbody></table>\n<h2 id=\"hi90-takeaway\">Practical takeaway</h2><p>Clean hood exterior को clean exhaust system न मानें। Routine degreasing और exhaust maintenance separate but coordinated programs हों।</p>\n<h2 id=\"hi90-references\">संदर्भ</h2><ol>\n<li id=\"hi90-ref-1\"><a href=\"https://www.nfpa.org/product/nfpa-96-standard/p0096code\">NFPA — NFPA 96</a>.</li>\n<li id=\"hi90-ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Surface Degreasing vs Exhaust Cleaning | Alle's ClinX",
+  "meta_description": "Scope, access, frequency और risk के आधार पर routine degreasing और exhaust-system cleaning compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0089",
+    "ACX-KB-0085",
+    "ACX-KB-0091"
+  ]
+}

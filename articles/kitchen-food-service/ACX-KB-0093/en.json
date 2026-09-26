@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0093",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning vs Sanitising Food-Contact Surfaces",
+  "slug": "cleaning-vs-sanitising-food-contact-surfaces",
+  "subcategory": "Food-Contact Surfaces",
+  "subcategory_slug": "food-contact-surfaces",
+  "excerpt": "Cleaning removes food soil and residue from food-contact surfaces; sanitising is a separate post-cleaning step that reduces microorganisms using an approved hot-water or chemical method before the surface returns to use.",
+  "content_html": "<p>Cleaning and sanitising are connected but different steps. A surface can be visibly clean without having completed the required sanitising process, and sanitizer should not be used as a substitute for removing food soil.</p>\n<h2 id=\"cleaning\">Cleaning removes soil</h2><p>The 2026 FDA Food Code requires equipment food-contact surfaces and utensils to be clean to sight and touch. Cleaning uses scraping, washing, detergent, water and mechanical action to remove food residue, grease and other soil.</p>\n<h2 id=\"rinsing\">Rinsing separates the two stages</h2><p>After washing, rinsing removes loosened soil and cleaning chemistry before sanitising. This helps the sanitizing step contact the surface without an unnecessary load of detergent or food residue.</p>\n<h2 id=\"sanitising\">Sanitising controls microorganisms after cleaning</h2><p>Under the FDA model code, utensils and equipment food-contact surfaces are sanitised before use after cleaning. Approved methods can include hot water or chemical sanitizers operating within defined parameters.</p>\n<h2 id=\"not-disinfection\">Sanitising is not the same as every form of disinfection</h2><p>Sanitizer and disinfectant claims are label-specific. A product approved for one use should not be assumed suitable for another. In food-contact areas, use only products and methods allowed for the intended food-contact application.</p>\n<h2 id=\"chemical\">Chemical sanitizers depend on concentration and contact</h2><p>FDA model-code provisions require chemical sanitizing solutions to meet specified conditions, and the 2026 Code states that test kits used to determine sanitizer concentration should be used in accordance with manufacturer label instructions.</p>\n<h2 id=\"sequence\">The basic sequence</h2><ol>\n<li>Remove gross food soil.</li>\n<li>Wash with the approved cleaner and action.</li>\n<li>Rinse as required.</li>\n<li>Apply the approved sanitizing method.</li>\n<li>Meet the required concentration, temperature and contact time.</li>\n<li>Allow the item to drain or air-dry as required.</li>\n<li>Protect it from recontamination before use.</li>\n</ol>\n<h2 id=\"common-failures\">Common failures</h2><ul>\n<li>Sanitizing a visibly dirty surface.</li>\n<li>Skipping the rinse when the procedure requires it.</li>\n<li>Guessing sanitizer concentration.</li>\n<li>Using a disinfectant that is not labelled for the intended food-contact use.</li>\n<li>Shortening contact time.</li>\n<li>Towel-drying and recontaminating the surface.</li>\n</ul>\n<h2 id=\"regulatory-note\">Regulatory note</h2><p>The FDA Food Code is a model. Follow the adopted food-safety code in the facility's jurisdiction and the product's approved label.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Cleaning removes the soil; sanitising follows effective cleaning to control microorganisms. Neither step replaces the other.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, §§ 4-601.11, 4-702.11 and 4-703.11</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/summary-changes-2026-fda-food-code\">U.S. FDA — Summary of Changes in the 2026 Food Code</a>.</li>\n</ol>",
+  "seo_title": "Cleaning vs Sanitising Food-Contact Surfaces | Alle's ClinX",
+  "meta_description": "Learn why food-contact cleaning removes soil while sanitising is a separate post-cleaning microorganism-control step with verified process parameters.",
+  "related_article_ids": [
+    "ACX-KB-0092",
+    "ACX-KB-0094",
+    "ACX-KB-0079"
+  ]
+}
