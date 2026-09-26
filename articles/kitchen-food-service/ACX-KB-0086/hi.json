@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0086",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0086",
+  "title": "Kitchen grease समय के साथ harder to remove क्यों हो जाती है",
+  "slug": "why-kitchen-grease-becomes-harder-to-remove-over-time",
+  "subcategory": "Degreasing",
+  "subcategory_slug": "degreasing",
+  "excerpt": "Heat, oxygen, repeated cooking और soil buildup oxidation/polymerization drive करते हैं, जिससे fresh oily film thicker, darker और resin-like deposit बन सकती है।",
+  "content_html": "<p>Fresh oil और old kitchen grease chemically same नहीं रहती। Heat, air और repeated cooking exposure fats को oxidize/polymerize कर सकती है, जिससे deposit darker, sticky और harder-to-remove बनती है।</p>\n<h2 id=\"hi86-oxidation\">Heat और oxygen oil change करते हैं</h2><p>Scientific reviews heated culinary oils में oxidation को major degradation pathway बताते हैं। Repeated heating oil की chemistry/physical behaviour बदलती है।</p>\n<h2 id=\"hi86-poly\">Polymerization tougher deposit बनाती है</h2><p>High-temperature frying polymerized lipid material बना सकती है। Reviews brown resin-like deposits describe करते हैं जहाँ hot oil, air और metal surfaces interact करते हैं।</p>\n<h2 id=\"hi86-layers\">Repeated soil layers build करती है</h2><p>New grease old film के ऊपर carbonized food particles, dust और other soil के साथ settle हो सकती है। Deposit simple oil film से layered mix बनती जाती है।</p>\n<h2 id=\"hi86-heat\">Hot zones ageing accelerate करते हैं</h2><p>Fryers, grills, ovens और exhaust paths के पास surfaces heat + grease-laden vapour दोनों receive करती हैं, इसलिए deposits faster age कर सकती हैं।</p>\n<h2 id=\"hi86-delay\">Delayed cleaning demand बढ़ाती है</h2><p>Thin film routinely remove करना hardened/polymerized layer से आसान है। Aged deposits longer dwell, more action या different compatible chemistry मांग सकती हैं।</p>\n<h2 id=\"hi86-safe\">Uncontrolled chemistry से overcorrect न करें</h2><p>Hard deposit stronger chemical blindly use करने का reason नहीं है। Surface/deposit identify करें और least aggressive effective method use करें।</p>\n<h2 id=\"hi86-takeaway\">Practical takeaway</h2><p>Time, heat और oxygen grease को harder बनाते हैं। Early routine removal aged polymerized layers की तुलना में easier है।</p>\n<h2 id=\"hi86-references\">संदर्भ</h2><ol>\n<li id=\"hi86-ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/41089756/\">PubMed — Deep-Fat Frying Oil Degradation</a>.</li>\n<li id=\"hi86-ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8769064/\">PMC — Heated Culinary Oil Oxidation/Polymerization Review</a>.</li>\n<li id=\"hi86-ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Kitchen Grease Harder क्यों होती है | Alle's ClinX",
+  "meta_description": "Heat, oxygen, oxidation, polymerization और soil buildup kitchen grease को harder-to-remove क्यों बनाते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0085",
+    "ACX-KB-0088",
+    "ACX-KB-0089"
+  ]
+}

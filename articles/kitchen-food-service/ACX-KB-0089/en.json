@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0089",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Kitchen Exhaust Systems Accumulate Grease",
+  "slug": "why-kitchen-exhaust-systems-accumulate-grease",
+  "subcategory": "Chimney & Exhaust Cleaning",
+  "subcategory_slug": "chimney-exhaust-cleaning",
+  "excerpt": "Kitchen exhaust systems accumulate grease because cooking releases grease-laden vapours and aerosols that are captured by hoods and move through filters, plenums, ducts and fans where some material deposits on surfaces.",
+  "content_html": "<p>Commercial cooking releases heat, smoke, moisture and grease-laden vapours or aerosols. The exhaust system is designed to capture and remove that contaminated air, so some grease naturally reaches hoods, filters, plenums, ducts and fans.</p>\n<h2 id=\"capture\">The hood captures cooking vapours</h2><p>Mechanical-code provisions for commercial kitchens require Type I hoods where cooking produces smoke or grease-laden vapours. Hoods are designed to capture and confine cooking vapours and residues before they spread through the room.</p>\n<h2 id=\"filters\">Grease-removal devices capture only part of the load</h2><p>Filters and other grease-extracting devices intercept much of the grease, but they must themselves be cleaned and maintained. The FDA Food Code requires ventilation-hood filters or grease-extracting equipment to be readily removable for cleaning or replacement unless designed for in-place cleaning.</p>\n<h2 id=\"deposition\">Grease deposits as the air stream cools and contacts surfaces</h2><p>Grease-containing vapour and droplets can condense or impact surfaces as they move through the exhaust path. Deposits therefore occur not only on the visible hood but also in filters, plenum spaces, ducts and fan assemblies.</p>\n<h2 id=\"cooking-load\">Cooking method changes the grease load</h2><p>High-volume frying, grilling and other grease-producing cooking processes can generate more grease-laden effluent than low-grease operations. The rate of accumulation therefore depends on equipment, menu, cooking volume and operating hours.</p>\n<h2 id=\"age\">Deposits can become harder with heat and time</h2><p>Grease exposed to heat and oxygen can oxidize and polymerize, becoming more resin-like and difficult to remove. Exhaust-path deposits may therefore become progressively tougher if not maintained.</p>\n<h2 id=\"maintenance\">Accumulation is a maintenance and fire-protection issue</h2><p>NFPA 96 covers the design, operation, inspection and maintenance of commercial cooking exhaust systems, including hoods, fans and grease-removal devices. OSHA enforcement records have documented grease accumulation inside exhaust systems where required inspection and cleaning were not performed.</p>\n<h2 id=\"food-hygiene\">It is also a hygiene issue</h2><p>The 2026 FDA Food Code states that intake and exhaust ducts and filters should be cleaned or changed so they do not become contamination sources. Maintenance should therefore coordinate fire safety, ventilation performance and hygiene.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Exhaust grease is produced by the cooking process and transported by the ventilation system. Filters reduce the load but do not eliminate it, so hoods, grease-removal devices and the wider exhaust path require planned inspection and maintenance under applicable local fire, mechanical and food-safety rules.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nfpa.org/product/nfpa-96-standard/p0096code\">NFPA — NFPA 96, Ventilation Control and Fire Protection of Commercial Cooking Operations</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapters 4 and 6</a>.</li>\n<li id=\"ref-3\"><a href=\"https://codes.iccsafe.org/content/NYNYCMC2022P1/chapter-5-exhaust-systems\">ICC — Commercial Kitchen Hood Capture and Exhaust Provisions</a>.</li>\n<li id=\"ref-4\"><a href=\"https://www.osha.gov/ords/imis/generalsearch.citation_detail?cit_id=01001&id=1524426.015\">U.S. OSHA — Grease Accumulation in Exhaust Ventilation System Citation Record</a>.</li>\n</ol>",
+  "seo_title": "Why Kitchen Exhaust Systems Accumulate Grease | Alle's ClinX",
+  "meta_description": "Learn why cooking vapours deposit grease in hoods, filters, plenums, ducts and fans, and why exhaust maintenance is part of hygiene and fire protection.",
+  "related_article_ids": [
+    "ACX-KB-0085",
+    "ACX-KB-0086",
+    "ACX-KB-0088"
+  ]
+}

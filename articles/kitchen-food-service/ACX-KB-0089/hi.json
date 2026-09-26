@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0089",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0089",
+  "title": "Kitchen exhaust systems में grease क्यों accumulate होती है",
+  "slug": "why-kitchen-exhaust-systems-accumulate-grease",
+  "subcategory": "Chimney & Exhaust Cleaning",
+  "subcategory_slug": "chimney-exhaust-cleaning",
+  "excerpt": "Cooking grease-laden vapours/aerosols release करती है जिन्हें hood capture करता है; filters, plenums, ducts और fans से गुजरते समय कुछ grease surfaces पर deposit होती है।",
+  "content_html": "<p>Commercial cooking heat, smoke, moisture और grease-laden vapours/aerosols release करती है। Exhaust system इन्हें capture/remove करता है, इसलिए कुछ grease hood, filters, plenums, ducts और fans तक naturally पहुंचती है।</p>\n<h2 id=\"hi89-capture\">Hood cooking vapours capture करता है</h2><p>Commercial-kitchen mechanical provisions smoke/grease-laden vapours वाले cooking processes के लिए Type I hood require करते हैं। Hood vapours/residues capture/confine करने के लिए designed होता है।</p>\n<h2 id=\"hi89-filters\">Grease-removal devices load का केवल हिस्सा capture करते हैं</h2><p>Filters/grease extractors much of grease intercept करते हैं, लेकिन उन्हें clean/maintain करना पड़ता है। FDA Food Code filters को cleaning/replacement के लिए accessible/removable design की बात करता है।</p>\n<h2 id=\"hi89-deposit\">Air stream move करते समय grease deposit होती है</h2><p>Grease-containing vapour/droplets cooler surfaces पर condense/impact कर सकती हैं। इसलिए deposit visible hood के अलावा plenum, ducts और fan assemblies में भी बनती है।</p>\n<h2 id=\"hi89-load\">Cooking method grease load बदलती है</h2><p>High-volume frying/grilling low-grease cooking की तुलना में ज्यादा grease-laden effluent generate कर सकते हैं। Accumulation rate menu, equipment, volume और operating hours पर depend करती है।</p>\n<h2 id=\"hi89-age\">Heat/time deposits harder बनाते हैं</h2><p>Heat/oxygen grease को oxidize/polymerize करके resin-like बना सकते हैं। Delayed maintenance deposits tougher बना सकती है।</p>\n<h2 id=\"hi89-maint\">Accumulation maintenance/fire-protection issue है</h2><p>NFPA 96 commercial cooking exhaust systems के design, operation, inspection और maintenance को cover करता है। OSHA records ने exhaust systems में grease buildup document किया है जहाँ cleaning/inspection inadequate थी।</p>\n<h2 id=\"hi89-hygiene\">यह hygiene issue भी है</h2><p>2026 FDA Food Code intake/exhaust ducts और filters को contamination source बनने से रोकने के लिए clean/change करने की guidance देता है।</p>\n<h2 id=\"hi89-takeaway\">Practical takeaway</h2><p>Exhaust grease cooking से आती है और ventilation path उसे transport करता है। Filters load reduce करते हैं लेकिन eliminate नहीं; applicable fire, mechanical और food-safety rules के अनुसार planned inspection/maintenance जरूरी है।</p>\n<h2 id=\"hi89-references\">संदर्भ</h2><ol>\n<li id=\"hi89-ref-1\"><a href=\"https://www.nfpa.org/product/nfpa-96-standard/p0096code\">NFPA — NFPA 96</a>.</li>\n<li id=\"hi89-ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi89-ref-3\"><a href=\"https://codes.iccsafe.org/content/NYNYCMC2022P1/chapter-5-exhaust-systems\">ICC — Commercial Kitchen Exhaust Provisions</a>.</li>\n<li id=\"hi89-ref-4\"><a href=\"https://www.osha.gov/ords/imis/generalsearch.citation_detail?cit_id=01001&id=1524426.015\">U.S. OSHA — Exhaust Grease Accumulation Citation</a>.</li>\n</ol>",
+  "seo_title": "Kitchen Exhaust Grease Accumulation | Alle's ClinX",
+  "meta_description": "Cooking vapours, filters, ducts, heat और maintenance के कारण kitchen exhaust systems में grease accumulation कैसे होती है, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0085",
+    "ACX-KB-0086",
+    "ACX-KB-0088"
+  ]
+}

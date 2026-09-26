@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0086",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Kitchen Grease Becomes Harder to Remove Over Time",
+  "slug": "why-kitchen-grease-becomes-harder-to-remove-over-time",
+  "subcategory": "Degreasing",
+  "subcategory_slug": "degreasing",
+  "excerpt": "Kitchen grease becomes harder to remove as heat, oxygen, repeated cooking and soil buildup drive oxidation and polymerization, turning fresh oily film into thicker, darker and more resin-like deposits.",
+  "content_html": "<p>Fresh oil and old kitchen grease are not chemically identical. With repeated exposure to heat, air and cooking conditions, fats can oxidize and polymerize. The result can become darker, more viscous, sticky or resin-like and much harder to remove with routine detergent.</p>\n<h2 id=\"oxidation\">Heat and oxygen change the oil</h2><p>Scientific reviews of heated culinary oils describe oxidation as a major degradation pathway. Repeated heating creates new compounds and changes the physical behaviour of the oil.</p>\n<h2 id=\"polymerization\">Polymerization makes deposits tougher</h2><p>High-temperature frying can produce polymerized lipid material. Published reviews describe brown, resin-like deposits forming where hot oil, air and metal surfaces meet. These polymerized residues are more difficult to clean than fresh liquid grease.</p>\n<h2 id=\"layers\">Repeated soil builds layers</h2><p>New grease can settle onto old film together with carbonized food particles, dust and other kitchen soil. Over time the deposit becomes a layered mixture rather than a simple oil film.</p>\n<h2 id=\"heat-zones\">Hot surfaces accelerate ageing</h2><p>Areas near fryers, grills, ovens and exhaust paths receive both heat and grease-laden vapour. Grease on these surfaces can age faster than deposits in cooler areas.</p>\n<h2 id=\"routine-delay\">Delayed cleaning increases the cleaning demand</h2><p>Routine removal prevents thin film from becoming a hardened layer. Once deposits are polymerized or carbonized, they may require longer dwell, more mechanical action, different compatible chemistry or specialist maintenance.</p>\n<h2 id=\"do-not-overcorrect\">Do not overcorrect with uncontrolled chemistry</h2><p>Harder deposits do not justify blindly using stronger alkaline or solvent chemistry. First identify the surface and deposit, follow product instructions and use the least aggressive method that achieves removal.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Kitchen grease becomes harder because time, heat and oxygen change it. Early routine removal is usually easier than trying to remove aged, polymerized layers later.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/41089756/\">PubMed — Chemical Changes in Deep-Fat Frying: Reaction Mechanisms, Oil Degradation, and Health Implications</a>.</li>\n<li id=\"ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8769064/\">PMC — Review of Heated Culinary Oil Oxidation and Polymerization</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n</ol>",
+  "seo_title": "Why Kitchen Grease Gets Harder to Remove | Alle's ClinX",
+  "meta_description": "Learn how heat, oxygen, oxidation, polymerization and repeated soil buildup turn fresh kitchen grease into tougher, resin-like deposits.",
+  "related_article_ids": [
+    "ACX-KB-0085",
+    "ACX-KB-0088",
+    "ACX-KB-0089"
+  ]
+}

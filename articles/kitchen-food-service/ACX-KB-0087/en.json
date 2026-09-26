@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0087",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Degreasing vs General-Purpose Cleaning",
+  "slug": "degreasing-vs-general-purpose-cleaning",
+  "subcategory": "Degreasing",
+  "subcategory_slug": "degreasing",
+  "excerpt": "General-purpose cleaning handles mixed routine soil; degreasing is a targeted process for oily or fatty deposits and may require different chemistry, dwell, temperature, mechanical action and recovery.",
+  "content_html": "<p>General-purpose cleaning and degreasing overlap, but they are not identical. General-purpose cleaning is designed for everyday mixed soil across compatible surfaces. Degreasing focuses specifically on oily, fatty or grease-rich contamination that resists lighter cleaning.</p>\n<h2 id=\"soil\">The soil determines the process</h2><p>The 2026 FDA Food Code states that wet-cleaning procedures should be selected according to the equipment or utensil and the type of soil to be removed. This is the core difference: a light dust-and-food film does not necessarily require the same chemistry as fryer grease.</p>\n<h2 id=\"general-purpose\">General-purpose cleaning</h2><p>General-purpose cleaners are useful for routine soil such as light food film, dust, fingerprints and mixed environmental soil where heavy grease is not dominant.</p>\n<h2 id=\"degreasing\">Degreasing</h2><p>Degreasing may use stronger wetting, emulsifying or alkaline chemistry, higher compatible temperature, longer dwell and more mechanical action to detach grease. The method still has to remain compatible with the surface.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>General-purpose cleaning</th><th>Degreasing</th></tr></thead><tbody>\n<tr><td>Main soil</td><td>Light mixed routine soil</td><td>Fats, oils and heavy grease</td></tr>\n<tr><td>Chemistry</td><td>Broad light-duty cleaner</td><td>Grease-targeted chemistry</td></tr>\n<tr><td>Dwell/action</td><td>Usually lower</td><td>May need more dwell/action</td></tr>\n<tr><td>Recovery</td><td>Remove routine soil/residue</td><td>Critical to prevent grease redeposition</td></tr>\n<tr><td>Typical trigger</td><td>Routine schedule/visible soil</td><td>Grease-rich deposit or film</td></tr>\n</tbody></table>\n<h2 id=\"when-general-fails\">Why general-purpose cleaner may fail on heavy grease</h2><p>A light-duty product may wet the surface without fully emulsifying a thick grease layer. Repeated wiping can then spread the deposit into a thinner but still greasy film.</p>\n<h2 id=\"when-degreaser-is-unnecessary\">Why degreaser is not always the better choice</h2><p>Stronger chemistry can increase material risk, residue burden and worker exposure. If routine soil can be removed with a milder compatible cleaner, a heavy-duty degreaser adds no automatic benefit.</p>\n<h2 id=\"food-contact\">Food-contact surfaces still need the full hygiene process</h2><p>When degreasing food-contact surfaces, follow the applicable requirements for rinsing and sanitizing after cleaning before the surface returns to use.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Choose the process from the soil, not the product label. Use general-purpose cleaning for light mixed soil and targeted degreasing when fats and oils are the dominant problem.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Degreasing vs General-Purpose Cleaning | Alle's ClinX",
+  "meta_description": "Compare general-purpose cleaning and degreasing by soil type, chemistry, dwell, mechanical action, recovery and food-contact requirements.",
+  "related_article_ids": [
+    "ACX-KB-0085",
+    "ACX-KB-0088",
+    "ACX-KB-0049"
+  ]
+}

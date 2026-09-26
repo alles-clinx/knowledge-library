@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0085",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Degreasing?",
+  "slug": "what-is-degreasing",
+  "subcategory": "Degreasing",
+  "subcategory_slug": "degreasing",
+  "excerpt": "Degreasing is the targeted removal of fats, oils and grease using chemistry, temperature, mechanical action and recovery methods matched to the soil and surface.",
+  "content_html": "<p>Degreasing is cleaning focused on fatty and oily soils that ordinary light-duty cleaning may not remove efficiently. The goal is to loosen, emulsify, dissolve or otherwise detach grease so it can be removed from the surface rather than spread into a thinner film.</p>\n<h2 id=\"what-makes-grease-different\">Why grease needs targeted cleaning</h2><p>Kitchen grease is hydrophobic, meaning it does not mix readily with water. Effective degreasing therefore depends on chemistry and mechanical action that help detach and disperse oily soil so it can be rinsed or recovered.</p>\n<h2 id=\"chemistry\">Chemistry helps break the soil-surface bond</h2><p>The 2026 FDA Food Code lists wet cleaning methods that may use detergents with wetting agents and emulsifiers, alkaline or acid cleaners, hot water, brushes, scouring pads, high-pressure sprays or other suitable methods. It also states that the selected procedure should match the type of equipment or utensil and the soil being removed.</p>\n<h2 id=\"temperature\">Temperature can improve grease removal</h2><p>Warmer conditions can reduce grease viscosity and help detergents work, but temperature must remain within the limits of the surface, product and equipment. More heat is not automatically safer or more effective.</p>\n<h2 id=\"mechanical-action\">Mechanical action completes the process</h2><p>Brushing, wiping, scrubbing, spray action or machine agitation helps release grease that chemistry has softened or emulsified. Smooth stainless steel and textured grout, for example, may need different tools.</p>\n<h2 id=\"recovery\">Degreasing is not complete until loosened grease is removed</h2><p>If loosened grease remains in dirty solution or on an overloaded cloth, it can redeposit as a film. Fresh tools, solution replacement, rinsing or recovery are therefore part of the degreasing process.</p>\n<h2 id=\"surface-compatibility\">Surface compatibility comes first</h2><p>Strong alkaline or solvent-type products may damage some coatings, soft metals, stone, sealants or painted surfaces. Select the least aggressive method that removes the soil without harming the material.</p>\n<h2 id=\"food-contact\">Food-contact surfaces need additional control</h2><p>In food-service areas, food-contact surfaces must follow the applicable food-code requirements for cleaning, rinsing and sanitizing before returning to use. Degreasing chemistry does not replace those hygiene steps.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Degreasing is a soil-specific cleaning process. Match chemistry, temperature, mechanical action and recovery to the grease and surface, then verify that the loosened soil has actually been removed.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "What Is Degreasing? | Alle's ClinX Knowledge",
+  "meta_description": "Learn how degreasing removes fats, oils and grease using matched chemistry, temperature, mechanical action, recovery and surface-compatibility controls.",
+  "related_article_ids": [
+    "ACX-KB-0086",
+    "ACX-KB-0087",
+    "ACX-KB-0078"
+  ]
+}

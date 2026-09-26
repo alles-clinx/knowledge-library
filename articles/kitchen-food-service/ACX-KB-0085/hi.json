@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0085",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0085",
+  "title": "Degreasing क्या है?",
+  "slug": "what-is-degreasing",
+  "subcategory": "Degreasing",
+  "subcategory_slug": "degreasing",
+  "excerpt": "Degreasing fats, oils और grease को targeted तरीके से remove करने की process है जिसमें chemistry, temperature, mechanical action और recovery soil/surface के अनुसार match किए जाते हैं।",
+  "content_html": "<p>Degreasing fatty/oily soils के लिए targeted cleaning है जिन्हें light-duty cleaning efficiently remove नहीं कर सकती। Goal grease को loosen/emulsify/detach करके surface से remove करना है, thin film के रूप में spread करना नहीं।</p>\n<h2 id=\"hi85-different\">Grease targeted cleaning क्यों मांगती है</h2><p>Kitchen grease water के साथ readily mix नहीं करती। Effective degreasing ऐसी chemistry/action use करती है जो oily soil को detach/disperse करे ताकि उसे rinse/recover किया जा सके।</p>\n<h2 id=\"hi85-chemistry\">Chemistry soil-surface bond loosen करती है</h2><p>2026 FDA Food Code wet-cleaning methods में wetting/emulsifying detergents, alkaline/acid cleaners, hot water, brushes, pads और sprays जैसे methods list करता है और method को soil/equipment के अनुसार select करने को कहता है।</p>\n<h2 id=\"hi85-temp\">Temperature grease removal improve कर सकती है</h2><p>Warm conditions grease viscosity कम कर सकती हैं, लेकिन surface/product/equipment limits follow करें। Hotter automatically better नहीं है।</p>\n<h2 id=\"hi85-action\">Mechanical action process complete करती है</h2><p>Brushing, wiping, scrubbing या spray action loosened grease release करने में help करती है। Different textures अलग tools मांग सकती हैं।</p>\n<h2 id=\"hi85-recovery\">Loosened grease remove हुए बिना degreasing complete नहीं है</h2><p>Dirty solution या overloaded cloth में grease remain हो तो film के रूप में redeposit हो सकती है। Fresh tools, solution replacement, rinse/recovery important हैं।</p>\n<h2 id=\"hi85-compatibility\">Surface compatibility पहले आती है</h2><p>Strong alkaline/solvent-type products coatings, soft metals, stone, sealants या paint damage कर सकते हैं। Least aggressive effective method choose करें।</p>\n<h2 id=\"hi85-foodcontact\">Food-contact surfaces में extra controls हैं</h2><p>Applicable food-code cleaning, rinsing और sanitizing requirements follow करें। Degreasing chemistry इन hygiene steps का substitute नहीं है।</p>\n<h2 id=\"hi85-takeaway\">Practical takeaway</h2><p>Degreasing soil-specific cleaning process है। Chemistry, temperature, action और recovery grease/surface से match करें और verify करें कि loosened soil वास्तव में remove हुई।</p>\n<h2 id=\"hi85-references\">संदर्भ</h2><ol>\n<li id=\"hi85-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026, Chapter 4</a>.</li>\n<li id=\"hi85-ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Degreasing क्या है? | Alle's ClinX",
+  "meta_description": "Fats/oils/grease हटाने में chemistry, temperature, mechanical action, recovery और surface compatibility की भूमिका समझें।",
+  "related_article_ids": [
+    "ACX-KB-0086",
+    "ACX-KB-0087",
+    "ACX-KB-0078"
+  ]
+}
