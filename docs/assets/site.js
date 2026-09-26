@@ -41,7 +41,10 @@
       '</section>'+
       '<div class="acx-mobile-drawer-foot"><a href="https://allesclinx.com/">Alle\'s ClinX</a><span>Open Knowledge</span></div>'+
     '</div></div></header>';
-  document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
+  const injectedHeader=header.firstElementChild;
+  document.body.insertAdjacentElement('afterbegin',injectedHeader);
+  const injectedDrawer=injectedHeader.querySelector('#acx-mobile-drawer');
+  if(injectedDrawer) injectedHeader.insertAdjacentElement('afterend',injectedDrawer);
 
   const siteHeader=document.querySelector('.acx-site-header');
   function syncHeaderState(){
