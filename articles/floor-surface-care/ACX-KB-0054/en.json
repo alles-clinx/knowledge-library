@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0054",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Stains Return After Surface Cleaning",
+  "slug": "why-stains-return-after-surface-cleaning",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "A stain can return when contamination remains inside a porous material, the source of staining is still active, residue attracts new soil, or moisture transports dissolved material back to the visible surface.",
+  "content_html": "<p>A stain that reappears after cleaning is often a source or migration problem rather than a simple failure to wipe hard enough. Surface cleaning may remove what is visible while contamination, salts, oil or moisture remain below or behind the surface.</p>\n<h2 id=\"cause-contamination-penetrated-the-material\">Cause 1: Contamination penetrated the material</h2><p>Porous stone, concrete, grout and some coatings can absorb staining material. GSA and NPS preservation guidance note that liquids and cleaners can drive stains deeper into porous materials. Removing only the surface portion can therefore produce temporary improvement.</p>\n<h2 id=\"cause-moisture-brings-material-back\">Cause 2: Moisture brings dissolved material back</h2><p>Water can dissolve salts or other mobile material inside a porous substrate. NPS notes that salts can migrate through porous stone with water and recrystallize when moisture evaporates, causing deposits to reappear.</p>\n<h2 id=\"cause-the-stain-source-remains\">Cause 3: The stain source remains active</h2><p>Rust runoff, leaking water, recurring oil, biological growth or other sources can continue to create staining after cleaning. GSA guidance for rust stains specifically recommends identifying and correcting the source before judging the cleaning treatment successful.</p>\n<h2 id=\"cause-residue-attracts-new-soil\">Cause 4: Residue attracts new soil</h2><p>Sticky detergent, polish or other residue can cause the same area to darken quickly. This may look like the original stain returning even though the mechanism is rapid resoiling.</p>\n<h2 id=\"cause-permanent-material-change\">Cause 5: The mark is permanent material change</h2><p>Etching, dye loss, corrosion, worn finish and absorbed discoloration can resemble soil. If a controlled compatible test removes no material and appearance does not change, further cleaning may not be the correct solution.</p>\n<h2 id=\"a-troubleshooting-sequence\">Troubleshooting sequence</h2><ol>\n<li>Let the surface dry completely and document the returning pattern.</li>\n<li>Check whether the mark is surface residue or absorbed discoloration.</li>\n<li>Look for active sources such as leaks, runoff, corrosion or repeated contamination.</li>\n<li>Review whether the surface is porous and whether moisture can migrate through it.</li>\n<li>Use material-specific stain-removal methods only after identifying the stain and substrate.</li>\n<li>Escalate to maintenance or specialist restoration if the mark is damage rather than removable contamination.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>When a stain returns, solve the source before repeating the cleaner. A durable result requires understanding where the staining material is stored, how it is moving and whether the surface itself has changed.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-01-cleaning-masonry.pdf\">U.S. National Park Service — Preservation Brief 1</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.nps.gov/articles/000/best-practice-recommendations-for-cleaning-government-issued-headstones.htm\">U.S. National Park Service — Cleaning Porous Stone</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/poulticing-rust-stains-from-limestone-and-marble\">U.S. GSA — Poulticing Rust Stains from Limestone and Marble</a>.</li>\n<li id=\"ref-4\"><a href=\"https://origin-www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/removal-of-soiling-from-sandstone-prior-to-repointing\">U.S. GSA — Cleaning Porous Sandstone</a>.</li>\n</ol>",
+  "seo_title": "Why Stains Return After Surface Cleaning | Alle's ClinX",
+  "meta_description": "Learn why surface stains return through absorbed contamination, moisture migration, unresolved stain sources, rapid resoiling or permanent material change.",
+  "related_article_ids": [
+    "ACX-KB-0053",
+    "ACX-KB-0044",
+    "ACX-KB-0022"
+  ]
+}

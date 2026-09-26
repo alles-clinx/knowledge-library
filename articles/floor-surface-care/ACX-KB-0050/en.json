@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0050",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Floors Streak After Cleaning",
+  "slug": "why-floors-streak-after-cleaning",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "Floor streaks usually indicate uneven residue, dirty solution, overloaded tools, incomplete recovery, hard-water film or a finish that is being altered rather than simply cleaned.",
+  "content_html": "<p>Streaks are visible differences left across a floor after cleaning or finishing. They usually indicate that soil, product, water or finish has been distributed unevenly rather than removed uniformly. The right fix depends on identifying which layer is creating the mark.</p>\n<h2 id=\"cause-product-residue\">Cause 1: Product residue</h2><p>Over-concentrated cleaner or too much solution can leave dissolved material behind as the floor dries. CDC recommends preparing cleaning products according to manufacturer instructions because stronger-than-specified concentrations can create unnecessary risk and may reduce compatibility.</p>\n<h2 id=\"cause-dirty-solution-or-tools\">Cause 2: Dirty solution or overloaded tools</h2><p>A mop, pad or cleaning solution that is already loaded with soil can redistribute a thin film across the floor. Change cloths, mop heads, pads or solution before they become heavily soiled.</p>\n<h2 id=\"cause-incomplete-recovery\">Cause 3: Incomplete solution recovery</h2><p>Machine cleaning can leave visible lines if spent solution is not recovered evenly. Check squeegees, vacuum recovery, pad condition and machine settings. A recurring streak pattern that follows the machine path is a strong clue.</p>\n<h2 id=\"cause-hard-water\">Cause 4: Hard-water minerals</h2><p>USGS notes that hard water contains dissolved calcium and magnesium that can leave spots or film after evaporation. On dark, polished or reflective floors, mineral film can appear as streaking or cloudy patches.</p>\n<h2 id=\"cause-uneven-finish\">Cause 5: Uneven finish or coating</h2><p>GSA custodial standards require finished floors to be free of streaks, mop-strand marks and skipped areas. If the streak is in a floor finish rather than removable soil, re-cleaning alone may not restore uniform luster.</p>\n<h2 id=\"a-troubleshooting-sequence\">Troubleshooting sequence</h2><ol>\n<li>Allow the floor to dry fully before judging the streak.</li>\n<li>Check product and dilution.</li>\n<li>Use fresh solution and clean tools on a small test section.</li>\n<li>Inspect whether the streak follows mop or machine travel.</li>\n<li>Check water quality if mineral film is plausible.</li>\n<li>If the mark remains after compatible re-cleaning, inspect the finish or coating rather than increasing chemistry.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Streaks are usually a distribution or residue problem until proven otherwise. Standardise dilution, tools, recovery and drying first; then investigate water minerals or finish condition.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/system/files?file=National+Custodial+Specification+-+1.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "Why Floors Streak After Cleaning | Alle's ClinX",
+  "meta_description": "Troubleshoot floor streaks by checking product residue, dirty tools, incomplete recovery, hard-water film and uneven floor finish.",
+  "related_article_ids": [
+    "ACX-KB-0023",
+    "ACX-KB-0027",
+    "ACX-KB-0051"
+  ]
+}

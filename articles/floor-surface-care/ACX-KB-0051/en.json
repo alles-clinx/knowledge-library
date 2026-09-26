@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0051",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Troubleshooting Sticky Floors After Cleaning",
+  "slug": "troubleshooting-sticky-floors-after-cleaning",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "A sticky floor after cleaning usually means removable material remains: excess cleaner, soil, soap scum, contaminated solution, incomplete recovery or an incompatible finish treatment.",
+  "content_html": "<p>A sticky floor is a tactile clue that something remains on the surface or the finish itself has changed. The troubleshooting goal is to determine whether the stickiness is removable residue, redeposited soil, mineral-soap film or a damaged coating.</p>\n<h2 id=\"check-dilution-first\">Check dilution first</h2><p>CDC recommends preparing cleaning products exactly as the manufacturer directs. More concentrate is not automatically more effective; excess chemistry can remain on the floor after water evaporates.</p>\n<h2 id=\"check-tool-and-solution-cleanliness\">Check tool and solution cleanliness</h2><p>Dirty mop water, an overloaded pad or a soiled cloth can move dissolved soil across the floor. Use fresh solution and clean tools for a controlled test rather than repeating the same contaminated process.</p>\n<h2 id=\"check-soap-and-mineral-film\">Check soap and mineral film</h2><p>USGS explains that minerals in hard water can react with soap and form soap scum. On some hard surfaces this can feel tacky or draggy and may appear as white or gray film.</p>\n<h2 id=\"check-recovery-and-rinsing\">Check recovery and rinsing</h2><p>Some cleaning systems require removal of spent solution or a rinse step. CDC notes that scheduled rinsing may be needed to remove residues from some detergent-disinfectant processes. Follow the actual product and floor-system instructions.</p>\n<h2 id=\"check-the-finish\">Check the finish</h2><p>If a compatible re-clean with clean tools does not remove the sticky feel, inspect the floor finish or coating. Wrong chemistry, repeated over-application or finish deterioration can create a tacky surface that is no longer an ordinary cleaning-residue problem.</p>\n<h2 id=\"controlled-test\">Controlled test</h2><ol>\n<li>Identify the floor and finish.</li>\n<li>Prepare the approved product at exact use dilution.</li>\n<li>Use fresh solution and clean tools.</li>\n<li>Clean a small section with normal mechanical action.</li>\n<li>Recover or rinse as the system requires.</li>\n<li>Let the test area dry completely, then compare feel and appearance.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Sticky floors should be diagnosed with a clean controlled test. If correct dilution, clean tools and proper recovery solve the problem, it was process residue; if not, investigate the finish rather than repeatedly adding cleaner.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap and Water Hardness</a>.</li>\n</ol>",
+  "seo_title": "Troubleshooting Sticky Floors After Cleaning | Alle's ClinX",
+  "meta_description": "Diagnose sticky floors by checking dilution, dirty tools, soap or mineral film, incomplete recovery, rinse requirements and floor-finish condition.",
+  "related_article_ids": [
+    "ACX-KB-0027",
+    "ACX-KB-0050",
+    "ACX-KB-0053"
+  ]
+}

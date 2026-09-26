@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0051",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0051",
+  "title": "Cleaning के बाद sticky floors को troubleshoot कैसे करें",
+  "slug": "troubleshooting-sticky-floors-after-cleaning",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "Sticky floor अक्सर excess cleaner, soil, soap scum, contaminated solution, incomplete recovery या incompatible finish treatment के कारण surface पर material remain होने का संकेत है।",
+  "content_html": "<p>Sticky floor tactile clue है कि surface पर कुछ material remain है या finish itself change हुई है। Goal removable residue, redeposited soil, mineral-soap film और damaged coating को अलग करना है।</p>\n<h2 id=\"hi51-dilution\">Dilution पहले check करें</h2><p>CDC manufacturer directions के अनुसार exact product preparation recommend करता है। More concentrate automatically more effective नहीं है; excess chemistry drying के बाद floor पर रह सकती है।</p>\n<h2 id=\"hi51-tools\">Tool और solution cleanliness check करें</h2><p>Dirty mop water, overloaded pad या soiled cloth dissolved soil को floor पर move कर सकते हैं। Same process repeat करने की बजाय fresh solution/clean tools से controlled test करें।</p>\n<h2 id=\"hi51-soap\">Soap और mineral film check करें</h2><p>USGS बताता है hard-water minerals soap से react करके soap scum बना सकते हैं। कुछ hard surfaces पर यह tacky/draggy feel और white-gray film दे सकता है।</p>\n<h2 id=\"hi51-recovery\">Recovery और rinsing check करें</h2><p>कुछ systems spent solution removal या rinse step require करते हैं। CDC कुछ detergent-disinfectant processes में scheduled rinsing residue removal के लिए useful बताता है। Actual product/floor instructions follow करें।</p>\n<h2 id=\"hi51-finish\">Finish check करें</h2><p>Compatible re-clean sticky feel remove न करे तो floor finish/coating inspect करें। Wrong chemistry, repeated over-application या finish deterioration tacky surface बना सकते हैं।</p>\n<h2 id=\"hi51-test\">Controlled test</h2><ol>\n<li>Floor और finish identify करें.</li>\n<li>Approved product exact use dilution पर prepare करें.</li>\n<li>Fresh solution और clean tools use करें.</li>\n<li>Small section normal action से clean करें.</li>\n<li>System के अनुसार recover/rinse करें.</li>\n<li>Fully dry होने दें और feel/appearance compare करें.</li>\n</ol>\n<h2 id=\"hi51-takeaway\">Practical takeaway</h2><p>Sticky floors को clean controlled test से diagnose करें। Correct dilution, clean tools और recovery solve करें तो process residue था; otherwise finish investigate करें।</p>\n<h2 id=\"hi51-references\">संदर्भ</h2><ol>\n<li id=\"hi51-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi51-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi51-ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap and Water Hardness</a>.</li>\n</ol>",
+  "seo_title": "Sticky Floors Troubleshooting | Alle's ClinX",
+  "meta_description": "Dilution, dirty tools, soap/mineral film, recovery, rinsing और floor finish check करके sticky floors troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0027",
+    "ACX-KB-0050",
+    "ACX-KB-0053"
+  ]
+}

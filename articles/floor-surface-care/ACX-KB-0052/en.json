@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0052",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why a Floor Finish Looks Dull",
+  "slug": "why-a-floor-finish-looks-dull",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "A dull floor finish can be caused by removable film, embedded soil, abrasion, incompatible chemistry, uneven coating, wear or a finish-maintenance problem rather than ordinary dirt.",
+  "content_html": "<p>A floor can lose its expected luster for several different reasons. Some dullness is removable film; some comes from wear or permanent finish change. The first step is to determine whether the problem sits on top of the finish or is the finish itself.</p>\n<h2 id=\"cause-residue-or-film\">Cause 1: Residue or film</h2><p>Cleaner residue, hard-water minerals or improperly recovered solution can reduce reflectivity and make a floor look cloudy. Use a compatible small-area re-clean before assuming the finish needs restoration.</p>\n<h2 id=\"cause-embedded-soil\">Cause 2: Embedded or burnished-in soil</h2><p>Traffic can drive fine soil into microtexture or a worn finish. A quick mop may remove loose soil without restoring uniform appearance. The required response may be deeper compatible maintenance rather than stronger daily detergent.</p>\n<h2 id=\"cause-abrasion\">Cause 3: Abrasion</h2><p>Grit, aggressive pads or incorrect machine settings can microscratch a finish and scatter light. Once the surface itself is abraded, ordinary cleaning cannot recreate the original luster.</p>\n<h2 id=\"cause-chemistry\">Cause 4: Incompatible chemistry</h2><p>CDC recommends choosing products that do not damage the surface. Excessively strong, incompatible or incorrectly diluted chemistry can soften, haze or otherwise alter a floor finish.</p>\n<h2 id=\"cause-wear\">Cause 5: Normal wear or coating loss</h2><p>High-traffic lanes can gradually lose finish thickness or polish. Current GSA custodial standards expect hard floors to maintain their natural, uniform luster and not have a dull appearance; when routine cleaning cannot restore that condition, finish maintenance may be required.</p>\n<h2 id=\"diagnostic-check\">Diagnostic check</h2><ol>\n<li>Allow the floor to dry fully.</li>\n<li>Check for residue with a small compatible re-clean.</li>\n<li>Compare traffic lanes with protected edges or low-traffic zones.</li>\n<li>Inspect for scratches, pad marks or uneven coating.</li>\n<li>Review the product, dilution, pad and machine process used.</li>\n<li>If appearance remains unchanged after soil and residue are removed, classify the issue as finish maintenance rather than routine cleaning.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Dullness should not automatically trigger more detergent or more abrasion. First remove film and soil; if luster does not return, inspect wear, chemistry and finish condition.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.gsa.gov/system/files?file=National+Custodial+Specification+-+1.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Why a Floor Finish Looks Dull | Alle's ClinX Knowledge",
+  "meta_description": "Diagnose dull floor finish by separating removable residue and soil from abrasion, incompatible chemistry, coating wear and finish-maintenance needs.",
+  "related_article_ids": [
+    "ACX-KB-0050",
+    "ACX-KB-0051",
+    "ACX-KB-0038"
+  ]
+}

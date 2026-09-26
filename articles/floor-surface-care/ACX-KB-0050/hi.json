@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0050",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0050",
+  "title": "Cleaning के बाद floors पर streaks क्यों आते हैं",
+  "slug": "why-floors-streak-after-cleaning",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "Floor streaks अक्सर uneven residue, dirty solution, overloaded tools, incomplete recovery, hard-water film या altered finish का संकेत होती हैं।",
+  "content_html": "<p>Streaks cleaning/finishing के बाद floor पर visible differences होती हैं। वे अक्सर बताती हैं कि soil, product, water या finish uniformly remove होने की बजाय unevenly distribute हुई है।</p>\n<h2 id=\"hi50-residue\">Cause 1: Product residue</h2><p>Over-concentrated cleaner या too much solution drying के बाद dissolved material छोड़ सकते हैं। CDC manufacturer instructions के अनुसार product preparation recommend करता है।</p>\n<h2 id=\"hi50-dirty\">Cause 2: Dirty solution या overloaded tools</h2><p>Soil-loaded mop, pad या solution thin film redistribute कर सकती है। Heavily soiled होने से पहले tools/solution change करें।</p>\n<h2 id=\"hi50-recovery\">Cause 3: Incomplete recovery</h2><p>Machine cleaning में spent solution evenly recover न हो तो visible lines रह सकती हैं। Squeegee, vacuum recovery, pad condition और machine settings check करें।</p>\n<h2 id=\"hi50-water\">Cause 4: Hard-water minerals</h2><p>USGS बताता है hard water में dissolved calcium/magnesium drying के बाद film या spots छोड़ सकते हैं। Dark/polished floors पर यह streaking जैसी दिख सकती है।</p>\n<h2 id=\"hi50-finish\">Cause 5: Uneven finish/coating</h2><p>GSA finished floors को streaks, mop marks और skipped areas से free expect करता है। अगर mark finish layer में है तो ordinary re-clean alone पर्याप्त नहीं हो सकती।</p>\n<h2 id=\"hi50-sequence\">Troubleshooting sequence</h2><ol>\n<li>Floor fully dry होने दें.</li>\n<li>Product और dilution check करें.</li>\n<li>Fresh solution/clean tools से small test करें.</li>\n<li>देखें streak mop/machine path follow करती है या नहीं.</li>\n<li>Mineral film possible हो तो water quality check करें.</li>\n<li>Compatible re-clean के बाद mark रहे तो finish/coating inspect करें.</li>\n</ol>\n<h2 id=\"hi50-takeaway\">Practical takeaway</h2><p>Streaks अक्सर distribution/residue problem होती हैं। पहले dilution, tools, recovery और drying standardise करें; फिर water minerals या finish condition investigate करें।</p>\n<h2 id=\"hi50-references\">संदर्भ</h2><ol>\n<li id=\"hi50-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi50-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi50-ref-3\"><a href=\"https://www.gsa.gov/system/files?file=National+Custodial+Specification+-+1.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "Floors पर streaks क्यों आते हैं | Alle's ClinX",
+  "meta_description": "Product residue, dirty tools, incomplete recovery, hard-water film और uneven finish check करके floor streaks troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0023",
+    "ACX-KB-0027",
+    "ACX-KB-0051"
+  ]
+}

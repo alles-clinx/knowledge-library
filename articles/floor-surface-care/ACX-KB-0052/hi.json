@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0052",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0052",
+  "title": "Floor finish dull क्यों दिखती है",
+  "slug": "why-a-floor-finish-looks-dull",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "Dull floor finish removable film, embedded soil, abrasion, incompatible chemistry, uneven coating, wear या finish-maintenance problem से हो सकती है।",
+  "content_html": "<p>Floor expected luster कई reasons से lose कर सकती है। कुछ dullness removable film है, कुछ wear/permanent finish change है। पहले decide करें problem finish के ऊपर है या finish itself में।</p>\n<h2 id=\"hi52-film\">Cause 1: Residue/film</h2><p>Cleaner residue, hard-water minerals या poorly recovered solution reflectivity कम करके floor cloudy बना सकते हैं। Restoration assume करने से पहले compatible small-area re-clean करें।</p>\n<h2 id=\"hi52-soil\">Cause 2: Embedded soil</h2><p>Traffic fine soil को microtexture या worn finish में drive कर सकता है। Quick mop loose soil remove कर सकती है लेकिन uniform appearance restore नहीं करती।</p>\n<h2 id=\"hi52-abrasion\">Cause 3: Abrasion</h2><p>Grit, aggressive pads या incorrect machine settings finish microscratch कर सकते हैं। Surface itself abraded हो तो ordinary cleaning original luster recreate नहीं कर सकती।</p>\n<h2 id=\"hi52-chemistry\">Cause 4: Incompatible chemistry</h2><p>CDC surface-damaging products avoid करने को कहता है। Too strong, incompatible या incorrectly diluted chemistry finish haze/soften/alter कर सकती है।</p>\n<h2 id=\"hi52-wear\">Cause 5: Normal wear/coating loss</h2><p>High-traffic lanes finish thickness या polish lose कर सकती हैं। GSA hard floors को uniform luster maintain करने और dull appearance avoid करने का standard रखता है।</p>\n<h2 id=\"hi52-check\">Diagnostic check</h2><ol>\n<li>Floor fully dry होने दें.</li>\n<li>Small compatible re-clean से residue check करें.</li>\n<li>Traffic lanes को protected edges से compare करें.</li>\n<li>Scratches, pad marks या uneven coating inspect करें.</li>\n<li>Used product, dilution, pad और machine process review करें.</li>\n<li>Soil/residue removal के बाद appearance unchanged हो तो finish-maintenance issue classify करें.</li>\n</ol>\n<h2 id=\"hi52-takeaway\">Practical takeaway</h2><p>Dullness पर automatically more detergent/abrasion न बढ़ाएं। पहले film/soil remove करें; luster return न हो तो wear, chemistry और finish condition inspect करें।</p>\n<h2 id=\"hi52-references\">संदर्भ</h2><ol>\n<li id=\"hi52-ref-1\"><a href=\"https://www.gsa.gov/system/files?file=National+Custodial+Specification+-+1.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi52-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi52-ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Floor Finish Dull क्यों दिखती है | Alle's ClinX",
+  "meta_description": "Residue, embedded soil, abrasion, chemistry और finish wear को अलग करके dull floor finish diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0050",
+    "ACX-KB-0051",
+    "ACX-KB-0038"
+  ]
+}

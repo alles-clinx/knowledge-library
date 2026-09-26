@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0053",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0053",
+  "title": "Hard surfaces पर white residue क्यों बनती है?",
+  "slug": "what-causes-white-residue-on-hard-surfaces",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "White residue hard-water minerals, soap scum, dried cleaner, porous material से salt migration या changed coating से बन सकती है।",
+  "content_html": "<p>White residue appearance description है, diagnosis नहीं। यह cleaning के बाद surface पर remaining material, water minerals, porous substrate से migrating salts या cloudy/damaged coating हो सकती है।</p>\n<h2 id=\"hi53-water\">Cause 1: Hard-water minerals</h2><p>USGS बताता है hard water dissolved calcium/magnesium contain करता है। Evaporation के बाद spots, film या scale remain कर सकते हैं।</p>\n<h2 id=\"hi53-soap\">Cause 2: Soap scum</h2><p>Hard-water minerals soap से react करके white/gray residue बना सकते हैं। Same soap-based cleaning repeat करना deposit बढ़ा सकता है।</p>\n<h2 id=\"hi53-cleaner\">Cause 3: Dried cleaner</h2><p>Wrong dilution, excess product या required rinse miss होने से powdery/streaked/hazy residue रह सकती है। CDC manufacturer-specified dilution और needed residue-removal rinsing पर जोर देता है।</p>\n<h2 id=\"hi53-salts\">Cause 4: Porous material से salts migrate होना</h2><p>Stone, concrete, masonry या grout पर white crystalline deposits cleaner नहीं, salts हो सकते हैं। NPS बताता है salts water के साथ porous stone से migrate होकर evaporation पर recrystallize कर सकते हैं।</p>\n<h2 id=\"hi53-coating\">Cause 5: Coating/finish change</h2><p>White/milky look coating whitening या damage भी हो सकता है। Controlled compatible re-clean material remove न करे तो stronger chemistry बढ़ाने की बजाय finish inspect करें।</p>\n<h2 id=\"hi53-check\">Diagnostic check</h2><ol>\n<li>Small compatible test में residue wipe/dissolve होती है या नहीं देखें.</li>\n<li>Water droplets, drying edges या joints से pattern link check करें.</li>\n<li>Product dilution/rinse instructions review करें.</li>\n<li>Substrate porous है और moisture migrate कर सकती है या नहीं देखें.</li>\n<li>White appearance removable न हो तो coating/surface damage inspect करें.</li>\n</ol>\n<h2 id=\"hi53-takeaway\">Practical takeaway</h2><p>White residue cleaner, minerals, soap scum, salts या finish change हो सकती है। Acid, stronger detergent या abrasion चुनने से पहले source identify करें।</p>\n<h2 id=\"hi53-references\">संदर्भ</h2><ol>\n<li id=\"hi53-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi53-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap Scum</a>.</li>\n<li id=\"hi53-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi53-ref-4\"><a href=\"https://www.nps.gov/articles/000/best-practice-recommendations-for-cleaning-government-issued-headstones.htm\">U.S. NPS — Salt Migration in Porous Stone</a>.</li>\n</ol>",
+  "seo_title": "Hard Surfaces पर White Residue | Alle's ClinX",
+  "meta_description": "Hard-water minerals, soap scum, dried cleaner, salt migration और coating change को पहचानकर white residue diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0051",
+    "ACX-KB-0054",
+    "ACX-KB-0023"
+  ]
+}

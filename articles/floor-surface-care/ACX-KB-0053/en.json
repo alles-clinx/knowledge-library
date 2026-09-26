@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0053",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Causes White Residue on Hard Surfaces?",
+  "slug": "what-causes-white-residue-on-hard-surfaces",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "White residue on hard surfaces can come from hard-water minerals, soap scum, dried cleaner, salt migration from porous materials or a changed coating—each needs a different response.",
+  "content_html": "<p>White residue is an appearance description, not a diagnosis. It may be material left on the surface after cleaning, minerals deposited from water, salts moving through a porous substrate or a coating that has turned cloudy or damaged.</p>\n<h2 id=\"hard-water-minerals\">Cause 1: Hard-water minerals</h2><p>USGS explains that hard water contains dissolved calcium and magnesium. As water evaporates, mineral material can remain as spots, film or scale. This is common on glass, fittings and other smooth hard surfaces.</p>\n<h2 id=\"soap-scum\">Cause 2: Soap scum</h2><p>Minerals in hard water can react with soap to form a white or gray residue. USGS identifies this as soap scum. Repeating ordinary soap-based cleaning without changing the process can add to the deposit.</p>\n<h2 id=\"dried-cleaner\">Cause 3: Dried cleaning product</h2><p>Incorrect dilution, excessive product or failure to rinse where required can leave a powdery, streaked or hazy residue. CDC recommends using manufacturer-specified dilution and notes that residue-removal rinsing may be needed for some cleaning-disinfectant systems.</p>\n<h2 id=\"salts-from-porous-material\">Cause 4: Salts migrating from porous material</h2><p>On stone, concrete, masonry or grout, white crystalline deposits can be salts rather than cleaner. NPS notes that salts can migrate through porous stone with water and recrystallize as moisture evaporates. Cleaning the surface alone may not stop recurrence if the moisture source remains.</p>\n<h2 id=\"coating-change\">Cause 5: Coating or finish change</h2><p>A white or milky appearance can also be whitening, haze or damage within a coating. If a controlled compatible re-clean does not transfer or remove the material, inspect the finish instead of increasing chemical strength.</p>\n<h2 id=\"diagnostic-check\">Diagnostic check</h2><ol>\n<li>Determine whether the residue wipes or dissolves during a small compatible test.</li>\n<li>Look for a pattern linked to water droplets, drying edges or joints.</li>\n<li>Review product dilution and rinse instructions.</li>\n<li>Check whether the substrate is porous and whether moisture can move through it.</li>\n<li>If the white appearance is not removable, inspect coating or surface damage.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>White residue can be cleaner, minerals, soap scum, salts or finish change. Identify the source before choosing acid, stronger detergent or abrasion, because the wrong response can damage the surface.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap Scum and Water Hardness</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-4\"><a href=\"https://www.nps.gov/articles/000/best-practice-recommendations-for-cleaning-government-issued-headstones.htm\">U.S. National Park Service — Salt Migration in Porous Stone</a>.</li>\n</ol>",
+  "seo_title": "What Causes White Residue on Hard Surfaces? | Alle's ClinX",
+  "meta_description": "Identify white residue from hard-water minerals, soap scum, dried cleaner, salt migration or coating change before choosing a corrective cleaning method.",
+  "related_article_ids": [
+    "ACX-KB-0051",
+    "ACX-KB-0054",
+    "ACX-KB-0023"
+  ]
+}

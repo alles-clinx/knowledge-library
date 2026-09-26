@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0054",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0054",
+  "title": "Surface cleaning के बाद stains वापस क्यों आते हैं",
+  "slug": "why-stains-return-after-surface-cleaning",
+  "subcategory": "Floor & Surface Troubleshooting",
+  "subcategory_slug": "floor-surface-troubleshooting",
+  "excerpt": "Stain वापस आ सकती है जब contamination porous material के अंदर remain हो, staining source active हो, residue new soil attract करे या moisture dissolved material को surface पर वापस लाए।",
+  "content_html": "<p>Cleaning के बाद stain reappear हो तो यह अक्सर source/migration problem होती है, केवल weak wiping नहीं। Surface cleaning visible material remove कर सकती है जबकि contamination, salts, oil या moisture नीचे remain करते हैं।</p>\n<h2 id=\"hi54-penetrated\">Cause 1: Contamination material के अंदर गई</h2><p>Porous stone, concrete, grout और कुछ coatings staining material absorb कर सकते हैं। GSA/NPS guidance बताती है liquids/cleaners porous materials में stains deeper drive कर सकते हैं।</p>\n<h2 id=\"hi54-moisture\">Cause 2: Moisture material वापस surface पर लाती है</h2><p>Water substrate के अंदर salts/mobile material dissolve कर सकती है। NPS बताता है salts water के साथ porous stone से migrate होकर evaporation पर recrystallize कर सकते हैं।</p>\n<h2 id=\"hi54-source\">Cause 3: Stain source active है</h2><p>Rust runoff, leak, recurring oil, biological growth या other source cleaning के बाद भी staining जारी रख सकते हैं। GSA rust-stain guidance source identify/correct करने पर जोर देती है।</p>\n<h2 id=\"hi54-residue\">Cause 4: Residue new soil attract करती है</h2><p>Sticky detergent, polish या other residue same area को जल्दी dark कर सकती है। यह original stain returning जैसा दिख सकता है लेकिन mechanism rapid resoiling है।</p>\n<h2 id=\"hi54-change\">Cause 5: Mark permanent material change है</h2><p>Etching, dye loss, corrosion, worn finish या absorbed discoloration soil जैसी दिख सकती है। Controlled compatible test material remove न करे तो more cleaning सही solution नहीं हो सकती।</p>\n<h2 id=\"hi54-sequence\">Troubleshooting sequence</h2><ol>\n<li>Surface fully dry होने दें और return pattern document करें.</li>\n<li>Check करें mark residue है या absorbed discoloration.</li>\n<li>Leaks, runoff, corrosion या repeated contamination जैसे active sources देखें.</li>\n<li>Surface porosity और moisture migration consider करें.</li>\n<li>Stain/substrate identify होने के बाद ही material-specific removal method use करें.</li>\n<li>Damage हो तो maintenance/specialist restoration escalate करें.</li>\n</ol>\n<h2 id=\"hi54-takeaway\">Practical takeaway</h2><p>Stain लौटे तो cleaner repeat करने से पहले source solve करें। Durable result के लिए समझें staining material कहाँ stored है, कैसे move कर रहा है और surface itself change हुई है या नहीं।</p>\n<h2 id=\"hi54-references\">संदर्भ</h2><ol>\n<li id=\"hi54-ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-01-cleaning-masonry.pdf\">U.S. NPS — Preservation Brief 1</a>.</li>\n<li id=\"hi54-ref-2\"><a href=\"https://www.nps.gov/articles/000/best-practice-recommendations-for-cleaning-government-issued-headstones.htm\">U.S. NPS — Cleaning Porous Stone</a>.</li>\n<li id=\"hi54-ref-3\"><a href=\"https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/poulticing-rust-stains-from-limestone-and-marble\">U.S. GSA — Rust Stain Poulticing</a>.</li>\n<li id=\"hi54-ref-4\"><a href=\"https://origin-www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/removal-of-soiling-from-sandstone-prior-to-repointing\">U.S. GSA — Cleaning Porous Sandstone</a>.</li>\n</ol>",
+  "seo_title": "Surface Cleaning के बाद Stains वापस क्यों आते हैं | Alle's ClinX",
+  "meta_description": "Absorbed contamination, moisture migration, unresolved source, rapid resoiling और permanent material change से returning stains समझें।",
+  "related_article_ids": [
+    "ACX-KB-0053",
+    "ACX-KB-0044",
+    "ACX-KB-0022"
+  ]
+}
