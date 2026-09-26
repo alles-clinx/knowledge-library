@@ -193,7 +193,7 @@ for token in [
     if token not in site_js:
         errors.append(f"Global shell interaction runtime missing: {token}")
 
-for token in ["data-slider-prev=", "data-slider-next=", "data-slider", "slider.addEventListener('scroll'", "button.addEventListener('click'"]:
+for token in ["data-slider-prev=", "data-slider-next=", "data-slider", "slider.addEventListener('scroll'", "prev.addEventListener('click'", "next.addEventListener('click'"]:
     if token not in home_html:
         errors.append(f"Homepage interaction contract missing: {token}")
 
