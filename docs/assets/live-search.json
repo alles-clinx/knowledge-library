@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 58,
+  "record_count": 68,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -640,6 +640,116 @@
       "subcategory_slug": "natural-stone",
       "excerpt": "Natural-stone cleaning में material identification, gentle testing और chemical compatibility जरूरी हैं क्योंकि different stones की porosity, minerals, acid sensitivity और finish अलग होती हैं।",
       "url": "library/floor-surface-care/natural-stone/what-is-different-about-natural-stone-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0030",
+      "locale": "en",
+      "title": "Marble vs Granite: Cleaning Considerations",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Marble and granite can look similarly durable, but their mineral composition and finish create different cleaning limits—especially around acidic chemistry, abrasion and polishing.",
+      "url": "library/floor-surface-care/natural-stone/marble-vs-granite-cleaning-considerations/"
+    },
+    {
+      "article_id": "ACX-KB-0030",
+      "locale": "hi-IN",
+      "title": "Marble vs Granite: cleaning considerations",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Marble और granite दोनों durable दिख सकते हैं, लेकिन mineral composition और finish के कारण acidic chemistry, abrasion और polishing के आसपास उनकी cleaning limits अलग होती हैं।",
+      "url": "library/floor-surface-care/natural-stone/marble-vs-granite-cleaning-considerations/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0031",
+      "locale": "en",
+      "title": "Why Acidic Cleaners Can Damage Marble",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Acidic cleaners can react with carbonate minerals in marble, creating etching, dull patches and permanent finish change that ordinary re-cleaning cannot remove.",
+      "url": "library/floor-surface-care/natural-stone/why-acidic-cleaners-can-damage-marble/"
+    },
+    {
+      "article_id": "ACX-KB-0031",
+      "locale": "hi-IN",
+      "title": "Acidic cleaners marble को damage क्यों कर सकते हैं",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Acidic cleaners marble के carbonate minerals से react करके etching, dull patches और permanent finish change बना सकते हैं जिसे ordinary re-cleaning remove नहीं कर सकती।",
+      "url": "library/floor-surface-care/natural-stone/why-acidic-cleaners-can-damage-marble/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0032",
+      "locale": "en",
+      "title": "Why Natural Stone Can Look Dull or Hazy After Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Dull or hazy natural stone may be caused by removable residue, hard-water film, incompatible chemistry, abrasion, finish wear or etching—so diagnose before re-cleaning.",
+      "url": "library/floor-surface-care/natural-stone/why-natural-stone-can-look-dull-or-hazy-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0032",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद natural stone dull या hazy क्यों दिख सकती है",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Natural stone का dull/hazy look removable residue, hard-water film, incompatible chemistry, abrasion, finish wear या etching से हो सकता है—re-cleaning से पहले diagnose करें।",
+      "url": "library/floor-surface-care/natural-stone/why-natural-stone-can-look-dull-or-hazy-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0033",
+      "locale": "en",
+      "title": "Why Glass Streaks After Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Glass & Mirrors",
+      "subcategory_slug": "glass-mirrors",
+      "excerpt": "Glass streaks after cleaning when soil, product, mineral-rich water or contaminated wiping material is left behind or spread unevenly as the surface dries.",
+      "url": "library/floor-surface-care/glass-mirrors/why-glass-streaks-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0033",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद glass पर streaks क्यों आते हैं",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Glass & Mirrors",
+      "subcategory_slug": "glass-mirrors",
+      "excerpt": "Glass पर streaks तब आते हैं जब soil, product, mineral-rich water या contaminated wiping material drying के दौरान पीछे रह जाए या unevenly spread हो।",
+      "url": "library/floor-surface-care/glass-mirrors/why-glass-streaks-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0034",
+      "locale": "en",
+      "title": "What Causes Haze on Glass and Mirrors?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Glass & Mirrors",
+      "subcategory_slug": "glass-mirrors",
+      "excerpt": "Haze on glass and mirrors can come from product residue, hard-water minerals, oily film, condensation or permanent surface/coating damage; the first task is to identify which type of haze remains.",
+      "url": "library/floor-surface-care/glass-mirrors/what-causes-haze-on-glass-and-mirrors/"
+    },
+    {
+      "article_id": "ACX-KB-0034",
+      "locale": "hi-IN",
+      "title": "Glass और mirrors पर haze क्यों बनती है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Glass & Mirrors",
+      "subcategory_slug": "glass-mirrors",
+      "excerpt": "Glass/mirrors पर haze product residue, hard-water minerals, oily film, condensation या permanent surface/coating damage से हो सकती है; पहले haze का type identify करें।",
+      "url": "library/floor-surface-care/glass-mirrors/what-causes-haze-on-glass-and-mirrors/hi.html"
     }
   ]
 }
