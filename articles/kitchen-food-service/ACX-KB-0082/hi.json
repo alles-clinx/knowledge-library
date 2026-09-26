@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0082",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0082",
+  "title": "Machine warewashing कैसे काम करती है",
+  "slug": "how-machine-warewashing-works",
+  "subcategory": "Machine Warewashing",
+  "subcategory_slug": "machine-warewashing",
+  "excerpt": "Machine warewashing precleaning, controlled wash chemistry, spray action, rinsing, sanitizing, drainage और drying combine करती है; correct loading/verified parameters जरूरी हैं।",
+  "content_html": "<p>Warewashing machine केवल hot water spray नहीं करती। Chemistry, water, mechanical spray, rinse और sanitizing conditions coordinate होकर soil remove करती हैं।</p>\n<h2 id=\"hi82-preclean\">1. Loading से पहले preclean</h2><p>Heavy food debris scrape/remove करें ताकि racks, screens और wash solution overload न हों और spray surface तक पहुंचे।</p>\n<h2 id=\"hi82-loading\">2. Spray access के लिए load करें</h2><p>Items ऐसे position करें कि wash/rinse spray soiled surfaces तक पहुंचे और water drain हो सके। Nesting/overcrowding surfaces shield कर सकती है।</p>\n<h2 id=\"hi82-wash\">3. Wash stage chemistry + mechanical action use करती है</h2><p>Detergent, temperature, spray/circulation, contact time और machine design मिलकर soil remove करते हैं। Machine data plate/manufacturer instructions follow करें।</p>\n<h2 id=\"hi82-rinse\">4. Rinse loosened soil/chemistry remove करती है</h2><p>Rinse wash stage का remaining soil/detergent carry away करती है। Many machines baffles/curtains से wash/rinse cross-contamination reduce करती हैं।</p>\n<h2 id=\"hi82-sanitize\">5. Sanitizing controlled final step है</h2><p>Machine hot-water या approved chemical sanitizing use कर सकती है। FDA model code temperatures और chemical sanitizer concentration verification के controls रखता है।</p>\n<h2 id=\"hi82-dispense\">6. Automatic chemical feed actually deliver करे</h2><p>2026 FDA Food Code newly installed machines के model provisions में detergent/sanitizer dispensing और non-delivery indication include करता है। Cycle run होना chemical delivery का proof नहीं है।</p>\n<h2 id=\"hi82-dry\">7. Drain और air-dry</h2><p>Cycle के बाद items drain/air-dry हों। Correct rack position pooled water और spotting reduce करती है।</p>\n<h2 id=\"hi82-verify\">Operator verification</h2><ul>\n<li>Heavy soil preclean हुई.</li>\n<li>Racks overloaded नहीं हैं.</li>\n<li>Spray arms/nozzles clear/functional हैं.</li>\n<li>Detergent/sanitizer supply available है.</li>\n<li>Applicable temperature/pressure/concentration controls meet हो रहे हैं.</li>\n<li>Items visibly clean होकर drain/dry कर सकती हैं.</li>\n</ul>\n<h2 id=\"hi82-takeaway\">Practical takeaway</h2><p>Machine warewashing controlled process है, automatic guarantee नहीं। Loading, chemistry, spray, rinse, sanitizing और verification सभी matter करते हैं।</p>\n<h2 id=\"hi82-references\">संदर्भ</h2><ol>\n<li id=\"hi82-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026, Chapter 4</a>.</li>\n<li id=\"hi82-ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Machine Warewashing कैसे काम करती है | Alle's ClinX",
+  "meta_description": "Precleaning, loading, wash chemistry, spray, rinse, sanitizing, drying और verification के साथ machine warewashing process समझें।",
+  "related_article_ids": [
+    "ACX-KB-0079",
+    "ACX-KB-0083",
+    "ACX-KB-0084"
+  ]
+}

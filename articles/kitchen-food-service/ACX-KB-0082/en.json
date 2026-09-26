@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0082",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Machine Warewashing Works",
+  "slug": "how-machine-warewashing-works",
+  "subcategory": "Machine Warewashing",
+  "subcategory_slug": "machine-warewashing",
+  "excerpt": "Machine warewashing combines precleaning, controlled wash chemistry, spray action, rinsing, sanitizing, drainage and drying; performance depends on correct loading and verified machine parameters.",
+  "content_html": "<p>A warewashing machine does more than spray hot water. It coordinates chemistry, water, mechanical spray, rinse and sanitizing conditions so food soil is removed and utensils can return to service safely.</p>\n<h2 id=\"preclean\">1. Preclean before loading</h2><p>Scrape or remove heavy food debris before loading. Precleaning prevents racks, screens and wash solution from becoming overloaded and allows spray to reach the utensil surface.</p>\n<h2 id=\"loading\">2. Load for spray access</h2><p>Items should be positioned so wash and rinse spray reaches soiled surfaces and water can drain. Nesting, overlapping or overcrowding can shield surfaces even when the machine itself is operating correctly.</p>\n<h2 id=\"wash\">3. The wash stage combines chemistry and mechanical action</h2><p>Detergent, water temperature, spray pressure or circulation, contact time and machine design work together to loosen and remove soil. FDA model-code provisions require machines to operate in accordance with the machine data plate and manufacturer's instructions.</p>\n<h2 id=\"rinse\">4. Rinsing removes loosened soil and wash chemistry</h2><p>The rinse stage carries away soil and detergent remaining from the wash. Internal baffles or curtains are used in many machine designs to reduce cross-contamination between wash and rinse solutions.</p>\n<h2 id=\"sanitize\">5. Sanitizing uses a controlled final step</h2><p>Depending on the machine, sanitizing may use hot water or an approved chemical system. FDA model-code requirements include temperature measurement for wash/rinse systems and concentration verification for chemical sanitizers.</p>\n<h2 id=\"dispensing\">6. Automatic chemical feed must actually deliver</h2><p>The 2026 FDA Food Code includes provisions for automatic detergent and sanitizer dispensing on newly installed machines under the model code, including a visual or audible way to detect non-delivery. A machine can run a cycle and still fail if chemistry is not being delivered correctly.</p>\n<h2 id=\"drying\">7. Drain and air-dry</h2><p>After the cycle, items should drain and air-dry without being wiped with uncontrolled towels. Correct rack position helps reduce pooled water and spotting.</p>\n<h2 id=\"verification\">What operators should verify</h2><ul>\n<li>Heavy soil was precleaned.</li>\n<li>Racks are not overloaded.</li>\n<li>Spray arms/nozzles are clear and moving as designed.</li>\n<li>Detergent and sanitizer supply is available.</li>\n<li>Temperatures, pressures or chemical concentrations meet the applicable system requirements.</li>\n<li>Items emerge visibly clean and can drain and dry.</li>\n</ul>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Machine warewashing is a controlled process, not an automatic guarantee. Correct precleaning, loading, chemistry, spray action, rinse, sanitizing and verification all determine the result.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/food/fda-food-code/food-code-2026\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "How Machine Warewashing Works | Alle's ClinX Knowledge",
+  "meta_description": "Learn how machine warewashing combines precleaning, loading, wash chemistry, spray action, rinsing, sanitizing, drying and parameter verification.",
+  "related_article_ids": [
+    "ACX-KB-0079",
+    "ACX-KB-0083",
+    "ACX-KB-0084"
+  ]
+}

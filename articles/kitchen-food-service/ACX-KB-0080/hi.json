@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0080",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0080",
+  "title": "Dishwashing performance: soil, water और process",
+  "slug": "dishwashing-performance-soil-water-process",
+  "subcategory": "Manual Dishwashing",
+  "subcategory_slug": "manual-dishwashing",
+  "excerpt": "Dishwashing performance soil type, water quality/temperature, detergent strength, mechanical action, rinsing, sanitizing control, drying और wash-solution condition पर depend करती है।",
+  "content_html": "<p>Good dishwashing performance कई controls के साथ काम करने से आती है। Greasy, cloudy या soiled dishes का कारण केवल detergent नहीं होता; soil, water, temperature, action, rinse और drying भी matter करते हैं।</p>\n<h2 id=\"hi80-soil\">Soil type cleaning demand बदलती है</h2><p>Crumbs, starch, dried protein और greasy soil differently behave करती हैं। Scraping/precleaning wash solution load कम करती है और detergent को surface तक पहुंचने देती है।</p>\n<h2 id=\"hi80-water\">Water quality result affect करती है</h2><p>USGS calcium/magnesium को water hardness के main contributors बताता है। Hard water dishes/glassware पर film छोड़ सकती है और detergent efficiency reduce कर सकती है।</p>\n<h2 id=\"hi80-temp\">Temperature approved process support करे</h2><p>Water temperature soil removal और कुछ systems में sanitizing affect करती है। Applicable code, product और equipment instructions follow करें; hotter always better नहीं है।</p>\n<h2 id=\"hi80-chemistry\">Detergent concentration control करें</h2><p>Too little cleaner soil छोड़ सकती है; too much rinsing difficult करके residue छोड़ सकती है। Product instructions follow करें और heavily soiled wash solution replace करें।</p>\n<h2 id=\"hi80-action\">Mechanical action wash complete करती है</h2><p>Manual warewashing में brushing/agitation soil loosen करती है। Machine में spray coverage, rack loading और machine condition action provide करते हैं।</p>\n<h2 id=\"hi80-rinse\">Rinse soil और chemistry remove करती है</h2><p>FDA Food Code washing और rinsing को separate करता है ताकि loosened soil/chemistry sanitizing से पहले remove/dilute हो।</p>\n<h2 id=\"hi80-sanitize\">Sanitizing separate control है</h2><p>Required sanitizing effective cleaning/rinsing के बाद होती है। Chemical concentration या hot-water parameters required measurement method से verify करें।</p>\n<h2 id=\"hi80-dry\">Drying/storage result protect करते हैं</h2><p>Items air-dry करें और recontamination से protect करें। Wet nesting, dirty drying surfaces या uncontrolled towels result खराब कर सकते हैं।</p>\n<h2 id=\"hi80-check\">Troubleshooting</h2><ol>\n<li>Remaining soil/film identify करें.</li>\n<li>Scraping/precleaning check करें.</li>\n<li>Water quality/temperature review करें.</li>\n<li>Detergent dilution/solution condition verify करें.</li>\n<li>Mechanical action/access check करें.</li>\n<li>Rinse/sanitizing controls confirm करें.</li>\n<li>Drying/storage recontamination inspect करें.</li>\n</ol>\n<h2 id=\"hi80-takeaway\">Practical takeaway</h2><p>Dishwashing system outcome है। Failed variable correct करें; automatically detergent बढ़ाना सही diagnosis नहीं है।</p>\n<h2 id=\"hi80-references\">संदर्भ</h2><ol>\n<li id=\"hi80-ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n<li id=\"hi80-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Dishwashing Performance | Alle's ClinX",
+  "meta_description": "Soil, hard water, temperature, detergent, action, rinse, sanitizing और drying dishwashing performance को कैसे affect करते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0079",
+    "ACX-KB-0081",
+    "ACX-KB-0078"
+  ]
+}

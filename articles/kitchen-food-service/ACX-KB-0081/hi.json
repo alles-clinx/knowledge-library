@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0081",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0081",
+  "title": "Hand-washed dishes cloudy क्यों दिख सकती हैं",
+  "slug": "why-hand-washed-dishes-can-look-cloudy",
+  "subcategory": "Manual Dishwashing",
+  "subcategory_slug": "manual-dishwashing",
+  "excerpt": "Hand-washed dishes hard-water minerals, soap scum, detergent residue, dirty rinse water, drying pattern या permanent surface etching के कारण cloudy दिख सकती हैं।",
+  "content_html": "<p>Hand washing के बाद cloudiness one specific failure नहीं है। Film removable mineral/detergent residue हो सकती है या glass/surface में permanent change हो सकता है।</p>\n<h2 id=\"hi81-water\">Cause 1: Hard-water minerals</h2><p>USGS hard water को cloudy dishes/glassware का common cause बताता है। Calcium/magnesium evaporation के बाद spots/film छोड़ सकते हैं।</p>\n<h2 id=\"hi81-soap\">Cause 2: Soap scum</h2><p>Soap hard-water calcium से react करके insoluble residue बना सकती है। Food soil remove होने के बाद भी cloudy/waxy film रह सकती है।</p>\n<h2 id=\"hi81-detergent\">Cause 3: Detergent residue</h2><p>Overdosing या concentrated wash solution rinse में carry होने से chemistry remain कर सकती है। Correct concentration और clean rinse step रखें।</p>\n<h2 id=\"hi81-rinse\">Cause 4: Dirty rinse water</h2><p>Detergent/grease/soil-loaded rinse water material utensils पर redeposit कर सकती है। Rinse water ineffective होने से पहले replace करें।</p>\n<h2 id=\"hi81-dry\">Cause 5: Drying pattern</h2><p>Standing droplets evaporation पर mineral spots छोड़ सकती हैं। Rack position/drainage और complete air-drying improve करें।</p>\n<h2 id=\"hi81-etch\">Cause 6: Permanent etching/damage</h2><p>Compatible residue-removal test के बाद cloudiness unchanged रहे और transfer न हो तो surface permanently altered हो सकती है। Stronger cleaning इसे restore नहीं करेगी।</p>\n<h2 id=\"hi81-check\">Diagnostic sequence</h2><ol>\n<li>Item fully dry होने दें.</li>\n<li>देखें cloudiness wipe/transfer होती है या नहीं.</li>\n<li>Water hardness/rinse-water quality review करें.</li>\n<li>Detergent amount/wash solution check करें.</li>\n<li>Fresh wash/rinse water से one test item rewash करें.</li>\n<li>Unchanged cloudiness में surface damage investigate करें.</li>\n</ol>\n<h2 id=\"hi81-takeaway\">Practical takeaway</h2><p>Cloudy hand-washed dishes अक्सर water/residue problem होती हैं। Water, detergent और rinsing पहले correct करें।</p>\n<h2 id=\"hi81-references\">संदर्भ</h2><ol>\n<li id=\"hi81-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi81-ref-2\"><a href=\"https://www.usgs.gov/media/images/hard-water-film\">USGS — Hard Water Film</a>.</li>\n<li id=\"hi81-ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Cloudy Hand-Washed Dishes | Alle's ClinX",
+  "meta_description": "Hard water, soap scum, detergent residue, rinse water, drying और permanent damage से cloudy hand-washed dishes diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0080",
+    "ACX-KB-0079",
+    "ACX-KB-0062"
+  ]
+}

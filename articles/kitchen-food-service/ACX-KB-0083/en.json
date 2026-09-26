@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0083",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Machine-Washed Glassware Can Look Cloudy",
+  "slug": "why-machine-washed-glassware-can-look-cloudy",
+  "subcategory": "Machine Warewashing",
+  "subcategory_slug": "machine-warewashing",
+  "excerpt": "Machine-washed glassware can look cloudy because of hard-water minerals, detergent or rinse residue, poor spray coverage, incorrect machine settings, drying deposits or permanent glass etching.",
+  "content_html": "<p>Cloudy glassware after machine warewashing can come from material deposited on the glass or from permanent change in the glass surface. The first question is whether the cloudiness can be removed.</p>\n<h2 id=\"hard-water\">Cause 1: Hard-water film</h2><p>USGS identifies hard water as one of the most common causes of cloudy dishes and glassware. Calcium and magnesium can dry onto the surface as spots or film, especially when water quality is not matched by the warewashing setup.</p>\n<h2 id=\"chemistry\">Cause 2: Detergent or chemical residue</h2><p>Incorrect detergent dosing, poor rinse performance or chemical carryover can leave a film. Check detergent feed, rinse function and the machine's operating instructions before changing product strength.</p>\n<h2 id=\"loading\">Cause 3: Poor spray coverage</h2><p>Overloaded racks, nested glasses, blocked nozzles or incorrectly positioned items can prevent clean rinse water from reaching the whole surface. Cloudiness may therefore follow a rack or loading pattern.</p>\n<h2 id=\"drying\">Cause 4: Water remains on the glass during drying</h2><p>Pooled droplets can leave mineral spots as they evaporate. Correct rack angle, drainage and machine settings help glassware shed water more evenly.</p>\n<h2 id=\"machine\">Cause 5: Machine parameters are out of control</h2><p>Temperature, chemical feed, pressure, conveyor or cycle time and spray condition can affect cleaning and rinsing. The FDA Food Code model requires warewashing machines to operate according to their data plate and provides for monitoring key machine parameters.</p>\n<h2 id=\"etching\">Cause 6: Permanent glass etching</h2><p>If the cloudy appearance remains after a compatible residue-removal test, the glass may be etched or otherwise permanently altered. More aggressive cleaning can make material damage worse rather than restore clarity.</p>\n<h2 id=\"diagnostic\">Diagnostic sequence</h2><ol>\n<li>Dry the glass completely.</li>\n<li>Check whether film wipes or transfers.</li>\n<li>Review water hardness.</li>\n<li>Inspect detergent and rinse chemical delivery.</li>\n<li>Check rack loading, nozzles and spray coverage.</li>\n<li>Verify machine parameters against its data plate and manufacturer instructions.</li>\n<li>If cloudiness is non-removable, investigate glass etching or wear.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Cloudy machine-washed glassware is often a water, rinse or machine-control problem. Test for removable film first; do not assume every cloudy glass needs stronger chemistry.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/media/images/hard-water-film\">USGS — Hard Water Film</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n</ol>",
+  "seo_title": "Why Machine-Washed Glassware Looks Cloudy | Alle's ClinX",
+  "meta_description": "Diagnose cloudy machine-washed glassware by checking hard water, detergent or rinse residue, spray coverage, machine settings, drying and permanent etching.",
+  "related_article_ids": [
+    "ACX-KB-0082",
+    "ACX-KB-0084",
+    "ACX-KB-0081"
+  ]
+}

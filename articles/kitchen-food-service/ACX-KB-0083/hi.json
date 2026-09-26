@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0083",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0083",
+  "title": "Machine-washed glassware cloudy क्यों दिख सकती है",
+  "slug": "why-machine-washed-glassware-can-look-cloudy",
+  "subcategory": "Machine Warewashing",
+  "subcategory_slug": "machine-warewashing",
+  "excerpt": "Machine-washed glassware hard-water minerals, detergent/rinse residue, poor spray coverage, incorrect machine settings, drying deposits या permanent etching से cloudy दिख सकती है।",
+  "content_html": "<p>Machine warewashing के बाद cloudy glassware deposited material या permanent surface change से हो सकती है। First question: cloudiness removable है या नहीं?</p>\n<h2 id=\"hi83-water\">Cause 1: Hard-water film</h2><p>USGS hard water को cloudy dishes/glassware का common cause बताता है। Calcium/magnesium spots/film के रूप में dry हो सकते हैं।</p>\n<h2 id=\"hi83-chemistry\">Cause 2: Detergent/chemical residue</h2><p>Incorrect dosing, poor rinse या chemical carryover film छोड़ सकते हैं। Product strength बदलने से पहले feed/rinse function check करें।</p>\n<h2 id=\"hi83-loading\">Cause 3: Poor spray coverage</h2><p>Overloaded racks, nested glasses, blocked nozzles या wrong positioning clean rinse water access रोक सकते हैं।</p>\n<h2 id=\"hi83-dry\">Cause 4: Drying में water remain करती है</h2><p>Pooled droplets evaporation के बाद mineral spots छोड़ सकती हैं। Rack angle/drainage/settings check करें।</p>\n<h2 id=\"hi83-machine\">Cause 5: Machine parameters out of control</h2><p>Temperature, chemical feed, pressure, cycle/conveyor time और spray condition performance affect करते हैं। Machine data plate/manufacturer instructions के against verify करें।</p>\n<h2 id=\"hi83-etch\">Cause 6: Permanent glass etching</h2><p>Compatible residue-removal test के बाद cloudiness unchanged हो तो glass permanently altered हो सकती है। Aggressive cleaning damage worse कर सकती है।</p>\n<h2 id=\"hi83-check\">Diagnostic sequence</h2><ol>\n<li>Glass fully dry करें.</li>\n<li>Film wipe/transfer होती है या नहीं check करें.</li>\n<li>Water hardness review करें.</li>\n<li>Detergent/rinse chemical delivery inspect करें.</li>\n<li>Rack loading, nozzles और spray coverage check करें.</li>\n<li>Machine parameters data plate/instructions से verify करें.</li>\n<li>Non-removable cloudiness में etching/wear investigate करें.</li>\n</ol>\n<h2 id=\"hi83-takeaway\">Practical takeaway</h2><p>Cloudy machine-washed glassware अक्सर water, rinse या machine-control problem होती है। Stronger chemistry से पहले removable film test करें।</p>\n<h2 id=\"hi83-references\">संदर्भ</h2><ol>\n<li id=\"hi83-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi83-ref-2\"><a href=\"https://www.usgs.gov/media/images/hard-water-film\">USGS — Hard Water Film</a>.</li>\n<li id=\"hi83-ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Cloudy Machine-Washed Glassware | Alle's ClinX",
+  "meta_description": "Hard water, chemical residue, spray coverage, machine settings, drying और etching से cloudy glassware diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0082",
+    "ACX-KB-0084",
+    "ACX-KB-0081"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0084",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0084",
+  "title": "Machine warewashing के बाद spots या film क्यों आती है?",
+  "slug": "what-causes-spots-or-film-after-machine-warewashing",
+  "subcategory": "Machine Warewashing",
+  "subcategory_slug": "machine-warewashing",
+  "excerpt": "Machine warewashing के बाद spots/film hard-water minerals, detergent carryover, poor rinse, chemical feed errors, blocked spray, overloaded racks, dirty machine water या drying से आ सकती है।",
+  "content_html": "<p>Machine cycle के बाद spots/film बताती है कि item पर material remain हुआ। Deposit incoming water, chemistry, food soil या machine process से आ सकती है।</p>\n<h2 id=\"hi84-water\">Cause 1: Hard-water minerals</h2><p>USGS बताता है hard water dishes/glassware पर spots/film छोड़ सकती है जब mineral-rich droplets dry होती हैं।</p>\n<h2 id=\"hi84-detergent\">Cause 2: Detergent carryover</h2><p>Excess detergent, dosing fault या insufficient rinse chemical film छोड़ सकते हैं। Automatic delivery/rinse function verify करें।</p>\n<h2 id=\"hi84-spray\">Cause 3: Poor rinse spray coverage</h2><p>Blocked nozzles, damaged spray arms, nested items या overloaded racks clean rinse access रोक सकते हैं। Rack-position pattern mechanical clue हो सकती है।</p>\n<h2 id=\"hi84-waterload\">Cause 4: Soil-loaded machine water</h2><p>Poor precleaning या heavy food debris recirculated wash water overload कर सकते हैं और soil redeposit हो सकती है।</p>\n<h2 id=\"hi84-feed\">Cause 5: Incorrect chemical feed</h2><p>Machines automatic detergent/sanitizer systems use कर सकती हैं। Cycle run होना correct chemical delivery का proof नहीं है।</p>\n<h2 id=\"hi84-dry\">Cause 6: Incomplete drainage/drying</h2><p>Water-trapping items visible spots के साथ dry हो सकती हैं। Rack angle, orientation और complete air-drying matter करते हैं।</p>\n<h2 id=\"hi84-maint\">Cause 7: Machine maintenance/setup</h2><p>Scale, clogged screens, worn nozzles, wrong temperature/pressure, improper cycle time या data-plate settings से बाहर operation persistent film create कर सकता है।</p>\n<h2 id=\"hi84-check\">Diagnostic</h2><ol>\n<li>Deposit removable है या नहीं confirm करें.</li>\n<li>Water hardness/drying pattern check करें.</li>\n<li>Detergent/chemical feed inspect करें.</li>\n<li>Nozzles, spray arms, screens, rack loading check करें.</li>\n<li>Precleaning/soil load review करें.</li>\n<li>Applicable temperature/pressure/cycle parameters verify करें.</li>\n<li>Chemistry बदलने से पहले drainage/drying check करें.</li>\n</ol>\n<h2 id=\"hi84-takeaway\">Practical takeaway</h2><p>Spots/film दिखाती है machine क्या remove नहीं कर पाई या drying water ने क्या छोड़ा। Pattern से water, chemistry, spray, loading, maintenance और drying diagnose करें।</p>\n<h2 id=\"hi84-references\">संदर्भ</h2><ol>\n<li id=\"hi84-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi84-ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — Food Code 2026</a>.</li>\n</ol>",
+  "seo_title": "Spots or Film After Warewashing | Alle's ClinX",
+  "meta_description": "Hard water, detergent carryover, rinse spray, chemical feed, machine maintenance और drying से warewashing spots/film diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0082",
+    "ACX-KB-0083",
+    "ACX-KB-0080"
+  ]
+}

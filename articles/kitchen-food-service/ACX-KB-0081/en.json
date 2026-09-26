@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0081",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Hand-Washed Dishes Can Look Cloudy",
+  "slug": "why-hand-washed-dishes-can-look-cloudy",
+  "subcategory": "Manual Dishwashing",
+  "subcategory_slug": "manual-dishwashing",
+  "excerpt": "Hand-washed dishes can look cloudy because of hard-water minerals, soap scum, detergent residue, dirty rinse water, incomplete drying or permanent surface etching rather than remaining food soil.",
+  "content_html": "<p>Cloudiness after hand washing is a visual symptom, not one specific failure. The film may be removable mineral or detergent residue, or it may be a permanent change in the glass or surface. Diagnose the layer before changing chemistry.</p>\n<h2 id=\"hard-water\">Cause 1: Hard-water minerals</h2><p>USGS identifies hard water as a common cause of cloudy dishes and glassware. Calcium and magnesium can remain as spots or film after water evaporates, especially when dishes air-dry with mineral-rich droplets on the surface.</p>\n<h2 id=\"soap-scum\">Cause 2: Soap scum</h2><p>Soap can react with calcium in hard water to form insoluble residue. This can create a cloudy or waxy film even when food soil has been removed.</p>\n<h2 id=\"detergent\">Cause 3: Detergent residue</h2><p>Overdosing detergent or allowing concentrated wash solution to carry into the rinse can leave chemistry behind. Use the correct wash concentration and maintain a clean rinse step.</p>\n<h2 id=\"rinse-water\">Cause 4: Dirty rinse water</h2><p>Rinsing in water already loaded with detergent, grease or food soil can redeposit material on the utensil. Replace rinse water before it becomes visibly contaminated or ineffective.</p>\n<h2 id=\"drying\">Cause 5: Drying pattern</h2><p>Standing droplets can leave mineral spots as they evaporate. Correct rack position and complete air-drying help water drain rather than pool on the surface.</p>\n<h2 id=\"etching\">Cause 6: Permanent etching or surface damage</h2><p>If cloudiness remains after a compatible residue-removal test and does not transfer from the surface, the glass may be etched or otherwise altered. Stronger cleaning will not restore material that has been permanently changed.</p>\n<h2 id=\"diagnostic\">A simple diagnostic sequence</h2><ol>\n<li>Let the item dry completely.</li>\n<li>Check whether the cloudiness wipes or transfers.</li>\n<li>Review water hardness and rinse-water quality.</li>\n<li>Check detergent amount and wash-solution condition.</li>\n<li>Rewash one test item using fresh wash and rinse water.</li>\n<li>If cloudiness remains unchanged, investigate permanent surface damage rather than increasing chemistry.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Cloudy hand-washed dishes are often a water or residue problem. Fix water, detergent and rinsing first; treat non-removable cloudiness as possible surface change.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/media/images/hard-water-film\">USGS — Hard Water Film on Glassware</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n</ol>",
+  "seo_title": "Why Hand-Washed Dishes Look Cloudy | Alle's ClinX",
+  "meta_description": "Troubleshoot cloudy hand-washed dishes by checking hard-water minerals, soap scum, detergent residue, dirty rinse water, drying and permanent surface change.",
+  "related_article_ids": [
+    "ACX-KB-0080",
+    "ACX-KB-0079",
+    "ACX-KB-0062"
+  ]
+}

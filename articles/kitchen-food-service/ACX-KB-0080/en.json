@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0080",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Dishwashing Performance: Soil, Water and Process",
+  "slug": "dishwashing-performance-soil-water-process",
+  "subcategory": "Manual Dishwashing",
+  "subcategory_slug": "manual-dishwashing",
+  "excerpt": "Dishwashing performance depends on the soil being removed, water quality and temperature, detergent strength, mechanical action, rinsing, sanitizing control, drying and the condition of the wash solution.",
+  "content_html": "<p>Good dishwashing performance is the result of several controls working together. When dishes remain greasy, cloudy or visibly soiled, the failure is rarely explained by detergent alone. Soil type, water quality, temperature, mechanical action, solution condition, rinsing and drying all matter.</p>\n<h2 id=\"soil\">Soil type changes the cleaning demand</h2><p>Loose crumbs, starch, dried protein and greasy food soils behave differently. Scraping and precleaning reduce the amount of material entering the wash solution and allow detergent and mechanical action to reach the actual utensil surface.</p>\n<h2 id=\"water\">Water quality affects the result</h2><p>USGS identifies calcium and magnesium as the main contributors to water hardness. Hard water can leave film on dishes and glassware and can reduce soap or detergent efficiency. Water quality should therefore be considered when cloudiness, spots or scale recur across many items.</p>\n<h2 id=\"temperature\">Temperature must support the approved process</h2><p>Water temperature influences soil removal and, in some systems, sanitizing. Use the temperatures specified by the applicable food code, detergent or sanitizer label, and equipment instructions rather than assuming hotter is always better.</p>\n<h2 id=\"chemistry\">Detergent concentration must be controlled</h2><p>Too little cleaning agent may leave grease and soil; too much can make rinsing more difficult and leave residue. Prepare wash solutions according to product instructions and replace them when soil load becomes excessive.</p>\n<h2 id=\"action\">Mechanical action completes the wash</h2><p>In manual warewashing, brushing, wiping or agitation helps dislodge soil. In machine warewashing, spray coverage, rack loading and machine condition provide the mechanical action. Items must be positioned so the cleaning solution can reach soiled surfaces.</p>\n<h2 id=\"rinse\">Rinsing removes soil and cleaning chemistry</h2><p>The FDA Food Code model separates washing from rinsing so loosened soil and cleaning chemicals are removed or diluted before sanitizing. A dirty or overloaded rinse step can leave film behind.</p>\n<h2 id=\"sanitize\">Sanitizing is a separate control</h2><p>Where required, sanitizing follows effective cleaning and rinsing. Chemical concentration or hot-water parameters should be measured using the method required by the applicable code and equipment or product instructions; smell and appearance are not reliable controls.</p>\n<h2 id=\"dry\">Drying and storage protect the result</h2><p>Allow items to air-dry and protect them from recontamination. Wet nesting, dirty drying surfaces or uncontrolled towels can undo a successful wash process.</p>\n<h2 id=\"troubleshooting\">Performance troubleshooting</h2><ol>\n<li>Identify the remaining soil or film.</li>\n<li>Check scraping and precleaning.</li>\n<li>Review water quality and temperature.</li>\n<li>Verify detergent dilution and solution condition.</li>\n<li>Check mechanical action and access to surfaces.</li>\n<li>Confirm rinse and sanitizing controls.</li>\n<li>Inspect drying and storage for recontamination.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Dishwashing performance is a system outcome. Correct the failed variable—soil removal, water, chemistry, action, rinse, sanitizing or drying—instead of automatically increasing detergent.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Dishwashing Performance: Soil, Water and Process | Alle's ClinX",
+  "meta_description": "Understand how soil, water hardness, temperature, detergent, mechanical action, rinsing, sanitizing and drying affect dishwashing performance.",
+  "related_article_ids": [
+    "ACX-KB-0079",
+    "ACX-KB-0081",
+    "ACX-KB-0078"
+  ]
+}

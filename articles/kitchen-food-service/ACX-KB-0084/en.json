@@ -1,0 +1,25 @@
+{
+  "category": "Kitchen & Food-Service Hygiene",
+  "category_slug": "kitchen-food-service",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0084",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Causes Spots or Film After Machine Warewashing?",
+  "slug": "what-causes-spots-or-film-after-machine-warewashing",
+  "subcategory": "Machine Warewashing",
+  "subcategory_slug": "machine-warewashing",
+  "excerpt": "Spots or film after machine warewashing can come from hard-water minerals, detergent carryover, poor final rinsing, incorrect chemical feed, blocked spray, overloaded racks, dirty machine water or incomplete drainage and drying.",
+  "content_html": "<p>Spots and film after machine warewashing are signs that material remained on the item after the cycle. The deposit may come from the incoming water, cleaning chemistry, food soil or the machine process itself.</p>\n<h2 id=\"hard-water\">Cause 1: Hard-water minerals</h2><p>USGS notes that hard water can leave spots or film on dishes and glassware as mineral-rich droplets dry. If the same spotting appears across many otherwise clean items, water hardness is an important variable to check.</p>\n<h2 id=\"detergent\">Cause 2: Detergent carryover</h2><p>Excess detergent, dosing faults or insufficient rinsing can leave a chemical film. Verify automatic chemical delivery and make sure the rinse stage is functioning as designed.</p>\n<h2 id=\"spray\">Cause 3: Poor rinse spray coverage</h2><p>Blocked nozzles, damaged spray arms, nested items or overloaded racks can shield surfaces from clean rinse water. A repeated spot pattern by rack position can indicate a mechanical or loading problem.</p>\n<h2 id=\"dirty-water\">Cause 4: Soil-loaded machine water</h2><p>Heavy food debris, ineffective precleaning or poor machine maintenance can overload recirculated wash water. Soil may then redeposit instead of being fully removed.</p>\n<h2 id=\"chemical-feed\">Cause 5: Incorrect chemical feed</h2><p>Machines may rely on automatic detergent, sanitizer and other chemical-control systems. FDA model-code provisions recognize automatic dispensing and verification because a cycle can run even when chemical delivery is incorrect.</p>\n<h2 id=\"drainage\">Cause 6: Incomplete drainage and drying</h2><p>Items that trap water may dry with visible spots even when the cycle otherwise performs well. Rack angle, item orientation and complete air-drying matter.</p>\n<h2 id=\"maintenance\">Cause 7: Machine maintenance or setup</h2><p>Scale, clogged screens, worn nozzles, incorrect temperature or pressure, improper cycle time or a machine operating outside its data-plate settings can produce persistent film and spots.</p>\n<h2 id=\"diagnostic\">A spot-and-film diagnostic</h2><ol>\n<li>Confirm whether the deposit is removable.</li>\n<li>Check water hardness and whether spots follow drying droplets.</li>\n<li>Inspect detergent and other chemical feed.</li>\n<li>Check nozzles, spray arms, screens and rack loading.</li>\n<li>Review precleaning and soil load.</li>\n<li>Verify temperature, pressure and cycle parameters as applicable.</li>\n<li>Check drainage and drying before changing chemistry.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Spots and film are usually evidence of what the machine failed to remove or what the drying water left behind. Use the pattern of the deposit to diagnose water, chemistry, spray, loading, maintenance or drying.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.fda.gov/media/194741/download\">U.S. FDA — FDA Food Code 2026, Chapter 4</a>.</li>\n</ol>",
+  "seo_title": "Spots or Film After Machine Warewashing | Alle's ClinX",
+  "meta_description": "Troubleshoot machine-warewashing spots and film by checking hard water, detergent carryover, rinse spray, dirty machine water, chemical feed, maintenance and drying.",
+  "related_article_ids": [
+    "ACX-KB-0082",
+    "ACX-KB-0083",
+    "ACX-KB-0080"
+  ]
+}
