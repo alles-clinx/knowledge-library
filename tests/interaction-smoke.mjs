@@ -29,6 +29,11 @@ try{
   await page.locator('.acx-search-input').fill('stainless');
   await wait(250);
   assert(await page.locator('.acx-search-result').count()>0,'Search produced no results');
+  await page.locator('.acx-search-close').click();
+  assert(!(await page.locator('.acx-search-dialog').isVisible()),'Search close button did not close the dialog');
+
+  await page.locator('.acx-search-button').click();
+  assert(await page.locator('.acx-search-dialog.is-open').isVisible(),'Search dialog did not reopen');
   await page.keyboard.press('Escape');
   assert(!(await page.locator('.acx-search-dialog').isVisible()),'Search dialog did not close with Escape');
 
@@ -42,6 +47,12 @@ try{
       await wait(350);
       const after=await slider.evaluate(el=>el.scrollLeft);
       assert(after>before,'Homepage slider next control did not move the slider');
+      const prev=page.locator('[data-slider-prev="'+targetId+'"]');
+      assert(await prev.count()>0,'Homepage slider previous control is missing');
+      await prev.click();
+      await wait(350);
+      const returned=await slider.evaluate(el=>el.scrollLeft);
+      assert(returned<after,'Homepage slider previous control did not move the slider back');
     }
   }
   await desktop.close();
@@ -53,6 +64,10 @@ try{
   await mp.locator('.acx-menu-button').click();
   assert(await mp.locator('#acx-mobile-drawer.is-open').isVisible(),'Mobile drawer did not open');
   assert((await mp.locator('.acx-menu-button').getAttribute('aria-expanded'))==='true','Mobile menu aria-expanded did not update');
+  await mp.locator('.acx-menu-button').click();
+  assert(!(await mp.locator('#acx-mobile-drawer').isVisible()),'Mobile menu button did not close the drawer');
+  assert((await mp.locator('.acx-menu-button').getAttribute('aria-expanded'))==='false','Mobile menu aria-expanded did not reset');
+  await mp.locator('.acx-menu-button').click();
   await mp.locator('.acx-mobile-search').click();
   assert(await mp.locator('.acx-search-dialog.is-open').isVisible(),'Mobile search did not open from drawer');
   assert((await mp.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Mobile drawer did not close when search opened');
@@ -85,6 +100,10 @@ try{
   await ap.locator('.rail .js-browser-save[data-save-action="bookmark"]').click();
   assert((await ap.locator('.rail .tool-status').textContent()).includes('bookmark'),'Bookmark helper did not provide browser instruction');
 
+  await ap.locator('.rail .js-save-toggle').click();
+  await ap.locator('.rail .js-browser-save[data-save-action="save"]').click();
+  assert((await ap.locator('.rail .tool-status').textContent()).includes('save'),'Save-page helper did not provide browser instruction');
+
   await ap.evaluate(()=>{ window.__acxPrinted=false; window.print=()=>{window.__acxPrinted=true;}; });
   await ap.locator('.rail .js-save-toggle').click();
   await ap.locator('.rail .js-browser-save[data-save-action="print"]').click();
@@ -98,10 +117,13 @@ try{
   assert(afterSize===Math.min(21,beforeSize+1),'Increase text-size control did not update size');
   const cssSize=await ap.locator('.page').evaluate(el=>getComputedStyle(el).getPropertyValue('--reading-size').trim());
   assert(cssSize===afterSize+'px','Text-size control did not update --reading-size');
+  await ap.locator('.rail .js-smaller').click();
+  const reducedSize=parseInt(await ap.locator('.rail .js-size-readout').textContent(),10);
+  assert(reducedSize===Math.max(15,afterSize-1),'Decrease text-size control did not update size');
 
   await ap.reload({waitUntil:'networkidle'});
   const persisted=parseInt(await ap.locator('.rail .js-size-readout').textContent(),10);
-  assert(persisted===afterSize,'Text-size preference did not persist through reload');
+  assert(persisted===reducedSize,'Text-size preference did not persist through reload');
 
   const enTab=ap.locator('.rail-language-switch a[lang="en"]');
   const hiTab=ap.locator('.rail-language-switch a[lang="hi"]');
@@ -125,9 +147,21 @@ try{
   assert(await ma.locator('.mobile-tools .js-save-toggle').isVisible(),'Mobile Save tool is not visible');
   assert(await ma.locator('.mobile-tools .js-text-toggle').isVisible(),'Mobile Text tool is not visible');
 
+  await ma.locator('.mobile-tools .js-share-toggle').click();
+  assert(await ma.locator('.mobile-tools .js-share-popover').isVisible(),'Mobile Share bottom sheet did not open');
+  await ma.keyboard.press('Escape');
+  assert(!(await ma.locator('.mobile-tools .js-share-popover').isVisible()),'Mobile Share bottom sheet did not close');
+
+  await ma.locator('.mobile-tools .js-save-toggle').click();
+  assert(await ma.locator('.mobile-tools .js-save-popover').isVisible(),'Mobile Save bottom sheet did not open');
+  await ma.keyboard.press('Escape');
+  assert(!(await ma.locator('.mobile-tools .js-save-popover').isVisible()),'Mobile Save bottom sheet did not close');
+
   await ma.locator('.mobile-tools .js-text-toggle').click();
   assert(await ma.locator('.mobile-tools .js-text-popover').isVisible(),'Mobile Text bottom sheet did not open');
   await ma.locator('.mobile-tools .js-larger').click();
+  await ma.keyboard.press('Escape');
+  assert(!(await ma.locator('.mobile-tools .js-text-popover').isVisible()),'Mobile Text bottom sheet did not close');
 
   const sections=ma.locator('#article-content section[id]');
   assert(await sections.count()>1,'Article has too few sections for scroll navigation test');
