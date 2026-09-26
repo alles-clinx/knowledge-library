@@ -167,7 +167,7 @@
         "ACX-KB-0053",
         "ACX-KB-0054"
       ],
-      "status": "in_progress"
+      "status": "completed"
     },
     {
       "batch_number": 12,
@@ -182,7 +182,7 @@
         "ACX-KB-0058",
         "ACX-KB-0059"
       ],
-      "status": "queued"
+      "status": "in_progress"
     },
     {
       "batch_number": 13,
