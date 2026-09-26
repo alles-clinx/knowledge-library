@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0042",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Are the Main Carpet Cleaning Methods?",
+  "slug": "what-are-the-main-carpet-cleaning-methods",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "Commercial carpet care combines routine vacuuming and spot cleaning with interim or restorative methods such as absorbent compound, bonnet/pad cleaning, dry foam, shampoo and hot-water extraction.",
+  "content_html": "<p>Carpet cleaning is not one method. A complete maintenance program combines dry soil removal, prompt spot treatment and periodic methods chosen for the carpet construction, soil load, available drying time and manufacturer requirements.</p>\n<h2 id=\"routine-vacuuming\">1. Routine vacuuming</h2><p>Vacuuming removes dry particulate soil before it becomes embedded. EPA guidance for schools describes regular vacuuming as a core part of carpet maintenance, with frequency adjusted to use and traffic.</p>\n<h2 id=\"spot-cleaning\">2. Spot cleaning</h2><p>Spot cleaning targets a local spill or mark rather than the whole carpet. The goal is to remove the contaminant promptly while controlling moisture, colour transfer and spreading.</p>\n<h2 id=\"absorbent-compound\">3. Absorbent compound or dry-powder cleaning</h2><p>An absorbent compound is worked through the pile and later vacuumed out with suspended soil. It can be useful where low moisture and faster return to service are priorities, provided the carpet system and manufacturer allow it.</p>\n<h2 id=\"bonnet-or-absorbent-pad\">4. Bonnet or absorbent-pad cleaning</h2><p>A rotating absorbent pad removes soil from the upper part of the carpet. Industry guidance generally treats this as an interim appearance-maintenance method rather than the deepest restorative process.</p>\n<h2 id=\"dry-foam-and-shampoo\">5. Dry foam or rotary shampoo</h2><p>Foam or shampoo chemistry is agitated into the carpet to suspend soil, then removed by wet vacuuming or after drying according to the system. Residue control and correct dilution are important because remaining detergent can affect appearance and resoiling.</p>\n<h2 id=\"hot-water-extraction\">6. Hot-water extraction</h2><p>Hot-water extraction applies cleaning solution or rinse water and physically extracts suspended soil and moisture. EPA recommends periodic wet extraction as part of carpet maintenance in schools, while GSA specifications require extraction-cleaned public-area carpet to be dry before normal occupancy resumes.</p>\n<h2 id=\"drying-is-part-of-method-selection\">Drying is part of method selection</h2><p>EPA emphasises rapid drying because trapped moisture can support mold growth. Choose a method that can be dried within the available operating window and use ventilation, air movement or dehumidification when needed.</p>\n<h2 id=\"selection-check\">How to choose</h2><table class=\"data-table\"><thead><tr><th>Question</th><th>Why it matters</th></tr></thead><tbody>\n<tr><td>What carpet fiber and construction is present?</td><td>Sets compatibility limits</td></tr>\n<tr><td>Is the need routine, interim or restorative?</td><td>Controls method intensity</td></tr>\n<tr><td>What soil or spot is present?</td><td>Determines chemistry and removal process</td></tr>\n<tr><td>How much drying time is available?</td><td>Controls moisture-based method choice</td></tr>\n<tr><td>What does the manufacturer require?</td><td>Protects performance and warranty conditions</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Use the least intensive method that can achieve the required result without leaving soil, residue or excess moisture behind. Routine vacuuming and spot control reduce how often restorative cleaning is needed.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.epa.gov/iaq-schools/controlling-pollutants-and-sources-indoor-air-quality-design-tools-schools\">U.S. EPA — Indoor Air Quality Design Tools for Schools</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.gsa.gov/system/files?file=2024_National_Custodial_Specification_October_2024-1.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-3\"><a href=\"https://iicrc.org/s100/\">IICRC — ANSI/IICRC S100 Standard overview</a>.</li>\n<li id=\"ref-4\"><a href=\"https://carpet-rug.org/wp-content/uploads/2018/08/The-Science-of-Carpet-Cleaning.pdf\">Carpet and Rug Institute — The Science of Carpet Cleaning</a>.</li>\n</ol>",
+  "seo_title": "Main Carpet Cleaning Methods | Alle's ClinX Knowledge",
+  "meta_description": "Understand vacuuming, spot cleaning, absorbent compound, bonnet, foam, shampoo and hot-water extraction—and how drying time and carpet construction affect method choice.",
+  "related_article_ids": [
+    "ACX-KB-0043",
+    "ACX-KB-0044",
+    "ACX-KB-0028"
+  ]
+}

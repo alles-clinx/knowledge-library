@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0042",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0042",
+  "title": "Main carpet cleaning methods क्या हैं?",
+  "slug": "what-are-the-main-carpet-cleaning-methods",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "Commercial carpet care routine vacuuming/spot cleaning को absorbent compound, bonnet/pad, dry foam, shampoo और hot-water extraction जैसे interim/restorative methods के साथ combine करती है।",
+  "content_html": "<p>Carpet cleaning एक single method नहीं है। Complete maintenance program dry soil removal, prompt spot treatment और carpet construction, soil load, drying time तथा manufacturer requirements के अनुसार periodic methods combine करता है।</p>\n<h2 id=\"hi42-vacuum\">1. Routine vacuuming</h2><p>Vacuuming dry particulate soil को embedded होने से पहले remove करती है। EPA regular vacuuming को carpet maintenance का core part बताता है।</p>\n<h2 id=\"hi42-spot\">2. Spot cleaning</h2><p>Spot cleaning पूरे carpet की बजाय local spill/mark target करती है। Goal contaminant promptly remove करना है जबकि moisture, colour transfer और spreading control रहे।</p>\n<h2 id=\"hi42-compound\">3. Absorbent compound / dry powder</h2><p>Absorbent compound pile में work करके बाद में suspended soil के साथ vacuum किया जाता है। Low moisture और faster return-to-service situations में useful हो सकता है अगर manufacturer allow करे।</p>\n<h2 id=\"hi42-bonnet\">4. Bonnet / absorbent pad</h2><p>Rotating absorbent pad upper carpet area से soil remove करता है। Industry guidance इसे generally interim appearance-maintenance method मानती है।</p>\n<h2 id=\"hi42-shampoo\">5. Dry foam / rotary shampoo</h2><p>Foam या shampoo chemistry agitation से soil suspend करती है और system के अनुसार wet vacuuming या drying के बाद remove होती है। Residue control और correct dilution important हैं।</p>\n<h2 id=\"hi42-extraction\">6. Hot-water extraction</h2><p>Hot-water extraction solution/rinse apply करके suspended soil और moisture physically extract करती है। EPA periodic wet extraction recommend करता है और GSA cleaned carpet को normal occupancy से पहले dry होने की requirement रखता है।</p>\n<h2 id=\"hi42-drying\">Drying भी method selection का हिस्सा है</h2><p>EPA rapid drying पर जोर देता है क्योंकि trapped moisture mold growth support कर सकती है। Available operating window में dry होने वाला method चुनें और जरूरत पर ventilation/air movement/dehumidification use करें।</p>\n<h2 id=\"hi42-select\">Method selection check</h2><table class=\"data-table\"><thead><tr><th>Question</th><th>Why it matters</th></tr></thead><tbody>\n<tr><td>Carpet fiber/construction क्या है?</td><td>Compatibility limits set करता है</td></tr>\n<tr><td>Need routine, interim या restorative है?</td><td>Method intensity तय करती है</td></tr>\n<tr><td>कौन-सी soil/spot है?</td><td>Chemistry/removal process तय करती है</td></tr>\n<tr><td>Drying time कितना है?</td><td>Moisture-based method choice affect करता है</td></tr>\n<tr><td>Manufacturer क्या require करता है?</td><td>Performance/warranty protect करता है</td></tr>\n</tbody></table>\n<h2 id=\"hi42-takeaway\">Practical takeaway</h2><p>Required result achieve करने वाला least intensive compatible method use करें और soil, residue या excess moisture पीछे न छोड़ें। Good routine vacuuming/restorative frequency कम करती है।</p>\n<h2 id=\"hi42-references\">संदर्भ</h2><ol>\n<li id=\"hi42-ref-1\"><a href=\"https://www.epa.gov/iaq-schools/controlling-pollutants-and-sources-indoor-air-quality-design-tools-schools\">U.S. EPA — IAQ Design Tools for Schools</a>.</li>\n<li id=\"hi42-ref-2\"><a href=\"https://www.gsa.gov/system/files?file=2024_National_Custodial_Specification_October_2024-1.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi42-ref-3\"><a href=\"https://iicrc.org/s100/\">IICRC — ANSI/IICRC S100</a>.</li>\n<li id=\"hi42-ref-4\"><a href=\"https://carpet-rug.org/wp-content/uploads/2018/08/The-Science-of-Carpet-Cleaning.pdf\">Carpet and Rug Institute — Carpet Cleaning</a>.</li>\n</ol>",
+  "seo_title": "Main Carpet Cleaning Methods | Alle's ClinX",
+  "meta_description": "Vacuuming, spot cleaning, compound, bonnet, foam, shampoo और hot-water extraction methods तथा drying/compatibility factors समझें।",
+  "related_article_ids": [
+    "ACX-KB-0043",
+    "ACX-KB-0044",
+    "ACX-KB-0028"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0041",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Moisture and Chemistry Matter on Wood Finishes",
+  "slug": "why-moisture-and-chemistry-matter-on-wood-finishes",
+  "subcategory": "Wood & Furniture",
+  "subcategory_slug": "wood-furniture",
+  "excerpt": "Moisture and cleaning chemistry matter on finished wood because water can enter joints or damaged finishes while solvents, detergents and other chemicals can soften, cloud or remove coatings.",
+  "content_html": "<p>Finished wood is protected only as well as its finish and construction allow. Water, solvent and cleaning chemistry can affect the coating, seams, veneer, inlay and underlying wood differently. Safe care therefore depends on controlling both moisture and chemical compatibility.</p>\n<h2 id=\"water-can-move-beyond-the-visible-surface\">Water can move beyond the visible surface</h2><p>NPS furniture guidance recommends using water sparingly, especially on veneered or inlaid furniture. Moisture can move through worn finish, joints or edges and contribute to swelling, staining, lifting or distortion.</p>\n<h2 id=\"damaged-finishes-are-more-vulnerable\">Damaged finishes are more vulnerable</h2><p>A sound coating provides more protection than one that is cracked, flaking, worn or raised. NPS advises against routine wet cleaning when the finish is unstable. If the coating is already failing, cleaning liquid can reach places it normally would not.</p>\n<h2 id=\"chemistry-can-soften-or-alter-a-finish\">Chemistry can soften or alter a finish</h2><p>Solvents and cleaners can dissolve wax, soften some coatings or change sheen. NPS recommends testing in an inconspicuous area before cleaning because finish response is not always obvious from appearance alone.</p>\n<h2 id=\"detergent-residue-can-also-be-a-problem\">Residue can also be a problem</h2><p>A product that leaves film may change gloss or attract soil. NPS guidance for museum furniture warns against detergents that can leave difficult-to-remove film on some finishes. Modern commercial finishes vary, so the controlling rule is the actual manufacturer-approved maintenance method.</p>\n<h2 id=\"drying-speed-matters\">Drying speed matters</h2><p>When a compatible damp-cleaning method is permitted, use a well-wrung cloth, work in small sections and dry promptly. Do not leave standing moisture around joints, edges or damaged coating.</p>\n<h2 id=\"a-compatibility-check\">A simple compatibility check</h2><ol>\n<li>Identify the wood finish or coating if possible.</li>\n<li>Inspect for cracks, flaking, lifting, open joints or veneer damage.</li>\n<li>Remove loose dust before adding liquid.</li>\n<li>Test the approved cleaner on a small hidden area.</li>\n<li>Use minimum necessary moisture.</li>\n<li>Stop if the surface becomes tacky, cloudy, softened or colour transfers to the cloth.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>On finished wood, cleaning strength is not the goal—compatibility is. Keep moisture controlled, use only chemistry the finish can tolerate and stop when the coating shows any sign of change.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/subjects/museums/upload/07-01_508.pdf\">U.S. National Park Service — Cleaning Wood Furniture</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.nps.gov/subjects/museums/upload/MHI_AppN_WoodObjects.pdf\">U.S. National Park Service — Curatorial Care of Wooden Objects</a>.</li>\n<li id=\"ref-3\"><a href=\"https://origin-www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/cleaning-and-refinishing-of-woodwork\">U.S. GSA — Cleaning and Refinishing of Woodwork</a>.</li>\n</ol>",
+  "seo_title": "Why Moisture and Chemistry Matter on Wood Finishes | Alle's ClinX",
+  "meta_description": "Learn how moisture, finish condition, solvents, detergents, residue and drying affect safe cleaning of finished wood surfaces.",
+  "related_article_ids": [
+    "ACX-KB-0039",
+    "ACX-KB-0040",
+    "ACX-KB-0028"
+  ]
+}

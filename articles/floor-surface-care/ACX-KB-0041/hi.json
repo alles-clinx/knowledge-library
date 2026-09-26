@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0041",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0041",
+  "title": "Wood finishes पर moisture और chemistry क्यों matter करती है",
+  "slug": "why-moisture-and-chemistry-matter-on-wood-finishes",
+  "subcategory": "Wood & Furniture",
+  "subcategory_slug": "wood-furniture",
+  "excerpt": "Finished wood पर moisture और chemistry important हैं क्योंकि water joints/damaged finish में जा सकता है और solvents/detergents coating को soften, cloud या remove कर सकते हैं।",
+  "content_html": "<p>Finished wood उतना ही protected है जितना उसकी finish और construction allow करती है। Water, solvent और cleaning chemistry coating, seams, veneer, inlay और underlying wood को अलग-अलग affect कर सकते हैं।</p>\n<h2 id=\"hi41-water\">Water visible surface से आगे जा सकता है</h2><p>NPS veneered/inlaid furniture पर water sparingly use करने को कहता है। Moisture worn finish, joints या edges से जाकर swelling, staining, lifting या distortion contribute कर सकती है।</p>\n<h2 id=\"hi41-damaged\">Damaged finish ज्यादा vulnerable होती है</h2><p>Sound coating cracked, flaking, worn या raised coating से ज्यादा protection देती है। NPS unstable finish पर routine wet cleaning avoid करने की सलाह देता है।</p>\n<h2 id=\"hi41-chemistry\">Chemistry finish soften या alter कर सकती है</h2><p>Solvents/cleaners wax dissolve कर सकते हैं, कुछ coatings soften कर सकते हैं या sheen बदल सकते हैं। इसलिए cleaning से पहले inconspicuous test important है।</p>\n<h2 id=\"hi41-residue\">Residue भी problem बन सकती है</h2><p>Film छोड़ने वाला product gloss change या soil attraction कर सकता है। NPS कुछ finishes पर difficult-to-remove detergent film की warning देता है। Modern finishes vary करती हैं, इसलिए manufacturer-approved method governing rule है।</p>\n<h2 id=\"hi41-dry\">Drying speed matter करती है</h2><p>Compatible damp-cleaning method permitted हो तो well-wrung cloth use करें, small sections में work करें और promptly dry करें। Joints, edges या damaged coating के पास standing moisture न छोड़ें।</p>\n<h2 id=\"hi41-check\">Compatibility check</h2><ol>\n<li>Finish/coating identify करें.</li>\n<li>Cracks, flaking, lifting, open joints या veneer damage inspect करें.</li>\n<li>Liquid से पहले loose dust remove करें.</li>\n<li>Approved cleaner hidden area पर test करें.</li>\n<li>Minimum required moisture use करें.</li>\n<li>Surface tacky, cloudy, soft हो या colour cloth पर transfer हो तो stop करें.</li>\n</ol>\n<h2 id=\"hi41-takeaway\">Practical takeaway</h2><p>Finished wood पर goal stronger cleaning नहीं, compatibility है। Moisture controlled रखें, finish-compatible chemistry use करें और coating change का sign मिले तो process stop करें।</p>\n<h2 id=\"hi41-references\">संदर्भ</h2><ol>\n<li id=\"hi41-ref-1\"><a href=\"https://www.nps.gov/subjects/museums/upload/07-01_508.pdf\">U.S. National Park Service — Cleaning Wood Furniture</a>.</li>\n<li id=\"hi41-ref-2\"><a href=\"https://www.nps.gov/subjects/museums/upload/MHI_AppN_WoodObjects.pdf\">U.S. National Park Service — Curatorial Care of Wooden Objects</a>.</li>\n<li id=\"hi41-ref-3\"><a href=\"https://origin-www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/cleaning-and-refinishing-of-woodwork\">U.S. GSA — Cleaning and Refinishing of Woodwork</a>.</li>\n</ol>",
+  "seo_title": "Wood Finishes: Moisture and Chemistry | Alle's ClinX",
+  "meta_description": "Finished wood पर moisture, coating condition, solvents, detergent residue और drying cleaning safety को कैसे affect करते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0039",
+    "ACX-KB-0040",
+    "ACX-KB-0028"
+  ]
+}

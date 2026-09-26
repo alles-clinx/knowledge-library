@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0044",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0044",
+  "title": "Cleaning के बाद carpet spots वापस क्यों आते हैं",
+  "slug": "why-carpet-spots-reappear-after-cleaning",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "Carpet spot wicking, sticky residue से resoiling, backing/substrate में remaining contamination या permanent appearance change के कारण cleaning के बाद वापस दिख सकता है।",
+  "content_html": "<p>Cleaning के बाद carpet spot वापस दिखे तो इसका मतलब यह नहीं कि कुछ भी remove नहीं हुआ। Visible surface clean लग सकती है जबकि moisture और dissolved material pile/backing में deeper remain करते हैं। Drying के दौरान material ऊपर migrate कर सकता है।</p>\n<h2 id=\"hi44-wicking\">Cause 1: Wicking</h2><p>IICRC wicking को drying के दौरान water-soluble material की upward/outward migration बताता है। Yarn base/backing के पास remaining soil moisture के साथ tips तक आकर फिर visible हो सकती है।</p>\n<h2 id=\"hi44-residue\">Cause 2: Residue और rapid resoiling</h2><p>Too much detergent/spotter remain करे तो area surrounding carpet से tackier हो सकती है और new soil attract कर सकती है। Returning dark area original stain नहीं, new resoiling भी हो सकती है।</p>\n<h2 id=\"hi44-deep\">Cause 3: Contamination visible pile से नीचे गई है</h2><p>कुछ spills face yarn से backing/padding तक penetrate करते हैं। Surface spotting visible area improve कर सकती है लेकिन deeper source remain रहता है। Moisture add होने पर soluble material ऊपर migrate कर सकता है।</p>\n<h2 id=\"hi44-overwet\">Cause 4: Overwetting या slow drying</h2><p>More moisture dissolved material को move करने का ज्यादा opportunity देती है। EPA rapid carpet drying पर जोर देता है। Method जितनी moisture require करे उतनी use करें और maximum practical recovery करें।</p>\n<h2 id=\"hi44-damage\">Cause 5: Mark soil नहीं, damage हो सकता है</h2><p>Colour loss, pile distortion, wear या chemical change stain जैसी दिख सकती है। Compatible cleaning पर soil transfer न हो और appearance change न हो तो stronger spot chemistry से पहले carpet condition inspect करें।</p>\n<h2 id=\"hi44-sequence\">Troubleshooting sequence</h2><ol>\n<li>Spot returned judge करने से पहले area fully dry होने दें.</li>\n<li>Dry carpet vacuum और inspect करें.</li>\n<li>Small controlled test में clean absorbent towel पर transfer check करें.</li>\n<li>Used spotter/detergent amount review करें.</li>\n<li>Original spill backing/padding तक गया था या नहीं consider करें.</li>\n<li>Recurring/large areas पर repeatedly saturate करने की बजाय compatible professional process use करें.</li>\n</ol>\n<h2 id=\"hi44-drying\">Drying और moisture control</h2><p>GSA extraction-cleaned carpet को occupancy से पहले dry होने की requirement रखता है और EPA rapid drying recommend करता है। Good extraction, ventilation और air movement wicking opportunity और moisture risk दोनों कम करते हैं।</p>\n<h2 id=\"hi44-takeaway\">Practical takeaway</h2><p>Spot return होने पर decide करें cause wicking है, residue-driven resoiling है, deeper contamination है या permanent appearance change। Diagnosis के बिना more spotter cycle worse कर सकता है।</p>\n<h2 id=\"hi44-references\">संदर्भ</h2><ol>\n<li id=\"hi44-ref-1\"><a href=\"https://iicrc.org/wp-content/uploads/2023/01/Tip-Sheet-Carpet-Topics.pdf\">IICRC — Wicking / Reappearing Stains</a>.</li>\n<li id=\"hi44-ref-2\"><a href=\"https://www.epa.gov/iaq-schools/controlling-pollutants-and-sources-indoor-air-quality-design-tools-schools\">U.S. EPA — IAQ Design Tools</a>.</li>\n<li id=\"hi44-ref-3\"><a href=\"https://www.gsa.gov/system/files?file=2024_National_Custodial_Specification_October_2024-1.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi44-ref-4\"><a href=\"https://iicrc.org/s100/\">IICRC — ANSI/IICRC S100</a>.</li>\n</ol>",
+  "seo_title": "Carpet Spots Reappear After Cleaning | Alle's ClinX",
+  "meta_description": "Wicking, residue-driven resoiling, deeper contamination, overwetting और permanent appearance change के कारण returning carpet spots समझें।",
+  "related_article_ids": [
+    "ACX-KB-0042",
+    "ACX-KB-0043",
+    "ACX-KB-0024"
+  ]
+}

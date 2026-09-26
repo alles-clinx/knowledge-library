@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0040",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Furniture Cleaner vs Furniture Polish",
+  "slug": "furniture-cleaner-vs-furniture-polish",
+  "subcategory": "Wood & Furniture",
+  "subcategory_slug": "wood-furniture",
+  "excerpt": "Furniture cleaner removes soil from a compatible finished surface; furniture polish or wax changes the surface condition by leaving a maintenance film or protective layer. They are not interchangeable.",
+  "content_html": "<p>Furniture cleaner and furniture polish perform different jobs. A cleaner is used to remove soil from a compatible finish. A polish or wax is a maintenance treatment that intentionally leaves material on the surface to change sheen, feel or protection. Using one when the other is needed can create build-up or leave soil behind.</p>\n<h2 id=\"what-a-cleaner-does\">What a furniture cleaner does</h2><p>Cleaning removes dust, hand oils, grime or other contamination from the finished surface. NPS furniture-care guidance recommends removing loose dust first, checking that the finish is sound and testing any cleaning method in a small inconspicuous area.</p>\n<h2 id=\"what-polish-or-wax-does\">What polish or wax does</h2><p>Polish or wax is not primarily a soil-removal step. NPS guidance describes wax as a protective layer that can level the visible surface, increase sheen, reduce abrasion from handling and slow water penetration. That means it deliberately changes what remains on the finish.</p>\n<h2 id=\"clean-before-you-polish\">Clean before you polish</h2><p>Applying polish over accumulated soil can trap or redistribute that contamination. If the maintenance system calls for polishing or waxing, first determine whether the finish needs cleaning and whether the existing treatment is compatible.</p>\n<h2 id=\"more-polish-is-not-better\">More polish is not better</h2><p>Repeated heavy application can create uneven sheen, sticky build-up and dust attraction. NPS recommends thin, controlled wax application rather than one heavy coat and notes that too much wax can become a maintenance problem.</p>\n<h2 id=\"not-all-finished-wood-should-be-polished\">Not all finished wood should be polished</h2><p>Different varnishes, lacquers, shellacs, oils, paints, laminates and factory finishes have different maintenance requirements. Some systems need only careful cleaning. Do not add a polish because the surface is wood; follow the finish or furniture manufacturer's maintenance instructions.</p>\n<h2 id=\"comparison\">Cleaner vs polish</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Furniture cleaner</th><th>Furniture polish / wax</th></tr></thead><tbody>\n<tr><td>Main purpose</td><td>Remove compatible soil</td><td>Leave a maintenance or protective layer</td></tr>\n<tr><td>What remains after use</td><td>Ideally minimal residue</td><td>Intentional film or wax layer</td></tr>\n<tr><td>When used</td><td>When soil requires removal</td><td>Only when the finish system calls for it</td></tr>\n<tr><td>Main risk</td><td>Finish incompatibility or excess moisture</td><td>Build-up, uneven sheen or incompatible solvent</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Use cleaner to remove soil and polish only as a deliberate finish-maintenance step. Identify the finish, test unfamiliar products and avoid using polish as a substitute for cleaning.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/subjects/museums/upload/07-01_508.pdf\">U.S. National Park Service — Cleaning Wood Furniture</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.nps.gov/articles/000/conserve-o-gram-07-2-waxing-furniture.htm\">U.S. National Park Service — Waxing Furniture and Wooden Objects</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.nps.gov/subjects/museums/upload/MHI_AppN_WoodObjects.pdf\">U.S. National Park Service — Curatorial Care of Wooden Objects</a>.</li>\n</ol>",
+  "seo_title": "Furniture Cleaner vs Furniture Polish | Alle's ClinX",
+  "meta_description": "Understand how furniture cleaner differs from furniture polish or wax, when each is appropriate, and why cleaning and finish maintenance should not be confused.",
+  "related_article_ids": [
+    "ACX-KB-0039",
+    "ACX-KB-0041",
+    "ACX-KB-0038"
+  ]
+}

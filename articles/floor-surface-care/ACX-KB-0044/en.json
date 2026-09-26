@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0044",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Carpet Spots Reappear After Cleaning",
+  "slug": "why-carpet-spots-reappear-after-cleaning",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "A carpet spot can reappear because remaining soil or soluble material migrates upward during drying, because sticky residue attracts new soil, or because contamination remains in the backing or substrate.",
+  "content_html": "<p>A carpet spot that returns after cleaning does not necessarily mean nothing was removed. The visible surface may look clean while moisture and dissolved material remain deeper in the pile or backing. As the carpet dries, that material can move back toward the surface.</p>\n<h2 id=\"wicking\">Cause 1: Wicking</h2><p>IICRC describes wicking as the upward or outward migration of water-soluble material during drying. Soil or contamination left near the base of the yarn or backing can travel with moisture and become visible again at the tips after the carpet dries.</p>\n<h2 id=\"residue-and-resoiling\">Cause 2: Residue and rapid resoiling</h2><p>If too much detergent or spotter remains, the area can become tackier than surrounding carpet and attract new soil. A returning dark area may therefore be new resoiling rather than the original stain moving upward.</p>\n<h2 id=\"deep-contamination\">Cause 3: Contamination extends below the visible pile</h2><p>Some spills penetrate through the face yarn into backing or padding. Surface spotting may improve the visible area without removing the deeper source. When moisture is added again, soluble material can migrate upward.</p>\n<h2 id=\"overwetting\">Cause 4: Overwetting or slow drying</h2><p>More moisture gives dissolved material more opportunity to move. EPA stresses rapid carpet drying because prolonged dampness also raises moisture-related indoor-environment risks. Use only the moisture required by the method and recover as much as possible.</p>\n<h2 id=\"the-mark-may-be-damage-not-soil\">Cause 5: The mark may be damage rather than soil</h2><p>Colour loss, pile distortion, wear or chemical change can resemble a stain. If repeated compatible cleaning transfers no soil and the appearance does not change, inspect the carpet condition before applying stronger spot chemistry.</p>\n<h2 id=\"a-troubleshooting-sequence\">Troubleshooting sequence</h2><ol>\n<li>Let the area dry completely before judging whether the spot has returned.</li>\n<li>Vacuum and inspect the dry carpet.</li>\n<li>Check whether the mark transfers to a clean absorbent towel during a small controlled test.</li>\n<li>Review the amount of spotter or detergent used.</li>\n<li>Consider whether the original spill penetrated into backing or padding.</li>\n<li>For recurring or large areas, use a carpet-compatible professional cleaning process rather than repeatedly saturating the spot.</li>\n</ol>\n<h2 id=\"drying-and-moisture-control\">Drying and moisture control</h2><p>GSA requires extraction-cleaned carpets to be dry before normal occupancy, and EPA recommends rapid drying after wet carpet cleaning. Adequate extraction, ventilation and air movement help reduce both wicking opportunity and moisture-related risk.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>When a spot reappears, decide whether it is wicking, residue-driven resoiling, deeper contamination or permanent appearance change. Repeatedly adding more spotter without that diagnosis can make the cycle worse.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://iicrc.org/wp-content/uploads/2023/01/Tip-Sheet-Carpet-Topics.pdf\">IICRC — Carpet Topics: Wicking / Reappearing Stains</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.epa.gov/iaq-schools/controlling-pollutants-and-sources-indoor-air-quality-design-tools-schools\">U.S. EPA — Indoor Air Quality Design Tools for Schools</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/system/files?file=2024_National_Custodial_Specification_October_2024-1.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-4\"><a href=\"https://iicrc.org/s100/\">IICRC — ANSI/IICRC S100 Standard overview</a>.</li>\n</ol>",
+  "seo_title": "Why Carpet Spots Reappear After Cleaning | Alle's ClinX",
+  "meta_description": "Learn why carpet spots can return after cleaning through wicking, residue-driven resoiling, deeper contamination, overwetting or permanent appearance change.",
+  "related_article_ids": [
+    "ACX-KB-0042",
+    "ACX-KB-0043",
+    "ACX-KB-0024"
+  ]
+}

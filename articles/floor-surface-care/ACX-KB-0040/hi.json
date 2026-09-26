@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0040",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0040",
+  "title": "Furniture cleaner vs furniture polish",
+  "slug": "furniture-cleaner-vs-furniture-polish",
+  "subcategory": "Wood & Furniture",
+  "subcategory_slug": "wood-furniture",
+  "excerpt": "Furniture cleaner compatible finished surface से soil remove करता है; furniture polish या wax surface पर maintenance/protective layer छोड़ता है। दोनों interchangeable नहीं हैं।",
+  "content_html": "<p>Furniture cleaner और furniture polish अलग jobs करते हैं। Cleaner compatible finish से soil remove करता है। Polish या wax maintenance treatment है जो sheen, feel या protection बदलने के लिए intentionally surface पर material छोड़ता है। Wrong role में use करने से build-up या trapped soil हो सकती है।</p>\n<h2 id=\"hi40-cleaner\">Furniture cleaner क्या करता है</h2><p>Cleaning dust, hand oils, grime और other contamination remove करती है। NPS पहले loose dust remove करने, finish sound होने की पुष्टि करने और unfamiliar method को inconspicuous area पर test करने की सलाह देता है।</p>\n<h2 id=\"hi40-polish\">Polish या wax क्या करती है</h2><p>Polish/wax primarily soil-removal step नहीं है। NPS wax को protective layer बताता है जो surface को level-looking बना सकती है, sheen बढ़ा सकती है और handling abrasion/water penetration कम कर सकती है।</p>\n<h2 id=\"hi40-clean-first\">Polish से पहले clean करें</h2><p>Accumulated soil के ऊपर polish लगाने से contamination trap या redistribute हो सकती है। Maintenance system polishing/waxing मांगता हो तो पहले check करें finish cleaning चाहती है या नहीं और existing treatment compatible है या नहीं।</p>\n<h2 id=\"hi40-more\">More polish बेहतर नहीं है</h2><p>Repeated heavy application uneven sheen, sticky build-up और dust attraction बना सकती है। NPS thin controlled wax coats recommend करता है।</p>\n<h2 id=\"hi40-not-all\">हर finished wood को polish नहीं चाहिए</h2><p>Varnish, lacquer, shellac, oil, paint, laminate और factory finishes की maintenance अलग होती है। कुछ systems को केवल careful cleaning चाहिए। केवल wood होने के कारण polish add न करें।</p>\n<h2 id=\"hi40-comparison\">Cleaner vs polish</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Furniture cleaner</th><th>Furniture polish / wax</th></tr></thead><tbody>\n<tr><td>Main purpose</td><td>Compatible soil remove करना</td><td>Maintenance/protective layer छोड़ना</td></tr>\n<tr><td>Use के बाद</td><td>Ideally minimal residue</td><td>Intentional film/wax layer</td></tr>\n<tr><td>कब use करें</td><td>जब soil removal चाहिए</td><td>जब finish system explicitly require करे</td></tr>\n<tr><td>Main risk</td><td>Finish incompatibility या excess moisture</td><td>Build-up, uneven sheen या incompatible solvent</td></tr>\n</tbody></table>\n<h2 id=\"hi40-takeaway\">Practical takeaway</h2><p>Cleaner soil removal के लिए use करें और polish को deliberate finish-maintenance step रखें। Finish identify करें, unfamiliar product test करें और polish को cleaning substitute न बनाएं।</p>\n<h2 id=\"hi40-references\">संदर्भ</h2><ol>\n<li id=\"hi40-ref-1\"><a href=\"https://www.nps.gov/subjects/museums/upload/07-01_508.pdf\">U.S. National Park Service — Cleaning Wood Furniture</a>.</li>\n<li id=\"hi40-ref-2\"><a href=\"https://www.nps.gov/articles/000/conserve-o-gram-07-2-waxing-furniture.htm\">U.S. National Park Service — Waxing Furniture</a>.</li>\n<li id=\"hi40-ref-3\"><a href=\"https://www.nps.gov/subjects/museums/upload/MHI_AppN_WoodObjects.pdf\">U.S. National Park Service — Curatorial Care of Wooden Objects</a>.</li>\n</ol>",
+  "seo_title": "Furniture Cleaner vs Furniture Polish | Alle's ClinX",
+  "meta_description": "Furniture cleaner और polish/wax का purpose, residue, use और main risks compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0039",
+    "ACX-KB-0041",
+    "ACX-KB-0038"
+  ]
+}

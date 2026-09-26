@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0043",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Carpet Shampoo vs Extraction Cleaning",
+  "slug": "carpet-shampoo-vs-extraction-cleaning",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "Carpet shampoo suspends soil with foaming chemistry and agitation; extraction cleaning uses liquid and suction to flush and recover suspended soil and moisture. Both require compatibility and complete drying.",
+  "content_html": "<p>Carpet shampoo and extraction cleaning are both wet restorative methods, but they remove soil differently. Shampoo relies heavily on detergent foam and agitation. Extraction applies liquid and then uses suction to recover suspended soil and moisture from the carpet.</p>\n<h2 id=\"how-shampoo-works\">How carpet shampoo works</h2><p>Rotary shampoo systems work cleaning chemistry into the pile with mechanical agitation. Industry guidance describes shampoo as a restorative method in which suspended soil and cleaning material are removed by wet vacuuming or subsequent removal steps, depending on the system.</p>\n<h2 id=\"how-extraction-works\">How extraction works</h2><p>Hot-water extraction applies water or cleaning solution to the carpet and immediately recovers liquid with vacuum suction. The process acts as a rinse-and-recovery system for suspended soil. EPA identifies periodic wet extraction as an important carpet-maintenance method in schools.</p>\n<h2 id=\"residue-control\">Residue control differs</h2><p>Shampoo methods depend on correct detergent use and effective recovery because remaining cleaning material can contribute to film or resoiling. Extraction can also leave residue if the chemistry is overdosed or not adequately rinsed and recovered.</p>\n<h2 id=\"mechanical-action\">Mechanical action differs</h2><p>Shampoo generally uses more direct agitation to distribute foam and loosen soil. Extraction systems may use a wand, self-contained machine or powered agitation, but the defining step is recovery of liquid and suspended soil by extraction.</p>\n<h2 id=\"drying-is-critical-for-both\">Drying is critical for both</h2><p>EPA and GSA both emphasise drying after wet carpet cleaning. GSA requires extraction-cleaned public-area carpet to be dry before customers occupy the building, and EPA warns that persistent carpet moisture can support mold growth.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Shampoo</th><th>Extraction</th></tr></thead><tbody>\n<tr><td>Main mechanism</td><td>Foaming chemistry + agitation</td><td>Liquid application + vacuum recovery</td></tr>\n<tr><td>Soil removal</td><td>Suspension followed by recovery/removal</td><td>Suspension plus physical liquid extraction</td></tr>\n<tr><td>Residue concern</td><td>Detergent left after incomplete removal</td><td>Chemistry or soil left after inadequate rinse/recovery</td></tr>\n<tr><td>Drying need</td><td>Must dry completely</td><td>Must dry completely</td></tr>\n</tbody></table>\n<h2 id=\"which-method-is-right\">Which method is right?</h2><p>Choose from the carpet manufacturer's maintenance requirements, carpet construction, soil load, equipment capability and drying window. Neither label alone guarantees a good result; correct chemistry, agitation, recovery and drying determine performance.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Shampoo is primarily a foam-and-agitation system; extraction is primarily a rinse-and-recovery system. In both cases, control detergent, recover as much soil and moisture as the system allows and return the carpet to use only after it is dry.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://carpet-rug.org/wp-content/uploads/2018/08/The-Science-of-Carpet-Cleaning.pdf\">Carpet and Rug Institute — The Science of Carpet Cleaning</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.epa.gov/iaq-schools/controlling-pollutants-and-sources-indoor-air-quality-design-tools-schools\">U.S. EPA — Indoor Air Quality Design Tools for Schools</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/system/files?file=2024_National_Custodial_Specification_October_2024-1.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-4\"><a href=\"https://iicrc.org/s100/\">IICRC — ANSI/IICRC S100 Standard overview</a>.</li>\n</ol>",
+  "seo_title": "Carpet Shampoo vs Extraction Cleaning | Alle's ClinX",
+  "meta_description": "Compare carpet shampoo and extraction cleaning by cleaning mechanism, agitation, soil recovery, residue risk and drying requirements.",
+  "related_article_ids": [
+    "ACX-KB-0042",
+    "ACX-KB-0044",
+    "ACX-KB-0023"
+  ]
+}

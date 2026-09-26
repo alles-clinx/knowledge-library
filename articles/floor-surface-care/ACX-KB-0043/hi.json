@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0043",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0043",
+  "title": "Carpet shampoo vs extraction cleaning",
+  "slug": "carpet-shampoo-vs-extraction-cleaning",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "Carpet shampoo foaming chemistry और agitation से soil suspend करता है; extraction liquid और suction से suspended soil/moisture flush और recover करती है।",
+  "content_html": "<p>Carpet shampoo और extraction cleaning दोनों wet restorative methods हैं, लेकिन soil अलग तरीके से remove करते हैं। Shampoo detergent foam और agitation पर ज्यादा depend करता है। Extraction liquid apply करके suction से suspended soil/moisture recover करती है।</p>\n<h2 id=\"hi43-shampoo\">Shampoo कैसे काम करता है</h2><p>Rotary shampoo cleaning chemistry को mechanical agitation से pile में work करता है। Industry guidance shampoo को restorative method बताती है जिसमें suspended soil/cleaning material wet vacuuming या system-specific removal से निकाला जाता है।</p>\n<h2 id=\"hi43-extraction\">Extraction कैसे काम करती है</h2><p>Hot-water extraction water/solution apply करके vacuum suction से liquid recover करती है। यह suspended soil के लिए rinse-and-recovery process है। EPA periodic wet extraction को carpet maintenance का important method बताता है।</p>\n<h2 id=\"hi43-residue\">Residue control अलग है</h2><p>Shampoo में incorrect detergent use या incomplete recovery residue/resoiling contribute कर सकती है। Extraction में भी overdosed chemistry या inadequate rinse/recovery residue छोड़ सकती है।</p>\n<h2 id=\"hi43-action\">Mechanical action अलग हो सकती है</h2><p>Shampoo generally foam distribute/soil loosen करने के लिए direct agitation use करता है। Extraction system wand, self-contained machine या powered agitation use कर सकता है, लेकिन defining step liquid/soil recovery है।</p>\n<h2 id=\"hi43-dry\">दोनों में drying critical है</h2><p>EPA और GSA wet carpet cleaning के बाद drying पर जोर देते हैं। GSA public-area extraction-cleaned carpet को occupancy से पहले dry होने की requirement रखता है और EPA persistent moisture को mold risk से जोड़ता है।</p>\n<h2 id=\"hi43-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Shampoo</th><th>Extraction</th></tr></thead><tbody>\n<tr><td>Main mechanism</td><td>Foam chemistry + agitation</td><td>Liquid application + vacuum recovery</td></tr>\n<tr><td>Soil removal</td><td>Suspension + subsequent recovery</td><td>Suspension + physical extraction</td></tr>\n<tr><td>Residue concern</td><td>Incomplete detergent removal</td><td>Inadequate rinse/recovery</td></tr>\n<tr><td>Drying</td><td>Fully dry होना चाहिए</td><td>Fully dry होना चाहिए</td></tr>\n</tbody></table>\n<h2 id=\"hi43-right\">कौन-सा method सही है?</h2><p>Carpet manufacturer requirements, construction, soil load, equipment capability और drying window के आधार पर choose करें। Label alone good result guarantee नहीं करता।</p>\n<h2 id=\"hi43-takeaway\">Practical takeaway</h2><p>Shampoo mainly foam-and-agitation system है; extraction mainly rinse-and-recovery system है। दोनों में chemistry control करें, soil/moisture recover करें और carpet dry होने के बाद ही use में लौटाएं।</p>\n<h2 id=\"hi43-references\">संदर्भ</h2><ol>\n<li id=\"hi43-ref-1\"><a href=\"https://carpet-rug.org/wp-content/uploads/2018/08/The-Science-of-Carpet-Cleaning.pdf\">Carpet and Rug Institute — Carpet Cleaning</a>.</li>\n<li id=\"hi43-ref-2\"><a href=\"https://www.epa.gov/iaq-schools/controlling-pollutants-and-sources-indoor-air-quality-design-tools-schools\">U.S. EPA — IAQ Design Tools</a>.</li>\n<li id=\"hi43-ref-3\"><a href=\"https://www.gsa.gov/system/files?file=2024_National_Custodial_Specification_October_2024-1.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi43-ref-4\"><a href=\"https://iicrc.org/s100/\">IICRC — ANSI/IICRC S100</a>.</li>\n</ol>",
+  "seo_title": "Carpet Shampoo vs Extraction Cleaning | Alle's ClinX",
+  "meta_description": "Mechanism, agitation, soil recovery, residue risk और drying requirements के आधार पर carpet shampoo और extraction compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0042",
+    "ACX-KB-0044",
+    "ACX-KB-0023"
+  ]
+}
