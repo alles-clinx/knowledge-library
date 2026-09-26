@@ -302,7 +302,7 @@
         "ACX-KB-0098",
         "ACX-KB-0099"
       ],
-      "status": "in_progress"
+      "status": "completed"
     },
     {
       "batch_number": 21,
@@ -313,7 +313,7 @@
       "article_ids": [
         "ACX-KB-0100"
       ],
-      "status": "queued"
+      "status": "in_progress"
     },
     {
       "batch_number": 22,
