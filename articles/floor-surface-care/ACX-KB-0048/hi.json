@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0048",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0048",
+  "title": "New cleaner use करने से पहले spot testing क्यों matter करती है",
+  "slug": "why-spot-testing-matters-before-using-a-new-cleaner",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "Spot test unfamiliar cleaner/method को broad use से पहले small unobtrusive area पर check करता है ताकि colour, gloss, texture, coating या residue problems early detect हों।",
+  "content_html": "<p>Spot test new cleaner/process का small, less-visible area पर controlled trial है। यह manufacturer instructions replace नहीं करता, लेकिन large area affect होने से पहले compatibility problem reveal कर सकता है।</p>\n<h2 id=\"hi48-written\">Written compatibility हमेशा enough क्यों नहीं</h2><p>Real surfaces age, wear, coatings receive करती हैं और repairs होती हैं। NPS unfamiliar cleaning/disinfecting method को small unobtrusive area पर test करने और damage दिखे तो discontinue करने को कहता है।</p>\n<h2 id=\"hi48-control\">Good test क्या control करता है</h2><p>Same product, dilution, dwell, moisture, temperature, tool और mechanical action use करें जो actual job में intended है। Weak test stronger production process की safety prove नहीं करता।</p>\n<h2 id=\"hi48-dry\">Test को dry होने दें</h2><p>कुछ problems evaporation/drying के बाद दिखती हैं। Residue, haze, whitening, colour shift, rings, tackiness और gloss loss later appear हो सकते हैं। Normal dry condition में compare करें।</p>\n<h2 id=\"hi48-look\">क्या देखें</h2><ul>\n<li>Colour transfer या fading.</li>\n<li>Gloss increase/loss.</li>\n<li>Softening, tackiness या coating lift.</li>\n<li>Etching, corrosion या whitening.</li>\n<li>Texture change, scratching या burnishing.</li>\n<li>Rings, residue, streaks या water marks.</li>\n<li>Grout, joints, adhesives या adjacent material damage.</li>\n</ul>\n<h2 id=\"hi48-important\">Spot test कब especially important है</h2><p>Surface identity uncertain हो, finish old/damaged हो, chemistry new हो, concentration change हो, stronger pad/machine introduce हो या reliable compatibility history न हो—testing ज्यादा important है।</p>\n<h2 id=\"hi48-limit\">Passed test क्या prove नहीं करता</h2><p>Small successful test unlimited dwell, repeated use या much larger product amount की safety prove नहीं करता। Same tested process और instructions के अंदर रहें।</p>\n<h2 id=\"hi48-takeaway\">Practical takeaway</h2><p>Spot testing uncertainty कम करती है। Actual process test करें, area dry होने दें, untreated surface से compare करें और first damage sign पर stop करें।</p>\n<h2 id=\"hi48-references\">संदर्भ</h2><ol>\n<li id=\"hi48-ref-1\"><a href=\"https://www.nps.gov/subjects/hfc/covid-19-exhibitry-cleaning-guidance.htm\">U.S. NPS — Exhibitry Cleaning Guidance</a>.</li>\n<li id=\"hi48-ref-2\"><a href=\"https://home.nps.gov/articles/000/protecting-historic-structures-from-oil-contamination.htm\">U.S. NPS — Cleaning Test Patches</a>.</li>\n<li id=\"hi48-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Why Spot Testing Matters | Alle's ClinX",
+  "meta_description": "Dilution, dwell, moisture और action control करके new cleaner spot-test करना और dry result पर damage signs check करना सीखें।",
+  "related_article_ids": [
+    "ACX-KB-0046",
+    "ACX-KB-0047",
+    "ACX-KB-0049"
+  ]
+}

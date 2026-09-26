@@ -1,0 +1,28 @@
+{
+  "batch_id": "batch-010",
+  "category": "Floor & Surface Care",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0045",
+    "ACX-KB-0046",
+    "ACX-KB-0047",
+    "ACX-KB-0048",
+    "ACX-KB-0049"
+  ],
+  "stage": "review",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "review"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "review",
+    "article_count": 5
+  },
+  "preview": {
+    "status": "pending-render",
+    "pages": 10,
+    "design": "locked Gold Standard article shell"
+  },
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest."
+}

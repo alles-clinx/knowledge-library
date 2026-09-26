@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0046",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0046",
+  "title": "Cleaning में surface compatibility क्या है?",
+  "slug": "what-is-surface-compatibility-in-cleaning",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "Surface compatibility का मतलब है cleaning process अपना purpose achieve करे बिना material, finish, coating, sealant, joint या adjacent component में unacceptable change किए।",
+  "content_html": "<p>Surface compatibility cleaning product और method की वह ability है जिसमें required cleaning task achieve हो और surface system में unacceptable damage/change न हो। यह केवल chemical name से तय नहीं होती; concentration, time, temperature, moisture और mechanical action भी matter करते हैं।</p>\n<h2 id=\"hi46-system\">Surface अक्सर system होती है</h2><p>Visible material में coating, sealer, polish, adhesive, grout, joint, printed layer या protective film हो सकती है। Base material safe दिखे फिर भी cleaner इनमें से किसी component को damage कर सकता है।</p>\n<h2 id=\"hi46-chemistry\">Chemistry material से match होनी चाहिए</h2><p>CDC ऐसे cleaning products चुनने को कहता है जो surfaces/equipment damage न करें और manufacturer compatibility instructions follow हों।</p>\n<h2 id=\"hi46-concentration\">Concentration और time matter करते हैं</h2><p>Specified dilution पर compatible product over-concentrated form में incompatible हो सकती है। Longer dwell, repeated exposure या required rinse miss होने से stress बढ़ सकता है।</p>\n<h2 id=\"hi46-action\">Mechanical action भी compatibility का हिस्सा है</h2><p>Same chemical microfiber, soft brush, abrasive pad या powered equipment के साथ अलग result दे सकती है। Scratching, burnishing और finish loss भी compatibility failures हैं।</p>\n<h2 id=\"hi46-water\">Water और temperature भी matter करते हैं</h2><p>Porous materials, wood, textiles और कुछ joints excess moisture से damage हो सकते हैं। Heat coatings, adhesives या fibers change कर सकती है।</p>\n<h2 id=\"hi46-establish\">Compatibility कैसे establish करें</h2><ol>\n<li>Material, finish और adjacent components identify करें.</li>\n<li>Surface manufacturer maintenance instructions पढ़ें.</li>\n<li>Cleaner label/technical data से dilution और restrictions check करें.</li>\n<li>Relevant SDS में pH, incompatible materials और handling information देखें.</li>\n<li>Facility-approved compatibility list/matrix use करें.</li>\n<li>Unfamiliar combination को broad use से पहले spot-test करें.</li>\n</ol>\n<h2 id=\"hi46-takeaway\">Practical takeaway</h2><p>Cleaner तभी compatible है जब complete process—chemistry, dilution, time, moisture, temperature और mechanical action—cleaning objective achieve करे बिना unacceptable surface change के।</p>\n<h2 id=\"hi46-references\">संदर्भ</h2><ol>\n<li id=\"hi46-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi46-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi46-ref-3\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Safety Data Sheets</a>.</li>\n</ol>",
+  "seo_title": "Surface Compatibility in Cleaning | Alle's ClinX",
+  "meta_description": "Material, finish, chemistry, dilution, dwell time, moisture, temperature और mechanical action के आधार पर surface compatibility समझें।",
+  "related_article_ids": [
+    "ACX-KB-0047",
+    "ACX-KB-0048",
+    "ACX-KB-0049"
+  ]
+}

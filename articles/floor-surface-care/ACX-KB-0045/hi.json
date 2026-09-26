@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0045",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0045",
+  "title": "Upholstery material cleaning compatibility को कैसे affect करता है",
+  "slug": "how-upholstery-material-affects-cleaning-compatibility",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "Upholstery cleaning compatibility केवल visible fabric पर नहीं, बल्कि fiber, dye, finish, backing, filling, adhesives और construction पर depend करती है।",
+  "content_html": "<p>Upholstery layered system है। Visible textile cotton, wool, polyester, acrylic, rayon, leather-like material या blend हो सकती है, लेकिन cleaning result dyes, protective finishes, backing, foam, batting, adhesives और furniture frame से भी affect हो सकता है।</p>\n<h2 id=\"hi45-fiber\">Fiber type reaction बदलती है</h2><p>Smithsonian textile guidance बताती है natural fibers water को कई synthetics से अलग absorb करती हैं। Water natural fibers को swell कर सकता है, जबकि कुछ synthetics water resist करती हैं लेकिन oily soil differently hold कर सकती हैं।</p>\n<h2 id=\"hi45-dye\">Dyes और finishes fiber से कम stable हो सकते हैं</h2><p>Fiber method tolerate कर सकती है जबकि dye या surface finish नहीं। Wet cleaning, solvent cleaning या strong alkalinity colour transfer, sheen loss या finish change कर सकती है। Manufacturer care instructions priority रखें।</p>\n<h2 id=\"hi45-construction\">Construction matter करती है</h2><p>Upholstery में foam, padding, backing cloth, trim, metal fasteners, adhesives और wood components हो सकते हैं। Excess liquid इन layers में migrate करके drying slow कर सकती है या rings, staining, corrosion और adhesive problems बना सकती है।</p>\n<h2 id=\"hi45-condition\">Age और condition compatibility बदलते हैं</h2><p>Older या weakened textile newer fabric जितना mechanical action tolerate नहीं कर सकती। Smithsonian guidance बताती है कि old fabrics tearing, stretching और rubbing resistance lose कर सकती हैं।</p>\n<h2 id=\"hi45-test\">Method बदलने से पहले spot-test करें</h2><p>Unfamiliar cleaner/process को small inconspicuous area पर intended dilution, moisture और action के साथ test करें। Fully dry होने के बाद colour transfer, rings, texture change, shrinkage, stiffness, tackiness या sheen change check करें।</p>\n<h2 id=\"hi45-check\">Practical compatibility check</h2><ol>\n<li>Upholstery material और manufacturer care instructions identify करें.</li>\n<li>Dyes, finishes, backing और nearby trim/frame materials check करें.</li>\n<li>Chemistry चुनने से पहले soil/stain identify करें.</li>\n<li>Least aggressive compatible method use करें.</li>\n<li>Moisture control करें और practical maximum recovery करें.</li>\n<li>पहले test करें और fully dry result judge करें.</li>\n</ol>\n<h2 id=\"hi45-takeaway\">Practical takeaway</h2><p>Upholstery compatibility पूरे construction से तय होती है, सिर्फ top fabric से नहीं। Fiber, dye, finish, backing, filling, adhesives और condition सब matter करते हैं।</p>\n<h2 id=\"hi45-references\">संदर्भ</h2><ol>\n<li id=\"hi45-ref-1\"><a href=\"https://mci.si.edu/stain-removal\">Smithsonian Museum Conservation Institute — Stain Removal</a>.</li>\n<li id=\"hi45-ref-2\"><a href=\"https://mci.si.edu/mold-and-mildew-textiles\">Smithsonian Museum Conservation Institute — Mold and Mildew on Textiles</a>.</li>\n<li id=\"hi45-ref-3\"><a href=\"https://www.nps.gov/subjects/museums/upload/07-04_508.pdf\">U.S. National Park Service — Upholstered Furniture</a>.</li>\n</ol>",
+  "seo_title": "Upholstery Cleaning Compatibility | Alle's ClinX",
+  "meta_description": "Fiber, dye, finish, backing, filling, adhesives और condition upholstery cleaning compatibility को कैसे affect करते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0042",
+    "ACX-KB-0043",
+    "ACX-KB-0046"
+  ]
+}

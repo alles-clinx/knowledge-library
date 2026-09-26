@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0047",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How pH Can Affect Different Surface Materials",
+  "slug": "how-ph-can-affect-different-surface-materials",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "pH describes how acidic or alkaline a solution is, but surface response depends on the actual material, finish, cleaner formulation, concentration, exposure time and mechanical action.",
+  "content_html": "<p>pH is one useful clue when evaluating a cleaner, but it is not a complete compatibility test. The pH scale runs from 0 to 14: values below 7 are acidic, 7 is neutral and values above 7 are alkaline. Because the scale is logarithmic, a one-unit change represents a tenfold change in hydrogen-ion activity.</p>\n<h2 id=\"near-neutral-cleaners\">Near-neutral cleaners</h2><p>CDC generally recommends neutral detergents in the approximate pH 6–8 range for many routine environmental-cleaning tasks because they provide useful cleaning with broad material tolerance. Specialized soils and surfaces can still require other chemistry.</p>\n<h2 id=\"acid-sensitive-stone\">Acid-sensitive stone</h2><p>NPS guidance identifies limestone, marble and other calcareous materials as acid-sensitive. Acidic products can react with carbonate minerals and cause etching or permanent surface change. This is why an acid can remove mineral soil yet still be wrong for the substrate underneath it.</p>\n<h2 id=\"metals-can-have-different-limits\">Metals can have different limits</h2><p>Some metal-cleaning processes use acidic chemistry for scale or corrosion products, while others use alkaline chemistry for oils. EPA technical guidance notes that aluminum and magnesium can be etched by strongly alkaline conditions. Different metals therefore have different chemical limits.</p>\n<h2 id=\"coatings-finishes-and-grout-change-the-answer\">Coatings, finishes and joints change the answer</h2><p>A base material may tolerate a pH range that its coating, polish, grout, adhesive or sealer does not. Always evaluate the finished surface system, not just the substrate name.</p>\n<h2 id=\"ph-does-not-tell-the-whole-story\">pH does not tell the whole story</h2><p>Two products with similar pH can behave differently because of solvents, oxidizers, surfactants, chelating agents and other ingredients. Concentration, dwell time, temperature and mechanical action can also change the outcome.</p>\n<h2 id=\"a-practical-ph-check\">A practical pH check</h2><ol>\n<li>Identify the surface material and finish.</li>\n<li>Check the cleaner's specified use dilution, not only concentrate pH.</li>\n<li>Review manufacturer compatibility information.</li>\n<li>Use the least aggressive chemistry suitable for the soil.</li>\n<li>Spot-test unfamiliar combinations.</li>\n<li>Stop if the test produces colour, gloss, texture, corrosion or coating change.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>pH helps describe chemistry; it does not by itself decide compatibility. Use pH together with material identity, formulation, concentration, exposure time and manufacturer instructions.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.epa.gov/goldkingmine/what-ph\">U.S. EPA — What Is pH?</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.nps.gov/saan/learn/upload/FinalBestPracticesInStoneBuildingPreservationManagement-2.pdf\">U.S. National Park Service — Best Practices in Stone Building Preservation Management</a>.</li>\n<li id=\"ref-4\"><a href=\"https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=30004N9I.TXT\">U.S. EPA — Guide to Cleaner Technologies</a>.</li>\n</ol>",
+  "seo_title": "How pH Affects Surface Materials | Alle's ClinX Knowledge",
+  "meta_description": "Learn how acidic, neutral and alkaline cleaning chemistry can affect stone, metals, coatings and finishes—and why pH alone does not determine compatibility.",
+  "related_article_ids": [
+    "ACX-KB-0046",
+    "ACX-KB-0048",
+    "ACX-KB-0031"
+  ]
+}

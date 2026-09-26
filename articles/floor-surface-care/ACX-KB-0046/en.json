@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0046",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Surface Compatibility in Cleaning?",
+  "slug": "what-is-surface-compatibility-in-cleaning",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "Surface compatibility means a cleaning process can achieve its purpose without unacceptable change to the material, finish, coating, sealant, joint or adjacent components.",
+  "content_html": "<p>Surface compatibility is the ability of a cleaning product and method to perform the required task without causing unacceptable damage or change to the surface system. It is not determined by chemical name alone; concentration, time, temperature, moisture and mechanical action also matter.</p>\n<h2 id=\"a-surface-is-often-a-system\">A surface is often a system</h2><p>The visible material may include a coating, sealer, polish, adhesive, grout, joint, printed layer or protective film. A cleaner that does not visibly affect the base material may still damage one of these other components.</p>\n<h2 id=\"chemistry-must-match-the-material\">Chemistry must match the material</h2><p>CDC recommends choosing environmental cleaning products that do not damage the surfaces and equipment being cleaned and following manufacturer compatibility instructions. Its compatibility guidance also shows that some disinfectant families can be corrosive or unsuitable for particular materials.</p>\n<h2 id=\"concentration-and-time-matter\">Concentration and time matter</h2><p>A product used at its specified dilution may be compatible while an over-concentrated version is not. Longer dwell, repeated exposure or failure to rinse where required can also increase material stress.</p>\n<h2 id=\"mechanical-action-is-part-of-compatibility\">Mechanical action is part of compatibility</h2><p>The same chemical can produce different results when applied with microfiber, a soft brush, an abrasive pad or powered equipment. Scratching, burnishing and finish loss are mechanical compatibility failures even when the cleaner itself is chemically acceptable.</p>\n<h2 id=\"water-and-temperature-also-matter\">Water and temperature also matter</h2><p>Porous materials, wood, textiles and some joints can be damaged by excessive moisture. Heat can also change coatings, adhesives or fibers. Compatibility therefore includes the entire process, not only the pH or active ingredient.</p>\n<h2 id=\"how-to-establish-compatibility\">How to establish compatibility</h2><ol>\n<li>Identify the material, finish and adjacent components.</li>\n<li>Read the surface manufacturer's maintenance instructions.</li>\n<li>Read the cleaner label and technical information for use dilution and restrictions.</li>\n<li>Review the SDS for pH, incompatible materials and handling information where relevant.</li>\n<li>Use an approved compatibility list or matrix if the facility maintains one.</li>\n<li>Spot-test unfamiliar combinations before broad use.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A cleaner is compatible only when the complete process—chemistry, dilution, time, moisture, temperature and mechanical action—can achieve the cleaning objective without unacceptable surface change.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Safety Data Sheets, Appendix D</a>.</li>\n</ol>",
+  "seo_title": "What Is Surface Compatibility in Cleaning? | Alle's ClinX",
+  "meta_description": "Understand surface compatibility as a combination of material, finish, chemistry, dilution, dwell time, moisture, temperature and mechanical action.",
+  "related_article_ids": [
+    "ACX-KB-0047",
+    "ACX-KB-0048",
+    "ACX-KB-0049"
+  ]
+}

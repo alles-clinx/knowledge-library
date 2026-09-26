@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0047",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0047",
+  "title": "pH different surface materials को कैसे affect कर सकता है",
+  "slug": "how-ph-can-affect-different-surface-materials",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "pH solution की acidity/alkalinity बताता है, लेकिन surface response material, finish, formulation, concentration, exposure time और mechanical action पर depend करती है।",
+  "content_html": "<p>pH cleaner evaluate करने में useful clue है, लेकिन complete compatibility test नहीं। pH scale 0–14 है: 7 से नीचे acidic, 7 neutral और 7 से ऊपर alkaline। Scale logarithmic है, इसलिए one-unit change tenfold change represent करती है।</p>\n<h2 id=\"hi47-neutral\">Near-neutral cleaners</h2><p>CDC many routine environmental-cleaning tasks के लिए approximately pH 6–8 neutral detergents generally recommend करता है क्योंकि broad material tolerance useful होती है। Specialized soil/surface अलग chemistry मांग सकते हैं।</p>\n<h2 id=\"hi47-stone\">Acid-sensitive stone</h2><p>NPS limestone, marble और other calcareous materials को acid-sensitive बताता है। Acidic products carbonate minerals से react करके etching/permanent change कर सकते हैं।</p>\n<h2 id=\"hi47-metals\">Metals की limits अलग हो सकती हैं</h2><p>कुछ metal-cleaning processes scale/corrosion के लिए acid और oils के लिए alkaline chemistry use करते हैं। EPA technical guidance बताती है कि strongly alkaline conditions aluminum और magnesium etch कर सकती हैं।</p>\n<h2 id=\"hi47-coatings\">Coatings, finishes और joints answer बदलते हैं</h2><p>Base material एक pH range tolerate कर सकती है जबकि coating, polish, grout, adhesive या sealer नहीं। Finished system evaluate करें।</p>\n<h2 id=\"hi47-not-all\">pH पूरी story नहीं बताता</h2><p>Similar pH वाले products solvents, oxidizers, surfactants, chelators और other ingredients के कारण differently behave कर सकते हैं। Concentration, dwell, temperature और mechanical action भी result change करते हैं।</p>\n<h2 id=\"hi47-check\">Practical pH check</h2><ol>\n<li>Surface material और finish identify करें.</li>\n<li>Concentrate pH की बजाय use-dilution check करें.</li>\n<li>Manufacturer compatibility information review करें.</li>\n<li>Soil के लिए least aggressive suitable chemistry use करें.</li>\n<li>Unfamiliar combination spot-test करें.</li>\n<li>Colour, gloss, texture, corrosion या coating change हो तो stop करें.</li>\n</ol>\n<h2 id=\"hi47-takeaway\">Practical takeaway</h2><p>pH chemistry describe करता है; compatibility अकेले decide नहीं करता। Material, formulation, concentration, exposure और instructions के साथ use करें।</p>\n<h2 id=\"hi47-references\">संदर्भ</h2><ol>\n<li id=\"hi47-ref-1\"><a href=\"https://www.epa.gov/goldkingmine/what-ph\">U.S. EPA — What Is pH?</a>.</li>\n<li id=\"hi47-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi47-ref-3\"><a href=\"https://www.nps.gov/saan/learn/upload/FinalBestPracticesInStoneBuildingPreservationManagement-2.pdf\">U.S. NPS — Stone Preservation Management</a>.</li>\n<li id=\"hi47-ref-4\"><a href=\"https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=30004N9I.TXT\">U.S. EPA — Guide to Cleaner Technologies</a>.</li>\n</ol>",
+  "seo_title": "pH and Surface Materials | Alle's ClinX",
+  "meta_description": "Acidic, neutral और alkaline chemistry stone, metals, coatings और finishes को कैसे affect करती है और pH alone क्यों पर्याप्त नहीं है।",
+  "related_article_ids": [
+    "ACX-KB-0046",
+    "ACX-KB-0048",
+    "ACX-KB-0031"
+  ]
+}

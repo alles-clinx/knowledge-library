@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0049",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0049",
+  "title": "Surface-chemistry compatibility matrix कैसे बनाएं",
+  "slug": "surface-chemistry-compatibility-matrix",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "Compatibility matrix manufacturer instructions, product data, SDS information और validated spot tests को controlled reference में बदलती है जो बताती है क्या कहाँ और किन conditions में use हो सकता है।",
+  "content_html": "<p>Compatibility matrix controlled reference है जो facility surfaces को approved cleaning products/methods से connect करती है। Goal chemistry selection में guesswork कम करना और exact approved conditions preserve करना है।</p>\n<h2 id=\"hi49-systems\">Generic names नहीं, surface systems से शुरू करें</h2><p>“Metal” या “stone” जैसी single row न बनाएं। Stainless steel, aluminum, coated steel, marble, granite, resilient floor, glass, finished wood, upholstery आदि अलग रखें। Relevant finish/coating भी record करें।</p>\n<h2 id=\"hi49-product\">Product identity capture करें</h2><p>Exact product, manufacturer और product version/technical-data date record करें। Generic “disinfectant” या “cleaner” पर्याप्त नहीं है।</p>\n<h2 id=\"hi49-conditions\">Use conditions record करें</h2><p>CDC dilution, contact time और material compatibility के लिए manufacturer instructions follow करने को कहता है। Matrix में approved dilution, dwell/contact time, rinse requirement, application method और mechanical limits record करें।</p>\n<h2 id=\"hi49-sources\">Multiple sources use करें</h2><p>Primary sources में surface manufacturer care instructions और cleaner label/technical data शामिल हों। SDS pH, reactivity और incompatible-material information add कर सकती है; OSHA SDS में applicable pH और incompatible materials information require करता है।</p>\n<h2 id=\"hi49-status\">Status clearly define करें</h2><table class=\"data-table\"><thead><tr><th>Status</th><th>Meaning</th></tr></thead><tbody>\n<tr><td>Approved</td><td>Manufacturer information या validated facility testing से supported</td></tr>\n<tr><td>Conditional</td><td>Specific dilution, rinse, short dwell या tool limits के साथ allowed</td></tr>\n<tr><td>Test required</td><td>Evidence incomplete; controlled spot test/review चाहिए</td></tr>\n<tr><td>Do not use</td><td>Known incompatibility, damage risk या manufacturer restriction</td></tr>\n</tbody></table>\n<h2 id=\"hi49-fields\">Minimum useful fields</h2><ul>\n<li>Surface और finish.</li>\n<li>Approved product.</li>\n<li>Use dilution.</li>\n<li>Dwell/contact time.</li>\n<li>Rinse/recovery requirement.</li>\n<li>Permitted tool/mechanical action.</li>\n<li>Known restrictions.</li>\n<li>Evidence source/date.</li>\n<li>Approval owner/review date.</li>\n</ul>\n<h2 id=\"hi49-change\">Changes control करें</h2><p>Product formulation, surface finish, supplier या manufacturer instructions बदलें तो compatibility recheck करें। Damage report भी revalidation trigger होना चाहिए।</p>\n<h2 id=\"hi49-takeaway\">Practical takeaway</h2><p>Useful matrix केवल “yes/no” नहीं कहती; वह exact conditions और decision source record करती है जिनके अंदर combination acceptable है।</p>\n<h2 id=\"hi49-references\">संदर्भ</h2><ol>\n<li id=\"hi49-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Material Compatibility</a>.</li>\n<li id=\"hi49-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi49-ref-3\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Safety Data Sheets</a>.</li>\n</ol>",
+  "seo_title": "Surface-Chemistry Compatibility Matrix | Alle's ClinX",
+  "meta_description": "Exact surface, product, dilution, dwell, rinse, mechanical limits, evidence और status के साथ compatibility matrix बनाना समझें।",
+  "related_article_ids": [
+    "ACX-KB-0046",
+    "ACX-KB-0047",
+    "ACX-KB-0048"
+  ]
+}

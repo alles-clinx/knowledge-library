@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0049",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Building a Surface-Chemistry Compatibility Matrix",
+  "slug": "surface-chemistry-compatibility-matrix",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "A surface-chemistry compatibility matrix converts manufacturer instructions, product data, SDS information and validated spot tests into a controlled reference showing what can be used where and under which conditions.",
+  "content_html": "<p>A compatibility matrix is a controlled reference that connects facility surfaces with approved cleaning products and methods. Its purpose is to prevent staff from choosing chemistry by guesswork and to preserve the conditions under which a combination has actually been approved.</p>\n<h2 id=\"start-with-surface-systems-not-generic-names\">Start with surface systems, not generic names</h2><p>Do not create one row called “metal” or “stone.” Separate stainless steel, aluminum, coated steel, marble, granite, resilient flooring, glass, finished wood, upholstery and other relevant systems. Include finish or coating where it materially changes compatibility.</p>\n<h2 id=\"capture-product-identity\">Capture product identity</h2><p>Record the exact product, manufacturer and product version or technical-data date. Compatibility can change when formulations or surface finishes change, so generic terms such as “disinfectant” are not precise enough.</p>\n<h2 id=\"record-use-conditions\">Record use conditions</h2><p>CDC emphasises manufacturer instructions for dilution, contact time and material compatibility. A matrix should therefore record the approved use dilution, maximum or required dwell/contact time, rinse requirement, application method and any mechanical-action limits.</p>\n<h2 id=\"use-more-than-one-source\">Use more than one source</h2><p>Primary sources should include the surface manufacturer's care instructions and the cleaner's label or technical data. The SDS can add pH, reactivity and incompatible-material information; OSHA requires SDSs to include pH where applicable and information on incompatible materials.</p>\n<h2 id=\"define-status-clearly\">Define status clearly</h2><table class=\"data-table\"><thead><tr><th>Status</th><th>Meaning</th></tr></thead><tbody>\n<tr><td>Approved</td><td>Supported by manufacturer information or validated facility testing under defined conditions</td></tr>\n<tr><td>Conditional</td><td>Allowed only with stated limits such as dilution, rinse, short dwell or specific tool</td></tr>\n<tr><td>Test required</td><td>Evidence is incomplete; controlled spot test and review needed before use</td></tr>\n<tr><td>Do not use</td><td>Known incompatibility, damage risk or manufacturer restriction</td></tr>\n</tbody></table>\n<h2 id=\"minimum-fields\">Minimum useful fields</h2><ul>\n<li>Surface and finish.</li>\n<li>Approved product.</li>\n<li>Use dilution.</li>\n<li>Dwell/contact time.</li>\n<li>Rinse or recovery requirement.</li>\n<li>Permitted tool or mechanical action.</li>\n<li>Known restrictions.</li>\n<li>Evidence source and date.</li>\n<li>Approval owner and review date.</li>\n</ul>\n<h2 id=\"control-changes\">Control changes</h2><p>A matrix becomes unreliable if products are substituted without review. Recheck compatibility when a product formulation changes, a new finish is installed, a supplier changes, damage is reported or the surface manufacturer updates maintenance instructions.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A useful compatibility matrix does more than say “yes” or “no.” It records the exact conditions that make a surface-product combination acceptable and provides a traceable source for that decision.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures: Material Compatibility</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Safety Data Sheets, Appendix D</a>.</li>\n</ol>",
+  "seo_title": "Building a Surface-Chemistry Compatibility Matrix | Alle's ClinX",
+  "meta_description": "Build a controlled compatibility matrix using exact surface systems, products, dilution, dwell time, rinse, mechanical limits, evidence sources and review status.",
+  "related_article_ids": [
+    "ACX-KB-0046",
+    "ACX-KB-0047",
+    "ACX-KB-0048"
+  ]
+}

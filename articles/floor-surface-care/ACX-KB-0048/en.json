@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0048",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Spot Testing Matters Before Using a New Cleaner",
+  "slug": "why-spot-testing-matters-before-using-a-new-cleaner",
+  "subcategory": "Surface Compatibility",
+  "subcategory_slug": "surface-compatibility",
+  "excerpt": "A spot test checks an unfamiliar cleaner and method on a small, unobtrusive area before broad use so colour, gloss, texture, coating or residue problems can be detected early.",
+  "content_html": "<p>A spot test is a controlled trial on a small, less-visible part of the surface before a new cleaner or process is used broadly. It does not replace manufacturer instructions, but it can reveal a compatibility problem before a large area is affected.</p>\n<h2 id=\"why-written-compatibility-is-not-always-enough\">Why written compatibility is not always enough</h2><p>Real surfaces age, wear, receive coatings and are repaired. The exact finish in front of you may differ from a generic material description. NPS guidance therefore recommends testing unfamiliar cleaning and disinfecting methods on a small unobtrusive area and discontinuing the method if damage is observed.</p>\n<h2 id=\"what-a-good-test-controls\">What a good test controls</h2><p>Use the same product, dilution, dwell time, moisture, temperature, tool and mechanical action intended for the real job. A weak test does not prove that a stronger production process will be safe.</p>\n<h2 id=\"allow-the-test-to-dry\">Allow the test to dry</h2><p>Some problems are visible only after evaporation or drying. Residue, haze, whitening, colour shift, rings, tackiness and loss of gloss can appear later. Judge the test under normal lighting after the surface has returned to its normal dry condition.</p>\n<h2 id=\"what-to-look-for\">What to look for</h2><ul>\n<li>Colour transfer or fading.</li>\n<li>Gloss increase or loss.</li>\n<li>Softening, tackiness or coating lift.</li>\n<li>Etching, corrosion or whitening.</li>\n<li>Texture change, scratching or burnishing.</li>\n<li>Rings, residue, streaks or water marks.</li>\n<li>Damage to grout, joints, adhesives or adjacent material.</li>\n</ul>\n<h2 id=\"when-a-spot-test-is-especially-important\">When a spot test is especially important</h2><p>Testing becomes more important when the surface identity is uncertain, the finish is old or damaged, the chemistry is new, concentration is changing, a stronger pad or machine is introduced, or there is no reliable compatibility history.</p>\n<h2 id=\"what-a-passed-test-does-not-prove\">What a passed test does not prove</h2><p>A small successful test does not prove that unlimited dwell time, repeated use or a much larger amount of product will remain safe. Stay within the same tested process and manufacturer instructions.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Spot testing reduces uncertainty. Test the actual process, allow the area to dry, compare it with the untreated surface and stop at the first sign of material or finish change.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/subjects/hfc/covid-19-exhibitry-cleaning-guidance.htm\">U.S. National Park Service — Exhibitry Cleaning Guidance</a>.</li>\n<li id=\"ref-2\"><a href=\"https://home.nps.gov/articles/000/protecting-historic-structures-from-oil-contamination.htm\">U.S. National Park Service — Cleaning Test Patches</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Why Spot Testing Matters Before Using a New Cleaner | Alle's ClinX",
+  "meta_description": "Learn how to spot-test an unfamiliar cleaner by controlling dilution, dwell time, moisture and mechanical action, then checking the dry surface for damage.",
+  "related_article_ids": [
+    "ACX-KB-0046",
+    "ACX-KB-0047",
+    "ACX-KB-0049"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0045",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Upholstery Material Affects Cleaning Compatibility",
+  "slug": "how-upholstery-material-affects-cleaning-compatibility",
+  "subcategory": "Carpet & Upholstery",
+  "subcategory_slug": "carpet-upholstery",
+  "excerpt": "Upholstery cleaning compatibility depends on the fiber, dye, finish, backing, filling, adhesives and construction—not only on the visible fabric face.",
+  "content_html": "<p>Upholstery is a layered system. The visible textile may be cotton, wool, polyester, acrylic, rayon, leather-like material or a blend, but the cleaning result can also be affected by dyes, protective finishes, backing, foam, batting, adhesives and the furniture frame beneath it.</p>\n<h2 id=\"fiber-type-changes-how-the-fabric-reacts\">Fiber type changes how the fabric reacts</h2><p>Smithsonian textile guidance notes that natural fibers absorb water differently from many synthetic fibers. Water can swell natural fibers, while some synthetics are more resistant to water but may hold oily soil differently. This means the same spot or cleaner can behave differently on two fabrics that look similar.</p>\n<h2 id=\"dyes-and-finishes-can-be-less-stable-than-the-fiber\">Dyes and finishes can be less stable than the fiber</h2><p>A fiber may tolerate a cleaning method while its dye or surface finish does not. Wet cleaning, solvent cleaning or strong alkalinity can cause colour transfer, loss of sheen or finish change. The manufacturer's care instructions therefore take priority over assumptions based only on fiber name.</p>\n<h2 id=\"construction-matters\">Construction matters</h2><p>Upholstery may contain foam, padding, backing cloth, decorative trim, metal fasteners, adhesives and wood components. Excess liquid can migrate into these layers, lengthen drying time or create rings, staining, corrosion or adhesive problems.</p>\n<h2 id=\"condition-changes-compatibility\">Age and condition change compatibility</h2><p>Older, weakened or damaged textiles may not tolerate the mechanical action that a newer fabric can handle. Smithsonian conservation guidance notes that older fabrics can lose resistance to tearing, stretching and rubbing. A method should therefore match both the material and its condition.</p>\n<h2 id=\"spot-test-before-changing-the-method\">Spot-test before changing the method</h2><p>Test an unfamiliar cleaner or process in a small, inconspicuous area using the intended dilution, moisture and mechanical action. Allow the test area to dry completely, then check for colour transfer, rings, texture change, shrinkage, stiffness, tackiness or altered sheen.</p>\n<h2 id=\"a-practical-compatibility-check\">A practical compatibility check</h2><ol>\n<li>Identify the upholstery material and manufacturer's care instructions.</li>\n<li>Check dyes, finishes, backing and nearby trim or frame materials.</li>\n<li>Identify the soil or stain before choosing chemistry.</li>\n<li>Use the least aggressive compatible method that can remove the soil.</li>\n<li>Control moisture and recover as much liquid as the method allows.</li>\n<li>Test first and judge the result after complete drying.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Upholstery compatibility is determined by the whole construction, not just the top fabric. Fiber, dye, finish, backing, filling, adhesives and condition all influence whether water, solvent, detergent and mechanical action are safe.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://mci.si.edu/stain-removal\">Smithsonian Museum Conservation Institute — Stain Removal</a>.</li>\n<li id=\"ref-2\"><a href=\"https://mci.si.edu/mold-and-mildew-textiles\">Smithsonian Museum Conservation Institute — Mold and Mildew on Textiles</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.nps.gov/subjects/museums/upload/07-04_508.pdf\">U.S. National Park Service — Upholstered Furniture: Agents of Deterioration</a>.</li>\n</ol>",
+  "seo_title": "How Upholstery Material Affects Cleaning Compatibility | Alle's ClinX",
+  "meta_description": "Learn how upholstery fiber, dye, finish, backing, filling, adhesives, condition and drying requirements affect cleaning compatibility.",
+  "related_article_ids": [
+    "ACX-KB-0042",
+    "ACX-KB-0043",
+    "ACX-KB-0046"
+  ]
+}
