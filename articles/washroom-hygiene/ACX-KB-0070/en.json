@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0070",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Should a Washroom Inspection Check?",
+  "slug": "what-should-a-washroom-inspection-check",
+  "subcategory": "Washroom Inspection",
+  "subcategory_slug": "washroom-inspection",
+  "excerpt": "A washroom inspection should check cleanliness, high-touch condition, consumables, waste, floors, odour source, moisture, fixture operation, accessibility and maintenance exceptions—not appearance alone.",
+  "content_html": "<p>A useful washroom inspection is a structured condition check, not a quick glance. It should confirm that the space is hygienic, supplied, dry, functional and free of unresolved hazards or maintenance failures.</p>\n<h2 id=\"cleanliness\">1. Visible cleanliness</h2><p>Inspect toilets, urinals, sinks, counters, partitions, dispensers, mirrors, walls within the splash zone and floors. Look for soil, residue, stains, scale, soap film, litter and missed edges rather than judging only the most visible fixtures.</p>\n<h2 id=\"high-touch\">2. High-touch surfaces</h2><p>CDC recommends more frequent attention to high-touch surfaces. Check door handles, taps, flush controls, dispenser touchpoints, grab rails and other frequently handled points for visible soil and completion of the required cleaning or disinfection process.</p>\n<h2 id=\"supplies\">3. Supplies and consumables</h2><p>Confirm soap, toilet tissue, hand-drying supplies and any facility-specific consumables are available and dispensers are working. A clean washroom with empty dispensers is not operationally complete.</p>\n<h2 id=\"waste\">4. Waste condition</h2><p>Check bins and sanitary-waste units for fill level, leakage, liner condition and surrounding soil. Overflowing or leaking waste can quickly become a hygiene and odour problem.</p>\n<h2 id=\"floor-safety\">5. Floors and safety</h2><p>Inspect for standing water, slip risk, tracked soil, residue and incomplete drying. Wet-floor controls should remain in place until the area is safe for normal use.</p>\n<h2 id=\"odour\">6. Odour source</h2><p>Do not score odour only by whether fragrance is present. If odour remains, identify whether it is linked to contamination, waste, drains, traps, scale, moisture or ventilation and record the source for follow-up.</p>\n<h2 id=\"fixtures\">7. Fixture and plumbing condition</h2><p>Check flushing, drainage, leaks, blocked outlets, damaged seats, loose fittings, failed taps and other defects. Cleaning teams should record maintenance exceptions rather than repeatedly cleaning around a fault.</p>\n<h2 id=\"accessibility\">8. Accessibility and user condition</h2><p>Keep accessible routes, grab rails and required fixtures unobstructed. Inspect whether bins, cleaning equipment or temporary signs interfere with safe access.</p>\n<h2 id=\"documentation\">9. Documentation and exception closure</h2><p>A completed inspection should show what passed, what failed, what was corrected immediately and what was escalated. Recurring failures should be visible in the record so the cleaning schedule or maintenance plan can be adjusted.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>A washroom inspection should answer: <strong>Is it clean, supplied, dry, functional, safe and free of unresolved odour or maintenance sources?</strong> Use the same checklist each round so trends are comparable.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.gsa.gov/system/files/2025%20National%20Custodial%20Specification.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "What Should a Washroom Inspection Check? | Alle's ClinX",
+  "meta_description": "Use a structured washroom inspection covering cleanliness, high-touch points, supplies, waste, floors, odour, moisture, fixtures, safety and maintenance exceptions.",
+  "related_article_ids": [
+    "ACX-KB-0057",
+    "ACX-KB-0071",
+    "ACX-KB-0069"
+  ]
+}

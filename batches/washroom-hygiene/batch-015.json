@@ -1,0 +1,28 @@
+{
+  "batch_id": "batch-015",
+  "category": "Washroom Hygiene",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0070",
+    "ACX-KB-0071",
+    "ACX-KB-0072",
+    "ACX-KB-0073",
+    "ACX-KB-0074"
+  ],
+  "stage": "review",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "review"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "review",
+    "article_count": 5
+  },
+  "preview": {
+    "status": "pending-render",
+    "pages": 10,
+    "design": "locked Gold Standard article shell"
+  },
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest."
+}

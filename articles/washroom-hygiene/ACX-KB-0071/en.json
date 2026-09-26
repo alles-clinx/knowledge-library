@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0071",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Score Washroom Cleanliness Consistently",
+  "slug": "how-to-score-washroom-cleanliness-consistently",
+  "subcategory": "Washroom Inspection",
+  "subcategory_slug": "washroom-inspection",
+  "excerpt": "Consistent washroom scoring comes from fixed observable criteria, clear pass/fail definitions, the same rating scale, calibrated inspectors and separation of cleaning failures from maintenance defects.",
+  "content_html": "<p>A washroom score is useful only if two inspectors looking at the same condition would reach roughly the same result. Consistency comes from defining observable criteria in advance rather than relying on impressions such as “looks good.”</p>\n<h2 id=\"define-criteria\">Define the criteria before scoring</h2><p>Build the score from specific observable items: fixture soil, high-touch condition, floors, supplies, waste, odour source, moisture, mirrors, grout or scale condition, and unresolved maintenance faults. Use only criteria the team can inspect reliably.</p>\n<h2 id=\"use-one-scale\">Use one simple scale</h2><p>Choose one rating method and use it consistently. A simple example is <strong>2 = meets standard, 1 = minor defect, 0 = fails standard</strong>. Another facility may prefer pass/fail. The exact numbers matter less than clear definitions and consistent use.</p>\n<h2 id=\"define-each-rating\">Define what each rating means</h2><p>For example, “floor meets standard” could mean dry, free of visible soil, litter, residue and slip hazards. “Minor defect” might mean one small correctable area. “Fail” might mean widespread soil, standing water or an unresolved safety issue. Write these definitions into the checklist.</p>\n<h2 id=\"separate-cleaning-maintenance\">Separate cleaning failures from maintenance failures</h2><p>A blocked toilet, leaking tap or failed exhaust system should not be hidden inside a cleaning score. Record it separately as a maintenance exception while still scoring the cleaning condition that staff can control.</p>\n<h2 id=\"weighting\">Use weighting only when justified</h2><p>High-risk failures such as standing water, unavailable soap or heavily soiled high-touch areas may deserve more operational significance than a minor mirror streak. If the facility uses weighted scores, document the weighting rules before inspections begin.</p>\n<h2 id=\"calibration\">Calibrate inspectors</h2><p>Have supervisors and inspectors score the same washroom periodically and compare results. Differences reveal vague criteria. Adjust examples and definitions until scoring becomes more repeatable.</p>\n<h2 id=\"trend\">Use scores for trends, not only pass/fail</h2><p>A single score is less useful than a pattern. Repeated failures in the same zone can reveal poor inspection frequency, unclear ownership, inadequate equipment or unresolved maintenance.</p>\n<h2 id=\"example\">Example scoring structure</h2><table class=\"data-table\"><thead><tr><th>Area</th><th>2 — Meets</th><th>1 — Minor defect</th><th>0 — Fails</th></tr></thead><tbody>\n<tr><td>Fixtures</td><td>Clean and functional</td><td>Small correctable soil</td><td>Visible contamination or major defect</td></tr>\n<tr><td>Floor</td><td>Clean and dry</td><td>Small isolated defect</td><td>Widespread soil, residue or slip risk</td></tr>\n<tr><td>Supplies</td><td>All available</td><td>Low but usable</td><td>Required item unavailable</td></tr>\n<tr><td>Odour</td><td>No unresolved source</td><td>Minor source identified</td><td>Strong unresolved odour source</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Do not chase a universal washroom score. Build a local rubric with observable definitions, calibrate the people using it, and use the results to identify recurring operational failures.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures and Monitoring</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.gsa.gov/system/files/2025%20National%20Custodial%20Specification.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "How to Score Washroom Cleanliness Consistently | Alle's ClinX",
+  "meta_description": "Create a repeatable washroom cleanliness score using observable criteria, clear rating definitions, inspector calibration and separate maintenance exceptions.",
+  "related_article_ids": [
+    "ACX-KB-0070",
+    "ACX-KB-0057",
+    "ACX-KB-0069"
+  ]
+}

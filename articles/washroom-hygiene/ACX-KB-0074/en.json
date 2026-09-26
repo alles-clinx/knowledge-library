@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0074",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Troubleshoot Recurring Washroom Odours",
+  "slug": "how-to-troubleshoot-recurring-washroom-odours",
+  "subcategory": "Washroom Troubleshooting",
+  "subcategory_slug": "washroom-troubleshooting",
+  "excerpt": "Troubleshoot recurring washroom odour by localising the source, separating surface contamination from drain or plumbing causes, checking moisture and ventilation, correcting scale or waste sources, and verifying the fix after the room is dry.",
+  "content_html": "<p>Recurring washroom odour should be treated as a diagnosis problem. Repeating cleaner or fragrance without identifying the source often hides useful clues and allows the underlying issue to continue.</p>\n<h2 id=\"localise\">Step 1: Localise the odour</h2><p>Identify where the smell is strongest: toilet base, urinal, floor drain, sink drain, grout, waste unit, wall edge, floor joint or the room generally. Location narrows the list of likely causes.</p>\n<h2 id=\"timing\">Step 2: Note when it appears</h2><p>Does odour appear before cleaning, only after product use, after heavy traffic, after the room has been closed, after rainfall or when a fixture has not been used? Timing helps separate product odour, contamination and plumbing causes.</p>\n<h2 id=\"surface-source\">Step 3: Eliminate surface sources</h2><p>Clean the complete contamination zone, including splash areas, fixture bases, grout, undersides and nearby floor edges. Check waste systems and established scale that can retain soil.</p>\n<h2 id=\"drains\">Step 4: Check drains and traps</h2><p>CDC notes that drains can sustain biofilms in moist plumbing systems. Inspect trap condition, drainage, blockages and fixture-specific seals. Persistent drain odour should be escalated through the facility's maintenance or water-management process.</p>\n<h2 id=\"moisture\">Step 5: Check moisture and ventilation</h2><p>EPA identifies persistent moisture as a key condition for mold growth. Look for leaks, condensation, standing water, poor drying and weak exhaust performance.</p>\n<h2 id=\"program\">Step 6: Review the cleaning program</h2><p>If the same source keeps returning, ask whether the area is included in the routine scope, whether inspection frequency matches traffic and whether maintenance exceptions are actually being closed.</p>\n<h2 id=\"verify\">Step 7: Verify after the room is dry</h2><p>Do not judge immediately after fragrance or cleaning product has been applied. Recheck once surfaces are dry and the room has returned to normal ventilation. A durable correction should remain effective through normal use.</p>\n<h2 id=\"decision-table\">Quick troubleshooting guide</h2><table class=\"data-table\"><thead><tr><th>Strongest clue</th><th>Likely direction</th></tr></thead><tbody>\n<tr><td>Near drain or fixture outlet</td><td>Drain, trap, seal or plumbing inspection</td></tr>\n<tr><td>Near grout/floor edge or fixture base</td><td>Splash contamination, moisture or porous material</td></tr>\n<tr><td>Returns after heavy use</td><td>Inspection frequency or source-zone cleaning</td></tr>\n<tr><td>Appears only after cleaning</td><td>Product amount, fragrance, residue or ventilation</td></tr>\n<tr><td>Musty and linked to damp zones</td><td>Moisture control and ventilation review</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Recurring odour is solved by locating and correcting the source. Use location, timing, moisture, drainage and cleaning-program evidence to decide the next action instead of simply adding more fragrance or chemistry.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Water Management: Sinks and Drains</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold and Moisture</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.epa.gov/watersense/watersense-work\">U.S. EPA WaterSense at Work</a>.</li>\n</ol>",
+  "seo_title": "How to Troubleshoot Recurring Washroom Odours | Alle's ClinX",
+  "meta_description": "Use source location, timing, surface checks, drain and trap inspection, moisture, ventilation and program review to troubleshoot recurring washroom odours.",
+  "related_article_ids": [
+    "ACX-KB-0067",
+    "ACX-KB-0068",
+    "ACX-KB-0069"
+  ]
+}

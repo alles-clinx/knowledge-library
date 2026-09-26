@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0073",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Limescale Keeps Returning",
+  "slug": "why-limescale-keeps-returning",
+  "subcategory": "Washroom Troubleshooting",
+  "subcategory_slug": "washroom-troubleshooting",
+  "excerpt": "Limescale keeps returning when hard water continues to supply calcium and magnesium, surfaces repeatedly wet and dry, leaks persist, old scale remains or water treatment and fixture maintenance do not address the source.",
+  "content_html": "<p>Limescale recurrence is usually a source-and-cycle problem. Cleaning removes the deposit that is present today, but it does not change the hardness of tomorrow's water or stop repeated evaporation.</p>\n<h2 id=\"hardness\">Hard water continues to deliver minerals</h2><p>USGS identifies calcium and magnesium as the main contributors to water hardness. If those minerals remain in the supply, each wetting cycle can leave a small new deposit behind.</p>\n<h2 id=\"wet-dry\">Wet-dry cycles rebuild scale</h2><p>Taps, bowls, urinals, shower fittings and tile edges repeatedly become wet and then dry. Evaporation leaves dissolved minerals on the surface, so areas that air-dry slowly or frequently show faster recurrence.</p>\n<h2 id=\"leaks\">Leaks and running fixtures accelerate buildup</h2><p>A dripping tap or running valve can deliver mineral-rich water to the same point continuously. Fixing the leak can reduce scale formation more effectively than simply increasing descaling frequency.</p>\n<h2 id=\"partial-removal\">Old scale may remain</h2><p>Thick deposits can survive in aerators, joints, under fixture rims and textured surfaces even after visible film is removed. The remaining rough layer makes new buildup more noticeable and easier to trap.</p>\n<h2 id=\"water-treatment\">Water treatment may be a system-level control</h2><p>Where hardness is consistently high and scale affects many fixtures, the facility may need to evaluate water treatment or engineering controls. This is separate from routine custodial cleaning and should be managed by the appropriate technical team.</p>\n<h2 id=\"surface-compatibility\">Do not over-descale</h2><p>More frequent acid use is not automatically the right solution. Confirm surface and fixture compatibility, because repeated aggressive descaling can affect metal, coatings, grout or seals.</p>\n<h2 id=\"recurrence-plan\">A recurrence plan</h2><ol>\n<li>Confirm the deposit is limescale.</li>\n<li>Check water hardness data where available.</li>\n<li>Inspect leaks, dripping and slow-draining areas.</li>\n<li>Remove established scale fully within material limits.</li>\n<li>Reduce unnecessary wet-dry exposure where practical.</li>\n<li>Escalate widespread recurring scale for water-treatment or engineering review.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Limescale returns because the mineral source remains. Cleaning controls the deposit; water management, leak repair, surface drying and—where justified—water treatment control the rate of recurrence.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://pubs.usgs.gov/gip/gw/quality.html\">USGS — Quality of Ground Water</a>.</li>\n</ol>",
+  "seo_title": "Why Limescale Keeps Returning | Alle's ClinX",
+  "meta_description": "Understand recurring limescale through water hardness, repeated wet-dry cycles, leaks, remaining scale and water-treatment needs.",
+  "related_article_ids": [
+    "ACX-KB-0061",
+    "ACX-KB-0063",
+    "ACX-KB-0059"
+  ]
+}

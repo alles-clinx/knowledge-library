@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0072",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Washroom Surfaces Stay Dull After Cleaning",
+  "slug": "why-washroom-surfaces-stay-dull-after-cleaning",
+  "subcategory": "Washroom Troubleshooting",
+  "subcategory_slug": "washroom-troubleshooting",
+  "excerpt": "Washroom surfaces can stay dull because of cleaner residue, hard-water minerals, soap scum, micro-scratching, damaged coatings, persistent moisture or finish wear rather than remaining loose soil.",
+  "content_html": "<p>A surface that stays dull after cleaning may not still be dirty. Dullness can come from a film on top of the material or from permanent change within the finish itself. The first troubleshooting step is to separate removable residue from surface damage.</p>\n<h2 id=\"residue\">Cause 1: Cleaner residue</h2><p>Incorrect dilution, too much product or incomplete rinsing can leave a film that scatters light. Re-clean a small compatible test area with clean tools before assuming the surface needs restoration.</p>\n<h2 id=\"hard-water\">Cause 2: Hard-water minerals</h2><p>USGS notes that calcium and magnesium in hard water can leave spots and cloudy mineral film after evaporation. Reflective washroom surfaces show this especially clearly.</p>\n<h2 id=\"soap-scum\">Cause 3: Soap scum</h2><p>Soap can react with hard-water minerals to form a white-gray film. This residue may require a different compatible treatment from ordinary daily soil.</p>\n<h2 id=\"abrasion\">Cause 4: Micro-scratching or abrasive damage</h2><p>Abrasive pads, grit or overly aggressive scrubbing can create fine scratches that reduce gloss. Cleaning cannot restore luster if the visible surface has been physically abraded.</p>\n<h2 id=\"coating\">Cause 5: Coating or sealer damage</h2><p>Painted partitions, coated metal, sealed stone and treated tile can dull if the finish is chemically or mechanically damaged. If a controlled re-clean makes no difference, inspect the finish rather than escalating cleaner strength.</p>\n<h2 id=\"moisture\">Cause 6: Moisture or condensation</h2><p>Damp surfaces may look cloudy until fully dry. Repeated condensation can also leave mineral or soil film. Improve drying and ventilation where moisture persists.</p>\n<h2 id=\"diagnostic\">Diagnostic sequence</h2><ol>\n<li>Let the surface dry completely.</li>\n<li>Check product dilution and rinse instructions.</li>\n<li>Test a small area with clean tools and compatible chemistry.</li>\n<li>Compare splash-exposed and protected areas.</li>\n<li>Inspect for scratches, haze, mineral deposits and coating change.</li>\n<li>If appearance does not improve after residue removal, treat it as a finish condition rather than a stronger-cleaner problem.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Dullness can be residue, mineral film or finish change. Remove the removable layer first; if luster does not return, investigate abrasion, coating condition or moisture instead of adding more chemistry.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap and Water Hardness</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Why Washroom Surfaces Stay Dull After Cleaning | Alle's ClinX",
+  "meta_description": "Troubleshoot dull washroom surfaces by separating cleaner residue, hard-water film and soap scum from abrasion, coating damage and moisture.",
+  "related_article_ids": [
+    "ACX-KB-0066",
+    "ACX-KB-0062",
+    "ACX-KB-0038"
+  ]
+}

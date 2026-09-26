@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0070",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0070",
+  "title": "Washroom inspection में क्या check करना चाहिए?",
+  "slug": "what-should-a-washroom-inspection-check",
+  "subcategory": "Washroom Inspection",
+  "subcategory_slug": "washroom-inspection",
+  "excerpt": "Washroom inspection cleanliness, high-touch points, consumables, waste, floors, odour source, moisture, fixture operation, accessibility और maintenance exceptions check करे।",
+  "content_html": "<p>Useful washroom inspection quick glance नहीं, structured condition check है। Space hygienic, supplied, dry, functional और unresolved hazards से free होना चाहिए।</p>\n<h2 id=\"hi70-clean\">1. Visible cleanliness</h2><p>Toilets, urinals, sinks, counters, partitions, dispensers, mirrors, splash-zone walls और floors inspect करें। Soil, residue, stains, scale, soap film, litter और missed edges देखें।</p>\n<h2 id=\"hi70-touch\">2. High-touch surfaces</h2><p>CDC high-touch surfaces को more frequent attention देने की guidance देता है। Door handles, taps, flush controls, dispenser touchpoints और grab rails check करें।</p>\n<h2 id=\"hi70-supplies\">3. Supplies</h2><p>Soap, tissue, hand-drying supplies और facility-specific consumables available हों और dispensers working हों। Clean washroom with empty dispensers complete नहीं है।</p>\n<h2 id=\"hi70-waste\">4. Waste condition</h2><p>Bins/sanitary-waste units का fill level, leakage, liner और surrounding soil inspect करें।</p>\n<h2 id=\"hi70-floor\">5. Floors and safety</h2><p>Standing water, slip risk, tracked soil, residue और incomplete drying check करें। Area safe होने तक wet-floor controls रखें।</p>\n<h2 id=\"hi70-odour\">6. Odour source</h2><p>Fragrance presence को cleanliness score न मानें। Remaining odour contamination, waste, drains, traps, scale, moisture या ventilation से linked है या नहीं identify करें।</p>\n<h2 id=\"hi70-fixtures\">7. Fixture/plumbing condition</h2><p>Flushing, drainage, leaks, blockages, damaged seats, loose fittings और failed taps check करें। Fault को maintenance exception के रूप में record करें।</p>\n<h2 id=\"hi70-access\">8. Accessibility</h2><p>Accessible routes, grab rails और required fixtures unobstructed रहें। Cleaning equipment, bins या signs safe access block न करें।</p>\n<h2 id=\"hi70-doc\">9. Documentation</h2><p>Record दिखाए क्या pass हुआ, क्या fail हुआ, क्या immediately correct हुआ और क्या escalate हुआ। Recurring failures trend के रूप में visible रहें।</p>\n<h2 id=\"hi70-takeaway\">Practical takeaway</h2><p>Inspection पूछे: <strong>क्या washroom clean, supplied, dry, functional, safe और unresolved odour/maintenance sources से free है?</strong> हर round same checklist use करें।</p>\n<h2 id=\"hi70-references\">संदर्भ</h2><ol>\n<li id=\"hi70-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi70-ref-2\"><a href=\"https://www.gsa.gov/system/files/2025%20National%20Custodial%20Specification.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "Washroom Inspection Checklist | Alle's ClinX",
+  "meta_description": "Cleanliness, touchpoints, supplies, waste, floors, odour, moisture, fixtures और maintenance exceptions के साथ washroom inspection structure करें।",
+  "related_article_ids": [
+    "ACX-KB-0057",
+    "ACX-KB-0071",
+    "ACX-KB-0069"
+  ]
+}

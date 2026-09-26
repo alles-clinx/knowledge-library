@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0071",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0071",
+  "title": "Washroom cleanliness को consistently score कैसे करें",
+  "slug": "how-to-score-washroom-cleanliness-consistently",
+  "subcategory": "Washroom Inspection",
+  "subcategory_slug": "washroom-inspection",
+  "excerpt": "Consistent washroom scoring fixed observable criteria, clear rating definitions, same scale, calibrated inspectors और cleaning failures को maintenance defects से अलग रखने पर depend करती है।",
+  "content_html": "<p>Washroom score तभी useful है जब same condition को देखने वाले inspectors similar result तक पहुँचें। “Looks good” जैसे impressions की बजाय observable criteria define करें।</p>\n<h2 id=\"hi71-criteria\">Criteria पहले define करें</h2><p>Fixture soil, high-touch condition, floors, supplies, waste, odour source, moisture, mirrors, grout/scale और maintenance faults जैसी items use करें।</p>\n<h2 id=\"hi71-scale\">One simple scale use करें</h2><p>एक example: <strong>2 = meets standard, 1 = minor defect, 0 = fails standard</strong>। Pass/fail system भी work कर सकता है। Important clear definitions हैं।</p>\n<h2 id=\"hi71-define\">हर rating define करें</h2><p>Floor “meets” = clean, dry, no visible soil/residue/slip risk. Minor defect = small correctable area. Fail = widespread soil, standing water या safety issue। Definitions checklist में लिखें।</p>\n<h2 id=\"hi71-maint\">Cleaning और maintenance failures अलग रखें</h2><p>Blocked toilet, leaking tap या failed exhaust को cleaning score में hide न करें। Maintenance exception separately record करें।</p>\n<h2 id=\"hi71-weight\">Weighting only when justified</h2><p>Standing water, missing soap या heavily soiled touchpoint minor mirror streak से ज्यादा operational importance रख सकते हैं। Weighted scoring हो तो rules पहले document करें।</p>\n<h2 id=\"hi71-calibrate\">Inspectors calibrate करें</h2><p>Supervisors/inspectors same washroom score करके results compare करें। Differences vague criteria reveal करती हैं।</p>\n<h2 id=\"hi71-trend\">Scores trends के लिए use करें</h2><p>Single score से ज्यादा repeated pattern useful है। Same zone में failures frequency, ownership, equipment या maintenance problems reveal कर सकती हैं।</p>\n<h2 id=\"hi71-example\">Example structure</h2><table class=\"data-table\"><thead><tr><th>Area</th><th>2 — Meets</th><th>1 — Minor</th><th>0 — Fails</th></tr></thead><tbody>\n<tr><td>Fixtures</td><td>Clean and functional</td><td>Small correctable soil</td><td>Visible contamination/major defect</td></tr>\n<tr><td>Floor</td><td>Clean and dry</td><td>Small isolated defect</td><td>Widespread soil/residue/slip risk</td></tr>\n<tr><td>Supplies</td><td>Available</td><td>Low but usable</td><td>Required item unavailable</td></tr>\n<tr><td>Odour</td><td>No unresolved source</td><td>Minor source identified</td><td>Strong unresolved source</td></tr>\n</tbody></table>\n<h2 id=\"hi71-takeaway\">Practical takeaway</h2><p>Universal score chase न करें। Local observable rubric बनाएं, users calibrate करें और results से recurring failures identify करें।</p>\n<h2 id=\"hi71-references\">संदर्भ</h2><ol>\n<li id=\"hi71-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi71-ref-2\"><a href=\"https://www.gsa.gov/system/files/2025%20National%20Custodial%20Specification.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "Consistent Washroom Cleanliness Scoring | Alle's ClinX",
+  "meta_description": "Observable criteria, clear scale, inspector calibration और maintenance exceptions के साथ consistent washroom cleanliness scoring बनाएं।",
+  "related_article_ids": [
+    "ACX-KB-0070",
+    "ACX-KB-0057",
+    "ACX-KB-0069"
+  ]
+}

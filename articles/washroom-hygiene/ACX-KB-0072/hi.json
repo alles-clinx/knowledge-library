@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0072",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0072",
+  "title": "Cleaning के बाद washroom surfaces dull क्यों रहती हैं",
+  "slug": "why-washroom-surfaces-stay-dull-after-cleaning",
+  "subcategory": "Washroom Troubleshooting",
+  "subcategory_slug": "washroom-troubleshooting",
+  "excerpt": "Washroom surfaces cleaner residue, hard-water minerals, soap scum, micro-scratching, damaged coatings, moisture या finish wear के कारण cleaning के बाद भी dull रह सकती हैं।",
+  "content_html": "<p>Cleaning के बाद dull surface जरूरी नहीं dirty हो। Dullness removable film या finish itself में permanent change से आ सकती है।</p>\n<h2 id=\"hi72-residue\">Cause 1: Cleaner residue</h2><p>Wrong dilution, too much product या incomplete rinsing light-scattering film छोड़ सकते हैं। Restoration assume करने से पहले small compatible test re-clean करें।</p>\n<h2 id=\"hi72-water\">Cause 2: Hard-water minerals</h2><p>USGS बताता है calcium/magnesium evaporation के बाद cloudy mineral film छोड़ सकते हैं। Reflective washroom surfaces पर यह ज्यादा visible होती है।</p>\n<h2 id=\"hi72-soap\">Cause 3: Soap scum</h2><p>Soap hard-water minerals से react करके white-gray film बना सकती है। यह ordinary soil से अलग treatment मांग सकती है।</p>\n<h2 id=\"hi72-abrasion\">Cause 4: Micro-scratching</h2><p>Abrasive pads, grit या aggressive scrubbing fine scratches create कर सकते हैं और gloss reduce कर सकते हैं। Cleaning physical abrasion reverse नहीं करती।</p>\n<h2 id=\"hi72-coating\">Cause 5: Coating/sealer damage</h2><p>Painted partitions, coated metal, sealed stone या treated tile chemical/mechanical damage से dull हो सकते हैं। Re-clean से change न हो तो finish inspect करें।</p>\n<h2 id=\"hi72-moisture\">Cause 6: Moisture/condensation</h2><p>Damp surface dry होने तक cloudy दिख सकती है। Persistent condensation mineral/soil film भी छोड़ सकती है।</p>\n<h2 id=\"hi72-check\">Diagnostic sequence</h2><ol>\n<li>Surface fully dry होने दें.</li>\n<li>Product dilution/rinse instructions check करें.</li>\n<li>Clean tools और compatible chemistry से small test करें.</li>\n<li>Splash-exposed और protected areas compare करें.</li>\n<li>Scratches, haze, minerals और coating change inspect करें.</li>\n<li>Residue removal के बाद appearance unchanged हो तो finish issue treat करें.</li>\n</ol>\n<h2 id=\"hi72-takeaway\">Practical takeaway</h2><p>Dullness residue, mineral film या finish change हो सकती है। Removable layer पहले remove करें; luster return न हो तो abrasion, coating और moisture investigate करें।</p>\n<h2 id=\"hi72-references\">संदर्भ</h2><ol>\n<li id=\"hi72-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi72-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap and Water Hardness</a>.</li>\n<li id=\"hi72-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Washroom Surfaces Dull After Cleaning | Alle's ClinX",
+  "meta_description": "Cleaner residue, hard-water film, soap scum, abrasion, coating damage और moisture से dull washroom surfaces diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0066",
+    "ACX-KB-0062",
+    "ACX-KB-0038"
+  ]
+}

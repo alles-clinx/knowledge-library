@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0073",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0073",
+  "title": "Limescale बार-बार वापस क्यों आती है",
+  "slug": "why-limescale-keeps-returning",
+  "subcategory": "Washroom Troubleshooting",
+  "subcategory_slug": "washroom-troubleshooting",
+  "excerpt": "Limescale hard water के calcium/magnesium supply, repeated wet-dry cycles, leaks, remaining scale और unresolved water-treatment issues के कारण return करती रहती है।",
+  "content_html": "<p>Limescale recurrence source-and-cycle problem है। Cleaning आज की deposit remove करती है, लेकिन tomorrow's water hardness या evaporation cycle change नहीं करती।</p>\n<h2 id=\"hi73-hardness\">Hard water minerals deliver करती रहती है</h2><p>USGS calcium/magnesium को water hardness के main contributors बताता है। Supply unchanged हो तो हर wetting cycle new deposit छोड़ सकती है।</p>\n<h2 id=\"hi73-cycle\">Wet-dry cycles scale rebuild करती हैं</h2><p>Taps, bowls, urinals, fittings और tile edges repeatedly wet/dry होते हैं। Evaporation minerals surface पर छोड़ती है।</p>\n<h2 id=\"hi73-leaks\">Leaks buildup accelerate करती हैं</h2><p>Dripping tap या running valve same point पर mineral-rich water continuously deliver कर सकती है। Leak repair descaling frequency बढ़ाने से ज्यादा effective control हो सकती है।</p>\n<h2 id=\"hi73-partial\">Old scale remain कर सकती है</h2><p>Aerators, joints, rims और textured surfaces में thick deposits partly remain कर सकते हैं और new buildup को easier बनाते हैं।</p>\n<h2 id=\"hi73-treatment\">Water treatment system-level control हो सकती है</h2><p>Widespread high-hardness scale में facility को water treatment/engineering review की जरूरत हो सकती है। यह routine custodial cleaning से अलग technical control है।</p>\n<h2 id=\"hi73-compatible\">Over-descaling avoid करें</h2><p>More frequent acid use automatically right answer नहीं है। Metal, coating, grout और seals compatibility confirm करें।</p>\n<h2 id=\"hi73-plan\">Recurrence plan</h2><ol>\n<li>Deposit limescale है confirm करें.</li>\n<li>Available water-hardness data देखें.</li>\n<li>Leaks, dripping और slow-drain zones inspect करें.</li>\n<li>Material limits में established scale fully remove करें.</li>\n<li>जहाँ practical हो unnecessary wet-dry exposure reduce करें.</li>\n<li>Widespread recurrence water-treatment/engineering review को escalate करें.</li>\n</ol>\n<h2 id=\"hi73-takeaway\">Practical takeaway</h2><p>Limescale source minerals remain होने से return करती है। Cleaning deposit control करती है; water management, leak repair और treatment recurrence rate control करते हैं।</p>\n<h2 id=\"hi73-references\">संदर्भ</h2><ol>\n<li id=\"hi73-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi73-ref-2\"><a href=\"https://pubs.usgs.gov/gip/gw/quality.html\">USGS — Quality of Ground Water</a>.</li>\n</ol>",
+  "seo_title": "Recurring Limescale | Alle's ClinX",
+  "meta_description": "Hard water, wet-dry cycles, leaks, remaining scale और water-treatment issues के कारण recurring limescale समझें।",
+  "related_article_ids": [
+    "ACX-KB-0061",
+    "ACX-KB-0063",
+    "ACX-KB-0059"
+  ]
+}

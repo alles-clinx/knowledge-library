@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0074",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0074",
+  "title": "Recurring washroom odours को troubleshoot कैसे करें",
+  "slug": "how-to-troubleshoot-recurring-washroom-odours",
+  "subcategory": "Washroom Troubleshooting",
+  "subcategory_slug": "washroom-troubleshooting",
+  "excerpt": "Recurring washroom odour troubleshoot करने के लिए source localise करें, surface contamination को drain/plumbing causes से अलग करें, moisture/ventilation check करें और fix को dry condition में verify करें।",
+  "content_html": "<p>Recurring washroom odour diagnosis problem है। Source identify किए बिना cleaner/fragrance repeat करना useful clues hide कर सकता है।</p>\n<h2 id=\"hi74-localise\">Step 1: Odour localise करें</h2><p>Strongest location identify करें: toilet base, urinal, floor drain, sink drain, grout, waste unit, wall edge, floor joint या पूरे room में।</p>\n<h2 id=\"hi74-timing\">Step 2: Timing note करें</h2><p>Odour cleaning से पहले, product use के बाद, heavy traffic के बाद, room बंद रहने के बाद या unused fixture के पास आती है? Timing cause narrow करती है।</p>\n<h2 id=\"hi74-surface\">Step 3: Surface sources eliminate करें</h2><p>Complete splash/contamination zone clean करें—fixture bases, grout, undersides, floor edges और waste units। Scale भी check करें।</p>\n<h2 id=\"hi74-drains\">Step 4: Drains और traps check करें</h2><p>CDC बताता है drains moist plumbing में biofilm sustain कर सकते हैं। Trap, drainage, blockage और seals inspect करें। Persistent drain odour maintenance/water-management process को escalate करें।</p>\n<h2 id=\"hi74-moisture\">Step 5: Moisture और ventilation check करें</h2><p>EPA persistent moisture को mold growth का key condition बताता है। Leaks, condensation, standing water, slow drying और weak exhaust देखें।</p>\n<h2 id=\"hi74-program\">Step 6: Cleaning program review करें</h2><p>Same source return करे तो check करें area routine scope में है या नहीं, inspection frequency traffic match करती है या नहीं, और maintenance exceptions close होती हैं या नहीं।</p>\n<h2 id=\"hi74-verify\">Step 7: Dry room में verify करें</h2><p>Fragrance/cleaner apply होते ही result judge न करें। Surfaces dry और normal ventilation लौटने के बाद recheck करें।</p>\n<h2 id=\"hi74-guide\">Quick guide</h2><table class=\"data-table\"><thead><tr><th>Strongest clue</th><th>Likely direction</th></tr></thead><tbody>\n<tr><td>Drain/fixture outlet के पास</td><td>Drain, trap, seal, plumbing</td></tr>\n<tr><td>Grout/floor edge/base के पास</td><td>Splash contamination, moisture, porous material</td></tr>\n<tr><td>Heavy use के बाद</td><td>Inspection frequency/source-zone cleaning</td></tr>\n<tr><td>Only after cleaning</td><td>Product amount, fragrance, residue, ventilation</td></tr>\n<tr><td>Musty + damp zone</td><td>Moisture/ventilation review</td></tr>\n</tbody></table>\n<h2 id=\"hi74-takeaway\">Practical takeaway</h2><p>Recurring odour source locate/correct करके solve होती है। Location, timing, moisture, drainage और program evidence use करें; simply more fragrance/chemistry add न करें।</p>\n<h2 id=\"hi74-references\">संदर्भ</h2><ol>\n<li id=\"hi74-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Sinks and Drains</a>.</li>\n<li id=\"hi74-ref-2\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold and Moisture</a>.</li>\n<li id=\"hi74-ref-3\"><a href=\"https://www.epa.gov/watersense/watersense-work\">U.S. EPA WaterSense at Work</a>.</li>\n</ol>",
+  "seo_title": "Recurring Washroom Odour Troubleshooting | Alle's ClinX",
+  "meta_description": "Location, timing, drains, traps, moisture, ventilation और cleaning program evidence से recurring washroom odours troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0067",
+    "ACX-KB-0068",
+    "ACX-KB-0069"
+  ]
+}
