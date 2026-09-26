@@ -26,6 +26,38 @@ if OUT.exists():
     shutil.rmtree(OUT)
 shutil.copytree(DOCS, OUT)
 
+# Remove repository-only design/import documentation and generic preview templates.
+for name in (
+    "article.html", "category.html", "subcategory.html", "subcat.html",
+    "content-standard.md", "design-policy.md", "search.md",
+    "translation-standard.md", "wordpress-import-contract.md"
+):
+    target = OUT / name
+    if target.exists():
+        target.unlink()
+
+live_articles = [BY_ID[i] for i in LIVE.get("live_article_ids", []) if i in BY_ID]
+live_categories = {a["category_slug"] for a in live_articles}
+live_subcategories = {(a["category_slug"], a["subcategory_slug"]) for a in live_articles}
+
+# Remove category/subcategory discovery trees that do not yet contain live content.
+all_categories = {a["category_slug"] for a in CANON["articles"]}
+for category_slug in all_categories - live_categories:
+    target = OUT / "library" / category_slug
+    if target.exists():
+        shutil.rmtree(target)
+
+for category_slug in live_categories:
+    all_subcats = {
+        a["subcategory_slug"] for a in CANON["articles"]
+        if a["category_slug"] == category_slug
+    }
+    live_subcats = {s for c, s in live_subcategories if c == category_slug}
+    for subcat_slug in all_subcats - live_subcats:
+        target = OUT / "library" / category_slug / subcat_slug
+        if target.exists():
+            shutil.rmtree(target)
+
 # Never publish canonical article directories that have not passed the live gate.
 for article in CANON["articles"]:
     if article["article_id"] in LIVE_IDS:
@@ -127,7 +159,6 @@ def meta_for_article(rec: dict, canonical_url: str, canonical_path: str) -> str:
         '<script type="application/ld+json">' + json.dumps(breadcrumbs, ensure_ascii=False, separators=(",", ":")) + '</script>',
     ])
 
-GENERIC_TEMPLATES = {"article.html", "category.html", "subcat.html"}
 for page_path in OUT.rglob("*.html"):
     page = page_path.read_text(encoding="utf-8")
     page = remove_existing(page, r'<meta\s+name=["\']robots["\'][^>]*>')
@@ -140,21 +171,18 @@ for page_path in OUT.rglob("*.html"):
     canonical_path = public_path_for_file(page_path)
     canonical_url = "https://allesclinx.com" + canonical_path
 
-    if rel in GENERIC_TEMPLATES:
-        additions = '<meta name="robots" content="noindex,follow">'
+    rec = by_url.get(canonical_path)
+    if rec:
+        additions = meta_for_article(rec, canonical_url, canonical_path)
     else:
-        rec = by_url.get(canonical_path)
-        if rec:
-            additions = meta_for_article(rec, canonical_url, canonical_path)
-        else:
-            additions = "\n".join([
-                '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">',
-                f'<link rel="canonical" href="{canonical_url}">',
-                f'<meta property="og:url" content="{canonical_url}">',
-                f'<meta property="og:image" content="{PREVIEW_IMAGE}">',
-                '<meta name="twitter:card" content="summary_large_image">',
-                f'<meta name="twitter:image" content="{PREVIEW_IMAGE}">'
-            ])
+        additions = "\n".join([
+            '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">',
+            f'<link rel="canonical" href="{canonical_url}">',
+            f'<meta property="og:url" content="{canonical_url}">',
+            f'<meta property="og:image" content="{PREVIEW_IMAGE}">',
+            '<meta name="twitter:card" content="summary_large_image">',
+            f'<meta name="twitter:image" content="{PREVIEW_IMAGE}">'
+        ])
     page = inject_head(page, additions)
     page_path.write_text(page, encoding="utf-8")
 
