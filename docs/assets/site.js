@@ -28,8 +28,19 @@
     '<div class="acx-brand-cluster"><a class="acx-wordmark" href="https://allesclinx.com/" aria-label="Alle\'s ClinX main website">Alle\'s ClinX</a><span class="acx-brand-divider" aria-hidden="true"></span><a class="acx-context-link" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Knowledge</a></div>'+
     '<nav class="acx-primary-nav" aria-label="Primary">'+navLinks()+'</nav>'+
     '<div class="acx-site-actions"><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'<span class="acx-search-label">Search</span><kbd>⌘K</kbd></button>'+
-    '<button class="acx-menu-button" type="button" aria-label="Open menu" aria-expanded="false"><span></span></button></div></div>'+
-    '<div class="acx-mobile-drawer" id="acx-mobile-drawer"><div class="acx-mobile-drawer-inner"><div class="acx-mobile-context"><strong>Knowledge</strong><a href="'+BASE+'">Knowledge home</a></div><nav class="acx-mobile-nav" aria-label="Mobile primary">'+navLinks()+'</nav></div></div></header>';
+    '<button class="acx-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="acx-mobile-drawer"><span></span></button></div></div>'+
+    '<div class="acx-mobile-drawer" id="acx-mobile-drawer" aria-hidden="true"><div class="acx-mobile-drawer-inner">'+
+      '<button class="acx-mobile-search" type="button" aria-label="Search Knowledge">'+searchIcon+'<span>Search Knowledge</span><span class="acx-mobile-search-key">⌘K</span></button>'+
+      '<section class="acx-mobile-section" aria-labelledby="acx-mobile-knowledge-label">'+
+        '<div class="acx-mobile-section-head"><span id="acx-mobile-knowledge-label">Knowledge</span><span class="acx-mobile-guide-count" aria-live="polite"></span></div>'+
+        '<nav class="acx-mobile-knowledge-nav" aria-label="Knowledge navigation"><a href="'+BASE+'" data-internal="true"><span>Knowledge home</span></a></nav>'+
+      '</section>'+
+      '<section class="acx-mobile-section acx-mobile-company-section" aria-labelledby="acx-mobile-company-label">'+
+        '<div class="acx-mobile-section-head"><span id="acx-mobile-company-label">Alle\'s ClinX</span></div>'+
+        '<nav class="acx-mobile-nav" aria-label="Alle\'s ClinX navigation">'+navLinks()+'</nav>'+
+      '</section>'+
+      '<div class="acx-mobile-drawer-foot"><a href="https://allesclinx.com/">Alle\'s ClinX</a><span>Open Knowledge</span></div>'+
+    '</div></div></header>';
   document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
 
   const siteHeader=document.querySelector('.acx-site-header');
@@ -63,7 +74,9 @@
 
   const menuBtn=document.querySelector('.acx-menu-button');
   const drawer=document.getElementById('acx-mobile-drawer');
-  const searchBtns=[...document.querySelectorAll('.acx-search-button')];
+  const mobileKnowledgeNav=document.querySelector('.acx-mobile-knowledge-nav');
+  const mobileGuideCount=document.querySelector('.acx-mobile-guide-count');
+  const searchBtns=[...document.querySelectorAll('.acx-search-button,.acx-mobile-search')];
   const closeBtn=dialog.querySelector('.acx-search-close');
   const input=dialog.querySelector('.acx-search-input');
   const results=dialog.querySelector('.acx-search-results');
@@ -73,13 +86,51 @@
   let activeIndex=-1;
   let visibleResults=[];
 
-  function setMenu(open){
+  let menuReturnFocus=null;
+
+  function syncMobileActiveLinks(){
+    const current=window.location.pathname.replace(/\/+$/,'/') || '/';
+    drawer.querySelectorAll('a[href]').forEach(function(link){
+      const href=link.getAttribute('href')||'';
+      const internal=href.startsWith(BASE);
+      if(!internal) return;
+      const normalized=href.replace(/\/+$/,'/') || '/';
+      const exact=current===normalized;
+      const section=!exact && normalized!==BASE && current.startsWith(normalized);
+      link.classList.toggle('is-current',exact||section);
+      if(exact) link.setAttribute('aria-current','page');
+      else link.removeAttribute('aria-current');
+    });
+  }
+
+  function setMenu(open,restoreFocus){
+    if(open){
+      menuReturnFocus=document.activeElement;
+      if(dialog.classList.contains('is-open')) closeSearch();
+    }
     menuBtn.setAttribute('aria-expanded',open?'true':'false');
     menuBtn.setAttribute('aria-label',open?'Close menu':'Open menu');
+    drawer.setAttribute('aria-hidden',open?'false':'true');
     drawer.classList.toggle('is-open',open);
     document.body.classList.toggle('acx-menu-open',open);
+    if(open){
+      syncMobileActiveLinks();
+      requestAnimationFrame(function(){
+        const first=drawer.querySelector('.acx-mobile-search');
+        if(first) first.focus({preventScroll:true});
+      });
+    }else if(restoreFocus!==false && menuReturnFocus && typeof menuReturnFocus.focus==='function'){
+      menuReturnFocus.focus({preventScroll:true});
+      menuReturnFocus=null;
+    }
   }
-  menuBtn.addEventListener('click',()=>setMenu(menuBtn.getAttribute('aria-expanded')!=='true'));
+  menuBtn.addEventListener('click',function(){setMenu(menuBtn.getAttribute('aria-expanded')!=='true');});
+  drawer.addEventListener('click',function(event){
+    if(event.target.closest('a[href]')) setMenu(false,false);
+  });
+  window.addEventListener('resize',function(){
+    if(window.innerWidth>960 && drawer.classList.contains('is-open')) setMenu(false,false);
+  });
 
   function esc(value){
     return String(value||'').replace(/[&<>"']/g,function(m){
@@ -182,6 +233,30 @@
     return BASE+path;
   }
 
+  function hydrateMobileKnowledge(records){
+    if(!mobileKnowledgeNav||!Array.isArray(records)) return;
+    const categories=new Map();
+    records.forEach(function(record){
+      if(!record.category_slug||!record.category||!record.article_id) return;
+      const key=record.category_slug;
+      if(!categories.has(key)) categories.set(key,{name:record.category,ids:new Set()});
+      categories.get(key).ids.add(record.article_id);
+    });
+    const home=mobileKnowledgeNav.querySelector('a[href="'+BASE+'"]');
+    mobileKnowledgeNav.innerHTML='';
+    if(home) mobileKnowledgeNav.appendChild(home);
+    categories.forEach(function(info,slug){
+      const link=document.createElement('a');
+      link.href=BASE+'library/'+slug+'/';
+      link.setAttribute('data-internal','true');
+      link.innerHTML='<span>'+esc(info.name)+'</span><small>'+info.ids.size+'</small>';
+      mobileKnowledgeNav.appendChild(link);
+    });
+    const total=new Set(records.map(function(record){return record.article_id;})).size;
+    if(mobileGuideCount) mobileGuideCount.textContent=total+' live guides';
+    syncMobileActiveLinks();
+  }
+
   async function loadRecords(){
     if(records) return records;
     statusLabel.textContent='Loading Knowledge index…';
@@ -190,6 +265,7 @@
       if(!response.ok) throw new Error('Search index unavailable');
       const data=await response.json();
       records=(data.records||[]).map(function(record,index){return Object.assign({_order:index},record);});
+      hydrateMobileKnowledge(records);
       const articleCount=new Set(records.map(function(record){return record.article_id;})).size;
       countLabel.textContent=articleCount+' live guides · English + हिन्दी';
       statusLabel.textContent='Search all live Knowledge guides';
@@ -279,6 +355,8 @@
     requestAnimationFrame(function(){input.focus();});
   }
 
+  loadRecords();
+
   function closeSearch(){
     dialog.classList.remove('is-open');
     document.body.classList.remove('acx-search-open');
@@ -324,7 +402,21 @@
     }
     if(event.key==='Escape'){
       if(dialog.classList.contains('is-open')) closeSearch();
-      else setMenu(false);
+      else if(drawer.classList.contains('is-open')) setMenu(false);
+    }
+    if(event.key==='Tab'&&drawer.classList.contains('is-open')){
+      const focusable=[...drawer.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
+        return el.offsetParent!==null;
+      });
+      if(focusable.length){
+        const first=focusable[0];
+        const last=focusable[focusable.length-1];
+        if(event.shiftKey&&document.activeElement===first){
+          event.preventDefault();last.focus();
+        }else if(!event.shiftKey&&document.activeElement===last){
+          event.preventDefault();first.focus();
+        }
+      }
     }
   });
 })();
