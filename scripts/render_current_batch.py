@@ -172,7 +172,8 @@ for live_id in LIVE.get("live_article_ids", []):
         "category_slug": en["category_slug"],
         "subcategory": en["subcategory"],
         "subcategory_slug": en["subcategory_slug"],
-        "url": route(en).lstrip("/")
+        "excerpt": en.get("excerpt", ""),
+        "url": route(en).removeprefix("/knowledge-library/")
     })
 
 (ROOT / "docs" / "assets" / "live-search.json").write_text(
