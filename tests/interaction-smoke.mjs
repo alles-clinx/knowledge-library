@@ -168,8 +168,12 @@ try{
 
   const sections=ma.locator('#article-content section[id]');
   assert(await sections.count()>1,'Article has too few sections for scroll navigation test');
-  await sections.nth(1).scrollIntoViewIfNeeded();
-  await wait(300);
+  await ma.evaluate(()=>{
+    const section=document.querySelectorAll('#article-content section[id]')[1];
+    section?.scrollIntoView({behavior:'auto',block:'start'});
+    window.dispatchEvent(new Event('scroll'));
+  });
+  await wait(350);
   const progress=ma.locator('#acx-scroll-progress');
   assert(await progress.isVisible(),'Mobile floating scroll navigation did not become visible');
   await ma.locator('#acx-scroll-progress-toggle').click();
