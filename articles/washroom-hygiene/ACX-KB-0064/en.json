@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0064",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Grout Gets Darker Than Tile",
+  "slug": "why-grout-gets-darker-than-tile",
+  "subcategory": "Tiles & Grout",
+  "subcategory_slug": "tiles-grout",
+  "excerpt": "Grout often darkens before tile because many grout systems are more porous and textured than glazed tile, so they retain moisture, soil and staining material more readily.",
+  "content_html": "<p>Tile and grout can sit next to each other but behave very differently during cleaning. Many glazed tiles have a relatively smooth, low-absorption face, while conventional cement-based grout is more porous and textured. That difference makes grout more likely to hold moisture and soil and therefore look darker.</p>\n<h2 id=\"porosity-and-texture\">Porosity and texture</h2><p>NPS guidance on ceramic tile notes that tile systems and grout can be porous and that cleaning materials can penetrate them. A rough grout joint presents more microscopic texture than a smooth glazed tile face, giving soil more places to lodge.</p>\n<h2 id=\"moisture\">Moisture can darken grout temporarily</h2><p>Cementitious grout commonly appears darker when wet. In washrooms, repeated splashing, condensation or slow drying can therefore create persistent-looking dark zones even before heavy soil is present.</p>\n<h2 id=\"soil-and-product-residue\">Soil and product residue can accumulate</h2><p>Soap residue, body soils and cleaning-product film can collect in recessed joints. If rinse water or dirty solution is repeatedly pushed into grout lines, the joint can darken faster than the surrounding tile.</p>\n<h2 id=\"mold-and-moisture\">Persistent dampness can support mold growth</h2><p>EPA specifically identifies bathroom tile and grout as common places for indoor mold when moisture persists. Moisture control is therefore part of grout appearance management, not just a cleaning issue.</p>\n<h2 id=\"not-all-grout-is-the-same\">Not all grout is the same</h2><p>Cementitious, epoxy and sealed grout systems have different porosity and chemical resistance. Do not assume that one acid, bleach or abrasive process is safe for every installation. Follow the grout and tile manufacturer's maintenance instructions.</p>\n<h2 id=\"a-grout-diagnosis\">A grout diagnosis</h2><ol>\n<li>Let the area dry fully and see whether the colour lightens.</li>\n<li>Compare high-splash joints with dry protected joints.</li>\n<li>Check for soap or cleaner residue.</li>\n<li>Inspect for cracked grout, missing sealer or persistent moisture.</li>\n<li>If biological growth is suspected, address the moisture source as well as cleaning the surface.</li>\n<li>Use the gentlest compatible method first and rinse thoroughly where the system requires it.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Grout usually darkens faster because it is more textured, often more porous and slower to dry than glazed tile. Diagnose moisture, residue, soil and material condition before reaching for stronger chemistry.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://home.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf\">U.S. National Park Service — Preservation Brief 40: Historic Ceramic Tile Floors</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold Course: Moisture and Bathroom Tile/Grout</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home\">U.S. EPA — A Brief Guide to Mold, Moisture and Your Home</a>.</li>\n</ol>",
+  "seo_title": "Why Grout Gets Darker Than Tile | Alle's ClinX Knowledge",
+  "meta_description": "Learn why grout can darken faster than tile through porosity, texture, moisture, residue, soil and mold—and how to diagnose the cause before stronger cleaning.",
+  "related_article_ids": [
+    "ACX-KB-0062",
+    "ACX-KB-0063",
+    "ACX-KB-0053"
+  ]
+}

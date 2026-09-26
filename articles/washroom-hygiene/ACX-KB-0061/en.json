@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0061",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Limescale?",
+  "slug": "what-is-limescale",
+  "subcategory": "Limescale & Mineral Deposits",
+  "subcategory_slug": "limescale-mineral-deposits",
+  "excerpt": "Limescale is a hard mineral deposit, commonly rich in calcium carbonate, that forms as hard water is heated, evaporates or repeatedly wets a surface and leaves dissolved minerals behind.",
+  "content_html": "<p>Limescale is a hard mineral deposit that develops from mineral-rich water. It is commonly associated with calcium carbonate and other hardness minerals that remain when water is heated, evaporates or repeatedly contacts a surface.</p>\n<h2 id=\"where-the-minerals-come-from\">Where the minerals come from</h2><p>USGS defines water hardness mainly by dissolved calcium and magnesium. Water picks up these minerals as it moves through rock and soil, especially limestone- and dolomite-rich geology.</p>\n<h2 id=\"how-scale-forms\">How scale forms</h2><p>When hard water evaporates or is heated, some dissolved minerals can precipitate and remain on the surface. Repeated cycles can turn a light film into a harder deposit. USGS notes that hard water can form solid calcium-carbonate scale in pipes, heaters and equipment.</p>\n<h2 id=\"where-limescale-appears\">Where limescale commonly appears</h2><ul>\n<li>Taps and faucet aerators.</li>\n<li>Toilet and urinal waterlines.</li>\n<li>Showerheads and screens.</li>\n<li>Tile edges and grout near repeated splashing.</li>\n<li>Glass and polished fittings exposed to drying droplets.</li>\n</ul>\n<h2 id=\"limescale-vs-everyday-soil\">Limescale is not the same as everyday soil</h2><p>Routine soil may be removed with a compatible neutral cleaner, while established mineral scale may require a product specifically designed to dissolve mineral deposits. The fact that a deposit is hard to remove does not justify using an aggressive acid on an incompatible surface.</p>\n<h2 id=\"appearance\">What limescale can look like</h2><p>Early scale may appear as a cloudy film, water spots or a rough white deposit. On darker surfaces it can be highly visible. On porous or textured surfaces, mineral material can combine with soil and become darker or harder to identify.</p>\n<h2 id=\"prevention\">How routine care limits buildup</h2><p>Drying splash-prone surfaces where practical, removing early film, maintaining fixture flow and using compatible periodic scale-removal procedures can slow heavy buildup. Where hardness is consistently high, recurring scale may also need to be managed as a water-quality or engineering issue.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Limescale is mineral deposit, not simply “stubborn dirt.” Identify the surface and deposit first, then use a compatible maintenance method instead of increasing chemistry blindly.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://pubs.usgs.gov/gip/gw/quality.html\">USGS — Quality of Ground Water</a>.</li>\n</ol>",
+  "seo_title": "What Is Limescale? | Alle's ClinX Knowledge",
+  "meta_description": "Learn how dissolved calcium and magnesium in hard water can form limescale on fixtures, glass, tile and plumbing through repeated wetting, heating and evaporation.",
+  "related_article_ids": [
+    "ACX-KB-0058",
+    "ACX-KB-0062",
+    "ACX-KB-0063"
+  ]
+}

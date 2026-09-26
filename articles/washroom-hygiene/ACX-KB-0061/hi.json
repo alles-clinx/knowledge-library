@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0061",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0061",
+  "title": "Limescale क्या है?",
+  "slug": "what-is-limescale",
+  "subcategory": "Limescale & Mineral Deposits",
+  "subcategory_slug": "limescale-mineral-deposits",
+  "excerpt": "Limescale hard mineral deposit है, commonly calcium-carbonate rich, जो hard water के heating, evaporation या repeated wetting के बाद minerals पीछे रहने से बनती है।",
+  "content_html": "<p>Limescale mineral-rich water से बनने वाली hard deposit है। यह commonly calcium carbonate और other hardness minerals से जुड़ी होती है जो heating, evaporation या repeated wetting के बाद surface पर remain करते हैं।</p>\n<h2 id=\"hi61-source\">Minerals कहाँ से आते हैं</h2><p>USGS water hardness को mainly dissolved calcium और magnesium से define करता है। Water rock/soil से गुजरते समय minerals pick up करती है।</p>\n<h2 id=\"hi61-form\">Scale कैसे बनती है</h2><p>Hard water evaporate या heat होने पर dissolved minerals precipitate होकर surface पर रह सकते हैं। Repeated cycles light film को harder deposit में बदल सकते हैं।</p>\n<h2 id=\"hi61-where\">Limescale कहाँ दिखती है</h2><ul>\n<li>Taps और aerators.</li>\n<li>Toilet/urinal waterlines.</li>\n<li>Showerheads और screens.</li>\n<li>Splash-prone tile/grout edges.</li>\n<li>Glass और polished fittings.</li>\n</ul>\n<h2 id=\"hi61-soil\">Limescale everyday soil जैसी नहीं है</h2><p>Routine soil compatible neutral cleaner से remove हो सकती है, जबकि established scale mineral-removal chemistry मांग सकती है। Hard-to-remove deposit aggressive acid use करने का automatic reason नहीं है।</p>\n<h2 id=\"hi61-look\">Appearance</h2><p>Early scale cloudy film, water spots या rough white deposit जैसी दिख सकती है। Dark surfaces पर ज्यादा visible होती है। Porous/textured surfaces पर soil के साथ mix होकर darker भी दिख सकती है।</p>\n<h2 id=\"hi61-prevent\">Routine care buildup कैसे limit करती है</h2><p>जहाँ practical हो splash-prone surfaces dry करना, early film remove करना, fixture flow maintain करना और compatible periodic scale removal heavy buildup slow कर सकते हैं। High hardness recurring हो तो water-quality/engineering issue भी consider करें।</p>\n<h2 id=\"hi61-takeaway\">Practical takeaway</h2><p>Limescale mineral deposit है, सिर्फ stubborn dirt नहीं। Surface और deposit identify करके compatible maintenance method use करें।</p>\n<h2 id=\"hi61-references\">संदर्भ</h2><ol>\n<li id=\"hi61-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi61-ref-2\"><a href=\"https://pubs.usgs.gov/gip/gw/quality.html\">USGS — Quality of Ground Water</a>.</li>\n</ol>",
+  "seo_title": "Limescale क्या है? | Alle's ClinX",
+  "meta_description": "Hard water के calcium/magnesium minerals repeated wetting, heating और evaporation से limescale कैसे बनाते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0058",
+    "ACX-KB-0062",
+    "ACX-KB-0063"
+  ]
+}

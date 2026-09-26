@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0060",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0060",
+  "title": "Urinals में persistent odour क्यों develop होती है?",
+  "slug": "why-urinals-develop-persistent-odours",
+  "subcategory": "Toilet & Urinal Care",
+  "subcategory_slug": "toilet-urinal-care",
+  "excerpt": "Persistent urinal odour अक्सर remaining urine residue, mineral/urine scale, contaminated splash zones, drain biofilm, trap-seal problems या inadequate flushing का संकेत होती है।",
+  "content_html": "<p>Persistent urinal odour troubleshooting signal है। Cleaning के थोड़ी देर बाद smell वापस आए तो source पूरी तरह remove/control नहीं हुई। Fragrance residue, scale, drain contamination या plumbing problem solve नहीं करती।</p>\n<h2 id=\"hi60-residue\">Cause 1: Bowl के बाहर residue</h2><p>Urine rim, underside, wall, floor, partitions, grout, fasteners और splash zone तक पहुँच सकती है। केवल visible bowl clean करने से surrounding contamination remain कर सकती है।</p>\n<h2 id=\"hi60-scale\">Cause 2: Mineral या urine-related scale</h2><p>Hard-water minerals और other deposits rough surface बना सकते हैं जो smooth porcelain से ज्यादा soil hold करती है। Routine cleaner fresh soil remove कर सकती है लेकिन established scale नहीं।</p>\n<h2 id=\"hi60-drain\">Cause 3: Drain/biofilm contamination</h2><p>CDC बताता है moist plumbing drains/traps में persistent biofilm develop हो सकती है। Surface clean दिखे फिर भी deeper drain system source हो सकता है। Random chemicals mix या pour न करें; facility procedure follow करें।</p>\n<h2 id=\"hi60-trap\">Cause 4: Trap-seal या drainage problem</h2><p>EPA WaterSense guidance बताती है urinals trap seals से sewer odours/gases को block करते हैं। Waterless cartridge, liquid seal, trap या drainage component improperly maintained हो तो issue cleaning नहीं, maintenance हो सकती है।</p>\n<h2 id=\"hi60-flow\">Cause 5: Inadequate flushing/flow</h2><p>Low flow, blocked outlet या poorly maintained waterless system sediment/residue accumulate कर सकती है। Stronger chemistry बढ़ाने की बजाय fixture maintenance requirements check करें।</p>\n<h2 id=\"hi60-check\">Source-based check</h2><ol>\n<li>Complete splash zone clean करें, केवल bowl नहीं.</li>\n<li>Rim underside, joints, grout और floor edges inspect करें.</li>\n<li>Scale/rough deposits check करें.</li>\n<li>Flushing, drainage और trap-seal condition confirm करें.</li>\n<li>Correct surface cleaning के बाद odour रहे तो plumbing/drain maintenance escalate करें.</li>\n</ol>\n<h2 id=\"hi60-takeaway\">Practical takeaway</h2><p>Persistent odour source पर solve करें। Complete contamination zone clean करें, scale को routine soil से अलग treat करें, और drain/trap problem को maintenance issue मानें।</p>\n<h2 id=\"hi60-references\">संदर्भ</h2><ol>\n<li id=\"hi60-ref-1\"><a href=\"https://www.epa.gov/watersense/watersense-work\">U.S. EPA WaterSense at Work</a>.</li>\n<li id=\"hi60-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Sinks and Drains</a>.</li>\n<li id=\"hi60-ref-3\"><a href=\"https://www.gsa.gov/system/files?file=National+Custodial+Specification+-+1.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "Persistent Urinal Odour | Alle's ClinX",
+  "meta_description": "Splash-zone residue, scale, drain biofilm, trap seals, drainage और flushing check करके persistent urinal odour troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0058",
+    "ACX-KB-0059",
+    "ACX-KB-0061"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0063",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Mineral Deposits Return After Cleaning",
+  "slug": "why-mineral-deposits-return-after-cleaning",
+  "subcategory": "Limescale & Mineral Deposits",
+  "subcategory_slug": "limescale-mineral-deposits",
+  "excerpt": "Mineral deposits return when the source water remains hard, surfaces repeatedly wet and dry, scale is only partly removed, leaks continue or rough deposits make new mineral buildup easier to see.",
+  "content_html": "<p>Removing visible mineral film does not change the water that created it. If the same hard water continues to wet and dry on a surface, deposits can return. Recurrence is therefore often a water-and-maintenance cycle rather than proof that the previous cleaning did nothing.</p>\n<h2 id=\"hard-water-source-remains\">The hard-water source remains</h2><p>USGS identifies calcium and magnesium as the main contributors to water hardness. If hardness remains unchanged, every new wetting event delivers more dissolved minerals to the surface.</p>\n<h2 id=\"evaporation-repeats\">Repeated evaporation repeats the deposit</h2><p>Water that is wiped away or drained leaves fewer minerals behind than droplets allowed to evaporate in place. Taps, shower screens, waterlines and splash zones therefore show recurring deposits when they repeatedly air-dry.</p>\n<h2 id=\"partial-removal\">The old scale may be only partly removed</h2><p>A light surface film may disappear while thicker deposits remain in joints, aerators, textured areas or under fixture edges. Those remaining deposits create a rough surface and make new accumulation more visible.</p>\n<h2 id=\"leaks-and-drips\">Leaks and drips accelerate recurrence</h2><p>A slow leak creates continuous mineral delivery to one location. Before increasing descaling frequency, correct dripping taps, running valves, poor drainage or other water-control problems.</p>\n<h2 id=\"surface-damage-or-porosity\">Surface condition changes what you see</h2><p>Etched, porous or rough surfaces retain water and deposits differently from smooth intact surfaces. If the surface itself has changed, repeated scale removal may not restore the original appearance.</p>\n<h2 id=\"a-recurrence-check\">A recurrence check</h2><ol>\n<li>Confirm whether the returning film is actually mineral scale.</li>\n<li>Check the facility's water-hardness data where available.</li>\n<li>Look for repeated wetting, dripping or evaporation patterns.</li>\n<li>Inspect joints, aerators and textured areas for remaining scale.</li>\n<li>Correct water-control problems before shortening the cleaning interval.</li>\n<li>Use water treatment or engineering review where scale is an ongoing system issue.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Mineral deposits return because the mineral source and wet-dry cycle continue. Cleaning removes the deposit; water control, maintenance and—where justified—water treatment reduce how quickly it comes back.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://pubs.usgs.gov/gip/gw/quality.html\">USGS — Quality of Ground Water</a>.</li>\n</ol>",
+  "seo_title": "Why Mineral Deposits Return After Cleaning | Alle's ClinX",
+  "meta_description": "Learn why hard-water deposits recur through repeated wetting and evaporation, incomplete scale removal, leaks and persistent water hardness.",
+  "related_article_ids": [
+    "ACX-KB-0061",
+    "ACX-KB-0062",
+    "ACX-KB-0058"
+  ]
+}

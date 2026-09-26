@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0064",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0064",
+  "title": "Grout tile से darker क्यों हो जाती है",
+  "slug": "why-grout-gets-darker-than-tile",
+  "subcategory": "Tiles & Grout",
+  "subcategory_slug": "tiles-grout",
+  "excerpt": "Grout अक्सर tile से पहले dark होती है क्योंकि कई grout systems glazed tile से ज्यादा porous/textured होती हैं और moisture, soil तथा staining material ज्यादा retain करती हैं।",
+  "content_html": "<p>Tile और grout साथ होते हुए भी cleaning में differently behave कर सकते हैं। Glazed tile face relatively smooth/low-absorption हो सकती है, जबकि conventional cement grout ज्यादा porous/textured होती है।</p>\n<h2 id=\"hi64-porosity\">Porosity और texture</h2><p>NPS ceramic tile guidance बताती है कि tile systems/grout porous हो सकते हैं और cleaning materials penetrate कर सकते हैं। Rough grout joints में soil के लिए ज्यादा microscopic spaces होते हैं।</p>\n<h2 id=\"hi64-moisture\">Moisture grout को temporarily dark कर सकती है</h2><p>Cementitious grout wet होने पर darker दिख सकती है। Repeated splashing, condensation या slow drying dark zones create कर सकते हैं।</p>\n<h2 id=\"hi64-residue\">Soil और product residue accumulate हो सकते हैं</h2><p>Soap residue, body soils और cleaner film recessed joints में collect हो सकते हैं। Dirty solution grout lines में push हो तो joint tile से faster dark हो सकती है।</p>\n<h2 id=\"hi64-mold\">Persistent dampness mold support कर सकती है</h2><p>EPA bathroom tile और grout को persistent moisture में common mold locations बताता है। इसलिए moisture control appearance management का हिस्सा है।</p>\n<h2 id=\"hi64-types\">हर grout same नहीं होती</h2><p>Cementitious, epoxy और sealed grout systems की porosity/chemical resistance अलग होती है। One acid, bleach या abrasive process हर installation के लिए safe assume न करें।</p>\n<h2 id=\"hi64-diagnose\">Grout diagnosis</h2><ol>\n<li>Area fully dry होने दें और देखें colour lighten होती है या नहीं.</li>\n<li>High-splash joints को dry protected joints से compare करें.</li>\n<li>Soap/cleaner residue check करें.</li>\n<li>Cracked grout, missing sealer या persistent moisture inspect करें.</li>\n<li>Biological growth suspected हो तो moisture source भी address करें.</li>\n<li>Gentlest compatible method से start करें और required rinse करें.</li>\n</ol>\n<h2 id=\"hi64-takeaway\">Practical takeaway</h2><p>Grout tile से faster dark हो सकती है क्योंकि वह अधिक textured, अक्सर अधिक porous और slower-drying होती है। Stronger chemistry से पहले moisture, residue, soil और material condition diagnose करें।</p>\n<h2 id=\"hi64-references\">संदर्भ</h2><ol>\n<li id=\"hi64-ref-1\"><a href=\"https://home.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf\">U.S. NPS — Ceramic Tile Floors</a>.</li>\n<li id=\"hi64-ref-2\"><a href=\"https://www.epa.gov/mold/mold-course-chapter-1\">U.S. EPA — Mold and Moisture</a>.</li>\n<li id=\"hi64-ref-3\"><a href=\"https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home\">U.S. EPA — Mold, Moisture and Your Home</a>.</li>\n</ol>",
+  "seo_title": "Grout Tile से Darker क्यों होती है | Alle's ClinX",
+  "meta_description": "Porosity, texture, moisture, residue, soil और mold के कारण grout tile से darker क्यों होती है, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0062",
+    "ACX-KB-0063",
+    "ACX-KB-0053"
+  ]
+}

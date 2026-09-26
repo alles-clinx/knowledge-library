@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0060",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Urinals Develop Persistent Odours",
+  "slug": "why-urinals-develop-persistent-odours",
+  "subcategory": "Toilet & Urinal Care",
+  "subcategory_slug": "toilet-urinal-care",
+  "excerpt": "Persistent urinal odour usually means the source remains—such as urine residue, mineral or urine scale, contaminated splash zones, drain biofilm, trap-seal problems or inadequate flushing—rather than a lack of fragrance.",
+  "content_html": "<p>A persistent urinal odour is a troubleshooting signal. If odour returns soon after cleaning, the source has probably not been fully removed or controlled. Masking the smell with fragrance does not correct residue, scale, drain contamination or a plumbing problem.</p>\n<h2 id=\"residue-outside-the-bowl\">Cause 1: Residue outside the obvious bowl area</h2><p>Urine can reach the rim, underside, wall, floor, partitions, grout, fasteners and splash zone around the fixture. If only the visible bowl is cleaned, contaminated surrounding surfaces can continue to produce odour.</p>\n<h2 id=\"scale-and-rough-deposits\">Cause 2: Mineral or urine-related scale</h2><p>Hard-water minerals and other deposits can create a rough surface that holds soil more effectively than smooth porcelain. Routine cleaner may remove fresh soil without removing established scale, allowing odour-causing residue to remain in the deposit.</p>\n<h2 id=\"drain-and-biofilm\">Cause 3: Drain or biofilm contamination</h2><p>CDC notes that drains and traps can develop persistent biofilms in moist plumbing systems. A fixture that looks clean at the surface can therefore still have contamination deeper in the drain system. Do not pour random chemicals into a drain; follow the fixture and facility maintenance procedure.</p>\n<h2 id=\"trap-seal-or-drainage\">Cause 4: Trap-seal or drainage problems</h2><p>EPA WaterSense guidance explains that urinals rely on trap-seal designs to prevent odours and sewer gases from escaping. If a waterless cartridge, liquid seal, trap or drainage component is not maintained correctly, odour may be a plumbing or maintenance issue rather than a surface-cleaning issue.</p>\n<h2 id=\"flushing-and-flow\">Cause 5: Inadequate flushing or poor flow</h2><p>Low flow, blocked outlets or poorly maintained waterless systems can allow sediment or residue to accumulate in drain lines. Check the fixture's flushing or cartridge-maintenance requirements instead of compensating with stronger surface chemistry.</p>\n<h2 id=\"a-source-based-check\">A source-based check</h2><ol>\n<li>Clean the entire splash zone, not only the bowl.</li>\n<li>Inspect under rims, joints, grout and nearby floor edges.</li>\n<li>Check for visible scale or rough deposits.</li>\n<li>Confirm flushing, drainage and trap-seal condition.</li>\n<li>If odour persists after correct surface cleaning, escalate the drain or plumbing system for maintenance review.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Persistent odour should be solved at the source. Clean the complete contamination zone, separate mineral buildup from routine soil, and treat drain or trap problems as maintenance issues rather than repeatedly adding fragrance or cleaner.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.epa.gov/watersense/watersense-work\">U.S. EPA WaterSense at Work — Urinals and Trap Seals</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/php/toolkit/water-management.html\">CDC — Water in Healthcare Facilities: Sinks and Drains</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/system/files?file=National+Custodial+Specification+-+1.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n</ol>",
+  "seo_title": "Why Urinals Develop Persistent Odours | Alle's ClinX",
+  "meta_description": "Troubleshoot persistent urinal odour by checking splash-zone residue, mineral scale, drain biofilm, trap seals, drainage and flushing rather than masking the smell.",
+  "related_article_ids": [
+    "ACX-KB-0058",
+    "ACX-KB-0059",
+    "ACX-KB-0061"
+  ]
+}

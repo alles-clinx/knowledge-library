@@ -1,0 +1,27 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0063",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0063",
+  "title": "Cleaning के बाद mineral deposits वापस क्यों आती हैं",
+  "slug": "why-mineral-deposits-return-after-cleaning",
+  "subcategory": "Limescale & Mineral Deposits",
+  "subcategory_slug": "limescale-mineral-deposits",
+  "excerpt": "Mineral deposits तब वापस आती हैं जब source water hard रहती है, surfaces repeatedly wet/dry होती हैं, scale partly remain करती है या leaks continuous mineral delivery करती हैं।",
+  "content_html": "<p>Visible mineral film remove करना उस water को change नहीं करता जिसने deposit बनाई। Same hard water surface पर wet/dry होती रहे तो deposits वापस आएँगी।</p>\n<h2 id=\"hi63-source\">Hard-water source remain करती है</h2><p>USGS calcium और magnesium को water hardness के main contributors बताता है। Hardness unchanged हो तो हर wetting event new minerals surface तक लाती है।</p>\n<h2 id=\"hi63-evaporation\">Repeated evaporation deposit repeat करती है</h2><p>Wiped/drained water कम minerals छोड़ती है; surface पर evaporate होने वाली droplets ज्यादा visible deposits बना सकती हैं।</p>\n<h2 id=\"hi63-partial\">Old scale partly remove हुई हो सकती है</h2><p>Light film disappear हो सकती है जबकि thicker scale joints, aerators, textured areas या fixture edges में remain करे।</p>\n<h2 id=\"hi63-leaks\">Leaks/drips recurrence बढ़ाते हैं</h2><p>Slow leak continuously minerals एक location पर deliver करती है। Descaling frequency बढ़ाने से पहले dripping taps, running valves और poor drainage fix करें।</p>\n<h2 id=\"hi63-surface\">Surface condition appearance बदलती है</h2><p>Etched, porous या rough surfaces smooth surfaces से differently water/minerals retain करती हैं। Surface itself changed हो तो repeated descaling original appearance restore नहीं कर सकती।</p>\n<h2 id=\"hi63-check\">Recurrence check</h2><ol>\n<li>Confirm करें returning film mineral scale ही है.</li>\n<li>Available water-hardness data check करें.</li>\n<li>Repeated wetting/dripping/evaporation patterns देखें.</li>\n<li>Joints/aerators/textured areas में remaining scale inspect करें.</li>\n<li>Cleaning interval shorten करने से पहले water-control problems correct करें.</li>\n<li>Ongoing system issue हो तो water treatment/engineering review consider करें.</li>\n</ol>\n<h2 id=\"hi63-takeaway\">Practical takeaway</h2><p>Mineral deposits source water और wet-dry cycle continue होने से return करती हैं। Cleaning deposit remove करती है; water control और maintenance return rate कम करते हैं।</p>\n<h2 id=\"hi63-references\">संदर्भ</h2><ol>\n<li id=\"hi63-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi63-ref-2\"><a href=\"https://pubs.usgs.gov/gip/gw/quality.html\">USGS — Quality of Ground Water</a>.</li>\n</ol>",
+  "seo_title": "Mineral Deposits वापस क्यों आती हैं | Alle's ClinX",
+  "meta_description": "Hard water, repeated evaporation, remaining scale और leaks के कारण mineral deposits क्यों recur करती हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0061",
+    "ACX-KB-0062",
+    "ACX-KB-0058"
+  ]
+}

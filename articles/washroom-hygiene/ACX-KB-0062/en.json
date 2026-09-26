@@ -1,0 +1,25 @@
+{
+  "category": "Washroom Hygiene",
+  "category_slug": "washroom-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0062",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Hard-Water Stains vs Soap Residue",
+  "slug": "hard-water-stains-vs-soap-residue",
+  "subcategory": "Limescale & Mineral Deposits",
+  "subcategory_slug": "limescale-mineral-deposits",
+  "excerpt": "Hard-water stains are mineral deposits left as water dries; soap residue or soap scum forms when soap and hard-water minerals react or when cleaning product remains on the surface.",
+  "content_html": "<p>Hard-water stains and soap residue can both look white, gray or cloudy, but they are not the same deposit. Correct troubleshooting depends on knowing whether the material came mainly from the water, from the cleaning product, or from a reaction between the two.</p>\n<h2 id=\"hard-water-stains\">Hard-water stains</h2><p>USGS describes hard water as water containing relatively high levels of dissolved calcium and magnesium. When droplets evaporate, mineral material can remain as spots or film. Repeated drying can build a more persistent scale.</p>\n<h2 id=\"soap-scum\">Soap scum</h2><p>USGS also explains that soap reacts with calcium in hard water to form insoluble “soap scum.” This residue is therefore not simply dried water—it is a reaction product involving both soap and hardness minerals.</p>\n<h2 id=\"cleaner-residue\">Cleaner residue is a third possibility</h2><p>Not every cloudy film is hard water or soap scum. Over-concentrated detergent, too much product or incomplete rinsing can leave cleaning chemistry behind. Review dilution and rinse instructions before diagnosing the deposit.</p>\n<h2 id=\"clues\">Practical clues</h2><table class=\"data-table\"><thead><tr><th>Clue</th><th>Hard-water mineral film</th><th>Soap residue / scum</th></tr></thead><tbody>\n<tr><td>Typical source</td><td>Drying water droplets</td><td>Soap plus hard-water minerals or excess product</td></tr>\n<tr><td>Common location</td><td>Taps, glass, fixtures, waterlines</td><td>Sinks, shower zones, handwashing areas</td></tr>\n<tr><td>Appearance</td><td>Spots, chalky haze, scale</td><td>Waxy, cloudy, white-gray film</td></tr>\n<tr><td>Best first check</td><td>Water hardness and drying pattern</td><td>Product type, amount, rinse and water hardness</td></tr>\n</tbody></table>\n<h2 id=\"why-diagnosis-matters\">Why diagnosis matters</h2><p>A mineral-removal product may be appropriate for some scale deposits but incompatible with acid-sensitive stone, metal or coatings. Soap residue may respond better to correcting product use and rinsing. Identify the surface before choosing chemistry.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Hard-water stains come mainly from minerals left by water; soap scum forms when soap and hardness minerals react. Similar appearance does not mean the same cleaning method is safe.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/water-qa-why-cant-i-rinse-soap-my-hands-0\">USGS — Soap and Water Hardness</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Hard-Water Stains vs Soap Residue | Alle's ClinX",
+  "meta_description": "Compare hard-water mineral stains with soap residue and soap scum by source, appearance, location and the cleaning checks needed before treatment.",
+  "related_article_ids": [
+    "ACX-KB-0061",
+    "ACX-KB-0063",
+    "ACX-KB-0053"
+  ]
+}
