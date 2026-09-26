@@ -326,6 +326,26 @@
 }
 .acx-search-count{white-space:nowrap;font-variant-numeric:tabular-nums}
 
+.acx-bottom-brand{
+  width:100%;
+  margin-top:clamp(88px,10vw,150px);
+  padding:0 20px max(8px,env(safe-area-inset-bottom));
+  overflow:hidden;
+  color:transparent;
+  background:linear-gradient(180deg,rgba(11,11,12,.18) 0%,rgba(11,11,12,.10) 42%,rgba(11,11,12,.035) 72%,rgba(11,11,12,0) 100%);
+  -webkit-background-clip:text;
+  background-clip:text;
+  -webkit-text-fill-color:transparent;
+  font-size:clamp(72px,15.5vw,230px);
+  line-height:.78;
+  font-weight:500;
+  letter-spacing:-.075em;
+  white-space:nowrap;
+  text-align:center;
+  user-select:none;
+  pointer-events:none;
+}
+
 body.acx-menu-open,body.acx-search-open{overflow:hidden}
 @media(max-width:960px){
   .acx-site-header{height:62px}
@@ -344,6 +364,7 @@ body.acx-menu-open,body.acx-search-open{overflow:hidden}
   .acx-mobile-drawer-inner{min-height:calc(100dvh - 62px)}
 }
 @media(max-width:560px){
+  .acx-bottom-brand{font-size:clamp(64px,20vw,110px);margin-top:78px;padding-inline:10px}
   .acx-site-bar{width:calc(100% - 28px)}
   .acx-brand-cluster{gap:9px}
   .acx-wordmark{font-size:16px}
