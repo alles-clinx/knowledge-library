@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0032",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Natural Stone Can Look Dull or Hazy After Cleaning",
+  "slug": "why-natural-stone-can-look-dull-or-hazy-after-cleaning",
+  "subcategory": "Natural Stone",
+  "subcategory_slug": "natural-stone",
+  "excerpt": "Dull or hazy natural stone may be caused by removable residue, hard-water film, incompatible chemistry, abrasion, finish wear or etching—so diagnose before re-cleaning.",
+  "content_html": "<p>Natural stone that looks dull or hazy after cleaning does not have one single cause. The appearance may come from something sitting on the surface, or from the surface itself being changed. Those two situations require very different responses.</p>\n<h2 id=\"cause-cleaning-residue\">Cause 1: Cleaning residue</h2><p>Incorrect dilution, too much product or incomplete removal can leave a film that becomes visible after drying. CDC recommends preparing products according to manufacturer instructions and considering residue removal where required.</p>\n<h2 id=\"cause-hard-water-film\">Cause 2: Hard-water film</h2><p>USGS notes that hard water contains dissolved calcium and magnesium and can leave spots or film after drying. On polished stone, a thin mineral deposit can reduce clarity and make the surface look hazy even when ordinary soil has been removed.</p>\n<h2 id=\"cause-acid-etching\">Cause 3: Acid etching</h2><p>For acid-sensitive stones such as marble, acidic chemistry can alter the surface. NPS warns against acid-based cleaners on acid-sensitive stone. Etching often looks like a dull patch because the original polish has been chemically changed.</p>\n<h2 id=\"cause-abrasion\">Cause 4: Excessive abrasion</h2><p>An aggressive pad, brush, abrasive powder or high-pressure process can microscratch or texture the surface. NPS guidance warns that excessive pressure and abrasive methods can damage softer stone. More scrubbing can therefore make haze worse rather than better.</p>\n<h2 id=\"cause-finish-wear\">Cause 5: Finish wear or maintenance need</h2><p>A polished surface can gradually lose reflectivity from traffic and wear. If a controlled clean removes no visible film and the dullness is concentrated in traffic lanes, the issue may be maintenance or restoration rather than cleaning residue.</p>\n<h2 id=\"a-diagnostic-sequence\">A diagnostic sequence</h2><ol>\n<li>Identify the stone and finish.</li>\n<li>Check the product and dilution used.</li>\n<li>Re-clean a small test area with a compatible low-residue method.</li>\n<li>Check whether water quality or mineral film is contributing.</li>\n<li>Compare the test area after it dries completely.</li>\n<li>If haze remains, assess for etching, abrasion or finish wear before using stronger chemistry.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Haze is a symptom, not a diagnosis. First decide whether the problem is removable material on the stone or a changed stone surface. That distinction prevents repeated cleaning from turning a small finish problem into a larger one.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-01-cleaning-masonry.pdf\">U.S. National Park Service — Preservation Brief 1</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.nps.gov/orgs/1739/upload/book-keeping-it-clean.pdf\">U.S. National Park Service — Keeping It Clean</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-4\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Why Natural Stone Looks Dull or Hazy After Cleaning | Alle's ClinX",
+  "meta_description": "Diagnose dull or hazy natural stone by checking cleaning residue, hard-water film, acid etching, abrasion, finish wear and maintenance needs.",
+  "related_article_ids": [
+    "ACX-KB-0029",
+    "ACX-KB-0030",
+    "ACX-KB-0031"
+  ]
+}

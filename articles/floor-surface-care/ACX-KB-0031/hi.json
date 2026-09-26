@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0031",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0031",
+  "title": "Acidic cleaners marble को damage क्यों कर सकते हैं",
+  "slug": "why-acidic-cleaners-can-damage-marble",
+  "subcategory": "Natural Stone",
+  "subcategory_slug": "natural-stone",
+  "excerpt": "Acidic cleaners marble के carbonate minerals से react करके etching, dull patches और permanent finish change बना सकते हैं जिसे ordinary re-cleaning remove नहीं कर सकती।",
+  "content_html": "<p>Acidic cleaners marble को damage कर सकते हैं क्योंकि कई marbles में carbonate minerals होते हैं जो acid से react करते हैं। जो stubborn cleaning mark लगता है वह chemical etching हो सकता है—stone surface itself में change.</p>\n<h2 id=\"hi31-change\">Acid stone को change कर सकता है, केवल soil को नहीं</h2><p>U.S. National Park Service marble को acid-sensitive materials में रखता है और acid-sensitive stone पर acid-based cleaners generally avoid करने को कहता है। Chemical contamination पर act करने की बजाय mineral surface से react कर सकता है।</p>\n<h2 id=\"hi31-look\">Etching कैसी दिख सकती है</h2><p>Polished marble पर etching dull, light या hazy patch की तरह दिख सकती है क्योंकि smooth reflective surface microscopically alter हो गई होती है। Product remove होने के बाद भी gloss loss रह सकता है।</p>\n<h2 id=\"hi31-residue\">Etching residue जैसी नहीं है</h2><p>Residue surface पर बैठती है और suitable re-clean/rinse से remove हो सकती है। Etching surface change है। Repeated cleaning lost polish restore नहीं करती और stronger acid damage बढ़ा सकता है।</p>\n<h2 id=\"hi31-risks\">Common risk situations</h2><ul>\n<li>Acidic washroom/descaling product marble पर use करना.</li>\n<li>Ceramic tile, grout या mineral scale के लिए चुना product compatibility check बिना stone पर use करना.</li>\n<li>Acidic spill/cleaner surface पर ज्यादा देर छोड़ना.</li>\n<li>“Natural” acidic household ingredient को automatically stone-safe मान लेना.</li>\n</ul>\n<h2 id=\"hi31-unsure\">Unsure हों तो क्या करें</h2><p>Stone identify करें, product instructions review करें और broad application से पहले small inconspicuous test करें। CDC भी material compatibility और manufacturer instructions पर जोर देता है।</p>\n<h2 id=\"hi31-after\">Etching हो चुकी हो तो</h2><p>Chemical process repeat करना stop करें। Instructions के अनुसार remaining product remove करें, area dry होने दें और finish assess करें। Gloss/texture change हो तो correction cleaning की बजाय honing, polishing या specialist restoration मांग सकती है।</p>\n<h2 id=\"hi31-takeaway\">Practical takeaway</h2><p>Marble पर acid damage strength problem नहीं, compatibility problem है। Stone identify करें, incompatible acidic chemistry avoid करें और unfamiliar method को use से पहले test करें।</p>\n<h2 id=\"hi31-references\">संदर्भ</h2><ol>\n<li id=\"hi31-ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/book-keeping-it-clean.pdf\">U.S. National Park Service — Keeping It Clean</a>.</li>\n<li id=\"hi31-ref-2\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-01-cleaning-masonry.pdf\">U.S. National Park Service — Preservation Brief 1</a>.</li>\n<li id=\"hi31-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Acidic cleaners marble को क्यों damage करते हैं | Alle's ClinX",
+  "meta_description": "Marble etching, residue से उसका अंतर, common acid risks और restoration की जरूरत कब पड़ती है, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0029",
+    "ACX-KB-0030",
+    "ACX-KB-0032"
+  ]
+}

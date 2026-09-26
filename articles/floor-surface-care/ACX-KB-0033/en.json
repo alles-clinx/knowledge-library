@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0033",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Glass Streaks After Cleaning",
+  "slug": "why-glass-streaks-after-cleaning",
+  "subcategory": "Glass & Mirrors",
+  "subcategory_slug": "glass-mirrors",
+  "excerpt": "Glass streaks after cleaning when soil, product, mineral-rich water or contaminated wiping material is left behind or spread unevenly as the surface dries.",
+  "content_html": "<p>Streaks on glass are usually evidence that something was left behind or spread unevenly as the surface dried. The cause may be cleaning product, soil, water minerals, a dirty cloth or the wiping pattern—not simply “bad glass cleaner.”</p>\n<h2 id=\"cause-too-much-product\">Cause 1: Too much product or incorrect dilution</h2><p>CDC guidance says cleaning solutions should be prepared according to manufacturer instructions because both over- and under-dilution can affect performance. Excess product can leave more non-volatile material on the glass after water or solvent evaporates.</p>\n<h2 id=\"cause-dirty-cloth\">Cause 2: The cloth is carrying soil back onto the glass</h2><p>A cloth that is already loaded with oils, dust or cleaning solution can redistribute a thin film. Use clean wiping material and change to a fresh section before the cloth becomes visibly dirty or saturated.</p>\n<h2 id=\"cause-hard-water\">Cause 3: Hard water is leaving mineral film</h2><p>USGS notes that hard water can leave spots or cloudy film on glass as dissolved calcium and magnesium remain after drying. This is different from an oily streak, so repeating the same detergent process may not solve it.</p>\n<h2 id=\"cause-uneven-wiping\">Cause 4: Wiping and drying are uneven</h2><p>If cleaner is pushed repeatedly toward one edge, allowed to pool or partly dries before the final wipe, visible lines can remain. Work in manageable sections and use a consistent pattern so spent solution is removed rather than moved around.</p>\n<h2 id=\"cause-soil-was-not-fully-removed\">Cause 5: The original soil was not fully removed</h2><p>Finger oils, grease, adhesive traces and other soil can smear into a larger but thinner film. If the first pass spreads rather than removes the contamination, use a fresh cloth and a compatible method that matches the soil.</p>\n<h2 id=\"a-simple-streak-test\">A simple streak test</h2><ol>\n<li>Use the correct product at the correct dilution.</li>\n<li>Use a clean cloth or tool.</li>\n<li>Work a small section rather than the whole pane at once.</li>\n<li>Remove the spent solution before it dries.</li>\n<li>Inspect from more than one angle after the glass is dry.</li>\n<li>If streaks persist, consider water-mineral film or surface damage instead of adding more product.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Streak-free glass depends on controlling what is left behind. Use the right amount of product, clean wiping material, a repeatable technique and water that does not leave excessive mineral film.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Engineering Consolidated Services specification</a>.</li>\n</ol>",
+  "seo_title": "Why Glass Streaks After Cleaning | Alle's ClinX Knowledge",
+  "meta_description": "Troubleshoot glass streaks by checking product dilution, dirty cloths, hard-water film, wiping pattern, drying and incomplete removal of oily soil.",
+  "related_article_ids": [
+    "ACX-KB-0034",
+    "ACX-KB-0023",
+    "ACX-KB-0024"
+  ]
+}

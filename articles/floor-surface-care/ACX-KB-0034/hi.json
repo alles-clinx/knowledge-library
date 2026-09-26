@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0034",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0034",
+  "title": "Glass और mirrors पर haze क्यों बनती है?",
+  "slug": "what-causes-haze-on-glass-and-mirrors",
+  "subcategory": "Glass & Mirrors",
+  "subcategory_slug": "glass-mirrors",
+  "excerpt": "Glass/mirrors पर haze product residue, hard-water minerals, oily film, condensation या permanent surface/coating damage से हो सकती है; पहले haze का type identify करें।",
+  "content_html": "<p>Haze glass या mirror पर cloudy/low-clarity appearance है जो surface के part या पूरे area पर रहती है। कुछ haze removable film होती है; कुछ mineral deposits, condensation या glass/coating/mirror system damage से आती है। पहले possibilities अलग करें।</p>\n<h2 id=\"hi34-residue\">Cause 1: Product residue</h2><p>Too much cleaner, incorrect dilution या spent solution remove किए बिना repeated application fine film छोड़ सकती है। CDC manufacturer-specified dilution और required residue removal पर जोर देता है।</p>\n<h2 id=\"hi34-water\">Cause 2: Hard-water minerals</h2><p>USGS hard water को glass पर cloudy film और spots का common cause बताता है। Water evaporate होने पर calcium/magnesium remain कर सकते हैं और repeated wetting deposit बढ़ा सकती है।</p>\n<h2 id=\"hi34-oil\">Cause 3: Oily या mixed soil</h2><p>Skin oils, cooking aerosol, polishing compounds या other contamination diffuse film बना सकते हैं जो individual streaks की बजाय haze जैसी दिखती है। Dirty cloth contamination को larger area में spread कर सकती है।</p>\n<h2 id=\"hi34-condensation\">Cause 4: Condensation</h2><p>Temporary fogging soil की बजाय moisture हो सकती है। USGS बताता है humid air cooler surface से contact करने पर condensation बनती है। Haze temperature/humidity changes के साथ आती-जाती हो तो cleaning underlying solution नहीं है।</p>\n<h2 id=\"hi34-surface\">Cause 5: Surface या coating change</h2><p>Controlled clean haze change न करे तो scratching, etching, coating deterioration या mirror backing problems inspect करें। ये maintenance conditions हैं, ordinary soil नहीं; stronger cleaning इन्हें worse कर सकती है।</p>\n<h2 id=\"hi34-check\">Practical haze check</h2><ol>\n<li>Surface को normal temperature तक आने और fully dry होने दें.</li>\n<li>Correct low-residue product और fresh wiping material से small area clean करें.</li>\n<li>Different angles/light में test area compare करें.</li>\n<li>Test clear हो तो residue, cloth condition और water quality troubleshoot करें.</li>\n<li>Clear न हो तो chemistry बढ़ाना stop करें और mineral scale या surface/coating damage inspect करें.</li>\n</ol>\n<h2 id=\"hi34-verification\">Good verification क्या देखता है</h2><p>GSA service specifications glass-cleaning performance को dirt, streaks, smudges, watermarks, spots और cloudiness से free dry result के रूप में define करती हैं। इसलिए inspection wiped surface नहीं, final dry surface judge करे।</p>\n<h2 id=\"hi34-takeaway\">Practical takeaway</h2><p>Haze automatically “more dirt” नहीं है। Identify करें cloudiness residue, minerals, oily film, condensation या changed surface है। Diagnosis तय करेगा answer re-cleaning है, water-quality control है या maintenance।</p>\n<h2 id=\"hi34-references\">संदर्भ</h2><ol>\n<li id=\"hi34-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi34-ref-2\"><a href=\"https://www.usgs.gov/faqs/why-does-my-drinking-water-look-cloudy-sometimes\">USGS — Why water can look cloudy</a>.</li>\n<li id=\"hi34-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi34-ref-4\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Engineering specification</a>.</li>\n</ol>",
+  "seo_title": "Glass और mirrors पर haze क्यों बनती है | Alle's ClinX",
+  "meta_description": "Product residue, hard-water minerals, oily film, condensation और surface/coating change check करके glass/mirror haze diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0033",
+    "ACX-KB-0023",
+    "ACX-KB-0022"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0034",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Causes Haze on Glass and Mirrors?",
+  "slug": "what-causes-haze-on-glass-and-mirrors",
+  "subcategory": "Glass & Mirrors",
+  "subcategory_slug": "glass-mirrors",
+  "excerpt": "Haze on glass and mirrors can come from product residue, hard-water minerals, oily film, condensation or permanent surface/coating damage; the first task is to identify which type of haze remains.",
+  "content_html": "<p>Haze is a cloudy or low-clarity appearance that remains across part or all of a glass or mirror surface. Some haze is removable film. Other haze comes from mineral deposits, condensation or damage to the glass, coating or mirror system. Cleaning should start by distinguishing those possibilities.</p>\n<h2 id=\"cause-product-residue\">Cause 1: Product residue</h2><p>Too much cleaner, incorrect dilution or repeated application without removing spent solution can leave a fine film. CDC recommends using products at manufacturer-specified dilution and considering residue removal where the product or process requires it.</p>\n<h2 id=\"cause-hard-water-minerals\">Cause 2: Hard-water minerals</h2><p>USGS identifies hard water as a common cause of cloudy film and spots on glass. Calcium and magnesium remain as water evaporates, and repeated wetting can make the deposit more noticeable over time.</p>\n<h2 id=\"cause-oily-film\">Cause 3: Oily or mixed soil</h2><p>Skin oils, cooking aerosol, polishing compounds or other contamination can form a diffuse film that looks like haze rather than individual streaks. A dirty cloth may spread this contamination into a larger area.</p>\n<h2 id=\"cause-condensation\">Cause 4: Condensation</h2><p>Temporary fogging can be moisture rather than soil. USGS explains that condensation forms when humid air contacts a cooler surface. If the haze appears and clears with temperature or humidity changes, cleaning may not be the underlying solution.</p>\n<h2 id=\"cause-surface-change\">Cause 5: Surface or coating change</h2><p>If a controlled clean does not change the haze, inspect for scratching, etching, coating deterioration or mirror backing problems. These are maintenance conditions, not ordinary surface soil, and stronger cleaning can make them worse.</p>\n<h2 id=\"a-haze-check\">A practical haze check</h2><ol>\n<li>Allow the surface to reach normal temperature and dry fully.</li>\n<li>Clean a small area using the correct low-residue product and fresh wiping material.</li>\n<li>Compare the test area from different angles and lighting conditions.</li>\n<li>If the test clears, troubleshoot residue, cloth condition and water quality.</li>\n<li>If it does not clear, stop increasing chemistry and inspect for mineral scale or surface/coating damage.</li>\n</ol>\n<h2 id=\"verification\">What good verification looks for</h2><p>GSA facility-service specifications use visible outcomes such as freedom from dirt, streaks, smudges, watermarks, spots and cloudiness as glass-cleaning performance criteria. A practical inspection should therefore judge the dry surface, not only whether it was wiped.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Haze is not automatically “more dirt.” Identify whether the cloudiness is residue, minerals, oily film, condensation or a changed surface. That diagnosis determines whether the answer is re-cleaning, water-quality control or maintenance.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/faqs/why-does-my-drinking-water-look-cloudy-sometimes\">USGS — Why water can look cloudy</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-4\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Engineering Consolidated Services specification</a>.</li>\n</ol>",
+  "seo_title": "What Causes Haze on Glass and Mirrors? | Alle's ClinX",
+  "meta_description": "Identify haze on glass and mirrors by checking product residue, hard-water minerals, oily film, condensation and permanent surface or coating changes.",
+  "related_article_ids": [
+    "ACX-KB-0033",
+    "ACX-KB-0023",
+    "ACX-KB-0022"
+  ]
+}

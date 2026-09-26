@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0033",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0033",
+  "title": "Cleaning के बाद glass पर streaks क्यों आते हैं",
+  "slug": "why-glass-streaks-after-cleaning",
+  "subcategory": "Glass & Mirrors",
+  "subcategory_slug": "glass-mirrors",
+  "excerpt": "Glass पर streaks तब आते हैं जब soil, product, mineral-rich water या contaminated wiping material drying के दौरान पीछे रह जाए या unevenly spread हो।",
+  "content_html": "<p>Glass पर streaks अक्सर evidence हैं कि surface dry होने पर कुछ पीछे रह गया या unevenly spread हुआ। Cause cleaning product, soil, water minerals, dirty cloth या wiping pattern हो सकती है—सिर्फ “bad glass cleaner” नहीं।</p>\n<h2 id=\"hi33-product\">Cause 1: Product ज्यादा है या dilution गलत है</h2><p>CDC manufacturer instructions के अनुसार cleaning solution prepare करने को कहता है क्योंकि over- और under-dilution performance affect कर सकते हैं। Excess product evaporation के बाद glass पर ज्यादा non-volatile material छोड़ सकता है।</p>\n<h2 id=\"hi33-cloth\">Cause 2: Cloth soil वापस glass पर ला रही है</h2><p>Oil, dust या solution से loaded cloth thin film redistribute कर सकती है। Clean wiping material use करें और visibly dirty/saturated होने से पहले fresh section लें।</p>\n<h2 id=\"hi33-water\">Cause 3: Hard water mineral film छोड़ रहा है</h2><p>USGS बताता है hard water glass पर spots या cloudy film छोड़ सकता है जब dissolved calcium/magnesium drying के बाद remain करें। यह oily streak से अलग problem है।</p>\n<h2 id=\"hi33-wiping\">Cause 4: Wiping और drying uneven हैं</h2><p>Cleaner repeatedly एक edge की ओर push हो, pool करे या final wipe से पहले partly dry हो जाए तो lines रह सकती हैं। Manageable sections में work करें और consistent pattern use करें ताकि spent solution remove हो।</p>\n<h2 id=\"hi33-soil\">Cause 5: Original soil पूरी remove नहीं हुई</h2><p>Finger oils, grease और adhesive traces larger thin film में smear हो सकते हैं। First pass contamination spread करे तो fresh cloth और soil-matched compatible method use करें।</p>\n<h2 id=\"hi33-test\">Simple streak test</h2><ol>\n<li>Correct product और dilution use करें.</li>\n<li>Clean cloth/tool use करें.</li>\n<li>Whole pane की बजाय small section पर work करें.</li>\n<li>Spent solution dry होने से पहले remove करें.</li>\n<li>Dry होने के बाद multiple angles से inspect करें.</li>\n<li>Streaks रहें तो more product add करने की बजाय mineral film या surface damage consider करें.</li>\n</ol>\n<h2 id=\"hi33-takeaway\">Practical takeaway</h2><p>Streak-free glass का मतलब है surface पर क्या पीछे रह रहा है उसे control करना। Right amount of product, clean wiping material, repeatable technique और suitable water quality use करें।</p>\n<h2 id=\"hi33-references\">संदर्भ</h2><ol>\n<li id=\"hi33-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi33-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi33-ref-3\"><a href=\"https://www.gsa.gov/system/files/National_Facility_Engineering_Consolidated_Services_w_VTS_PWS-20221215.pdf\">U.S. GSA — Facility Engineering specification</a>.</li>\n</ol>",
+  "seo_title": "Glass पर streaks क्यों आते हैं | Alle's ClinX",
+  "meta_description": "Product dilution, dirty cloths, hard-water film, wiping pattern, drying और oily soil check करके glass streaks troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0034",
+    "ACX-KB-0023",
+    "ACX-KB-0024"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0030",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Marble vs Granite: Cleaning Considerations",
+  "slug": "marble-vs-granite-cleaning-considerations",
+  "subcategory": "Natural Stone",
+  "subcategory_slug": "natural-stone",
+  "excerpt": "Marble and granite can look similarly durable, but their mineral composition and finish create different cleaning limits—especially around acidic chemistry, abrasion and polishing.",
+  "content_html": "<p>Marble and granite are both natural stone, but they should not be cleaned as if they are interchangeable. Their mineral composition, hardness, porosity and surface finish can differ enough that a method tolerated by one can dull, etch or otherwise alter the other.</p>\n<h2 id=\"marble-is-generally-acid-sensitive\">Marble is generally acid-sensitive</h2><p>Marble is commonly carbonate-based. U.S. National Park Service guidance identifies marble and limestone as acid-sensitive materials and warns that acid-based cleaners can etch them. On polished marble, even a small chemical change can become visible as a dull or lighter patch.</p>\n<h2 id=\"granite-is-different-but-not-invulnerable\">Granite is different, but not invulnerable</h2><p>NPS guidance notes that acidic cleaners may be compatible with many non-calcareous or siliceous stones, including many granites, but this is not permission to use acid casually. Granite varieties differ, polished surfaces can be affected, sealers or coatings may have separate limits and the specific product still has to be compatible with the installation.</p>\n<h2 id=\"finish-matters-as-much-as-stone-name\">Finish matters as much as the stone name</h2><p>Polished, honed, flamed, textured and weathered surfaces can respond differently to pads, brushes and chemicals. A polished marble or granite surface makes haze, scratches and loss of gloss easier to see than a textured surface.</p>\n<h2 id=\"soil-still-controls-the-method\">Soil still controls the method</h2><p>The stone name alone does not tell you how to remove grease, tracked-in soil, mineral deposits, rust staining or adhesive. Identify both the stone and the soil before choosing chemistry or mechanical action.</p>\n<h2 id=\"use-a-conservative-starting-point\">Use a conservative starting point</h2><p>For routine care, start with a compatible low-residue cleaner at the specified dilution and use controlled mechanical action. CDC guidance on environmental cleaning products emphasises manufacturer instructions and material compatibility; the same discipline is useful for stone care.</p>\n<h2 id=\"test-before-escalating\">Test before escalating</h2><p>NPS preservation guidance repeatedly emphasises testing because cleaning response varies by stone and condition. When changing chemistry, concentration, dwell time, pad, brush or machine process, test an inconspicuous area first and judge the surface after it has fully dried.</p>\n<h2 id=\"comparison\">Practical comparison</h2><table class=\"data-table\"><thead><tr><th>Consideration</th><th>Marble</th><th>Granite</th></tr></thead><tbody>\n<tr><td>Acid sensitivity</td><td>Generally high; acid can etch carbonate stone</td><td>Often lower, but varies by stone, finish and product</td></tr>\n<tr><td>Visible finish change</td><td>Polish loss and etching can be obvious</td><td>Haze, residue or micro-scratching may still be visible</td></tr>\n<tr><td>Routine approach</td><td>Conservative compatible chemistry and gentle action</td><td>Compatible chemistry and controlled action</td></tr>\n<tr><td>Before stronger treatment</td><td>Identify stone and test</td><td>Identify stone, finish and test</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>The key difference is not “marble is delicate and granite is indestructible.” Both need identification and compatibility checks. Marble demands particular caution around acids; granite still requires attention to finish, sealers, abrasion and product instructions.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/book-keeping-it-clean.pdf\">U.S. National Park Service — Keeping It Clean</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-01-cleaning-masonry.pdf\">U.S. National Park Service — Preservation Brief 1</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Marble vs Granite Cleaning Considerations | Alle's ClinX",
+  "meta_description": "Compare marble and granite cleaning by acid sensitivity, finish, soil, abrasion, compatible chemistry and testing before stronger treatment.",
+  "related_article_ids": [
+    "ACX-KB-0029",
+    "ACX-KB-0031",
+    "ACX-KB-0032"
+  ]
+}
