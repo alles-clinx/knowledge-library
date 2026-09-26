@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0038",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Stainless Steel Can Look Dull After Cleaning",
+  "slug": "why-stainless-steel-can-look-dull-after-cleaning",
+  "subcategory": "Stainless Steel & Metals",
+  "subcategory_slug": "stainless-steel-metals",
+  "excerpt": "Stainless steel can look dull after cleaning because of residue, hard-water film, uneven polish, aggressive rubbing, scratches or a changed original finish.",
+  "content_html": "<p>A dull stainless surface after cleaning may be covered by removable film, or the visible finish itself may have changed. Those causes should be separated before the surface is polished, scrubbed or treated again.</p>\n<h2 id=\"cause-cleaning-residue\">Cause 1: Cleaning residue</h2><p>Too much product or incomplete removal can leave a fine layer that reduces reflectivity. CDC guidance emphasises correct dilution and surface compatibility; GSA recommends using cleaning agents sparingly on stainless surfaces.</p>\n<h2 id=\"cause-water-minerals\">Cause 2: Water minerals</h2><p>Hard water can leave mineral film as water evaporates. USGS documents cloudy mineral residue on glass; similar mineral deposits can remain visibly on other smooth surfaces. Check whether dullness follows drying patterns or water spots.</p>\n<h2 id=\"cause-uneven-polish-or-film\">Cause 3: Uneven polish or maintenance film</h2><p>A stainless polish or protective film can create uneven sheen when applied too heavily or inconsistently. Do not assume every stainless finish needs polish; follow the product and finish instructions.</p>\n<h2 id=\"cause-aggressive-rubbing\">Cause 4: Aggressive rubbing or abrasion</h2><p>GSA conservation guidance warns that aggressive rubbing can burnish stainless steel. Abrasive pads or repeated hard rubbing can create a patch with a different reflectivity from the surrounding original finish.</p>\n<h2 id=\"cause-scratches-or-finish-deterioration\">Cause 5: Scratches or finish deterioration</h2><p>If the surface remains dull after a controlled compatible clean, inspect the finish. Scratches, wear, altered brushing or other deterioration are maintenance issues rather than soil. GSA advises reporting deteriorated original finishes instead of attempting restoration without finish-specific instructions.</p>\n<h2 id=\"a-controlled-check\">A controlled check</h2><ol>\n<li>Identify the stainless finish and any existing polish or coating.</li>\n<li>Use a clean cloth and the approved product sparingly.</li>\n<li>Work a small test area without aggressive rubbing.</li>\n<li>Remove visible residue and allow the area to dry.</li>\n<li>Compare sheen with an untouched adjacent area.</li>\n<li>If dullness remains, stop escalating abrasion and assess the finish.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Dull stainless is not automatically dirty stainless. First remove residue and mineral film with a compatible controlled process; if the sheen still differs, treat it as a finish condition rather than a stronger-cleaner problem.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://origin-www.gsa.gov/system/files/Care-and-Maintenance.pdf\">U.S. GSA — Care and Maintenance Recommendations for Artwork</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-4\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Why Stainless Steel Looks Dull After Cleaning | Alle's ClinX",
+  "meta_description": "Diagnose dull stainless steel by checking cleaning residue, water minerals, uneven polish, aggressive rubbing, scratches and original finish condition.",
+  "related_article_ids": [
+    "ACX-KB-0036",
+    "ACX-KB-0037",
+    "ACX-KB-0024"
+  ]
+}

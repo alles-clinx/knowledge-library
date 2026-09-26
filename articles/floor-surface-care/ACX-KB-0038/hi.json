@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0038",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0038",
+  "title": "Cleaning के बाद stainless steel dull क्यों दिख सकता है",
+  "slug": "why-stainless-steel-can-look-dull-after-cleaning",
+  "subcategory": "Stainless Steel & Metals",
+  "subcategory_slug": "stainless-steel-metals",
+  "excerpt": "Cleaning के बाद stainless steel residue, hard-water film, uneven polish, aggressive rubbing, scratches या changed original finish के कारण dull दिख सकता है।",
+  "content_html": "<p>Cleaning के बाद dull stainless surface पर removable film हो सकती है या visible finish itself change हो सकती है। Polish, scrub या stronger treatment से पहले दोनों causes अलग करें।</p>\n<h2 id=\"hi38-residue\">Cause 1: Cleaning residue</h2><p>Too much product या incomplete removal fine layer छोड़ सकती है जो reflectivity कम करती है। CDC correct dilution/material compatibility पर जोर देता है; GSA stainless पर agents sparingly use करने को कहता है।</p>\n<h2 id=\"hi38-water\">Cause 2: Water minerals</h2><p>Hard water evaporation के बाद mineral film छोड़ सकता है। USGS smooth glass पर cloudy mineral residue document करता है; similar deposits other smooth surfaces पर visible हो सकती हैं। Drying pattern/water spots check करें।</p>\n<h2 id=\"hi38-polish\">Cause 3: Uneven polish या maintenance film</h2><p>Stainless polish/protective film heavy या uneven apply होने पर inconsistent sheen बना सकती है। हर stainless finish को polish चाहिए assume न करें; finish instructions follow करें।</p>\n<h2 id=\"hi38-rubbing\">Cause 4: Aggressive rubbing या abrasion</h2><p>GSA aggressive rubbing से stainless burnish होने की warning देता है। Abrasive pads/repeated hard rubbing surrounding finish से different reflectivity वाला patch बना सकते हैं।</p>\n<h2 id=\"hi38-finish\">Cause 5: Scratches या finish deterioration</h2><p>Controlled compatible clean के बाद dullness रहे तो finish inspect करें। Scratches, wear, altered brushing maintenance issues हैं, soil नहीं। GSA deteriorated original finishes report करने को कहता है, बिना finish-specific instructions restoration attempt नहीं।</p>\n<h2 id=\"hi38-check\">Controlled check</h2><ol>\n<li>Stainless finish और existing polish/coating identify करें.</li>\n<li>Clean cloth और approved product sparingly use करें.</li>\n<li>Aggressive rubbing के बिना small test area work करें.</li>\n<li>Visible residue remove करके dry होने दें.</li>\n<li>Untouched adjacent area से sheen compare करें.</li>\n<li>Dullness रहे तो abrasion बढ़ाना stop करें और finish assess करें.</li>\n</ol>\n<h2 id=\"hi38-takeaway\">Practical takeaway</h2><p>Dull stainless automatically dirty stainless नहीं है। पहले compatible controlled process से residue/mineral film remove करें; sheen अलग रहे तो इसे stronger-cleaner problem नहीं, finish condition treat करें।</p>\n<h2 id=\"hi38-references\">संदर्भ</h2><ol>\n<li id=\"hi38-ref-1\"><a href=\"https://origin-www.gsa.gov/system/files/Care-and-Maintenance.pdf\">U.S. GSA — Care and Maintenance Recommendations</a>.</li>\n<li id=\"hi38-ref-2\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi38-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi38-ref-4\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n</ol>",
+  "seo_title": "Stainless Steel Dull After Cleaning | Alle's ClinX",
+  "meta_description": "Residue, water minerals, uneven polish, aggressive rubbing, scratches और finish condition check करके dull stainless steel diagnose करें।",
+  "related_article_ids": [
+    "ACX-KB-0036",
+    "ACX-KB-0037",
+    "ACX-KB-0024"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0039",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Safe Surface Care for Finished Wood?",
+  "slug": "what-is-safe-surface-care-for-finished-wood",
+  "subcategory": "Wood & Furniture",
+  "subcategory_slug": "wood-furniture",
+  "excerpt": "Safe care for finished wood starts with identifying the finish, removing loose dust first, using moisture sparingly, testing unfamiliar methods and drying promptly.",
+  "content_html": "<p>Finished wood is a system made from the wood plus a coating, finish, wax or other treatment. Safe cleaning therefore depends on the condition of that finish. A method that is harmless to one varnished surface may soften, stain or lift another.</p>\n<h2 id=\"identify-the-finish-and-condition\">Identify the finish and condition</h2><p>Before wet cleaning, check whether the surface is painted, varnished, lacquered, waxed, oiled or otherwise finished, and whether that finish is sound. NPS conservation guidance says clear-finished furniture should only be cleaned when the finish is stable rather than cracked, raised or flaking.</p>\n<h2 id=\"remove-loose-dust-first\">Remove loose dust first</h2><p>Loose dust and grit can become abrasive when rubbed across a finish. NPS recommends removing surface soil first with a clean soft cloth or suitable soft-brush vacuum method before deeper cleaning is attempted.</p>\n<h2 id=\"use-moisture-sparingly\">Use moisture sparingly</h2><p>Wood and many wood finishes do not benefit from unnecessary wetting. NPS guidance recommends well-wrung cloths and immediate drying when mild aqueous cleaning is appropriate, with particular caution around veneer, inlay and damaged finishes.</p>\n<h2 id=\"test-before-broad-use\">Test before broad use</h2><p>If the product or finish response is uncertain, test a small inconspicuous area first. Look for softening, colour transfer, whitening, gloss change or tackiness before applying the method to the full surface.</p>\n<h2 id=\"do-not-confuse-cleaning-with-refinishing\">Do not confuse cleaning with refinishing</h2><p>Deep scratches, worn coating, water damage, flaking finish and lost colour are not routine-cleaning problems. GSA woodwork guidance separates cleaning from refinishing procedures. If the finish is failing, repeated cleaning can make damage worse.</p>\n<h2 id=\"use-product-and-wax-only-when-the-system-calls-for-it\">Use polish or wax only when the system calls for it</h2><p>Adding polish or wax automatically can create build-up, uneven sheen or a sticky surface. NPS notes that too much wax can attract dust and dirt. Follow the specific furniture or finish maintenance program rather than treating all wood the same.</p>\n<h2 id=\"a-conservative-workflow\">A conservative workflow</h2><ol>\n<li>Identify the finish and inspect its condition.</li>\n<li>Remove loose dust gently.</li>\n<li>Test the approved cleaning method in an inconspicuous area.</li>\n<li>Use the minimum moisture and product required.</li>\n<li>Work in small sections and dry promptly.</li>\n<li>Stop if the finish softens, lifts, changes colour or becomes tacky.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Safe wood care protects the finish first. Dust before washing, keep moisture controlled, test unfamiliar methods and recognise when a surface needs repair or refinishing instead of more cleaning.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/subjects/museums/upload/07-01_508.pdf\">U.S. National Park Service — Cleaning Wood Furniture</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.nps.gov/subjects/museums/upload/MHI_AppN_WoodObjects.pdf\">U.S. National Park Service — Curatorial Care of Wooden Objects</a>.</li>\n<li id=\"ref-3\"><a href=\"https://origin-www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/cleaning-and-refinishing-of-woodwork\">U.S. GSA — Cleaning and Refinishing of Woodwork</a>.</li>\n</ol>",
+  "seo_title": "Safe Surface Care for Finished Wood | Alle's ClinX",
+  "meta_description": "Learn safe finished-wood care using finish identification, dust removal, controlled moisture, small-area testing, prompt drying and clear limits between cleaning and refinishing.",
+  "related_article_ids": [
+    "ACX-KB-0040",
+    "ACX-KB-0041",
+    "ACX-KB-0028"
+  ]
+}

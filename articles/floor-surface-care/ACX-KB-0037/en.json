@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0037",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Stainless Steel Shows Fingerprints and Smears",
+  "slug": "why-stainless-steel-shows-fingerprints-and-smears",
+  "subcategory": "Stainless Steel & Metals",
+  "subcategory_slug": "stainless-steel-metals",
+  "excerpt": "Fingerprints and smears show easily on stainless steel because skin oils and cleaning films change how light reflects from the finish, especially on smooth or directional surfaces.",
+  "content_html": "<p>Stainless steel can be technically clean and still look marked. Fingerprints and smears are thin films—often skin oils, soil or cleaning residue—that change how light reflects from the metal surface.</p>\n<h2 id=\"skin-oils-create-a-visible-film\">Skin oils create a visible film</h2><p>High-touch stainless surfaces repeatedly receive oils and moisture from hands. GSA custodial standards specifically require stainless finishes to be free of fingerprints, smudges and streaks, reflecting how visible these marks are in public facilities.</p>\n<h2 id=\"smooth-and-directional-finishes-show-differences\">Smooth and directional finishes show differences</h2><p>Brushed or satin stainless has a visible directional pattern, while polished finishes reflect light more sharply. A smear crossing that pattern or a patch with different sheen can stand out even when only a small amount of residue is present.</p>\n<h2 id=\"too-much-cleaner-can-create-smears\">Too much cleaner can create smears</h2><p>Applying more product than needed can leave a film after evaporation. GSA conservation guidance advises using cleaning agents sparingly and applying them to the wiping material rather than spraying the metal directly.</p>\n<h2 id=\"dirty-cloths-redeposit-oil\">Dirty cloths redeposit oil</h2><p>A wiping cloth that is already loaded with hand oils or product can spread the film over a larger area. Use clean sections of the cloth and replace it before it becomes saturated.</p>\n<h2 id=\"polishes-can-change-the-appearance\">Polishes can change the appearance</h2><p>Some stainless-maintenance systems intentionally leave a protective or cosmetic film. If the wrong amount is used or the film is uneven, it can look like smearing. Follow the finish manufacturer's instructions and do not add polish automatically to every stainless surface.</p>\n<h2 id=\"a-simple-fingerprint-process\">A simple fingerprint process</h2><ol>\n<li>Confirm the stainless finish and approved product.</li>\n<li>Apply a small amount to clean wiping material.</li>\n<li>Remove fingerprints with controlled, overlapping passes.</li>\n<li>If a directional grain is present, follow the manufacturer's recommended wiping direction.</li>\n<li>Use a clean dry section to remove visible film if the method requires it.</li>\n<li>Inspect the surface after it has dried.</li>\n</ol>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Fingerprints are thin films, so control matters more than force. Use little product, clean wiping material and consistent technique; aggressive rubbing can change the finish without solving the source of the smear.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-2\"><a href=\"https://origin-www.gsa.gov/system/files/Care-and-Maintenance.pdf\">U.S. GSA — Care and Maintenance Recommendations for Artwork</a>.</li>\n</ol>",
+  "seo_title": "Why Stainless Steel Shows Fingerprints and Smears | Alle's ClinX",
+  "meta_description": "Learn why fingerprints and smears show on stainless steel and how product amount, cloth condition, finish direction and polishing films affect appearance.",
+  "related_article_ids": [
+    "ACX-KB-0036",
+    "ACX-KB-0038",
+    "ACX-KB-0034"
+  ]
+}

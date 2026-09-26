@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0036",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Stainless Steel Care vs General Surface Cleaning",
+  "slug": "stainless-steel-care-vs-general-cleaning",
+  "subcategory": "Stainless Steel & Metals",
+  "subcategory_slug": "stainless-steel-metals",
+  "excerpt": "Stainless-steel care uses general cleaning principles but adds finish awareness, controlled rubbing, low-residue product use and attention to fingerprints, smears and visible directional grain.",
+  "content_html": "<p>Stainless steel is a durable facility surface, but its appearance is sensitive to fingerprints, smears, water marks and changes in finish. General cleaning principles still apply, yet stainless care needs more attention to the metal's visible finish and the way product is applied and removed.</p>\n<h2 id=\"general-cleaning-removes-soil\">General cleaning removes soil</h2><p>The basic job is still to remove dust, oils and grime with compatible chemistry and mechanical action. GSA guidance for stainless-steel artwork notes that accumulated dirt and marks can be removed with restrained cleaning, and that cleaning agents should be used sparingly.</p>\n<h2 id=\"stainless-care-protects-the-finish\">Stainless care also protects the visible finish</h2><p>Brushed, satin, polished and patterned stainless finishes do not look the same and do not show marks in the same way. GSA advises against aggressive rubbing that can burnish the metal and change its appearance. A cleaning method should remove soil without creating a new finish pattern.</p>\n<h2 id=\"apply-product-with-control\">Apply product with control</h2><p>For visible stainless surfaces, applying cleaner to the cloth rather than flooding or overspraying the metal gives better control and reduces run marks on adjacent materials. GSA conservation guidance specifically recommends applying cleaning agents sparingly to the cloth or paper towel.</p>\n<h2 id=\"fingerprints-and-smears-are-a-major-visual-issue\">Fingerprints and smears are a major visual issue</h2><p>Current GSA custodial standards expect stainless finishes to be free of fingerprints, smudges and streaks. That means the dry appearance matters, not only whether the surface was wiped.</p>\n<h2 id=\"do-not-assume-one-metal-method-fits-all\">Do not assume one metal method fits all</h2><p>Stainless steel can sit beside coated metal, aluminum, brass, painted surfaces, glass or stone. Product overspray or aggressive rubbing that is acceptable on one material may affect another. Treat the assembled surface as a system.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Consideration</th><th>General surface cleaning</th><th>Stainless-steel care</th></tr></thead><tbody>\n<tr><td>Main aim</td><td>Remove soil safely</td><td>Remove soil while preserving visible metal finish</td></tr>\n<tr><td>Mechanical action</td><td>Material-dependent</td><td>Controlled to avoid burnishing or scratching</td></tr>\n<tr><td>Application</td><td>Varies by surface</td><td>Often benefits from sparing application to the cloth</td></tr>\n<tr><td>Verification</td><td>Clean condition</td><td>Also check fingerprints, smears, streaks and finish uniformity</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Stainless steel is not difficult because it is weak; it is demanding because visible finish defects are easy to create and easy to see. Use compatible product sparingly, clean with controlled action and inspect the dry finish from more than one angle.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://origin-www.gsa.gov/system/files/Care-and-Maintenance.pdf\">U.S. GSA — Care and Maintenance Recommendations for Artwork</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Stainless Steel Care vs General Surface Cleaning | Alle's ClinX",
+  "meta_description": "Compare stainless-steel care with general cleaning and learn why finish awareness, controlled rubbing, sparing product use and dry inspection matter.",
+  "related_article_ids": [
+    "ACX-KB-0037",
+    "ACX-KB-0038",
+    "ACX-KB-0035"
+  ]
+}

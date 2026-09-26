@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0036",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0036",
+  "title": "Stainless steel care vs general surface cleaning",
+  "slug": "stainless-steel-care-vs-general-cleaning",
+  "subcategory": "Stainless Steel & Metals",
+  "subcategory_slug": "stainless-steel-metals",
+  "excerpt": "Stainless-steel care general cleaning principles use करती है लेकिन finish awareness, controlled rubbing, low-residue product use और fingerprints/smears पर extra attention चाहिए।",
+  "content_html": "<p>Stainless steel durable facility surface है, लेकिन appearance fingerprints, smears, water marks और finish changes के लिए sensitive है। General cleaning principles apply करते हैं, पर stainless care में visible finish और product application/removal पर extra attention चाहिए।</p>\n<h2 id=\"hi36-general\">General cleaning soil remove करती है</h2><p>Basic job dust, oils और grime को compatible chemistry/mechanical action से remove करना है। GSA stainless guidance accumulated dirt/marks के लिए restrained cleaning और sparing product use की बात करती है।</p>\n<h2 id=\"hi36-finish\">Stainless care visible finish भी protect करती है</h2><p>Brushed, satin, polished और patterned stainless अलग दिखते हैं और marks differently show करते हैं। GSA aggressive rubbing avoid करने को कहता है क्योंकि वह metal burnish करके appearance बदल सकता है।</p>\n<h2 id=\"hi36-control\">Product control से apply करें</h2><p>Visible stainless पर cleaner cloth पर apply करना flooding/overspray से बेहतर control दे सकता है और adjacent materials पर run marks कम कर सकता है। GSA cleaning agents sparingly cloth/paper towel पर use करने की सलाह देता है।</p>\n<h2 id=\"hi36-fingerprints\">Fingerprints और smears major visual issue हैं</h2><p>Current GSA custodial standards stainless finishes को fingerprints, smudges और streaks से free expect करते हैं। इसलिए dry appearance matter करती है।</p>\n<h2 id=\"hi36-metals\">One metal method सब पर fit नहीं करता</h2><p>Stainless के पास coated metal, aluminum, brass, painted surfaces, glass या stone हो सकते हैं। Overspray या rubbing जो one material पर acceptable है, adjacent material affect कर सकती है।</p>\n<h2 id=\"hi36-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Consideration</th><th>General surface cleaning</th><th>Stainless-steel care</th></tr></thead><tbody>\n<tr><td>Main aim</td><td>Soil safely remove करना</td><td>Soil remove + visible metal finish preserve करना</td></tr>\n<tr><td>Mechanical action</td><td>Material-dependent</td><td>Burnishing/scratching avoid करने के लिए controlled</td></tr>\n<tr><td>Application</td><td>Surface-dependent</td><td>Sparing cloth application useful हो सकती है</td></tr>\n<tr><td>Verification</td><td>Clean condition</td><td>Fingerprints, smears, streaks, finish uniformity भी check करें</td></tr>\n</tbody></table>\n<h2 id=\"hi36-takeaway\">Practical takeaway</h2><p>Stainless difficult इसलिए नहीं है कि वह weak है; visible finish defects create और notice करना आसान है। Compatible product sparingly use करें, controlled action रखें और dry finish multiple angles से inspect करें।</p>\n<h2 id=\"hi36-references\">संदर्भ</h2><ol>\n<li id=\"hi36-ref-1\"><a href=\"https://origin-www.gsa.gov/system/files/Care-and-Maintenance.pdf\">U.S. GSA — Care and Maintenance Recommendations</a>.</li>\n<li id=\"hi36-ref-2\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi36-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Stainless Steel Care vs General Cleaning | Alle's ClinX",
+  "meta_description": "Finish awareness, controlled rubbing, sparing product use और dry inspection के साथ stainless care और general cleaning compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0037",
+    "ACX-KB-0038",
+    "ACX-KB-0035"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0035",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Glass Cleaning vs General Surface Cleaning",
+  "slug": "glass-cleaning-vs-general-surface-cleaning",
+  "subcategory": "Glass & Mirrors",
+  "subcategory_slug": "glass-mirrors",
+  "excerpt": "Glass cleaning uses the same basic soil-removal principles as general surface cleaning, but transparent reflective surfaces make residue, water minerals, lint and uneven drying much more visible.",
+  "content_html": "<p>Glass cleaning and general surface cleaning share the same fundamentals: identify the soil, choose compatible chemistry, use clean tools and remove contamination. The difference is that glass makes process defects easy to see. A small amount of residue, lint, mineral film or uneven drying can become obvious in reflected light.</p>\n<h2 id=\"glass-is-a-visual-finish\">Glass is a visual-finish surface</h2><p>GSA custodial standards judge glass by the dry visible result: no dirt, streaks, smudges, watermarks, spots or cloudiness. That means the final removal and drying step matters as much as the initial wetting and wiping.</p>\n<h2 id=\"general-surface-cleaning-can-leave-more-behind\">General surface methods can leave more behind</h2><p>A method that is acceptable on a matte desk or wall may leave a visible film on glass. Products with higher residue, an overloaded cloth or excess solution can be less forgiving on a transparent reflective surface.</p>\n<h2 id=\"water-quality-is-more-visible\">Water quality is more visible on glass</h2><p>USGS notes that hard water can leave spots and cloudy mineral film on glass. On an opaque surface the same deposit may be less noticeable, but on glass it can look like poor cleaning even after soil has been removed.</p>\n<h2 id=\"dilution-and-tool-cleanliness\">Dilution and tool cleanliness matter</h2><p>CDC recommends preparing cleaning products according to manufacturer instructions. Too much product can increase residue, while dirty cloths can redeposit oils and soil. Glass therefore benefits from clean wiping material and controlled product use.</p>\n<h2 id=\"not-every-glass-task-needs-disinfection\">Not every glass task needs disinfection</h2><p>Routine glass cleaning is usually about soil and appearance. If a facility requires disinfection for a particular high-touch glass surface, the process must also meet the product's contact-time and compatibility instructions. Do not assume that a visually streak-free finish proves disinfection, or that a disinfectant automatically gives the best visual finish.</p>\n<h2 id=\"comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Consideration</th><th>General surface cleaning</th><th>Glass cleaning</th></tr></thead><tbody>\n<tr><td>Primary visible issue</td><td>Soil and overall cleanliness</td><td>Soil plus streaks, haze, lint and watermarks</td></tr>\n<tr><td>Residue tolerance</td><td>May be less visually obvious</td><td>Often immediately visible</td></tr>\n<tr><td>Water quality</td><td>Effect varies by surface</td><td>Mineral film can be highly visible</td></tr>\n<tr><td>Final step</td><td>Depends on material</td><td>Controlled removal and dry inspection are critical</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Glass does not require a completely different cleaning science; it requires tighter control of residue, tools, water and drying because defects are easier to see. Judge the process on the fully dry surface.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Glass Cleaning vs General Surface Cleaning | Alle's ClinX",
+  "meta_description": "Compare glass cleaning with general surface cleaning and learn why residue, hard water, clean tools, dilution and dry inspection matter more on transparent reflective surfaces.",
+  "related_article_ids": [
+    "ACX-KB-0033",
+    "ACX-KB-0034",
+    "ACX-KB-0023"
+  ]
+}

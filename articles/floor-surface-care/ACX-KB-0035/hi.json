@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0035",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0035",
+  "title": "Glass cleaning vs general surface cleaning",
+  "slug": "glass-cleaning-vs-general-surface-cleaning",
+  "subcategory": "Glass & Mirrors",
+  "subcategory_slug": "glass-mirrors",
+  "excerpt": "Glass cleaning के basic soil-removal principles general surface cleaning जैसे हैं, लेकिन transparent reflective surface residue, water minerals, lint और uneven drying को ज्यादा visible बनाती है।",
+  "content_html": "<p>Glass cleaning और general surface cleaning same fundamentals share करते हैं: soil identify करें, compatible chemistry चुनें, clean tools use करें और contamination remove करें। Difference यह है कि glass process defects आसानी से दिखाता है। Small residue, lint, mineral film या uneven drying reflected light में obvious हो सकती है।</p>\n<h2 id=\"hi35-visual\">Glass visual-finish surface है</h2><p>GSA custodial standards dry visible result देखते हैं: dirt, streaks, smudges, watermarks, spots और cloudiness नहीं होनी चाहिए। इसलिए final removal और drying step initial wiping जितना ही important है।</p>\n<h2 id=\"hi35-general\">General surface method ज्यादा material पीछे छोड़ सकती है</h2><p>Matte desk या wall पर acceptable method glass पर visible film छोड़ सकती है। Higher-residue products, overloaded cloth या excess solution transparent reflective surface पर ज्यादा noticeable होते हैं।</p>\n<h2 id=\"hi35-water\">Water quality glass पर ज्यादा visible है</h2><p>USGS बताता है hard water glass पर spots और cloudy mineral film छोड़ सकता है। Opaque surface पर same deposit कम visible हो सकती है।</p>\n<h2 id=\"hi35-dilution\">Dilution और tool cleanliness matter करते हैं</h2><p>CDC manufacturer instructions के अनुसार product preparation recommend करता है। Too much product residue बढ़ा सकता है और dirty cloth oils/soil redeposit कर सकती है। Glass के लिए clean wiping material और controlled product use important है।</p>\n<h2 id=\"hi35-disinfection\">हर glass task को disinfection नहीं चाहिए</h2><p>Routine glass cleaning usually soil और appearance के लिए होती है। Particular high-touch glass surface पर disinfection required हो तो contact time और compatibility instructions भी meet करनी होंगी। Visually streak-free finish disinfection prove नहीं करती।</p>\n<h2 id=\"hi35-comparison\">Comparison</h2><table class=\"data-table\"><thead><tr><th>Consideration</th><th>General surface cleaning</th><th>Glass cleaning</th></tr></thead><tbody>\n<tr><td>Visible issue</td><td>Soil और overall cleanliness</td><td>Soil + streaks, haze, lint, watermarks</td></tr>\n<tr><td>Residue tolerance</td><td>Less visible हो सकती है</td><td>Often immediately visible</td></tr>\n<tr><td>Water quality</td><td>Surface के अनुसार effect</td><td>Mineral film highly visible हो सकती है</td></tr>\n<tr><td>Final step</td><td>Material-dependent</td><td>Controlled removal और dry inspection critical</td></tr>\n</tbody></table>\n<h2 id=\"hi35-takeaway\">Practical takeaway</h2><p>Glass को completely different cleaning science नहीं चाहिए; residue, tools, water और drying पर tighter control चाहिए क्योंकि defects ज्यादा visible होते हैं। Fully dry surface पर result judge करें।</p>\n<h2 id=\"hi35-references\">संदर्भ</h2><ol>\n<li id=\"hi35-ref-1\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi35-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li>\n<li id=\"hi35-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Glass Cleaning vs General Surface Cleaning | Alle's ClinX",
+  "meta_description": "Glass cleaning में residue, hard water, clean tools, dilution और dry inspection general surface cleaning से क्यों ज्यादा visible matter करते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0033",
+    "ACX-KB-0034",
+    "ACX-KB-0023"
+  ]
+}

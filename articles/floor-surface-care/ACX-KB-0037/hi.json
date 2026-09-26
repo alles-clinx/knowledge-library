@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0037",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0037",
+  "title": "Stainless steel पर fingerprints और smears क्यों दिखते हैं",
+  "slug": "why-stainless-steel-shows-fingerprints-and-smears",
+  "subcategory": "Stainless Steel & Metals",
+  "subcategory_slug": "stainless-steel-metals",
+  "excerpt": "Skin oils और cleaning films stainless finish पर light reflection बदलते हैं, इसलिए fingerprints और smears smooth या directional surfaces पर आसानी से दिखते हैं।",
+  "content_html": "<p>Stainless steel technically clean हो सकता है फिर भी marked दिख सकता है। Fingerprints और smears thin films होते हैं—skin oils, soil या cleaning residue—जो metal surface से light reflection बदलते हैं।</p>\n<h2 id=\"hi37-oils\">Skin oils visible film बनाते हैं</h2><p>High-touch stainless surfaces hands से oils/moisture receive करते हैं। GSA custodial standards stainless finishes को fingerprints, smudges और streaks से free expect करते हैं।</p>\n<h2 id=\"hi37-finish\">Smooth और directional finishes differences दिखाते हैं</h2><p>Brushed/satin stainless का directional pattern visible होता है, जबकि polished finish light sharply reflect करती है। Pattern cross करने वाला smear या different sheen patch small residue के साथ भी stand out कर सकता है।</p>\n<h2 id=\"hi37-product\">Too much cleaner smears बना सकता है</h2><p>More product evaporation के बाद film छोड़ सकता है। GSA cleaning agents sparingly wiping material पर apply करने की सलाह देता है, metal पर directly spray करने की नहीं।</p>\n<h2 id=\"hi37-cloth\">Dirty cloth oil redeposit करती है</h2><p>Hand oils/product से loaded cloth film को larger area में spread कर सकती है। Clean sections use करें और saturated होने से पहले cloth बदलें।</p>\n<h2 id=\"hi37-polish\">Polish appearance बदल सकती है</h2><p>कुछ stainless systems intentionally protective/cosmetic film छोड़ते हैं। Wrong amount या uneven film smearing जैसी दिख सकती है। Finish manufacturer instructions follow करें और हर stainless surface पर polish automatically add न करें।</p>\n<h2 id=\"hi37-process\">Simple fingerprint process</h2><ol>\n<li>Stainless finish और approved product confirm करें.</li>\n<li>Clean wiping material पर small amount apply करें.</li>\n<li>Controlled overlapping passes से fingerprints remove करें.</li>\n<li>Directional grain हो तो manufacturer recommended wiping direction follow करें.</li>\n<li>Method require करे तो clean dry section से visible film remove करें.</li>\n<li>Dry होने के बाद inspect करें.</li>\n</ol>\n<h2 id=\"hi37-takeaway\">Practical takeaway</h2><p>Fingerprints thin films हैं, इसलिए force से ज्यादा control matter करता है। Little product, clean wiping material और consistent technique use करें; aggressive rubbing finish change कर सकता है।</p>\n<h2 id=\"hi37-references\">संदर्भ</h2><ol>\n<li id=\"hi37-ref-1\"><a href=\"https://www.gsa.gov/system/files/National%20Custodial%20Specification%20-%201.27.26.pdf\">U.S. GSA — National Custodial Specification</a>.</li>\n<li id=\"hi37-ref-2\"><a href=\"https://origin-www.gsa.gov/system/files/Care-and-Maintenance.pdf\">U.S. GSA — Care and Maintenance Recommendations</a>.</li>\n</ol>",
+  "seo_title": "Stainless Steel Fingerprints and Smears | Alle's ClinX",
+  "meta_description": "Product amount, cloth condition, finish direction और polish films stainless steel fingerprints/smears को कैसे affect करते हैं, समझें।",
+  "related_article_ids": [
+    "ACX-KB-0036",
+    "ACX-KB-0038",
+    "ACX-KB-0034"
+  ]
+}
