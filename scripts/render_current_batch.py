@@ -161,25 +161,31 @@ for live_id in LIVE.get("live_article_ids", []):
     meta = BY_ID.get(live_id)
     if not meta:
         continue
-    en_path = ROOT / "articles" / meta["category_slug"] / live_id / "en.json"
-    if not en_path.exists():
-        continue
-    en = json.loads(en_path.read_text(encoding="utf-8"))
-    search_records.append({
-        "article_id": en["article_id"],
-        "title": en["title"],
-        "category": en["category"],
-        "category_slug": en["category_slug"],
-        "subcategory": en["subcategory"],
-        "subcategory_slug": en["subcategory_slug"],
-        "excerpt": en.get("excerpt", ""),
-        "url": route(en).removeprefix("/knowledge-library/")
-    })
+    source_dir = ROOT / "articles" / meta["category_slug"] / live_id
+    for locale, filename in (("en", "en.json"), ("hi-IN", "hi.json")):
+        source_path = source_dir / filename
+        if not source_path.exists():
+            continue
+        article = json.loads(source_path.read_text(encoding="utf-8"))
+        search_url = route(article).removeprefix("/knowledge-library/")
+        if locale == "hi-IN":
+            search_url += "hi.html"
+        search_records.append({
+            "article_id": article["article_id"],
+            "locale": locale,
+            "title": article["title"],
+            "category": article["category"],
+            "category_slug": article["category_slug"],
+            "subcategory": article["subcategory"],
+            "subcategory_slug": article["subcategory_slug"],
+            "excerpt": article.get("excerpt", ""),
+            "url": search_url
+        })
 
 (ROOT / "docs" / "assets" / "live-search.json").write_text(
     json.dumps({
-        "version": 1,
-        "generated_for": "GitHub Pages live site",
+        "version": 2,
+        "generated_for": "GitHub Pages bilingual live search",
         "record_count": len(search_records),
         "records": search_records
     }, ensure_ascii=False, indent=2) + "\n",
