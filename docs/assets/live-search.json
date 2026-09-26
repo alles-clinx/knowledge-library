@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 88,
+  "record_count": 98,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -970,6 +970,116 @@
       "subcategory_slug": "carpet-upholstery",
       "excerpt": "Carpet spot wicking, sticky residue से resoiling, backing/substrate में remaining contamination या permanent appearance change के कारण cleaning के बाद वापस दिख सकता है।",
       "url": "library/floor-surface-care/carpet-upholstery/why-carpet-spots-reappear-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0045",
+      "locale": "en",
+      "title": "How Upholstery Material Affects Cleaning Compatibility",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "Upholstery cleaning compatibility depends on the fiber, dye, finish, backing, filling, adhesives and construction—not only on the visible fabric face.",
+      "url": "library/floor-surface-care/carpet-upholstery/how-upholstery-material-affects-cleaning-compatibility/"
+    },
+    {
+      "article_id": "ACX-KB-0045",
+      "locale": "hi-IN",
+      "title": "Upholstery material cleaning compatibility को कैसे affect करता है",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Carpet & Upholstery",
+      "subcategory_slug": "carpet-upholstery",
+      "excerpt": "Upholstery cleaning compatibility केवल visible fabric पर नहीं, बल्कि fiber, dye, finish, backing, filling, adhesives और construction पर depend करती है।",
+      "url": "library/floor-surface-care/carpet-upholstery/how-upholstery-material-affects-cleaning-compatibility/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0046",
+      "locale": "en",
+      "title": "What Is Surface Compatibility in Cleaning?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "Surface compatibility means a cleaning process can achieve its purpose without unacceptable change to the material, finish, coating, sealant, joint or adjacent components.",
+      "url": "library/floor-surface-care/surface-compatibility/what-is-surface-compatibility-in-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0046",
+      "locale": "hi-IN",
+      "title": "Cleaning में surface compatibility क्या है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "Surface compatibility का मतलब है cleaning process अपना purpose achieve करे बिना material, finish, coating, sealant, joint या adjacent component में unacceptable change किए।",
+      "url": "library/floor-surface-care/surface-compatibility/what-is-surface-compatibility-in-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0047",
+      "locale": "en",
+      "title": "How pH Can Affect Different Surface Materials",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "pH describes how acidic or alkaline a solution is, but surface response depends on the actual material, finish, cleaner formulation, concentration, exposure time and mechanical action.",
+      "url": "library/floor-surface-care/surface-compatibility/how-ph-can-affect-different-surface-materials/"
+    },
+    {
+      "article_id": "ACX-KB-0047",
+      "locale": "hi-IN",
+      "title": "pH different surface materials को कैसे affect कर सकता है",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "pH solution की acidity/alkalinity बताता है, लेकिन surface response material, finish, formulation, concentration, exposure time और mechanical action पर depend करती है।",
+      "url": "library/floor-surface-care/surface-compatibility/how-ph-can-affect-different-surface-materials/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0048",
+      "locale": "en",
+      "title": "Why Spot Testing Matters Before Using a New Cleaner",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "A spot test checks an unfamiliar cleaner and method on a small, unobtrusive area before broad use so colour, gloss, texture, coating or residue problems can be detected early.",
+      "url": "library/floor-surface-care/surface-compatibility/why-spot-testing-matters-before-using-a-new-cleaner/"
+    },
+    {
+      "article_id": "ACX-KB-0048",
+      "locale": "hi-IN",
+      "title": "New cleaner use करने से पहले spot testing क्यों matter करती है",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "Spot test unfamiliar cleaner/method को broad use से पहले small unobtrusive area पर check करता है ताकि colour, gloss, texture, coating या residue problems early detect हों।",
+      "url": "library/floor-surface-care/surface-compatibility/why-spot-testing-matters-before-using-a-new-cleaner/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0049",
+      "locale": "en",
+      "title": "Building a Surface-Chemistry Compatibility Matrix",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "A surface-chemistry compatibility matrix converts manufacturer instructions, product data, SDS information and validated spot tests into a controlled reference showing what can be used where and under which conditions.",
+      "url": "library/floor-surface-care/surface-compatibility/surface-chemistry-compatibility-matrix/"
+    },
+    {
+      "article_id": "ACX-KB-0049",
+      "locale": "hi-IN",
+      "title": "Surface-chemistry compatibility matrix कैसे बनाएं",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Surface Compatibility",
+      "subcategory_slug": "surface-compatibility",
+      "excerpt": "Compatibility matrix manufacturer instructions, product data, SDS information और validated spot tests को controlled reference में बदलती है जो बताती है क्या कहाँ और किन conditions में use हो सकता है।",
+      "url": "library/floor-surface-care/surface-compatibility/surface-chemistry-compatibility-matrix/hi.html"
     }
   ]
 }
