@@ -290,6 +290,14 @@
     input.removeAttribute('aria-activedescendant');
   }
 
+  const homeSearch=document.getElementById('knowledge-search');
+  if(homeSearch){
+    homeSearch.placeholder='Search all Knowledge guides';
+    homeSearch.setAttribute('aria-label','Search all Knowledge guides');
+    homeSearch.addEventListener('focus',function(){openSearch();});
+    homeSearch.addEventListener('click',function(){openSearch();});
+  }
+
   searchBtns.forEach(function(button){button.addEventListener('click',openSearch);});
   closeBtn.addEventListener('click',closeSearch);
   dialog.addEventListener('pointerdown',function(event){if(event.target===dialog)closeSearch();});
