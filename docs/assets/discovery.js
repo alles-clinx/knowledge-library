@@ -1,3 +1,4 @@
+(function(){const s=document.createElement('script');s.src='/knowledge-library/assets/site.js';s.defer=true;document.head.appendChild(s);})();
 (function(){
   const input=document.querySelector('[data-filter-input]');
   const rows=[...document.querySelectorAll('[data-filter-row]')];
