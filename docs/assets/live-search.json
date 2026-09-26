@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 198,
+  "record_count": 200,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2180,6 +2180,28 @@
       "subcategory_slug": "kitchen-troubleshooting",
       "excerpt": "Cloudy glassware hard-water minerals, detergent/rinse residue, poor drainage, dirty wash solution या permanent etching से हो सकती है; पहले removable film और permanent change अलग करें।",
       "url": "library/kitchen-food-service/kitchen-troubleshooting/why-glassware-looks-cloudy-after-washing/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0100",
+      "locale": "en",
+      "title": "Troubleshooting Persistent Kitchen Cleaning Residue",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Troubleshooting",
+      "subcategory_slug": "kitchen-troubleshooting",
+      "excerpt": "Persistent kitchen cleaning residue can come from grease, excess cleaner, hard-water minerals, redeposition, poor rinsing or surface damage. Diagnose the residue before increasing chemical strength.",
+      "url": "library/kitchen-food-service/kitchen-troubleshooting/persistent-kitchen-cleaning-residue/"
+    },
+    {
+      "article_id": "ACX-KB-0100",
+      "locale": "hi-IN",
+      "title": "Kitchen cleaning के बाद residue बार-बार क्यों रह सकती है?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Troubleshooting",
+      "subcategory_slug": "kitchen-troubleshooting",
+      "excerpt": "Persistent kitchen residue grease, excess cleaner, hard-water minerals, redeposition, poor rinsing या surface damage से आ सकती है। Chemical strength बढ़ाने से पहले residue identify करें।",
+      "url": "library/kitchen-food-service/kitchen-troubleshooting/persistent-kitchen-cleaning-residue/hi.html"
     }
   ]
 }

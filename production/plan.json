@@ -313,7 +313,7 @@
       "article_ids": [
         "ACX-KB-0100"
       ],
-      "status": "in_progress"
+      "status": "completed"
     },
     {
       "batch_number": 22,
@@ -328,7 +328,7 @@
         "ACX-KB-0104",
         "ACX-KB-0105"
       ],
-      "status": "queued"
+      "status": "in_progress"
     },
     {
       "batch_number": 23,
