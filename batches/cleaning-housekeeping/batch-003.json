@@ -9,10 +9,10 @@
     "ACX-KB-0014",
     "ACX-KB-0015"
   ],
-  "stage": "completed",
+  "stage": "preview-ready",
   "english": {
     "source_status": "complete",
-    "editorial_status": "locked"
+    "editorial_status": "locked-source"
   },
   "translation": {
     "locale": "hi-IN",
@@ -20,7 +20,7 @@
     "article_count": 5
   },
   "preview": {
-    "status": "live",
+    "status": "ready",
     "pages": 10,
     "design": "locked Gold Standard article shell",
     "qa": {
@@ -29,13 +29,8 @@
       "hook_targets_resolve": true,
       "floating_progress_targets_resolve": true,
       "duplicate_dom_ids": false,
-      "hook_runtime": true,
-      "compact_hero_scale": true
+      "locked_compact_hero_scale": true
     }
   },
-  "validation": {
-    "structural_qa": true,
-    "pages_deployment_commit": "2b886b26ca37fb964d35669da45b1d34126c1648",
-    "pages_deployment": "success"
-  }
+  "gate": "Publish only after repository validator and Pages deployment pass."
 }
