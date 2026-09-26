@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 148,
+  "record_count": 158,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1630,6 +1630,116 @@
       "subcategory_slug": "washroom-troubleshooting",
       "excerpt": "Recurring washroom odour troubleshoot करने के लिए source localise करें, surface contamination को drain/plumbing causes से अलग करें, moisture/ventilation check करें और fix को dry condition में verify करें।",
       "url": "library/washroom-hygiene/washroom-troubleshooting/how-to-troubleshoot-recurring-washroom-odours/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0075",
+      "locale": "en",
+      "title": "What Is a Professional Kitchen Cleaning Program?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "A professional kitchen cleaning program is a documented system that assigns what must be cleaned, when, by whom, by which method, how food-contact surfaces are sanitized, and how completion is verified.",
+      "url": "library/kitchen-food-service/kitchen-cleaning/what-is-a-professional-kitchen-cleaning-program/"
+    },
+    {
+      "article_id": "ACX-KB-0075",
+      "locale": "hi-IN",
+      "title": "Professional kitchen cleaning program क्या है?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "Professional kitchen cleaning program documented system है जो define करता है क्या clean होगा, कब, किसके द्वारा, किस method से, food-contact surfaces कैसे sanitize होंगी और result कैसे verify होगा।",
+      "url": "library/kitchen-food-service/kitchen-cleaning/what-is-a-professional-kitchen-cleaning-program/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0076",
+      "locale": "en",
+      "title": "How Kitchen Cleaning Differs from General Housekeeping",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "Kitchen cleaning differs from general housekeeping because food-contact surfaces, raw-to-ready-to-eat cross-contamination, sanitizing, food-safe chemical use and operating-time cleaning frequencies require tighter controls.",
+      "url": "library/kitchen-food-service/kitchen-cleaning/how-kitchen-cleaning-differs-from-general-housekeeping/"
+    },
+    {
+      "article_id": "ACX-KB-0076",
+      "locale": "hi-IN",
+      "title": "Kitchen cleaning general housekeeping से कैसे अलग है",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "Kitchen cleaning अलग है क्योंकि food-contact surfaces, raw-to-ready-to-eat cross-contamination, sanitizing, food-safe chemical use और operating-time frequencies tighter controls मांगते हैं।",
+      "url": "library/kitchen-food-service/kitchen-cleaning/how-kitchen-cleaning-differs-from-general-housekeeping/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0077",
+      "locale": "en",
+      "title": "How to Separate Routine and Periodic Kitchen Cleaning",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "Routine kitchen cleaning controls contamination generated during normal operation; periodic cleaning covers less-accessible, slower-soiling or dismantled areas that still need defined frequencies and verification.",
+      "url": "library/kitchen-food-service/kitchen-cleaning/how-to-separate-routine-and-periodic-kitchen-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0077",
+      "locale": "hi-IN",
+      "title": "Routine और periodic kitchen cleaning को कैसे separate करें",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "Routine kitchen cleaning normal operation की contamination control करती है; periodic cleaning less-accessible, slower-soiling या dismantled areas को defined schedule पर cover करती है।",
+      "url": "library/kitchen-food-service/kitchen-cleaning/how-to-separate-routine-and-periodic-kitchen-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0078",
+      "locale": "en",
+      "title": "Common Kitchen Cleaning Failures and What Causes Them",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "Common kitchen-cleaning failures include greasy film, food debris in equipment, sanitizer failure, chemical residue, cross-contamination, missed hidden zones and rapid resoiling—usually caused by process errors rather than lack of effort.",
+      "url": "library/kitchen-food-service/kitchen-cleaning/common-kitchen-cleaning-failures-and-what-causes-them/"
+    },
+    {
+      "article_id": "ACX-KB-0078",
+      "locale": "hi-IN",
+      "title": "Common kitchen cleaning failures और उनके causes",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Cleaning",
+      "subcategory_slug": "kitchen-cleaning",
+      "excerpt": "Kitchen cleaning failures जैसे greasy film, food debris, sanitizer failure, chemical residue, cross-contamination और hidden soil अक्सर process errors से आते हैं।",
+      "url": "library/kitchen-food-service/kitchen-cleaning/common-kitchen-cleaning-failures-and-what-causes-them/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0079",
+      "locale": "en",
+      "title": "What Is Manual Warewashing?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Manual Dishwashing",
+      "subcategory_slug": "manual-dishwashing",
+      "excerpt": "Manual warewashing is the controlled hand-cleaning process for utensils and equipment: preclean, wash, rinse, sanitize where required, then air-dry and store without recontamination.",
+      "url": "library/kitchen-food-service/manual-dishwashing/what-is-manual-warewashing/"
+    },
+    {
+      "article_id": "ACX-KB-0079",
+      "locale": "hi-IN",
+      "title": "Manual warewashing क्या है?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Manual Dishwashing",
+      "subcategory_slug": "manual-dishwashing",
+      "excerpt": "Manual warewashing utensils/equipment की controlled hand-cleaning process है: preclean, wash, rinse, required sanitizing, फिर air-dry और protected storage।",
+      "url": "library/kitchen-food-service/manual-dishwashing/what-is-manual-warewashing/hi.html"
     }
   ]
 }
