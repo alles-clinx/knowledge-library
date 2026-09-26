@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 48,
+  "record_count": 58,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -530,6 +530,116 @@
       "subcategory_slug": "cleaning-troubleshooting",
       "excerpt": "Inconsistent cleaning troubleshoot करने के लिए variables standardise करें: surface condition, soil, product/dilution, tools, mechanical action, sequence, time, water और verification.",
       "url": "library/cleaning-housekeeping/cleaning-troubleshooting/how-to-troubleshoot-inconsistent-cleaning-results/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0025",
+      "locale": "en",
+      "title": "What Is Hard-Floor Care?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "Hard-floor care is the planned combination of soil removal, cleaning, periodic maintenance, surface protection and safety controls used to keep a floor functional and presentable.",
+      "url": "library/floor-surface-care/hard-floors/what-is-hard-floor-care/"
+    },
+    {
+      "article_id": "ACX-KB-0025",
+      "locale": "hi-IN",
+      "title": "Hard-floor care क्या है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "Hard-floor care soil removal, cleaning, periodic maintenance, surface protection और safety controls का planned system है जो floor को functional और presentable रखता है।",
+      "url": "library/floor-surface-care/hard-floors/what-is-hard-floor-care/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0026",
+      "locale": "en",
+      "title": "How Routine and Periodic Floor Care Differ",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "Routine floor care controls everyday soil and safety conditions; periodic floor care restores condition when deeper cleaning, finish work or other scheduled maintenance is needed.",
+      "url": "library/floor-surface-care/hard-floors/how-routine-and-periodic-floor-care-differ/"
+    },
+    {
+      "article_id": "ACX-KB-0026",
+      "locale": "hi-IN",
+      "title": "Routine और periodic floor care में क्या अंतर है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "Routine floor care everyday soil और safety condition control करता है; periodic care deeper cleaning, finish work या scheduled maintenance की जरूरत पर condition restore करता है।",
+      "url": "library/floor-surface-care/hard-floors/how-routine-and-periodic-floor-care-differ/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0027",
+      "locale": "en",
+      "title": "Why Hard Floors Feel Sticky After Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "A sticky floor after cleaning often indicates residue, contaminated solution, incorrect dilution, incomplete removal of soil or a mismatch between the cleaning method and the floor.",
+      "url": "library/floor-surface-care/hard-floors/why-hard-floors-feel-sticky-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0027",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद hard floor sticky क्यों लगता है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "Cleaning के बाद sticky floor अक्सर residue, contaminated solution, incorrect dilution, incomplete soil removal या floor-method mismatch का संकेत होता है।",
+      "url": "library/floor-surface-care/hard-floors/why-hard-floors-feel-sticky-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0028",
+      "locale": "en",
+      "title": "How to Match a Floor-Care Method to the Surface",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "Choose a floor-care method by identifying the material and finish, soil, condition, moisture tolerance, product compatibility, mechanical action and safe drying requirements.",
+      "url": "library/floor-surface-care/hard-floors/how-to-match-a-floor-care-method-to-the-surface/"
+    },
+    {
+      "article_id": "ACX-KB-0028",
+      "locale": "hi-IN",
+      "title": "Floor-care method को surface से कैसे match करें",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Hard Floors",
+      "subcategory_slug": "hard-floors",
+      "excerpt": "Floor-care method चुनते समय material/finish, soil, condition, moisture tolerance, product compatibility, mechanical action और safe drying requirements identify करें।",
+      "url": "library/floor-surface-care/hard-floors/how-to-match-a-floor-care-method-to-the-surface/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0029",
+      "locale": "en",
+      "title": "What Is Different About Natural-Stone Cleaning?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Natural-stone cleaning requires material identification, gentle testing and chemical compatibility because different stones vary in porosity, mineral composition, acid sensitivity and surface finish.",
+      "url": "library/floor-surface-care/natural-stone/what-is-different-about-natural-stone-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0029",
+      "locale": "hi-IN",
+      "title": "Natural-stone cleaning में क्या अलग है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Natural Stone",
+      "subcategory_slug": "natural-stone",
+      "excerpt": "Natural-stone cleaning में material identification, gentle testing और chemical compatibility जरूरी हैं क्योंकि different stones की porosity, minerals, acid sensitivity और finish अलग होती हैं।",
+      "url": "library/floor-surface-care/natural-stone/what-is-different-about-natural-stone-cleaning/hi.html"
     }
   ]
 }
