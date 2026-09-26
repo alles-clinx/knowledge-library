@@ -10,7 +10,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Cleaning Basics",
       "subcategory_slug": "cleaning-basics",
-      "url": "knowledge-library/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/"
+      "excerpt": "Professional cleaning is a planned, repeatable process for keeping a facility fit for use. Learn how scope, methods, safety and verification work together.",
+      "url": "library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/"
     },
     {
       "article_id": "ACX-KB-0002",
@@ -19,7 +20,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Cleaning Basics",
       "subcategory_slug": "cleaning-basics",
-      "url": "knowledge-library/library/cleaning-housekeeping/cleaning-basics/cleaning-vs-sanitising-vs-disinfecting/"
+      "excerpt": "Cleaning removes soil; sanitising and disinfecting aim to reduce or inactivate microorganisms to different specified levels. Here is how to choose the right step.",
+      "url": "library/cleaning-housekeeping/cleaning-basics/cleaning-vs-sanitising-vs-disinfecting/"
     },
     {
       "article_id": "ACX-KB-0003",
@@ -28,7 +30,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Cleaning Basics",
       "subcategory_slug": "cleaning-basics",
-      "url": "knowledge-library/library/cleaning-housekeeping/cleaning-basics/the-four-factors-that-influence-cleaning-performance/"
+      "excerpt": "Cleaning results depend on chemistry, mechanical action, time and temperature. Learn how these four factors work together without damaging surfaces or misusing chemicals.",
+      "url": "library/cleaning-housekeeping/cleaning-basics/the-four-factors-that-influence-cleaning-performance/"
     },
     {
       "article_id": "ACX-KB-0004",
@@ -37,7 +40,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Cleaning Basics",
       "subcategory_slug": "cleaning-basics",
-      "url": "knowledge-library/library/cleaning-housekeeping/cleaning-basics/why-cleaning-results-vary-between-surfaces/"
+      "excerpt": "The same cleaning method can work on one material and fail on another. See how porosity, finishes, soil, joints and product compatibility affect results.",
+      "url": "library/cleaning-housekeeping/cleaning-basics/why-cleaning-results-vary-between-surfaces/"
     },
     {
       "article_id": "ACX-KB-0005",
@@ -46,7 +50,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Daily Cleaning",
       "subcategory_slug": "daily-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/daily-cleaning/what-is-routine-daily-cleaning/"
+      "excerpt": "Routine daily cleaning is the scheduled care that keeps a facility usable between deeper tasks. Learn what it covers, how to plan it and how to check completion.",
+      "url": "library/cleaning-housekeeping/daily-cleaning/what-is-routine-daily-cleaning/"
     },
     {
       "article_id": "ACX-KB-0006",
@@ -55,7 +60,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Daily Cleaning",
       "subcategory_slug": "daily-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/daily-cleaning/how-to-build-a-daily-cleaning-workflow/"
+      "excerpt": "A daily cleaning workflow turns a task list into a repeatable route: assess the area, prepare supplies, work systematically, protect clean work and verify the result.",
+      "url": "library/cleaning-housekeeping/daily-cleaning/how-to-build-a-daily-cleaning-workflow/"
     },
     {
       "article_id": "ACX-KB-0007",
@@ -64,7 +70,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Daily Cleaning",
       "subcategory_slug": "daily-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/daily-cleaning/what-should-be-cleaned-first-in-a-room/"
+      "excerpt": "There is no universal first surface. Start by assessing the room and any immediate hazards, then use a repeatable cleaner-to-dirtier, high-to-low route that fits the site.",
+      "url": "library/cleaning-housekeeping/daily-cleaning/what-should-be-cleaned-first-in-a-room/"
     },
     {
       "article_id": "ACX-KB-0008",
@@ -73,7 +80,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Daily Cleaning",
       "subcategory_slug": "daily-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/daily-cleaning/common-daily-cleaning-mistakes-and-why-they-happen/"
+      "excerpt": "Daily cleaning mistakes are usually system failures, not isolated worker errors. Learn how unclear scope, poor sequencing, unsuitable methods and weak verification create repeat problems.",
+      "url": "library/cleaning-housekeeping/daily-cleaning/common-daily-cleaning-mistakes-and-why-they-happen/"
     },
     {
       "article_id": "ACX-KB-0009",
@@ -82,7 +90,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Deep Cleaning",
       "subcategory_slug": "deep-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/deep-cleaning/what-is-deep-cleaning/"
+      "excerpt": "Deep cleaning is a broader, more detailed cleaning intervention used when routine work does not cover the required scope. It means more access and detail—not automatically stronger chemicals.",
+      "url": "library/cleaning-housekeeping/deep-cleaning/what-is-deep-cleaning/"
     },
     {
       "article_id": "ACX-KB-0010",
@@ -91,7 +100,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Deep Cleaning",
       "subcategory_slug": "deep-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/deep-cleaning/when-does-a-facility-need-deep-cleaning/"
+      "excerpt": "A facility needs deep cleaning when the required scope exceeds routine work—for example because of accumulated soil, scheduled detail work, changeovers, maintenance or a change in operating conditions.",
+      "url": "library/cleaning-housekeeping/deep-cleaning/when-does-a-facility-need-deep-cleaning/"
     },
     {
       "article_id": "ACX-KB-0011",
@@ -100,7 +110,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Deep Cleaning",
       "subcategory_slug": "deep-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/deep-cleaning/deep-cleaning-vs-routine-cleaning/"
+      "excerpt": "Routine cleaning maintains everyday conditions; deep cleaning extends the scope, access, detail or intensity when a normal routine is not enough.",
+      "url": "library/cleaning-housekeeping/deep-cleaning/deep-cleaning-vs-routine-cleaning/"
     },
     {
       "article_id": "ACX-KB-0012",
@@ -109,7 +120,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "High-Touch Cleaning",
       "subcategory_slug": "high-touch-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/high-touch-cleaning/what-are-high-touch-surfaces/"
+      "excerpt": "High-touch surfaces are surfaces that people contact frequently with their hands. The exact list depends on how a particular facility is used.",
+      "url": "library/cleaning-housekeeping/high-touch-cleaning/what-are-high-touch-surfaces/"
     },
     {
       "article_id": "ACX-KB-0013",
@@ -118,7 +130,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "High-Touch Cleaning",
       "subcategory_slug": "high-touch-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/high-touch-cleaning/why-high-touch-cleaning-matters/"
+      "excerpt": "High-touch cleaning matters because frequently handled surfaces have greater opportunity for repeated contamination and transfer, so they usually need more frequent attention than low-touch surfaces.",
+      "url": "library/cleaning-housekeeping/high-touch-cleaning/why-high-touch-cleaning-matters/"
     },
     {
       "article_id": "ACX-KB-0014",
@@ -127,7 +140,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "High-Touch Cleaning",
       "subcategory_slug": "high-touch-cleaning",
-      "url": "knowledge-library/library/cleaning-housekeeping/high-touch-cleaning/how-to-identify-high-touch-points-in-a-facility/"
+      "excerpt": "Identify high-touch points by observing real hand contact, traffic, shared equipment and user behaviour, then validate the list through staff feedback and periodic review.",
+      "url": "library/cleaning-housekeeping/high-touch-cleaning/how-to-identify-high-touch-points-in-a-facility/"
     },
     {
       "article_id": "ACX-KB-0015",
@@ -136,7 +150,8 @@
       "category_slug": "cleaning-housekeeping",
       "subcategory": "Cleaning Schedules",
       "subcategory_slug": "cleaning-schedules",
-      "url": "knowledge-library/library/cleaning-housekeeping/cleaning-schedules/what-is-a-cleaning-schedule/"
+      "excerpt": "A cleaning schedule is a documented plan that states what must be cleaned, where, how often, by whom and using which approved method.",
+      "url": "library/cleaning-housekeeping/cleaning-schedules/what-is-a-cleaning-schedule/"
     }
   ]
 }
