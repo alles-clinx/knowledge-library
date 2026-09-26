@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 40,
+  "record_count": 48,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -442,6 +442,94 @@
       "subcategory_slug": "housekeeping-workflows",
       "excerpt": "Clean-to-dirty और high-to-low sequencing principles recontamination कम करते हैं: dirtier areas की ओर move करें, upper surfaces पहले और floors बाद में clean करें।",
       "url": "library/cleaning-housekeeping/housekeeping-workflows/clean-to-dirty-and-high-to-low-cleaning-principles/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0021",
+      "locale": "en",
+      "title": "Why Handover Matters Between Housekeeping Shifts",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "A good housekeeping handover transfers unfinished work, exceptions, hazards, access issues and priorities so the incoming shift can continue safely without guessing.",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/why-handover-matters-between-housekeeping-shifts/"
+    },
+    {
+      "article_id": "ACX-KB-0021",
+      "locale": "hi-IN",
+      "title": "Housekeeping shifts के बीच handover क्यों महत्वपूर्ण है",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "अच्छा housekeeping handover unfinished work, exceptions, hazards, access issues और priorities transfer करता है ताकि incoming shift बिना guesswork के काम जारी रख सके।",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/why-handover-matters-between-housekeeping-shifts/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0022",
+      "locale": "en",
+      "title": "Why Does a Surface Still Look Dirty After Cleaning?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Troubleshooting",
+      "subcategory_slug": "cleaning-troubleshooting",
+      "excerpt": "If a surface still looks dirty after cleaning, first separate removable soil from residue, mineral deposits, staining, finish damage and surface wear before changing the method.",
+      "url": "library/cleaning-housekeeping/cleaning-troubleshooting/why-does-a-surface-still-look-dirty-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0022",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद भी surface dirty क्यों दिखती है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Troubleshooting",
+      "subcategory_slug": "cleaning-troubleshooting",
+      "excerpt": "अगर cleaning के बाद भी surface dirty दिखती है, method बदलने से पहले removable soil, residue, mineral deposit, stain, finish damage और wear को अलग पहचानें।",
+      "url": "library/cleaning-housekeeping/cleaning-troubleshooting/why-does-a-surface-still-look-dirty-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0023",
+      "locale": "en",
+      "title": "Why Cleaning Leaves Residue or Streaks",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Troubleshooting",
+      "subcategory_slug": "cleaning-troubleshooting",
+      "excerpt": "Residue and streaks usually point to a process problem such as incorrect dilution, overloaded cloths, incomplete rinsing where required, hard-water deposits, uneven application or product-surface mismatch.",
+      "url": "library/cleaning-housekeeping/cleaning-troubleshooting/why-cleaning-leaves-residue-or-streaks/"
+    },
+    {
+      "article_id": "ACX-KB-0023",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद residue या streaks क्यों रह जाते हैं",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Troubleshooting",
+      "subcategory_slug": "cleaning-troubleshooting",
+      "excerpt": "Residue और streaks अक्सर incorrect dilution, overloaded cloths, required rinse miss होने, hard-water deposits, uneven application या product-surface mismatch जैसे process problems दिखाते हैं।",
+      "url": "library/cleaning-housekeeping/cleaning-troubleshooting/why-cleaning-leaves-residue-or-streaks/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0024",
+      "locale": "en",
+      "title": "How to Troubleshoot Inconsistent Cleaning Results",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Troubleshooting",
+      "subcategory_slug": "cleaning-troubleshooting",
+      "excerpt": "Troubleshoot inconsistent cleaning by standardising the variables first: surface condition, soil, product and dilution, tools, mechanical action, sequence, time, water and verification.",
+      "url": "library/cleaning-housekeeping/cleaning-troubleshooting/how-to-troubleshoot-inconsistent-cleaning-results/"
+    },
+    {
+      "article_id": "ACX-KB-0024",
+      "locale": "hi-IN",
+      "title": "Inconsistent cleaning results को troubleshoot कैसे करें",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Troubleshooting",
+      "subcategory_slug": "cleaning-troubleshooting",
+      "excerpt": "Inconsistent cleaning troubleshoot करने के लिए variables standardise करें: surface condition, soil, product/dilution, tools, mechanical action, sequence, time, water और verification.",
+      "url": "library/cleaning-housekeeping/cleaning-troubleshooting/how-to-troubleshoot-inconsistent-cleaning-results/hi.html"
     }
   ]
 }
