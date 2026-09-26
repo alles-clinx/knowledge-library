@@ -49,7 +49,7 @@ Official licence: https://creativecommons.org/licenses/by/4.0/
 ## Attribution
 Suggested attribution:
 
-> Source: Alle's ClinX Open Knowledge — https://allesclinx.com/library/
+> Source: Alle's ClinX Open Knowledge — https://allesclinx.com/knowledge/
 
 ## Current production
 Category 01 — Cleaning & Housekeeping  
