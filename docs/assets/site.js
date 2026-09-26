@@ -9,6 +9,7 @@
   window.__ACX_SITE_SHELL__=true;
 
   const BASE='/knowledge-library/';
+  const preferredLocale=document.documentElement.lang==='hi'?'hi-IN':'en';
   const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>';
   const nav=[
     ['Solutions','https://allesclinx.com/solutions/'],
@@ -96,7 +97,7 @@
       .toLowerCase()
       .replace(/sanitizing/g,'sanitising')
       .replace(/sanitize/g,'sanitise')
-      .replace(/[^a-z0-9]+/g,' ')
+      .replace(/[^\p{L}\p{N}]+/gu,' ')
       .trim();
   }
 
@@ -152,6 +153,7 @@
     if(subcategory.includes(q)) score+=34;
     if(category.includes(q)) score+=18;
     if(excerpt.includes(q)) score+=14;
+    if(record.locale===preferredLocale) score+=12;
 
     let matched=0;
     tokens.forEach(function(token){
@@ -192,7 +194,8 @@
       if(!response.ok) throw new Error('Search index unavailable');
       const data=await response.json();
       records=(data.records||[]).map(function(record,index){return Object.assign({_order:index},record);});
-      countLabel.textContent=records.length+' live guides';
+      const articleCount=new Set(records.map(function(record){return record.article_id;})).size;
+      countLabel.textContent=articleCount+' live guides · English + हिन्दी';
       statusLabel.textContent='Search all live Knowledge guides';
     }catch(error){
       records=[];
@@ -205,7 +208,7 @@
   function renderResult(record,index,query){
     return '<a class="acx-search-result" id="acx-search-result-'+index+'" role="option" aria-selected="false" data-index="'+index+'" href="'+esc(resultUrl(record))+'">'+
       '<span class="acx-search-result-main"><strong>'+highlight(record.title,query)+'</strong>'+
-      '<span class="acx-search-result-meta">'+esc(record.subcategory)+' <b>·</b> '+esc(record.article_id)+'</span>'+
+      '<span class="acx-search-result-meta">'+esc(record.subcategory)+' <b>·</b> '+esc(record.article_id)+' <b>·</b> '+(record.locale==='hi-IN'?'हिन्दी':'English')+'</span>'+
       (record.excerpt?'<span class="acx-search-result-excerpt">'+highlight(record.excerpt,query)+'</span>':'')+
       '</span><span class="acx-search-result-arrow" aria-hidden="true">→</span></a>';
   }
@@ -216,7 +219,8 @@
       visibleResults=[];
       return;
     }
-    visibleResults=records.slice(-6).reverse();
+    const preferred=records.filter(function(record){return record.locale===preferredLocale;});
+    visibleResults=(preferred.length?preferred:records).slice(-6).reverse();
     statusLabel.textContent='Recently published';
     results.innerHTML=visibleResults.map(function(record,index){
       return renderResult(record,index,'');
