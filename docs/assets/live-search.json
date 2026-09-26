@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 158,
+  "record_count": 168,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1740,6 +1740,116 @@
       "subcategory_slug": "manual-dishwashing",
       "excerpt": "Manual warewashing utensils/equipment की controlled hand-cleaning process है: preclean, wash, rinse, required sanitizing, फिर air-dry और protected storage।",
       "url": "library/kitchen-food-service/manual-dishwashing/what-is-manual-warewashing/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0080",
+      "locale": "en",
+      "title": "Dishwashing Performance: Soil, Water and Process",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Manual Dishwashing",
+      "subcategory_slug": "manual-dishwashing",
+      "excerpt": "Dishwashing performance depends on the soil being removed, water quality and temperature, detergent strength, mechanical action, rinsing, sanitizing control, drying and the condition of the wash solution.",
+      "url": "library/kitchen-food-service/manual-dishwashing/dishwashing-performance-soil-water-process/"
+    },
+    {
+      "article_id": "ACX-KB-0080",
+      "locale": "hi-IN",
+      "title": "Dishwashing performance: soil, water और process",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Manual Dishwashing",
+      "subcategory_slug": "manual-dishwashing",
+      "excerpt": "Dishwashing performance soil type, water quality/temperature, detergent strength, mechanical action, rinsing, sanitizing control, drying और wash-solution condition पर depend करती है।",
+      "url": "library/kitchen-food-service/manual-dishwashing/dishwashing-performance-soil-water-process/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0081",
+      "locale": "en",
+      "title": "Why Hand-Washed Dishes Can Look Cloudy",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Manual Dishwashing",
+      "subcategory_slug": "manual-dishwashing",
+      "excerpt": "Hand-washed dishes can look cloudy because of hard-water minerals, soap scum, detergent residue, dirty rinse water, incomplete drying or permanent surface etching rather than remaining food soil.",
+      "url": "library/kitchen-food-service/manual-dishwashing/why-hand-washed-dishes-can-look-cloudy/"
+    },
+    {
+      "article_id": "ACX-KB-0081",
+      "locale": "hi-IN",
+      "title": "Hand-washed dishes cloudy क्यों दिख सकती हैं",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Manual Dishwashing",
+      "subcategory_slug": "manual-dishwashing",
+      "excerpt": "Hand-washed dishes hard-water minerals, soap scum, detergent residue, dirty rinse water, drying pattern या permanent surface etching के कारण cloudy दिख सकती हैं।",
+      "url": "library/kitchen-food-service/manual-dishwashing/why-hand-washed-dishes-can-look-cloudy/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0082",
+      "locale": "en",
+      "title": "How Machine Warewashing Works",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Machine Warewashing",
+      "subcategory_slug": "machine-warewashing",
+      "excerpt": "Machine warewashing combines precleaning, controlled wash chemistry, spray action, rinsing, sanitizing, drainage and drying; performance depends on correct loading and verified machine parameters.",
+      "url": "library/kitchen-food-service/machine-warewashing/how-machine-warewashing-works/"
+    },
+    {
+      "article_id": "ACX-KB-0082",
+      "locale": "hi-IN",
+      "title": "Machine warewashing कैसे काम करती है",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Machine Warewashing",
+      "subcategory_slug": "machine-warewashing",
+      "excerpt": "Machine warewashing precleaning, controlled wash chemistry, spray action, rinsing, sanitizing, drainage और drying combine करती है; correct loading/verified parameters जरूरी हैं।",
+      "url": "library/kitchen-food-service/machine-warewashing/how-machine-warewashing-works/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0083",
+      "locale": "en",
+      "title": "Why Machine-Washed Glassware Can Look Cloudy",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Machine Warewashing",
+      "subcategory_slug": "machine-warewashing",
+      "excerpt": "Machine-washed glassware can look cloudy because of hard-water minerals, detergent or rinse residue, poor spray coverage, incorrect machine settings, drying deposits or permanent glass etching.",
+      "url": "library/kitchen-food-service/machine-warewashing/why-machine-washed-glassware-can-look-cloudy/"
+    },
+    {
+      "article_id": "ACX-KB-0083",
+      "locale": "hi-IN",
+      "title": "Machine-washed glassware cloudy क्यों दिख सकती है",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Machine Warewashing",
+      "subcategory_slug": "machine-warewashing",
+      "excerpt": "Machine-washed glassware hard-water minerals, detergent/rinse residue, poor spray coverage, incorrect machine settings, drying deposits या permanent etching से cloudy दिख सकती है।",
+      "url": "library/kitchen-food-service/machine-warewashing/why-machine-washed-glassware-can-look-cloudy/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0084",
+      "locale": "en",
+      "title": "What Causes Spots or Film After Machine Warewashing?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Machine Warewashing",
+      "subcategory_slug": "machine-warewashing",
+      "excerpt": "Spots or film after machine warewashing can come from hard-water minerals, detergent carryover, poor final rinsing, incorrect chemical feed, blocked spray, overloaded racks, dirty machine water or incomplete drainage and drying.",
+      "url": "library/kitchen-food-service/machine-warewashing/what-causes-spots-or-film-after-machine-warewashing/"
+    },
+    {
+      "article_id": "ACX-KB-0084",
+      "locale": "hi-IN",
+      "title": "Machine warewashing के बाद spots या film क्यों आती है?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Machine Warewashing",
+      "subcategory_slug": "machine-warewashing",
+      "excerpt": "Machine warewashing के बाद spots/film hard-water minerals, detergent carryover, poor rinse, chemical feed errors, blocked spray, overloaded racks, dirty machine water या drying से आ सकती है।",
+      "url": "library/kitchen-food-service/machine-warewashing/what-causes-spots-or-film-after-machine-warewashing/hi.html"
     }
   ]
 }
