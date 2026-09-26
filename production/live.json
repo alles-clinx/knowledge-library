@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "current_batch": "batch-008",
+  "current_batch": "batch-009",
   "live_article_ids": [
     "ACX-KB-0001",
     "ACX-KB-0002",
@@ -35,7 +35,12 @@
     "ACX-KB-0031",
     "ACX-KB-0032",
     "ACX-KB-0033",
-    "ACX-KB-0034"
+    "ACX-KB-0034",
+    "ACX-KB-0035",
+    "ACX-KB-0036",
+    "ACX-KB-0037",
+    "ACX-KB-0038",
+    "ACX-KB-0039"
   ],
   "completed_batches": [
     "batch-001",
@@ -44,7 +49,8 @@
     "batch-004",
     "batch-005",
     "batch-006",
-    "batch-007"
+    "batch-007",
+    "batch-008"
   ],
-  "note": "Cleaning & Housekeeping batches 001-005 and Floor & Surface Care batches 006-007 are locked and live. Batch 008 is active; only QA-passed article IDs belong in live_article_ids."
+  "note": "Cleaning & Housekeeping batches 001-005 and Floor & Surface Care batches 006-008 are locked and live. Batch 009 is active; only QA-passed article IDs belong in live_article_ids."
 }
