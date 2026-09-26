@@ -1,0 +1,36 @@
+name: Build Hostinger Production
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hostinger-production
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build clean Hostinger tree
+        run: python scripts/build_hostinger_production.py /tmp/knowledge-publish
+      - name: Publish production branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan hostinger-production
+          git rm -rf .
+          cp -a /tmp/knowledge-publish/. .
+          git add -A
+          git commit -m "Build Hostinger production site from ${GITHUB_SHA}"
+          git push --force origin hostinger-production
