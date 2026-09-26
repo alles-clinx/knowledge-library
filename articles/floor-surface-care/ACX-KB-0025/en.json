@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0025",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Hard-Floor Care?",
+  "slug": "what-is-hard-floor-care",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "Hard-floor care is the planned combination of soil removal, cleaning, periodic maintenance, surface protection and safety controls used to keep a floor functional and presentable.",
+  "content_html": "<p>Hard-floor care is more than mopping. It is the planned system used to remove contamination, maintain the floor surface, control slip risk and decide when routine cleaning is no longer enough. The correct system depends on the floor material, finish, soil, traffic and operating conditions.</p>\n<h2 id=\"hard-floor-care-has-several-jobs\">Hard-floor care has several jobs</h2><ul><li>Remove loose and adhered soil.</li><li>Control contamination that can increase slip risk.</li><li>Protect finishes or coatings where they are part of the floor system.</li><li>Prevent residue and repeated build-up.</li><li>Identify wear, damage or maintenance needs that cleaning cannot correct.</li></ul>\n<h2 id=\"routine-care\">Routine care</h2><p>Routine care handles recurring soil and day-to-day contamination. It can include dust control, spot cleaning, damp or wet cleaning and machine cleaning where appropriate. CDC floor-cleaning guidance uses a systematic route, cleaner-to-dirtier movement and clean tools or solution to reduce recontamination.</p>\n<h2 id=\"periodic-care\">Periodic care</h2><p>Periodic care addresses needs that do not have to happen every shift or day. Depending on the floor system this may include deeper machine cleaning, finish maintenance or other restorative work. Periodic work should be triggered by the actual floor condition and manufacturer or facility requirements rather than by habit alone.</p>\n<h2 id=\"method-must-match-the-floor\">The method must match the floor</h2><p>HSE advises using the right amount of the right cleaning product and a cleaning method that is effective for the type of floor. CDC likewise recommends selecting products that do not damage surfaces and preparing them according to instructions. A method that works well on resilient flooring may be unsuitable for natural stone, wood, coated floors or other materials.</p>\n<h2 id=\"drying-is-part-of-the-job\">Drying is part of the job</h2><p>A floor can be visually clean and still be unsafe while wet. HSE notes that smooth floors left damp after cleaning can create slip risk. Plan access, barriers, section cleaning and drying so the area is not returned to normal use too early.</p>\n<h2 id=\"verification\">Verification</h2><p>Floor care should be checked by result, not only by whether a task was ticked off. Look for remaining soil, streaks, sticky feel, standing moisture, damaged areas, machine marks and recurring contamination patterns.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Hard-floor care combines cleaning, maintenance and safety. Identify the floor and its finish first, remove the right soil with a compatible method, keep the process controlled and escalate to periodic maintenance when routine cleaning no longer restores the required condition.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning and slip prevention</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "What Is Hard-Floor Care? | Alle's ClinX Knowledge",
+  "meta_description": "Understand hard-floor care as a system of routine cleaning, periodic maintenance, compatible methods, drying and verification for safer, more consistent floors.",
+  "related_article_ids": [
+    "ACX-KB-0026",
+    "ACX-KB-0028",
+    "ACX-KB-0027"
+  ]
+}

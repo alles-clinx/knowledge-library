@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0026",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0026",
+  "title": "Routine और periodic floor care में क्या अंतर है?",
+  "slug": "how-routine-and-periodic-floor-care-differ",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "Routine floor care everyday soil और safety condition control करता है; periodic care deeper cleaning, finish work या scheduled maintenance की जरूरत पर condition restore करता है।",
+  "content_html": "<p>Routine और periodic floor care अलग purposes serve करते हैं। Routine care बड़े interventions के बीच floor maintain करता है। Periodic care accumulated soil, finish condition या maintenance needs handle करता है जिन्हें daily address करना inefficient या unnecessary है।</p>\n<h2 id=\"hi26-routine\">Routine floor care</h2><p>Routine care normal operations में recurring work है। इसमें dust control, spot cleaning, damp/wet cleaning, scheduled machine cleaning और prompt spill response शामिल हो सकते हैं। Frequency traffic, contamination और actual floor condition reflect करे।</p>\n<h2 id=\"hi26-periodic\">Periodic floor care</h2><p>Periodic care less frequent और usually broader scope का होता है। इसमें अधिक access, time, equipment या preparation चाहिए हो सकती है। Examples में deeper machine cleaning या finish maintenance हो सकती है, लेकिन exact method floor system और manufacturer instructions पर depend करती है।</p>\n<h2 id=\"hi26-differences\">Key differences</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Routine care</th><th>Periodic care</th></tr></thead><tbody>\n<tr><td>Purpose</td><td>Everyday soil control और usable condition maintain करना</td><td>Routine capability से आगे condition restore करना</td></tr>\n<tr><td>Frequency</td><td>Recurring और relatively frequent</td><td>Scheduled या condition-triggered</td></tr>\n<tr><td>Scope</td><td>Normal operating tasks</td><td>Broader या more intensive work</td></tr>\n<tr><td>Access</td><td>Normal use के around designed</td><td>Restricted access या quieter period चाहिए हो सकता है</td></tr>\n<tr><td>Equipment</td><td>Routine tools और machines</td><td>Specialised pads, machines या processes लग सकते हैं</td></tr>\n</tbody></table>\n<h2 id=\"hi26-not-fix-routine\">Weak routine को periodic work से hide न करें</h2><p>Floors periodic interventions के बीच repeatedly unacceptable हो जाएँ तो daily method या frequency wrong हो सकती है। HSE effective floor method और right amount of product use करने पर जोर देता है; routine performance correct करें।</p>\n<h2 id=\"hi26-over-maintain\">Over-maintain भी न करें</h2><p>Periodic work के पीछे reason होना चाहिए। Unnecessary chemical, abrasive या machine treatment cost बढ़ा सकता है और finish/surface affect कर सकता है। Frequency floor condition, traffic, soil, finish system और manufacturer guidance पर base करें।</p>\n<h2 id=\"hi26-safety\">दोनों में safety लागू होती है</h2><p>Routine और periodic methods temporary slip/access hazards create कर सकते हैं। HSE wet/drying floors पर access restrict करने और smooth floors dry होने के बाद normal use resume करने को कहता है।</p>\n<h2 id=\"hi26-takeaway\">Practical takeaway</h2><p>Routine care normal soil को larger problem बनने से रोकता है। Periodic care floor reset करता है जब routine process required condition maintain नहीं कर पाता। Good program दोनों roles clear रखता है।</p>\n<h2 id=\"hi26-references\">संदर्भ</h2><ol>\n<li id=\"hi26-ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning</a>.</li>\n<li id=\"hi26-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi26-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Routine vs Periodic Floor Care | Alle's ClinX",
+  "meta_description": "Purpose, frequency, scope, access और equipment के आधार पर routine और periodic floor care का अंतर समझें।",
+  "related_article_ids": [
+    "ACX-KB-0025",
+    "ACX-KB-0027",
+    "ACX-KB-0028"
+  ]
+}

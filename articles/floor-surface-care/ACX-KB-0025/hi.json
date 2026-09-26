@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0025",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0025",
+  "title": "Hard-floor care क्या है?",
+  "slug": "what-is-hard-floor-care",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "Hard-floor care soil removal, cleaning, periodic maintenance, surface protection और safety controls का planned system है जो floor को functional और presentable रखता है।",
+  "content_html": "<p>Hard-floor care केवल mopping नहीं है। यह contamination remove करने, floor surface maintain करने, slip risk control करने और routine cleaning कब पर्याप्त नहीं है यह decide करने का planned system है। सही system floor material, finish, soil, traffic और operating conditions पर depend करता है।</p>\n<h2 id=\"hi25-jobs\">Hard-floor care के कई jobs होते हैं</h2><ul><li>Loose और adhered soil remove करना.</li><li>Slip risk बढ़ाने वाली contamination control करना.</li><li>जहाँ applicable हो वहाँ finishes/coatings protect करना.</li><li>Residue और repeated build-up रोकना.</li><li>Wear, damage या maintenance needs identify करना जिन्हें cleaning ठीक नहीं कर सकती.</li></ul>\n<h2 id=\"hi25-routine\">Routine care</h2><p>Routine care recurring soil और day-to-day contamination handle करता है। इसमें dust control, spot cleaning, damp/wet cleaning और appropriate machine cleaning शामिल हो सकते हैं। CDC floor guidance systematic route, cleaner-to-dirtier movement और clean tools/solution use करती है।</p>\n<h2 id=\"hi25-periodic\">Periodic care</h2><p>Periodic care उन needs को address करता है जो हर shift/day नहीं करनी पड़तीं। Floor system के अनुसार इसमें deeper machine cleaning, finish maintenance या restorative work हो सकता है। Periodic work actual condition और manufacturer/facility requirements से trigger होना चाहिए।</p>\n<h2 id=\"hi25-match\">Method floor से match होना चाहिए</h2><p>HSE right amount of the right cleaning product और floor type के लिए effective method use करने को कहता है। CDC भी surface damage न करने वाले products और instructions के अनुसार preparation recommend करता है। Resilient flooring पर काम करने वाला method natural stone, wood या coated floor पर unsuitable हो सकता है।</p>\n<h2 id=\"hi25-drying\">Drying भी job का हिस्सा है</h2><p>Floor visually clean हो सकता है लेकिन wet रहने पर unsafe हो सकता है। HSE smooth damp floors को slip risk बताता है। Access, barriers, section cleaning और drying plan करें ताकि area जल्दी reopen न हो।</p>\n<h2 id=\"hi25-verification\">Verification</h2><p>Floor care result से check होना चाहिए, केवल tick-box से नहीं। Remaining soil, streaks, sticky feel, standing moisture, damage, machine marks और recurring contamination patterns देखें।</p>\n<h2 id=\"hi25-takeaway\">Practical takeaway</h2><p>Hard-floor care cleaning, maintenance और safety को combine करता है। पहले floor और finish identify करें, compatible method से सही soil remove करें, process controlled रखें और routine cleaning required condition restore न करे तो periodic maintenance escalate करें।</p>\n<h2 id=\"hi25-references\">संदर्भ</h2><ol>\n<li id=\"hi25-ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning and slip prevention</a>.</li>\n<li id=\"hi25-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi25-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Hard-floor care क्या है? | Alle's ClinX",
+  "meta_description": "Routine cleaning, periodic maintenance, compatible methods, drying और verification के साथ hard-floor care system को समझें।",
+  "related_article_ids": [
+    "ACX-KB-0026",
+    "ACX-KB-0028",
+    "ACX-KB-0027"
+  ]
+}

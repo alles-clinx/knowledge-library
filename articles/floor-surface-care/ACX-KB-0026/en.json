@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0026",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Routine and Periodic Floor Care Differ",
+  "slug": "how-routine-and-periodic-floor-care-differ",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "Routine floor care controls everyday soil and safety conditions; periodic floor care restores condition when deeper cleaning, finish work or other scheduled maintenance is needed.",
+  "content_html": "<p>Routine and periodic floor care serve different purposes. Routine care maintains the floor between larger interventions. Periodic care deals with accumulated soil, finish condition or maintenance needs that are inefficient or unnecessary to address every day.</p>\n<h2 id=\"routine-floor-care\">Routine floor care</h2><p>Routine care is the recurring work built into normal operations. It may include dust control, spot cleaning, damp or wet cleaning, scheduled machine cleaning and prompt spill response. Frequency should reflect traffic, contamination and the floor's actual condition.</p>\n<h2 id=\"periodic-floor-care\">Periodic floor care</h2><p>Periodic care is less frequent and usually broader in scope. It may require more access, time, equipment or preparation. Examples can include deeper machine cleaning or finish maintenance, but the exact method depends on the floor system and manufacturer instructions.</p>\n<h2 id=\"key-differences\">Key differences</h2><table class=\"data-table\"><thead><tr><th>Feature</th><th>Routine care</th><th>Periodic care</th></tr></thead><tbody>\n<tr><td>Purpose</td><td>Control everyday soil and maintain usable condition</td><td>Restore condition beyond routine capability</td></tr>\n<tr><td>Frequency</td><td>Recurring and relatively frequent</td><td>Scheduled or condition-triggered</td></tr>\n<tr><td>Scope</td><td>Normal operating tasks</td><td>Broader or more intensive work</td></tr>\n<tr><td>Access</td><td>Designed around normal use where possible</td><td>May need restricted access or quieter periods</td></tr>\n<tr><td>Equipment</td><td>Routine tools and machines</td><td>May require specialised pads, machines or processes</td></tr>\n</tbody></table>\n<h2 id=\"do-not-use-periodic-work-to-fix-a-bad-routine\">Do not use periodic work to compensate for a weak routine</h2><p>If floors repeatedly become unacceptable between periodic interventions, the daily method or frequency may be wrong. HSE recommends using an effective method for the floor and the right amount of product; routine performance should be corrected rather than relying on frequent restorative work.</p>\n<h2 id=\"do-not-over-maintain\">Do not over-maintain either</h2><p>Periodic work should have a reason. Unnecessary chemical, abrasive or machine treatment can add cost and may affect a finish or surface. Base periodic frequency on floor condition, traffic, soil, finish system and manufacturer guidance.</p>\n<h2 id=\"safety-during-both\">Safety applies to both</h2><p>Routine and periodic methods can create temporary slip or access hazards. HSE advises restricting access to wet or drying floors and leaving smooth floors dry before normal pedestrian use resumes.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Routine care prevents normal soil from becoming a larger problem. Periodic care resets the floor when the routine process cannot maintain the required condition. A good program uses both without confusing their roles.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Routine vs Periodic Floor Care | Alle's ClinX Knowledge",
+  "meta_description": "Compare routine and periodic floor care by purpose, frequency, scope, access and equipment so each method is used for the right maintenance need.",
+  "related_article_ids": [
+    "ACX-KB-0025",
+    "ACX-KB-0027",
+    "ACX-KB-0028"
+  ]
+}

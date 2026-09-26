@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0028",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0028",
+  "title": "Floor-care method को surface से कैसे match करें",
+  "slug": "how-to-match-a-floor-care-method-to-the-surface",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "Floor-care method चुनते समय material/finish, soil, condition, moisture tolerance, product compatibility, mechanical action और safe drying requirements identify करें।",
+  "content_html": "<p>Safest floor-care method floor से शुरू होता है, available machine या chemical से नहीं। Similar दिखने वाले two floors की finish, porosity, moisture tolerance और maintenance requirements अलग हो सकती हैं।</p>\n<h2 id=\"hi28-floor\">Step 1: Floor और finish identify करें</h2><p>Confirm करें surface resilient flooring, ceramic/porcelain tile, sealed concrete, coated flooring, wood, natural stone या कोई other system है। Finish, sealer या coating भी identify करें। Material uncertain हो तो aggressive method safe assume न करें।</p>\n<h2 id=\"hi28-soil\">Step 2: Soil identify करें</h2><p>Loose dust, oily contamination, tracked-in soil, mineral deposits और adhesive residues same method से respond नहीं करते। HSE floor और contamination के लिए effective method use करने को कहता है।</p>\n<h2 id=\"hi28-product\">Step 3: Product compatibility check करें</h2><p>CDC ऐसे products select करने को recommend करता है जो surface damage न करें और manufacturer instructions के अनुसार prepare हों। pH, dilution, dwell/contact requirements और rinse/removal requirements check करें।</p>\n<h2 id=\"hi28-action\">Step 4: Mechanical action match करें</h2><p>Mechanical action microfiber mop से scrubbing equipment तक हो सकता है। More abrasion automatically better नहीं है। Pads, brushes, pressure और machine weight finishes या softer materials alter कर सकते हैं। Floor जितना tolerate करे उतना ही action use करें।</p>\n<h2 id=\"hi28-moisture\">Step 5: Moisture control करें</h2><p>कुछ surfaces/joints water को others से बेहतर tolerate करते हैं। Method के लिए जितना solution चाहिए उतना use करें, unnecessary flooding avoid करें। HSE wet floors को temporary slip risk बताता है, इसलिए drying और access control method selection का हिस्सा हैं।</p>\n<h2 id=\"hi28-test\">Step 6: Higher risk पर test करें</h2><p>Surface, finish या chemical response uncertain हो तो broad application से पहले small inconspicuous test area use करें। Product type, mechanical action या maintenance process बदलते समय यह especially important है।</p>\n<h2 id=\"hi28-check\">Simple selection check</h2><table class=\"data-table\"><thead><tr><th>Question</th><th>Why it matters</th></tr></thead><tbody>\n<tr><td>Material क्या है?</td><td>Basic chemical और moisture limits set करता है</td></tr>\n<tr><td>Finish/coating है?</td><td>Product और abrasion tolerance बदल सकती है</td></tr>\n<tr><td>कौन-सी soil है?</td><td>Required cleaning mechanism तय करती है</td></tr>\n<tr><td>कितना mechanical action safe है?</td><td>Unnecessary wear/damage रोकता है</td></tr>\n<tr><td>Solution कैसे remove होगा और floor कैसे dry होगा?</td><td>Residue और temporary slip risk control करता है</td></tr>\n</tbody></table>\n<h2 id=\"hi28-takeaway\">Practical takeaway</h2><p>Floor care को material, finish, soil और condition से match करें। Product, equipment और technique उसके बाद आते हैं। Surface identity uncertain हो तो least aggressive compatible method use करें और scale-up से पहले test करें।</p>\n<h2 id=\"hi28-references\">संदर्भ</h2><ol>\n<li id=\"hi28-ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning</a>.</li>\n<li id=\"hi28-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"hi28-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n</ol>",
+  "seo_title": "Floor-care method surface से कैसे match करें | Alle's ClinX",
+  "meta_description": "Material, finish, soil, compatibility, mechanical action, moisture और testing के आधार पर floor-care method चुनना समझें।",
+  "related_article_ids": [
+    "ACX-KB-0025",
+    "ACX-KB-0026",
+    "ACX-KB-0029"
+  ]
+}

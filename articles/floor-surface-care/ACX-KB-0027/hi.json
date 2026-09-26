@@ -1,0 +1,27 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0027",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0027",
+  "title": "Cleaning के बाद hard floor sticky क्यों लगता है?",
+  "slug": "why-hard-floors-feel-sticky-after-cleaning",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "Cleaning के बाद sticky floor अक्सर residue, contaminated solution, incorrect dilution, incomplete soil removal या floor-method mismatch का संकेत होता है।",
+  "content_html": "<p>Cleaning के बाद hard floor sticky लगे तो process troubleshoot करें। Stickiness अक्सर बताती है कि surface पर कुछ material रह गया या cleaning के दौरान redistribute हुआ। Cause identify किए बिना more product add करना problem worse कर सकता है।</p>\n<h2 id=\"hi27-product\">Cause 1: Product ज्यादा है या dilution गलत है</h2><p>HSE right amount of the right cleaning product use करने को कहता है। CDC manufacturer instructions के अनुसार solution prepare करने को recommend करता है। Over-concentrated solution water evaporate होने पर ज्यादा material छोड़ सकती है और बाद का soil जल्दी attach हो सकता है।</p>\n<h2 id=\"hi27-dirty\">Cause 2: Solution, mop या pad dirty है</h2><p>Cleaning solution या mop heavy soil load होने पर contamination remove करने की बजाय spread कर सकते हैं। CDC floor guidance soiled होने पर mop heads, floor cloths और buckets change करने को कहती है।</p>\n<h2 id=\"hi27-soil\">Cause 3: Soil loosen हुई लेकिन पूरी remove नहीं हुई</h2><p>Detergent और mechanical action greasy/sticky soil release कर सकते हैं, लेकिन material को surface से carry away भी करना होता है। Heavy contamination पर one pass soil redistribute कर सकता है। HSE detergent को greasy floors पर enough time देने और suitable method use करने को कहता है।</p>\n<h2 id=\"hi27-rinse\">Cause 4: Rinse या solution recovery inadequate है</h2><p>कुछ floor-care products/methods spent solution remove करने या rinse step की जरूरत रखते हैं। Product और floor-system instructions follow करें। Machine cleaning में worn squeegee या overloaded system liquid पीछे छोड़ सकता है; HSE poorly maintained equipment को reduced effectiveness से जोड़ता है।</p>\n<h2 id=\"hi27-finish\">Cause 5: Floor finish worn, softened या damaged है</h2><p>Sticky feel हमेशा removable detergent नहीं होता। Coatings/finishes wear, incompatible chemistry या incorrect maintenance से change हो सकते हैं। Approved method से controlled re-clean correct न करे तो chemistry बढ़ाने से पहले finish inspect करें।</p>\n<h2 id=\"hi27-test\">Controlled test करें</h2><ol>\n<li>Floor type और finish/coating confirm करें.</li>\n<li>Approved product और dilution confirm करें.</li>\n<li>Clean tools और fresh solution use करें.</li>\n<li>Correct dwell और mechanical action के साथ small area clean करें.</li>\n<li>Spent solution remove करें और system require करे तो rinse करें.</li>\n<li>Result judge करने से पहले test area पूरी तरह dry होने दें.</li>\n</ol>\n<h2 id=\"hi27-safety\">Sticky या wet floor को use में जल्दी वापस न दें</h2><p>Contamination और moisture slip risk affect कर सकते हैं। HSE smooth floors dry होने तक access control करने की सलाह देता है।</p>\n<h2 id=\"hi27-takeaway\">Practical takeaway</h2><p>Sticky floor usually process clue है, more chemical का signal नहीं। Dilution, clean tools, fresh solution, soil removal और finish condition से शुरू करें और एक समय में एक variable बदलें।</p>\n<h2 id=\"hi27-references\">संदर्भ</h2><ol>\n<li id=\"hi27-ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning</a>.</li>\n<li id=\"hi27-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"hi27-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Cleaning के बाद hard floor sticky क्यों लगता है? | Alle's ClinX",
+  "meta_description": "Dilution, dirty solution, mop/pad condition, soil removal, rinsing/recovery और floor finish check करके sticky hard floors troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0025",
+    "ACX-KB-0026",
+    "ACX-KB-0028"
+  ]
+}

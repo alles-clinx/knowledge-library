@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0028",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Match a Floor-Care Method to the Surface",
+  "slug": "how-to-match-a-floor-care-method-to-the-surface",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "Choose a floor-care method by identifying the material and finish, soil, condition, moisture tolerance, product compatibility, mechanical action and safe drying requirements.",
+  "content_html": "<p>The safest floor-care method starts with the floor, not with the machine or chemical that happens to be available. Two floors that look similar can have different finishes, porosity, moisture tolerance and maintenance requirements.</p>\n<h2 id=\"step-1-identify-the-floor\">Step 1: Identify the floor and finish</h2><p>Confirm whether the surface is resilient flooring, ceramic or porcelain tile, sealed concrete, coated flooring, wood, natural stone or another system. Also identify any finish, sealer or coating. If the material is uncertain, do not assume an aggressive method is safe.</p>\n<h2 id=\"step-2-identify-the-soil\">Step 2: Identify the soil</h2><p>Loose dust, oily contamination, tracked-in soil, mineral deposits and adhesive residues do not respond to the same method. HSE recommends making sure the cleaning method is effective for the floor and contamination involved.</p>\n<h2 id=\"step-3-check-product-compatibility\">Step 3: Check product compatibility</h2><p>CDC recommends selecting cleaning products that do not damage surfaces and preparing them according to manufacturer instructions. Check pH, dilution, dwell or contact requirements and whether the product must be removed or rinsed.</p>\n<h2 id=\"step-4-match-mechanical-action\">Step 4: Match mechanical action</h2><p>Mechanical action can range from a microfiber mop to scrubbing equipment. More abrasion is not automatically better. Pads, brushes, pressure and machine weight can alter finishes or softer materials. Use only the level of action the floor system can tolerate.</p>\n<h2 id=\"step-5-control-moisture\">Step 5: Control moisture</h2><p>Some surfaces and joints tolerate water better than others. Use the amount of solution needed for the method without flooding unnecessarily. HSE also notes that wet floors create a temporary slip risk, so drying and access control are part of method selection.</p>\n<h2 id=\"step-6-test-when-risk-is-higher\">Step 6: Test when risk is higher</h2><p>When the surface, finish or chemical response is uncertain, use a small inconspicuous test area before broad application. This is especially important when changing product type, mechanical action or maintenance process.</p>\n<h2 id=\"a-simple-selection-check\">A simple selection check</h2><table class=\"data-table\"><thead><tr><th>Question</th><th>Why it matters</th></tr></thead><tbody>\n<tr><td>What is the material?</td><td>Sets basic chemical and moisture limits</td></tr>\n<tr><td>Is there a finish or coating?</td><td>May change product and abrasion tolerance</td></tr>\n<tr><td>What soil is present?</td><td>Determines the cleaning mechanism required</td></tr>\n<tr><td>How much mechanical action is safe?</td><td>Prevents unnecessary wear or damage</td></tr>\n<tr><td>How will solution be removed and the floor dried?</td><td>Controls residue and temporary slip risk</td></tr>\n</tbody></table>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Match floor care by material, finish, soil and condition. Product, equipment and technique come after those facts. If the surface identity is uncertain, use the least aggressive compatible method and test before scaling up.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n</ol>",
+  "seo_title": "How to Match Floor Care to the Surface | Alle's ClinX",
+  "meta_description": "Choose floor-care methods by material, finish, soil, product compatibility, mechanical action, moisture tolerance, testing and safe drying requirements.",
+  "related_article_ids": [
+    "ACX-KB-0025",
+    "ACX-KB-0026",
+    "ACX-KB-0029"
+  ]
+}

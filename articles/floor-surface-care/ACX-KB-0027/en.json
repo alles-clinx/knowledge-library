@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0027",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Hard Floors Feel Sticky After Cleaning",
+  "slug": "why-hard-floors-feel-sticky-after-cleaning",
+  "subcategory": "Hard Floors",
+  "subcategory_slug": "hard-floors",
+  "excerpt": "A sticky floor after cleaning often indicates residue, contaminated solution, incorrect dilution, incomplete removal of soil or a mismatch between the cleaning method and the floor.",
+  "content_html": "<p>A hard floor that feels sticky after cleaning is a sign to troubleshoot the process. Stickiness often means something remains on the surface or has been redistributed during cleaning. Adding more product without identifying the cause can make the problem worse.</p>\n<h2 id=\"cause-too-much-product\">Cause 1: Too much product or incorrect dilution</h2><p>HSE advises using the right amount of the right cleaning product. CDC recommends preparing cleaning solutions according to manufacturer instructions. Over-concentrated solution can leave more material on the floor as water evaporates and may make later soil attach more easily.</p>\n<h2 id=\"cause-dirty-solution-or-tools\">Cause 2: Dirty solution, mop or pad</h2><p>Once cleaning solution or a mop becomes heavily loaded with soil, it can spread contamination rather than remove it. CDC floor guidance calls for changing mop heads, floor cloths and buckets as needed when they become soiled.</p>\n<h2 id=\"cause-soil-was-loosened-but-not-removed\">Cause 3: Soil was loosened but not fully removed</h2><p>Detergent and mechanical action can release greasy or sticky soil, but the process still has to carry that material away. On heavily contaminated floors, one pass may only redistribute the soil. HSE notes that detergent needs enough time to work on greasy floors and that the cleaning method must suit the floor and contaminant.</p>\n<h2 id=\"cause-rinse-or-recovery-was-inadequate\">Cause 4: Rinsing or solution recovery was inadequate</h2><p>Some floor-care products or methods require removal of spent solution or a rinse step. Follow the product and floor-system instructions. With machine cleaning, poor recovery from a worn squeegee or overloaded system can leave liquid behind; HSE notes that poorly maintained equipment reduces cleaning effectiveness and can leave floors wetter.</p>\n<h2 id=\"cause-the-finish-is-changing\">Cause 5: The floor finish is worn, softened or damaged</h2><p>A sticky feel is not always removable detergent. Coatings and finishes can change with wear, incompatible chemistry or incorrect maintenance. If a controlled re-clean with the approved method does not correct the surface, inspect the finish before escalating chemistry.</p>\n<h2 id=\"a-controlled-test\">Use a controlled test</h2><ol>\n<li>Confirm floor type and any finish or coating.</li>\n<li>Confirm the approved product and dilution.</li>\n<li>Use clean tools and fresh solution.</li>\n<li>Clean a small area with the correct dwell and mechanical action.</li>\n<li>Remove spent solution and rinse if the system requires it.</li>\n<li>Allow the test area to dry fully before judging the result.</li>\n</ol>\n<h2 id=\"do-not-return-a-sticky-wet-floor-to-use\">Do not return a sticky or wet floor to use</h2><p>Contamination and moisture can affect slip risk. HSE recommends controlling access until smooth floors are dry and the cleaning process is complete.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Sticky floors are usually a process clue, not a reason to add more chemical. Start with dilution, clean tools, fresh solution, soil removal and finish condition, then change one variable at a time.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.hse.gov.uk/slips/cleaning.htm\">HSE — Cleaning</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Why Hard Floors Feel Sticky After Cleaning | Alle's ClinX",
+  "meta_description": "Troubleshoot sticky hard floors by checking dilution, dirty solution, mop or pad condition, soil removal, rinsing or recovery, and the condition of the floor finish.",
+  "related_article_ids": [
+    "ACX-KB-0025",
+    "ACX-KB-0026",
+    "ACX-KB-0028"
+  ]
+}

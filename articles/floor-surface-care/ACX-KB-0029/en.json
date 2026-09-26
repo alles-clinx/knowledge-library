@@ -1,0 +1,25 @@
+{
+  "category": "Floor & Surface Care",
+  "category_slug": "floor-surface-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0029",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Different About Natural-Stone Cleaning?",
+  "slug": "what-is-different-about-natural-stone-cleaning",
+  "subcategory": "Natural Stone",
+  "subcategory_slug": "natural-stone",
+  "excerpt": "Natural-stone cleaning requires material identification, gentle testing and chemical compatibility because different stones vary in porosity, mineral composition, acid sensitivity and surface finish.",
+  "content_html": "<p>Natural stone should not be treated as one uniform floor or surface category. Limestone, marble, sandstone, granite and other stones differ in mineral composition, porosity, hardness and finish. A cleaner or mechanical process that is acceptable on one stone can permanently alter another.</p>\n<h2 id=\"identify-the-stone-first\">Identify the stone first</h2><p>Before selecting chemistry or abrasion, identify the stone and its finish as accurately as possible. If the material is unknown, use a conservative approach and test rather than assuming that a product labelled for “hard floors” is automatically suitable.</p>\n<h2 id=\"acid-sensitivity-matters\">Acid sensitivity matters</h2><p>The U.S. National Park Service warns that acidic cleaners should not be used on acid-sensitive masonry and notes that limestone is particularly sensitive. Acid exposure can react with carbonate-based stone and change the surface rather than simply remove soil.</p>\n<h2 id=\"gentle-does-not-mean-risk-free\">Gentle does not mean risk-free</h2><p>Water-based cleaning is often considered relatively gentle, but NPS notes that even water can create problems where masonry is fragile, joints are unsound or pressure is excessive. High-pressure washing can etch marble and other softer stones. For floors, the same principle applies: minimise unnecessary pressure, abrasion and moisture.</p>\n<h2 id=\"chemical-cleaning-needs-testing\">Chemical cleaning needs testing</h2><p>NPS recommends testing cleaning approaches because dilution, dwell time and chemical response vary by stone and soiling condition. Near-neutral detergent systems are generally less aggressive than strong acids or alkalis, but compatibility still has to be confirmed for the particular stone and finish.</p>\n<h2 id=\"soil-and-staining-are-not-the-same\">Soil and staining are not the same</h2><p>Loose soil, greasy contamination, mineral deposits, rust staining and absorbed discoloration may require different approaches. Repeating a routine cleaner on a stain that has penetrated porous stone may add moisture without solving the underlying problem.</p>\n<h2 id=\"surface-finish-changes-the-method\">Surface finish changes the method</h2><p>Polished, honed, textured and weathered stone respond differently to pads, brushes and chemicals. A polished surface may show dulling or etching quickly; a textured surface may trap soil that needs more mechanical action. Match the method to both stone type and finish.</p>\n<h2 id=\"when-cleaning-becomes-restoration\">Know when cleaning becomes restoration</h2><p>Deep scratches, etched areas, lost polish, spalling and structural deterioration are not ordinary cleaning problems. When appearance depends on grinding, honing, repolishing, repair or specialist stain treatment, the work has moved into maintenance or restoration and may require specialist assessment.</p>\n<h2 id=\"practical-takeaway\">Practical takeaway</h2><p>Natural-stone cleaning starts with identification and testing. Use the least aggressive compatible method that can remove the soil, control moisture and abrasion, and stop if the process begins to change the stone itself.</p>\n<h2 id=\"references\">References</h2><ol>\n<li id=\"ref-1\"><a href=\"https://www.nps.gov/orgs/1739/upload/preservation-brief-01-cleaning-masonry.pdf\">U.S. National Park Service — Preservation Brief 1: Cleaning Historic Masonry</a>.</li>\n<li id=\"ref-2\"><a href=\"https://www.nps.gov/saan/learn/upload/FinalBestPracticesInStoneBuildingPreservationManagement-2.pdf\">U.S. National Park Service — Best Practices in Stone Building Preservation Management</a>.</li>\n<li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li>\n</ol>",
+  "seo_title": "Natural-Stone Cleaning Basics | Alle's ClinX Knowledge",
+  "meta_description": "Learn why natural-stone cleaning requires material identification, acid awareness, gentle testing, compatible chemistry, controlled abrasion and careful moisture management.",
+  "related_article_ids": [
+    "ACX-KB-0028",
+    "ACX-KB-0025",
+    "ACX-KB-0030"
+  ]
+}
