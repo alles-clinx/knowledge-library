@@ -10,12 +10,17 @@ from pathlib import Path
 from urllib.parse import urljoin
 from xml.sax.saxutils import escape as xml_escape
 
+from PIL import Image, ImageDraw, ImageFont
+
 ROOT = Path(__file__).resolve().parents[1]
 OUT = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else ROOT / "_hostinger"
 DOCS = ROOT / "docs"
 BASE_URL = "https://allesclinx.com/knowledge/"
 BASE_PATH = "/knowledge/"
 PREVIEW_IMAGE = "https://allesclinx.com/wp-content/uploads/2026/09/alles-clinx-knowledge-hub-500-resources.png"
+SOCIAL_DIR = "assets/social"
+SOCIAL_WIDTH = 1200
+SOCIAL_HEIGHT = 630
 
 LIVE = json.loads((ROOT / "production" / "live.json").read_text(encoding="utf-8"))
 CANON = json.loads((ROOT / "taxonomy" / "canonical-structure.json").read_text(encoding="utf-8"))
@@ -89,6 +94,13 @@ for rec in records:
     public_path = BASE_PATH + rel
     by_url[public_path] = rec
 
+# Generate a unique 1200x630 rich-link card for every live language variant.
+social_root = OUT / SOCIAL_DIR
+if social_root.exists():
+    shutil.rmtree(social_root)
+for rec in records:
+    generate_social_card(rec, social_root / social_filename(rec))
+
 def public_path_for_file(path: Path) -> str:
     rel = path.relative_to(OUT).as_posix()
     if rel == "index.html":
@@ -99,6 +111,109 @@ def public_path_for_file(path: Path) -> str:
 
 def strip_tags(value: str) -> str:
     return re.sub(r"<[^>]+>", "", value or "").strip()
+
+def find_font(candidates: list[str], size: int) -> ImageFont.FreeTypeFont:
+    for candidate in candidates:
+        p = Path(candidate)
+        if p.exists():
+            return ImageFont.truetype(str(p), size=size)
+    # Final fallback keeps the build from failing, though production runners install Noto.
+    return ImageFont.load_default()
+
+LATIN_REGULAR = [
+    "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+]
+LATIN_BOLD = [
+    "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+]
+DEVANAGARI_REGULAR = [
+    "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Regular.ttf",
+    "/usr/share/fonts/opentype/noto/NotoSansDevanagari-Regular.ttf",
+]
+DEVANAGARI_BOLD = [
+    "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Bold.ttf",
+    "/usr/share/fonts/opentype/noto/NotoSansDevanagari-Bold.ttf",
+]
+
+def font_set(locale: str, size: int, bold: bool = False):
+    if locale == "hi-IN":
+        candidates = DEVANAGARI_BOLD if bold else DEVANAGARI_REGULAR
+        return find_font(candidates + (LATIN_BOLD if bold else LATIN_REGULAR), size)
+    return find_font(LATIN_BOLD if bold else LATIN_REGULAR, size)
+
+def text_width(draw: ImageDraw.ImageDraw, text: str, font) -> float:
+    box = draw.textbbox((0, 0), text, font=font)
+    return box[2] - box[0]
+
+def wrap_text(draw: ImageDraw.ImageDraw, text: str, font, max_width: int) -> list[str]:
+    words = text.split()
+    if not words:
+        return [""]
+    lines, line = [], words[0]
+    for word in words[1:]:
+        trial = line + " " + word
+        if text_width(draw, trial, font) <= max_width:
+            line = trial
+        else:
+            lines.append(line)
+            line = word
+    lines.append(line)
+    return lines
+
+def social_filename(rec: dict) -> str:
+    locale = "hi" if rec.get("locale") == "hi-IN" else "en"
+    return f'{rec.get("article_id","article").lower()}-{locale}.png'
+
+def social_image_url(rec: dict) -> str:
+    return BASE_URL + SOCIAL_DIR + "/" + social_filename(rec)
+
+def generate_social_card(rec: dict, target: Path) -> None:
+    locale = rec.get("locale", "en")
+    title = rec.get("title", "")
+    category = rec.get("category", "")
+    article_id = rec.get("article_id", "")
+    image = Image.new("RGB", (SOCIAL_WIDTH, SOCIAL_HEIGHT), "white")
+    draw = ImageDraw.Draw(image)
+
+    # Crystal-minimal social card: no gradients, no decorative clutter.
+    draw.line((72, 76, SOCIAL_WIDTH - 72, 76), fill=(20, 20, 20), width=2)
+    draw.line((72, SOCIAL_HEIGHT - 82, SOCIAL_WIDTH - 72, SOCIAL_HEIGHT - 82), fill=(214, 214, 214), width=1)
+
+    brand_font = font_set("en", 32, True)
+    label_font = font_set(locale, 20, True)
+    meta_font = font_set("en", 18, False)
+    domain_font = font_set("en", 24, True)
+
+    draw.text((72, 102), "Alle's ClinX", fill=(10, 10, 10), font=brand_font)
+    draw.text((72, 151), category, fill=(92, 92, 92), font=label_font)
+    draw.text((SOCIAL_WIDTH - 72, 109), article_id, fill=(120, 120, 120), font=meta_font, anchor="ra")
+
+    max_title_width = SOCIAL_WIDTH - 144
+    chosen_font = None
+    lines = []
+    for size in (68, 64, 60, 56, 52, 48, 44):
+        f = font_set(locale, size, True)
+        candidate = wrap_text(draw, title, f, max_title_width)
+        if len(candidate) <= 4:
+            chosen_font, lines = f, candidate
+            break
+    if chosen_font is None:
+        chosen_font = font_set(locale, 42, True)
+        lines = wrap_text(draw, title, chosen_font, max_title_width)[:4]
+
+    y = 204
+    line_height = int(getattr(chosen_font, "size", 48) * 1.18)
+    for line in lines:
+        draw.text((72, y), line, fill=(5, 5, 5), font=chosen_font)
+        y += line_height
+
+    draw.text((72, SOCIAL_HEIGHT - 59), "KNOWLEDGE", fill=(100, 100, 100), font=meta_font)
+    draw.text((SOCIAL_WIDTH - 72, SOCIAL_HEIGHT - 59), "allesclinx.com/knowledge", fill=(15, 15, 15), font=domain_font, anchor="ra")
+
+    target.parent.mkdir(parents=True, exist_ok=True)
+    image.save(target, format="PNG", optimize=True)
 
 def inject_head(page: str, additions: str) -> str:
     if "</head>" not in page:
@@ -111,6 +226,8 @@ def remove_existing(page: str, pattern: str) -> str:
 def meta_for_article(rec: dict, canonical_url: str, canonical_path: str) -> str:
     title = html.escape(rec.get("title", ""), quote=True)
     desc = html.escape(rec.get("excerpt", ""), quote=True)
+    image_url = social_image_url(rec)
+    image_alt = html.escape(f'{rec.get("title","")} — Alle\'s ClinX Knowledge', quote=True)
     locale = rec.get("locale", "en")
     article_id = rec.get("article_id")
     meta = BY_ID.get(article_id, {})
@@ -125,7 +242,7 @@ def meta_for_article(rec: dict, canonical_url: str, canonical_path: str) -> str:
         "description": rec.get("excerpt", ""),
         "inLanguage": lang,
         "mainEntityOfPage": canonical_url,
-        "image": PREVIEW_IMAGE,
+        "image": image_url,
         "publisher": {"@type": "Organization", "name": "Alle's ClinX", "url": "https://allesclinx.com/"},
         "isPartOf": {"@type": "WebSite", "name": "Alle's ClinX Knowledge", "url": BASE_URL},
         "license": "https://creativecommons.org/licenses/by/4.0/"
@@ -147,14 +264,20 @@ def meta_for_article(rec: dict, canonical_url: str, canonical_path: str) -> str:
         f'<link rel="alternate" hreflang="hi-IN" href="{hi_url}">',
         f'<link rel="alternate" hreflang="x-default" href="{en_url}">',
         '<meta property="og:type" content="article">',
+        '<meta property="og:site_name" content="Alle\'s ClinX Knowledge">',
         f'<meta property="og:title" content="{title}">',
         f'<meta property="og:description" content="{desc}">',
         f'<meta property="og:url" content="{canonical_url}">',
-        f'<meta property="og:image" content="{PREVIEW_IMAGE}">',
+        f'<meta property="og:image" content="{image_url}">',
+        '<meta property="og:image:type" content="image/png">',
+        '<meta property="og:image:width" content="1200">',
+        '<meta property="og:image:height" content="630">',
+        f'<meta property="og:image:alt" content="{image_alt}">',
         '<meta name="twitter:card" content="summary_large_image">',
         f'<meta name="twitter:title" content="{title}">',
         f'<meta name="twitter:description" content="{desc}">',
-        f'<meta name="twitter:image" content="{PREVIEW_IMAGE}">',
+        f'<meta name="twitter:image" content="{image_url}">',
+        f'<meta name="twitter:image:alt" content="{image_alt}">',
         '<script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False, separators=(",", ":")) + '</script>',
         '<script type="application/ld+json">' + json.dumps(breadcrumbs, ensure_ascii=False, separators=(",", ":")) + '</script>',
     ])
@@ -164,8 +287,8 @@ for page_path in OUT.rglob("*.html"):
     page = remove_existing(page, r'<meta\s+name=["\']robots["\'][^>]*>')
     page = remove_existing(page, r'<link\s+rel=["\']canonical["\'][^>]*>')
     page = remove_existing(page, r'<link\s+rel=["\']alternate["\'][^>]*hreflang=[^>]*>')
-    page = remove_existing(page, r'<meta\s+property=["\']og:(?:type|title|description|url|image)["\'][^>]*>')
-    page = remove_existing(page, r'<meta\s+name=["\']twitter:(?:card|title|description|image)["\'][^>]*>')
+    page = remove_existing(page, r'<meta\s+property=["\']og:(?:type|site_name|title|description|url|image|image:type|image:width|image:height|image:alt)["\'][^>]*>')
+    page = remove_existing(page, r'<meta\s+name=["\']twitter:(?:card|title|description|image|image:alt)["\'][^>]*>')
 
     rel = page_path.relative_to(OUT).as_posix()
     canonical_path = public_path_for_file(page_path)
