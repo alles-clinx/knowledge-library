@@ -1,10 +1,11 @@
 {
-  "version": 1,
-  "generated_for": "GitHub Pages live site",
-  "record_count": 15,
+  "version": 2,
+  "generated_for": "GitHub Pages bilingual live search",
+  "record_count": 30,
   "records": [
     {
       "article_id": "ACX-KB-0001",
+      "locale": "en",
       "title": "What Is Professional Cleaning?",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -14,7 +15,19 @@
       "url": "library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/"
     },
     {
+      "article_id": "ACX-KB-0001",
+      "locale": "hi-IN",
+      "title": "पेशेवर सफाई क्या है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Basics",
+      "subcategory_slug": "cleaning-basics",
+      "excerpt": "पेशेवर सफाई एक नियोजित और दोहराने योग्य प्रणाली है जिसमें scope, method, frequency, responsibility और verification को नियंत्रित करके किसी facility को उपयोग योग्य रखा जाता है।",
+      "url": "library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0002",
+      "locale": "en",
       "title": "Cleaning vs Sanitising vs Disinfecting",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -24,7 +37,19 @@
       "url": "library/cleaning-housekeeping/cleaning-basics/cleaning-vs-sanitising-vs-disinfecting/"
     },
     {
+      "article_id": "ACX-KB-0002",
+      "locale": "hi-IN",
+      "title": "क्लीनिंग, सैनिटाइजिंग और डिसइन्फेक्टिंग में क्या अंतर है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Basics",
+      "subcategory_slug": "cleaning-basics",
+      "excerpt": "Cleaning soil हटाती है; sanitising और disinfecting microorganisms को अलग defined outcomes तक कम या inactivate करने के लिए उपयोग होते हैं। सही step कैसे चुनें, यह समझें।",
+      "url": "library/cleaning-housekeeping/cleaning-basics/cleaning-vs-sanitising-vs-disinfecting/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0003",
+      "locale": "en",
       "title": "The Four Factors That Influence Cleaning Performance",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -34,7 +59,19 @@
       "url": "library/cleaning-housekeeping/cleaning-basics/the-four-factors-that-influence-cleaning-performance/"
     },
     {
+      "article_id": "ACX-KB-0003",
+      "locale": "hi-IN",
+      "title": "सफाई के प्रदर्शन को प्रभावित करने वाले चार कारक",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Basics",
+      "subcategory_slug": "cleaning-basics",
+      "excerpt": "Cleaning performance chemistry, mechanical action, time और temperature के interaction पर निर्भर करती है। इन factors को safely troubleshoot करना सीखें।",
+      "url": "library/cleaning-housekeeping/cleaning-basics/the-four-factors-that-influence-cleaning-performance/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0004",
+      "locale": "en",
       "title": "Why Cleaning Results Vary Between Surfaces",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -44,7 +81,19 @@
       "url": "library/cleaning-housekeeping/cleaning-basics/why-cleaning-results-vary-between-surfaces/"
     },
     {
+      "article_id": "ACX-KB-0004",
+      "locale": "hi-IN",
+      "title": "अलग-अलग सतहों पर सफाई के परिणाम क्यों बदलते हैं?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Basics",
+      "subcategory_slug": "cleaning-basics",
+      "excerpt": "एक ही cleaning method अलग materials पर अलग result दे सकती है। Porosity, finish, soil, joints और compatibility का असर समझें।",
+      "url": "library/cleaning-housekeeping/cleaning-basics/why-cleaning-results-vary-between-surfaces/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0005",
+      "locale": "en",
       "title": "What Is Routine Daily Cleaning?",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -54,7 +103,19 @@
       "url": "library/cleaning-housekeeping/daily-cleaning/what-is-routine-daily-cleaning/"
     },
     {
+      "article_id": "ACX-KB-0005",
+      "locale": "hi-IN",
+      "title": "नियमित दैनिक सफाई क्या है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Daily Cleaning",
+      "subcategory_slug": "daily-cleaning",
+      "excerpt": "Routine daily cleaning recurring tasks की वह system है जो periodic deep-cleaning के बीच facility को usable रखती है। Scope, frequency और checks समझें।",
+      "url": "library/cleaning-housekeeping/daily-cleaning/what-is-routine-daily-cleaning/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0006",
+      "locale": "en",
       "title": "How to Build a Daily Cleaning Workflow",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -64,7 +125,19 @@
       "url": "library/cleaning-housekeeping/daily-cleaning/how-to-build-a-daily-cleaning-workflow/"
     },
     {
+      "article_id": "ACX-KB-0006",
+      "locale": "hi-IN",
+      "title": "दैनिक सफाई का workflow कैसे बनाएं",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Daily Cleaning",
+      "subcategory_slug": "daily-cleaning",
+      "excerpt": "Daily cleaning workflow task list को repeatable route में बदलता है: area assess करें, supplies तैयार करें, systematic sequence follow करें और result verify करें।",
+      "url": "library/cleaning-housekeeping/daily-cleaning/how-to-build-a-daily-cleaning-workflow/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0007",
+      "locale": "en",
       "title": "What Should Be Cleaned First in a Room?",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -74,7 +147,19 @@
       "url": "library/cleaning-housekeeping/daily-cleaning/what-should-be-cleaned-first-in-a-room/"
     },
     {
+      "article_id": "ACX-KB-0007",
+      "locale": "hi-IN",
+      "title": "Room में सबसे पहले क्या साफ करना चाहिए?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Daily Cleaning",
+      "subcategory_slug": "daily-cleaning",
+      "excerpt": "हर room में एक universal first surface नहीं होती। पहले room और immediate hazards assess करें, फिर cleaner-to-dirtier और high-to-low route follow करें।",
+      "url": "library/cleaning-housekeeping/daily-cleaning/what-should-be-cleaned-first-in-a-room/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0008",
+      "locale": "en",
       "title": "Common Daily Cleaning Mistakes and Why They Happen",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -84,7 +169,19 @@
       "url": "library/cleaning-housekeeping/daily-cleaning/common-daily-cleaning-mistakes-and-why-they-happen/"
     },
     {
+      "article_id": "ACX-KB-0008",
+      "locale": "hi-IN",
+      "title": "Daily cleaning की आम गलतियाँ और वे क्यों होती हैं",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Daily Cleaning",
+      "subcategory_slug": "daily-cleaning",
+      "excerpt": "Daily cleaning की recurring mistakes अक्सर individual worker error नहीं बल्कि system failure होती हैं। Scope, sequence, method और verification की common problems समझें।",
+      "url": "library/cleaning-housekeeping/daily-cleaning/common-daily-cleaning-mistakes-and-why-they-happen/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0009",
+      "locale": "en",
       "title": "What Is Deep Cleaning?",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -94,7 +191,19 @@
       "url": "library/cleaning-housekeeping/deep-cleaning/what-is-deep-cleaning/"
     },
     {
+      "article_id": "ACX-KB-0009",
+      "locale": "hi-IN",
+      "title": "Deep cleaning क्या है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Deep Cleaning",
+      "subcategory_slug": "deep-cleaning",
+      "excerpt": "Deep cleaning routine work से broader और more detailed cleaning intervention है। इसका मतलब automatically stronger chemicals या blanket disinfection नहीं होता।",
+      "url": "library/cleaning-housekeeping/deep-cleaning/what-is-deep-cleaning/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0010",
+      "locale": "en",
       "title": "When Does a Facility Need Deep Cleaning?",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -104,7 +213,19 @@
       "url": "library/cleaning-housekeeping/deep-cleaning/when-does-a-facility-need-deep-cleaning/"
     },
     {
+      "article_id": "ACX-KB-0010",
+      "locale": "hi-IN",
+      "title": "Facility को deep cleaning कब चाहिए?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Deep Cleaning",
+      "subcategory_slug": "deep-cleaning",
+      "excerpt": "Deep cleaning तब justified होती है जब required scope routine work से बड़ा हो—जैसे accumulated soil, periodic detail work, shutdown, maintenance या changed operating conditions।",
+      "url": "library/cleaning-housekeeping/deep-cleaning/when-does-a-facility-need-deep-cleaning/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0011",
+      "locale": "en",
       "title": "Deep Cleaning vs Routine Cleaning",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -114,7 +235,19 @@
       "url": "library/cleaning-housekeeping/deep-cleaning/deep-cleaning-vs-routine-cleaning/"
     },
     {
+      "article_id": "ACX-KB-0011",
+      "locale": "hi-IN",
+      "title": "Deep cleaning और routine cleaning में क्या अंतर है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Deep Cleaning",
+      "subcategory_slug": "deep-cleaning",
+      "excerpt": "Routine cleaning रोज़ की condition maintain करती है; deep cleaning तब scope, access और detail बढ़ाती है जब normal routine पर्याप्त नहीं होती।",
+      "url": "library/cleaning-housekeeping/deep-cleaning/deep-cleaning-vs-routine-cleaning/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0012",
+      "locale": "en",
       "title": "What Are High-Touch Surfaces?",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -124,7 +257,19 @@
       "url": "library/cleaning-housekeeping/high-touch-cleaning/what-are-high-touch-surfaces/"
     },
     {
+      "article_id": "ACX-KB-0012",
+      "locale": "hi-IN",
+      "title": "High-touch surfaces क्या होती हैं?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "High-Touch Cleaning",
+      "subcategory_slug": "high-touch-cleaning",
+      "excerpt": "High-touch surfaces वे surfaces हैं जिन्हें लोग अपने हाथों से frequently touch करते हैं। Exact list facility के actual use पर depend करती है।",
+      "url": "library/cleaning-housekeeping/high-touch-cleaning/what-are-high-touch-surfaces/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0013",
+      "locale": "en",
       "title": "Why High-Touch Cleaning Matters",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -134,7 +279,19 @@
       "url": "library/cleaning-housekeeping/high-touch-cleaning/why-high-touch-cleaning-matters/"
     },
     {
+      "article_id": "ACX-KB-0013",
+      "locale": "hi-IN",
+      "title": "High-touch cleaning क्यों महत्वपूर्ण है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "High-Touch Cleaning",
+      "subcategory_slug": "high-touch-cleaning",
+      "excerpt": "Frequently handled surfaces में repeated contamination और transfer की opportunity अधिक होती है, इसलिए उन्हें low-touch surfaces से अधिक attention चाहिए हो सकती है।",
+      "url": "library/cleaning-housekeeping/high-touch-cleaning/why-high-touch-cleaning-matters/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0014",
+      "locale": "en",
       "title": "How to Identify High-Touch Points in a Facility",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -144,7 +301,19 @@
       "url": "library/cleaning-housekeeping/high-touch-cleaning/how-to-identify-high-touch-points-in-a-facility/"
     },
     {
+      "article_id": "ACX-KB-0014",
+      "locale": "hi-IN",
+      "title": "Facility में high-touch points कैसे identify करें",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "High-Touch Cleaning",
+      "subcategory_slug": "high-touch-cleaning",
+      "excerpt": "Real hand contact, traffic, shared equipment और user behaviour observe करके high-touch points identify करें, फिर staff feedback और periodic review से list validate करें।",
+      "url": "library/cleaning-housekeeping/high-touch-cleaning/how-to-identify-high-touch-points-in-a-facility/hi.html"
+    },
+    {
       "article_id": "ACX-KB-0015",
+      "locale": "en",
       "title": "What Is a Cleaning Schedule?",
       "category": "Cleaning & Housekeeping",
       "category_slug": "cleaning-housekeeping",
@@ -152,6 +321,17 @@
       "subcategory_slug": "cleaning-schedules",
       "excerpt": "A cleaning schedule is a documented plan that states what must be cleaned, where, how often, by whom and using which approved method.",
       "url": "library/cleaning-housekeeping/cleaning-schedules/what-is-a-cleaning-schedule/"
+    },
+    {
+      "article_id": "ACX-KB-0015",
+      "locale": "hi-IN",
+      "title": "Cleaning schedule क्या है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Schedules",
+      "subcategory_slug": "cleaning-schedules",
+      "excerpt": "Cleaning schedule documented plan है जो बताता है क्या clean करना है, कहाँ, कितनी frequency पर, किसके द्वारा और किस approved method से।",
+      "url": "library/cleaning-housekeeping/cleaning-schedules/what-is-a-cleaning-schedule/hi.html"
     }
   ]
 }
