@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 188,
+  "record_count": 198,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2070,6 +2070,116 @@
       "subcategory_slug": "food-contact-surfaces",
       "excerpt": "Product label define करता है use approved है या नहीं, dilution, contact time, rinse/no-rinse direction, surface type, application method और safety conditions क्या हैं।",
       "url": "library/kitchen-food-service/food-contact-surfaces/why-product-labels-matter-on-food-contact-areas/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0095",
+      "locale": "en",
+      "title": "Why Stainless Steel Kitchen Equipment Shows Smears",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Stainless Steel Equipment",
+      "subcategory_slug": "stainless-steel-equipment",
+      "excerpt": "Stainless-steel kitchen equipment can show smears when fingerprints, grease, detergent residue, hard-water minerals or uneven wiping remain on the reflective surface.",
+      "url": "library/kitchen-food-service/stainless-steel-equipment/why-stainless-steel-kitchen-equipment-shows-smears/"
+    },
+    {
+      "article_id": "ACX-KB-0095",
+      "locale": "hi-IN",
+      "title": "Stainless steel kitchen equipment पर smears क्यों दिखती हैं",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Stainless Steel Equipment",
+      "subcategory_slug": "stainless-steel-equipment",
+      "excerpt": "Fingerprints, grease, detergent residue, hard-water minerals और uneven wiping reflective stainless-steel surface पर smears दिखा सकते हैं।",
+      "url": "library/kitchen-food-service/stainless-steel-equipment/why-stainless-steel-kitchen-equipment-shows-smears/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0096",
+      "locale": "en",
+      "title": "Cleaning vs Polishing Stainless Steel Equipment",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Stainless Steel Equipment",
+      "subcategory_slug": "stainless-steel-equipment",
+      "excerpt": "Cleaning stainless steel removes soil, grease and residue; polishing is an appearance-focused finishing step and should not be used as a substitute for cleaning food-service equipment.",
+      "url": "library/kitchen-food-service/stainless-steel-equipment/cleaning-vs-polishing-stainless-steel-equipment/"
+    },
+    {
+      "article_id": "ACX-KB-0096",
+      "locale": "hi-IN",
+      "title": "Stainless steel equipment: cleaning vs polishing",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Stainless Steel Equipment",
+      "subcategory_slug": "stainless-steel-equipment",
+      "excerpt": "Cleaning soil/grease/residue remove करती है; polishing appearance-focused finishing step है और food-service cleaning का substitute नहीं है।",
+      "url": "library/kitchen-food-service/stainless-steel-equipment/cleaning-vs-polishing-stainless-steel-equipment/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0097",
+      "locale": "en",
+      "title": "What Causes Stainless Steel Kitchen Discolouration?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Stainless Steel Equipment",
+      "subcategory_slug": "stainless-steel-equipment",
+      "excerpt": "Stainless-steel kitchen discolouration can come from heat tint, grease film, hard-water minerals, iron contamination, chemical attack, chlorides or surface damage; the cause determines whether cleaning can restore the appearance.",
+      "url": "library/kitchen-food-service/stainless-steel-equipment/stainless-steel-kitchen-discolouration-causes/"
+    },
+    {
+      "article_id": "ACX-KB-0097",
+      "locale": "hi-IN",
+      "title": "Stainless steel kitchen discolouration क्यों होती है?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Stainless Steel Equipment",
+      "subcategory_slug": "stainless-steel-equipment",
+      "excerpt": "Heat tint, grease film, hard-water minerals, iron contamination, chemical attack, chlorides या surface damage stainless-steel discolouration cause कर सकते हैं।",
+      "url": "library/kitchen-food-service/stainless-steel-equipment/stainless-steel-kitchen-discolouration-causes/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0098",
+      "locale": "en",
+      "title": "Why Kitchen Floors Stay Greasy After Cleaning",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Troubleshooting",
+      "subcategory_slug": "kitchen-troubleshooting",
+      "excerpt": "Kitchen floors can stay greasy when cleaner chemistry is too weak, grease is aged, wash solution is overloaded, tools redeposit soil, dwell or agitation is insufficient, rinse/recovery is incomplete or new grease is continually deposited.",
+      "url": "library/kitchen-food-service/kitchen-troubleshooting/why-kitchen-floors-stay-greasy-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0098",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद kitchen floors greasy क्यों रहती हैं",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Troubleshooting",
+      "subcategory_slug": "kitchen-troubleshooting",
+      "excerpt": "Kitchen floors wrong chemistry, aged grease, overloaded solution, dirty tools, insufficient action, incomplete recovery या continuous new grease deposition के कारण greasy रह सकती हैं।",
+      "url": "library/kitchen-food-service/kitchen-troubleshooting/why-kitchen-floors-stay-greasy-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0099",
+      "locale": "en",
+      "title": "Why Glassware Looks Cloudy After Washing",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Troubleshooting",
+      "subcategory_slug": "kitchen-troubleshooting",
+      "excerpt": "Cloudy glassware can result from hard-water minerals, detergent or rinse residue, poor drainage, dirty wash solution or permanent etching; the first step is to determine whether the film is removable.",
+      "url": "library/kitchen-food-service/kitchen-troubleshooting/why-glassware-looks-cloudy-after-washing/"
+    },
+    {
+      "article_id": "ACX-KB-0099",
+      "locale": "hi-IN",
+      "title": "Washing के बाद glassware cloudy क्यों दिखती है",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Kitchen Troubleshooting",
+      "subcategory_slug": "kitchen-troubleshooting",
+      "excerpt": "Cloudy glassware hard-water minerals, detergent/rinse residue, poor drainage, dirty wash solution या permanent etching से हो सकती है; पहले removable film और permanent change अलग करें।",
+      "url": "library/kitchen-food-service/kitchen-troubleshooting/why-glassware-looks-cloudy-after-washing/hi.html"
     }
   ]
 }
