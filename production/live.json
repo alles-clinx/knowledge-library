@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "current_batch": "batch-022",
+  "current_batch": "batch-023",
   "live_article_ids": [
     "ACX-KB-0001",
     "ACX-KB-0002",
@@ -101,7 +101,12 @@
     "ACX-KB-0097",
     "ACX-KB-0098",
     "ACX-KB-0099",
-    "ACX-KB-0100"
+    "ACX-KB-0100",
+    "ACX-KB-0101",
+    "ACX-KB-0102",
+    "ACX-KB-0103",
+    "ACX-KB-0104",
+    "ACX-KB-0105"
   ],
   "completed_batches": [
     "batch-001",
@@ -124,7 +129,8 @@
     "batch-018",
     "batch-019",
     "batch-020",
-    "batch-021"
+    "batch-021",
+    "batch-022"
   ],
-  "note": "Cleaning & Housekeeping batches 001-005, Floor & Surface Care batches 006-011, Washroom Hygiene batches 012-015, and Kitchen & Food-Service Hygiene batches 016-021 are locked and live. Batch 022 (Laundry & Fabric Care) is active; only QA-passed article IDs belong in live_article_ids."
+  "note": "Cleaning & Housekeeping batches 001-005, Floor & Surface Care batches 006-011, Washroom Hygiene batches 012-015, Kitchen & Food-Service Hygiene batches 016-021, and Laundry & Fabric Care batch 022 are locked and live. Batch 023 is active; only QA-passed article IDs belong in live_article_ids."
 }
