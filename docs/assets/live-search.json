@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 98,
+  "record_count": 108,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1080,6 +1080,116 @@
       "subcategory_slug": "surface-compatibility",
       "excerpt": "Compatibility matrix manufacturer instructions, product data, SDS information और validated spot tests को controlled reference में बदलती है जो बताती है क्या कहाँ और किन conditions में use हो सकता है।",
       "url": "library/floor-surface-care/surface-compatibility/surface-chemistry-compatibility-matrix/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0050",
+      "locale": "en",
+      "title": "Why Floors Streak After Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "Floor streaks usually indicate uneven residue, dirty solution, overloaded tools, incomplete recovery, hard-water film or a finish that is being altered rather than simply cleaned.",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/why-floors-streak-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0050",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद floors पर streaks क्यों आते हैं",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "Floor streaks अक्सर uneven residue, dirty solution, overloaded tools, incomplete recovery, hard-water film या altered finish का संकेत होती हैं।",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/why-floors-streak-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0051",
+      "locale": "en",
+      "title": "Troubleshooting Sticky Floors After Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "A sticky floor after cleaning usually means removable material remains: excess cleaner, soil, soap scum, contaminated solution, incomplete recovery or an incompatible finish treatment.",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/troubleshooting-sticky-floors-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0051",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद sticky floors को troubleshoot कैसे करें",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "Sticky floor अक्सर excess cleaner, soil, soap scum, contaminated solution, incomplete recovery या incompatible finish treatment के कारण surface पर material remain होने का संकेत है।",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/troubleshooting-sticky-floors-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0052",
+      "locale": "en",
+      "title": "Why a Floor Finish Looks Dull",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "A dull floor finish can be caused by removable film, embedded soil, abrasion, incompatible chemistry, uneven coating, wear or a finish-maintenance problem rather than ordinary dirt.",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/why-a-floor-finish-looks-dull/"
+    },
+    {
+      "article_id": "ACX-KB-0052",
+      "locale": "hi-IN",
+      "title": "Floor finish dull क्यों दिखती है",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "Dull floor finish removable film, embedded soil, abrasion, incompatible chemistry, uneven coating, wear या finish-maintenance problem से हो सकती है।",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/why-a-floor-finish-looks-dull/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0053",
+      "locale": "en",
+      "title": "What Causes White Residue on Hard Surfaces?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "White residue on hard surfaces can come from hard-water minerals, soap scum, dried cleaner, salt migration from porous materials or a changed coating—each needs a different response.",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/what-causes-white-residue-on-hard-surfaces/"
+    },
+    {
+      "article_id": "ACX-KB-0053",
+      "locale": "hi-IN",
+      "title": "Hard surfaces पर white residue क्यों बनती है?",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "White residue hard-water minerals, soap scum, dried cleaner, porous material से salt migration या changed coating से बन सकती है।",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/what-causes-white-residue-on-hard-surfaces/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0054",
+      "locale": "en",
+      "title": "Why Stains Return After Surface Cleaning",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "A stain can return when contamination remains inside a porous material, the source of staining is still active, residue attracts new soil, or moisture transports dissolved material back to the visible surface.",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/why-stains-return-after-surface-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0054",
+      "locale": "hi-IN",
+      "title": "Surface cleaning के बाद stains वापस क्यों आते हैं",
+      "category": "Floor & Surface Care",
+      "category_slug": "floor-surface-care",
+      "subcategory": "Floor & Surface Troubleshooting",
+      "subcategory_slug": "floor-surface-troubleshooting",
+      "excerpt": "Stain वापस आ सकती है जब contamination porous material के अंदर remain हो, staining source active हो, residue new soil attract करे या moisture dissolved material को surface पर वापस लाए।",
+      "url": "library/floor-surface-care/floor-surface-troubleshooting/why-stains-return-after-surface-cleaning/hi.html"
     }
   ]
 }
