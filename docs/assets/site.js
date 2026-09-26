@@ -50,6 +50,12 @@
   window.addEventListener('scroll',syncHeaderState,{passive:true});
   syncHeaderState();
 
+  const bottomBrand=document.createElement('div');
+  bottomBrand.className='acx-bottom-brand';
+  bottomBrand.setAttribute('aria-hidden','true');
+  bottomBrand.textContent="Alle's ClinX";
+  document.body.appendChild(bottomBrand);
+
   const dialog=document.createElement('div');
   dialog.className='acx-search-dialog';
   dialog.setAttribute('role','dialog');
