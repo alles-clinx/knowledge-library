@@ -48,7 +48,7 @@
         "ACX-KB-0014",
         "ACX-KB-0015"
       ],
-      "status": "preview-ready"
+      "status": "completed"
     },
     {
       "batch_number": 4,
@@ -63,7 +63,7 @@
         "ACX-KB-0019",
         "ACX-KB-0020"
       ],
-      "status": "completed"
+      "status": "in_progress"
     },
     {
       "batch_number": 5,

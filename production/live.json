@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "current_batch": "batch-005",
+  "current_batch": "batch-004",
   "live_article_ids": [
     "ACX-KB-0001",
     "ACX-KB-0002",
@@ -16,18 +16,12 @@
     "ACX-KB-0012",
     "ACX-KB-0013",
     "ACX-KB-0014",
-    "ACX-KB-0015",
-    "ACX-KB-0016",
-    "ACX-KB-0017",
-    "ACX-KB-0018",
-    "ACX-KB-0019",
-    "ACX-KB-0020"
+    "ACX-KB-0015"
   ],
   "completed_batches": [
     "batch-001",
     "batch-002",
-    "batch-003",
-    "batch-004"
+    "batch-003"
   ],
-  "note": "Batches 001-004 are locked. Batch 005 is active; only QA-passed article IDs belong in live_article_ids."
+  "note": "Batches 001-003 are locked. Batch 004 is active; only QA-passed article IDs belong in live_article_ids."
 }

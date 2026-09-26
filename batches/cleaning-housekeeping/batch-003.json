@@ -9,7 +9,7 @@
     "ACX-KB-0014",
     "ACX-KB-0015"
   ],
-  "stage": "preview-ready",
+  "stage": "completed",
   "english": {
     "source_status": "complete",
     "editorial_status": "locked-source"
@@ -20,7 +20,7 @@
     "article_count": 5
   },
   "preview": {
-    "status": "ready",
+    "status": "live",
     "pages": 10,
     "design": "locked Gold Standard article shell",
     "qa": {
@@ -32,5 +32,6 @@
       "locked_compact_hero_scale": true
     }
   },
-  "gate": "Publish only after repository validator and Pages deployment pass."
+  "gate": "Publish only after repository validator and Pages deployment pass.",
+  "completed_after_validation": true
 }
