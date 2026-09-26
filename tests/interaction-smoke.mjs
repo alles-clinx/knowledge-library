@@ -65,8 +65,11 @@ try{
   assert(await mp.locator('#acx-mobile-drawer.is-open').isVisible(),'Mobile drawer did not open');
   assert((await mp.locator('.acx-menu-button').getAttribute('aria-expanded'))==='true','Mobile menu aria-expanded did not update');
   await mp.locator('.acx-menu-button').click();
-  assert(!(await mp.locator('#acx-mobile-drawer').isVisible()),'Mobile menu button did not close the drawer');
+  assert(!(await mp.locator('#acx-mobile-drawer').evaluate(el=>el.classList.contains('is-open'))),'Mobile menu did not remove the open state');
+  assert((await mp.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Mobile drawer aria-hidden did not reset');
   assert((await mp.locator('.acx-menu-button').getAttribute('aria-expanded'))==='false','Mobile menu aria-expanded did not reset');
+  await wait(240);
+  assert(!(await mp.locator('#acx-mobile-drawer').isVisible()),'Mobile drawer remained visible after close transition');
   await mp.locator('.acx-menu-button').click();
   await mp.locator('.acx-mobile-search').click();
   assert(await mp.locator('.acx-search-dialog.is-open').isVisible(),'Mobile search did not open from drawer');
