@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 168,
+  "record_count": 178,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1850,6 +1850,116 @@
       "subcategory_slug": "machine-warewashing",
       "excerpt": "Machine warewashing के बाद spots/film hard-water minerals, detergent carryover, poor rinse, chemical feed errors, blocked spray, overloaded racks, dirty machine water या drying से आ सकती है।",
       "url": "library/kitchen-food-service/machine-warewashing/what-causes-spots-or-film-after-machine-warewashing/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0085",
+      "locale": "en",
+      "title": "What Is Degreasing?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "Degreasing is the targeted removal of fats, oils and grease using chemistry, temperature, mechanical action and recovery methods matched to the soil and surface.",
+      "url": "library/kitchen-food-service/degreasing/what-is-degreasing/"
+    },
+    {
+      "article_id": "ACX-KB-0085",
+      "locale": "hi-IN",
+      "title": "Degreasing क्या है?",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "Degreasing fats, oils और grease को targeted तरीके से remove करने की process है जिसमें chemistry, temperature, mechanical action और recovery soil/surface के अनुसार match किए जाते हैं।",
+      "url": "library/kitchen-food-service/degreasing/what-is-degreasing/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0086",
+      "locale": "en",
+      "title": "Why Kitchen Grease Becomes Harder to Remove Over Time",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "Kitchen grease becomes harder to remove as heat, oxygen, repeated cooking and soil buildup drive oxidation and polymerization, turning fresh oily film into thicker, darker and more resin-like deposits.",
+      "url": "library/kitchen-food-service/degreasing/why-kitchen-grease-becomes-harder-to-remove-over-time/"
+    },
+    {
+      "article_id": "ACX-KB-0086",
+      "locale": "hi-IN",
+      "title": "Kitchen grease समय के साथ harder to remove क्यों हो जाती है",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "Heat, oxygen, repeated cooking और soil buildup oxidation/polymerization drive करते हैं, जिससे fresh oily film thicker, darker और resin-like deposit बन सकती है।",
+      "url": "library/kitchen-food-service/degreasing/why-kitchen-grease-becomes-harder-to-remove-over-time/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0087",
+      "locale": "en",
+      "title": "Degreasing vs General-Purpose Cleaning",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "General-purpose cleaning handles mixed routine soil; degreasing is a targeted process for oily or fatty deposits and may require different chemistry, dwell, temperature, mechanical action and recovery.",
+      "url": "library/kitchen-food-service/degreasing/degreasing-vs-general-purpose-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0087",
+      "locale": "hi-IN",
+      "title": "Degreasing vs general-purpose cleaning",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "General-purpose cleaning mixed routine soil handle करती है; degreasing oily/fatty deposits के लिए targeted process है और अलग chemistry, dwell, action और recovery मांग सकती है।",
+      "url": "library/kitchen-food-service/degreasing/degreasing-vs-general-purpose-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0088",
+      "locale": "en",
+      "title": "Why Greasy Residue Can Remain After Cleaning",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "Greasy residue can remain after cleaning when chemistry does not match the soil, grease is aged, solution becomes overloaded, mechanical action is insufficient, dirty tools redeposit oil or loosened grease is not fully rinsed or recovered.",
+      "url": "library/kitchen-food-service/degreasing/why-greasy-residue-can-remain-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0088",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद greasy residue क्यों रह सकती है",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Degreasing",
+      "subcategory_slug": "degreasing",
+      "excerpt": "Greasy residue wrong chemistry, aged grease, overloaded solution, insufficient action, dirty tools, redeposition या incomplete rinse/recovery के कारण remain कर सकती है।",
+      "url": "library/kitchen-food-service/degreasing/why-greasy-residue-can-remain-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0089",
+      "locale": "en",
+      "title": "Why Kitchen Exhaust Systems Accumulate Grease",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Chimney & Exhaust Cleaning",
+      "subcategory_slug": "chimney-exhaust-cleaning",
+      "excerpt": "Kitchen exhaust systems accumulate grease because cooking releases grease-laden vapours and aerosols that are captured by hoods and move through filters, plenums, ducts and fans where some material deposits on surfaces.",
+      "url": "library/kitchen-food-service/chimney-exhaust-cleaning/why-kitchen-exhaust-systems-accumulate-grease/"
+    },
+    {
+      "article_id": "ACX-KB-0089",
+      "locale": "hi-IN",
+      "title": "Kitchen exhaust systems में grease क्यों accumulate होती है",
+      "category": "Kitchen & Food-Service Hygiene",
+      "category_slug": "kitchen-food-service",
+      "subcategory": "Chimney & Exhaust Cleaning",
+      "subcategory_slug": "chimney-exhaust-cleaning",
+      "excerpt": "Cooking grease-laden vapours/aerosols release करती है जिन्हें hood capture करता है; filters, plenums, ducts और fans से गुजरते समय कुछ grease surfaces पर deposit होती है।",
+      "url": "library/kitchen-food-service/chimney-exhaust-cleaning/why-kitchen-exhaust-systems-accumulate-grease/hi.html"
     }
   ]
 }
