@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 138,
+  "record_count": 148,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -1520,6 +1520,116 @@
       "subcategory_slug": "washroom-odour-control",
       "excerpt": "Washroom odour cleaning scope, inspection frequency, tool segregation, moisture control और plumbing/maintenance faults के escalation से directly influence होती है।",
       "url": "library/washroom-hygiene/washroom-odour-control/how-cleaning-programs-influence-washroom-odour/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0070",
+      "locale": "en",
+      "title": "What Should a Washroom Inspection Check?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Inspection",
+      "subcategory_slug": "washroom-inspection",
+      "excerpt": "A washroom inspection should check cleanliness, high-touch condition, consumables, waste, floors, odour source, moisture, fixture operation, accessibility and maintenance exceptions—not appearance alone.",
+      "url": "library/washroom-hygiene/washroom-inspection/what-should-a-washroom-inspection-check/"
+    },
+    {
+      "article_id": "ACX-KB-0070",
+      "locale": "hi-IN",
+      "title": "Washroom inspection में क्या check करना चाहिए?",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Inspection",
+      "subcategory_slug": "washroom-inspection",
+      "excerpt": "Washroom inspection cleanliness, high-touch points, consumables, waste, floors, odour source, moisture, fixture operation, accessibility और maintenance exceptions check करे।",
+      "url": "library/washroom-hygiene/washroom-inspection/what-should-a-washroom-inspection-check/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0071",
+      "locale": "en",
+      "title": "How to Score Washroom Cleanliness Consistently",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Inspection",
+      "subcategory_slug": "washroom-inspection",
+      "excerpt": "Consistent washroom scoring comes from fixed observable criteria, clear pass/fail definitions, the same rating scale, calibrated inspectors and separation of cleaning failures from maintenance defects.",
+      "url": "library/washroom-hygiene/washroom-inspection/how-to-score-washroom-cleanliness-consistently/"
+    },
+    {
+      "article_id": "ACX-KB-0071",
+      "locale": "hi-IN",
+      "title": "Washroom cleanliness को consistently score कैसे करें",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Inspection",
+      "subcategory_slug": "washroom-inspection",
+      "excerpt": "Consistent washroom scoring fixed observable criteria, clear rating definitions, same scale, calibrated inspectors और cleaning failures को maintenance defects से अलग रखने पर depend करती है।",
+      "url": "library/washroom-hygiene/washroom-inspection/how-to-score-washroom-cleanliness-consistently/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0072",
+      "locale": "en",
+      "title": "Why Washroom Surfaces Stay Dull After Cleaning",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Troubleshooting",
+      "subcategory_slug": "washroom-troubleshooting",
+      "excerpt": "Washroom surfaces can stay dull because of cleaner residue, hard-water minerals, soap scum, micro-scratching, damaged coatings, persistent moisture or finish wear rather than remaining loose soil.",
+      "url": "library/washroom-hygiene/washroom-troubleshooting/why-washroom-surfaces-stay-dull-after-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0072",
+      "locale": "hi-IN",
+      "title": "Cleaning के बाद washroom surfaces dull क्यों रहती हैं",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Troubleshooting",
+      "subcategory_slug": "washroom-troubleshooting",
+      "excerpt": "Washroom surfaces cleaner residue, hard-water minerals, soap scum, micro-scratching, damaged coatings, moisture या finish wear के कारण cleaning के बाद भी dull रह सकती हैं।",
+      "url": "library/washroom-hygiene/washroom-troubleshooting/why-washroom-surfaces-stay-dull-after-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0073",
+      "locale": "en",
+      "title": "Why Limescale Keeps Returning",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Troubleshooting",
+      "subcategory_slug": "washroom-troubleshooting",
+      "excerpt": "Limescale keeps returning when hard water continues to supply calcium and magnesium, surfaces repeatedly wet and dry, leaks persist, old scale remains or water treatment and fixture maintenance do not address the source.",
+      "url": "library/washroom-hygiene/washroom-troubleshooting/why-limescale-keeps-returning/"
+    },
+    {
+      "article_id": "ACX-KB-0073",
+      "locale": "hi-IN",
+      "title": "Limescale बार-बार वापस क्यों आती है",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Troubleshooting",
+      "subcategory_slug": "washroom-troubleshooting",
+      "excerpt": "Limescale hard water के calcium/magnesium supply, repeated wet-dry cycles, leaks, remaining scale और unresolved water-treatment issues के कारण return करती रहती है।",
+      "url": "library/washroom-hygiene/washroom-troubleshooting/why-limescale-keeps-returning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0074",
+      "locale": "en",
+      "title": "How to Troubleshoot Recurring Washroom Odours",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Troubleshooting",
+      "subcategory_slug": "washroom-troubleshooting",
+      "excerpt": "Troubleshoot recurring washroom odour by localising the source, separating surface contamination from drain or plumbing causes, checking moisture and ventilation, correcting scale or waste sources, and verifying the fix after the room is dry.",
+      "url": "library/washroom-hygiene/washroom-troubleshooting/how-to-troubleshoot-recurring-washroom-odours/"
+    },
+    {
+      "article_id": "ACX-KB-0074",
+      "locale": "hi-IN",
+      "title": "Recurring washroom odours को troubleshoot कैसे करें",
+      "category": "Washroom Hygiene",
+      "category_slug": "washroom-hygiene",
+      "subcategory": "Washroom Troubleshooting",
+      "subcategory_slug": "washroom-troubleshooting",
+      "excerpt": "Recurring washroom odour troubleshoot करने के लिए source localise करें, surface contamination को drain/plumbing causes से अलग करें, moisture/ventilation check करें और fix को dry condition में verify करें।",
+      "url": "library/washroom-hygiene/washroom-troubleshooting/how-to-troubleshoot-recurring-washroom-odours/hi.html"
     }
   ]
 }
