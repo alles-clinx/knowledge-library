@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 30,
+  "record_count": 40,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -332,6 +332,116 @@
       "subcategory_slug": "cleaning-schedules",
       "excerpt": "Cleaning schedule documented plan है जो बताता है क्या clean करना है, कहाँ, कितनी frequency पर, किसके द्वारा और किस approved method से।",
       "url": "library/cleaning-housekeeping/cleaning-schedules/what-is-a-cleaning-schedule/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0016",
+      "locale": "en",
+      "title": "How Cleaning Frequency Should Be Decided",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Schedules",
+      "subcategory_slug": "cleaning-schedules",
+      "excerpt": "Cleaning frequency should be decided by risk, use and condition: touch frequency, traffic, contamination probability, user vulnerability, visible soil and sector requirements.",
+      "url": "library/cleaning-housekeeping/cleaning-schedules/how-cleaning-frequency-should-be-decided/"
+    },
+    {
+      "article_id": "ACX-KB-0016",
+      "locale": "hi-IN",
+      "title": "Cleaning frequency कैसे तय करनी चाहिए",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Schedules",
+      "subcategory_slug": "cleaning-schedules",
+      "excerpt": "Cleaning frequency risk, use और condition से तय होनी चाहिए: touch frequency, traffic, contamination probability, user vulnerability, visible soil और sector requirements।",
+      "url": "library/cleaning-housekeeping/cleaning-schedules/how-cleaning-frequency-should-be-decided/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0017",
+      "locale": "en",
+      "title": "Cleaning Schedule vs Cleaning Checklist",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Schedules",
+      "subcategory_slug": "cleaning-schedules",
+      "excerpt": "A cleaning schedule defines what must happen and how often; a cleaning checklist helps staff execute or verify the tasks that are due.",
+      "url": "library/cleaning-housekeeping/cleaning-schedules/cleaning-schedule-vs-cleaning-checklist/"
+    },
+    {
+      "article_id": "ACX-KB-0017",
+      "locale": "hi-IN",
+      "title": "Cleaning Schedule vs Cleaning Checklist",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Cleaning Schedules",
+      "subcategory_slug": "cleaning-schedules",
+      "excerpt": "Cleaning schedule बताता है क्या और कितनी बार होना है; cleaning checklist staff को due tasks execute या verify करने में मदद करती है।",
+      "url": "library/cleaning-housekeeping/cleaning-schedules/cleaning-schedule-vs-cleaning-checklist/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0018",
+      "locale": "en",
+      "title": "What Is a Housekeeping Workflow?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "A housekeeping workflow is the organised sequence of people, tasks, tools and movement used to clean an area consistently from preparation through closeout.",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/what-is-a-housekeeping-workflow/"
+    },
+    {
+      "article_id": "ACX-KB-0018",
+      "locale": "hi-IN",
+      "title": "Housekeeping workflow क्या है?",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "Housekeeping workflow people, tasks, tools और movement का organised sequence है जो preparation से closeout तक cleaning को consistent बनाता है।",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/what-is-a-housekeeping-workflow/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0019",
+      "locale": "en",
+      "title": "How to Sequence Cleaning Tasks",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "Sequence cleaning tasks so the process does not undo itself: assess first, prepare supplies, work clean-to-dirty and high-to-low, use a systematic route and clean floors near the end.",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/how-to-sequence-cleaning-tasks/"
+    },
+    {
+      "article_id": "ACX-KB-0019",
+      "locale": "hi-IN",
+      "title": "Cleaning tasks को sequence कैसे करें",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "Cleaning tasks को ऐसे sequence करें कि process खुद को undo न करे: assess, prepare, clean-to-dirty, high-to-low, systematic route और floors near the end।",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/how-to-sequence-cleaning-tasks/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0020",
+      "locale": "en",
+      "title": "Clean-to-Dirty and High-to-Low Cleaning Principles",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "Clean-to-dirty and high-to-low are sequencing principles that reduce recontamination: move toward dirtier areas, clean upper surfaces before lower ones, and finish floors later.",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/clean-to-dirty-and-high-to-low-cleaning-principles/"
+    },
+    {
+      "article_id": "ACX-KB-0020",
+      "locale": "hi-IN",
+      "title": "Clean-to-Dirty और High-to-Low cleaning principles",
+      "category": "Cleaning & Housekeeping",
+      "category_slug": "cleaning-housekeeping",
+      "subcategory": "Housekeeping Workflows",
+      "subcategory_slug": "housekeeping-workflows",
+      "excerpt": "Clean-to-dirty और high-to-low sequencing principles recontamination कम करते हैं: dirtier areas की ओर move करें, upper surfaces पहले और floors बाद में clean करें।",
+      "url": "library/cleaning-housekeeping/housekeeping-workflows/clean-to-dirty-and-high-to-low-cleaning-principles/hi.html"
     }
   ]
 }
