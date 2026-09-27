@@ -25,6 +25,8 @@ jobs:
           python-version: '3.12'
       - name: Render current batch
         run: python scripts/render_current_batch.py
+      - name: Harden article interactions
+        run: python scripts/harden_article_interactions.py
       - name: Commit rendered pages
         run: |
           git add docs/library docs/assets/live-search.json
