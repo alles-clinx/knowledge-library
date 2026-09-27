@@ -157,12 +157,25 @@ try{
 
   await ma.locator('.mobile-tools .js-save-toggle').click();
   assert(await ma.locator('.mobile-tools .js-save-popover').isVisible(),'Mobile Save bottom sheet did not open');
+  await ma.locator('.mobile-tools .js-browser-save[data-save-action="bookmark"]').click();
+  assert((await ma.locator('.mobile-rail .tool-status').textContent()).includes('browser menu'),'Mobile bookmark helper did not provide touch-friendly guidance');
+  await ma.locator('.mobile-tools .js-save-toggle').click();
+  await ma.locator('.mobile-tools .js-browser-save[data-save-action="save"]').click();
+  assert((await ma.locator('.mobile-rail .tool-status').textContent()).includes('Share or menu'),'Mobile save helper did not provide touch-friendly guidance');
+  await ma.locator('.mobile-tools .js-save-toggle').click();
+  assert(await ma.locator('.mobile-tools .js-save-popover').isVisible(),'Mobile Save bottom sheet did not reopen');
   await ma.keyboard.press('Escape');
   assert(!(await ma.locator('.mobile-tools .js-save-popover').isVisible()),'Mobile Save bottom sheet did not close');
 
   await ma.locator('.mobile-tools .js-text-toggle').click();
   assert(await ma.locator('.mobile-tools .js-text-popover').isVisible(),'Mobile Text bottom sheet did not open');
+  const mobileBefore=parseFloat(await ma.locator('#article-content').evaluate(el=>getComputedStyle(el).fontSize));
+  const mobileReadoutBefore=parseInt(await ma.locator('.mobile-tools .js-size-readout').textContent(),10);
   await ma.locator('.mobile-tools .js-larger').click();
+  const mobileReadoutAfter=parseInt(await ma.locator('.mobile-tools .js-size-readout').textContent(),10);
+  const mobileAfter=parseFloat(await ma.locator('#article-content').evaluate(el=>getComputedStyle(el).fontSize));
+  assert(mobileReadoutAfter===Math.min(21,mobileReadoutBefore+1),'Mobile increase text-size control did not update the readout');
+  assert(mobileAfter>mobileBefore,'Mobile text-size control changed the readout but not the rendered article font size');
   await ma.keyboard.press('Escape');
   assert(!(await ma.locator('.mobile-tools .js-text-popover').isVisible()),'Mobile Text bottom sheet did not close');
 
