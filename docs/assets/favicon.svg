@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Alle's ClinX">
-  <rect width="64" height="64" rx="14" fill="#000"/>
-  <path d="M18 48 29.4 16h5.2L46 48h-7.1l-2.2-7H27.2l-2.1 7H18Zm11.1-13h5.8L32 25.3 29.1 35Z" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 64" role="img" aria-label="Alle's ClinX">
+  <rect width="256" height="64" fill="#fff"/>
+  <text x="128" y="38" text-anchor="middle"
+        font-family="Inter, Arial, sans-serif"
+        font-size="28"
+        font-weight="600"
+        letter-spacing="-0.6"
+        fill="#000">Alle's ClinX</text>
 </svg>
