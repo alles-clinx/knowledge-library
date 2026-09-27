@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0116",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0116",
+  "title": "Linen hygiene क्या है?",
+  "slug": "what-is-linen-hygiene",
+  "subcategory": "Linen Hygiene",
+  "subcategory_slug": "linen-hygiene",
+  "excerpt": "Linen hygiene textiles की controlled handling, laundering, drying, transport और storage है ताकि clean items hygienically clean रहें और recontamination से protected हों।",
+  "content_html": "<p>Linen hygiene textile के soiled होने से लेकर दोबारा use में आने तक पूरे process का management है। इसमें dirty linen की safe handling, effective laundering और washing के बाद clean textiles की protection शामिल है।</p>\n<h2 id=\"hi116-soiled\">Soiled linen की safe handling</h2><p>Soiled linen designated bags/containers में contain करें और minimum agitation से handle करें। CDC contaminated textiles को shake न करने की guidance देता है।</p>\n<h2 id=\"hi116-laundering\">Effective laundering</h2><p>Wash process को soil remove करके required hygienic result देना चाहिए। Time, temperature, mechanical action, water quality, load size, soil level और equipment condition performance affect करते हैं।</p>\n<h2 id=\"hi116-drying\">Complete drying</h2><p>Cleaned textiles को item-compatible process से fully dry करना चाहिए। Damp textile microbial growth और unwanted odour support कर सकती है।</p>\n<h2 id=\"hi116-protection\">Washing के बाद protection</h2><p>Clean होने के बाद objective removal से protection में बदल जाता है। Linen को fold, package, transport और store इस तरह करें कि dirty carts, soiled linen, dust या contaminated surfaces touch न करें।</p>\n<h2 id=\"hi116-workflow\">Clean और dirty work separate रखें</h2><p>CDC soiled-linen area और clean-linen storage के separation पर जोर देता है। Layout, carts, containers, staff movement और work sequence इस separation को support करें।</p>\n<h2 id=\"hi116-sterile\">Hygienically clean और sterile अलग हैं</h2><p>Routine healthcare laundering generally hygienically clean textiles produce करती है, sterile textiles नहीं। Required process intended use और facility procedure पर depend करती है।</p>\n<h2 id=\"hi116-takeaway\">Practical takeaway</h2><p>Linen hygiene single wash step नहीं, पूरा system है: safe collection, effective laundering, complete drying और clean-linen protection साथ काम करें।</p>\n<h2 id=\"hi116-references\">संदर्भ</h2><ol><li id=\"hi116-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"hi116-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Linen Hygiene क्या है? | Alle's ClinX",
+  "meta_description": "Safe soiled-linen handling, effective laundering, complete drying और clean textiles की recontamination protection से linen hygiene समझें।",
+  "related_article_ids": [
+    "ACX-KB-0117",
+    "ACX-KB-0118",
+    "ACX-KB-0101"
+  ]
+}

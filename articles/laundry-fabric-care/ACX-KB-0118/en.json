@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0118",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Laundry Workflow Affects Linen Hygiene",
+  "slug": "how-laundry-workflow-affects-linen-hygiene",
+  "subcategory": "Linen Hygiene",
+  "subcategory_slug": "linen-hygiene",
+  "excerpt": "Laundry workflow affects linen hygiene because every handoff—from collection and sorting to washing, drying, folding, transport and storage—can either control contamination or reintroduce it.",
+  "content_html": "<p>Linen hygiene depends on workflow continuity. A strong wash cycle cannot compensate for unsafe collection before laundering or recontamination after the textile is clean.</p>\n<h2 id=\"collection\">Collection sets the first boundary</h2><p>Soiled linen should be contained where it is removed and handled with minimum agitation. Clear containers and routes reduce uncontrolled movement through clean or occupied areas.</p>\n<h2 id=\"sorting\">Sorting belongs on the dirty side</h2><p>Sorting soiled linen should occur within the designated laundry workflow. Mixing sorting with clean work increases opportunities for cross-contact between contaminated and processed textiles.</p>\n<h2 id=\"wash\">The wash stage must match the load</h2><p>Time, temperature, mechanical action, water quality, load volume and soil level all influence laundering effectiveness. Consistent loading and equipment maintenance improve repeatability.</p>\n<h2 id=\"drying\">Drying is part of the hygiene process</h2><p>Clean textiles should be dried completely. Damp textiles left in machines or stored before drying can support microbial growth and odour development.</p>\n<h2 id=\"folding\">Folding changes the risk direction</h2><p>After drying, the priority is no longer soil removal but clean handling. Folding surfaces, hands, carts and packaging should belong to the clean side of the workflow.</p>\n<h2 id=\"transport-storage\">Transport and storage preserve the result</h2><p>Clean linen should be protected during transport and stored away from soiled items, dust and dirty equipment. A clean item can lose hygienic status after the wash if these controls fail.</p>\n<h2 id=\"flow\">One-way flow is easier to control</h2><p>Where layout allows, organize work so linen progresses from dirty receipt to washing, drying, finishing and clean dispatch without unnecessary backtracking.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Linen hygiene is created by the sequence of the workflow. Each handoff should move the textile toward a cleaner, more protected state.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "How Laundry Workflow Affects Linen Hygiene | Alle's ClinX",
+  "meta_description": "Learn how collection, sorting, washing, drying, folding, transport and storage workflow decisions affect linen hygiene and recontamination risk.",
+  "related_article_ids": [
+    "ACX-KB-0116",
+    "ACX-KB-0117",
+    "ACX-KB-0101"
+  ]
+}

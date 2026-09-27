@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0116",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Linen Hygiene?",
+  "slug": "what-is-linen-hygiene",
+  "subcategory": "Linen Hygiene",
+  "subcategory_slug": "linen-hygiene",
+  "excerpt": "Linen hygiene is the controlled handling, laundering, drying, transport and storage of textiles so clean items remain hygienically clean and are protected from recontamination.",
+  "content_html": "<p>Linen hygiene is the management of textiles from the moment they become soiled until they return to use. It combines safe handling of dirty linen with an effective laundry process and protection of clean textiles after washing.</p>\n<h2 id=\"soiled-handling\">Safe handling of soiled linen</h2><p>Soiled linen should be contained in designated bags or containers and handled with minimum agitation. CDC guidance advises against shaking contaminated textiles because handling can spread contamination to air, surfaces or clothing.</p>\n<h2 id=\"laundering\">Effective laundering</h2><p>The wash process must remove soil and achieve the required hygienic result. Time, temperature, mechanical action, water quality, load size, soil level and equipment condition all influence laundering effectiveness.</p>\n<h2 id=\"drying\">Complete drying</h2><p>Cleaned textiles should be dried completely using a process suitable for the item. Leaving textiles damp can create conditions that support microbial growth and unwanted odour.</p>\n<h2 id=\"clean-protection\">Protection after washing</h2><p>Once linen is clean, the hygiene objective changes from removal to protection. Clean textiles should be folded, packaged, transported and stored so they do not contact dirty carts, soiled linen, dust or contaminated work surfaces.</p>\n<h2 id=\"workflow\">Separation of clean and dirty work</h2><p>CDC recommends separation between areas used for soiled linen and clean-linen storage. Physical layout, carts, containers, staff movement and work sequencing should reinforce that separation.</p>\n<h2 id=\"not-sterile\">Hygienically clean is not the same as sterile</h2><p>Routine healthcare laundering generally produces hygienically clean textiles rather than sterile textiles. The required process therefore depends on the intended use and the facility's procedures.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Linen hygiene is a system, not a single wash step. Safe collection, effective laundering, complete drying and protection of clean linen must all work together.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "What Is Linen Hygiene? | Alle's ClinX",
+  "meta_description": "Learn how linen hygiene combines safe soiled-linen handling, effective laundering, complete drying and protection of clean textiles from recontamination.",
+  "related_article_ids": [
+    "ACX-KB-0117",
+    "ACX-KB-0118",
+    "ACX-KB-0101"
+  ]
+}

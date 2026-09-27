@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0118",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0118",
+  "title": "Laundry workflow linen hygiene को कैसे affect करती है",
+  "slug": "how-laundry-workflow-affects-linen-hygiene",
+  "subcategory": "Linen Hygiene",
+  "subcategory_slug": "linen-hygiene",
+  "excerpt": "Laundry workflow linen hygiene को affect करती है क्योंकि collection/sorting से washing, drying, folding, transport और storage तक हर handoff contamination control या recontamination कर सकता है।",
+  "content_html": "<p>Linen hygiene workflow continuity पर depend करती है। Strong wash cycle unsafe pre-wash handling या post-wash recontamination को compensate नहीं कर सकती।</p>\n<h2 id=\"hi118-collection\">Collection first boundary set करती है</h2><p>Soiled linen removal point पर contain करें और minimum agitation से handle करें। Clear containers/routes uncontrolled movement कम करते हैं।</p>\n<h2 id=\"hi118-sorting\">Sorting dirty side पर हो</h2><p>Soiled linen sorting designated laundry workflow में होनी चाहिए। Clean work के साथ sorting mix करने से cross-contact opportunities बढ़ती हैं।</p>\n<h2 id=\"hi118-wash\">Wash stage load के अनुसार हो</h2><p>Time, temperature, mechanical action, water quality, load volume और soil level laundering effectiveness affect करते हैं। Consistent loading और equipment maintenance repeatability improve करते हैं।</p>\n<h2 id=\"hi118-drying\">Drying hygiene process का हिस्सा है</h2><p>Clean textiles fully dry करें। Damp textiles machine में या storage से पहले wet रहने पर microbial growth और odour support कर सकती हैं।</p>\n<h2 id=\"hi118-folding\">Folding पर risk direction बदलती है</h2><p>Drying के बाद priority soil removal नहीं, clean handling है। Folding surfaces, hands, carts और packaging clean side का हिस्सा होने चाहिए।</p>\n<h2 id=\"hi118-transport\">Transport और storage result preserve करते हैं</h2><p>Clean linen transport/storage में soiled items, dust और dirty equipment से protected रहे। Wash के बाद controls fail हों तो hygienic status lose हो सकती है।</p>\n<h2 id=\"hi118-flow\">One-way flow easier to control है</h2><p>जहाँ layout allow करे, workflow dirty receipt से wash, dry, finish और clean dispatch की direction में रखें।</p>\n<h2 id=\"hi118-takeaway\">Practical takeaway</h2><p>Linen hygiene workflow sequence से बनती है। हर handoff textile को cleaner और more protected state की ओर move करे।</p>\n<h2 id=\"hi118-references\">संदर्भ</h2><ol><li id=\"hi118-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"hi118-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Laundry Workflow और Linen Hygiene | Alle's ClinX",
+  "meta_description": "Collection, sorting, washing, drying, folding, transport और storage workflow linen hygiene और recontamination risk को कैसे affect करती है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0116",
+    "ACX-KB-0117",
+    "ACX-KB-0101"
+  ]
+}

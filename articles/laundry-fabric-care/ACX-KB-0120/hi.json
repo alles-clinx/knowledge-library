@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0120",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0120",
+  "title": "Linen में persistent odour किस कारण होती है?",
+  "slug": "what-causes-persistent-odour-in-linen",
+  "subcategory": "Fabric Odour Control",
+  "subcategory_slug": "fabric-odour-control",
+  "excerpt": "Persistent linen odour अक्सर repeating process problem दिखाती है: retained body soil, incomplete washing/rinsing, slow drying, damp storage, washer contamination या clean-linen recontamination।",
+  "content_html": "<p>Persistent odour का मतलब smell laundering के बाद वापस आती है या कई loads में repeat होती है। यह pattern one-time spill से ज्यादा process cause की ओर point करती है।</p>\n<h2 id=\"hi120-soil\">Retained body soil</h2><p>अगर chemistry, time, temperature, load size या mechanical action soil से well matched न हों तो oils/organic residues fibres में remain कर सकते हैं। Invisible residue भी odour contribute कर सकती है।</p>\n<h2 id=\"hi120-rinsing\">Incomplete rinsing</h2><p>Detergent, loosened soil और minerals wash liquor के साथ बाहर निकलने चाहिए। Poor drainage/rinsing material redeposit कर सकती है जो warm/damp होने पर smell करे।</p>\n<h2 id=\"hi120-drying\">Slow या incomplete drying</h2><p>Damp textiles microbial growth support कर सकती हैं। CDC complete drying advise करता है और laundry-malodour research humid conditions को odour-associated microbial activity से link करती है।</p>\n<h2 id=\"hi120-washer\">Washer/dosing-system contamination</h2><p>अगर different items same odour develop करें, machine, seals, drains, detergent drawers और dosing system को manufacturer maintenance procedure के अनुसार inspect करें।</p>\n<h2 id=\"hi120-storage\">Damp या contaminated storage</h2><p>Humid room में stored, warm/damp अवस्था में enclosed या dirty cart पर रखी clean linen washing के बाद odour develop/absorb कर सकती है।</p>\n<h2 id=\"hi120-workflow\">Clean/dirty crossover</h2><p>Folding, transport या storage में recontamination processed linen पर soil/microorganisms वापस ला सकती है। Odour detergent से ज्यादा workflow issue हो सकती है।</p>\n<h2 id=\"hi120-troubleshoot\">Troubleshooting sequence</h2><ol><li>Check करें odour drying के तुरंत बाद है या later आती है.</li><li>Load size, wash program, detergent delivery और rinsing review करें.</li><li>Folding/storage से पहले full drying confirm करें.</li><li>Washer/dosing-system cleanliness और maintenance inspect करें.</li><li>Clean storage, carts और clean/dirty separation review करें.</li><li>एक time पर एक process factor change करके result compare करें.</li></ol>\n<h2 id=\"hi120-takeaway\">Practical takeaway</h2><p>Persistent linen odour system signal है। More fragrance/chemistry add करने के बजाय recurring soil, moisture या recontamination source find करें।</p>\n<h2 id=\"hi120-references\">संदर्भ</h2><ol><li id=\"hi120-ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"hi120-ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"hi120-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li></ol>",
+  "seo_title": "Persistent Linen Odour के Causes | Alle's ClinX",
+  "meta_description": "Retained soil, rinsing, drying, washer hygiene, storage और clean/dirty workflow persistent linen odour को कैसे cause कर सकते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0119",
+    "ACX-KB-0118",
+    "ACX-KB-0102"
+  ]
+}

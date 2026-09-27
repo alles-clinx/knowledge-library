@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0119",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Clean Fabric Can Still Smell",
+  "slug": "why-clean-fabric-can-still-smell",
+  "subcategory": "Fabric Odour Control",
+  "subcategory_slug": "fabric-odour-control",
+  "excerpt": "A fabric can look clean yet still smell if odour-forming residues, retained moisture, microorganisms, detergent buildup, machine contamination or storage conditions remain unresolved.",
+  "content_html": "<p>Visual cleanliness and odour are not the same measurement. A textile can look free of visible soil while volatile compounds, retained residue or moisture still produce an unwanted smell.</p>\n<h2 id=\"residual-soil\">Small amounts of soil can remain</h2><p>Body oils and other organic residues can be difficult to remove completely from some fibres. Even when they are not visible, remaining soil can contribute to odour directly or provide material for microorganisms.</p>\n<h2 id=\"moisture\">Moisture can reactivate odour</h2><p>A textile that is folded or stored before it is fully dry can develop odour later. Research on laundered textiles has linked humid post-wash conditions with microbial activity and characteristic malodours.</p>\n<h2 id=\"microbial\">Microorganisms can survive or re-enter the process</h2><p>Some microorganisms can remain after mild laundering or be transferred from the washing machine environment. Under damp conditions they can grow and produce odorous compounds.</p>\n<h2 id=\"residue\">Detergent or finishing residue can contribute</h2><p>Too much detergent, incomplete rinsing or heavy finishing-product deposition can leave a film that traps soil or changes how the textile smells when damp.</p>\n<h2 id=\"machine\">The machine can be part of the problem</h2><p>Residue, standing moisture and biofilm inside washers or dosing systems can contribute to recurring odour. If multiple unrelated loads develop the same smell, inspect the process and equipment rather than only the textile.</p>\n<h2 id=\"storage\">Clean storage matters</h2><p>Clean fabric can absorb odours from damp rooms, dirty carts, chemicals, smoke or other stored materials. A good wash result can therefore be lost after laundering.</p>\n<h2 id=\"diagnose\">Diagnose instead of masking</h2><p>Check drying, rinsing, machine hygiene, storage and whether odour returns mainly when the item becomes warm or damp. Fragrance can cover a smell temporarily without correcting its cause.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Why Clean Fabric Can Still Smell | Alle's ClinX",
+  "meta_description": "Learn why visually clean fabric can still smell because of retained soil, moisture, microorganisms, detergent residue, washer contamination or storage conditions.",
+  "related_article_ids": [
+    "ACX-KB-0120",
+    "ACX-KB-0105",
+    "ACX-KB-0118"
+  ]
+}

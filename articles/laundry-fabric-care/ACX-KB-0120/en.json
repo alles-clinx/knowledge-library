@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0120",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Causes Persistent Odour in Linen?",
+  "slug": "what-causes-persistent-odour-in-linen",
+  "subcategory": "Fabric Odour Control",
+  "subcategory_slug": "fabric-odour-control",
+  "excerpt": "Persistent linen odour usually points to a repeating process problem such as retained body soil, incomplete washing or rinsing, slow drying, damp storage, washer contamination or clean-linen recontamination.",
+  "content_html": "<p>Persistent odour means the smell returns after laundering or appears repeatedly across loads. That pattern is useful because it suggests a process cause rather than a one-time spill.</p>\n<h2 id=\"soil\">Retained body soil</h2><p>Oils and organic residues can remain in fibres when chemistry, time, temperature, load size or mechanical action is not well matched to the soil. Residue may be difficult to see but can still contribute to odour.</p>\n<h2 id=\"rinsing\">Incomplete rinsing</h2><p>Detergent, loosened soil and minerals must leave with the wash liquor. Poor drainage or rinsing can redeposit material that later smells when the linen becomes warm or damp.</p>\n<h2 id=\"drying\">Slow or incomplete drying</h2><p>Damp textiles create conditions that can support microbial growth. CDC advises complete drying, and research on laundry malodour shows that humid drying conditions can favour odour-associated microbial activity.</p>\n<h2 id=\"washer\">Washer or dosing-system contamination</h2><p>If many different items develop similar odour, inspect the machine, seals, drains, detergent drawers and dosing system according to manufacturer maintenance procedures. The equipment environment can become a recurring source.</p>\n<h2 id=\"storage\">Damp or contaminated storage</h2><p>Clean linen stored in a humid room, enclosed while still warm and damp, or placed on dirty carts can develop or absorb odour after washing.</p>\n<h2 id=\"workflow\">Clean/dirty crossover</h2><p>Recontamination during folding, transport or storage can return soil and microorganisms to processed linen. Persistent odour may therefore be a workflow issue rather than a detergent issue.</p>\n<h2 id=\"troubleshoot\">Troubleshooting sequence</h2><ol><li>Confirm whether the odour is present immediately after drying or appears later.</li><li>Check load size, wash program, detergent delivery and rinsing.</li><li>Confirm textiles are fully dry before folding or storage.</li><li>Inspect washer and dosing-system cleanliness and maintenance.</li><li>Review clean storage, carts and clean/dirty separation.</li><li>Change one process factor at a time and compare results.</li></ol>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Persistent linen odour is best treated as a system signal. Find where soil, moisture or recontamination is recurring instead of simply adding fragrance or more chemistry.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li></ol>",
+  "seo_title": "What Causes Persistent Odour in Linen? | Alle's ClinX",
+  "meta_description": "Troubleshoot persistent linen odour by checking retained soil, rinsing, drying, washer hygiene, storage and clean/dirty workflow separation.",
+  "related_article_ids": [
+    "ACX-KB-0119",
+    "ACX-KB-0118",
+    "ACX-KB-0102"
+  ]
+}

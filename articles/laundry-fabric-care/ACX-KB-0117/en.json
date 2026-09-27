@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0117",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Clean and Soiled Linen Should Be Kept Separate",
+  "slug": "why-clean-and-soiled-linen-should-be-kept-separate",
+  "subcategory": "Linen Hygiene",
+  "subcategory_slug": "linen-hygiene",
+  "excerpt": "Clean and soiled linen should be separated because laundering removes contamination, but later contact with dirty textiles, carts, surfaces or handling can contaminate clean items again.",
+  "content_html": "<p>Separating clean and soiled linen protects the work already achieved by laundering. Once a textile has been cleaned, any unnecessary contact with dirty items or dirty-side equipment creates a new opportunity for contamination.</p>\n<h2 id=\"dirty-side\">The dirty side has a different risk</h2><p>Soiled textiles may carry body soil, dust, fluids and microorganisms. CDC recommends containing soiled linen and keeping dirty-linen handling within a controlled workflow.</p>\n<h2 id=\"clean-side\">The clean side is a protection zone</h2><p>Clean linen no longer needs soil-removal handling. It needs protection from dust, debris, soiled textiles, dirty carts and contaminated work surfaces during folding, storage and transport.</p>\n<h2 id=\"layout\">Physical separation reduces cross-contact</h2><p>CDC guidance recommends separation between soiled-linen processing and clean-linen storage. Where possible, workflow should move from dirty to clean without clean items travelling back through the dirty side.</p>\n<h2 id=\"carts\">Carts and containers matter</h2><p>A clean textile can be recontaminated by a dirty cart or container. Dedicated or appropriately cleaned transport equipment helps preserve clean status after laundering.</p>\n<h2 id=\"hands-surfaces\">Hands and surfaces can bridge the two sides</h2><p>Staff movement, gloves, hands and worktables can transfer contamination if clean and dirty tasks are mixed. Procedures should define when hand hygiene, PPE changes and surface cleaning are required.</p>\n<h2 id=\"storage\">Storage completes the separation</h2><p>Clean linen should be stored in a designated clean area and protected from splash, dust and contact with soiled items. Good separation continues until the textile is actually issued for use.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Clean/dirty separation prevents recontamination. The control applies to rooms, carts, containers, surfaces, staff movement and storage—not just to two piles of laundry.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html\">CDC — Textiles and Laundry</a>.</li></ol>",
+  "seo_title": "Why Keep Clean and Soiled Linen Separate? | Alle's ClinX",
+  "meta_description": "See why clean and soiled linen separation matters for preventing recontamination through textiles, carts, surfaces, staff handling and storage.",
+  "related_article_ids": [
+    "ACX-KB-0116",
+    "ACX-KB-0118",
+    "ACX-KB-0103"
+  ]
+}

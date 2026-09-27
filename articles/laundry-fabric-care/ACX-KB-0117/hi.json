@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0117",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0117",
+  "title": "Clean और soiled linen अलग क्यों रखनी चाहिए",
+  "slug": "why-clean-and-soiled-linen-should-be-kept-separate",
+  "subcategory": "Linen Hygiene",
+  "subcategory_slug": "linen-hygiene",
+  "excerpt": "Clean और soiled linen अलग रखना जरूरी है क्योंकि laundering contamination remove करती है, लेकिन dirty textiles, carts, surfaces या handling clean items को फिर contaminate कर सकती है।",
+  "content_html": "<p>Clean और soiled linen separation laundering से मिले hygienic result को protect करती है। Cleaning के बाद dirty items/equipment से unnecessary contact recontamination का नया route बनाती है।</p>\n<h2 id=\"hi117-dirty\">Dirty side का risk अलग है</h2><p>Soiled textiles body soil, dust, fluids और microorganisms carry कर सकती हैं। CDC soiled linen को contain करके controlled workflow में handle करने की guidance देता है।</p>\n<h2 id=\"hi117-clean\">Clean side protection zone है</h2><p>Clean linen को अब soil-removal handling नहीं, protection चाहिए। Folding, storage और transport में dust, debris, soiled textiles, dirty carts और contaminated surfaces से बचाएं।</p>\n<h2 id=\"hi117-layout\">Physical separation cross-contact कम करती है</h2><p>CDC soiled-linen processing और clean-linen storage separate रखने की recommendation देता है। Workflow ideally dirty से clean direction में move करे।</p>\n<h2 id=\"hi117-carts\">Carts और containers matter करते हैं</h2><p>Dirty cart/container clean textile को recontaminate कर सकता है। Dedicated या properly cleaned transport equipment clean status preserve करने में मदद करती है।</p>\n<h2 id=\"hi117-hands\">Hands और surfaces दोनों sides को bridge कर सकते हैं</h2><p>Staff movement, gloves, hands और worktables clean/dirty tasks mix होने पर contamination transfer कर सकते हैं। Procedures hygiene/PPE/surface cleaning define करें।</p>\n<h2 id=\"hi117-storage\">Storage separation complete करती है</h2><p>Clean linen designated clean area में store करें और splash, dust तथा soiled items से protect करें। Separation issue होने तक continue होनी चाहिए।</p>\n<h2 id=\"hi117-takeaway\">Practical takeaway</h2><p>Clean/dirty separation recontamination prevent करती है। यह rooms, carts, containers, surfaces, staff movement और storage सब पर apply होती है।</p>\n<h2 id=\"hi117-references\">संदर्भ</h2><ol><li id=\"hi117-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li><li id=\"hi117-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"hi117-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html\">CDC — Textiles and Laundry</a>.</li></ol>",
+  "seo_title": "Clean और Soiled Linen Separation | Alle's ClinX",
+  "meta_description": "Textiles, carts, surfaces, staff handling और storage से recontamination रोकने के लिए clean/soiled linen separation क्यों जरूरी है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0116",
+    "ACX-KB-0118",
+    "ACX-KB-0103"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0119",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0119",
+  "title": "Clean fabric फिर भी smell क्यों कर सकती है",
+  "slug": "why-clean-fabric-can-still-smell",
+  "subcategory": "Fabric Odour Control",
+  "subcategory_slug": "fabric-odour-control",
+  "excerpt": "Fabric visibly clean होने के बाद भी retained soil, moisture, microorganisms, detergent buildup, machine contamination या storage conditions के कारण smell कर सकती है।",
+  "content_html": "<p>Visual cleanliness और odour same measurement नहीं हैं। Textile visible soil-free दिख सकती है लेकिन volatile compounds, residue या moisture unwanted smell produce कर सकते हैं।</p>\n<h2 id=\"hi119-soil\">थोड़ी soil remain हो सकती है</h2><p>Body oils और other organic residues कुछ fibres से completely remove करना कठिन हो सकता है। Invisible residue direct odour या microbial growth support कर सकती है।</p>\n<h2 id=\"hi119-moisture\">Moisture odour reactivate कर सकती है</h2><p>Fully dry होने से पहले folded/stored textile बाद में smell develop कर सकती है। Research humid post-wash conditions को microbial activity और malodour से link करती है।</p>\n<h2 id=\"hi119-microbial\">Microorganisms survive या re-enter कर सकते हैं</h2><p>कुछ microorganisms mild laundering के बाद remain या washing-machine environment से transfer हो सकते हैं। Damp conditions में growth odorous compounds produce कर सकती है।</p>\n<h2 id=\"hi119-residue\">Detergent/finishing residue contribute कर सकती है</h2><p>Excess detergent, incomplete rinsing या heavy finishing-product deposition film छोड़ सकती है जो soil trap करे या damp textile smell बदल दे।</p>\n<h2 id=\"hi119-machine\">Machine problem का हिस्सा हो सकती है</h2><p>Washer/dosing system में residue, standing moisture और biofilm recurring odour contribute कर सकते हैं। Multiple loads same smell develop करें तो equipment/process inspect करें।</p>\n<h2 id=\"hi119-storage\">Clean storage matter करती है</h2><p>Clean fabric damp rooms, dirty carts, chemicals, smoke या nearby materials से odour absorb कर सकती है। Good wash result storage में lose हो सकता है।</p>\n<h2 id=\"hi119-diagnose\">Mask करने के बजाय diagnose करें</h2><p>Drying, rinsing, machine hygiene, storage और damp/warm होने पर odour return pattern check करें। Fragrance cause fix किए बिना smell temporarily cover कर सकती है।</p>\n<h2 id=\"hi119-references\">संदर्भ</h2><ol><li id=\"hi119-ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"hi119-ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"hi119-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Clean Fabric फिर भी Smell क्यों करती है | Alle's ClinX",
+  "meta_description": "Retained soil, moisture, microorganisms, detergent residue, washer contamination और storage clean fabric में odour क्यों cause कर सकते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0120",
+    "ACX-KB-0105",
+    "ACX-KB-0118"
+  ]
+}
