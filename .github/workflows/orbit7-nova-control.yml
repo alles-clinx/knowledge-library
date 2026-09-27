@@ -1,6 +1,15 @@
 name: ORBIT-7 · Nova Control
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "aegis/**"
+      - "articles/**"
+      - "production/live.json"
+      - "taxonomy/**"
+      - "scripts/aegis_*.py"
+      - ".github/workflows/orbit7-nova-control.yml"
   pull_request:
     branches: [main]
     paths:
