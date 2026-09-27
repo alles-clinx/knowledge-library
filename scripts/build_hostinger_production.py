@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the clean Hostinger production tree for https://allesclinx.com/knowledge/."""
 from __future__ import annotations
+import hashlib
 import html
 import json
 import re
@@ -83,6 +84,20 @@ for path in OUT.rglob("*"):
     text = text.replace("/knowledge-library/", "/knowledge/")
     text = text.replace("https://alles-clinx.github.io/knowledge-library/", BASE_URL)
     path.write_text(text, encoding="utf-8")
+
+# Give shared shell assets content-based URLs. Existing Knowledge service workers
+# can otherwise keep serving an old precached CSS/JS file after deployment.
+asset_versions = {
+    name: hashlib.sha256((OUT / "assets" / name).read_bytes()).hexdigest()[:12]
+    for name in ("site.css", "site.js")
+}
+for page_path in OUT.rglob("*.html"):
+    page = page_path.read_text(encoding="utf-8")
+    for name, version in asset_versions.items():
+        asset_url = f"{BASE_PATH}assets/{name}"
+        for quote in ('"', "'"):
+            page = page.replace(f"{asset_url}{quote}", f"{asset_url}?v={version}{quote}")
+    page_path.write_text(page, encoding="utf-8")
 
 # Build live search lookup after prefix rewrite.
 search_path = OUT / "assets" / "live-search.json"
