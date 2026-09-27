@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0109",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Some Stains Become Harder to Remove Over Time",
+  "slug": "why-some-stains-become-harder-to-remove-over-time",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "Some stains become harder to remove as they dry, penetrate fibres, oxidise, bind more strongly to the textile or are changed by heat and previous cleaning attempts.",
+  "content_html": "<p>Fresh and aged stains can behave differently. As time passes, a stain may dry, move deeper into the textile, react with air, bind more strongly to the fibre or be changed by heat and earlier cleaning attempts.</p>\n<h2 id=\"drying\">Drying changes the deposit</h2><p>Water can evaporate from a fresh spill while pigments, oils, proteins or dissolved solids remain. The remaining material may become more concentrated and less mobile than when the stain was fresh.</p>\n<h2 id=\"fiber-affinity\">Soil can interact more strongly with fibres</h2><p>Textile detergency studies show that removal depends strongly on both the contaminant and the fibre. Some soils have greater affinity for particular fibres, making the stain progressively harder to release.</p>\n<h2 id=\"oxidation\">Air and oxidation can change some stains</h2><p>Some organic stains change chemically as they age. Colour can deepen or the deposit can become less soluble, which means the treatment that worked on a fresh stain may be less effective later.</p>\n<h2 id=\"heat\">Heat can make some stains more persistent</h2><p>Drying or other heat exposure can change certain soils and fibres. If the stain identity is uncertain, avoid assuming that more heat will improve removal.</p>\n<h2 id=\"previous-treatment\">Previous treatment can alter the stain</h2><p>An unsuitable cleaner or incompatible process can spread colour, damage dye, leave residue or change the stain itself. A mark remaining after treatment may therefore be a mixture of original soil and textile change.</p>\n<h2 id=\"diagnosis\">Diagnose before repeating treatment</h2><p>Identify the likely soil, review what has already been done, check textile compatibility and use an approved stain-removal method. Repeating stronger chemistry without diagnosis can increase damage without improving cleaning.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Time can turn an easy-to-move deposit into a more strongly bound or chemically changed stain. Early identification and compatible treatment usually give a better troubleshooting path than repeated escalation.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/20720378/\">PubMed — Evaluation of Detergency Using Artificially Soiled Multifiber Fabrics</a>.</li><li id=\"ref-2\"><a href=\"https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-ink-ballpoint-felt-tip-india-mimeo-stamp-pad/\">University of Georgia Extension — Textile Stain Removal</a>.</li></ol>",
+  "seo_title": "Why Some Stains Become Harder to Remove Over Time | Alle's ClinX",
+  "meta_description": "Learn why stains can become harder to remove as they dry, penetrate fibres, oxidise, bind more strongly or are altered by heat and previous treatment.",
+  "related_article_ids": [
+    "ACX-KB-0107",
+    "ACX-KB-0108",
+    "ACX-KB-0110"
+  ]
+}

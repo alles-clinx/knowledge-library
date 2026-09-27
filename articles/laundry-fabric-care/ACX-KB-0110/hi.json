@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0110",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0110",
+  "title": "Stain removal fabric और soil type पर क्यों depend करती है",
+  "slug": "why-stain-removal-depends-on-fabric-and-soil-type",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "Stain removal problem के दोनों sides पर depend करती है: soil की chemistry/physical form और textile की fibre, dye, finish तथा construction।",
+  "content_html": "<p>Same stain-removal method एक textile पर work कर सकती है और दूसरे पर fail। Cleaning soil और fabric interaction पर depend करती है, केवल stain colour पर नहीं।</p>\n<h2 id=\"hi110-soil\">Different soils अलग behave करती हैं</h2><p>Oil, protein, starch, pigment, minerals और particulate soil की solubility/surface behaviour अलग होती है। Oily soil हटाने वाला method mineral deposit या strongly bound pigment पर weak हो सकता है।</p>\n<h2 id=\"hi110-fiber\">Fibre type soil affinity बदलती है</h2><p>Multifibre research में detergency contaminant और fibre type पर strongly depend पाई गई। Cotton, polyester और other fibres water, oils और particles से same way interact नहीं करते।</p>\n<h2 id=\"hi110-dyes\">Dyes और finishes constraints add करती हैं</h2><p>Colourfastness, coatings, flame-retardant treatments, water-repellent finishes और other treatments acceptable chemistry, heat या mechanical action limit कर सकते हैं।</p>\n<h2 id=\"hi110-construction\">Construction भी matter करती है</h2><p>Dense weaves, pile, padding, seams और layered garments soil/cleaning solution अलग तरह trap कर सकते हैं। Flat swatch पर working process finished item पर different handling मांग सकती है।</p>\n<h2 id=\"hi110-water\">Water और wash conditions दोनों से interact करती हैं</h2><p>Hardness, pH, time, temperature, mechanical action और rinsing influence करते हैं कि loosened soil textile से actually निकलती है या नहीं।</p>\n<h2 id=\"hi110-compatibility\">Compatibility cleaning performance का हिस्सा है</h2><p>अगर process fibre, dye या finish damage करे तो stain removal successful नहीं मानी जानी चाहिए। Cleaning result और textile preservation को same quality decision समझें।</p>\n<h2 id=\"hi110-takeaway\">Practical takeaway</h2><p>Stain-removal approach चुनने से पहले soil और textile दोनों identify करें। Best method target soil remove करे और fabric preserve रखे।</p>\n<h2 id=\"hi110-references\">संदर्भ</h2><ol><li id=\"hi110-ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/20720378/\">PubMed — Evaluation of Detergency Using Artificially Soiled Multifiber Fabrics</a>.</li><li id=\"hi110-ref-2\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/26782305/\">PubMed — Effects of Water Hardness on Textile Detergency Performance</a>.</li><li id=\"hi110-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Stain Removal: Fabric और Soil Type | Alle's ClinX",
+  "meta_description": "Soil chemistry, fibre type, dyes, finishes, textile construction, water quality और wash conditions stain removal को कैसे affect करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0107",
+    "ACX-KB-0108",
+    "ACX-KB-0109"
+  ]
+}

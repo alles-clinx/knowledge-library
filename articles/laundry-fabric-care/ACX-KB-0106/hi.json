@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0106",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0106",
+  "title": "Powder vs liquid laundry detergent: क्या बदलता है?",
+  "slug": "powder-vs-liquid-laundry-detergent-what-changes",
+  "subcategory": "Laundry Detergents",
+  "subcategory_slug": "laundry-detergents",
+  "excerpt": "Powder और liquid laundry detergents अलग ingredient systems और handling formats use कर सकती हैं। Performance physical form से ज्यादा formulation, dose, water conditions और wash process पर depend करती है।",
+  "content_html": "<p>Powder और liquid laundry detergents cleaning formulation के दो delivery formats हैं। Physical form packaging, dosing और dispersion बदलती है, लेकिन अकेले इससे यह तय नहीं होता कि कौन बेहतर clean करेगी।</p>\n<h2 id=\"hi106-formulation\">Formulation अलग हो सकती है</h2><p>Detergents surfactants, water-conditioning agents, enzymes और other auxiliaries combine करती हैं। इन ingredients का balance powder और liquid products में अलग हो सकता है।</p>\n<h2 id=\"hi106-dissolution\">Dispersion और dissolution</h2><p>Liquid product fluid carrier में होती है; powder को wash के दौरान disperse/dissolve होना पड़ता है। Water temperature, hardness, wash time और machine conditions powder availability को affect कर सकते हैं।</p>\n<h2 id=\"hi106-concentration\">Concentration और dose</h2><p>Physical form strength का reliable indicator नहीं है। कुछ powders और liquids concentrated होती हैं, कुछ नहीं। Dose approved product directions से तय करें।</p>\n<h2 id=\"hi106-water\">Water conditions matter करती हैं</h2><p>Hardness minerals detergent performance interfere कर सकते हैं। Builders, chelants या other water-conditioning ingredients इन effects को manage कर सकते हैं; overall formulation format से ज्यादा important है।</p>\n<h2 id=\"hi106-residue\">Residue process signal है</h2><p>Visible powder, film या detergent residue incomplete dissolution, excess product, poor rinsing, overloading या other process issue indicate कर सकती है। Whole wash process investigate करें।</p>\n<h2 id=\"hi106-selection\">Products कैसे compare करें</h2><p>Approved application, textile compatibility, water conditions, dosing system, machine requirements, safety information और expected wash performance compare करें। Format केवल एक factor है।</p>\n<h2 id=\"hi106-takeaway\">Practical takeaway</h2><p>Powder vs liquid mainly formulation/delivery difference है। Cleaning performance complete detergent system और correct wash conditions पर depend करती है।</p>\n<h2 id=\"hi106-references\">संदर्भ</h2><ol><li id=\"hi106-ref-1\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"hi106-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi106-ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/17898499/\">PubMed — Laundry Detergents: An Overview</a>.</li></ol>",
+  "seo_title": "Powder vs Liquid Laundry Detergent | Alle's ClinX",
+  "meta_description": "Powder और liquid detergent को formulation, dispersion, concentration, water conditions, residue और wash-process requirements से compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0104",
+    "ACX-KB-0105",
+    "ACX-KB-0102"
+  ]
+}

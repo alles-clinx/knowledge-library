@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0107",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Bleaching vs Stain Removal: Key Differences",
+  "slug": "bleaching-vs-stain-removal",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "Stain removal is the broader task of removing or reducing unwanted soil from fabric. Bleaching is one possible treatment for certain compatible stains and textiles, not a universal substitute for cleaning.",
+  "content_html": "<p>Stain removal and bleaching are related but different tasks. Stain removal means reducing or removing unwanted soil from a textile. Bleaching is one possible chemistry-based step that can alter certain coloured stain compounds when the textile and process are compatible.</p>\n<h2 id=\"stain-removal\">Stain removal is broader</h2><p>A stain may contain oil, protein, pigment, minerals, particulate soil or a mixture. The best treatment depends on what the soil is and how strongly it interacts with the fibre.</p>\n<h2 id=\"bleaching\">Bleaching has a narrower role</h2><p>Bleaching systems are used for compatible soils where an oxidising or other approved bleaching action is useful. Bleach does not remove every soil class and should not replace ordinary washing steps that remove grease, particles or soluble residue.</p>\n<h2 id=\"compatibility\">Textile compatibility comes first</h2><p>CDC notes that chlorine bleach is not appropriate for all fabrics. Fibre type, dyes, finishes and special textile properties can limit which bleaching system is suitable.</p>\n<h2 id=\"sequence\">Cleaning and bleaching can be separate decisions</h2><p>In a controlled laundry process, general soil removal and stain-specific treatment may occur at different stages. A remaining coloured mark after cleaning does not automatically mean the entire item needs stronger chemistry.</p>\n<h2 id=\"damage\">Not every mark is removable soil</h2><p>Discolouration can also result from dye loss, chemical damage, heat, wear or permanent fibre change. Bleaching cannot restore colour or material that has already been damaged.</p>\n<h2 id=\"decision\">A safer decision framework</h2><p>Identify the soil, confirm textile compatibility, follow the approved product and care information, and evaluate the result before escalating treatment. Never mix cleaning chemicals unless the product instructions specifically direct a compatible system.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Stain removal is the overall objective; bleaching is only one possible method inside that objective. Match the method to both the soil and the fabric.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/20720378/\">PubMed — Evaluation of Detergency Using Artificially Soiled Multifiber Fabrics</a>.</li></ol>",
+  "seo_title": "Bleaching vs Stain Removal: Key Differences | Alle's ClinX",
+  "meta_description": "Understand the difference between stain removal and bleaching, including soil type, textile compatibility, process sequence and permanent fabric damage.",
+  "related_article_ids": [
+    "ACX-KB-0108",
+    "ACX-KB-0109",
+    "ACX-KB-0110"
+  ]
+}

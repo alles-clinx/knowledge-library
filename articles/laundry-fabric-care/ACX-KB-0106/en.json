@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0106",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Powder vs Liquid Laundry Detergent: What Changes?",
+  "slug": "powder-vs-liquid-laundry-detergent-what-changes",
+  "subcategory": "Laundry Detergents",
+  "subcategory_slug": "laundry-detergents",
+  "excerpt": "Powder and liquid laundry detergents can use different ingredient systems and handling formats. Performance depends more on the formulation, dose, water conditions and wash process than on physical form alone.",
+  "content_html": "<p>Powder and liquid laundry detergents are two delivery formats for a cleaning formulation. The physical form changes how ingredients are packaged, dosed and dispersed, but it does not by itself determine which product will clean better.</p>\n<h2 id=\"formulation\">Formulation can differ</h2><p>Detergents combine functional ingredients such as surfactants, water-conditioning agents, enzymes and other auxiliaries. The balance of those ingredients can differ between powder and liquid products, so two products in different formats should not be assumed to have the same chemistry.</p>\n<h2 id=\"dissolution\">Dispersion and dissolution</h2><p>Liquid products are already in a fluid carrier, while powders must disperse and dissolve during the wash. Water temperature, hardness, wash time and machine conditions can therefore influence how quickly a powder becomes fully available in the wash liquor.</p>\n<h2 id=\"concentration\">Concentration and dose</h2><p>Physical form does not reliably indicate product strength. Some powders are concentrated; some liquids are concentrated; others are not. Use the approved product directions rather than judging dose by appearance or consistency.</p>\n<h2 id=\"water\">Water conditions matter</h2><p>Hardness minerals can interfere with detergent performance. Builders, chelants or other water-conditioning ingredients may be used to manage those effects, and the suitability of the overall formulation matters more than whether the product is powder or liquid.</p>\n<h2 id=\"residue\">Residue is a process signal</h2><p>Visible powder, film or detergent residue can indicate incomplete dissolution, excessive product, poor rinsing, overloading or another process problem. The correct response is to investigate the whole wash process rather than automatically switching format.</p>\n<h2 id=\"selection\">How to compare products</h2><p>Compare the approved application, textile compatibility, water conditions, dosing system, machine requirements, safety information and expected wash performance. Format is one factor, not the final decision.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Powder versus liquid is mainly a formulation and delivery difference. Cleaning performance still depends on the complete detergent system and on correct washing conditions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/17898499/\">PubMed — Laundry Detergents: An Overview</a>.</li></ol>",
+  "seo_title": "Powder vs Liquid Laundry Detergent | Alle's ClinX",
+  "meta_description": "Compare powder and liquid laundry detergent by formulation, dispersion, concentration, water conditions, residue risk and wash-process requirements.",
+  "related_article_ids": [
+    "ACX-KB-0104",
+    "ACX-KB-0105",
+    "ACX-KB-0102"
+  ]
+}

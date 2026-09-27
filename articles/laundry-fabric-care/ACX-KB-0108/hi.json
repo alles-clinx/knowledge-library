@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0108",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0108",
+  "title": "Oxygen bleach vs chlorine bleach: मुख्य अंतर",
+  "slug": "oxygen-bleach-vs-chlorine-bleach",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "Oxygen-based और chlorine-based laundry bleaches अलग chemical systems हैं जिनकी fabric, colour और process compatibility अलग होती है। इन्हें interchangeable नहीं मानना चाहिए।",
+  "content_html": "<p>Oxygen-based और chlorine-based bleaches अलग laundry chemistry systems हैं। दोनों suitable applications में bleaching action दे सकती हैं, लेकिन reactivity, fabric compatibility और process requirements अलग होती हैं।</p>\n<h2 id=\"hi108-chlorine\">Chlorine-based bleach</h2><p>CDC chlorine bleach को effective laundry germicide बताता है जो laundering enhance कर सकती है, साथ ही यह भी note करता है कि यह सभी fabrics के लिए appropriate नहीं है।</p>\n<h2 id=\"hi108-oxygen\">Oxygen-based bleach</h2><p>CDC activated oxygen-based laundry products को chlorine alternatives के रूप में identify करता है जो appropriate systems में fabric/colour-safety advantages दे सकती हैं। Performance specific product/process पर depend करती है।</p>\n<h2 id=\"hi108-interchangeable\">Interchangeable नहीं हैं</h2><p>दोनों systems अलग chemistry use करती हैं। केवल “bleach” नाम common होने से उन्हें substitute नहीं करना चाहिए। Specific product और textile-care requirements follow करें।</p>\n<h2 id=\"hi108-fabric\">Fabric और colour compatibility</h2><p>Fibre type, dye stability, finishes और intended textile properties bleach compatibility affect करते हैं। White cotton के लिए suitable product दूसरे coloured/specially finished textile पर suitable नहीं हो सकती।</p>\n<h2 id=\"hi108-safety\">Safety boundary</h2><p>Approved laundry process और product directions ही use करें। Different bleaching/cleaning products को combine न करें जब तक manufacturer compatible system explicitly specify न करे।</p>\n<h2 id=\"hi108-selection\">Selection कैसे करें</h2><p>Textile requirement, stain/hygiene objective, approved product system और machine program से start करें। “Bleach” नाम अकेले safe process decision के लिए enough information नहीं है।</p>\n<h2 id=\"hi108-takeaway\">Practical takeaway</h2><p>Oxygen और chlorine bleaches अलग tools हैं। Documented compatibility और process need से choose करें, stronger reactivity को automatically better performance न मानें।</p>\n<h2 id=\"hi108-references\">संदर्भ</h2><ol><li id=\"hi108-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"hi108-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Oxygen vs Chlorine Laundry Bleach | Alle's ClinX",
+  "meta_description": "Oxygen और chlorine laundry bleach को chemistry, fabric/colour compatibility, process role और safe selection से compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0107",
+    "ACX-KB-0109",
+    "ACX-KB-0110"
+  ]
+}

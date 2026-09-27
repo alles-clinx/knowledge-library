@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0108",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Oxygen Bleach vs Chlorine Bleach: Key Differences",
+  "slug": "oxygen-bleach-vs-chlorine-bleach",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "Oxygen-based and chlorine-based laundry bleaches are different chemical systems with different fabric, colour and process compatibility. Neither should be treated as interchangeable.",
+  "content_html": "<p>Oxygen-based and chlorine-based bleaches are different laundry chemistry systems. Both can provide bleaching action in suitable applications, but they differ in reactivity, fabric compatibility and the conditions under which they are appropriate.</p>\n<h2 id=\"chlorine\">Chlorine-based bleach</h2><p>CDC describes chlorine bleach as an effective laundry germicide that can enhance laundering, while also noting that it is not appropriate for all fabrics. Some dyes, finishes and special textile properties may be damaged by incompatible chlorine treatment.</p>\n<h2 id=\"oxygen\">Oxygen-based bleach</h2><p>CDC identifies activated oxygen-based laundry products as chlorine alternatives that can offer fabric and colour-safety advantages in appropriate systems. Their performance and compatibility still depend on the specific product and wash conditions.</p>\n<h2 id=\"not-interchangeable\">They are not interchangeable</h2><p>The two systems use different chemistry and should not be substituted simply because both are called bleach. Follow the approved product information and textile-care requirements for the specific process.</p>\n<h2 id=\"fabric-colour\">Fabric and colour compatibility</h2><p>Fibre type, dye stability, finishes and intended textile properties can all affect bleach compatibility. A product suitable for white cotton may not be suitable for another coloured or specially finished textile.</p>\n<h2 id=\"safety\">Safety boundary</h2><p>Use only an approved laundry process and product directions. Do not combine different bleaching or cleaning products unless the manufacturer explicitly specifies a compatible system.</p>\n<h2 id=\"selection\">How to select</h2><p>Start with the textile requirement, the stain or hygiene objective, the approved product system and the machine program. The name “bleach” alone is not enough information for a safe process decision.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Oxygen and chlorine bleaches are different tools. Choose by documented compatibility and process need, not by assuming that stronger reactivity means better laundry performance.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Oxygen Bleach vs Chlorine Bleach | Alle's ClinX",
+  "meta_description": "Compare oxygen and chlorine laundry bleach by chemistry, fabric and colour compatibility, process role and safe product selection.",
+  "related_article_ids": [
+    "ACX-KB-0107",
+    "ACX-KB-0109",
+    "ACX-KB-0110"
+  ]
+}

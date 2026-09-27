@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0107",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0107",
+  "title": "Bleaching vs stain removal: मुख्य अंतर",
+  "slug": "bleaching-vs-stain-removal",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "Stain removal fabric से unwanted soil हटाने या कम करने का broader task है। Bleaching कुछ compatible stains/textiles के लिए possible treatment है, universal cleaning substitute नहीं।",
+  "content_html": "<p>Stain removal और bleaching related लेकिन अलग tasks हैं। Stain removal textile से unwanted soil reduce/remove करना है। Bleaching कुछ compatible coloured stain compounds को change करने वाला possible chemistry step है।</p>\n<h2 id=\"hi107-stain\">Stain removal broader है</h2><p>Stain में oil, protein, pigment, minerals, particulate soil या mixture हो सकता है। Best treatment soil type और fibre interaction पर depend करती है।</p>\n<h2 id=\"hi107-bleach\">Bleaching की role narrower है</h2><p>Bleaching systems compatible soils के लिए use होती हैं जहाँ approved bleaching action useful हो। Bleach every soil class remove नहीं करती और ordinary washing का substitute नहीं है।</p>\n<h2 id=\"hi107-compatibility\">Textile compatibility पहले</h2><p>CDC note करता है कि chlorine bleach सभी fabrics के लिए appropriate नहीं है। Fibre type, dyes, finishes और special textile properties suitable bleaching system limit कर सकते हैं।</p>\n<h2 id=\"hi107-sequence\">Cleaning और bleaching अलग decisions हो सकते हैं</h2><p>Controlled laundry process में general soil removal और stain-specific treatment अलग stages पर हो सकते हैं। Cleaning के बाद coloured mark remaining हो तो stronger chemistry automatically required नहीं है।</p>\n<h2 id=\"hi107-damage\">हर mark removable soil नहीं है</h2><p>Discolouration dye loss, chemical damage, heat, wear या permanent fibre change से भी हो सकती है। Bleaching already damaged colour/material restore नहीं कर सकती।</p>\n<h2 id=\"hi107-decision\">Safer decision framework</h2><p>Soil identify करें, textile compatibility confirm करें, approved product/care information follow करें और treatment escalate करने से पहले result evaluate करें। Cleaning chemicals को mix न करें जब तक product directions compatible system explicitly न बताएं।</p>\n<h2 id=\"hi107-takeaway\">Practical takeaway</h2><p>Stain removal overall objective है; bleaching उसके अंदर केवल एक possible method है। Method को soil और fabric दोनों से match करें।</p>\n<h2 id=\"hi107-references\">संदर्भ</h2><ol><li id=\"hi107-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li id=\"hi107-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi107-ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/20720378/\">PubMed — Evaluation of Detergency Using Artificially Soiled Multifiber Fabrics</a>.</li></ol>",
+  "seo_title": "Bleaching vs Stain Removal | Alle's ClinX",
+  "meta_description": "Stain removal और bleaching में soil type, textile compatibility, process sequence और permanent fabric damage के key differences समझें।",
+  "related_article_ids": [
+    "ACX-KB-0108",
+    "ACX-KB-0109",
+    "ACX-KB-0110"
+  ]
+}

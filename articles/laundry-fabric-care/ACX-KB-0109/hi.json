@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0109",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0109",
+  "title": "कुछ stains समय के साथ harder to remove क्यों हो जाती हैं",
+  "slug": "why-some-stains-become-harder-to-remove-over-time",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "कुछ stains drying, fibre penetration, oxidation, stronger fibre binding, heat या previous cleaning attempts के कारण समय के साथ harder to remove हो सकती हैं।",
+  "content_html": "<p>Fresh और aged stains अलग behave कर सकती हैं। Time के साथ stain dry हो सकती है, textile में deeper move कर सकती है, air से react कर सकती है, fibre से stronger bind हो सकती है या heat/earlier cleaning से change हो सकती है।</p>\n<h2 id=\"hi109-drying\">Drying deposit बदलती है</h2><p>Fresh spill से water evaporate हो सकती है जबकि pigments, oils, proteins या dissolved solids remain करते हैं। Remaining material fresh stain से ज्यादा concentrated और less mobile हो सकता है।</p>\n<h2 id=\"hi109-affinity\">Soil fibre से stronger interact कर सकती है</h2><p>Textile detergency studies दिखाती हैं कि removal contaminant और fibre दोनों पर strongly depend करती है। कुछ soils particular fibres के लिए greater affinity रखती हैं।</p>\n<h2 id=\"hi109-oxidation\">Air और oxidation कुछ stains बदल सकते हैं</h2><p>कुछ organic stains age होने पर chemically change करती हैं। Colour deepen हो सकता है या deposit less soluble बन सकती है।</p>\n<h2 id=\"hi109-heat\">Heat कुछ stains को अधिक persistent बना सकती है</h2><p>Drying या other heat exposure कुछ soils/fibres change कर सकती है। Stain identity uncertain हो तो more heat को automatically better removal न मानें।</p>\n<h2 id=\"hi109-previous\">Previous treatment stain बदल सकती है</h2><p>Unsuitable cleaner या incompatible process colour spread, dye damage, residue या stain chemistry change कर सकती है। Remaining mark original soil और textile change का mixture हो सकती है।</p>\n<h2 id=\"hi109-diagnosis\">Repeat करने से पहले diagnose करें</h2><p>Likely soil identify करें, previous treatment review करें, textile compatibility check करें और approved stain-removal method use करें। बिना diagnosis stronger chemistry repeat करने से damage बढ़ सकती है।</p>\n<h2 id=\"hi109-takeaway\">Practical takeaway</h2><p>Time easy-to-move deposit को strongly bound या chemically changed stain बना सकती है। Early identification और compatible treatment repeated escalation से बेहतर troubleshooting path देती है।</p>\n<h2 id=\"hi109-references\">संदर्भ</h2><ol><li id=\"hi109-ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/20720378/\">PubMed — Evaluation of Detergency Using Artificially Soiled Multifiber Fabrics</a>.</li><li id=\"hi109-ref-2\"><a href=\"https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-ink-ballpoint-felt-tip-india-mimeo-stamp-pad/\">University of Georgia Extension — Textile Stain Removal</a>.</li></ol>",
+  "seo_title": "Stains समय के साथ Harder क्यों होती हैं | Alle's ClinX",
+  "meta_description": "Drying, fibre penetration, oxidation, stronger binding, heat और previous treatment stains को harder to remove क्यों बना सकते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0107",
+    "ACX-KB-0108",
+    "ACX-KB-0110"
+  ]
+}

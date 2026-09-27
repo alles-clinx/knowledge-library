@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0110",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Stain Removal Depends on Fabric and Soil Type",
+  "slug": "why-stain-removal-depends-on-fabric-and-soil-type",
+  "subcategory": "Bleaching & Stain Removal",
+  "subcategory_slug": "bleaching-stain-removal",
+  "excerpt": "Stain removal depends on both sides of the problem: the chemistry and physical form of the soil, and the fibre, dye, finish and construction of the textile.",
+  "content_html": "<p>The same stain-removal method can succeed on one textile and fail on another. Cleaning depends on the interaction between the soil and the fabric, not just on the visible colour of the stain.</p>\n<h2 id=\"soil-classes\">Different soils behave differently</h2><p>Oil, protein, starch, pigment, minerals and particulate soil have different solubility and surface behaviour. A method that removes oily soil may do little for mineral deposit or strongly bound pigment.</p>\n<h2 id=\"fiber-type\">Fibre type changes soil affinity</h2><p>Research using multifibre fabrics found that detergency depends strongly on contaminant and fibre type. Cotton, polyester and other fibres do not interact with water, oils and particles in exactly the same way.</p>\n<h2 id=\"dyes-finishes\">Dyes and finishes add constraints</h2><p>Colourfastness, coatings, flame-retardant treatments, water-repellent finishes and other textile treatments can limit the chemistry, heat or mechanical action that is acceptable.</p>\n<h2 id=\"construction\">Construction matters too</h2><p>Dense weaves, pile, padding, seams and layered garments can trap soil or cleaning solution differently. A process that works on a flat swatch may require different handling on a finished item.</p>\n<h2 id=\"water-process\">Water and wash conditions interact with both</h2><p>Hardness, pH, time, temperature, mechanical action and rinsing influence whether loosened soil actually leaves the textile. Good stain treatment still depends on a functioning wash process.</p>\n<h2 id=\"compatibility\">Compatibility is part of cleaning performance</h2><p>A stain is not successfully removed if the process also damages the fibre, dye or finish. Always treat cleaning result and textile preservation as the same quality decision.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Identify both the soil and the textile before choosing a stain-removal approach. The best method is the one that removes the target soil while preserving the fabric.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/20720378/\">PubMed — Evaluation of Detergency Using Artificially Soiled Multifiber Fabrics</a>.</li><li id=\"ref-2\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/26782305/\">PubMed — Effects of Water Hardness on Textile Detergency Performance</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Why Stain Removal Depends on Fabric and Soil Type | Alle's ClinX",
+  "meta_description": "See why stain removal depends on soil chemistry, fibre type, dyes, finishes, textile construction, water quality and wash conditions.",
+  "related_article_ids": [
+    "ACX-KB-0107",
+    "ACX-KB-0108",
+    "ACX-KB-0109"
+  ]
+}
