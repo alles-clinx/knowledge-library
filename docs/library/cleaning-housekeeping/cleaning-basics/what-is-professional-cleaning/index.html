@@ -995,11 +995,7 @@ button,a{-webkit-tap-highlight-color:transparent}
   .source-note{
     line-height:1.45;
   }
-
-  .article{
-    --reading-size:16px;
-  }
-  .article h2{
+.article h2{
     font-size:28px;
   }
 
@@ -1577,6 +1573,7 @@ html:not(.acx-js) .mobile-tools{
      the browser-native shortcuts. Print is the exception: window.print()
      can legitimately open the native print dialog. */
   const isApple = /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent);
+  const isTouchDevice = window.matchMedia('(pointer: coarse)').matches;
   const shortcuts = {
     bookmark: isApple ? '⌘D' : 'Ctrl+D',
     save: isApple ? '⌘S' : 'Ctrl+S',
@@ -1598,9 +1595,9 @@ html:not(.acx-js) .mobile-tools{
       }
 
       if(action === 'bookmark'){
-        status('Press ' + shortcuts.bookmark + ' to bookmark this page in your browser.');
+        status(isTouchDevice ? 'Use your browser menu to bookmark this page.' : 'Press ' + shortcuts.bookmark + ' to bookmark this page in your browser.');
       }else if(action === 'save'){
-        status('Press ' + shortcuts.save + ' to save this page using your browser.');
+        status(isTouchDevice ? 'Use your browser Share or menu options to save this page.' : 'Press ' + shortcuts.save + ' to save this page using your browser.');
       }
 
       closePopovers();
@@ -1627,6 +1624,8 @@ html:not(.acx-js) .mobile-tools{
   function applySize(){
     root.style.setProperty('--reading-size', size + 'px');
     sizeReadouts.forEach(function(el){ el.textContent = size + 'px'; });
+    smallerButtons.forEach(function(btn){ btn.disabled = size <= 15; });
+    largerButtons.forEach(function(btn){ btn.disabled = size >= 21; });
     try{ localStorage.setItem(sizeKey, String(size)); }catch(error){}
   }
 
