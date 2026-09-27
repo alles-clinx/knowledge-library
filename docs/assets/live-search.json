@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 268,
+  "record_count": 278,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2950,6 +2950,116 @@
       "subcategory_slug": "surface-disinfection",
       "excerpt": "Visible soil, damage, porosity, residue और incompatibility uniform coverage prevent, microorganisms protect या disinfectant को material के लिए unsuitable बना सकते हैं।",
       "url": "library/disinfection-infection-prevention/surface-disinfection/why-surface-condition-matters-before-disinfection/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0135",
+      "locale": "en",
+      "title": "What Does a Visibly Wet Surface Mean in Disinfection?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Surface Disinfection",
+      "subcategory_slug": "surface-disinfection",
+      "excerpt": "A visibly wet surface means enough disinfectant remains on the treated area to keep it wet for the full labeled contact time. If it dries too early, the required exposure may not be achieved.",
+      "url": "library/disinfection-infection-prevention/surface-disinfection/what-does-a-visibly-wet-surface-mean-in-disinfection/"
+    },
+    {
+      "article_id": "ACX-KB-0135",
+      "locale": "hi-IN",
+      "title": "Disinfection में visibly wet surface का क्या मतलब है?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Surface Disinfection",
+      "subcategory_slug": "surface-disinfection",
+      "excerpt": "Visibly wet surface का मतलब है कि treated area पर इतना disinfectant रहे कि वह full labeled contact time तक wet दिखे। जल्दी dry होने पर required exposure नहीं मिल सकती।",
+      "url": "library/disinfection-infection-prevention/surface-disinfection/what-does-a-visibly-wet-surface-mean-in-disinfection/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0136",
+      "locale": "en",
+      "title": "When Is Floor Disinfection Considered?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Floor Disinfection",
+      "subcategory_slug": "floor-disinfection",
+      "excerpt": "Routine floors are usually low-touch and often need cleaning rather than disinfection, but disinfection may be considered after blood or body-fluid contamination, in higher-risk healthcare situations, or when facility protocols require it.",
+      "url": "library/disinfection-infection-prevention/floor-disinfection/when-is-floor-disinfection-considered/"
+    },
+    {
+      "article_id": "ACX-KB-0136",
+      "locale": "hi-IN",
+      "title": "Floor disinfection कब consider की जाती है?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Floor Disinfection",
+      "subcategory_slug": "floor-disinfection",
+      "excerpt": "Routine floors usually low-touch होती हैं और अक्सर cleaning पर्याप्त होती है; blood/body-fluid contamination, higher-risk healthcare situations या facility protocol में disinfection consider की जा सकती है।",
+      "url": "library/disinfection-infection-prevention/floor-disinfection/when-is-floor-disinfection-considered/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0137",
+      "locale": "en",
+      "title": "Floor Cleaning vs Floor Disinfection",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Floor Disinfection",
+      "subcategory_slug": "floor-disinfection",
+      "excerpt": "Floor cleaning removes soil and debris; floor disinfection adds a microbial-control step where risk or protocol requires it. Because floors are usually low-touch surfaces, routine disinfection is not always necessary.",
+      "url": "library/disinfection-infection-prevention/floor-disinfection/floor-cleaning-vs-floor-disinfection/"
+    },
+    {
+      "article_id": "ACX-KB-0137",
+      "locale": "hi-IN",
+      "title": "Floor cleaning vs floor disinfection",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Floor Disinfection",
+      "subcategory_slug": "floor-disinfection",
+      "excerpt": "Floor cleaning soil/debris remove करती है; floor disinfection risk/protocol के अनुसार microbial-control step add करती है। Floors usually low-touch surfaces हैं, इसलिए routine disinfection हमेशा जरूरी नहीं।",
+      "url": "library/disinfection-infection-prevention/floor-disinfection/floor-cleaning-vs-floor-disinfection/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0138",
+      "locale": "en",
+      "title": "Why More Disinfectant Is Not Better for Floors",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Floor Disinfection",
+      "subcategory_slug": "floor-disinfection",
+      "excerpt": "Using more disinfectant than the label requires does not guarantee better floor disinfection and can increase residue, material damage, exposure and slip risk while still failing to correct poor cleaning or short contact time.",
+      "url": "library/disinfection-infection-prevention/floor-disinfection/more-disinfectant-not-better-for-floors/"
+    },
+    {
+      "article_id": "ACX-KB-0138",
+      "locale": "hi-IN",
+      "title": "Floors पर more disinfectant better क्यों नहीं है",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Floor Disinfection",
+      "subcategory_slug": "floor-disinfection",
+      "excerpt": "Label से ज्यादा disinfectant use करना better floor disinfection guarantee नहीं करता और residue, material damage, exposure तथा slip risk बढ़ा सकता है।",
+      "url": "library/disinfection-infection-prevention/floor-disinfection/more-disinfectant-not-better-for-floors/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0139",
+      "locale": "en",
+      "title": "How Disinfectant Chemistry Relates to Application",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "Disinfectant chemistry influences what organisms a product can claim against, what surfaces it suits, how long it must remain wet, how stable it is, and what safety or material-compatibility limits apply.",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/how-disinfectant-chemistry-relates-to-application/"
+    },
+    {
+      "article_id": "ACX-KB-0139",
+      "locale": "hi-IN",
+      "title": "Disinfectant chemistry application से कैसे relate करती है",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "Disinfectant chemistry organism claims, surface suitability, wet contact time, stability और safety/material-compatibility limits influence करती है।",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/how-disinfectant-chemistry-relates-to-application/hi.html"
     }
   ]
 }
