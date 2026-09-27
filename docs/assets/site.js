@@ -2,13 +2,13 @@
   document.querySelectorAll('link[rel~="icon"],link[rel="shortcut icon"],link[rel="apple-touch-icon"],link[rel="mask-icon"]').forEach(function(el){el.remove();});
   const siteIcon=document.createElement('link');
   siteIcon.rel='icon';
-  siteIcon.type='image/svg+xml';
-  siteIcon.href='/knowledge-library/assets/favicon.svg?v=20260927-2';
+  siteIcon.type='image/png';
+  siteIcon.href='/knowledge-library/assets/favicon.png?v=20260927-3';
   document.head.appendChild(siteIcon);
 
   const shortcutIcon=document.createElement('link');
   shortcutIcon.rel='shortcut icon';
-  shortcutIcon.href='/knowledge-library/assets/favicon.svg?v=20260927-2';
+  shortcutIcon.href='/knowledge-library/assets/favicon.png?v=20260927-3';
   document.head.appendChild(shortcutIcon);
 
   if(window.__ACX_SITE_SHELL__) return;
