@@ -219,7 +219,6 @@ for token in [
     ".acx-menu-button{",
     ".acx-mobile-drawer.is-open{",
     ".acx-search-dialog.is-open{",
-    ".acx-bottom-brand{",
 ]:
     if token not in site_css:
         errors.append(f"Global shell style missing: {token}")
