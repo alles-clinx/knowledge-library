@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 220,
+  "record_count": 230,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2422,6 +2422,116 @@
       "subcategory_slug": "bleaching-stain-removal",
       "excerpt": "Stain removal problem के दोनों sides पर depend करती है: soil की chemistry/physical form और textile की fibre, dye, finish तथा construction।",
       "url": "library/laundry-fabric-care/bleaching-stain-removal/why-stain-removal-depends-on-fabric-and-soil-type/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0111",
+      "locale": "en",
+      "title": "What Does Fabric Softener Do?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Softening",
+      "subcategory_slug": "fabric-softening",
+      "excerpt": "Fabric softener is a finishing product intended to modify textile feel and handling after washing. Depending on the formulation, it can reduce static and change surface friction, but it is not a cleaning substitute.",
+      "url": "library/laundry-fabric-care/fabric-softening/what-does-fabric-softener-do/"
+    },
+    {
+      "article_id": "ACX-KB-0111",
+      "locale": "hi-IN",
+      "title": "Fabric softener क्या करती है?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Softening",
+      "subcategory_slug": "fabric-softening",
+      "excerpt": "Fabric softener washing के बाद textile feel और handling modify करने वाली finishing product है। Formulation के अनुसार यह static कम कर सकती है और surface friction बदल सकती है, लेकिन cleaning substitute नहीं है।",
+      "url": "library/laundry-fabric-care/fabric-softening/what-does-fabric-softener-do/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0112",
+      "locale": "en",
+      "title": "Why Fabric Softener Can Change Textile Feel",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Softening",
+      "subcategory_slug": "fabric-softening",
+      "excerpt": "Fabric softener can change textile feel because conditioning ingredients alter surface friction, fibre movement and static. The result depends on fibre type, formulation, dose and repeated use.",
+      "url": "library/laundry-fabric-care/fabric-softening/why-fabric-softener-can-change-textile-feel/"
+    },
+    {
+      "article_id": "ACX-KB-0112",
+      "locale": "hi-IN",
+      "title": "Fabric softener textile feel क्यों बदल सकती है",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Softening",
+      "subcategory_slug": "fabric-softening",
+      "excerpt": "Fabric softener conditioning ingredients surface friction, fibre movement और static बदल सकती हैं। Result fibre type, formulation, dose और repeated use पर depend करता है।",
+      "url": "library/laundry-fabric-care/fabric-softening/why-fabric-softener-can-change-textile-feel/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0113",
+      "locale": "en",
+      "title": "Fabric Softening vs Fabric Conditioning",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Softening",
+      "subcategory_slug": "fabric-softening",
+      "excerpt": "Fabric softening describes the sensory result of making a textile feel less harsh, while fabric conditioning is the broader finishing process that may also address static, handling or other surface properties.",
+      "url": "library/laundry-fabric-care/fabric-softening/fabric-softening-vs-fabric-conditioning/"
+    },
+    {
+      "article_id": "ACX-KB-0113",
+      "locale": "hi-IN",
+      "title": "Fabric softening vs fabric conditioning",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Softening",
+      "subcategory_slug": "fabric-softening",
+      "excerpt": "Fabric softening textile को less harsh feel कराने वाला sensory result है, जबकि fabric conditioning broader finishing process है जो static, handling और other surface properties भी affect कर सकती है।",
+      "url": "library/laundry-fabric-care/fabric-softening/fabric-softening-vs-fabric-conditioning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0114",
+      "locale": "en",
+      "title": "What Makes a Fabric Delicate?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Delicate Fabrics",
+      "subcategory_slug": "delicate-fabrics",
+      "excerpt": "A fabric can be delicate because of its fibre, yarn, knit or weave, dye, finish, decoration or garment construction. Delicate care is therefore a compatibility decision, not a single fibre category.",
+      "url": "library/laundry-fabric-care/delicate-fabrics/what-makes-a-fabric-delicate/"
+    },
+    {
+      "article_id": "ACX-KB-0114",
+      "locale": "hi-IN",
+      "title": "किस चीज़ से fabric delicate बनती है?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Delicate Fabrics",
+      "subcategory_slug": "delicate-fabrics",
+      "excerpt": "Fabric fibre, yarn, knit/weave, dye, finish, decoration या garment construction के कारण delicate हो सकती है। Delicate care एक compatibility decision है, single fibre category नहीं।",
+      "url": "library/laundry-fabric-care/delicate-fabrics/what-makes-a-fabric-delicate/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0115",
+      "locale": "en",
+      "title": "Why Wool and Delicate Fabrics Need Different Care",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Delicate Fabrics",
+      "subcategory_slug": "delicate-fabrics",
+      "excerpt": "Wool and other delicate textiles may need different care because fibre response, fabric construction, dyes, finishes and shape retention can all limit ordinary wash, agitation and drying conditions.",
+      "url": "library/laundry-fabric-care/delicate-fabrics/why-wool-and-delicate-fabrics-need-different-care/"
+    },
+    {
+      "article_id": "ACX-KB-0115",
+      "locale": "hi-IN",
+      "title": "Wool और delicate fabrics को different care क्यों चाहिए",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Delicate Fabrics",
+      "subcategory_slug": "delicate-fabrics",
+      "excerpt": "Wool और other delicate textiles को fibre response, construction, dyes, finishes और shape retention के कारण ordinary wash, agitation और drying से different care चाहिए हो सकती है।",
+      "url": "library/laundry-fabric-care/delicate-fabrics/why-wool-and-delicate-fabrics-need-different-care/hi.html"
     }
   ]
 }
