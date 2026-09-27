@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0148",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Environmental Cleaning and Infection Prevention",
+  "slug": "environmental-cleaning-infection-prevention",
+  "subcategory": "Infection Prevention Workflows",
+  "subcategory_slug": "infection-prevention-workflows",
+  "excerpt": "Environmental cleaning supports infection prevention by removing contamination from surfaces, reducing opportunities for indirect transmission and creating a controlled environment for patient care.",
+  "content_html": "<p>Environmental cleaning is one part of infection prevention and control. It reduces environmental contamination and helps interrupt routes by which microorganisms can move from surfaces to hands, equipment and people.</p>\n<h2 id=\"environment\">The environment can become contaminated</h2><p>Patient-care surfaces can acquire microorganisms from people, body fluids, hands, equipment and surrounding activity. Contaminated high-touch surfaces can then become part of an indirect transmission pathway.</p>\n<h2 id=\"cleaning\">Cleaning reduces the contamination burden</h2><p>Cleaning physically removes soil and microorganisms from surfaces. Where risk requires it, disinfection adds a further microbial-control step after proper soil removal.</p>\n<h2 id=\"high-touch\">High-touch surfaces receive more attention</h2><p>CDC recommends more frequent cleaning and disinfection of surfaces close to patients and surfaces that are frequently touched compared with other environmental surfaces.</p>\n<h2 id=\"spills\">Spills need prompt control</h2><p>Blood and other potentially infectious material should be cleaned and decontaminated promptly according to the facility's procedure.</p>\n<h2 id=\"program\">A reliable program needs systems</h2><p>Effective environmental cleaning depends on written procedures, assigned responsibilities, trained staff, appropriate supplies, supervision and monitoring—not only on choosing a chemical product.</p>\n<h2 id=\"risk\">Frequency should reflect risk</h2><p>Cleaning schedules should consider contamination likelihood, patient vulnerability and exposure potential. Higher-risk areas need more rigorous or frequent processes.</p>\n<h2 id=\"team\">Environmental cleaning is part of the wider IPC team</h2><p>Cleaning personnel, clinical teams, IPC staff and facility leadership all contribute to maintaining a safe care environment. Communication between these groups is essential.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Environmental cleaning supports infection prevention by reducing contamination and controlling surface-mediated exposure. Its effectiveness depends on a complete program, not a single task.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/index.html\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "Environmental Cleaning and Infection Prevention | Alle's ClinX",
+  "meta_description": "Learn how environmental cleaning reduces contamination, supports infection prevention and depends on risk-based schedules, clear roles, training and monitoring.",
+  "related_article_ids": [
+    "ACX-KB-0146",
+    "ACX-KB-0147",
+    "ACX-KB-0149"
+  ]
+}

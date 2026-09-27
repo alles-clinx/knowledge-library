@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0146",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0146",
+  "title": "Infection prevention के लिए area high risk कब होती है?",
+  "slug": "what-makes-an-area-high-risk-for-infection-prevention",
+  "subcategory": "High-Risk Areas",
+  "subcategory_slug": "high-risk-areas",
+  "excerpt": "Area higher risk तब होती है जब contamination की probability ज्यादा हो, users infection के प्रति अधिक vulnerable हों, या contaminated high-touch surfaces/procedures से exposure अधिक हो।",
+  "content_html": "<p>“High risk” केवल room label नहीं है। Environmental infection prevention में risk contamination, patient vulnerability और exposure opportunities के interaction से बनती है।</p>\n<h2 id=\"hi146-contamination\">Contamination probability</h2><p>जहाँ blood, body fluids, secretions, waste या frequent patient contact की likelihood अधिक हो, वहाँ generally more rigorous cleaning चाहिए।</p>\n<h2 id=\"hi146-vulnerability\">Area users की vulnerability</h2><p>Weakened defenses, major wounds, invasive devices या procedures वाले patients infection के प्रति अधिक susceptible हो सकते हैं।</p>\n<h2 id=\"hi146-exposure\">Exposure potential</h2><p>Frequently touched surfaces hands के through contamination transfer के अधिक opportunities बनाती हैं, इसलिए high-touch points higher priority होती हैं।</p>\n<h2 id=\"hi146-procedures\">Procedures risk बढ़ा सकते हैं</h2><p>Operating/procedure rooms जैसे areas invasive care और patient vulnerability के कारण more rigorous cleaning require कर सकते हैं।</p>\n<h2 id=\"hi146-throughput\">High throughput pressure बढ़ाती है</h2><p>Emergency और fast-turnover areas में frequent patient changes और variable contamination हो सकती है, इसलिए clear between-case routines important हैं।</p>\n<h2 id=\"hi146-risk\">Risk method/frequency तय करती है</h2><p>CDC contamination probability, patient vulnerability और exposure potential से environmental-cleaning risk determine करने की guidance देता है।</p>\n<h2 id=\"hi146-takeaway\">Practical takeaway</h2><p>High-risk classification structured risk assessment से आए। Contamination, vulnerability और exposure जितनी high हों, cleaning process उतनी rigorous और controlled हो।</p>\n<h2 id=\"hi146-references\">संदर्भ</h2><ol><li id=\"hi146-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi146-ref-2\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "High-Risk Areas for Infection Prevention | Alle's ClinX",
+  "meta_description": "Contamination probability, patient vulnerability और exposure potential से high-risk environmental-cleaning areas कैसे identify होते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0147",
+    "ACX-KB-0148",
+    "ACX-KB-0133"
+  ]
+}

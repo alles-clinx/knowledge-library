@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0149",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning and Clinical Team Responsibilities",
+  "slug": "cleaning-clinical-team-responsibilities",
+  "subcategory": "Infection Prevention Workflows",
+  "subcategory_slug": "infection-prevention-workflows",
+  "excerpt": "Cleaning and clinical teams need clearly divided responsibilities so environmental surfaces, patient-zone items, shared equipment and specialized devices are all covered without gaps or duplication.",
+  "content_html": "<p>Safe environmental cleaning depends on teamwork, but teamwork does not mean unclear ownership. Facilities should define which tasks belong to environmental cleaning staff, which belong to clinical staff and which require specialized reprocessing.</p>\n<h2 id=\"environmental\">Environmental cleaning team</h2><p>Environmental cleaning staff commonly manage floors, rooms, environmental surfaces and other housekeeping tasks according to written schedules and facility procedures.</p>\n<h2 id=\"clinical\">Clinical team</h2><p>Clinical staff may be responsible for certain patient-zone surfaces, portable equipment or between-procedure cleaning in specialized areas. Their exact duties should be stated in local SOPs.</p>\n<h2 id=\"equipment\">Shared equipment needs assigned ownership</h2><p>Portable and shared equipment can move between rooms and teams. The facility should specify who cleans it, when it is cleaned and what product or method is approved.</p>\n<h2 id=\"reprocessing\">Specialized device reprocessing is separate</h2><p>Critical and semi-critical medical devices require dedicated reprocessing procedures and competencies. These tasks should not be confused with routine environmental cleaning.</p>\n<h2 id=\"handoff\">Handoffs should be explicit</h2><p>At room turnover, between procedures or after spills, teams should know when responsibility transfers. Checklists can make completion visible.</p>\n<h2 id=\"communication\">Communication prevents gaps</h2><p>Changes in isolation status, contamination, equipment location or patient flow can change cleaning needs. Clinical and cleaning teams need a reliable way to communicate those changes.</p>\n<h2 id=\"oversight\">Leadership and IPC provide oversight</h2><p>Facility leadership and infection-prevention personnel should support SOP development, product selection, training, audits and resolution of unclear responsibilities.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>The goal is complete coverage without ambiguity. Every surface, item and cleaning event should have a defined owner, method and handoff point.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/index.html\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "Cleaning and Clinical Team Responsibilities | Alle's ClinX",
+  "meta_description": "Learn how facilities can divide environmental cleaning, clinical cleaning, shared-equipment and specialized reprocessing responsibilities without gaps.",
+  "related_article_ids": [
+    "ACX-KB-0147",
+    "ACX-KB-0148",
+    "ACX-KB-0146"
+  ]
+}

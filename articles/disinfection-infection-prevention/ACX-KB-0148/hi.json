@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0148",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0148",
+  "title": "Environmental cleaning और infection prevention",
+  "slug": "environmental-cleaning-infection-prevention",
+  "subcategory": "Infection Prevention Workflows",
+  "subcategory_slug": "infection-prevention-workflows",
+  "excerpt": "Environmental cleaning surfaces से contamination remove करके, indirect transmission opportunities reduce करके और controlled care environment support करके infection prevention में योगदान देती है।",
+  "content_html": "<p>Environmental cleaning infection prevention and control का एक हिस्सा है। यह surface contamination reduce करती है और microorganisms के surfaces से hands/equipment/people तक move होने के routes interrupt करने में मदद करती है।</p>\n<h2 id=\"hi148-environment\">Environment contaminate हो सकती है</h2><p>Patient-care surfaces people, body fluids, hands, equipment और surrounding activity से microorganisms acquire कर सकती हैं।</p>\n<h2 id=\"hi148-cleaning\">Cleaning contamination burden reduce करती है</h2><p>Cleaning soil और microorganisms physically remove करती है। Risk require करे तो proper soil removal के बाद disinfection additional microbial control देती है।</p>\n<h2 id=\"hi148-touch\">High-touch surfaces को more attention मिलती है</h2><p>CDC patient-near और frequently touched surfaces के more frequent cleaning/disinfection की recommendation देता है।</p>\n<h2 id=\"hi148-spills\">Spills prompt control मांगती हैं</h2><p>Blood और other potentially infectious material को facility procedure के अनुसार promptly clean/decontaminate करें।</p>\n<h2 id=\"hi148-program\">Reliable program को systems चाहिए</h2><p>Written procedures, assigned responsibilities, trained staff, supplies, supervision और monitoring effective environmental cleaning के लिए essential हैं।</p>\n<h2 id=\"hi148-risk\">Frequency risk reflect करे</h2><p>Schedules contamination likelihood, patient vulnerability और exposure potential consider करें। Higher-risk areas more rigorous/frequent processes require करती हैं।</p>\n<h2 id=\"hi148-team\">Environmental cleaning wider IPC team का हिस्सा है</h2><p>Cleaning personnel, clinical teams, IPC staff और facility leadership safe care environment में contribute करते हैं।</p>\n<h2 id=\"hi148-takeaway\">Practical takeaway</h2><p>Environmental cleaning contamination और surface-mediated exposure reduce करके infection prevention support करती है। Effectiveness complete program पर depend करती है।</p>\n<h2 id=\"hi148-references\">संदर्भ</h2><ol><li id=\"hi148-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/index.html\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi148-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi148-ref-3\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "Environmental Cleaning & Infection Prevention | Alle's ClinX",
+  "meta_description": "Environmental cleaning contamination, high-touch surfaces, risk-based schedules और IPC teamwork को कैसे support करती है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0146",
+    "ACX-KB-0147",
+    "ACX-KB-0149"
+  ]
+}

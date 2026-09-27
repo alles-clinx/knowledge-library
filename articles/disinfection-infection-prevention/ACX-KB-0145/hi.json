@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0145",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0145",
+  "title": "Contact time vs drying time: मुख्य अंतर",
+  "slug": "contact-time-vs-drying-time",
+  "subcategory": "Contact Time",
+  "subcategory_slug": "contact-time",
+  "excerpt": "Contact time labeled exposure period है; drying time surface को dry होने में लगने वाला physical time है। दोनों overlap कर सकते हैं, लेकिन same नहीं हैं।",
+  "content_html": "<p>Contact time और drying time अक्सर confuse होती हैं क्योंकि दोनों surface पर liquid के time से related हैं। Disinfection में इनका meaning अलग है।</p>\n<h2 id=\"hi145-contact\">Contact time validated exposure requirement है</h2><p>Contact time relevant antimicrobial claim के लिए product label द्वारा specified period है। इस दौरान treated surface generally label के अनुसार visibly wet रहनी चाहिए।</p>\n<h2 id=\"hi145-drying\">Drying time physical outcome है</h2><p>Drying time वह समय है जिसमें applied liquid evaporate होकर surface dry बनाती है। Temperature, airflow, texture, porosity और applied amount इसे change कर सकते हैं।</p>\n<h2 id=\"hi145-not-equal\">दोनों times automatically equal नहीं हैं</h2><p>Surface required contact time से पहले dry हो सकती है। तब labeled wet-contact condition पूरी नहीं हो सकती।</p>\n<h2 id=\"hi145-after\">Contact time पूरी होने के बाद भी surface wet रह सकती है</h2><p>Required contact time meet होने का मतलब यह नहीं कि उसी moment surface dry होगी। Post-contact handling label/facility procedure के अनुसार करें।</p>\n<h2 id=\"hi145-workflow\">Operationally difference क्यों matter करता है</h2><p>“Looks dry” को disinfection requirement complete होने का proof न मानें। Workflow में full coverage और full labeled contact period allow करें।</p>\n<h2 id=\"hi145-environment\">Drying conditions बदल सकती हैं, label नहीं</h2><p>Warm rooms, airflow और absorbent materials drying fast कर सकते हैं, लेकिन labeled contact-time requirement shorten नहीं होती।</p>\n<h2 id=\"hi145-takeaway\">Practical takeaway</h2><p>Contact time required disinfectant exposure है; drying time physical dryness का time है। Process को labeled contact time के अनुसार manage करें।</p>\n<h2 id=\"hi145-references\">संदर्भ</h2><ol><li id=\"hi145-ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"hi145-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li></ol>",
+  "seo_title": "Contact Time vs Drying Time | Alle's ClinX",
+  "meta_description": "Disinfection में contact time और drying time का difference, visible wetness और workflow implications समझें।",
+  "related_article_ids": [
+    "ACX-KB-0143",
+    "ACX-KB-0144",
+    "ACX-KB-0135"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0146",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Makes an Area High Risk for Infection Prevention?",
+  "slug": "what-makes-an-area-high-risk-for-infection-prevention",
+  "subcategory": "High-Risk Areas",
+  "subcategory_slug": "high-risk-areas",
+  "excerpt": "An area becomes higher risk when contamination is more likely, people using the area are more vulnerable to infection, or exposure to contaminated high-touch surfaces and procedures is more likely.",
+  "content_html": "<p>“High risk” is not simply a room label. In environmental infection prevention, risk comes from the interaction of contamination, patient vulnerability and opportunities for exposure.</p>\n<h2 id=\"contamination\">Probability of contamination</h2><p>Areas where blood, body fluids, secretions, waste or frequent patient contact are more likely generally require more rigorous environmental cleaning than areas with little contamination.</p>\n<h2 id=\"vulnerability\">Vulnerability of people in the area</h2><p>Patients with weakened defenses, major wounds, invasive devices or procedures can be more susceptible to infection. Their environment may therefore need tighter cleaning controls.</p>\n<h2 id=\"exposure\">Potential for exposure</h2><p>Frequently touched surfaces create more opportunities for hands to transfer contamination than low-touch surfaces. High-touch points near patient care are therefore often prioritised.</p>\n<h2 id=\"procedures\">Procedures can increase risk</h2><p>Operating rooms, procedure rooms and other areas where invasive care occurs can require more rigorous cleaning because of the consequences of contamination and the vulnerability of patients.</p>\n<h2 id=\"throughput\">High throughput can add pressure</h2><p>Emergency and other fast-turnover areas may see frequent patient changes, variable contamination and short turnaround times. Clear routines and defined between-case cleaning become important.</p>\n<h2 id=\"risk-based\">Risk determines method and frequency</h2><p>CDC environmental-cleaning guidance uses contamination probability, patient vulnerability and exposure potential to determine whether an area is low, moderate or high risk and how cleaning should be structured.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>High-risk classification should come from a structured risk assessment, not appearance alone. The higher the contamination, vulnerability and exposure potential, the more rigorous and clearly controlled the cleaning process should be.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "What Makes an Area High Risk for Infection Prevention? | Alle's ClinX",
+  "meta_description": "Learn how contamination probability, patient vulnerability and exposure potential determine whether an area needs higher-risk environmental cleaning controls.",
+  "related_article_ids": [
+    "ACX-KB-0147",
+    "ACX-KB-0148",
+    "ACX-KB-0133"
+  ]
+}

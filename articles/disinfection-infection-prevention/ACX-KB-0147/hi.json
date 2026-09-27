@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0147",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0147",
+  "title": "High-risk areas में cleaning responsibilities",
+  "slug": "cleaning-responsibilities-high-risk-areas",
+  "subcategory": "High-Risk Areas",
+  "subcategory_slug": "high-risk-areas",
+  "excerpt": "High-risk areas में cleaning responsibilities clearly assigned होनी चाहिए ताकि environmental services, clinical staff और reprocessing teams को exact surfaces/tasks ownership पता हो।",
+  "content_html": "<p>High-risk cleaning तब unreliable बनती है जब responsibility assigned होने के बजाय assumed हो। Specialized areas में multiple teams involved हो सकती हैं, इसलिए boundaries explicit होनी चाहिए।</p>\n<h2 id=\"hi147-define\">कौन क्या clean करेगा define करें</h2><p>हर surface/item के लिए responsible role identify करें—environmental surfaces, noncritical equipment, portable equipment और shared touch points सहित।</p>\n<h2 id=\"hi147-es\">Environmental services responsibilities</h2><p>Environmental-cleaning personnel generally floors, environmental surfaces और housekeeping tasks facility SOP/risk schedule के अनुसार manage करते हैं।</p>\n<h2 id=\"hi147-clinical\">Clinical team responsibilities</h2><p>Specialized/high-throughput areas में clinical staff patient-zone surfaces या equipment between uses clean कर सकती है। Responsibilities documented होनी चाहिए।</p>\n<h2 id=\"hi147-reprocessing\">Critical equipment separate workflow है</h2><p>Critical/semi-critical devices specialized reprocessing require करते हैं और ordinary environmental-cleaning tasks के रूप में treat नहीं होने चाहिए।</p>\n<h2 id=\"hi147-handoffs\">Handoffs control करें</h2><p>एक team के बाद दूसरी team शुरू हो तो remaining tasks की ownership clear हो। Checklists/SOPs gaps और duplication reduce करते हैं।</p>\n<h2 id=\"hi147-training\">Training assigned duties से match करें</h2><p>Staff को अपने scope के surfaces, products, PPE और procedures पर specific training मिले।</p>\n<h2 id=\"hi147-verification\">Supervision system verify करती है</h2><p>Audits, checklists और direct observation confirm कर सकते हैं कि correct team ने correct task required time पर complete किया।</p>\n<h2 id=\"hi147-takeaway\">Practical takeaway</h2><p>High-risk cleaning में explicit ownership जरूरी है। Clear roles, SOPs, training और verification chemistry जितने important हैं।</p>\n<h2 id=\"hi147-references\">संदर्भ</h2><ol><li id=\"hi147-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi147-ref-2\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "High-Risk Cleaning Responsibilities | Alle's ClinX",
+  "meta_description": "Environmental services, clinical teams और reprocessing workflows के बीच high-risk cleaning ownership कैसे define करें समझें।",
+  "related_article_ids": [
+    "ACX-KB-0146",
+    "ACX-KB-0149",
+    "ACX-KB-0148"
+  ]
+}

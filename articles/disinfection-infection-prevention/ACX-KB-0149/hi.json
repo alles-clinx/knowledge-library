@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0149",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0149",
+  "title": "Cleaning और clinical team responsibilities",
+  "slug": "cleaning-clinical-team-responsibilities",
+  "subcategory": "Infection Prevention Workflows",
+  "subcategory_slug": "infection-prevention-workflows",
+  "excerpt": "Cleaning और clinical teams की responsibilities clearly divided होनी चाहिए ताकि environmental surfaces, patient-zone items, shared equipment और specialized devices बिना gaps cover हों।",
+  "content_html": "<p>Safe environmental cleaning teamwork पर depend करती है, लेकिन teamwork का मतलब unclear ownership नहीं है। Facility को cleaning staff, clinical staff और specialized reprocessing की duties define करनी चाहिए।</p>\n<h2 id=\"hi149-environmental\">Environmental cleaning team</h2><p>Environmental-cleaning staff generally floors, rooms, environmental surfaces और housekeeping tasks written schedules/SOPs के अनुसार manage करती है।</p>\n<h2 id=\"hi149-clinical\">Clinical team</h2><p>Clinical staff कुछ patient-zone surfaces, portable equipment या between-procedure cleaning के लिए responsible हो सकती है। Exact duties local SOPs में documented हों।</p>\n<h2 id=\"hi149-equipment\">Shared equipment की ownership assign करें</h2><p>Portable/shared equipment rooms और teams के बीच move करती है। Define करें कौन clean करेगा, कब करेगा और कौनसा approved method use होगा।</p>\n<h2 id=\"hi149-reprocessing\">Specialized device reprocessing separate है</h2><p>Critical/semi-critical devices dedicated reprocessing procedures और competencies require करते हैं। इन्हें routine environmental cleaning से confuse न करें।</p>\n<h2 id=\"hi149-handoff\">Handoffs explicit हों</h2><p>Room turnover, procedures के बीच या spills के बाद responsibility transfer clear हो। Checklists completion visible बनाती हैं।</p>\n<h2 id=\"hi149-communication\">Communication gaps रोकती है</h2><p>Isolation status, contamination, equipment location या patient flow बदलने पर cleaning needs बदल सकती हैं। Reliable team communication जरूरी है।</p>\n<h2 id=\"hi149-oversight\">Leadership और IPC oversight दें</h2><p>Facility leadership और IPC personnel SOPs, product selection, training, audits और unclear responsibilities resolve करने में support दें।</p>\n<h2 id=\"hi149-takeaway\">Practical takeaway</h2><p>Goal complete coverage without ambiguity है। हर surface, item और cleaning event का defined owner, method और handoff point हो।</p>\n<h2 id=\"hi149-references\">संदर्भ</h2><ol><li id=\"hi149-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi149-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/index.html\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi149-ref-3\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "Cleaning and Clinical Team Responsibilities | Alle's ClinX",
+  "meta_description": "Environmental cleaning, clinical cleaning, shared-equipment और device-reprocessing responsibilities को clearly divide करने का framework समझें।",
+  "related_article_ids": [
+    "ACX-KB-0147",
+    "ACX-KB-0148",
+    "ACX-KB-0146"
+  ]
+}

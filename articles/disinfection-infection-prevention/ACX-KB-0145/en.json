@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0145",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Contact Time vs Drying Time: Key Differences",
+  "slug": "contact-time-vs-drying-time",
+  "subcategory": "Contact Time",
+  "subcategory_slug": "contact-time",
+  "excerpt": "Contact time is the labeled period a disinfectant must remain on a treated surface for the relevant claim; drying time is simply how long the surface takes to become dry. They can overlap, but they are not the same.",
+  "content_html": "<p>Contact time and drying time are often confused because both involve how long liquid remains on a surface. In disinfection, however, they describe different things.</p>\n<h2 id=\"contact-time\">Contact time is a validated exposure requirement</h2><p>Contact time is the period specified by the disinfectant label for the relevant antimicrobial claim. During that period, the treated surface generally needs to remain visibly wet according to the product directions.</p>\n<h2 id=\"drying-time\">Drying time is a physical outcome</h2><p>Drying time is how long the applied liquid takes to evaporate or otherwise leave the surface dry. It can change with temperature, airflow, surface texture, porosity and how much product was applied.</p>\n<h2 id=\"not-equal\">The two times are not automatically equal</h2><p>A surface might dry before the required contact time ends. In that case, the disinfectant may not have remained under the labeled wet-contact condition for long enough.</p>\n<h2 id=\"after-contact\">A surface can remain wet after contact time is met</h2><p>Meeting the required contact time does not necessarily mean the surface will be dry at that exact moment. Any post-contact handling should follow the product label and facility procedure.</p>\n<h2 id=\"workflow\">Why the distinction matters operationally</h2><p>Staff should not treat “looks dry” as proof that the disinfection requirement was met. The workflow must allow enough time for complete coverage and the full labeled contact period.</p>\n<h2 id=\"environment\">Drying conditions can change without changing the label</h2><p>Warm rooms, airflow and absorbent materials can speed drying, but they do not shorten the labeled contact-time requirement. The application method must still achieve the validated exposure.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Contact time is the required disinfectant exposure; drying time is the time to physical dryness. Always manage the process to the labeled contact-time requirement rather than assuming the two are identical.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li></ol>",
+  "seo_title": "Contact Time vs Drying Time: Key Differences | Alle's ClinX",
+  "meta_description": "Understand the difference between disinfectant contact time and drying time, why they are not interchangeable, and how workflow should follow the product label.",
+  "related_article_ids": [
+    "ACX-KB-0143",
+    "ACX-KB-0144",
+    "ACX-KB-0135"
+  ]
+}

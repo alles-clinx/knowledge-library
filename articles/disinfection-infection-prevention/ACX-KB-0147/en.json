@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0147",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Responsibilities in High-Risk Areas",
+  "slug": "cleaning-responsibilities-high-risk-areas",
+  "subcategory": "High-Risk Areas",
+  "subcategory_slug": "high-risk-areas",
+  "excerpt": "High-risk areas need clearly assigned cleaning responsibilities so environmental services, clinical staff and equipment reprocessing teams know exactly which surfaces, equipment and tasks belong to each role.",
+  "content_html": "<p>High-risk cleaning becomes unreliable when responsibility is assumed rather than assigned. Specialized areas often involve environmental services, clinical teams and separate reprocessing functions, so boundaries must be explicit.</p>\n<h2 id=\"define\">Define who cleans what</h2><p>Every surface and item should have an identified responsible role. This includes environmental surfaces, noncritical equipment, portable equipment and shared touch points.</p>\n<h2 id=\"environmental-services\">Environmental services responsibilities</h2><p>Environmental cleaning personnel commonly manage floors, environmental surfaces and other housekeeping tasks according to the facility's written procedures and risk schedule.</p>\n<h2 id=\"clinical\">Clinical team responsibilities</h2><p>In specialized or high-throughput areas, clinical staff may clean certain patient-zone surfaces or equipment between procedures or uses. These responsibilities should be documented rather than left informal.</p>\n<h2 id=\"reprocessing\">Critical equipment is a separate workflow</h2><p>Critical and semi-critical devices require specialized reprocessing and should not be treated as ordinary environmental-cleaning tasks. The facility should clearly distinguish environmental cleaning from device reprocessing.</p>\n<h2 id=\"handoffs\">Handoffs need control</h2><p>When one team finishes and another begins, responsibility for remaining tasks should be visible. Checklists and SOPs help prevent gaps, duplication and assumptions.</p>\n<h2 id=\"training\">Training should match assigned duties</h2><p>Staff should be trained for the specific surfaces, products, PPE and procedures in their assigned scope. High-risk areas should not depend on workers improvising unfamiliar tasks.</p>\n<h2 id=\"verification\">Supervision verifies the system</h2><p>Audits, checklists and direct observation can confirm that the right team completed the right task at the required time.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>High-risk cleaning needs explicit ownership. Clear role boundaries, written SOPs, training and verification are as important as the cleaning chemistry itself.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "Cleaning Responsibilities in High-Risk Areas | Alle's ClinX",
+  "meta_description": "Learn why high-risk areas need explicit cleaning ownership across environmental services, clinical teams and equipment reprocessing workflows.",
+  "related_article_ids": [
+    "ACX-KB-0146",
+    "ACX-KB-0149",
+    "ACX-KB-0148"
+  ]
+}
