@@ -37,8 +37,15 @@ This repository is the source library for the Alle's ClinX Knowledge project. Co
 ## Languages
 Only one language is displayed at a time in the website UI through a minimal language switch such as `English | हिन्दी`.
 
-## Open Knowledge
+## Licensing
+
+### Knowledge content
 Article content is released under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+### Repository code and tooling
+Software code, build scripts, workflow configuration and other code/tooling in this repository are licensed under the **Apache License 2.0**. See `LICENSE-CODE`.
+
+The Apache 2.0 license does not apply to Knowledge article content, Alle's ClinX trademarks, logos or brand assets.
 
 You may read, download, copy, share, adapt and reuse the article content, including commercially, provided appropriate attribution is given.
 
