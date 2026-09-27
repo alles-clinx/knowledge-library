@@ -30,6 +30,9 @@ try{
   await page.keyboard.press('Escape');
   await page.locator('.acx-menu-button').click();
   assert(await page.locator('#acx-mobile-drawer.is-open').isVisible(),'Desktop menu did not open');
+  await page.locator('#acx-mobile-drawer a').last().focus();
+  await page.keyboard.press('Tab');
+  assert(await page.locator('.acx-menu-button').evaluate(el=>el===document.activeElement),'Menu keyboard loop skipped Close');
   await page.keyboard.press('Escape');
   assert((await page.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Desktop menu did not close');
 
