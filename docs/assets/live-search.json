@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 240,
+  "record_count": 248,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2642,6 +2642,94 @@
       "subcategory_slug": "fabric-odour-control",
       "excerpt": "Persistent linen odour अक्सर repeating process problem दिखाती है: retained body soil, incomplete washing/rinsing, slow drying, damp storage, washer contamination या clean-linen recontamination।",
       "url": "library/laundry-fabric-care/fabric-odour-control/what-causes-persistent-odour-in-linen/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0121",
+      "locale": "en",
+      "title": "Fabric Deodorising vs Fabric Cleaning",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Odour Control",
+      "subcategory_slug": "fabric-odour-control",
+      "excerpt": "Fabric cleaning removes soil and residues from textiles, while deodorising targets unwanted smell. Deodorising can support odour control, but it does not replace removal of the underlying soil or moisture problem.",
+      "url": "library/laundry-fabric-care/fabric-odour-control/fabric-deodorising-vs-fabric-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0121",
+      "locale": "hi-IN",
+      "title": "Fabric deodorising vs fabric cleaning",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Odour Control",
+      "subcategory_slug": "fabric-odour-control",
+      "excerpt": "Fabric cleaning textile से soil और residues remove करती है, जबकि deodorising unwanted smell target करती है। Deodorising odour control support कर सकती है, लेकिन underlying soil/moisture problem replace नहीं करती।",
+      "url": "library/laundry-fabric-care/fabric-odour-control/fabric-deodorising-vs-fabric-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0122",
+      "locale": "en",
+      "title": "Why Laundry Comes Out Dull or Grey",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Troubleshooting",
+      "subcategory_slug": "laundry-troubleshooting",
+      "excerpt": "Laundry can look dull or grey when soil redeposits, detergent performance is reduced, mineral deposits accumulate, loads are overloaded, rinsing is poor or textiles are permanently worn or discoloured.",
+      "url": "library/laundry-fabric-care/laundry-troubleshooting/why-laundry-comes-out-dull-or-grey/"
+    },
+    {
+      "article_id": "ACX-KB-0122",
+      "locale": "hi-IN",
+      "title": "Laundry dull या grey क्यों निकल सकती है",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Troubleshooting",
+      "subcategory_slug": "laundry-troubleshooting",
+      "excerpt": "Laundry soil redeposition, weak detergent performance, mineral deposits, overloading, poor rinsing या permanent textile wear/discolouration के कारण dull या grey दिख सकती है।",
+      "url": "library/laundry-fabric-care/laundry-troubleshooting/why-laundry-comes-out-dull-or-grey/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0123",
+      "locale": "en",
+      "title": "Why Laundry Can Feel Stiff After Washing",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Troubleshooting",
+      "subcategory_slug": "laundry-troubleshooting",
+      "excerpt": "Laundry can feel stiff after washing because of detergent or mineral residue, incomplete rinsing, overloading, drying conditions, fibre damage or loss of finishing properties.",
+      "url": "library/laundry-fabric-care/laundry-troubleshooting/why-laundry-can-feel-stiff-after-washing/"
+    },
+    {
+      "article_id": "ACX-KB-0123",
+      "locale": "hi-IN",
+      "title": "Washing के बाद laundry stiff क्यों feel कर सकती है",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Troubleshooting",
+      "subcategory_slug": "laundry-troubleshooting",
+      "excerpt": "Laundry detergent/mineral residue, incomplete rinsing, overloading, drying conditions, fibre damage या finishing-property loss के कारण washing के बाद stiff feel कर सकती है।",
+      "url": "library/laundry-fabric-care/laundry-troubleshooting/why-laundry-can-feel-stiff-after-washing/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0124",
+      "locale": "en",
+      "title": "How to Troubleshoot Recurring Laundry Odour",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Troubleshooting",
+      "subcategory_slug": "laundry-troubleshooting",
+      "excerpt": "Recurring laundry odour is best solved by tracing when the smell appears and checking soil removal, rinsing, drying, machine hygiene, storage and clean/dirty workflow in a controlled sequence.",
+      "url": "library/laundry-fabric-care/laundry-troubleshooting/how-to-troubleshoot-recurring-laundry-odour/"
+    },
+    {
+      "article_id": "ACX-KB-0124",
+      "locale": "hi-IN",
+      "title": "Recurring laundry odour को कैसे troubleshoot करें",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Laundry Troubleshooting",
+      "subcategory_slug": "laundry-troubleshooting",
+      "excerpt": "Recurring laundry odour solve करने के लिए पहले smell कब आती है trace करें, फिर soil removal, rinsing, drying, machine hygiene, storage और clean/dirty workflow sequence में check करें।",
+      "url": "library/laundry-fabric-care/laundry-troubleshooting/how-to-troubleshoot-recurring-laundry-odour/hi.html"
     }
   ]
 }
