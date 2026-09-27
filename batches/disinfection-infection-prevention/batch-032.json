@@ -1,0 +1,35 @@
+{
+  "batch_id": "batch-032",
+  "category": "Disinfection & Infection Prevention",
+  "article_count": 1,
+  "article_ids": [
+    "ACX-KB-0150"
+  ],
+  "stage": "completed",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "locked"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "review",
+    "article_count": 1
+  },
+  "preview": {
+    "status": "live",
+    "pages": 2,
+    "design": "locked Gold Standard article shell",
+    "qa": {
+      "one_h1": true,
+      "language_tabs": true,
+      "hook_targets_resolve": true,
+      "floating_progress_targets_resolve": true,
+      "duplicate_dom_ids": false,
+      "hook_runtime": true,
+      "compact_hero_scale": true,
+      "site_shell": true
+    }
+  },
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest.",
+  "completed_after_validation": true
+}
