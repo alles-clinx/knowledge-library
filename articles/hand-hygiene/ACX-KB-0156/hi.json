@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0156",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0156",
+  "title": "Visible soil hand-hygiene choice क्यों बदलती है",
+  "slug": "why-visible-soil-changes-hand-hygiene-choice",
+  "subcategory": "Hand Sanitising",
+  "subcategory_slug": "hand-sanitising",
+  "excerpt": "Visible soil hand-hygiene choice बदलती है क्योंकि alcohol-based sanitizer dirt, grease या organic material physically remove नहीं करती। Healthcare में visibly soiled hands soap और water से wash करनी चाहिए।",
+  "content_html": "<p>Hand-hygiene method hands की condition के अनुसार choose होनी चाहिए। Dirt, blood, body fluid या visible material present हो तो physical removal important हो जाती है।</p>\n<h2 id=\"hi156-soil\">Visible soil cosmetic issue से ज्यादा है</h2><p>Soil में dirt, grease, organic material और work-related contamination शामिल हो सकती है। यह skin cover करके waterless sanitising को less suitable बना सकती है।</p>\n<h2 id=\"hi156-washing\">Soap और water physical removal देती है</h2><p>Soap, water, rubbing और rinsing visible material को loosen करके hands से remove करते हैं। CDC visibly soiled healthcare hands में soap/water require करता है।</p>\n<h2 id=\"hi156-sanitiser\">Sanitiser contamination rinse नहीं करती</h2><p>Alcohol-based sanitizer many microorganisms inactivate कर सकती है, लेकिन visible dirt, heavy grease या सभी contaminants physically rinse away नहीं करती।</p>\n<h2 id=\"hi156-healthcare\">Healthcare guidance setting-specific है</h2><p>Hands visibly soiled न हों तो CDC most clinical situations में alcohol-based sanitizer prefer करता है; visible soiling होने पर soap/water use करें।</p>\n<h2 id=\"hi156-after\">Reason के बिना extra steps add न करें</h2><p>हर handwash के बाद sanitizer automatically लगाना routine requirement नहीं है। Facility procedure और clinical indication follow करें।</p>\n<h2 id=\"hi156-gloves\">Gloves basic rule नहीं बदलतीं</h2><p>Gloves contaminate हो सकती हैं और hand hygiene replace नहीं करतीं। Glove removal के बाद required hand hygiene करें।</p>\n<h2 id=\"hi156-takeaway\">Practical takeaway</h2><p>Hands visibly soiled हों तो physical removal के लिए soap/water choose करें। Otherwise method setting और applicable guidance पर depend करती है।</p>\n<h2 id=\"hi156-references\">संदर्भ</h2><ol><li id=\"hi156-ref-1\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"hi156-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi156-ref-3\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li></ol>",
+  "seo_title": "Visible Soil and Hand Hygiene | Alle's ClinX",
+  "meta_description": "Visible soil होने पर soap/water क्यों चाहिए और non-soiled clinical hands में alcohol-based sanitizer कब preferred है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0155",
+    "ACX-KB-0152",
+    "ACX-KB-0157"
+  ]
+}

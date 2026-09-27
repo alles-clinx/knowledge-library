@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0157",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Clinical Hand Hygiene?",
+  "slug": "what-is-clinical-hand-hygiene",
+  "subcategory": "Clinical Hand Hygiene",
+  "subcategory_slug": "clinical-hand-hygiene",
+  "excerpt": "Clinical hand hygiene is the structured cleaning of healthcare personnel's hands at defined moments before, during and after patient care to reduce transmission between patients, staff, equipment and the care environment.",
+  "content_html": "<p>Clinical hand hygiene is hand cleaning performed as part of safe patient care. It is defined by when hand hygiene is needed, which method is appropriate and whether access makes the action practical at the point of care.</p>\n<h2 id=\"purpose\">Purpose of clinical hand hygiene</h2><p>Healthcare workers' hands can carry microorganisms between patients, body sites, equipment and surfaces. Hand hygiene interrupts those transfer routes.</p>\n<h2 id=\"before\">Before patient contact and aseptic tasks</h2><p>CDC recommends hand hygiene immediately before touching a patient and before aseptic tasks or handling invasive devices.</p>\n<h2 id=\"during\">During care transitions</h2><p>Hand hygiene is indicated before moving from a soiled body site to a clean body site on the same patient.</p>\n<h2 id=\"after\">After patient, environmental or fluid contact</h2><p>Clean hands after touching a patient or the patient's immediate environment, after contact with blood, body fluids or contaminated surfaces, and immediately after glove removal.</p>\n<h2 id=\"method\">Choose the correct method</h2><p>Unless hands are visibly soiled, CDC prefers alcohol-based hand sanitizer in most clinical situations. Use soap and water when hands are visibly soiled and in other defined situations.</p>\n<h2 id=\"standard-precautions\">Part of Standard Precautions</h2><p>Hand hygiene is a core element of Standard Precautions and applies regardless of whether a patient has a known or suspected infection.</p>\n<h2 id=\"system\">Clinical hand hygiene is also a system issue</h2><p>Reliable performance depends on accessible supplies, point-of-care placement, training, skin-friendly products, clear expectations and monitoring.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Clinical hand hygiene is not simply “wash often.” It is a timed, indication-based infection-prevention practice integrated into patient-care workflow.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene\">WHO — Hand Hygiene</a>.</li></ol>",
+  "seo_title": "What Is Clinical Hand Hygiene? | Alle's ClinX",
+  "meta_description": "Learn how clinical hand hygiene uses defined moments, the correct cleaning method and point-of-care access to reduce transmission during healthcare.",
+  "related_article_ids": [
+    "ACX-KB-0158",
+    "ACX-KB-0159",
+    "ACX-KB-0156"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0160",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Should a Hand-Hygiene Station Include?",
+  "slug": "what-should-a-hand-hygiene-station-include",
+  "subcategory": "Hand Hygiene Stations",
+  "subcategory_slug": "hand-hygiene-stations",
+  "excerpt": "A hand-hygiene station should provide the resources needed for the expected method: reliable water, soap and hygienic drying for handwashing, and appropriately placed hand rub where alcohol-based hand sanitising is used.",
+  "content_html": "<p>A hand-hygiene station should be designed around the actions people need to perform. The exact components depend on whether the location supports handwashing, alcohol-based hand rub, or both.</p>\n<h2 id=\"water\">Water for handwashing</h2><p>Where handwashing is required, provide a reliable supply of suitable running water and a sink or basin that can be used without creating unnecessary splash or standing water.</p>\n<h2 id=\"soap\">Soap</h2><p>Provide an appropriate handwashing soap in a maintained dispenser. Empty, damaged or contaminated dispensers undermine the station.</p>\n<h2 id=\"drying\">Hygienic hand drying</h2><p>Provide the facility-approved drying method, such as disposable towels where required by the setting. Drying materials should be kept stocked and easy to reach.</p>\n<h2 id=\"handrub\">Alcohol-based hand rub where appropriate</h2><p>Clinical areas commonly need alcohol-based hand rub available at or near the point of care for routine hand hygiene when hands are not visibly soiled.</p>\n<h2 id=\"waste\">Waste handling where needed</h2><p>If disposable towels are used, provide an appropriate waste receptacle that can be used without disrupting the hand-hygiene sequence.</p>\n<h2 id=\"instructions\">Clear cues and instructions</h2><p>Simple signage can reinforce when and how to perform hand hygiene. Instructions should match the facility's actual products and procedures.</p>\n<h2 id=\"inspection\">Inspection and refill system</h2><p>Stations need routine checks for water supply, soap, hand rub, towels, dispenser function, cleanliness and access. Availability must be sustained, not occasional.</p>\n<h2 id=\"placement\">Safe, accessible placement</h2><p>Stations should be easy to reach without being blocked by equipment or creating a hazard. Alcohol-based hand-rub placement should follow applicable safety and manufacturer requirements.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A hand-hygiene station is a maintained access system, not just a sink or dispenser. It should provide the correct products, drying, waste handling, instructions and reliable availability for the setting.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li></ol>",
+  "seo_title": "What Should a Hand-Hygiene Station Include? | Alle's ClinX",
+  "meta_description": "Learn what hand-hygiene stations should provide for handwashing and hand sanitising, including water, soap, drying, hand rub, waste handling and maintenance.",
+  "related_article_ids": [
+    "ACX-KB-0153",
+    "ACX-KB-0158",
+    "ACX-KB-0159"
+  ]
+}

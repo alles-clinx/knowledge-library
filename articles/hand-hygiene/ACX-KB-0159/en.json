@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0159",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Product Placement Supports Clinical Hand Hygiene",
+  "slug": "how-product-placement-supports-clinical-hand-hygiene",
+  "subcategory": "Clinical Hand Hygiene",
+  "subcategory_slug": "clinical-hand-hygiene",
+  "excerpt": "Product placement supports clinical hand hygiene when alcohol-based hand rub is positioned at or near the point of care, supplies are visible and reachable, and placement considers workflow, maintenance and safety.",
+  "content_html": "<p>Hand-hygiene product placement affects whether workers can act at the correct moment without interrupting care. Good placement connects the product directly to the workflow that creates the hand-hygiene indication.</p>\n<h2 id=\"point-of-care\">Place hand rub near the point of care</h2><p>WHO recommends point-of-care availability of alcohol-based hand rub. Bedside or other care-zone access reduces the need to walk away from the patient to perform hand hygiene.</p>\n<h2 id=\"visibility\">Visible and reachable is better than merely present</h2><p>A dispenser may exist in the room but still be functionally inaccessible if it is hidden, blocked, empty or positioned away from the work sequence.</p>\n<h2 id=\"workflow\">Map placement to care flow</h2><p>Consider where staff enter, prepare for care, move between patients, handle shared equipment and leave the care zone. Product placement should support these transitions.</p>\n<h2 id=\"sinks\">Keep handwashing resources available too</h2><p>Alcohol-based hand rub does not replace sinks, soap and drying supplies for situations that require handwashing, such as visibly soiled hands.</p>\n<h2 id=\"maintenance\">Placement must support maintenance</h2><p>Dispensers should be inspectable and easy to service. Empty or malfunctioning units should be identified through routine checks rather than discovered at the moment of care.</p>\n<h2 id=\"safety\">Placement must also meet safety requirements</h2><p>Alcohol-based hand rub is a regulated product with storage and dispenser-placement requirements. Facilities should follow applicable fire, building and manufacturer guidance rather than improvising locations.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Good placement makes the correct hand-hygiene action the easy action: visible, reachable, reliable and positioned where care actually occurs.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/news-room/questions-and-answers/item/alcohol-based-handrub-risks-hazards\">WHO — Alcohol-Based Handrub Risks and Hazards</a>.</li></ol>",
+  "seo_title": "How Product Placement Supports Clinical Hand Hygiene | Alle's ClinX",
+  "meta_description": "Learn how point-of-care handrub placement, visibility, workflow alignment, maintenance and safety support reliable clinical hand hygiene.",
+  "related_article_ids": [
+    "ACX-KB-0158",
+    "ACX-KB-0157",
+    "ACX-KB-0160"
+  ]
+}

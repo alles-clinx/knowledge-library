@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0156",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Visible Soil Changes Hand-Hygiene Choice",
+  "slug": "why-visible-soil-changes-hand-hygiene-choice",
+  "subcategory": "Hand Sanitising",
+  "subcategory_slug": "hand-sanitising",
+  "excerpt": "Visible soil changes hand-hygiene choice because alcohol-based hand sanitizer does not physically remove dirt, grease or organic material. In healthcare, visibly soiled hands should be washed with soap and water.",
+  "content_html": "<p>Hand-hygiene method should reflect the condition of the hands. When dirt, blood, body fluid or other visible material is present, physical removal becomes important.</p>\n<h2 id=\"soil\">Visible soil is more than a cosmetic issue</h2><p>Soil can include dirt, grease, organic material and contamination picked up during work. It can cover parts of the skin and make waterless hand sanitising less suitable.</p>\n<h2 id=\"washing\">Soap and water provides physical removal</h2><p>Washing uses soap, water, rubbing and rinsing to loosen and carry visible material away from the hands. CDC requires soap and water when healthcare personnel's hands are visibly soiled.</p>\n<h2 id=\"sanitiser\">Sanitiser does not rinse contamination away</h2><p>Alcohol-based hand sanitizer can inactivate many microorganisms, but it does not physically rinse off visible dirt, heavy grease or all contaminants.</p>\n<h2 id=\"healthcare\">Healthcare guidance is setting-specific</h2><p>In most clinical situations where hands are not visibly soiled, CDC prefers alcohol-based hand sanitizer. Visible soiling changes that choice to soap and water.</p>\n<h2 id=\"after-washing\">Do not add steps without a reason</h2><p>Routine practice does not require automatically applying sanitizer after every soap-and-water wash. Follow the facility's hand-hygiene procedure and the clinical indication.</p>\n<h2 id=\"gloves\">Gloves do not change the basic rule</h2><p>Gloves can become contaminated and do not replace hand hygiene. Clean hands at the required moments, including after glove removal.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>If hands are visibly soiled, choose soap and water for physical removal. If they are not visibly soiled, the preferred method depends on the setting and applicable hand-hygiene guidance.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li></ol>",
+  "seo_title": "Why Visible Soil Changes Hand-Hygiene Choice | Alle's ClinX",
+  "meta_description": "Learn why visibly soiled hands need soap and water and why alcohol-based hand sanitizer is preferred in many clinical situations only when hands are not visibly soiled.",
+  "related_article_ids": [
+    "ACX-KB-0155",
+    "ACX-KB-0152",
+    "ACX-KB-0157"
+  ]
+}

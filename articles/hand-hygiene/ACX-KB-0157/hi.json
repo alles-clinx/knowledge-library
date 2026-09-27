@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0157",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0157",
+  "title": "Clinical hand hygiene क्या है?",
+  "slug": "what-is-clinical-hand-hygiene",
+  "subcategory": "Clinical Hand Hygiene",
+  "subcategory_slug": "clinical-hand-hygiene",
+  "excerpt": "Clinical hand hygiene patient care के defined moments पर healthcare personnel की hands clean करने की structured practice है, ताकि patients, staff, equipment और environment के बीच transmission कम हो।",
+  "content_html": "<p>Clinical hand hygiene safe patient care के हिस्से के रूप में hand cleaning है। यह कब करनी है, कौनसा method use करना है और point of care पर access available है या नहीं—इनसे define होती है।</p>\n<h2 id=\"hi157-purpose\">Clinical hand hygiene का purpose</h2><p>Healthcare workers की hands patients, body sites, equipment और surfaces के बीच microorganisms carry कर सकती हैं। Hand hygiene transfer routes interrupt करती है।</p>\n<h2 id=\"hi157-before\">Patient contact/aseptic task से पहले</h2><p>CDC patient touch से immediately before और aseptic tasks/invasive-device handling से पहले hand hygiene recommend करता है।</p>\n<h2 id=\"hi157-during\">Care transitions के दौरान</h2><p>Same patient पर soiled body site से clean body site की ओर move करने से पहले hand hygiene indicated है।</p>\n<h2 id=\"hi157-after\">Patient/environment/fluid contact के बाद</h2><p>Patient या immediate environment touch करने, blood/body-fluid/contaminated surface contact और glove removal के तुरंत बाद hands clean करें।</p>\n<h2 id=\"hi157-method\">Correct method choose करें</h2><p>Hands visibly soiled न हों तो CDC most clinical situations में alcohol-based sanitizer prefer करता है। Visible soil में soap/water use करें।</p>\n<h2 id=\"hi157-standard\">Standard Precautions का हिस्सा</h2><p>Hand hygiene Standard Precautions की core element है और known infection status से independent apply होती है।</p>\n<h2 id=\"hi157-system\">Clinical hand hygiene system issue भी है</h2><p>Reliable performance accessible supplies, point-of-care placement, training, skin-friendly products, expectations और monitoring पर depend करती है।</p>\n<h2 id=\"hi157-takeaway\">Practical takeaway</h2><p>Clinical hand hygiene सिर्फ “frequently wash” नहीं है; यह timed, indication-based infection-prevention practice है।</p>\n<h2 id=\"hi157-references\">संदर्भ</h2><ol><li id=\"hi157-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi157-ref-2\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"hi157-ref-3\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene\">WHO — Hand Hygiene</a>.</li></ol>",
+  "seo_title": "Clinical Hand Hygiene क्या है? | Alle's ClinX",
+  "meta_description": "Defined clinical moments, correct hand-cleaning method और point-of-care access से clinical hand hygiene समझें।",
+  "related_article_ids": [
+    "ACX-KB-0158",
+    "ACX-KB-0159",
+    "ACX-KB-0156"
+  ]
+}

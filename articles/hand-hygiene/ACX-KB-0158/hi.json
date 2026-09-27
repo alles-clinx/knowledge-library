@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0158",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0158",
+  "title": "Healthcare में hand-hygiene access क्यों matter करती है",
+  "slug": "why-hand-hygiene-access-matters-in-healthcare",
+  "subcategory": "Clinical Hand Hygiene",
+  "subcategory_slug": "clinical-hand-hygiene",
+  "excerpt": "Healthcare workers को care के कई defined moments पर hands clean करनी होती हैं। Distant, blocked या unavailable supplies timely hand hygiene में practical barriers बनाती हैं।",
+  "content_html": "<p>Hand-hygiene recommendations तभी work करती हैं जब required products care के moment पर available हों। Access system-design requirement है, convenience मात्र नहीं।</p>\n<h2 id=\"hi158-frequency\">Clinical care frequent hand-hygiene moments बनाती है</h2><p>Patient contact, aseptic work, care transitions, post-contact और glove removal जैसे moments पर hand hygiene needed हो सकती है। Delay adherence difficult बनाती है।</p>\n<h2 id=\"hi158-point\">Point-of-care access friction reduce करती है</h2><p>WHO alcohol-based hand rub को point of care पर available रखने पर जोर देता है ताकि worker को hands clean करने के लिए care zone छोड़ना न पड़े।</p>\n<h2 id=\"hi158-soap\">Soap/water access भी जरूरी है</h2><p>Visibly soiled hands जैसी indications के लिए accessible sinks, soap और drying supplies चाहिए।</p>\n<h2 id=\"hi158-blocked\">Blocked/poorly placed supplies usability कम करती हैं</h2><p>Equipment के पीछे dispenser, empty container, far-away sink या missing towels operational barriers create करते हैं।</p>\n<h2 id=\"hi158-reliability\">Access में reliability शामिल है</h2><p>Frequently empty dispenser truly accessible नहीं है। Refill checks, maintenance और supply continuity system का हिस्सा हैं।</p>\n<h2 id=\"hi158-users\">Different users को different access points चाहिए हो सकते हैं</h2><p>Healthcare personnel, patients और visitors के hand-hygiene moments अलग हो सकते हैं; placement workflow reflect करे।</p>\n<h2 id=\"hi158-takeaway\">Practical takeaway</h2><p>Good access indication और action के बीच distance कम करती है। Products, sinks और drying supplies reliably available हों जहाँ workflow need create करे।</p>\n<h2 id=\"hi158-references\">संदर्भ</h2><ol><li id=\"hi158-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi158-ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"hi158-ref-3\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li></ol>",
+  "seo_title": "Healthcare Hand-Hygiene Access | Alle's ClinX",
+  "meta_description": "Point-of-care handrub, sinks, reliable supplies और practical placement healthcare hand hygiene को कैसे support करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0157",
+    "ACX-KB-0159",
+    "ACX-KB-0160"
+  ]
+}

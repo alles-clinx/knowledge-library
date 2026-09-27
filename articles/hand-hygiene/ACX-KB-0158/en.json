@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0158",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Hand-Hygiene Access Matters in Healthcare",
+  "slug": "why-hand-hygiene-access-matters-in-healthcare",
+  "subcategory": "Clinical Hand Hygiene",
+  "subcategory_slug": "clinical-hand-hygiene",
+  "excerpt": "Hand-hygiene access matters because healthcare workers need to clean their hands at multiple defined moments during care. Supplies that are distant, blocked or unavailable create practical barriers to timely hand hygiene.",
+  "content_html": "<p>Hand-hygiene recommendations only work when the necessary products are available at the moment care is delivered. Access is therefore a system-design requirement, not merely a convenience.</p>\n<h2 id=\"frequency\">Clinical care creates frequent hand-hygiene moments</h2><p>Healthcare personnel may need hand hygiene before patient contact, before aseptic work, during transitions in care, after contact and after glove removal. Delays make adherence harder.</p>\n<h2 id=\"point-of-care\">Point-of-care access reduces friction</h2><p>WHO's hand-hygiene strategy emphasizes alcohol-based hand rub at the point of care so workers do not need to leave the care zone to clean their hands.</p>\n<h2 id=\"soap-water\">Soap-and-water access still matters</h2><p>Healthcare areas also need readily accessible sinks, soap and drying supplies for situations where handwashing is indicated, including visibly soiled hands.</p>\n<h2 id=\"blocked\">Blocked or poorly placed supplies reduce usability</h2><p>Dispensers hidden behind equipment, empty containers, sinks far from care activity or missing towels create operational barriers even when policy is correct.</p>\n<h2 id=\"reliability\">Access includes reliability</h2><p>A dispenser that is frequently empty is not truly accessible. Refill checks, maintenance and supply continuity are part of the hand-hygiene system.</p>\n<h2 id=\"different-users\">Different users may need different access points</h2><p>Healthcare personnel, patients and visitors may use different locations. Placement should reflect who needs hand hygiene and at what stage of the care journey.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Good access shortens the distance between the hand-hygiene indication and the action. Products, sinks and drying supplies should be reliably available where the workflow creates the need.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li></ol>",
+  "seo_title": "Why Hand-Hygiene Access Matters in Healthcare | Alle's ClinX",
+  "meta_description": "Learn why point-of-care handrub, accessible sinks, reliable supplies and practical placement are essential to healthcare hand-hygiene adherence.",
+  "related_article_ids": [
+    "ACX-KB-0157",
+    "ACX-KB-0159",
+    "ACX-KB-0160"
+  ]
+}

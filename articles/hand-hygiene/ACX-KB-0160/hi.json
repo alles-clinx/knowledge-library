@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0160",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0160",
+  "title": "Hand-hygiene station में क्या include होना चाहिए?",
+  "slug": "what-should-a-hand-hygiene-station-include",
+  "subcategory": "Hand Hygiene Stations",
+  "subcategory_slug": "hand-hygiene-stations",
+  "excerpt": "Hand-hygiene station expected method के resources provide करे: handwashing के लिए reliable water, soap और hygienic drying; और sanitising के लिए appropriately placed hand rub।",
+  "content_html": "<p>Hand-hygiene station उन actions के around design होनी चाहिए जो users को perform करनी हैं। Components इस पर depend करते हैं कि location handwashing, alcohol-based hand rub या दोनों support करती है।</p>\n<h2 id=\"hi160-water\">Handwashing के लिए water</h2><p>जहाँ handwashing required हो, reliable suitable running water और usable sink/basin provide करें।</p>\n<h2 id=\"hi160-soap\">Soap</h2><p>Maintained dispenser में appropriate handwashing soap provide करें। Empty, damaged या contaminated dispenser station को undermine करती है।</p>\n<h2 id=\"hi160-drying\">Hygienic hand drying</h2><p>Setting के अनुसार facility-approved drying method, जैसे disposable towels where required, stocked और easy to reach हो।</p>\n<h2 id=\"hi160-handrub\">Appropriate जगह alcohol-based hand rub</h2><p>Clinical areas में hands visibly soiled न हों तो routine hand hygiene के लिए point of care के near alcohol-based hand rub commonly needed होती है।</p>\n<h2 id=\"hi160-waste\">जहाँ needed हो waste handling</h2><p>Disposable towels use हों तो appropriate waste receptacle provide करें जो sequence disrupt न करे।</p>\n<h2 id=\"hi160-instructions\">Clear cues/instructions</h2><p>Simple signage when/how to perform hand hygiene reinforce कर सकती है। Instructions facility products/procedures से match करें।</p>\n<h2 id=\"hi160-inspection\">Inspection/refill system</h2><p>Water, soap, hand rub, towels, dispenser function, cleanliness और access की routine checks हों।</p>\n<h2 id=\"hi160-placement\">Safe, accessible placement</h2><p>Stations easy to reach हों और equipment से blocked या hazard create न करें। Alcohol-handrub placement applicable safety/manufacturer requirements follow करे।</p>\n<h2 id=\"hi160-takeaway\">Practical takeaway</h2><p>Hand-hygiene station maintained access system है, सिर्फ sink/dispenser नहीं। Correct products, drying, waste handling, instructions और reliable availability साथ चाहिए।</p>\n<h2 id=\"hi160-references\">संदर्भ</h2><ol><li id=\"hi160-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi160-ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"hi160-ref-3\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li></ol>",
+  "seo_title": "Hand-Hygiene Station Components | Alle's ClinX",
+  "meta_description": "Water, soap, drying, alcohol-based hand rub, waste handling, instructions और maintenance सहित hand-hygiene station components समझें।",
+  "related_article_ids": [
+    "ACX-KB-0153",
+    "ACX-KB-0158",
+    "ACX-KB-0159"
+  ]
+}

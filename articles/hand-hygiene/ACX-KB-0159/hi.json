@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0159",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0159",
+  "title": "Product placement clinical hand hygiene को कैसे support करती है",
+  "slug": "how-product-placement-supports-clinical-hand-hygiene",
+  "subcategory": "Clinical Hand Hygiene",
+  "subcategory_slug": "clinical-hand-hygiene",
+  "excerpt": "Clinical hand hygiene तब better supported होती है जब alcohol-based hand rub point of care के near हो, supplies visible/reachable हों और placement workflow, maintenance तथा safety consider करे।",
+  "content_html": "<p>Hand-hygiene product placement affect करती है कि worker correct moment पर बिना care interrupt किए action ले सकता है या नहीं। Good placement product को workflow से connect करती है।</p>\n<h2 id=\"hi159-point\">Hand rub point of care के near रखें</h2><p>WHO alcohol-based hand rub की point-of-care availability recommend करता है। Bedside/care-zone access walking barrier reduce करती है।</p>\n<h2 id=\"hi159-visibility\">Visible/reachable होना सिर्फ present होने से better है</h2><p>Dispenser room में मौजूद हो सकता है लेकिन hidden, blocked, empty या workflow से दूर होने पर functionally inaccessible हो सकता है।</p>\n<h2 id=\"hi159-workflow\">Placement care flow से map करें</h2><p>Entry, care preparation, patient transitions, shared equipment handling और exit points consider करें।</p>\n<h2 id=\"hi159-sinks\">Handwashing resources भी available रखें</h2><p>Alcohol-based hand rub visibly soiled hands जैसी soap/water indications replace नहीं करती।</p>\n<h2 id=\"hi159-maintenance\">Placement maintenance support करे</h2><p>Dispensers easy to inspect/service हों। Routine checks empty या malfunctioning units identify करें।</p>\n<h2 id=\"hi159-safety\">Placement safety requirements भी meet करे</h2><p>Alcohol-based hand rub regulated product है। Applicable fire/building/manufacturer guidance follow करें; improvised placement न करें।</p>\n<h2 id=\"hi159-takeaway\">Practical takeaway</h2><p>Good placement correct hand-hygiene action को easy बनाती है: visible, reachable, reliable और actual care location के पास।</p>\n<h2 id=\"hi159-references\">संदर्भ</h2><ol><li id=\"hi159-ref-1\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"hi159-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi159-ref-3\"><a href=\"https://www.who.int/news-room/questions-and-answers/item/alcohol-based-handrub-risks-hazards\">WHO — Alcohol-Based Handrub Risks and Hazards</a>.</li></ol>",
+  "seo_title": "Clinical Hand-Hygiene Product Placement | Alle's ClinX",
+  "meta_description": "Point-of-care placement, visibility, workflow alignment, maintenance और safety clinical hand hygiene को कैसे support करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0158",
+    "ACX-KB-0157",
+    "ACX-KB-0160"
+  ]
+}
