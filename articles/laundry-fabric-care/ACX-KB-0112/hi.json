@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0112",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0112",
+  "title": "Fabric softener textile feel क्यों बदल सकती है",
+  "slug": "why-fabric-softener-can-change-textile-feel",
+  "subcategory": "Fabric Softening",
+  "subcategory_slug": "fabric-softening",
+  "excerpt": "Fabric softener conditioning ingredients surface friction, fibre movement और static बदल सकती हैं। Result fibre type, formulation, dose और repeated use पर depend करता है।",
+  "content_html": "<p>Softness केवल visual property नहीं है; यह surface और structure effect भी है। Fabric softener fibres के बीच sliding, static और fabric flex को change कर सकती है।</p>\n<h2 id=\"hi112-friction\">Surface friction कम हो सकती है</h2><p>Conditioning ingredients fibre surfaces पर associate/deposit हो सकती हैं। इससे neighbouring fibres के बीच friction कम होकर handling smoother feel कर सकती है।</p>\n<h2 id=\"hi112-movement\">Fibre movement बदलती है</h2><p>Fibre interaction बदलने पर textile bend, fold या drape अलग कर सकती है। Effect construction के अनुसार subtle या noticeable हो सकती है।</p>\n<h2 id=\"hi112-static\">Static भी feel affect करती है</h2><p>Static synthetic textiles को clingy या crisp बना सकती है। Static reduce होने से structure बदले बिना handling change हो सकती है।</p>\n<h2 id=\"hi112-fibre\">Fibre type matter करती है</h2><p>Cotton, polyester, wool और blends की surfaces/moisture behaviour अलग होती है। Same product हर fibre पर same feel नहीं देती।</p>\n<h2 id=\"hi112-dose\">Dose और repeated use matter करते हैं</h2><p>More product indefinitely more softness नहीं देती; deposition बढ़ सकती है। Repeated use absorbency, surface feel या residue level बदल सकती है।</p>\n<h2 id=\"hi112-care\">Care instructions पहले</h2><p>Garment care label और approved product directions follow करें। हर washable textile को softener की जरूरत है, ऐसा assume न करें।</p>\n<h2 id=\"hi112-takeaway\">Practical takeaway</h2><p>Fabric softener surface behaviour change करके feel बदलती है। Final result formulation, dose, fibre, construction और drying conditions के interaction से आता है।</p>\n<h2 id=\"hi112-references\">संदर्भ</h2><ol><li id=\"hi112-ref-1\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Complying with the Care Labeling Rule</a>.</li><li id=\"hi112-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Fabric Softener Textile Feel क्यों बदलती है | Alle's ClinX",
+  "meta_description": "Surface friction, fibre movement, static, fibre type, dose और repeated use fabric softener के feel effect को कैसे बदलते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0111",
+    "ACX-KB-0113",
+    "ACX-KB-0114"
+  ]
+}

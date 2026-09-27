@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0114",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Makes a Fabric Delicate?",
+  "slug": "what-makes-a-fabric-delicate",
+  "subcategory": "Delicate Fabrics",
+  "subcategory_slug": "delicate-fabrics",
+  "excerpt": "A fabric can be delicate because of its fibre, yarn, knit or weave, dye, finish, decoration or garment construction. Delicate care is therefore a compatibility decision, not a single fibre category.",
+  "content_html": "<p>“Delicate” is not one fibre name. A textile may need gentler care because of the fibre itself, the way the yarn or fabric is constructed, the colour or finish, or the way the finished item is assembled.</p>\n<h2 id=\"fibre\">Fibre sensitivity</h2><p>Some fibres are more sensitive to heat, alkalinity, abrasion, stretching or repeated agitation than others. Fibre behaviour is one reason care instructions differ between garments.</p>\n<h2 id=\"construction\">Yarn and fabric construction</h2><p>Fine yarns, loose knits, open weaves, pile fabrics and lightweight constructions can distort or snag more easily than dense, robust structures even when made from a familiar fibre.</p>\n<h2 id=\"dye-finish\">Dyes and finishes</h2><p>Colourfastness, coatings, prints and functional finishes can limit acceptable water temperature, chemistry, friction or drying conditions. A strong fibre can still be part of a delicate finished textile.</p>\n<h2 id=\"decoration\">Decoration and components</h2><p>Embroidery, trims, elastic, laminates, adhesives, linings and shaped components can make the whole item more sensitive than its main fabric.</p>\n<h2 id=\"care-label\">The care label combines these risks</h2><p>Under the FTC Care Labeling Rule, care instructions must reflect procedures that can be used without substantial harm. That makes the care label the best first control when the full textile construction is not known.</p>\n<h2 id=\"handling\">Delicate care reduces stress</h2><p>Gentler care usually means controlling mechanical action, temperature, extraction and drying stress. It does not mean that every delicate item must be treated in exactly the same way.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A fabric is “delicate” when one or more parts of the textile system have limited tolerance to ordinary cleaning stress. Identify the fibre, construction and care label before selecting the process.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Complying with the Care Labeling Rule</a>.</li><li id=\"ref-2\"><a href=\"https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods\">U.S. FTC — Care Labeling Rule</a>.</li></ol>",
+  "seo_title": "What Makes a Fabric Delicate? | Alle's ClinX",
+  "meta_description": "Learn why fibre type, fabric construction, dyes, finishes, decoration and garment components can make a textile require delicate care.",
+  "related_article_ids": [
+    "ACX-KB-0115",
+    "ACX-KB-0112",
+    "ACX-KB-0113"
+  ]
+}

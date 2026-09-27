@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0111",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0111",
+  "title": "Fabric softener क्या करती है?",
+  "slug": "what-does-fabric-softener-do",
+  "subcategory": "Fabric Softening",
+  "subcategory_slug": "fabric-softening",
+  "excerpt": "Fabric softener washing के बाद textile feel और handling modify करने वाली finishing product है। Formulation के अनुसार यह static कम कर सकती है और surface friction बदल सकती है, लेकिन cleaning substitute नहीं है।",
+  "content_html": "<p>Fabric softener main cleaning stage के बाद use होने वाली finishing product है। इसका काम soil remove करना नहीं है; यह washing के बाद textile surface के behaviour और feel को change करती है।</p>\n<h2 id=\"hi111-surface\">Fibre surface बदलती है</h2><p>कई softening systems final rinse में fibres पर conditioning ingredients deposit करती हैं। इससे fibre-to-fibre friction कम हो सकती है और textile smoother/less harsh feel कर सकती है।</p>\n<h2 id=\"hi111-static\">Static कम कर सकती है</h2><p>कुछ formulations synthetic textiles पर static charge reduce करने में मदद करती हैं। Lower static drying के बाद handling improve और cling कम कर सकती है।</p>\n<h2 id=\"hi111-feel\">Feel और drape बदल सकते हैं</h2><p>Textile “hand” का मतलब touch/movement पर feel है। Softener smoothness, flexibility और perceived softness बदल सकती है, जिससे drape भी change हो सकती है।</p>\n<h2 id=\"hi111-limits\">Cleaning replace नहीं करती</h2><p>Softener detergent, rinsing या soil removal का substitute नहीं है। Extra softener grease, detergent residue, poor rinsing या wrong wash program fix नहीं करती।</p>\n<h2 id=\"hi111-compatibility\">Compatibility matter करती है</h2><p>हर textile/performance finish को same treatment नहीं चाहिए। Garment care label और approved product directions follow करें, खासकर technical fabrics, towels या special-performance textiles में।</p>\n<h2 id=\"hi111-dose\">Approved dose use करें</h2><p>Excess finishing product absorbency बदल सकती है, residue छोड़ सकती है या intended feel से ज्यादा change कर सकती है। “More is softer” rule न मानें।</p>\n<h2 id=\"hi111-takeaway\">Practical takeaway</h2><p>Fabric softener finishing tool है। Textile/process को softer feel या lower static चाहिए तो use करें; cleaning, rinsing और compatibility अलग decisions हैं।</p>\n<h2 id=\"hi111-references\">संदर्भ</h2><ol><li id=\"hi111-ref-1\"><a href=\"https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods\">U.S. FTC — Care Labeling Rule</a>.</li><li id=\"hi111-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Fabric Softener क्या करती है? | Alle's ClinX",
+  "meta_description": "Fabric softener fibre surface, static, textile feel और drape को कैसे affect करती है तथा compatibility और correct dose क्यों matter करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0112",
+    "ACX-KB-0113",
+    "ACX-KB-0102"
+  ]
+}

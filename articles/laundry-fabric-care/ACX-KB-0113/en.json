@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0113",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Fabric Softening vs Fabric Conditioning",
+  "slug": "fabric-softening-vs-fabric-conditioning",
+  "subcategory": "Fabric Softening",
+  "subcategory_slug": "fabric-softening",
+  "excerpt": "Fabric softening describes the sensory result of making a textile feel less harsh, while fabric conditioning is the broader finishing process that may also address static, handling or other surface properties.",
+  "content_html": "<p>“Softening” and “conditioning” are often used as if they mean exactly the same thing. In practice, softening describes one desired result, while conditioning is the broader treatment that changes textile surface behaviour.</p>\n<h2 id=\"softening\">Softening focuses on feel</h2><p>Fabric softening usually refers to reducing perceived harshness or increasing smoothness and flexibility. The outcome is mainly judged by how the textile feels and handles.</p>\n<h2 id=\"conditioning\">Conditioning is broader</h2><p>A conditioning treatment may influence softness, static, friction, drape and handling at the same time. The exact benefits depend on the chemistry and the textile.</p>\n<h2 id=\"same-product\">One product can do both</h2><p>A commercial rinse product may be marketed as a softener while also providing conditioning effects such as static reduction. The label name does not necessarily describe every function in the formulation.</p>\n<h2 id=\"performance\">Performance textiles need caution</h2><p>Some textiles depend on absorbency, wicking, flame resistance, coatings or other engineered surface properties. A finishing treatment that feels pleasant can still be unsuitable if it interferes with the intended performance.</p>\n<h2 id=\"process\">Conditioning is a finishing step</h2><p>Neither softening nor conditioning replaces cleaning. Detergent removes soil; rinsing removes wash liquor; finishing changes selected properties after cleaning.</p>\n<h2 id=\"selection\">Choose by textile requirement</h2><p>Start with the care label, textile function and approved product directions. If the textile should retain a specific performance property, that requirement matters more than a generic preference for softer feel.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Softening is an outcome; conditioning is the broader finishing process. Use the terms carefully when specifying a laundry program so the desired textile property is clear.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods\">U.S. FTC — Care Labeling Rule</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Fabric Softening vs Fabric Conditioning | Alle's ClinX",
+  "meta_description": "Understand the difference between fabric softening as a sensory outcome and fabric conditioning as a broader textile-finishing process.",
+  "related_article_ids": [
+    "ACX-KB-0111",
+    "ACX-KB-0112",
+    "ACX-KB-0114"
+  ]
+}

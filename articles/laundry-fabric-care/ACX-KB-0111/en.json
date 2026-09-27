@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0111",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Does Fabric Softener Do?",
+  "slug": "what-does-fabric-softener-do",
+  "subcategory": "Fabric Softening",
+  "subcategory_slug": "fabric-softening",
+  "excerpt": "Fabric softener is a finishing product intended to modify textile feel and handling after washing. Depending on the formulation, it can reduce static and change surface friction, but it is not a cleaning substitute.",
+  "content_html": "<p>Fabric softener is a finishing product used after the main cleaning stage. Its job is not to remove soil. Instead, it changes how the textile surface behaves and feels after washing.</p>\n<h2 id=\"surface\">It changes the fibre surface</h2><p>Many fabric-softening systems deposit conditioning ingredients onto fibres during the final rinse. That surface treatment can reduce fibre-to-fibre friction and make the textile feel smoother or less harsh.</p>\n<h2 id=\"static\">It can reduce static</h2><p>Some softening formulations help reduce static charge, particularly on synthetic textiles. Lower static can improve handling and reduce cling after drying.</p>\n<h2 id=\"feel\">It can change hand and drape</h2><p>“Hand” means how a textile feels when touched or moved. A softener can change smoothness, flexibility and perceived softness, which may also affect drape or how the fabric hangs.</p>\n<h2 id=\"limits\">It does not replace cleaning</h2><p>Softener does not replace detergent, rinsing or soil removal. Adding more softener cannot correct grease, detergent residue, poor rinsing or an unsuitable wash program.</p>\n<h2 id=\"compatibility\">Compatibility matters</h2><p>Not every textile or performance finish should be treated the same way. Follow the garment care label and the approved product directions, especially for technical fabrics, towels, flame-resistant items or other textiles with special performance requirements.</p>\n<h2 id=\"dose\">Use the approved dose</h2><p>Too much finishing product can change absorbency, leave residue or alter the feel beyond what is intended. Treat dose as part of the controlled laundry process rather than as a “more is softer” adjustment.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Fabric softener is a finishing tool. Use it when the textile and process call for softer feel or lower static, and keep cleaning, rinsing and textile compatibility as separate decisions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods\">U.S. FTC — Care Labeling Rule</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "What Does Fabric Softener Do? | Alle's ClinX",
+  "meta_description": "Learn what fabric softener does, including fibre-surface conditioning, static reduction, changes in feel and the importance of textile compatibility and correct dosing.",
+  "related_article_ids": [
+    "ACX-KB-0112",
+    "ACX-KB-0113",
+    "ACX-KB-0102"
+  ]
+}

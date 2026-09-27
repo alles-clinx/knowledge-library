@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0115",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Wool and Delicate Fabrics Need Different Care",
+  "slug": "why-wool-and-delicate-fabrics-need-different-care",
+  "subcategory": "Delicate Fabrics",
+  "subcategory_slug": "delicate-fabrics",
+  "excerpt": "Wool and other delicate textiles may need different care because fibre response, fabric construction, dyes, finishes and shape retention can all limit ordinary wash, agitation and drying conditions.",
+  "content_html": "<p>Wool is a useful example of why “washable” does not mean “use any wash process.” Many wool items can be machine washed, but only when the garment care claim and selected cycle support it. Other delicate textiles can have entirely different limits.</p>\n<h2 id=\"wool-fibre\">Wool has specific fibre behaviour</h2><p>Wool fibres can respond strongly to combinations of moisture, heat and mechanical action. Controlled wool or delicate cycles reduce unnecessary stress compared with ordinary high-action programs.</p>\n<h2 id=\"care-claim\">The care claim decides the method</h2><p>Woolmark guidance emphasizes checking the garment care claim before choosing machine washing, hand washing or another method. The same principle applies to other delicate textiles: the finished item, not just the fibre name, determines the process.</p>\n<h2 id=\"detergent\">Product compatibility matters</h2><p>Woolmark recommends a mild, neutral detergent for washable wool. More broadly, delicate textiles may have limits related to alkalinity, bleaching systems, enzymes, solvents or finishes, so the approved product system matters.</p>\n<h2 id=\"mechanical\">Mechanical stress matters</h2><p>Stretching, twisting, snagging and repeated agitation can distort delicate knits, fine yarns and shaped garments. Lower-action handling can help preserve dimensions and surface appearance.</p>\n<h2 id=\"drying\">Drying can be as important as washing</h2><p>Wet textiles can be heavier and easier to distort. Woolmark advises flat drying for many wool garments unless the care claim permits another method. Other delicate items may require their own drying restrictions.</p>\n<h2 id=\"not-all-delicates\">Not all delicates are wool</h2><p>Silk, fine synthetics, lace, coated fabrics and decorated garments have different risks. Do not transfer a wool-care method automatically to every item labelled delicate.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Wool and delicate textiles need process matching, not guesswork. Read the care label, choose compatible chemistry and control mechanical and drying stress for the specific item.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.woolmark.com/care/how-to-wash-wool/\">Woolmark — How to Wash Wool</a>.</li><li id=\"ref-2\"><a href=\"https://www.woolmark.com/care/care-for-wool/\">Woolmark — Caring for Wool</a>.</li><li id=\"ref-3\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Complying with the Care Labeling Rule</a>.</li></ol>",
+  "seo_title": "Why Wool and Delicate Fabrics Need Different Care | Alle's ClinX",
+  "meta_description": "Learn why wool and delicate fabrics need process-specific care based on fibre behaviour, care labels, compatible detergent, mechanical stress and drying.",
+  "related_article_ids": [
+    "ACX-KB-0114",
+    "ACX-KB-0112",
+    "ACX-KB-0106"
+  ]
+}

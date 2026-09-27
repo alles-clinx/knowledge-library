@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0114",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0114",
+  "title": "किस चीज़ से fabric delicate बनती है?",
+  "slug": "what-makes-a-fabric-delicate",
+  "subcategory": "Delicate Fabrics",
+  "subcategory_slug": "delicate-fabrics",
+  "excerpt": "Fabric fibre, yarn, knit/weave, dye, finish, decoration या garment construction के कारण delicate हो सकती है। Delicate care एक compatibility decision है, single fibre category नहीं।",
+  "content_html": "<p>“Delicate” कोई single fibre name नहीं है। Textile को gentler care fibre, yarn/fabric construction, colour/finish या finished item assembly के कारण चाहिए हो सकती है।</p>\n<h2 id=\"hi114-fibre\">Fibre sensitivity</h2><p>कुछ fibres heat, alkalinity, abrasion, stretching या repeated agitation के प्रति ज्यादा sensitive होती हैं। इसलिए care instructions garments के बीच अलग होती हैं।</p>\n<h2 id=\"hi114-construction\">Yarn और fabric construction</h2><p>Fine yarns, loose knits, open weaves, pile fabrics और lightweight constructions dense structures से ज्यादा easily distort/snag हो सकती हैं।</p>\n<h2 id=\"hi114-dye\">Dyes और finishes</h2><p>Colourfastness, coatings, prints और functional finishes acceptable temperature, chemistry, friction या drying conditions limit कर सकती हैं। Strong fibre भी delicate finished textile का हिस्सा हो सकती है।</p>\n<h2 id=\"hi114-decoration\">Decoration और components</h2><p>Embroidery, trims, elastic, laminates, adhesives, linings और shaped components whole item को main fabric से ज्यादा sensitive बना सकते हैं।</p>\n<h2 id=\"hi114-label\">Care label combined risks बताती है</h2><p>FTC Care Labeling Rule का principle है कि care instructions substantial harm avoid करने वाली procedure reflect करें। Full construction unknown हो तो care label first control है।</p>\n<h2 id=\"hi114-handling\">Delicate care stress reduce करती है</h2><p>Gentler care generally mechanical action, temperature, extraction और drying stress control करती है। इसका मतलब हर delicate item का same process नहीं है।</p>\n<h2 id=\"hi114-takeaway\">Practical takeaway</h2><p>Fabric तब “delicate” है जब textile system का कोई हिस्सा ordinary cleaning stress की limited tolerance रखता है। Process select करने से पहले fibre, construction और care label identify करें।</p>\n<h2 id=\"hi114-references\">संदर्भ</h2><ol><li id=\"hi114-ref-1\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Complying with the Care Labeling Rule</a>.</li><li id=\"hi114-ref-2\"><a href=\"https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods\">U.S. FTC — Care Labeling Rule</a>.</li></ol>",
+  "seo_title": "Fabric Delicate क्यों होती है? | Alle's ClinX",
+  "meta_description": "Fibre type, construction, dyes, finishes, decoration और garment components textile को delicate care क्यों require कराते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0115",
+    "ACX-KB-0112",
+    "ACX-KB-0113"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0112",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Fabric Softener Can Change Textile Feel",
+  "slug": "why-fabric-softener-can-change-textile-feel",
+  "subcategory": "Fabric Softening",
+  "subcategory_slug": "fabric-softening",
+  "excerpt": "Fabric softener can change textile feel because conditioning ingredients alter surface friction, fibre movement and static. The result depends on fibre type, formulation, dose and repeated use.",
+  "content_html": "<p>Softness is a surface and structure effect, not just a visual property. Fabric softener can change how fibres slide past each other, how much static they carry and how the fabric flexes in the hand.</p>\n<h2 id=\"friction\">Lower surface friction</h2><p>Conditioning ingredients can coat or associate with fibre surfaces. That can reduce friction between neighbouring fibres, which is often perceived as smoother or softer handling.</p>\n<h2 id=\"movement\">Fibre movement changes</h2><p>When fibre-to-fibre interaction changes, the textile may bend, fold or drape differently. The effect can be subtle on one construction and much more noticeable on another.</p>\n<h2 id=\"static\">Static affects feel too</h2><p>Static can make synthetic textiles cling or feel crisp after drying. A softening system that reduces static can therefore change handling even when the fabric structure itself has not changed.</p>\n<h2 id=\"fibre\">Fibre type matters</h2><p>Cotton, polyester, wool and blended textiles have different surfaces and moisture behaviour. The same finishing product may not create the same sensory result on every fibre.</p>\n<h2 id=\"dose\">Dose and repeated use matter</h2><p>More product can increase deposition rather than improve softness indefinitely. Repeated use can also change absorbency, surface feel or residue level, depending on the textile and formulation.</p>\n<h2 id=\"care-label\">Care instructions override assumptions</h2><p>The FTC Care Labeling Rule reflects a broader principle: cleaning and finishing procedures must be compatible with the garment. Follow the textile care label and approved product instructions instead of assuming every washable item should be softened.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Fabric softener changes feel by changing surface behaviour. The final result comes from the interaction of formulation, dose, fibre, fabric construction and drying conditions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Complying with the Care Labeling Rule</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Why Fabric Softener Can Change Textile Feel | Alle's ClinX",
+  "meta_description": "See how fabric softener changes textile feel through surface friction, fibre movement and static, and why fibre type, dose and repeated use matter.",
+  "related_article_ids": [
+    "ACX-KB-0111",
+    "ACX-KB-0113",
+    "ACX-KB-0114"
+  ]
+}

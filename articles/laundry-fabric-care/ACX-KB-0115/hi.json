@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0115",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0115",
+  "title": "Wool और delicate fabrics को different care क्यों चाहिए",
+  "slug": "why-wool-and-delicate-fabrics-need-different-care",
+  "subcategory": "Delicate Fabrics",
+  "subcategory_slug": "delicate-fabrics",
+  "excerpt": "Wool और other delicate textiles को fibre response, construction, dyes, finishes और shape retention के कारण ordinary wash, agitation और drying से different care चाहिए हो सकती है।",
+  "content_html": "<p>Wool यह समझने का useful example है कि “washable” का मतलब “any wash process” नहीं है। कई wool items machine washable होती हैं, लेकिन तभी जब care claim और selected cycle support करें। Other delicate textiles की limits अलग हो सकती हैं।</p>\n<h2 id=\"hi115-wool\">Wool की specific fibre behaviour</h2><p>Wool fibres moisture, heat और mechanical action के combinations पर strongly respond कर सकती हैं। Controlled wool/delicate cycles ordinary high-action programs से unnecessary stress कम करती हैं।</p>\n<h2 id=\"hi115-claim\">Care claim method तय करती है</h2><p>Woolmark garment care claim check करने पर जोर देता है before machine washing, hand washing या another method. Same principle other delicates पर apply होता है: finished item process तय करती है।</p>\n<h2 id=\"hi115-detergent\">Product compatibility matter करती है</h2><p>Woolmark washable wool के लिए mild, neutral detergent recommend करता है। Other delicate textiles में alkalinity, bleaching systems, enzymes, solvents या finishes की अलग limits हो सकती हैं।</p>\n<h2 id=\"hi115-mechanical\">Mechanical stress matter करती है</h2><p>Stretching, twisting, snagging और repeated agitation delicate knits, fine yarns और shaped garments distort कर सकते हैं। Lower-action handling dimensions/surface appearance preserve करने में मदद कर सकती है।</p>\n<h2 id=\"hi115-drying\">Drying washing जितनी important हो सकती है</h2><p>Wet textiles heavier और easier to distort हो सकती हैं। Woolmark कई wool garments के लिए flat drying advise करता है unless care claim दूसरा method permit करे।</p>\n<h2 id=\"hi115-delicates\">हर delicate wool नहीं है</h2><p>Silk, fine synthetics, lace, coated fabrics और decorated garments की risks अलग हैं। Wool-care method हर “delicate” item पर automatically apply न करें।</p>\n<h2 id=\"hi115-takeaway\">Practical takeaway</h2><p>Wool और delicate textiles को process matching चाहिए। Care label पढ़ें, compatible chemistry choose करें और specific item के लिए mechanical/drying stress control करें।</p>\n<h2 id=\"hi115-references\">संदर्भ</h2><ol><li id=\"hi115-ref-1\"><a href=\"https://www.woolmark.com/care/how-to-wash-wool/\">Woolmark — How to Wash Wool</a>.</li><li id=\"hi115-ref-2\"><a href=\"https://www.woolmark.com/care/care-for-wool/\">Woolmark — Caring for Wool</a>.</li><li id=\"hi115-ref-3\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Complying with the Care Labeling Rule</a>.</li></ol>",
+  "seo_title": "Wool और Delicate Fabrics Care | Alle's ClinX",
+  "meta_description": "Wool और delicate fabrics में fibre behaviour, care labels, compatible detergent, mechanical stress और drying requirements क्यों अलग हो सकती हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0114",
+    "ACX-KB-0112",
+    "ACX-KB-0106"
+  ]
+}

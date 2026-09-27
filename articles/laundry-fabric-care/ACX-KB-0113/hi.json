@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0113",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0113",
+  "title": "Fabric softening vs fabric conditioning",
+  "slug": "fabric-softening-vs-fabric-conditioning",
+  "subcategory": "Fabric Softening",
+  "subcategory_slug": "fabric-softening",
+  "excerpt": "Fabric softening textile को less harsh feel कराने वाला sensory result है, जबकि fabric conditioning broader finishing process है जो static, handling और other surface properties भी affect कर सकती है।",
+  "content_html": "<p>“Softening” और “conditioning” अक्सर same meaning में use होते हैं। Practical terms में softening एक desired result है, जबकि conditioning broader treatment है जो textile surface behaviour change करती है।</p>\n<h2 id=\"hi113-softening\">Softening feel पर focus करती है</h2><p>Fabric softening usually perceived harshness reduce और smoothness/flexibility increase करने को refer करती है। Outcome mainly textile feel और handling से judge होती है।</p>\n<h2 id=\"hi113-conditioning\">Conditioning broader है</h2><p>Conditioning treatment softness, static, friction, drape और handling एक साथ influence कर सकती है। Exact benefit chemistry और textile पर depend करती है।</p>\n<h2 id=\"hi113-same\">एक product दोनों कर सकती है</h2><p>Commercial rinse product “softener” नाम से market हो सकती है लेकिन static reduction जैसे conditioning effects भी दे सकती है। Product name हर function नहीं बताता।</p>\n<h2 id=\"hi113-performance\">Performance textiles में caution</h2><p>कुछ textiles absorbency, wicking, flame resistance, coatings या engineered surface properties पर depend करती हैं। Pleasant feel देने वाली finish भी unsuitable हो सकती है अगर performance interfere करे।</p>\n<h2 id=\"hi113-process\">Conditioning finishing step है</h2><p>Softening/conditioning cleaning replace नहीं करती। Detergent soil remove करती है; rinsing wash liquor remove करती है; finishing selected properties change करती है।</p>\n<h2 id=\"hi113-selection\">Textile requirement से choose करें</h2><p>Care label, textile function और approved product directions से start करें। Specific performance requirement generic softer feel से ज्यादा important है।</p>\n<h2 id=\"hi113-takeaway\">Practical takeaway</h2><p>Softening outcome है; conditioning broader finishing process है। Laundry program specify करते समय desired textile property clear रखें।</p>\n<h2 id=\"hi113-references\">संदर्भ</h2><ol><li id=\"hi113-ref-1\"><a href=\"https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods\">U.S. FTC — Care Labeling Rule</a>.</li><li id=\"hi113-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Fabric Softening vs Conditioning | Alle's ClinX",
+  "meta_description": "Fabric softening sensory outcome और fabric conditioning broader finishing process में क्या अंतर है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0111",
+    "ACX-KB-0112",
+    "ACX-KB-0114"
+  ]
+}
