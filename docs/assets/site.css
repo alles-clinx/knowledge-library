@@ -600,6 +600,13 @@ body.acx-menu-open,body.acx-search-open{overflow:hidden}
   border:1px solid #26272a;
   box-shadow:0 24px 60px rgba(0,0,0,.16);
 }
+body.acx-menu-open::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  z-index:998;
+  background:#101113;
+}
 .acx-mobile-drawer-inner{
   width:min(100% - 56px,1040px);
   min-height:calc(100dvh - 122px);
