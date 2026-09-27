@@ -65,31 +65,15 @@
     ['Support','https://allesclinx.com/support/']
   ];
 
-  const dropdowns={
-    Solutions:[['Industrial hygiene systems','/solutions/industrial/'],['Healthcare hygiene systems','/solutions/healthcare/'],['Campus hygiene systems','/solutions/campus/'],['Hospitality hygiene systems','/solutions/hospitality/']],
-    ClinXAi:[['Nova','/nova/'],['Metricon','/metricon/'],['CheckMate','/checkmate/']],
-    Plus:[['Hygiene Passport','/plus/hygiene-passport/'],['Supply Planner','/plus/supply-planner/'],['Facility Tools','/plus/facility-tools/']]
-  };
   function navLinks(){
     return nav.map(([label,href])=>'<a href="'+href+'">'+label+'</a>').join('');
   }
-  function desktopNavLinks(){
-    return nav.map(([label,href])=>{
-      const children=dropdowns[label];
-      if(!children) return '<a href="'+href+'">'+label+'</a>';
-      return '<div class="acx-nav-group"><a href="'+href+'">'+label+'</a><button type="button" class="acx-dropdown-toggle" aria-label="Expand '+label+' links" aria-expanded="false" aria-controls="acx-nav-'+label+'">⌄</button><div class="acx-nav-dropdown" id="acx-nav-'+label+'">'+children.map(([title,path])=>'<a href="https://allesclinx.com'+path+'">'+title+'</a>').join('')+'</div></div>';
-    }).join('');
-  }
-
   const header=document.createElement('div');
   header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
-    '<div class="acx-brand-cluster"><a class="acx-wordmark" href="https://allesclinx.com/" aria-label="Alle\'s ClinX main website">Alle\'s ClinX</a><span class="acx-brand-divider" aria-hidden="true"></span><a class="acx-context-link" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Knowledge</a></div>'+
-    '<nav class="acx-primary-nav" aria-label="Primary">'+desktopNavLinks()+'</nav>'+
-    '<div class="acx-site-actions"><button class="acx-install-app" type="button" hidden aria-label="Install Alle\'s ClinX Knowledge app">Install</button><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'<span class="acx-search-label">Search</span><kbd>⌘K</kbd></button>'+
-    '<a class="acx-header-utility" href="https://allesclinx.com/cart/" aria-label="Shopping cart"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9h18l-2 11H5L3 9Zm4 0 5-6 5 6M9 12v5m6-5v5"/></svg></a><a class="acx-header-utility" href="https://allesclinx.com/my-account/" aria-label="My account"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/></svg></a>'+
+    '<div class="acx-brand-cluster"><a class="acx-wordmark" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Alle\'s ClinX</a></div>'+
+    '<div class="acx-site-actions"><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button><button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app">Install</button>'+
     '<button class="acx-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="acx-mobile-drawer">Menu</button></div></div>'+
     '<div class="acx-mobile-drawer" id="acx-mobile-drawer" role="dialog" aria-modal="true" aria-label="Explore Alle\'s ClinX Knowledge" aria-hidden="true"><div class="acx-mobile-drawer-inner">'+
-      '<button class="acx-mobile-search" type="button" aria-label="Search Knowledge">'+searchIcon+'<span>Search Knowledge</span><span class="acx-mobile-search-key">⌘K</span></button>'+
       '<section class="acx-mobile-section" aria-labelledby="acx-mobile-knowledge-label">'+
         '<div class="acx-mobile-section-head"><span id="acx-mobile-knowledge-label">Knowledge</span><span class="acx-mobile-guide-count" aria-live="polite"></span></div>'+
         '<nav class="acx-mobile-knowledge-nav" aria-label="Knowledge navigation"><a href="'+BASE+'" data-internal="true"><span>Knowledge home</span></a></nav>'+
@@ -107,12 +91,18 @@
 
   const installBtn=document.querySelector('.acx-install-app');
   let deferredInstallPrompt=null;
+  const installNote=document.createElement('div');
+  installNote.className='acx-install-note';
+  installNote.setAttribute('role','status');
+  installNote.hidden=true;
+  document.body.appendChild(installNote);
+  let installNoteTimer;
   function isStandalone(){
     return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone===true;
   }
   function syncInstallButton(){
     if(!installBtn) return;
-    installBtn.hidden=isStandalone() || !deferredInstallPrompt;
+    installBtn.hidden=isStandalone();
   }
   window.addEventListener('beforeinstallprompt',function(event){
     event.preventDefault();
@@ -121,7 +111,15 @@
   });
   if(installBtn){
     installBtn.addEventListener('click',async function(){
-      if(!deferredInstallPrompt) return;
+      if(!deferredInstallPrompt){
+        installNote.textContent=/iPhone|iPad|iPod/i.test(navigator.userAgent)
+          ? 'In Safari, tap Share, then Add to Home Screen.'
+          : 'Use your browser menu to install this app or add it to your home screen.';
+        installNote.hidden=false;
+        clearTimeout(installNoteTimer);
+        installNoteTimer=setTimeout(function(){installNote.hidden=true;},6000);
+        return;
+      }
       deferredInstallPrompt.prompt();
       try{await deferredInstallPrompt.userChoice;}catch(error){}
       deferredInstallPrompt=null;
@@ -177,24 +175,6 @@
   }
   window.addEventListener('scroll',syncHeaderState,{passive:true});
   syncHeaderState();
-
-  // Keep dropdown hit areas continuous; click and keyboard work alongside hover.
-  document.querySelectorAll('.acx-nav-group').forEach(function(group){
-    const toggle=group.querySelector('button');
-    function expanded(open){group.classList.toggle('is-expanded',open);toggle.setAttribute('aria-expanded',String(open));}
-    group.addEventListener('mouseenter',function(){expanded(true);});
-    group.addEventListener('mouseleave',function(){if(!group.contains(document.activeElement)) expanded(false);});
-    group.addEventListener('focusin',function(){expanded(true);});
-    group.addEventListener('focusout',function(event){if(!group.contains(event.relatedTarget)) expanded(false);});
-    toggle.addEventListener('click',function(){expanded(true);});
-    group.addEventListener('keydown',function(event){if(event.key==='Escape'){event.preventDefault();event.stopPropagation();group.querySelector('a').focus();expanded(false);}});
-  });
-
-  const bottomBrand=document.createElement('div');
-  bottomBrand.className='acx-bottom-brand';
-  bottomBrand.setAttribute('aria-hidden','true');
-  bottomBrand.textContent="Alle's ClinX";
-  document.body.appendChild(bottomBrand);
 
   const dialog=document.createElement('div');
   dialog.className='acx-search-dialog';
