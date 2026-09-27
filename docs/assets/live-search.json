@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 320,
+  "record_count": 330,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3522,6 +3522,116 @@
       "subcategory_slug": "hand-hygiene-stations",
       "excerpt": "Hand-hygiene station expected method के resources provide करे: handwashing के लिए reliable water, soap और hygienic drying; और sanitising के लिए appropriately placed hand rub।",
       "url": "library/hand-hygiene/hand-hygiene-stations/what-should-a-hand-hygiene-station-include/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0161",
+      "locale": "en",
+      "title": "Where Should Hand-Hygiene Stations Be Positioned?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Stations",
+      "subcategory_slug": "hand-hygiene-stations",
+      "excerpt": "Hand-hygiene stations should be positioned where the workflow creates a need for hand hygiene, with point-of-care hand rub in clinical settings and accessible handwashing resources where soap and water are required.",
+      "url": "library/hand-hygiene/hand-hygiene-stations/where-should-hand-hygiene-stations-be-positioned/"
+    },
+    {
+      "article_id": "ACX-KB-0161",
+      "locale": "hi-IN",
+      "title": "Hand-hygiene stations कहाँ position करनी चाहिए?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Stations",
+      "subcategory_slug": "hand-hygiene-stations",
+      "excerpt": "Hand-hygiene stations वहाँ position हों जहाँ workflow hand hygiene की need बनाती है—clinical setting में point-of-care hand rub और washing indications के लिए accessible soap/water resources।",
+      "url": "library/hand-hygiene/hand-hygiene-stations/where-should-hand-hygiene-stations-be-positioned/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0162",
+      "locale": "en",
+      "title": "Why Dispenser Design Matters for Hand Hygiene",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Dispensers & Refills",
+      "subcategory_slug": "dispensers-refills",
+      "excerpt": "Hand-hygiene dispenser design affects whether the product is easy to identify, reach, dispense and maintain without contamination, leakage, missed doses or avoidable workflow friction.",
+      "url": "library/hand-hygiene/dispensers-refills/why-dispenser-design-matters-for-hand-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0162",
+      "locale": "hi-IN",
+      "title": "Hand hygiene के लिए dispenser design क्यों matter करती है",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Dispensers & Refills",
+      "subcategory_slug": "dispensers-refills",
+      "excerpt": "Hand-hygiene dispenser design affect करती है कि product identify, reach, dispense और maintain करना कितना easy है—बिना contamination, leakage या avoidable workflow friction के।",
+      "url": "library/hand-hygiene/dispensers-refills/why-dispenser-design-matters-for-hand-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0163",
+      "locale": "en",
+      "title": "Bulk Refill vs Sealed Cartridge Systems: What Changes?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Dispensers & Refills",
+      "subcategory_slug": "dispensers-refills",
+      "excerpt": "Bulk-refill and sealed-cartridge systems differ in refill handling, dispenser cleaning, contamination controls, stock format, waste and compatibility. Neither should be managed as a simple top-up task.",
+      "url": "library/hand-hygiene/dispensers-refills/bulk-refill-vs-sealed-cartridge-systems-what-changes/"
+    },
+    {
+      "article_id": "ACX-KB-0163",
+      "locale": "hi-IN",
+      "title": "Bulk refill vs sealed cartridge systems: क्या बदलता है?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Dispensers & Refills",
+      "subcategory_slug": "dispensers-refills",
+      "excerpt": "Bulk-refill और sealed-cartridge systems refill handling, dispenser cleaning, contamination controls, stock format, waste और compatibility में differ करती हैं। दोनों simple top-up task नहीं हैं।",
+      "url": "library/hand-hygiene/dispensers-refills/bulk-refill-vs-sealed-cartridge-systems-what-changes/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0164",
+      "locale": "en",
+      "title": "What Is a Facility Hand-Hygiene Program?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Programs",
+      "subcategory_slug": "hand-hygiene-programs",
+      "excerpt": "A facility hand-hygiene program is a managed system that combines accessible infrastructure and supplies with procedures, training, reminders, monitoring, feedback and leadership support.",
+      "url": "library/hand-hygiene/hand-hygiene-programs/what-is-a-facility-hand-hygiene-program/"
+    },
+    {
+      "article_id": "ACX-KB-0164",
+      "locale": "hi-IN",
+      "title": "Facility hand-hygiene program क्या है?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Programs",
+      "subcategory_slug": "hand-hygiene-programs",
+      "excerpt": "Facility hand-hygiene program accessible infrastructure और supplies को procedures, training, reminders, monitoring, feedback और leadership support से जोड़ने वाला managed system है।",
+      "url": "library/hand-hygiene/hand-hygiene-programs/what-is-a-facility-hand-hygiene-program/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0165",
+      "locale": "en",
+      "title": "Measuring Hand-Hygiene Supply Availability",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Programs",
+      "subcategory_slug": "hand-hygiene-programs",
+      "excerpt": "Measuring hand-hygiene supply availability means checking whether the correct product and supporting resources are present, usable and reachable at defined locations and times—not only whether stock exists somewhere in the facility.",
+      "url": "library/hand-hygiene/hand-hygiene-programs/hand-hygiene-supply-availability/"
+    },
+    {
+      "article_id": "ACX-KB-0165",
+      "locale": "hi-IN",
+      "title": "Hand-hygiene supply availability को measure करना",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Programs",
+      "subcategory_slug": "hand-hygiene-programs",
+      "excerpt": "Supply availability measure करने का अर्थ correct product और supporting resources को defined place/time पर present, usable और reachable check करना है—सिर्फ facility stock count नहीं।",
+      "url": "library/hand-hygiene/hand-hygiene-programs/hand-hygiene-supply-availability/hi.html"
     }
   ]
 }
