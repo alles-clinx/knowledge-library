@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0150",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0150",
+  "title": "Infection-prevention cleaning में documentation",
+  "slug": "documentation-infection-prevention-cleaning",
+  "subcategory": "Infection Prevention Workflows",
+  "subcategory_slug": "infection-prevention-workflows",
+  "excerpt": "Documentation infection-prevention cleaning को traceable बनाती है—क्या scheduled था, कौन responsible था, work कब complete हुआ, कौनसा method use हुआ और monitoring/corrective action क्या रही।",
+  "content_html": "<p>Documentation environmental cleaning को assumed activity से traceable process बनाती है। Good records दिखाती हैं कि क्या clean होना था, कौन responsible था, task कब हुआ और monitoring ने कोई gap identify की या नहीं।</p>\n<h2 id=\"hi150-purpose\">Documentation क्यों matter करती है</h2><p>Cleaning records accountability, supervision और shifts/teams के बीच continuity support करती हैं। IPC/facility leaders को defined procedures के actual implementation का evidence भी मिलता है।</p>\n<h2 id=\"hi150-schedules\">Defined cleaning schedule से start करें</h2><p>CDC facility cleaning schedules में location/area, cleaning session, frequency, method/process और responsible staff identify करने की guidance देता है।</p>\n<h2 id=\"hi150-logs\">Completion record करने के लिए logs use करें</h2><p>Cleaning logs date, area/room, cleaning event और work complete करने वाले staff का name/signature record कर सकती हैं। Periodic tasks भी track होने चाहिए।</p>\n<h2 id=\"hi150-responsibility\">Documentation assigned responsibility से match करे</h2><p>जहाँ environmental services और clinical teams duties share करती हैं, record में task ownership clear हो। Unclear responsibility map को documentation alone fix नहीं कर सकती।</p>\n<h2 id=\"hi150-monitoring\">Monitoring records second layer देती हैं</h2><p>Routine monitoring direct observation, visual assessment, fluorescent markers या facility-appropriate validated methods include कर सकती है। Record में क्या assess हुआ, किसने किया और result क्या था capture करें।</p>\n<h2 id=\"hi150-corrective\">Gaps मिलने पर corrective action record करें</h2><p>Missed surfaces, wrong technique या deficiencies identify हों तो useful documentation feedback, retraining, resource correction या defined response support करे।</p>\n<h2 id=\"hi150-quality\">Records usable रखें</h2><p>Documentation simple, accessible और routinely reviewable होनी चाहिए। ऐसा excess paperwork जो review ही न हो, infection prevention improve नहीं करती।</p>\n<h2 id=\"hi150-privacy\">Sensitive information protect करें</h2><p>Cleaning documentation accountability के लिए required operational information record करे, unnecessary patient information नहीं। Facility privacy/records policy follow करें।</p>\n<h2 id=\"hi150-takeaway\">Practical takeaway</h2><p>Effective cleaning documentation चार questions answer करती है: क्या required था, कौन responsible था, क्या complete हुआ, और monitoring में problem मिलने पर क्या action हुआ।</p>\n<h2 id=\"hi150-references\">संदर्भ</h2><ol><li id=\"hi150-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Environmental Cleaning Programs</a>.</li><li id=\"hi150-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi150-ref-3\"><a href=\"https://www.cdc.gov/infection-control/php/evaluating-environmental-cleaning/\">CDC — Options for Evaluating Environmental Cleaning</a>.</li><li id=\"hi150-ref-4\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "Infection-Prevention Cleaning Documentation | Alle's ClinX",
+  "meta_description": "Cleaning schedules, completion logs, responsibilities, monitoring records और corrective-action documentation infection-prevention cleaning को कैसे support करती है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0147",
+    "ACX-KB-0148",
+    "ACX-KB-0149"
+  ]
+}

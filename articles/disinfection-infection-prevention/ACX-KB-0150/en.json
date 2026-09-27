@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0150",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Documentation in Infection-Prevention Cleaning",
+  "slug": "documentation-infection-prevention-cleaning",
+  "subcategory": "Infection Prevention Workflows",
+  "subcategory_slug": "infection-prevention-workflows",
+  "excerpt": "Documentation makes infection-prevention cleaning traceable by recording what was scheduled, who was responsible, when work was completed, what method was used, and what monitoring or corrective action followed.",
+  "content_html": "<p>Documentation turns environmental cleaning from an assumed activity into a traceable process. Good records show what should have been cleaned, who was responsible, when the task occurred and whether monitoring identified any gaps.</p>\n<h2 id=\"purpose\">Why documentation matters</h2><p>Cleaning records support accountability, supervision and continuity between shifts or teams. They also give infection-prevention and facility leaders evidence that defined procedures are being carried out rather than simply presumed.</p>\n<h2 id=\"schedules\">Start with a defined cleaning schedule</h2><p>CDC guidance recommends facility cleaning schedules that identify the location or area, cleaning session, frequency, method or process, and the staff responsible for the task.</p>\n<h2 id=\"logs\">Use logs to record completion</h2><p>Cleaning logs can record the date, area or room, cleaning event and the name or signature of the person completing the work. Periodic tasks should also be tracked so less-frequent cleaning is not missed.</p>\n<h2 id=\"responsibility\">Documentation should match assigned responsibility</h2><p>Where environmental services and clinical teams share cleaning duties, the record should reflect who owns each task. Documentation cannot correct an unclear responsibility map; the workflow must define ownership first.</p>\n<h2 id=\"monitoring\">Monitoring records add a second layer</h2><p>Routine monitoring can include direct observation, visual assessment, fluorescent markers or other validated methods appropriate to the facility. Monitoring records should identify what was assessed, by whom and what result was found.</p>\n<h2 id=\"corrective-action\">Record corrective action when gaps are found</h2><p>When monitoring identifies missed surfaces, incorrect technique or other deficiencies, the useful record is not only the failure itself. It should also support feedback, retraining, resource correction or another defined response.</p>\n<h2 id=\"quality\">Keep records usable</h2><p>Documentation should be simple enough to complete consistently, located where staff can access it, and structured so supervisors can review it routinely. Excess paperwork that is not reviewed does not improve infection prevention.</p>\n<h2 id=\"privacy\">Protect sensitive information</h2><p>Cleaning documentation should record the operational information needed for accountability without adding unnecessary patient information. Follow facility privacy and records-management policies.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Effective cleaning documentation answers four questions: what was required, who was responsible, was it completed, and what happened when monitoring found a problem.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Environmental Cleaning Programs</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/php/evaluating-environmental-cleaning/\">CDC — Options for Evaluating Environmental Cleaning</a>.</li><li id=\"ref-4\"><a href=\"https://www.who.int/publications/i/item/9789240051065\">WHO — Environmental Cleaning and IPC in Health Care Facilities</a>.</li></ol>",
+  "seo_title": "Documentation in Infection-Prevention Cleaning | Alle's ClinX",
+  "meta_description": "Learn how cleaning schedules, completion logs, assigned responsibilities, monitoring records and corrective-action documentation support infection-prevention cleaning.",
+  "related_article_ids": [
+    "ACX-KB-0147",
+    "ACX-KB-0148",
+    "ACX-KB-0149"
+  ]
+}
