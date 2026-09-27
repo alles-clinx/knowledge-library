@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0153",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Makes a Handwashing Station Effective?",
+  "slug": "what-makes-a-handwashing-station-effective",
+  "subcategory": "Handwashing",
+  "subcategory_slug": "handwashing",
+  "excerpt": "An effective handwashing station combines reliable water, soap, hygienic drying, safe drainage, convenient access, clear cues and routine maintenance so people can clean their hands when needed.",
+  "content_html": "<p>A handwashing station is effective when it makes correct handwashing easy to perform at the moment it is needed. Hardware alone is not enough; supplies, access, drainage, maintenance and placement all matter.</p>\n<h2 id=\"water\">Reliable water supply</h2><p>The station needs a dependable supply of suitable water. Intermittent or inaccessible water turns the sink into a visual feature rather than a functional hygiene control.</p>\n<h2 id=\"soap\">Soap must be available</h2><p>Plain soap is sufficient for routine community handwashing. Dispensers should be easy to use, routinely refilled and kept clean.</p>\n<h2 id=\"drying\">Hygienic drying matters</h2><p>Single-use towels or another facility-approved hygienic drying method should be available where required. Wet hands can transfer microorganisms more readily than properly dried hands.</p>\n<h2 id=\"drainage\">Water needs safe drainage</h2><p>The station should manage wastewater without creating standing water, splash, overflow or another contamination problem around the handwashing area.</p>\n<h2 id=\"access\">Placement should match the task</h2><p>Stations should be convenient and accessible where handwashing is expected. Long walking distances, blocked access or poorly placed sinks reduce practical compliance.</p>\n<h2 id=\"supplies\">Supplies need routine checks</h2><p>Water, soap and drying materials should be included in facility inspection routines. A station that repeatedly runs out of supplies is not reliable.</p>\n<h2 id=\"cues\">Clear information supports correct use</h2><p>Simple reminders can show when and how to clean hands. WHO identifies clear information and a supportive physical environment as core requirements for community hand hygiene.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>An effective handwashing station is a maintained system: water, soap, drying, drainage, placement, supplies and clear user cues all need to work together.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/news-room/feature-stories/detail/testing-the-who-guidelines-on-hand-hygiene-in-health-care-in-eight-pilot-sites-worldwide\">WHO — Hand Hygiene Implementation</a>.</li></ol>",
+  "seo_title": "What Makes a Handwashing Station Effective? | Alle's ClinX",
+  "meta_description": "Learn how reliable water, soap, drying, drainage, accessible placement, supply checks and clear cues make a handwashing station effective.",
+  "related_article_ids": [
+    "ACX-KB-0151",
+    "ACX-KB-0152",
+    "ACX-KB-0154"
+  ]
+}

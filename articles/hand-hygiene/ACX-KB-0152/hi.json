@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0152",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0152",
+  "title": "Handwashing vs hand sanitising",
+  "slug": "handwashing-vs-hand-sanitising",
+  "subcategory": "Handwashing",
+  "subcategory_slug": "handwashing",
+  "excerpt": "Handwashing soap/water से soil और germs physically remove करती है, जबकि alcohol-based hand sanitising many germs inactivate करती है। Preferred method setting और visible dirt पर depend करती है।",
+  "content_html": "<p>Handwashing और hand sanitising दोनों hand hygiene forms हैं, लेकिन अलग तरीके से work करती हैं। Handwashing contamination rinse away करती है; alcohol-based sanitiser many germs reduce करती है without sink.</p>\n<h2 id=\"hi152-washing\">Handwashing material remove करती है</h2><p>Soap, water और rubbing dirt, grease, organic matter और microorganisms loosen करके rinse away करते हैं। Visibly soiled hands में यह especially important है।</p>\n<h2 id=\"hi152-sanitising\">Hand sanitising many germs inactivate करती है</h2><p>Alcohol-based sanitiser hands की surfaces पर rub होकर germs reduce करती है। यह dirt या सभी contaminants को physically rinse away नहीं करती।</p>\n<h2 id=\"hi152-healthcare\">Healthcare में alcohol-based hand rub often preferred है</h2><p>CDC most routine clinical situations में, जब hands visibly soiled न हों, alcohol-based hand sanitizer prefer करता है।</p>\n<h2 id=\"hi152-soap\">Soap/water की specific roles हैं</h2><p>CDC visibly soiled hands, eating से पहले, restroom के बाद और कुछ outbreak situations में soap/water recommend करता है।</p>\n<h2 id=\"hi152-community\">Community settings अलग हैं</h2><p>Community use में soap/water generally preferred है। Available न हो और hands visibly dirty न हों तो at least 60% alcohol hand sanitizer alternative हो सकती है।</p>\n<h2 id=\"hi152-layer\">Methods automatically layer नहीं होतीं</h2><p>हर handwash के तुरंत बाद sanitizer use करना routine requirement नहीं है। Setting-specific procedure follow करें।</p>\n<h2 id=\"hi152-takeaway\">Practical takeaway</h2><p>Handwashing removes; alcohol-based sanitising inactivates. Setting, hand condition और applicable guidance से method choose करें।</p>\n<h2 id=\"hi152-references\">संदर्भ</h2><ol><li id=\"hi152-ref-1\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li><li id=\"hi152-ref-2\"><a href=\"https://cdc.gov/clean-hands/hcp/clinical-safety/index.html\">CDC — Clinical Safety: Hand Hygiene</a>.</li><li id=\"hi152-ref-3\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li></ol>",
+  "seo_title": "Handwashing vs Hand Sanitising | Alle's ClinX",
+  "meta_description": "Handwashing और alcohol-based sanitising को mechanism, setting, visible soil और preferred use से compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0151",
+    "ACX-KB-0154",
+    "ACX-KB-0155"
+  ]
+}

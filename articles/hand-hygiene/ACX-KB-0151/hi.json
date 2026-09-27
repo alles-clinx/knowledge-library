@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0151",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0151",
+  "title": "Facility hygiene में handwashing क्यों matter करती है",
+  "slug": "why-handwashing-matters-in-facility-hygiene",
+  "subcategory": "Handwashing",
+  "subcategory_slug": "handwashing",
+  "excerpt": "Handwashing hands से soil, germs और कुछ contaminants physically remove करके लोगों, surfaces, food और equipment के बीच contamination transfer opportunities कम करती है।",
+  "content_html": "<p>Hands facility में people, surfaces, equipment और tasks को connect करती हैं। Handwashing इस connection point से contamination remove करके transfer interrupt करने में मदद करती है।</p>\n<h2 id=\"hi151-transfer\">Hands contamination transfer कर सकती हैं</h2><p>Hands doors, rails, phones, tools, food-contact surfaces और people को frequently touch करती हैं। Hand hygiene न हो तो one location की contamination दूसरे तक जा सकती है।</p>\n<h2 id=\"hi151-removal\">Handwashing soil और germs physically remove करती है</h2><p>Soap, water और rubbing dirt, organic matter और many microorganisms loosen करके rinse away करते हैं। Visibly dirty/greasy hands में यह especially important है।</p>\n<h2 id=\"hi151-facility\">Facility hygiene surfaces और hands दोनों पर depend करती है</h2><p>Environmental cleaning surfaces clean कर सकती है, लेकिन unclean hands clean surfaces को तुरंत recontaminate कर सकती हैं।</p>\n<h2 id=\"hi151-moments\">Timing matter करती है</h2><p>Setting के अनुसार important moments vary करते हैं—restroom के बाद, food preparation/eating से पहले, cough/sneeze के बाद, contamination contact के बाद और relevant care tasks के around।</p>\n<h2 id=\"hi151-healthcare\">Healthcare में additional indications होती हैं</h2><p>CDC patient contact/aseptic task से पहले, patient/environment contact के बाद, blood/body-fluid contact के बाद और gloves remove करने के तुरंत बाद hand hygiene recommend करता है।</p>\n<h2 id=\"hi151-access\">Access compliance support करती है</h2><p>Reliable sinks, water, soap और drying materials available/maintained हों तभी handwashing system effectively work करती है।</p>\n<h2 id=\"hi151-takeaway\">Practical takeaway</h2><p>Handwashing isolated personal habit नहीं; यह facility-control measure है जो hands के through contamination transfer कम करती है।</p>\n<h2 id=\"hi151-references\">संदर्भ</h2><ol><li id=\"hi151-ref-1\"><a href=\"https://www.cdc.gov/clean-hands/about/index.html\">CDC — About Handwashing</a>.</li><li id=\"hi151-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"hi151-ref-3\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li></ol>",
+  "seo_title": "Facility Hygiene में Handwashing | Alle's ClinX",
+  "meta_description": "Handwashing soil/germs remove करके people, surfaces, food और equipment के बीच contamination transfer कैसे reduce करती है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0152",
+    "ACX-KB-0153",
+    "ACX-KB-0154"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0153",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0153",
+  "title": "Effective handwashing station में क्या होना चाहिए?",
+  "slug": "what-makes-a-handwashing-station-effective",
+  "subcategory": "Handwashing",
+  "subcategory_slug": "handwashing",
+  "excerpt": "Effective handwashing station reliable water, soap, hygienic drying, safe drainage, convenient access, clear cues और routine maintenance combine करती है।",
+  "content_html": "<p>Handwashing station तब effective है जब सही handwashing जरूरत के moment पर easy हो। Hardware alone enough नहीं; supplies, access, drainage, maintenance और placement matter करते हैं।</p>\n<h2 id=\"hi153-water\">Reliable water supply</h2><p>Station को dependable suitable water supply चाहिए। Intermittent/inaccessible water sink को functional hygiene control नहीं रहने देती।</p>\n<h2 id=\"hi153-soap\">Soap available हो</h2><p>Routine community handwashing के लिए plain soap sufficient है। Dispensers easy to use, clean और routinely refilled हों।</p>\n<h2 id=\"hi153-drying\">Hygienic drying matter करती है</h2><p>जहाँ required हो वहाँ single-use towels या approved hygienic drying method available होनी चाहिए।</p>\n<h2 id=\"hi153-drainage\">Safe drainage जरूरी है</h2><p>Wastewater standing water, splash या overflow create किए बिना safely drain हो।</p>\n<h2 id=\"hi153-access\">Placement task से match करे</h2><p>Stations convenient/accessible हों जहाँ handwashing expected है। Long walking distance या blocked access compliance reduce कर सकते हैं।</p>\n<h2 id=\"hi153-supplies\">Supplies routine check हों</h2><p>Water, soap और drying materials facility inspection routine का हिस्सा हों। Repeated stock-outs reliability reduce करते हैं।</p>\n<h2 id=\"hi153-cues\">Clear information correct use support करती है</h2><p>Simple reminders when/how to clean hands दिखा सकती हैं। WHO clear information और supportive environment को core requirement मानता है।</p>\n<h2 id=\"hi153-takeaway\">Practical takeaway</h2><p>Effective handwashing station maintained system है: water, soap, drying, drainage, placement, supplies और user cues साथ काम करें।</p>\n<h2 id=\"hi153-references\">संदर्भ</h2><ol><li id=\"hi153-ref-1\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li><li id=\"hi153-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"hi153-ref-3\"><a href=\"https://www.who.int/news-room/feature-stories/detail/testing-the-who-guidelines-on-hand-hygiene-in-health-care-in-eight-pilot-sites-worldwide\">WHO — Hand Hygiene Implementation</a>.</li></ol>",
+  "seo_title": "Effective Handwashing Station | Alle's ClinX",
+  "meta_description": "Reliable water, soap, drying, drainage, accessible placement, supply checks और clear cues effective handwashing station कैसे बनाते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0151",
+    "ACX-KB-0152",
+    "ACX-KB-0154"
+  ]
+}

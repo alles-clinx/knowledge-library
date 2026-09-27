@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0154",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Hand Sanitising?",
+  "slug": "what-is-hand-sanitising",
+  "subcategory": "Hand Sanitising",
+  "subcategory_slug": "hand-sanitising",
+  "excerpt": "Hand sanitising uses an approved hand antiseptic—commonly an alcohol-based hand rub—to reduce microorganisms on hands without rinsing with water. It works best when used in the right setting and on hands that are not visibly soiled.",
+  "content_html": "<p>Hand sanitising is a form of hand hygiene that uses an antiseptic product to reduce microorganisms on the hands without a water rinse. In healthcare, alcohol-based hand rub is the usual method for routine hand hygiene when hands are not visibly soiled.</p>\n<h2 id=\"product\">What product is used</h2><p>Alcohol-based hand rubs are commonly supplied as gels, foams or liquids designed specifically for use on hands. Use a product intended and approved for hand hygiene rather than a surface disinfectant.</p>\n<h2 id=\"how\">How it works</h2><p>The product is applied to the hands and rubbed across all hand surfaces until dry. Effectiveness depends on applying enough product to cover the hands and using it according to the product directions.</p>\n<h2 id=\"healthcare\">Why healthcare commonly uses it</h2><p>CDC recommends alcohol-based hand sanitizer as the preferred method in most routine clinical situations when hands are not visibly soiled because it is effective, convenient and generally well tolerated.</p>\n<h2 id=\"limits\">What it does not replace</h2><p>Hand sanitising does not physically remove visible dirt, grease or all contaminants. Soap and water is preferred or required in situations where physical removal is important.</p>\n<h2 id=\"access\">Point-of-care access matters</h2><p>WHO hand-hygiene strategy emphasizes making alcohol-based hand rub available at the point of care. Convenient access reduces the practical barrier to performing hand hygiene at the right moment.</p>\n<h2 id=\"safe-use\">Use the product as intended</h2><p>Hand sanitiser should be used only on hands and according to its label. Keep dispensers maintained and avoid substituting environmental disinfectants or improvised products.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Hand sanitising is waterless antimicrobial hand hygiene. It is highly useful in appropriate settings, but the condition of the hands and the facility's hand-hygiene procedure determine when it should be used.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://cdc.gov/clean-hands/hcp/clinical-safety/index.html\">CDC — Clinical Safety: Hand Hygiene</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li></ol>",
+  "seo_title": "What Is Hand Sanitising? | Alle's ClinX",
+  "meta_description": "Learn what hand sanitising is, how alcohol-based hand rub works, why healthcare uses it, and when soap and water is still needed.",
+  "related_article_ids": [
+    "ACX-KB-0155",
+    "ACX-KB-0152",
+    "ACX-KB-0153"
+  ]
+}

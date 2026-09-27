@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0155",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0155",
+  "title": "Hand sanitiser handwashing से कब different है?",
+  "slug": "when-is-hand-sanitiser-different-from-handwashing",
+  "subcategory": "Hand Sanitising",
+  "subcategory_slug": "hand-sanitising",
+  "excerpt": "Hand sanitiser और handwashing का difference visibly dirty hands, physical contaminant removal या setting-specific soap-and-water requirements में सबसे important होता है।",
+  "content_html": "<p>Hand sanitiser और handwashing का practical difference सबसे important तब होता है जब hands visibly contaminated हों या setting की specific hand-hygiene indication हो।</p>\n<h2 id=\"hi155-visible\">Visible dirt choice बदलती है</h2><p>Alcohol-based sanitiser hands visibly dirty/greasy न हों तब best work करती है। Visible soil होने पर soap/water physical removal देती है जो sanitiser नहीं देती।</p>\n<h2 id=\"hi155-healthcare\">Routine healthcare में sanitizer often preferred है</h2><p>Most clinical situations में CDC, visibly soiled न होने पर alcohol-based hand sanitizer prefer करता है क्योंकि यह effective, fast और accessible है।</p>\n<h2 id=\"hi155-soap\">कुछ situations में soap/water specifically चाहिए</h2><p>CDC visibly soiled hands, eating से पहले, restroom के बाद और certain infectious-diarrhea outbreaks में soap/water recommend करता है।</p>\n<h2 id=\"hi155-community\">Community guidance अलग है</h2><p>Community settings में soap/water generally recommended है when available. Available न हो और hands visibly dirty न हों तो alcohol-based sanitizer alternative हो सकती है।</p>\n<h2 id=\"hi155-chemicals\">Sanitiser हर contaminant remove नहीं करती</h2><p>Hand sanitizer harmful chemicals, heavy soil या grease reliably remove नहीं करती। Physical contamination में washing better control है।</p>\n<h2 id=\"hi155-gloves\">Gloves hand hygiene replace नहीं करतीं</h2><p>Healthcare में glove removal के तुरंत बाद भी hand hygiene जरूरी है। Gloves specific tasks की barrier हैं, clean hands का substitute नहीं।</p>\n<h2 id=\"hi155-takeaway\">Practical takeaway</h2><p>Hands visibly soiled न हों और rapid antimicrobial hand hygiene appropriate हो तो sanitizer use करें; physical removal या specific guidance हो तो handwashing करें।</p>\n<h2 id=\"hi155-references\">संदर्भ</h2><ol><li id=\"hi155-ref-1\"><a href=\"https://cdc.gov/clean-hands/hcp/clinical-safety/index.html\">CDC — Clinical Safety: Hand Hygiene</a>.</li><li id=\"hi155-ref-2\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li><li id=\"hi155-ref-3\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li></ol>",
+  "seo_title": "Hand Sanitiser vs Handwashing | Alle's ClinX",
+  "meta_description": "Visible dirt, healthcare indications, community use, contaminants और glove use में hand sanitiser और handwashing का difference समझें।",
+  "related_article_ids": [
+    "ACX-KB-0152",
+    "ACX-KB-0154",
+    "ACX-KB-0151"
+  ]
+}

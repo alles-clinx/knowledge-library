@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0154",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0154",
+  "title": "Hand sanitising क्या है?",
+  "slug": "what-is-hand-sanitising",
+  "subcategory": "Hand Sanitising",
+  "subcategory_slug": "hand-sanitising",
+  "excerpt": "Hand sanitising approved hand antiseptic—commonly alcohol-based hand rub—से hands पर microorganisms reduce करती है बिना water rinse के।",
+  "content_html": "<p>Hand sanitising hand hygiene का waterless form है जिसमें antiseptic product hands पर microorganisms reduce करती है। Healthcare में hands visibly soiled न हों तो alcohol-based hand rub routine option होती है।</p>\n<h2 id=\"hi154-product\">कौनसा product use होता है</h2><p>Alcohol-based hand rub gels, foams या liquids के रूप में hand use के लिए designed होती है। Surface disinfectant को hand product के रूप में use न करें।</p>\n<h2 id=\"hi154-how\">यह कैसे work करती है</h2><p>Product hands पर apply करके सभी hand surfaces पर rub की जाती है until dry। Enough product और correct coverage matter करते हैं।</p>\n<h2 id=\"hi154-healthcare\">Healthcare में common क्यों है</h2><p>CDC most routine clinical situations में, when hands are not visibly soiled, alcohol-based hand sanitizer prefer करता है क्योंकि यह effective और convenient है।</p>\n<h2 id=\"hi154-limits\">यह क्या replace नहीं करती</h2><p>Hand sanitising visible dirt, grease या सभी contaminants physically remove नहीं करती। Physical removal important हो तो soap/water चाहिए।</p>\n<h2 id=\"hi154-access\">Point-of-care access matter करती है</h2><p>WHO hand-hygiene strategy point-of-care alcohol-based hand rub access emphasize करती है ताकि right moment पर hand hygiene easier हो।</p>\n<h2 id=\"hi154-safe\">Product intended use के अनुसार use करें</h2><p>Hand sanitiser केवल hands पर और label के अनुसार use करें। Environmental disinfectants या improvised products substitute न करें।</p>\n<h2 id=\"hi154-takeaway\">Practical takeaway</h2><p>Hand sanitising waterless antimicrobial hand hygiene है। सही setting और correct hand condition में useful है; facility procedure तय करती है कब use करनी है।</p>\n<h2 id=\"hi154-references\">संदर्भ</h2><ol><li id=\"hi154-ref-1\"><a href=\"https://cdc.gov/clean-hands/hcp/clinical-safety/index.html\">CDC — Clinical Safety: Hand Hygiene</a>.</li><li id=\"hi154-ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"hi154-ref-3\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li></ol>",
+  "seo_title": "Hand Sanitising क्या है? | Alle's ClinX",
+  "meta_description": "Alcohol-based hand rub क्या है, कैसे work करती है, healthcare में क्यों use होती है और soap/water कब चाहिए समझें।",
+  "related_article_ids": [
+    "ACX-KB-0155",
+    "ACX-KB-0152",
+    "ACX-KB-0153"
+  ]
+}

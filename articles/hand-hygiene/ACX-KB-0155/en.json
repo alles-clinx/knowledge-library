@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0155",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "When Is Hand Sanitiser Different from Handwashing?",
+  "slug": "when-is-hand-sanitiser-different-from-handwashing",
+  "subcategory": "Hand Sanitising",
+  "subcategory_slug": "hand-sanitising",
+  "excerpt": "Hand sanitiser differs most from handwashing when hands are visibly dirty, when physical removal of contaminants is needed, or when healthcare guidance specifies soap and water; otherwise alcohol-based hand rub is often preferred in routine clinical care.",
+  "content_html": "<p>The practical difference between hand sanitiser and handwashing becomes most important when the hands are visibly contaminated or when the setting has a specific hand-hygiene indication.</p>\n<h2 id=\"visible-soil\">Visible dirt changes the choice</h2><p>Alcohol-based hand sanitiser works best on hands that are not visibly dirty or greasy. When visible soil is present, soap and water provides the physical removal step that sanitiser does not.</p>\n<h2 id=\"healthcare\">Routine healthcare often favors sanitizer</h2><p>In most clinical situations, CDC prefers alcohol-based hand sanitizer when hands are not visibly soiled because it is effective, fast, accessible and generally less irritating than repeated handwashing.</p>\n<h2 id=\"soap-required\">Some situations specifically need soap and water</h2><p>CDC recommends soap and water when hands are visibly soiled, before eating, after using the restroom and in certain outbreak situations involving infectious diarrhea.</p>\n<h2 id=\"community\">Community guidance is different</h2><p>In community settings, handwashing with soap and water is generally recommended when available. Alcohol-based sanitizer can serve as an alternative when soap and water are not readily available and hands are not visibly dirty.</p>\n<h2 id=\"chemicals\">Sanitiser does not remove every contaminant</h2><p>Hand sanitizer does not reliably remove all harmful chemicals, heavy soil or grease. Where physical contamination is present, washing is the more appropriate control.</p>\n<h2 id=\"gloves\">Gloves do not remove the need for hand hygiene</h2><p>Healthcare hand hygiene remains necessary around glove use, including immediately after glove removal. Gloves are a barrier for specific tasks, not a replacement for cleaning hands.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use sanitizer where rapid antimicrobial hand hygiene is appropriate and hands are not visibly soiled; use handwashing when physical removal or setting-specific guidance calls for soap and water.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://cdc.gov/clean-hands/hcp/clinical-safety/index.html\">CDC — Clinical Safety: Hand Hygiene</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li></ol>",
+  "seo_title": "When Is Hand Sanitiser Different from Handwashing? | Alle's ClinX",
+  "meta_description": "Learn when hand sanitizer differs from handwashing, including visible dirt, healthcare indications, community use, chemical contamination and glove use.",
+  "related_article_ids": [
+    "ACX-KB-0152",
+    "ACX-KB-0154",
+    "ACX-KB-0151"
+  ]
+}

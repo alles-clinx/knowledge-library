@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0152",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Handwashing vs Hand Sanitising",
+  "slug": "handwashing-vs-hand-sanitising",
+  "subcategory": "Handwashing",
+  "subcategory_slug": "handwashing",
+  "excerpt": "Handwashing uses soap and water to physically remove soil and germs, while alcohol-based hand sanitising inactivates many germs without rinsing. The preferred method depends on setting and whether hands are visibly dirty.",
+  "content_html": "<p>Handwashing and hand sanitising are both forms of hand hygiene, but they work differently. Handwashing removes contamination with soap, water and rinsing; alcohol-based hand sanitiser reduces many germs without a sink.</p>\n<h2 id=\"washing\">Handwashing removes material</h2><p>Soap, water and rubbing loosen dirt, grease, organic matter and microorganisms so they can be rinsed away. This makes handwashing especially important when hands are visibly soiled.</p>\n<h2 id=\"sanitising\">Hand sanitising inactivates many germs</h2><p>Alcohol-based hand sanitiser acts on microorganisms while the product is rubbed over the hands until dry. It does not physically rinse away dirt or all contaminants.</p>\n<h2 id=\"healthcare\">Healthcare often prefers alcohol-based hand rub</h2><p>CDC recommends alcohol-based hand sanitizer for most routine clinical situations when hands are not visibly soiled because it is effective, convenient and supports adherence.</p>\n<h2 id=\"soap-water\">Soap and water has specific roles</h2><p>CDC recommends soap and water when hands are visibly soiled, before eating, after using the restroom, and in certain outbreak situations involving organisms for which handwashing is preferred.</p>\n<h2 id=\"community\">Community settings differ</h2><p>For community use, CDC generally recommends soap and water when available. If soap and water are not readily available, an alcohol-based hand sanitizer containing at least 60% alcohol can be an alternative when hands are not visibly dirty.</p>\n<h2 id=\"not-layer\">The methods are not automatically layered</h2><p>Routine practice does not require using sanitizer immediately after every handwash. Follow the setting-specific hand-hygiene procedure rather than adding unnecessary steps.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Handwashing removes; alcohol-based sanitising inactivates. Choose the method according to the setting, the condition of the hands and the applicable hand-hygiene guidance.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/clean-hands/faq/index.html\">CDC — Hand Hygiene FAQs</a>.</li><li id=\"ref-2\"><a href=\"https://cdc.gov/clean-hands/hcp/clinical-safety/index.html\">CDC — Clinical Safety: Hand Hygiene</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li></ol>",
+  "seo_title": "Handwashing vs Hand Sanitising | Alle's ClinX",
+  "meta_description": "Compare handwashing and alcohol-based hand sanitising by mechanism, setting, visible soil and when each method is preferred.",
+  "related_article_ids": [
+    "ACX-KB-0151",
+    "ACX-KB-0154",
+    "ACX-KB-0155"
+  ]
+}

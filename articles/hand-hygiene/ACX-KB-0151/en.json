@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0151",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Handwashing Matters in Facility Hygiene",
+  "slug": "why-handwashing-matters-in-facility-hygiene",
+  "subcategory": "Handwashing",
+  "subcategory_slug": "handwashing",
+  "excerpt": "Handwashing supports facility hygiene by physically removing soil, germs and some contaminants from hands, reducing opportunities for hands to transfer contamination between people, surfaces, food and equipment.",
+  "content_html": "<p>Hands connect people, surfaces, equipment and tasks throughout a facility. Handwashing matters because it removes contamination from that connection point and helps interrupt transfer from one place to another.</p>\n<h2 id=\"transfer\">Hands can transfer contamination</h2><p>Hands frequently touch doors, rails, phones, tools, food-contact surfaces and people. Without hand hygiene, contamination picked up in one location can be moved to another.</p>\n<h2 id=\"removal\">Handwashing physically removes soil and germs</h2><p>Soap, water and rubbing loosen and rinse away dirt, organic matter and many microorganisms. This physical-removal function is especially important when hands are visibly dirty or greasy.</p>\n<h2 id=\"facility\">Facility hygiene depends on both surfaces and hands</h2><p>Environmental cleaning can reduce contamination on surfaces, but clean surfaces can be recontaminated immediately by unclean hands. Hand hygiene and environmental hygiene therefore reinforce each other.</p>\n<h2 id=\"moments\">Timing matters</h2><p>Important moments depend on the setting. Common examples include after using the restroom, before food preparation or eating, after coughing or sneezing, after contact with contamination, and before or after relevant care tasks.</p>\n<h2 id=\"healthcare\">Healthcare has additional indications</h2><p>CDC recommends hand hygiene before patient contact or aseptic tasks, after patient or environmental contact, after contact with blood or body fluids, and immediately after glove removal.</p>\n<h2 id=\"access\">Access supports compliance</h2><p>Handwashing works only when sinks, water, soap and drying materials are reliably available, accessible and maintained. Poorly supplied stations create a system barrier even when staff understand the rule.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Handwashing is not an isolated personal habit. It is a facility-control measure that helps stop hands from carrying contamination between people, tasks and surfaces.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/clean-hands/about/index.html\">CDC — About Handwashing</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases\">WHO — Community Hand Hygiene Guidance</a>.</li></ol>",
+  "seo_title": "Why Handwashing Matters in Facility Hygiene | Alle's ClinX",
+  "meta_description": "Learn why handwashing is a facility-hygiene control that removes soil and germs and reduces transfer between people, surfaces, food and equipment.",
+  "related_article_ids": [
+    "ACX-KB-0152",
+    "ACX-KB-0153",
+    "ACX-KB-0154"
+  ]
+}
