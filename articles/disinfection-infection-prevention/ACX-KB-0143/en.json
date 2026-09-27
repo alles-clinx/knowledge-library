@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0143",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Contact Time in Disinfection?",
+  "slug": "what-is-contact-time-in-disinfection",
+  "subcategory": "Contact Time",
+  "subcategory_slug": "contact-time",
+  "excerpt": "Contact time is the labeled period a disinfectant must remain in contact with a treated surface—typically while the surface stays visibly wet—to achieve the relevant antimicrobial claim.",
+  "content_html": "<p>Contact time is a defined part of disinfectant use. It is the time the product must remain in contact with the surface under the labeled conditions for the relevant antimicrobial claim.</p>\n<h2 id=\"definition\">Contact time is product-specific</h2><p>Different disinfectants can require different contact times. The required duration comes from the product label rather than from a universal rule.</p>\n<h2 id=\"wet\">The surface usually needs to remain visibly wet</h2><p>EPA guidance explains that the treated surface should remain visibly wet for the full contact time associated with the claim. If the surface dries too soon, the full labeled exposure may not occur.</p>\n<h2 id=\"claim\">Contact time can depend on the claim</h2><p>A product can have different label directions for different organisms or applications. Check the relevant claim rather than assuming one contact time applies to every task.</p>\n<h2 id=\"start\">When the timing begins</h2><p>Operationally, timing should reflect the period in which the required treated area has the labeled wet coverage. Incomplete coverage is not equivalent to full contact.</p>\n<h2 id=\"application\">Application method affects contact</h2><p>Wipes, sprays and liquids can deliver different amounts of product and may dry at different rates. Use the labeled method so the surface can meet the required wet-contact condition.</p>\n<h2 id=\"drying\">Environmental conditions can shorten wet time</h2><p>Warm surfaces, airflow and highly absorbent materials can increase drying. The product must still be used within its labeled surface and application conditions.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Contact time is the validated exposure period, not a guess. Read the product label, achieve complete coverage and maintain the required wet contact for the relevant claim.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li></ol>",
+  "seo_title": "What Is Contact Time in Disinfection? | Alle's ClinX",
+  "meta_description": "Learn what disinfectant contact time means, why it is product- and claim-specific, and why the treated surface usually needs to remain visibly wet.",
+  "related_article_ids": [
+    "ACX-KB-0144",
+    "ACX-KB-0135",
+    "ACX-KB-0128"
+  ]
+}

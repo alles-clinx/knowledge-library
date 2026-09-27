@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0140",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Different Disinfectant Families Differ",
+  "slug": "how-different-disinfectant-families-differ",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "Disinfectant families differ in antimicrobial spectrum, material compatibility, stability, residue, application format and labeled use. The active-ingredient family helps explain behavior, but the product label determines the validated claim.",
+  "content_html": "<p>Disinfectants are not interchangeable just because they all reduce microorganisms. Different active-ingredient families can differ in spectrum, contact time, surface compatibility, stability, residue and handling characteristics.</p>\n<h2 id=\"claims\">Antimicrobial claims differ</h2><p>A disinfectant family may be associated with a broad type of activity, but the exact organisms a product is approved to claim against depend on its tested formulation and registration. Use the product label rather than assuming every product in one family has the same efficacy.</p>\n<h2 id=\"chlorine\">Chlorine-based systems</h2><p>Chlorine-based disinfectants can provide broad antimicrobial activity, but performance and material compatibility depend on the specific product and use conditions. Some materials and finishes can be sensitive to repeated exposure.</p>\n<h2 id=\"alcohol\">Alcohol-based systems</h2><p>Alcohol-based formulations can act rapidly on compatible hard surfaces, but they may evaporate quickly and can affect some plastics, coatings or finishes. Their suitability depends on the labeled application and required wet contact time.</p>\n<h2 id=\"quats\">Quaternary ammonium systems</h2><p>Quaternary ammonium compound formulations are common environmental disinfectants. Their claims, compatibility and performance vary by formulation, and organic soil or certain materials can influence practical use.</p>\n<h2 id=\"oxidizers\">Oxidizing systems</h2><p>Hydrogen-peroxide and other oxidizing formulations can provide broad activity in suitable products. Their chemistry can also affect dyes, metals or finishes, making surface compatibility an important selection factor.</p>\n<h2 id=\"formulation\">Formulation matters as much as family name</h2><p>Two products using related active ingredients can still differ because of concentration, stabilizers, surfactants, pH, delivery format and validated label claims.</p>\n<h2 id=\"selection\">Select by claim and use site</h2><p>Choose the product by the required antimicrobial claim, labeled surface, use site, contact time and material compatibility—not by assuming one chemical family is always “stronger.”</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Disinfectant family names help explain chemistry, but the registered product label is the operational authority for what the product is validated to do and how it should be used.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html\">CDC — Chemical Disinfectants</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "How Different Disinfectant Families Differ | Alle's ClinX",
+  "meta_description": "Compare disinfectant families by antimicrobial claims, surface compatibility, stability, residue and application while using the product label as the validated authority.",
+  "related_article_ids": [
+    "ACX-KB-0139",
+    "ACX-KB-0141",
+    "ACX-KB-0142"
+  ]
+}

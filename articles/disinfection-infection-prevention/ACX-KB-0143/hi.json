@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0143",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0143",
+  "title": "Disinfection में contact time क्या है?",
+  "slug": "what-is-contact-time-in-disinfection",
+  "subcategory": "Contact Time",
+  "subcategory_slug": "contact-time",
+  "excerpt": "Contact time labeled period है जिसमें disinfectant treated surface के contact में रहती है—usually surface visibly wet रखते हुए—ताकि relevant antimicrobial claim achieve हो सके।",
+  "content_html": "<p>Contact time disinfectant use का defined part है। यह वह समय है जिसमें product labeled conditions में surface के contact में रहनी चाहिए।</p>\n<h2 id=\"hi143-definition\">Contact time product-specific है</h2><p>Different disinfectants के required times अलग हो सकते हैं। Duration product label से आती है, universal rule से नहीं।</p>\n<h2 id=\"hi143-wet\">Surface usually visibly wet रहनी चाहिए</h2><p>EPA guidance के अनुसार treated surface full contact time तक visibly wet रहनी चाहिए। जल्दी dry होने पर full labeled exposure नहीं मिल सकती।</p>\n<h2 id=\"hi143-claim\">Contact time claim के अनुसार vary कर सकती है</h2><p>एक product की different organisms/applications के लिए different directions हो सकती हैं। Relevant claim check करें।</p>\n<h2 id=\"hi143-start\">Timing कब start होती है</h2><p>Operational timing उस period को reflect करे जिसमें required treated area labeled wet coverage में हो। Incomplete coverage full contact नहीं है।</p>\n<h2 id=\"hi143-application\">Application method contact affect करती है</h2><p>Wipes, sprays और liquids different amount deliver कर सकते हैं और अलग rate से dry हो सकते हैं। Labeled method follow करें।</p>\n<h2 id=\"hi143-drying\">Environment wet time shorten कर सकता है</h2><p>Warm surfaces, airflow और absorbent materials faster drying cause कर सकते हैं। Product labeled surface/application conditions फिर भी follow करनी हैं।</p>\n<h2 id=\"hi143-takeaway\">Practical takeaway</h2><p>Contact time validated exposure period है। Label पढ़ें, full coverage achieve करें और relevant claim के लिए required wet contact maintain करें।</p>\n<h2 id=\"hi143-references\">संदर्भ</h2><ol><li id=\"hi143-ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"hi143-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li></ol>",
+  "seo_title": "Contact Time in Disinfection | Alle's ClinX",
+  "meta_description": "Disinfectant contact time, visible wetness, product-specific duration और claim-specific directions समझें।",
+  "related_article_ids": [
+    "ACX-KB-0144",
+    "ACX-KB-0135",
+    "ACX-KB-0128"
+  ]
+}

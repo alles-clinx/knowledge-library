@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0144",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Contact Time Matters",
+  "slug": "why-contact-time-matters",
+  "subcategory": "Contact Time",
+  "subcategory_slug": "contact-time",
+  "excerpt": "Contact time matters because a disinfectant needs sufficient exposure under labeled conditions to achieve its validated antimicrobial claim. Shortening that exposure can make the process less reliable.",
+  "content_html": "<p>Disinfectant efficacy depends not only on choosing the right product but also on giving it the exposure time used to validate the claim. Contact time is therefore a process-control variable.</p>\n<h2 id=\"validated\">Claims are validated under defined conditions</h2><p>Registered disinfectant claims are tied to test conditions that include concentration, surface type, application and exposure time. Changing one of those conditions can move the process away from the validated use.</p>\n<h2 id=\"too-short\">Short contact can reduce reliability</h2><p>If a surface dries before the labeled contact time is complete, microorganisms may receive less exposure than required by the claim.</p>\n<h2 id=\"coverage\">Coverage and time work together</h2><p>A long timer cannot compensate for untreated areas, and good coverage cannot compensate for a contact period that ends too early. Both conditions need to be achieved.</p>\n<h2 id=\"workflow\">Contact time affects workflow design</h2><p>Staff need enough time to apply the product, keep the surface wet and avoid prematurely wiping or reopening the area when the procedure requires uninterrupted wet contact.</p>\n<h2 id=\"drying\">Drying rate matters</h2><p>Airflow, temperature, surface texture and product format can change how quickly a surface dries. This is why practical application method is part of product selection.</p>\n<h2 id=\"not-longer\">Longer is not automatically better</h2><p>The objective is to meet the labeled requirement. Extending wet exposure unnecessarily can increase residue, material stress or downtime without improving the approved claim.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Contact time matters because disinfection is validated as a combination of product, surface, coverage and exposure. Meeting the labeled time is essential to reproduce the claimed result.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li></ol>",
+  "seo_title": "Why Contact Time Matters | Alle's ClinX",
+  "meta_description": "Learn why full labeled contact time is essential to disinfectant performance and how coverage, drying rate and workflow affect the validated exposure period.",
+  "related_article_ids": [
+    "ACX-KB-0143",
+    "ACX-KB-0135",
+    "ACX-KB-0128"
+  ]
+}

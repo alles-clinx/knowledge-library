@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0141",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0141",
+  "title": "Water quality और materials कुछ disinfectants को कैसे affect करते हैं",
+  "slug": "water-quality-materials-disinfectants",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "Water quality और surface materials hardness, pH, residue, corrosion, absorption या compatibility के through कुछ disinfectants को affect कर सकते हैं।",
+  "content_html": "<p>Disinfectant performance isolation में नहीं होती। Water chemistry और treated material कुछ products की preparation, wetting, stability, residue और compatibility influence कर सकते हैं।</p>\n<h2 id=\"hi141-hardness\">Water hardness matter कर सकती है</h2><p>Calcium/magnesium जैसे minerals cleaning chemistry और कुछ disinfectant formulations को influence कर सकते हैं। Water-required preparation में manufacturer requirements follow करें।</p>\n<h2 id=\"hi141-ph\">pH chemistry influence कर सकती है</h2><p>कुछ active ingredients pH-sensitive होती हैं। Product system specifically instruct न करे तो pH modify करने की कोशिश न करें।</p>\n<h2 id=\"hi141-residue\">Mineral residue surface affect कर सकती है</h2><p>Hard-water deposits/scale uneven wetting या films create कर सकते हैं। Correct cleaning program से scale removal uniform surface बनाने में मदद कर सकती है।</p>\n<h2 id=\"hi141-materials\">Materials अलग respond करते हैं</h2><p>Metals, plastics, coatings, elastomers, fabrics और stone disinfectant chemistry पर अलग response दे सकते हैं। Suitable product one material पर another को damage कर सकती है।</p>\n<h2 id=\"hi141-porous\">Porous materials अलग behave करती हैं</h2><p>Many claims hard, nonporous surfaces के लिए होती हैं। Porous materials liquid absorb करके wet-contact conditions maintain करना difficult बना सकती हैं।</p>\n<h2 id=\"hi141-manufacturer\">Equipment guidance भी matter करती है</h2><p>Medical devices, electronics और specialized equipment की compatible chemistries manufacturer define कर सकता है।</p>\n<h2 id=\"hi141-takeaway\">Practical takeaway</h2><p>Water quality और material compatibility process variables हैं। Disinfectant label और equipment/surface manufacturer instructions follow करें; improvised adjustments न करें।</p>\n<h2 id=\"hi141-references\">संदर्भ</h2><ol><li id=\"hi141-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li><li id=\"hi141-ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"hi141-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Water Quality, Materials and Disinfectants | Alle's ClinX",
+  "meta_description": "Water hardness, pH, mineral residue, porosity और material compatibility disinfectant application को कैसे affect कर सकते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0140",
+    "ACX-KB-0134",
+    "ACX-KB-0128"
+  ]
+}

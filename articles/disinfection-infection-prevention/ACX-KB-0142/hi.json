@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0142",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0142",
+  "title": "Product claims ingredient names से ज्यादा क्यों matter करती हैं",
+  "slug": "why-product-claims-matter",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "Disinfectant ingredient name specific organism, surface या use के लिए effectiveness prove नहीं करती। Registered label की validated product claims active-ingredient family से ज्यादा important हैं।",
+  "content_html": "<p>Related active ingredients वाले दो products की approved uses अलग हो सकती हैं। Tested formulation, concentration, application method और registration claims determine करते हैं।</p>\n<h2 id=\"hi142-claim\">Claim specific product से tied होती है</h2><p>EPA-registered claims उस formulation/use pattern के submitted data पर based होती हैं। Approved label organisms, surfaces और conditions बताती है।</p>\n<h2 id=\"hi142-ingredient\">Ingredient family सिर्फ एक clue है</h2><p>Alcohol, chlorine, quaternary ammonium या oxidizer family general chemistry explain कर सकती है, लेकिन exact antimicrobial claim establish नहीं करती।</p>\n<h2 id=\"hi142-formulation\">Formulation performance बदलती है</h2><p>Concentration, pH, surfactants, stabilizers और delivery format wetting, persistence और material interaction change कर सकते हैं।</p>\n<h2 id=\"hi142-contact\">Claims conditions के साथ आती हैं</h2><p>Claim सिर्फ organism name नहीं है; labeled surface, application method और contact time भी validated use का हिस्सा हैं।</p>\n<h2 id=\"hi142-site\">Use site matter करता है</h2><p>Product certain environmental surfaces/facilities के लिए registered हो सकती है लेकिन every location/material के लिए नहीं।</p>\n<h2 id=\"hi142-marketing\">Marketing terms registration का substitute नहीं</h2><p>“Strong,” “hospital grade” या “broad spectrum” जैसे words actual registered claims/directions check करने का replacement नहीं हैं।</p>\n<h2 id=\"hi142-takeaway\">Practical takeaway</h2><p>Specific registered claim और labeled conditions से disinfectant select करें। Ingredient names chemistry explain करती हैं; claims validated performance define करती हैं।</p>\n<h2 id=\"hi142-references\">संदर्भ</h2><ol><li id=\"hi142-ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"hi142-ref-2\"><a href=\"https://www.epa.gov/pesticide-labels/introduction-pesticide-labels\">US EPA — Introduction to Pesticide Labels</a>.</li><li id=\"hi142-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html\">CDC — Chemical Disinfectants</a>.</li></ol>",
+  "seo_title": "Why Product Claims Matter | Alle's ClinX",
+  "meta_description": "Registered disinfectant claims, labeled surfaces, use sites और contact time ingredient names से ज्यादा important क्यों हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0140",
+    "ACX-KB-0139",
+    "ACX-KB-0143"
+  ]
+}

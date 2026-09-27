@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0144",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0144",
+  "title": "Contact time क्यों matter करती है",
+  "slug": "why-contact-time-matters",
+  "subcategory": "Contact Time",
+  "subcategory_slug": "contact-time",
+  "excerpt": "Contact time matter करती है क्योंकि disinfectant को validated antimicrobial claim achieve करने के लिए labeled conditions में sufficient exposure चाहिए।",
+  "content_html": "<p>Disinfectant efficacy केवल right product choose करने पर depend नहीं करती; claim validate करने वाली exposure time भी achieve करनी होती है।</p>\n<h2 id=\"hi144-validated\">Claims defined conditions में validated होती हैं</h2><p>Registered claims concentration, surface type, application और exposure time जैसी test conditions से tied होती हैं।</p>\n<h2 id=\"hi144-short\">Short contact reliability reduce कर सकती है</h2><p>Surface labeled contact time से पहले dry हो जाए तो microorganisms को required exposure से कम exposure मिल सकती है।</p>\n<h2 id=\"hi144-coverage\">Coverage और time साथ work करते हैं</h2><p>Long timer untreated areas compensate नहीं कर सकती, और good coverage too-short contact compensate नहीं कर सकती। दोनों conditions चाहिए।</p>\n<h2 id=\"hi144-workflow\">Contact time workflow affect करती है</h2><p>Staff को product apply करने, surface wet रखने और procedure के अनुसार prematurely wipe/reopen न करने के लिए enough time चाहिए।</p>\n<h2 id=\"hi144-drying\">Drying rate matter करती है</h2><p>Airflow, temperature, texture और product format drying speed बदल सकते हैं। Practical application product selection का हिस्सा है।</p>\n<h2 id=\"hi144-longer\">Longer automatically better नहीं</h2><p>Objective labeled requirement meet करना है। Unnecessary extended wet exposure residue, material stress या downtime बढ़ा सकती है।</p>\n<h2 id=\"hi144-takeaway\">Practical takeaway</h2><p>Contact time इसलिए matter करती है क्योंकि disinfection product, surface, coverage और exposure का validated combination है। Labeled time meet करना essential है।</p>\n<h2 id=\"hi144-references\">संदर्भ</h2><ol><li id=\"hi144-ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"hi144-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li></ol>",
+  "seo_title": "Why Contact Time Matters | Alle's ClinX",
+  "meta_description": "Coverage, drying rate और workflow के साथ full labeled contact time disinfectant performance के लिए क्यों essential है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0143",
+    "ACX-KB-0135",
+    "ACX-KB-0128"
+  ]
+}

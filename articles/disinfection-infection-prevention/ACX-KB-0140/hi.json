@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0140",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0140",
+  "title": "Different disinfectant families कैसे differ करती हैं",
+  "slug": "how-different-disinfectant-families-differ",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "Disinfectant families antimicrobial spectrum, material compatibility, stability, residue, application format और labeled use में differ करती हैं। Family behavior explain करती है, लेकिन validated claim product label तय करती है।",
+  "content_html": "<p>सभी disinfectants microorganisms reduce कर सकती हैं, लेकिन वे interchangeable नहीं हैं। Different active-ingredient families spectrum, contact time, compatibility, stability, residue और handling में differ कर सकती हैं।</p>\n<h2 id=\"hi140-claims\">Antimicrobial claims अलग होती हैं</h2><p>Family general behavior explain कर सकती है, लेकिन exact approved organisms tested formulation/registration पर depend करते हैं। Product label follow करें।</p>\n<h2 id=\"hi140-chlorine\">Chlorine-based systems</h2><p>Chlorine-based disinfectants broad activity दे सकती हैं, लेकिन performance और compatibility specific product/use conditions पर depend करती है। कुछ materials repeated exposure के प्रति sensitive हो सकते हैं।</p>\n<h2 id=\"hi140-alcohol\">Alcohol-based systems</h2><p>Alcohol formulations compatible hard surfaces पर rapidly act कर सकती हैं, लेकिन जल्दी evaporate हो सकती हैं और कुछ plastics/coatings affect कर सकती हैं।</p>\n<h2 id=\"hi140-quats\">Quaternary ammonium systems</h2><p>Quaternary ammonium formulations common environmental disinfectants हैं। Claims, compatibility और performance formulation के अनुसार differ करती हैं।</p>\n<h2 id=\"hi140-oxidizers\">Oxidizing systems</h2><p>Hydrogen-peroxide और other oxidizing formulations suitable products में broad activity दे सकती हैं, लेकिन dyes, metals या finishes compatibility check करनी चाहिए।</p>\n<h2 id=\"hi140-formulation\">Formulation family name जितनी important है</h2><p>Related active ingredient वाले products concentration, stabilizers, surfactants, pH, delivery format और validated claims के कारण अलग behave कर सकते हैं।</p>\n<h2 id=\"hi140-selection\">Claim और use site से select करें</h2><p>Required antimicrobial claim, labeled surface, use site, contact time और compatibility से product choose करें; किसी family को universally “stronger” assume न करें।</p>\n<h2 id=\"hi140-takeaway\">Practical takeaway</h2><p>Family chemistry explain करती है; registered label बताती है कि specific product क्या validated करती है और कैसे use होनी चाहिए।</p>\n<h2 id=\"hi140-references\">संदर्भ</h2><ol><li id=\"hi140-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html\">CDC — Chemical Disinfectants</a>.</li><li id=\"hi140-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li><li id=\"hi140-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Different Disinfectant Families | Alle's ClinX",
+  "meta_description": "Disinfectant families को claims, compatibility, stability, residue और application से compare करें और label-based selection समझें।",
+  "related_article_ids": [
+    "ACX-KB-0139",
+    "ACX-KB-0141",
+    "ACX-KB-0142"
+  ]
+}

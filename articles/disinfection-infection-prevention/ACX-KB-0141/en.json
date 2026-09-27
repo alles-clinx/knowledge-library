@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0141",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Water Quality and Materials Affect Some Disinfectants",
+  "slug": "water-quality-materials-disinfectants",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "Water quality and surface materials can influence some disinfectants through hardness, pH, residue, corrosion, absorption or chemical compatibility. Product labels and manufacturer guidance determine whether these factors matter for a specific use.",
+  "content_html": "<p>Disinfectant performance does not occur in isolation. Water chemistry and the material being treated can influence preparation, wetting, stability, residue and compatibility for some products.</p>\n<h2 id=\"hardness\">Water hardness can matter</h2><p>Minerals such as calcium and magnesium can interact with cleaning chemistry and may influence some disinfectant formulations. Where a product requires preparation with water, follow the manufacturer's specified water-quality requirements.</p>\n<h2 id=\"ph\">pH can influence chemistry</h2><p>Some active ingredients are sensitive to pH because it changes their chemical form or stability. Do not attempt to modify pH unless the product system specifically instructs it.</p>\n<h2 id=\"residue\">Mineral residue can affect the surface</h2><p>Hard-water deposits and existing scale can create uneven wetting or leave films on surfaces. Removing scale through the correct cleaning program can help create a more uniform surface before disinfection.</p>\n<h2 id=\"materials\">Materials respond differently</h2><p>Metals, plastics, coatings, elastomers, fabrics and stone can respond differently to disinfectant chemistry. A product suitable for one material may discolor, corrode, soften or damage another.</p>\n<h2 id=\"porous\">Porous materials behave differently</h2><p>Many disinfectant claims apply specifically to hard, nonporous surfaces. Porous materials can absorb liquid and make it harder to maintain the validated wet-contact conditions.</p>\n<h2 id=\"manufacturer\">Equipment guidance also matters</h2><p>Medical devices, electronics and specialized equipment may have manufacturer-defined compatible chemistries. Product registration does not override equipment-care restrictions.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Water quality and material compatibility are process variables. When they matter, use the disinfectant label and surface or equipment manufacturer instructions rather than improvising adjustments.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li><li id=\"ref-2\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "How Water Quality and Materials Affect Some Disinfectants | Alle's ClinX",
+  "meta_description": "Learn how water hardness, pH, mineral residue, porosity and material compatibility can affect some disinfectant applications.",
+  "related_article_ids": [
+    "ACX-KB-0140",
+    "ACX-KB-0134",
+    "ACX-KB-0128"
+  ]
+}

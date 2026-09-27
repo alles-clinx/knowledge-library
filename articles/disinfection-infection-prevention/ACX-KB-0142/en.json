@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0142",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Product Claims Matter More Than Ingredient Names",
+  "slug": "why-product-claims-matter",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "A disinfectant ingredient name does not prove a product is effective for a specific organism, surface or use. Validated product claims on the registered label are more important than the active-ingredient family alone.",
+  "content_html": "<p>Two products can contain related active ingredients and still have different approved uses. The product's tested formulation, concentration, application method and registration determine its claims—not the ingredient name by itself.</p>\n<h2 id=\"claim\">A claim is tied to the specific product</h2><p>EPA-registered disinfectant claims are based on data submitted for that formulation and use pattern. The approved label states the organisms, surfaces and conditions covered by the registration.</p>\n<h2 id=\"ingredient\">Ingredient family is only one clue</h2><p>Knowing that a product contains alcohol, chlorine, a quaternary ammonium compound or an oxidizer can help explain general chemistry, but it does not establish the exact antimicrobial claim.</p>\n<h2 id=\"formulation\">Formulation changes performance</h2><p>Concentration, pH, surfactants, stabilizers and delivery format can change how a disinfectant wets, persists and interacts with microorganisms and materials.</p>\n<h2 id=\"contact\">Claims include conditions</h2><p>A claim is not just a target organism name. It is linked to conditions such as the labeled surface, application method and contact time that were part of the validated use.</p>\n<h2 id=\"use-site\">Use site matters</h2><p>A product may be registered for certain environmental surfaces or facilities but not for every possible location or material. Use-site restrictions are part of the claim.</p>\n<h2 id=\"marketing\">Marketing terms are not substitutes for registration</h2><p>Words such as “strong,” “hospital grade” or “broad spectrum” should not replace checking the actual registered claims and directions relevant to the task.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Select disinfectants by the specific registered claim and labeled conditions needed for the job. Ingredient names explain chemistry; claims define validated performance.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/pesticide-labels/introduction-pesticide-labels\">US EPA — Introduction to Pesticide Labels</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html\">CDC — Chemical Disinfectants</a>.</li></ol>",
+  "seo_title": "Why Product Claims Matter More Than Ingredient Names | Alle's ClinX",
+  "meta_description": "Learn why disinfectant selection should rely on registered product claims, labeled surfaces and contact time rather than active-ingredient names alone.",
+  "related_article_ids": [
+    "ACX-KB-0140",
+    "ACX-KB-0139",
+    "ACX-KB-0143"
+  ]
+}
