@@ -8,8 +8,10 @@
   --acx-radius:8px;
 }
 .acx-site-header,.acx-bottom-brand,.acx-search-dialog,.acx-mobile-drawer{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,"Helvetica Neue",Arial,sans-serif}
+body{padding-top:66px}
 .acx-site-header{
-  position:sticky;top:0;z-index:1000;
+  position:fixed;top:0;left:0;right:0;z-index:1000;
+  width:100%;
   height:66px;
   background:rgba(255,255,255,.90);
   border-bottom:1px solid rgba(11,11,12,.075);
@@ -488,6 +490,7 @@
 
 body.acx-menu-open,body.acx-search-open{overflow:hidden}
 @media(max-width:960px){
+  body{padding-top:62px}
   .acx-site-header{height:62px}
   .acx-site-bar{
     width:calc(100% - 40px);
@@ -535,3 +538,8 @@ body.acx-menu-open,body.acx-search-open{overflow:hidden}
   .acx-search-hint{padding:10px 14px max(10px,env(safe-area-inset-bottom))}
 }
 @media(prefers-reduced-motion:reduce){.acx-site-header *,.acx-search-dialog *,.acx-mobile-drawer{transition:none!important;scroll-behavior:auto!important}}
+
+@media print{
+  body{padding-top:0!important}
+  .acx-site-header{display:none!important}
+}
