@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 248,
+  "record_count": 258,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2730,6 +2730,116 @@
       "subcategory_slug": "laundry-troubleshooting",
       "excerpt": "Recurring laundry odour solve करने के लिए पहले smell कब आती है trace करें, फिर soil removal, rinsing, drying, machine hygiene, storage और clean/dirty workflow sequence में check करें।",
       "url": "library/laundry-fabric-care/laundry-troubleshooting/how-to-troubleshoot-recurring-laundry-odour/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0125",
+      "locale": "en",
+      "title": "What Is Disinfection?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Disinfection is the use of an appropriate process or product to inactivate many or all disease-causing microorganisms on an inanimate surface, following cleaning and the product's labeled directions.",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/what-is-disinfection/"
+    },
+    {
+      "article_id": "ACX-KB-0125",
+      "locale": "hi-IN",
+      "title": "Disinfection क्या है?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Disinfection approved process या product से inanimate surface पर disease-causing microorganisms को inactivate करने की controlled step है, जो cleaning और label directions के अनुसार की जाती है।",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/what-is-disinfection/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0126",
+      "locale": "en",
+      "title": "How Disinfection Fits Into a Cleaning Program",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Disinfection fits into a cleaning program as a targeted risk-control step after soil removal, with product selection, contact time, surface compatibility, frequency and verification defined by the setting.",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/how-disinfection-fits-into-a-cleaning-program/"
+    },
+    {
+      "article_id": "ACX-KB-0126",
+      "locale": "hi-IN",
+      "title": "Cleaning program में disinfection कैसे fit होती है",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Disinfection cleaning program में soil removal के बाद targeted risk-control step है, जिसमें product selection, contact time, surface compatibility, frequency और verification setting के अनुसार define होते हैं।",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/how-disinfection-fits-into-a-cleaning-program/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0127",
+      "locale": "en",
+      "title": "Why Cleaning Usually Comes Before Disinfection",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Cleaning usually comes before disinfection because soil, organic matter and residues can shield microorganisms or interfere with disinfectant action, reducing the reliability of the disinfection step.",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/why-cleaning-usually-comes-before-disinfection/"
+    },
+    {
+      "article_id": "ACX-KB-0127",
+      "locale": "hi-IN",
+      "title": "Cleaning usually disinfection से पहले क्यों आती है",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Cleaning usually disinfection से पहले इसलिए आती है क्योंकि soil, organic matter और residues microorganisms shield या disinfectant action interfere कर सकती हैं।",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/why-cleaning-usually-comes-before-disinfection/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0128",
+      "locale": "en",
+      "title": "What Factors Can Affect Disinfectant Performance?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Disinfectant performance can be affected by soil load, microorganism type and quantity, product concentration, contact time, temperature, surface condition, application method and whether the product is used according to its label.",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/what-factors-can-affect-disinfectant-performance/"
+    },
+    {
+      "article_id": "ACX-KB-0128",
+      "locale": "hi-IN",
+      "title": "Disinfectant performance किन factors से affect होती है?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfection Basics",
+      "subcategory_slug": "disinfection-basics",
+      "excerpt": "Disinfectant performance soil load, microorganism type/quantity, product concentration, contact time, temperature, surface condition, application method और label-compliant use से affect हो सकती है।",
+      "url": "library/disinfection-infection-prevention/disinfection-basics/what-factors-can-affect-disinfectant-performance/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0129",
+      "locale": "en",
+      "title": "Cleaning vs Disinfection: Key Differences",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Cleaning vs Disinfection",
+      "subcategory_slug": "cleaning-vs-disinfection",
+      "excerpt": "Cleaning physically removes soil, dirt and many germs from surfaces; disinfection uses an approved process to inactivate microorganisms that remain. The two steps have different purposes and are not interchangeable.",
+      "url": "library/disinfection-infection-prevention/cleaning-vs-disinfection/cleaning-vs-disinfection/"
+    },
+    {
+      "article_id": "ACX-KB-0129",
+      "locale": "hi-IN",
+      "title": "Cleaning vs disinfection: मुख्य अंतर",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Cleaning vs Disinfection",
+      "subcategory_slug": "cleaning-vs-disinfection",
+      "excerpt": "Cleaning surfaces से soil, dirt और कई germs physically remove करती है; disinfection approved process से remaining microorganisms inactivate करती है। दोनों के purposes अलग हैं।",
+      "url": "library/disinfection-infection-prevention/cleaning-vs-disinfection/cleaning-vs-disinfection/hi.html"
     }
   ]
 }
