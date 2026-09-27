@@ -31,6 +31,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fonts-noto-core
           python scripts/build_hostinger_production.py /tmp/knowledge-publish
+          python scripts/harden_article_interactions.py /tmp/knowledge-publish
           mkdir -p /tmp/acx-web/knowledge
           cp -a /tmp/knowledge-publish/. /tmp/acx-web/knowledge/
       - name: Install Chromium smoke-test runtime
