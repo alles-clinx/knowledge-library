@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0121",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0121",
+  "title": "Fabric deodorising vs fabric cleaning",
+  "slug": "fabric-deodorising-vs-fabric-cleaning",
+  "subcategory": "Fabric Odour Control",
+  "subcategory_slug": "fabric-odour-control",
+  "excerpt": "Fabric cleaning textile से soil और residues remove करती है, जबकि deodorising unwanted smell target करती है। Deodorising odour control support कर सकती है, लेकिन underlying soil/moisture problem replace नहीं करती।",
+  "content_html": "<p>Fabric cleaning और fabric deodorising related लेकिन अलग tasks हैं। Cleaning textile से soil/residue remove करती है। Deodorising unwanted odour reduce/change करने पर focus करती है।</p>\n<h2 id=\"hi121-cleaning\">Cleaning material remove करती है</h2><p>Detergent, water, mechanical action और rinsing soil loosen करके textile से बाहर carry करते हैं। Body oils या other deposits remain हों तो fragrance के बाद भी odour return कर सकती है।</p>\n<h2 id=\"hi121-deodorising\">Deodorising smell target करती है</h2><p>Product के अनुसार deodorising treatment odorous compounds neutralise, adsorb या mask कर सकती है। Effect useful हो सकती है, लेकिन इससे textile soil-free साबित नहीं होती।</p>\n<h2 id=\"hi121-source\">Source control पहले</h2><p>Recurring smell retained soil, incomplete rinsing, damp storage, incomplete drying या machine contamination जैसे repeating source की ओर point करती है। Source correct करना fragrance repeat करने से अधिक reliable है।</p>\n<h2 id=\"hi121-moisture\">Moisture odour वापस ला सकती है</h2><p>Textile warm/damp होने पर odour फिर noticeable हो सकती है। Complete drying और dry storage odour control का हिस्सा हैं।</p>\n<h2 id=\"hi121-compatibility\">Product compatibility matter करती है</h2><p>Finishing/deodorising product fibre, dye, finish और textile performance से compatible होनी चाहिए। Care label और approved directions follow करें।</p>\n<h2 id=\"hi121-workflow\">Cleaning और deodorising अलग decisions हैं</h2><p>पहले confirm करें कि textile actually clean और dry है। Compatible item में approved deodorising step चाहिए तो उसे finishing decision मानें, laundering substitute नहीं।</p>\n<h2 id=\"hi121-takeaway\">Practical takeaway</h2><p>Soil cause हो तो cleaning cause remove करती है; deodorising smell address करती है। Persistent odour में extra fragrance से पहले laundry process diagnose करें।</p>\n<h2 id=\"hi121-references\">संदर्भ</h2><ol><li id=\"hi121-ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"hi121-ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"hi121-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Fabric Deodorising vs Cleaning | Alle's ClinX",
+  "meta_description": "Fabric cleaning और deodorising में अंतर समझें और recurring odour में soil, moisture या process cause identify करना क्यों जरूरी है।",
+  "related_article_ids": [
+    "ACX-KB-0119",
+    "ACX-KB-0120",
+    "ACX-KB-0105"
+  ]
+}

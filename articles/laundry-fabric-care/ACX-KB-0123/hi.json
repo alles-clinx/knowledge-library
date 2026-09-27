@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0123",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0123",
+  "title": "Washing के बाद laundry stiff क्यों feel कर सकती है",
+  "slug": "why-laundry-can-feel-stiff-after-washing",
+  "subcategory": "Laundry Troubleshooting",
+  "subcategory_slug": "laundry-troubleshooting",
+  "excerpt": "Laundry detergent/mineral residue, incomplete rinsing, overloading, drying conditions, fibre damage या finishing-property loss के कारण washing के बाद stiff feel कर सकती है।",
+  "content_html": "<p>Stiff laundry का मतलब automatically more fabric softener नहीं है। Feel residue, hard water, poor rinsing, drying conditions, textile construction या permanent fibre change से आ सकती है।</p>\n<h2 id=\"hi123-residue\">Detergent residue harshness बढ़ा सकती है</h2><p>Excess detergent या incomplete rinsing fibres पर material छोड़ सकती है। Drying के बाद residue textile को less flexible feel करा सकती है।</p>\n<h2 id=\"hi123-water\">Minerals build up हो सकते हैं</h2><p>Hard-water minerals detergent performance interfere करके deposits contribute कर सकते हैं। Repeated buildup कुछ textiles को harsher/stiffer बना सकती है।</p>\n<h2 id=\"hi123-overload\">Overloading rinsing कम करती है</h2><p>Packed washer में textiles को move/rinse करने की जगह कम होती है। Cycle complete होने पर भी detergent, soil या minerals remain कर सकते हैं।</p>\n<h2 id=\"hi123-drying\">Drying textile hand बदलती है</h2><p>Air drying, tumble drying और high heat fibre/construction के अनुसार अलग surface feel दे सकते हैं। Clean textile भी different drying method से stiffer feel कर सकती है।</p>\n<h2 id=\"hi123-damage\">Wear/fibre damage permanent हो सकती है</h2><p>Abrasion, heat, incompatible chemistry और repeated processing fibre/finish alter कर सकते हैं। Permanent change extra finishing product से fix नहीं होती।</p>\n<h2 id=\"hi123-softener\">Softener हमेशा first fix नहीं</h2><p>Softening step add करने से पहले detergent dose, rinsing, water conditions, load size और care label check करें। Performance textiles की finishing requirements अलग हो सकती हैं।</p>\n<h2 id=\"hi123-diagnose\">Troubleshooting sequence</h2><p>Stiff load को known-good load से compare करें, फिर dosing, water hardness, rinse quality, drying method और textile compatibility one factor at a time review करें।</p>\n<h2 id=\"hi123-references\">संदर्भ</h2><ol><li id=\"hi123-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"hi123-ref-2\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Care Labeling Rule Guidance</a>.</li><li id=\"hi123-ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/26782305/\">PubMed — Effects of Water Hardness on Textile Detergency Performance</a>.</li></ol>",
+  "seo_title": "Laundry Washing के बाद Stiff क्यों होती है | Alle's ClinX",
+  "meta_description": "Detergent residue, hard water, rinsing, overloading, drying, compatibility और fibre damage से stiff laundry troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0111",
+    "ACX-KB-0112",
+    "ACX-KB-0122"
+  ]
+}

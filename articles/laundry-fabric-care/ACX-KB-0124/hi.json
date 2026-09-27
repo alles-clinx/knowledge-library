@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0124",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0124",
+  "title": "Recurring laundry odour को कैसे troubleshoot करें",
+  "slug": "how-to-troubleshoot-recurring-laundry-odour",
+  "subcategory": "Laundry Troubleshooting",
+  "subcategory_slug": "laundry-troubleshooting",
+  "excerpt": "Recurring laundry odour solve करने के लिए पहले smell कब आती है trace करें, फिर soil removal, rinsing, drying, machine hygiene, storage और clean/dirty workflow sequence में check करें।",
+  "content_html": "<p>Recurring laundry odour process signal है। Fastest troubleshooting यह identify करना है कि smell पहली बार कब आती है, फिर laundry system में backward trace करना।</p>\n<h2 id=\"hi124-timing\">Step 1: odour कब आती है identify करें</h2><p>Check करें smell washing के तुरंत बाद, drying के बाद, storage के बाद या warm/damp होने पर आती है। Timing likely source narrow करती है।</p>\n<h2 id=\"hi124-wash\">Step 2: wash process check करें</h2><p>Load size, soil level, detergent delivery, selected cycle, water conditions और mechanical action review करें। Textile visually clean होने के बाद भी retained body soil remain हो सकती है।</p>\n<h2 id=\"hi124-rinse\">Step 3: rinsing और drainage check करें</h2><p>Detergent, loosened soil और minerals wash liquor के साथ बाहर निकलने चाहिए। Poor drainage/rinsing residue छोड़ सकती है जो smell contribute करे।</p>\n<h2 id=\"hi124-dry\">Step 4: complete drying confirm करें</h2><p>Damp linen fold/store न करें। Humid post-wash conditions laundry malodour से associated microbial activity support कर सकती हैं।</p>\n<h2 id=\"hi124-machine\">Step 5: equipment hygiene inspect करें</h2><p>Multiple unrelated loads same odour develop करें तो washer, seals, drains, detergent compartments और dosing system को manufacturer maintenance procedure के अनुसार inspect करें।</p>\n<h2 id=\"hi124-storage\">Step 6: clean storage/transport inspect करें</h2><p>Clean textiles damp rooms, dirty carts या clean/dirty crossover से odour absorb या recontaminate हो सकती हैं।</p>\n<h2 id=\"hi124-one\">Step 7: एक variable at a time बदलें</h2><p>Most likely cause correct करके next load compare करें। कई variables simultaneously change करने से actual solution identify करना मुश्किल होता है।</p>\n<h2 id=\"hi124-mask\">Signal mask न करें</h2><p>Fragrance odour temporarily cover कर सकती है। Smell return करे तो underlying soil, moisture या workflow cause investigate करें।</p>\n<h2 id=\"hi124-references\">संदर्भ</h2><ol><li id=\"hi124-ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"hi124-ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"hi124-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li></ol>",
+  "seo_title": "Recurring Laundry Odour Troubleshooting | Alle's ClinX",
+  "meta_description": "Wash performance, rinsing, drying, equipment hygiene, storage और workflow sequence से recurring laundry odour troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0120",
+    "ACX-KB-0119",
+    "ACX-KB-0118"
+  ]
+}

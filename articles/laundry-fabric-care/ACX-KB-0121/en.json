@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0121",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Fabric Deodorising vs Fabric Cleaning",
+  "slug": "fabric-deodorising-vs-fabric-cleaning",
+  "subcategory": "Fabric Odour Control",
+  "subcategory_slug": "fabric-odour-control",
+  "excerpt": "Fabric cleaning removes soil and residues from textiles, while deodorising targets unwanted smell. Deodorising can support odour control, but it does not replace removal of the underlying soil or moisture problem.",
+  "content_html": "<p>Fabric cleaning and fabric deodorising are related but different tasks. Cleaning removes soil, residues and other material from the textile. Deodorising aims to reduce or change unwanted odour.</p>\n<h2 id=\"cleaning\">Cleaning removes material</h2><p>Detergent, water, mechanical action and rinsing work together to loosen soil and carry it away from the textile. If body oils, food residues or other deposits remain, they can continue to contribute to odour even when fragrance is added.</p>\n<h2 id=\"deodorising\">Deodorising targets smell</h2><p>A deodorising treatment may reduce odour by neutralising, adsorbing or masking odorous compounds depending on the product. The effect can be useful, but it does not prove that the textile is free of soil.</p>\n<h2 id=\"source-control\">Source control comes first</h2><p>Recurring smell usually indicates a repeating source such as retained soil, incomplete rinsing, damp storage, incomplete drying or machine contamination. Correcting that source is more reliable than repeatedly adding fragrance.</p>\n<h2 id=\"moisture\">Moisture can make odour return</h2><p>Odour can reappear when a textile becomes warm or damp because retained compounds become more noticeable or microorganisms become active. Complete drying and dry storage are therefore part of odour control.</p>\n<h2 id=\"compatibility\">Product compatibility still matters</h2><p>Any finishing or deodorising product should be compatible with the fibre, dye, finish and intended performance of the textile. Follow care labels and approved product directions.</p>\n<h2 id=\"workflow\">Cleaning and deodorising can be separate decisions</h2><p>First establish whether the textile is actually clean and dry. If an approved deodorising step is still needed for a compatible item, treat it as a finishing decision rather than as a substitute for laundering.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Cleaning removes the cause when the cause is soil; deodorising addresses the smell. Persistent odour should trigger diagnosis of the laundry process before additional fragrance or finishing chemistry is used.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li></ol>",
+  "seo_title": "Fabric Deodorising vs Fabric Cleaning | Alle's ClinX",
+  "meta_description": "Understand the difference between fabric cleaning and deodorising, and why recurring odour should be solved by removing soil, moisture or process causes.",
+  "related_article_ids": [
+    "ACX-KB-0119",
+    "ACX-KB-0120",
+    "ACX-KB-0105"
+  ]
+}

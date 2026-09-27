@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0124",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Troubleshoot Recurring Laundry Odour",
+  "slug": "how-to-troubleshoot-recurring-laundry-odour",
+  "subcategory": "Laundry Troubleshooting",
+  "subcategory_slug": "laundry-troubleshooting",
+  "excerpt": "Recurring laundry odour is best solved by tracing when the smell appears and checking soil removal, rinsing, drying, machine hygiene, storage and clean/dirty workflow in a controlled sequence.",
+  "content_html": "<p>Recurring laundry odour should be treated as a process signal. The fastest way to solve it is to identify when the smell first appears and then work backward through the laundry system.</p>\n<h2 id=\"timing\">Step 1: identify when the odour appears</h2><p>Check whether the textile smells immediately after washing, only after drying, after storage, or only when it becomes warm or damp. Timing narrows the likely source.</p>\n<h2 id=\"wash\">Step 2: check the wash process</h2><p>Review load size, soil level, detergent delivery, selected cycle, water conditions and mechanical action. Retained body soil or incomplete cleaning can remain even when the textile looks visually clean.</p>\n<h2 id=\"rinse\">Step 3: check rinsing and drainage</h2><p>Detergent, loosened soil and minerals must leave with the wash liquor. Poor drainage or insufficient rinsing can leave residue that contributes to recurring smell.</p>\n<h2 id=\"dry\">Step 4: confirm complete drying</h2><p>Do not fold or store linen while damp. Humid post-wash conditions can support microbial activity associated with laundry malodour.</p>\n<h2 id=\"machine\">Step 5: inspect equipment hygiene</h2><p>If multiple unrelated loads develop the same odour, inspect the washer, seals, drains, detergent compartments and dosing system according to manufacturer maintenance procedures.</p>\n<h2 id=\"storage\">Step 6: inspect clean storage and transport</h2><p>Clean textiles can absorb odour or be recontaminated by damp rooms, dirty carts or clean/dirty crossover after laundering.</p>\n<h2 id=\"change-one\">Step 7: change one variable at a time</h2><p>Correct the most likely cause and compare the next load. Changing detergent, dose, cycle, drying and storage simultaneously makes it harder to identify what actually solved the problem.</p>\n<h2 id=\"avoid-masking\">Avoid masking the signal</h2><p>Fragrance can temporarily cover odour. If the smell returns, continue investigating the underlying soil, moisture or workflow cause rather than escalating scent or chemistry.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11809074/\">PMC — Laundry Malodour, Microbiome and Pathogenome</a>.</li><li id=\"ref-2\"><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8400938/\">PMC — Bacterial Communities on Laundered Textiles</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Appendix D: Linen and Laundry Management</a>.</li></ol>",
+  "seo_title": "How to Troubleshoot Recurring Laundry Odour | Alle's ClinX",
+  "meta_description": "Use a controlled sequence to troubleshoot recurring laundry odour by checking wash performance, rinsing, drying, equipment hygiene, storage and workflow.",
+  "related_article_ids": [
+    "ACX-KB-0120",
+    "ACX-KB-0119",
+    "ACX-KB-0118"
+  ]
+}

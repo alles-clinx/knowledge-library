@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0123",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Laundry Can Feel Stiff After Washing",
+  "slug": "why-laundry-can-feel-stiff-after-washing",
+  "subcategory": "Laundry Troubleshooting",
+  "subcategory_slug": "laundry-troubleshooting",
+  "excerpt": "Laundry can feel stiff after washing because of detergent or mineral residue, incomplete rinsing, overloading, drying conditions, fibre damage or loss of finishing properties.",
+  "content_html": "<p>Stiff laundry does not automatically mean that more fabric softener is needed. The feel can result from residue, hard water, poor rinsing, drying conditions, textile construction or permanent fibre change.</p>\n<h2 id=\"detergent-residue\">Detergent residue can increase harshness</h2><p>Excess detergent or incomplete rinsing can leave material on fibres. Residue can make textiles feel less flexible and may become more noticeable after drying.</p>\n<h2 id=\"hard-water\">Minerals can build up</h2><p>Hard-water minerals can interfere with detergent performance and contribute to deposits. Repeated mineral accumulation can make some textiles feel harsher or less flexible.</p>\n<h2 id=\"overloading\">Overloading can reduce rinsing</h2><p>A packed washer gives textiles less room to move and rinse. Poor circulation can leave detergent, soil or minerals behind even when the cycle finishes normally.</p>\n<h2 id=\"drying\">Drying changes textile hand</h2><p>Air drying, tumble drying and high heat can produce different surface feel depending on the fibre and construction. A textile can therefore feel stiffer after one drying method even when it is clean.</p>\n<h2 id=\"damage\">Wear and fibre damage can be permanent</h2><p>Abrasion, heat, chemical incompatibility and repeated processing can alter the fibre or finish. A permanent change cannot be corrected simply by adding more finishing product.</p>\n<h2 id=\"softener\">Softener is not always the first fix</h2><p>Before adding a softening step, check detergent dose, rinsing, water conditions, load size and the care label. Some performance textiles should not receive the same finishing treatment as ordinary garments.</p>\n<h2 id=\"diagnose\">Troubleshooting sequence</h2><p>Compare the stiff load with a known-good load, then review dosing, water hardness, rinse quality, drying method and textile compatibility one factor at a time.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"ref-2\"><a href=\"https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule\">U.S. FTC — Care Labeling Rule Guidance</a>.</li><li id=\"ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/26782305/\">PubMed — Effects of Water Hardness on Textile Detergency Performance</a>.</li></ol>",
+  "seo_title": "Why Laundry Can Feel Stiff After Washing | Alle's ClinX",
+  "meta_description": "Troubleshoot stiff laundry by checking detergent residue, hard water, rinsing, overloading, drying conditions, textile compatibility and fibre damage.",
+  "related_article_ids": [
+    "ACX-KB-0111",
+    "ACX-KB-0112",
+    "ACX-KB-0122"
+  ]
+}

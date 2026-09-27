@@ -1,0 +1,27 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0122",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0122",
+  "title": "Laundry dull या grey क्यों निकल सकती है",
+  "slug": "why-laundry-comes-out-dull-or-grey",
+  "subcategory": "Laundry Troubleshooting",
+  "subcategory_slug": "laundry-troubleshooting",
+  "excerpt": "Laundry soil redeposition, weak detergent performance, mineral deposits, overloading, poor rinsing या permanent textile wear/discolouration के कारण dull या grey दिख सकती है।",
+  "content_html": "<p>Dull/grey laundry single diagnosis नहीं है। Appearance retained soil, redeposition, water minerals, wrong dosing, overloading, poor rinsing या permanent textile change से आ सकती है।</p>\n<h2 id=\"hi122-redeposit\">Soil redeposit हो सकती है</h2><p>Cleaning को soil loosen करके wash liquor के साथ बाहर रखना चाहिए। Large load, heavily soiled solution या poorly matched chemistry loosened material को fibres पर वापस settle होने दे सकती है।</p>\n<h2 id=\"hi122-water\">Hard water minerals छोड़ सकती है</h2><p>Calcium/magnesium detergent performance interfere कर सकते हैं और deposits contribute कर सकते हैं। Repeated pale/grey cast water-quality issue भी हो सकती है।</p>\n<h2 id=\"hi122-dose\">Incorrect detergent dose result reduce कर सकती है</h2><p>Too little detergent soil छोड़ सकती है; excess product harder to rinse होकर residue contribute कर सकती है। Approved dose use करें।</p>\n<h2 id=\"hi122-overload\">Overloading movement/rinsing कम करती है</h2><p>Textiles को water, chemistry और mechanical action circulate करने की जगह चाहिए। Overloading soil removal और rinsing दोनों reduce कर सकती है।</p>\n<h2 id=\"hi122-colour\">Colour transfer appearance बदल सकती है</h2><p>Incompatible colours या unstable dyes dull cast create कर सकते हैं जो simple dirt नहीं है। Sorting appearance control का हिस्सा है।</p>\n<h2 id=\"hi122-wear\">कुछ greying permanent change है</h2><p>Abrasion, fibre damage, dye loss और repeated heat textiles को clean होने के बाद भी faded/grey दिखा सकते हैं। Stronger chemistry worn fibres restore नहीं करती।</p>\n<h2 id=\"hi122-diagnose\">Sequence में troubleshoot करें</h2><p>Sorting, load size, detergent dose, water hardness, rinsing और machine condition check करें। Multiple variables एक साथ बदलने से cause hide हो सकती है।</p>\n<h2 id=\"hi122-references\">संदर्भ</h2><ol><li id=\"hi122-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"hi122-ref-2\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"hi122-ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/26782305/\">PubMed — Effects of Water Hardness on Textile Detergency Performance</a>.</li></ol>",
+  "seo_title": "Laundry Dull या Grey क्यों होती है | Alle's ClinX",
+  "meta_description": "Redeosition, hard water, detergent dose, overloading, rinsing, colour transfer और textile wear से dull/grey laundry troubleshoot करें।",
+  "related_article_ids": [
+    "ACX-KB-0102",
+    "ACX-KB-0105",
+    "ACX-KB-0103"
+  ]
+}

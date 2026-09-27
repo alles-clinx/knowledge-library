@@ -1,0 +1,25 @@
+{
+  "category": "Laundry & Fabric Care",
+  "category_slug": "laundry-fabric-care",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0122",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Laundry Comes Out Dull or Grey",
+  "slug": "why-laundry-comes-out-dull-or-grey",
+  "subcategory": "Laundry Troubleshooting",
+  "subcategory_slug": "laundry-troubleshooting",
+  "excerpt": "Laundry can look dull or grey when soil redeposits, detergent performance is reduced, mineral deposits accumulate, loads are overloaded, rinsing is poor or textiles are permanently worn or discoloured.",
+  "content_html": "<p>Dull or grey laundry is a result, not a single diagnosis. The appearance can come from retained soil, redeposition, water minerals, incorrect dosing, overloading, poor rinsing or permanent textile change.</p>\n<h2 id=\"redeposition\">Soil can redeposit</h2><p>Cleaning must loosen soil and keep it suspended until it leaves with the wash liquor. If the load is too large, the solution is heavily soiled or the chemistry is poorly matched, loosened material can settle back onto fibres.</p>\n<h2 id=\"hard-water\">Hard water can leave minerals</h2><p>Calcium and magnesium in hard water can interfere with detergent performance and contribute to deposits. A repeated pale or grey cast can therefore be partly a water-quality issue.</p>\n<h2 id=\"dose\">Incorrect detergent dose can reduce results</h2><p>Too little detergent may leave soil behind, while excess product can be harder to rinse and contribute to residue. Use the approved dose for the load and local water conditions.</p>\n<h2 id=\"overloading\">Overloading reduces movement and rinsing</h2><p>Textiles need enough room for water, chemistry and mechanical action to circulate. Overloading can reduce soil removal and make rinsing less effective.</p>\n<h2 id=\"colour-transfer\">Colour transfer can change appearance</h2><p>Mixing incompatible colours or unstable dyes can create a dull cast that is not simply removable dirt. Sorting remains part of appearance control.</p>\n<h2 id=\"wear-damage\">Some greying is permanent change</h2><p>Abrasion, fibre damage, dye loss and repeated heat exposure can make textiles look faded or grey even when they are clean. Repeatedly increasing chemistry will not restore physically worn fibres.</p>\n<h2 id=\"diagnose\">Troubleshoot in sequence</h2><p>Check sorting, load size, detergent dose, water hardness, rinsing and machine condition before changing multiple variables at once. Compare with a known-good load whenever possible.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/frequently-asked-questions-safer-choice\">US EPA — Safer Choice FAQs</a>.</li><li id=\"ref-3\"><a href=\"https://pubmed.ncbi.nlm.nih.gov/26782305/\">PubMed — Effects of Water Hardness on Textile Detergency Performance</a>.</li></ol>",
+  "seo_title": "Why Laundry Comes Out Dull or Grey | Alle's ClinX",
+  "meta_description": "Troubleshoot dull or grey laundry by checking redeposition, hard water, detergent dose, overloading, rinsing, colour transfer and permanent textile wear.",
+  "related_article_ids": [
+    "ACX-KB-0102",
+    "ACX-KB-0105",
+    "ACX-KB-0103"
+  ]
+}
