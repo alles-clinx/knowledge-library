@@ -23,6 +23,19 @@ try{
   await page.goto(BASE,{waitUntil:'networkidle'});
   assert(await page.locator('.acx-site-header').isVisible(),'Desktop site header is not visible');
   assert(await page.locator('.acx-search-button').isVisible(),'Desktop Search button is not visible');
+  assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
+  assert(await page.locator('.acx-menu-button').isVisible(),'Desktop Menu button is missing');
+  await page.locator('.acx-dropdown-toggle').first().click();
+  await page.locator('.acx-nav-dropdown').first().waitFor({state:'visible'});
+  assert(await page.locator('.acx-nav-dropdown').first().isVisible(),'Desktop dropdown did not open');
+  await page.keyboard.press('Escape');
+  await page.locator('.acx-menu-button').click();
+  assert(await page.locator('#acx-mobile-drawer.is-open').isVisible(),'Desktop menu did not open');
+  await page.locator('#acx-mobile-drawer a').last().focus();
+  await page.keyboard.press('Tab');
+  assert(await page.locator('.acx-menu-button').evaluate(el=>el===document.activeElement),'Menu keyboard loop skipped Close');
+  await page.keyboard.press('Escape');
+  assert((await page.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Desktop menu did not close');
 
   await page.locator('.acx-search-button').click();
   assert(await page.locator('.acx-search-dialog.is-open').isVisible(),'Search dialog did not open');
