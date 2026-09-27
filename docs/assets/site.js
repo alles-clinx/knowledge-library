@@ -1,9 +1,15 @@
 (function(){
   document.querySelectorAll('link[rel~="icon"],link[rel="shortcut icon"],link[rel="apple-touch-icon"],link[rel="mask-icon"]').forEach(function(el){el.remove();});
-  const blankIcon=document.createElement('link');
-  blankIcon.rel='icon';
-  blankIcon.href='data:,';
-  document.head.appendChild(blankIcon);
+  const siteIcon=document.createElement('link');
+  siteIcon.rel='icon';
+  siteIcon.type='image/svg+xml';
+  siteIcon.href='/knowledge-library/assets/favicon.svg?v=20260927';
+  document.head.appendChild(siteIcon);
+
+  const shortcutIcon=document.createElement('link');
+  shortcutIcon.rel='shortcut icon';
+  shortcutIcon.href='/knowledge-library/assets/favicon.svg?v=20260927';
+  document.head.appendChild(shortcutIcon);
 
   if(window.__ACX_SITE_SHELL__) return;
   window.__ACX_SITE_SHELL__=true;
