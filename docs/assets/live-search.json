@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 298,
+  "record_count": 300,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3280,6 +3280,28 @@
       "subcategory_slug": "infection-prevention-workflows",
       "excerpt": "Cleaning और clinical teams की responsibilities clearly divided होनी चाहिए ताकि environmental surfaces, patient-zone items, shared equipment और specialized devices बिना gaps cover हों।",
       "url": "library/disinfection-infection-prevention/infection-prevention-workflows/cleaning-clinical-team-responsibilities/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0150",
+      "locale": "en",
+      "title": "Documentation in Infection-Prevention Cleaning",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Infection Prevention Workflows",
+      "subcategory_slug": "infection-prevention-workflows",
+      "excerpt": "Documentation makes infection-prevention cleaning traceable by recording what was scheduled, who was responsible, when work was completed, what method was used, and what monitoring or corrective action followed.",
+      "url": "library/disinfection-infection-prevention/infection-prevention-workflows/documentation-infection-prevention-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0150",
+      "locale": "hi-IN",
+      "title": "Infection-prevention cleaning में documentation",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Infection Prevention Workflows",
+      "subcategory_slug": "infection-prevention-workflows",
+      "excerpt": "Documentation infection-prevention cleaning को traceable बनाती है—क्या scheduled था, कौन responsible था, work कब complete हुआ, कौनसा method use हुआ और monitoring/corrective action क्या रही।",
+      "url": "library/disinfection-infection-prevention/infection-prevention-workflows/documentation-infection-prevention-cleaning/hi.html"
     }
   ]
 }
