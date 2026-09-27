@@ -84,8 +84,8 @@ try{
   await wait(240);
   assert(!(await mp.locator('#acx-mobile-drawer').isVisible()),'Mobile drawer remained visible after close transition');
   await mp.locator('.acx-menu-button').click();
-  await mp.locator('.acx-mobile-search').click();
-  assert(await mp.locator('.acx-search-dialog.is-open').isVisible(),'Mobile search did not open from drawer');
+  await mp.locator('.acx-search-button').click();
+  assert(await mp.locator('.acx-search-dialog.is-open').isVisible(),'Mobile search did not open from header');
   assert((await mp.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Mobile drawer did not close when search opened');
   await mp.keyboard.press('Escape');
   assert(!(await mp.locator('.acx-search-dialog').isVisible()),'Mobile search did not close with Escape');
