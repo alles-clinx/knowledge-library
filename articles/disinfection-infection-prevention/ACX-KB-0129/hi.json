@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0129",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0129",
+  "title": "Cleaning vs disinfection: मुख्य अंतर",
+  "slug": "cleaning-vs-disinfection",
+  "subcategory": "Cleaning vs Disinfection",
+  "subcategory_slug": "cleaning-vs-disinfection",
+  "excerpt": "Cleaning surfaces से soil, dirt और कई germs physically remove करती है; disinfection approved process से remaining microorganisms inactivate करती है। दोनों के purposes अलग हैं।",
+  "content_html": "<p>Cleaning और disinfection complementary लेकिन अलग processes हैं। Cleaning contamination remove करती है; disinfection targeted microbial-control step है जहाँ setting/risk require करे।</p>\n<h2 id=\"hi129-purpose\">Primary purpose अलग है</h2><p>Cleaning का primary purpose soil removal है। Disinfection का primary purpose microbial inactivation है। Surface clean दिख सकती है बिना disinfected हुए।</p>\n<h2 id=\"hi129-mechanism\">Mechanism अलग है</h2><p>Cleaning water, detergents, friction और rinsing से material physically remove करती है। Disinfection defined conditions में validated physical/chemical action पर depend करती है।</p>\n<h2 id=\"hi129-sequence\">Cleaning usually disinfection prepare करती है</h2><p>CDC many disinfection processes में cleaning को necessary first step बताता है क्योंकि soil/organic material microbial inactivation interfere कर सकती है।</p>\n<h2 id=\"hi129-frequency\">Frequency decisions अलग हैं</h2><p>Routine cleaning कई surfaces पर frequent हो सकती है। Disinfection frequency risk, illness, contamination, high-touch use या healthcare protocol reflect करनी चाहिए।</p>\n<h2 id=\"hi129-products\">Product requirements अलग हैं</h2><p>General cleaner और registered disinfectant की claims same नहीं हैं। Required disinfection में label-covered surface, organism, method और contact time follow करें।</p>\n<h2 id=\"hi129-verification\">Verification questions अलग हैं</h2><p>Cleaning में पूछें soil/residue remove हुई या नहीं। Disinfection में correct product, claim, coverage और contact time भी verify करें।</p>\n<h2 id=\"hi129-takeaway\">Practical takeaway</h2><p>Cleaning removes; disinfection inactivates. दोनों को intended purpose के लिए use करें और combination केवल label/protocol के अनुसार करें।</p>\n<h2 id=\"hi129-references\">संदर्भ</h2><ol><li id=\"hi129-ref-1\"><a href=\"https://www.cdc.gov/hygiene/cleaning-disinfecting/index.html\">CDC — Cleaning and Disinfecting</a>.</li><li id=\"hi129-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/cleaning.html\">CDC — Cleaning</a>.</li><li id=\"hi129-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Cleaning vs Disinfection | Alle's ClinX",
+  "meta_description": "Cleaning और disinfection को purpose, mechanism, sequence, frequency, product requirements और verification से compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0125",
+    "ACX-KB-0126",
+    "ACX-KB-0127"
+  ]
+}

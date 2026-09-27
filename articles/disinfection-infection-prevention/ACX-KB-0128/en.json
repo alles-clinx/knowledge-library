@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0128",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Factors Can Affect Disinfectant Performance?",
+  "slug": "what-factors-can-affect-disinfectant-performance",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Disinfectant performance can be affected by soil load, microorganism type and quantity, product concentration, contact time, temperature, surface condition, application method and whether the product is used according to its label.",
+  "content_html": "<p>Disinfectant performance is not determined by product name alone. Effectiveness depends on the interaction between the microorganism, surface, soil, product chemistry and the way the product is applied.</p>\n<h2 id=\"soil\">Amount of soil</h2><p>Organic and inorganic residue can shield microorganisms or consume disinfectant activity. Cleaning the surface as directed is therefore a major performance control.</p>\n<h2 id=\"microorganism\">Type and number of microorganisms</h2><p>Microorganisms differ in susceptibility to disinfectants. The product must have an appropriate claim for the intended target and use setting.</p>\n<h2 id=\"concentration\">Correct product concentration</h2><p>For products that require preparation, the labeled concentration matters. Too weak may be ineffective, while unnecessary over-concentration can increase residue, damage or exposure without improving the labeled claim.</p>\n<h2 id=\"contact-time\">Contact time</h2><p>The treated surface must remain visibly wet for the contact time stated on the label for the relevant claim. Early drying can reduce the effective exposure period.</p>\n<h2 id=\"temperature\">Temperature and environment</h2><p>Temperature and other environmental conditions can influence chemical activity and drying rate. Follow the product directions rather than assuming hotter, colder or longer is always better.</p>\n<h2 id=\"surface\">Surface condition and compatibility</h2><p>Porous, damaged, rough or complex surfaces can be more difficult to treat uniformly than smooth nonporous surfaces. Use only on surface types covered by the product directions.</p>\n<h2 id=\"application\">Application method</h2><p>Wipes, sprays, liquids and other formulations can have different labeled application methods. Coverage, wetness and use technique should match the label.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Reliable disinfection depends on a controlled process: clean surface, correct product, correct claim, correct application and full labeled contact time.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/coronavirus-and-disinfectants/i-have-question-about-word-or-phrase-list-n-website-im-not-sure-how\">US EPA — Contact Time and List N Terms</a>.</li></ol>",
+  "seo_title": "What Factors Affect Disinfectant Performance? | Alle's ClinX",
+  "meta_description": "Understand how soil, microorganism type, concentration, contact time, temperature, surface condition and application method affect disinfectant performance.",
+  "related_article_ids": [
+    "ACX-KB-0125",
+    "ACX-KB-0126",
+    "ACX-KB-0127"
+  ]
+}

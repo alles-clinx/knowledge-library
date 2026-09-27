@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0127",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Cleaning Usually Comes Before Disinfection",
+  "slug": "why-cleaning-usually-comes-before-disinfection",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Cleaning usually comes before disinfection because soil, organic matter and residues can shield microorganisms or interfere with disinfectant action, reducing the reliability of the disinfection step.",
+  "content_html": "<p>Cleaning usually comes before disinfection because disinfectants need access to the surface and microorganisms they are intended to act on. Dirt, grease and organic material can block that access or reduce product performance.</p>\n<h2 id=\"soil\">Soil can shield microorganisms</h2><p>Microorganisms can be embedded in organic material or residue. Removing that material exposes the underlying surface and reduces the amount of contamination the disinfectant must address.</p>\n<h2 id=\"interference\">Organic material can interfere with disinfectant action</h2><p>CDC guidance identifies the amount of organic soil as one factor that influences disinfection effectiveness. Some germicides can be less reliable when significant soil remains.</p>\n<h2 id=\"physical-removal\">Cleaning already removes many microorganisms</h2><p>Detergent, water, friction and rinsing physically remove large numbers of microorganisms along with soil. Disinfection then acts on the properly prepared surface where required.</p>\n<h2 id=\"exceptions\">Follow the product and facility protocol</h2><p>Some products are designed and labeled for combined cleaning and disinfection under specific conditions. In those cases, follow the approved directions rather than assuming a separate step is always required.</p>\n<h2 id=\"visible-soil\">Visible contamination still needs attention</h2><p>Even with a combined product, heavy or visible soil may require removal first according to the label or facility procedure. Do not assume spraying over visible dirt is equivalent to cleaning.</p>\n<h2 id=\"contact-time\">Cleaning does not replace contact time</h2><p>After the surface is prepared, the disinfectant still needs its labeled application and contact time. A clean surface alone does not complete a required disinfection step.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Cleaning prepares the surface; disinfection controls remaining microorganisms where the risk requires it. The exact sequence should follow product labeling and facility protocols.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/cleaning.html\">CDC — Cleaning</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Why Cleaning Usually Comes Before Disinfection | Alle's ClinX",
+  "meta_description": "Learn why soil removal usually precedes disinfection, how organic matter can interfere with disinfectants, and when combined cleaner-disinfectants may be used.",
+  "related_article_ids": [
+    "ACX-KB-0125",
+    "ACX-KB-0126",
+    "ACX-KB-0129"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0127",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0127",
+  "title": "Cleaning usually disinfection से पहले क्यों आती है",
+  "slug": "why-cleaning-usually-comes-before-disinfection",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Cleaning usually disinfection से पहले इसलिए आती है क्योंकि soil, organic matter और residues microorganisms shield या disinfectant action interfere कर सकती हैं।",
+  "content_html": "<p>Cleaning usually disinfection से पहले होती है क्योंकि disinfectant को surface और target microorganisms तक access चाहिए। Dirt, grease और organic material इस access को block या performance reduce कर सकती है।</p>\n<h2 id=\"hi127-soil\">Soil microorganisms shield कर सकती है</h2><p>Microorganisms organic material/residue में embedded हो सकते हैं। Soil remove करने से underlying surface expose होती है और contamination load कम होती है।</p>\n<h2 id=\"hi127-interference\">Organic material disinfectant action interfere कर सकती है</h2><p>CDC organic soil amount को disinfection effectiveness influence करने वाला factor बताता है। Significant soil remaining हो तो some germicides less reliable हो सकते हैं।</p>\n<h2 id=\"hi127-removal\">Cleaning कई microorganisms physically remove करती है</h2><p>Detergent, water, friction और rinsing soil के साथ microorganisms की बड़ी मात्रा physically remove करते हैं।</p>\n<h2 id=\"hi127-exceptions\">Product/facility protocol follow करें</h2><p>कुछ products specific conditions में combined cleaning + disinfection के लिए labeled होती हैं। ऐसे case में approved directions follow करें।</p>\n<h2 id=\"hi127-visible\">Visible contamination फिर भी remove करनी पड़ सकती है</h2><p>Heavy/visible soil label या facility procedure के अनुसार पहले हटानी पड़ सकती है। Visible dirt पर spray करना cleaning के equivalent नहीं है।</p>\n<h2 id=\"hi127-contact\">Cleaning contact time replace नहीं करती</h2><p>Prepared surface पर disinfectant को labeled application और contact time फिर भी चाहिए।</p>\n<h2 id=\"hi127-takeaway\">Practical takeaway</h2><p>Cleaning surface prepare करती है; disinfection remaining microorganisms control करती है जहाँ risk require करे। Exact sequence label/protocol से तय करें।</p>\n<h2 id=\"hi127-references\">संदर्भ</h2><ol><li id=\"hi127-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi127-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/cleaning.html\">CDC — Cleaning</a>.</li><li id=\"hi127-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Cleaning Disinfection से पहले क्यों | Alle's ClinX",
+  "meta_description": "Soil removal, organic-matter interference, microorganism removal और combined cleaner-disinfectant exceptions समझें।",
+  "related_article_ids": [
+    "ACX-KB-0125",
+    "ACX-KB-0126",
+    "ACX-KB-0129"
+  ]
+}

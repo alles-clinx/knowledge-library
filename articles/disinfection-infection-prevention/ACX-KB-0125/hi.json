@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0125",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0125",
+  "title": "Disinfection क्या है?",
+  "slug": "what-is-disinfection",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Disinfection approved process या product से inanimate surface पर disease-causing microorganisms को inactivate करने की controlled step है, जो cleaning और label directions के अनुसार की जाती है।",
+  "content_html": "<p>Disinfection inanimate surfaces/equipment पर disease-causing microorganisms को inactivate करने की controlled process है। यह ordinary cleaning से अलग है और setting, surface तथा infection-prevention objective के अनुसार select की जानी चाहिए।</p>\n<h2 id=\"hi125-definition\">Disinfection क्या करती है</h2><p>Disinfection approved physical या chemical method use करके viable microorganisms reduce करती है। यह हर microbial form destroy करना जरूरी नहीं है और sterilization के same नहीं है।</p>\n<h2 id=\"hi125-cleaning\">Cleaning और disinfection अलग steps हैं</h2><p>Cleaning soil, organic matter और कई microorganisms physical removal से हटाती है। Disinfection remaining microorganisms पर act करती है। Visible soil microbial inactivation interfere कर सकती है।</p>\n<h2 id=\"hi125-when\">Disinfection कब appropriate है</h2><p>Need setting और risk पर depend करती है। Community facilities में routine cleaning अक्सर enough हो सकती है; illness, contamination या defined risk होने पर disinfection चाहिए हो सकती है।</p>\n<h2 id=\"hi125-label\">Product label correct use define करती है</h2><p>EPA-registered disinfectant की label approved surfaces, claims, application method और contact time बताती है। Label directions के बाहर use expected result नहीं दे सकती।</p>\n<h2 id=\"hi125-contact\">Contact time matter करती है</h2><p>Contact time वह duration है जिसमें treated surface visibly wet रहनी चाहिए ताकि target claim के लिए product effective हो। Required time product-specific है।</p>\n<h2 id=\"hi125-compatibility\">Surface compatibility matter करती है</h2><p>Disinfectants metals, coatings, plastics, fabrics और finishes को अलग तरह affect कर सकती हैं। Product surface और manufacturer instructions से compatible होनी चाहिए।</p>\n<h2 id=\"hi125-takeaway\">Practical takeaway</h2><p>Disinfection “stronger cleaning” नहीं है। यह separate, label-controlled infection-prevention step है जो properly cleaned, compatible surface पर best work करती है।</p>\n<h2 id=\"hi125-references\">संदर्भ</h2><ol><li id=\"hi125-ref-1\"><a href=\"https://www.cdc.gov/hygiene/cleaning-disinfecting/index.html\">CDC — Cleaning and Disinfecting</a>.</li><li id=\"hi125-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi125-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Disinfection क्या है? | Alle's ClinX",
+  "meta_description": "Disinfection, cleaning से उसका difference, contact time, label directions और surface compatibility क्यों matter करती है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0126",
+    "ACX-KB-0127",
+    "ACX-KB-0129"
+  ]
+}

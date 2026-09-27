@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0128",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0128",
+  "title": "Disinfectant performance किन factors से affect होती है?",
+  "slug": "what-factors-can-affect-disinfectant-performance",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Disinfectant performance soil load, microorganism type/quantity, product concentration, contact time, temperature, surface condition, application method और label-compliant use से affect हो सकती है।",
+  "content_html": "<p>Disinfectant performance केवल product name से determine नहीं होती। Effectiveness microorganism, surface, soil, chemistry और application के interaction पर depend करती है।</p>\n<h2 id=\"hi128-soil\">Soil amount</h2><p>Organic/inorganic residue microorganisms shield या disinfectant activity consume कर सकती है। Directed cleaning major performance control है।</p>\n<h2 id=\"hi128-organism\">Microorganism type और quantity</h2><p>Different microorganisms disinfectants के प्रति different susceptibility रखते हैं। Product claim intended target/use setting से match करनी चाहिए।</p>\n<h2 id=\"hi128-concentration\">Correct concentration</h2><p>Preparation-required products में labeled concentration matter करती है। Too weak ineffective हो सकती है; unnecessary over-concentration residue, damage या exposure बढ़ा सकती है।</p>\n<h2 id=\"hi128-contact\">Contact time</h2><p>Treated surface relevant claim के labeled contact time तक visibly wet रहनी चाहिए। Early drying effective exposure reduce कर सकती है।</p>\n<h2 id=\"hi128-temperature\">Temperature/environment</h2><p>Temperature chemical activity और drying rate influence कर सकती है। Product directions follow करें; hotter/longer को automatically better न मानें।</p>\n<h2 id=\"hi128-surface\">Surface condition और compatibility</h2><p>Porous, damaged, rough या complex surfaces uniformly treat करना harder हो सकता है। केवल label-covered surface types पर use करें।</p>\n<h2 id=\"hi128-application\">Application method</h2><p>Wipes, sprays, liquids और other formulations की labeled methods अलग हो सकती हैं। Coverage/wetness label से match करें।</p>\n<h2 id=\"hi128-takeaway\">Practical takeaway</h2><p>Reliable disinfection controlled process है: clean surface, correct product, correct claim, correct application और full labeled contact time।</p>\n<h2 id=\"hi128-references\">संदर्भ</h2><ol><li id=\"hi128-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi128-ref-2\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"hi128-ref-3\"><a href=\"https://www.epa.gov/coronavirus-and-disinfectants/i-have-question-about-word-or-phrase-list-n-website-im-not-sure-how\">US EPA — Contact Time and List N Terms</a>.</li></ol>",
+  "seo_title": "Disinfectant Performance Factors | Alle's ClinX",
+  "meta_description": "Soil, organism type, concentration, contact time, temperature, surface condition और application method disinfection को कैसे affect करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0125",
+    "ACX-KB-0126",
+    "ACX-KB-0127"
+  ]
+}

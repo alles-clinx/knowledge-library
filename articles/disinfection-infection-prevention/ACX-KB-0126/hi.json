@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0126",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0126",
+  "title": "Cleaning program में disinfection कैसे fit होती है",
+  "slug": "how-disinfection-fits-into-a-cleaning-program",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Disinfection cleaning program में soil removal के बाद targeted risk-control step है, जिसमें product selection, contact time, surface compatibility, frequency और verification setting के अनुसार define होते हैं।",
+  "content_html": "<p>Good cleaning program हर surface को same way disinfect नहीं करती। यह identify करती है कि cleaning alone कहाँ enough है और contamination risk, illness, regulation या facility protocol के कारण additional disinfection कहाँ चाहिए।</p>\n<h2 id=\"hi126-risk\">Risk और setting से start करें</h2><p>Frequency/method facility type, touch frequency, contamination likelihood और specific infection-prevention requirements reflect करें।</p>\n<h2 id=\"hi126-cleaning\">Cleaning सही starting surface बनाती है</h2><p>Cleaning soil/organic material remove करती है जो microorganisms shield या disinfectant activity interfere कर सकती है।</p>\n<h2 id=\"hi126-selection\">Appropriate product select करें</h2><p>Disinfectant intended use site/surface के लिए approved हो और label claims facility objective से match करें। Surface compatibility भी check करें।</p>\n<h2 id=\"hi126-application\">Label के अनुसार apply करें</h2><p>Labeled application method use करें और surface specified contact time तक visibly wet रखें। Contact time shorten या products improvise/mix न करें।</p>\n<h2 id=\"hi126-frequency\">Disinfection कब होगी define करें</h2><p>High-touch surfaces, illness exposure, spills या regulated zones के schedules अलग हो सकते हैं। Written protocol consistency improve करती है।</p>\n<h2 id=\"hi126-training\">Staff को sequence train करें</h2><p>Personnel को पता होना चाहिए कौनसी surface cleaning only, कौनसी cleaning + disinfection, कौनसा product और कौनसी contact-time/safety information apply होती है।</p>\n<h2 id=\"hi126-verification\">Program verify करें</h2><p>Supervision, checklists, observations और process audits repeatable implementation confirm कर सकते हैं।</p>\n<h2 id=\"hi126-takeaway\">Practical takeaway</h2><p>Disinfection larger cleaning system का हिस्सा है। Risk assessment, cleaning, product selection, label-compliant application, training और verification साथ work करते हैं।</p>\n<h2 id=\"hi126-references\">संदर्भ</h2><ol><li id=\"hi126-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html\">CDC — Core Components of Environmental Cleaning and Disinfection</a>.</li><li id=\"hi126-ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"hi126-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Cleaning Program में Disinfection | Alle's ClinX",
+  "meta_description": "Risk assessment, cleaning, product selection, contact time, frequency, training और verification से disinfection cleaning program में कैसे fit होती है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0125",
+    "ACX-KB-0127",
+    "ACX-KB-0129"
+  ]
+}

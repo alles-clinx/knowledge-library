@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0126",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Disinfection Fits Into a Cleaning Program",
+  "slug": "how-disinfection-fits-into-a-cleaning-program",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Disinfection fits into a cleaning program as a targeted risk-control step after soil removal, with product selection, contact time, surface compatibility, frequency and verification defined by the setting.",
+  "content_html": "<p>A good cleaning program does not disinfect every surface in the same way. It identifies where cleaning alone is sufficient and where an additional disinfection step is required because of contamination risk, illness, regulation or facility protocol.</p>\n<h2 id=\"risk\">Start with risk and setting</h2><p>Frequency and method should reflect the type of facility, how often the surface is touched, whether contamination is likely, and whether a specific infection-prevention requirement applies.</p>\n<h2 id=\"cleaning\">Cleaning creates the right starting surface</h2><p>Cleaning removes soil and organic material that can shield microorganisms or interfere with disinfectant activity. This makes cleaning a foundational part of an effective disinfection program.</p>\n<h2 id=\"selection\">Select an appropriate product</h2><p>The disinfectant should be approved for the intended use site and surface, and its label claims should match the facility's objective. Surface compatibility and equipment-manufacturer instructions also matter.</p>\n<h2 id=\"application\">Apply according to the label</h2><p>Use the labeled application method and ensure the surface remains visibly wet for the specified contact time. Do not shorten contact time or improvise combinations of products.</p>\n<h2 id=\"frequency\">Define when disinfection occurs</h2><p>High-touch surfaces, areas exposed to illness, spills or regulated healthcare zones may need different schedules. A written protocol makes these decisions consistent instead of leaving them to individual judgment.</p>\n<h2 id=\"training\">Train staff on the sequence</h2><p>Personnel should understand which surfaces require cleaning only, which require cleaning plus disinfection, what product is assigned, and what contact time and safety information apply.</p>\n<h2 id=\"verification\">Verify the program</h2><p>Supervision, checklists, observations and process audits can confirm whether the defined sequence is being followed. A program is only effective when the procedure is repeatable.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Disinfection belongs inside a larger cleaning system. Risk assessment, cleaning, product selection, label-compliant application, staff training and verification all determine whether it works.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html\">CDC — Core Components of Environmental Cleaning and Disinfection</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "How Disinfection Fits Into a Cleaning Program | Alle's ClinX",
+  "meta_description": "See how disinfection fits into a cleaning program through risk assessment, cleaning, product selection, contact time, frequency, training and verification.",
+  "related_article_ids": [
+    "ACX-KB-0125",
+    "ACX-KB-0127",
+    "ACX-KB-0129"
+  ]
+}

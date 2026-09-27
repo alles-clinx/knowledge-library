@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0125",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Disinfection?",
+  "slug": "what-is-disinfection",
+  "subcategory": "Disinfection Basics",
+  "subcategory_slug": "disinfection-basics",
+  "excerpt": "Disinfection is the use of an appropriate process or product to inactivate many or all disease-causing microorganisms on an inanimate surface, following cleaning and the product's labeled directions.",
+  "content_html": "<p>Disinfection is a controlled process used to inactivate disease-causing microorganisms on inanimate surfaces or equipment. It is different from ordinary cleaning and should be selected according to the setting, surface and infection-prevention objective.</p>\n<h2 id=\"definition\">What disinfection does</h2><p>Disinfection uses an approved physical or chemical method to reduce viable microorganisms on a surface. It does not necessarily destroy every microbial form, and it is not the same as sterilization.</p>\n<h2 id=\"cleaning-first\">Cleaning and disinfection are different steps</h2><p>Cleaning removes soil, organic matter and many microorganisms by physical removal. Disinfection acts on microorganisms that remain. CDC guidance notes that visible soil and organic material can interfere with microbial inactivation.</p>\n<h2 id=\"when-needed\">When disinfection is appropriate</h2><p>The need for disinfection depends on the setting and risk. In community facilities, routine cleaning is often sufficient unless illness, contamination or another defined risk requires disinfection. Healthcare and regulated environments can have more specific protocols.</p>\n<h2 id=\"label\">The product label defines correct use</h2><p>For an EPA-registered disinfectant, the label specifies approved surfaces, organisms or claims, application method and contact time. Use outside those directions may not provide the expected result.</p>\n<h2 id=\"contact-time\">Contact time matters</h2><p>Contact time is the period the treated surface must remain visibly wet for the disinfectant to be effective against the target claim. The required time is product-specific and should come from the label.</p>\n<h2 id=\"compatibility\">Surface compatibility matters</h2><p>Disinfectants can affect metals, coatings, plastics, fabrics or finishes differently. The selected product should be compatible with the surface and any manufacturer instructions for the equipment being treated.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Disinfection is not simply “stronger cleaning.” It is a separate, label-controlled infection-prevention step that works best on a properly cleaned, compatible surface.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/hygiene/cleaning-disinfecting/index.html\">CDC — Cleaning and Disinfecting</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "What Is Disinfection? | Alle's ClinX",
+  "meta_description": "Learn what disinfection is, how it differs from cleaning, why contact time and label directions matter, and how surface compatibility affects use.",
+  "related_article_ids": [
+    "ACX-KB-0126",
+    "ACX-KB-0127",
+    "ACX-KB-0129"
+  ]
+}
