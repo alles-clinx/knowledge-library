@@ -357,6 +357,7 @@ llms += [
 (OUT / ".htaccess").write_text(
     "Options -Indexes\n"
     "DirectoryIndex index.html\n"
+    "AddType application/manifest+json .webmanifest\n"
     "<IfModule mod_headers.c>\n"
     "  Header set X-Content-Type-Options \"nosniff\"\n"
     "  Header set Referrer-Policy \"strict-origin-when-cross-origin\"\n"

@@ -49,3 +49,7 @@ jobs:
         env:
           BASE_URL: http://127.0.0.1:4173/knowledge/
         run: node tests/interaction-smoke.mjs
+      - name: Run PWA smoke test
+        env:
+          BASE_URL: http://127.0.0.1:4173/knowledge/
+        run: node tests/pwa-smoke.mjs
