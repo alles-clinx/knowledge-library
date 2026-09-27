@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0131",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Disinfection Does Not Replace Soil Removal",
+  "slug": "why-disinfection-does-not-replace-soil-removal",
+  "subcategory": "Cleaning vs Disinfection",
+  "subcategory_slug": "cleaning-vs-disinfection",
+  "excerpt": "Disinfection does not replace soil removal because dirt, grease, organic matter and residue can shield microorganisms, consume disinfectant activity and prevent uniform contact with the underlying surface.",
+  "content_html": "<p>Disinfection is designed to control microorganisms, not to substitute for physical soil removal. Dirt, grease and residue can make a disinfectant less reliable by blocking access to the surface or interfering with its chemistry.</p>\n<h2 id=\"shielding\">Soil can shield microorganisms</h2><p>Microorganisms can sit beneath or within organic material. If the disinfectant cannot reach them uniformly, the required exposure may not occur even when the surface appears wet.</p>\n<h2 id=\"chemical-interference\">Soil can interfere chemically</h2><p>CDC identifies organic soil as a factor that can affect disinfection effectiveness. Some disinfectant activity can be reduced when significant contamination remains.</p>\n<h2 id=\"cleaning-removal\">Cleaning removes both soil and microbes</h2><p>Detergent, water, friction and rinsing physically remove contamination and large numbers of microorganisms. This reduces the microbial and soil burden before the disinfection step.</p>\n<h2 id=\"coverage\">A clean surface is easier to cover</h2><p>Residue, debris and uneven soil can prevent consistent wetting. A properly cleaned surface makes it easier to achieve uniform product coverage and the required contact time.</p>\n<h2 id=\"combined-products\">Combined products still have conditions</h2><p>Some products are labeled to clean and disinfect in one workflow. Their directions still define whether pre-cleaning is needed for heavy or visible soil and how the product must be applied.</p>\n<h2 id=\"not-more-product\">More disinfectant is not a substitute</h2><p>Applying extra product or stronger-than-labeled concentration does not correct an unclean surface and can create additional residue, damage or exposure.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Soil removal prepares the surface; disinfection controls remaining microorganisms. Reliable infection prevention depends on both functions being performed correctly.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/cleaning.html\">CDC — Cleaning</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Why Disinfection Does Not Replace Soil Removal | Alle's ClinX",
+  "meta_description": "Learn why dirt, grease and organic matter can interfere with disinfectants and why physical soil removal remains essential before disinfection.",
+  "related_article_ids": [
+    "ACX-KB-0127",
+    "ACX-KB-0129",
+    "ACX-KB-0130"
+  ]
+}

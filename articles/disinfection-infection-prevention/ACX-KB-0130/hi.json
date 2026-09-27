@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0130",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0130",
+  "title": "Cleaning alone vs disinfection step",
+  "slug": "cleaning-alone-vs-disinfection-step",
+  "subcategory": "Cleaning vs Disinfection",
+  "subcategory_slug": "cleaning-vs-disinfection",
+  "excerpt": "Routine low-risk surfaces में cleaning alone अक्सर sufficient हो सकती है, जबकि illness, contamination, high-touch exposure या regulated protocol होने पर additional disinfection step use की जाती है।",
+  "content_html": "<p>Cleaning और disinfection risk के अनुसार match होनी चाहिए। Routine cleaning soil और कई germs remove करती है; higher infection-control need होने पर separate disinfection step add की जाती है।</p>\n<h2 id=\"hi130-cleaning\">Cleaning alone कब enough हो सकती है</h2><p>CDC community-facility guidance के अनुसार कई situations में regular cleaning sufficient होती है। Low-risk, non-contaminated surfaces को routine disinfection हमेशा जरूरी नहीं होती।</p>\n<h2 id=\"hi130-disinfection\">Disinfection कब add करें</h2><p>Illness, known/suspected contamination, higher-risk high-touch surfaces या facility/regulatory requirement होने पर disinfection अधिक relevant होती है।</p>\n<h2 id=\"hi130-risk\">Surface use decision बदलती है</h2><p>Rarely touched wall और frequently handled door plate का interaction risk same नहीं है। High-touch surfaces को more frequent cleaning/disinfection के लिए prioritize किया जा सकता है।</p>\n<h2 id=\"hi130-clean-first\">Cleaning फिर भी first step है</h2><p>Visible dirt/organic material disinfectant performance interfere कर सकती है। Combined cleaner-disinfectant label specifically allow न करे तो surface पहले clean करें।</p>\n<h2 id=\"hi130-label\">Label disinfection step control करती है</h2><p>Registered disinfectant को labeled surface, claim, application method और contact time के अनुसार use करें। Stronger concentration या product combinations improvise न करें।</p>\n<h2 id=\"hi130-program\">Decision cleaning plan में define करें</h2><p>Written schedule routine-clean surfaces, event-based disinfection surfaces और special-protocol surfaces clearly define कर सकती है।</p>\n<h2 id=\"hi130-takeaway\">Practical takeaway</h2><p>Cleaning alone और cleaning + disinfection competing methods नहीं हैं। Surface risk, contamination और facility requirement के अनुसार different control levels हैं।</p>\n<h2 id=\"hi130-references\">संदर्भ</h2><ol><li id=\"hi130-ref-1\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"hi130-ref-2\"><a href=\"https://www.cdc.gov/hygiene/cleaning-disinfecting/index.html\">CDC — Cleaning and Disinfecting</a>.</li><li id=\"hi130-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Cleaning Alone vs Disinfection Step | Alle's ClinX",
+  "meta_description": "Routine cleaning और additional disinfection step को surface risk, illness, contamination और facility requirements से compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0129",
+    "ACX-KB-0131",
+    "ACX-KB-0133"
+  ]
+}

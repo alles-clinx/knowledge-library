@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0132",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Environmental Surface Disinfection?",
+  "slug": "what-is-environmental-surface-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "Environmental surface disinfection is the controlled use of an appropriate disinfectant on inanimate environmental surfaces after cleaning, where risk assessment, facility policy or regulation requires microbial inactivation.",
+  "content_html": "<p>Environmental surface disinfection applies disinfectant to inanimate surfaces in the built environment, such as selected counters, touch points, fixtures and compatible equipment surfaces. It is distinct from skin antisepsis, instrument sterilization and general cleaning.</p>\n<h2 id=\"environmental-surfaces\">What counts as an environmental surface</h2><p>Environmental surfaces include housekeeping surfaces and external surfaces of compatible furnishings or equipment. They differ from critical instruments that require specialized reprocessing or sterilization.</p>\n<h2 id=\"purpose\">The purpose is microbial control</h2><p>The objective is to inactivate microorganisms remaining on a properly prepared surface where infection-prevention risk justifies that extra control.</p>\n<h2 id=\"cleaning\">Cleaning is the foundation</h2><p>CDC guidance identifies cleaning as the necessary first step for many disinfection processes because visible soil, salts and organic matter can interfere with microbial inactivation.</p>\n<h2 id=\"risk-based\">Use should be risk-based</h2><p>Not every surface needs the same frequency or level of disinfection. High-touch surfaces and areas associated with illness or contamination are often prioritised, while minimal-touch surfaces may need routine cleaning only.</p>\n<h2 id=\"product\">Product and surface must match</h2><p>The disinfectant should be labeled for the intended surface and use site. Equipment manufacturers may also specify compatible products or prohibit certain chemicals.</p>\n<h2 id=\"contact\">Contact time and coverage matter</h2><p>The surface must receive complete coverage and remain visibly wet for the labeled contact time associated with the intended claim.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Environmental surface disinfection is a targeted step within a larger cleaning program, not a blanket treatment for every surface in a facility.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "What Is Environmental Surface Disinfection? | Alle's ClinX",
+  "meta_description": "Learn what environmental surface disinfection is, how it differs from cleaning and sterilization, and why risk, surface compatibility and contact time matter.",
+  "related_article_ids": [
+    "ACX-KB-0133",
+    "ACX-KB-0134",
+    "ACX-KB-0125"
+  ]
+}

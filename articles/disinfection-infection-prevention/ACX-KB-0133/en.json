@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0133",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Surfaces Commonly Prioritised for Disinfection",
+  "slug": "priority-surfaces-for-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "Disinfection is commonly prioritised for high-touch surfaces, areas exposed to illness or contamination, and surfaces covered by healthcare or facility-specific protocols rather than for every surface equally.",
+  "content_html": "<p>Surface disinfection works best when priorities are based on risk. Frequency of touch, likelihood of contamination, vulnerable users and facility-specific requirements all influence which surfaces receive additional attention.</p>\n<h2 id=\"high-touch\">High-touch surfaces</h2><p>CDC identifies frequently handled surfaces such as door handles, counters, railings, touchpads, restroom fixtures and similar contact points as important routine-cleaning targets. In higher-risk situations, disinfection may be added.</p>\n<h2 id=\"illness\">Areas associated with illness</h2><p>In community settings, CDC recommends disinfecting surfaces where people have obviously been ill. This is more targeted than disinfecting every surface regardless of exposure.</p>\n<h2 id=\"healthcare\">Patient-care high-touch surfaces</h2><p>Healthcare guidance gives greater attention to frequently touched surfaces such as bed rails, doorknobs, light switches and surfaces around toilets because hand contact can contribute to transmission pathways.</p>\n<h2 id=\"shared-equipment\">Shared equipment and touch points</h2><p>Compatible external surfaces of shared equipment may require cleaning and disinfection according to manufacturer instructions and facility policy, especially when handled between users.</p>\n<h2 id=\"low-touch\">Low-touch surfaces usually have lower priority</h2><p>Walls, ceilings and other minimal-touch surfaces are generally managed differently from frequently handled surfaces. Routine cleaning when dusty or soiled may be sufficient unless a specific protocol says otherwise.</p>\n<h2 id=\"risk-assessment\">Use a risk assessment</h2><p>Ask how often the surface is touched, whether contamination is likely, whether the users are vulnerable, and whether an applicable regulation or protocol defines a required method.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Prioritise disinfection where contact and contamination risk are highest. A risk-based schedule is more defensible than treating every surface with the same frequency and chemistry.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html\">CDC — Environmental Infection Control Recommendations</a>.</li></ol>",
+  "seo_title": "Surfaces Commonly Prioritised for Disinfection | Alle's ClinX",
+  "meta_description": "Learn why high-touch surfaces, illness-associated areas and selected shared equipment are commonly prioritised for disinfection using a risk-based schedule.",
+  "related_article_ids": [
+    "ACX-KB-0132",
+    "ACX-KB-0134",
+    "ACX-KB-0130"
+  ]
+}

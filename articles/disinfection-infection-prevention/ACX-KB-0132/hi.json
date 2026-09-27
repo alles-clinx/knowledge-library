@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0132",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0132",
+  "title": "Environmental surface disinfection क्या है?",
+  "slug": "what-is-environmental-surface-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "Environmental surface disinfection cleaning के बाद inanimate environmental surfaces पर appropriate disinfectant का controlled use है जहाँ risk assessment, facility policy या regulation microbial inactivation require करे।",
+  "content_html": "<p>Environmental surface disinfection built environment की inanimate surfaces—जैसे selected counters, touch points, fixtures और compatible equipment surfaces—पर disinfectant apply करती है। यह skin antisepsis, instrument sterilization और general cleaning से अलग है।</p>\n<h2 id=\"hi132-surfaces\">Environmental surfaces क्या हैं</h2><p>इनमें housekeeping surfaces और compatible furnishings/equipment की external surfaces शामिल हो सकती हैं। Critical instruments को specialized reprocessing चाहिए।</p>\n<h2 id=\"hi132-purpose\">Purpose microbial control है</h2><p>Objective properly prepared surface पर remaining microorganisms inactivate करना है जहाँ infection-prevention risk extra control justify करे।</p>\n<h2 id=\"hi132-cleaning\">Cleaning foundation है</h2><p>CDC many disinfection processes में cleaning को necessary first step बताता है क्योंकि soil/salts/organic matter microbial inactivation interfere कर सकते हैं।</p>\n<h2 id=\"hi132-risk\">Use risk-based होनी चाहिए</h2><p>हर surface को same frequency/level की disinfection नहीं चाहिए। High-touch, illness-associated या contaminated areas अधिक priority पा सकती हैं।</p>\n<h2 id=\"hi132-product\">Product और surface match करें</h2><p>Disinfectant intended surface/use site के लिए labeled होनी चाहिए। Equipment manufacturer compatibility instructions भी follow करें।</p>\n<h2 id=\"hi132-contact\">Coverage और contact time matter करते हैं</h2><p>Surface को complete coverage मिले और intended claim के labeled contact time तक visibly wet रहे।</p>\n<h2 id=\"hi132-takeaway\">Practical takeaway</h2><p>Environmental surface disinfection larger cleaning program की targeted step है, facility की हर surface के लिए blanket treatment नहीं।</p>\n<h2 id=\"hi132-references\">संदर्भ</h2><ol><li id=\"hi132-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi132-ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"hi132-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Environmental Surface Disinfection | Alle's ClinX",
+  "meta_description": "Environmental surface disinfection, cleaning/sterilization difference, risk-based use, compatibility और contact time समझें।",
+  "related_article_ids": [
+    "ACX-KB-0133",
+    "ACX-KB-0134",
+    "ACX-KB-0125"
+  ]
+}

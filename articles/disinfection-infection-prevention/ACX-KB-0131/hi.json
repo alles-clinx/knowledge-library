@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0131",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0131",
+  "title": "Disinfection soil removal को replace क्यों नहीं करती",
+  "slug": "why-disinfection-does-not-replace-soil-removal",
+  "subcategory": "Cleaning vs Disinfection",
+  "subcategory_slug": "cleaning-vs-disinfection",
+  "excerpt": "Disinfection soil removal replace नहीं करती क्योंकि dirt, grease, organic matter और residue microorganisms shield, disinfectant activity reduce और surface contact block कर सकती हैं।",
+  "content_html": "<p>Disinfection microorganisms control करने के लिए है, physical soil removal replace करने के लिए नहीं। Dirt, grease और residue surface access block या chemistry interfere करके disinfectant reliability कम कर सकती हैं।</p>\n<h2 id=\"hi131-shield\">Soil microorganisms shield कर सकती है</h2><p>Microorganisms organic material के नीचे/अंदर हो सकते हैं। Uniform contact न मिले तो required exposure नहीं हो सकती।</p>\n<h2 id=\"hi131-chemical\">Soil chemistry interfere कर सकती है</h2><p>CDC organic soil को disinfection effectiveness affect करने वाला factor बताता है। Significant contamination remaining हो तो activity reduce हो सकती है।</p>\n<h2 id=\"hi131-removal\">Cleaning soil और microbes दोनों remove करती है</h2><p>Detergent, water, friction और rinsing contamination और large numbers of microorganisms physically remove करते हैं।</p>\n<h2 id=\"hi131-coverage\">Clean surface cover करना easier है</h2><p>Residue/debris consistent wetting prevent कर सकते हैं। Properly cleaned surface uniform coverage और contact time achieve करना easier बनाती है।</p>\n<h2 id=\"hi131-combined\">Combined products की भी conditions होती हैं</h2><p>कुछ products one workflow में clean + disinfect के लिए labeled हैं। Directions heavy/visible soil pre-cleaning और application requirements define करती हैं।</p>\n<h2 id=\"hi131-more\">More disinfectant substitute नहीं है</h2><p>Extra product या stronger-than-label concentration dirty surface correct नहीं करती और residue, damage या exposure बढ़ा सकती है।</p>\n<h2 id=\"hi131-takeaway\">Practical takeaway</h2><p>Soil removal surface prepare करती है; disinfection remaining microorganisms control करती है। Reliable infection prevention के लिए दोनों सही होने चाहिए।</p>\n<h2 id=\"hi131-references\">संदर्भ</h2><ol><li id=\"hi131-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi131-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/cleaning.html\">CDC — Cleaning</a>.</li><li id=\"hi131-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Disinfection Soil Removal को Replace क्यों नहीं करती | Alle's ClinX",
+  "meta_description": "Dirt, grease और organic matter disinfectant activity क्यों interfere करती हैं और physical cleaning क्यों essential है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0127",
+    "ACX-KB-0129",
+    "ACX-KB-0130"
+  ]
+}

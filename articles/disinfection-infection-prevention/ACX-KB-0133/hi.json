@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0133",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0133",
+  "title": "Disinfection के लिए commonly prioritised surfaces",
+  "slug": "priority-surfaces-for-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "Disinfection हर surface पर equal नहीं होती; high-touch surfaces, illness/contamination exposed areas और healthcare/facility protocols वाली surfaces को commonly priority दी जाती है।",
+  "content_html": "<p>Surface disinfection risk-based priority से best work करती है। Touch frequency, contamination likelihood, vulnerable users और facility-specific requirements decide करते हैं कि कौनसी surfaces additional attention लेंगी।</p>\n<h2 id=\"hi133-touch\">High-touch surfaces</h2><p>CDC door handles, counters, railings, touchpads, restroom fixtures और similar contact points को important routine-cleaning targets बताता है। Higher-risk situations में disinfection add हो सकती है।</p>\n<h2 id=\"hi133-illness\">Illness-associated areas</h2><p>Community settings में CDC उन surfaces की disinfection recommend करता है जहाँ people obviously ill रहे हों। यह every surface blanket disinfection से अधिक targeted है।</p>\n<h2 id=\"hi133-healthcare\">Patient-care high-touch surfaces</h2><p>Healthcare guidance bed rails, doorknobs, light switches और toilet-area surfaces जैसे frequent-contact points को greater priority देती है।</p>\n<h2 id=\"hi133-shared\">Shared equipment/touch points</h2><p>Shared equipment की compatible external surfaces manufacturer instructions और facility policy के अनुसार clean/disinfect की जा सकती हैं, especially users के बीच।</p>\n<h2 id=\"hi133-low\">Low-touch surfaces lower priority होती हैं</h2><p>Walls, ceilings और minimal-touch surfaces high-touch surfaces से अलग manage होती हैं। Dusty/soiled होने पर routine cleaning sufficient हो सकती है unless protocol says otherwise.</p>\n<h2 id=\"hi133-risk\">Risk assessment use करें</h2><p>Touch frequency, contamination likelihood, user vulnerability और applicable protocol/regulation evaluate करें।</p>\n<h2 id=\"hi133-takeaway\">Practical takeaway</h2><p>Disinfection को highest contact/contamination risk वाली surfaces पर prioritise करें। Risk-based schedule blanket frequency से बेहतर control देती है।</p>\n<h2 id=\"hi133-references\">संदर्भ</h2><ol><li id=\"hi133-ref-1\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"hi133-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi133-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html\">CDC — Environmental Infection Control Recommendations</a>.</li></ol>",
+  "seo_title": "Priority Surfaces for Disinfection | Alle's ClinX",
+  "meta_description": "High-touch surfaces, illness-associated areas, shared equipment और low-touch surfaces के risk-based disinfection priorities समझें।",
+  "related_article_ids": [
+    "ACX-KB-0132",
+    "ACX-KB-0134",
+    "ACX-KB-0130"
+  ]
+}

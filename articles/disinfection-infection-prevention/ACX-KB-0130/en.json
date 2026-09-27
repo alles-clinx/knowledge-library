@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0130",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Alone vs a Disinfection Step",
+  "slug": "cleaning-alone-vs-disinfection-step",
+  "subcategory": "Cleaning vs Disinfection",
+  "subcategory_slug": "cleaning-vs-disinfection",
+  "excerpt": "Cleaning alone is often sufficient for routine low-risk surfaces, while an added disinfection step is used when illness, contamination, high-touch exposure or a regulated protocol creates a higher infection-control need.",
+  "content_html": "<p>Cleaning and disinfection should be matched to risk. Routine cleaning removes soil and many germs, while a separate disinfection step is added when the setting or contamination risk justifies stronger microbial control.</p>\n<h2 id=\"cleaning-alone\">When cleaning alone may be enough</h2><p>CDC guidance for community facilities states that regular cleaning is sufficient in many situations. Low-risk surfaces that are not visibly contaminated and are not part of a special infection-control protocol may not require routine disinfection.</p>\n<h2 id=\"when-disinfection\">When to add disinfection</h2><p>Disinfection becomes more relevant when someone has been ill, contamination is known or suspected, surfaces are frequently touched in higher-risk settings, or a facility procedure or regulation specifically requires it.</p>\n<h2 id=\"surface-risk\">Surface use changes the decision</h2><p>A rarely touched wall and a frequently handled door plate do not carry the same interaction pattern. High-touch surfaces are often prioritised for more frequent cleaning and, where appropriate, disinfection.</p>\n<h2 id=\"clean-first\">Cleaning still comes first</h2><p>Visible dirt and organic material can interfere with disinfectant performance. Even when a disinfection step is required, the surface should be cleaned first unless the product is specifically labeled and used for a combined cleaning-disinfection process.</p>\n<h2 id=\"label\">The label controls the disinfection step</h2><p>Use an appropriate registered disinfectant according to its labeled surface, claim, application method and contact time. Do not improvise stronger concentrations or product combinations.</p>\n<h2 id=\"program\">Build the decision into the cleaning plan</h2><p>Written schedules can define which surfaces are cleaned routinely, which are disinfected after defined events, and which require special healthcare or regulatory procedures.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Cleaning alone and cleaning plus disinfection are not competing methods. They are different levels of control selected according to surface risk, contamination and facility requirements.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/hygiene/cleaning-disinfecting/index.html\">CDC — Cleaning and Disinfecting</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Cleaning Alone vs a Disinfection Step | Alle's ClinX",
+  "meta_description": "Understand when routine cleaning alone may be enough and when illness, contamination, high-touch exposure or facility protocols justify an added disinfection step.",
+  "related_article_ids": [
+    "ACX-KB-0129",
+    "ACX-KB-0131",
+    "ACX-KB-0133"
+  ]
+}

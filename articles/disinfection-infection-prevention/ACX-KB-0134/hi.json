@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0134",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0134",
+  "title": "Disinfection से पहले surface condition क्यों matter करती है",
+  "slug": "why-surface-condition-matters-before-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "Visible soil, damage, porosity, residue और incompatibility uniform coverage prevent, microorganisms protect या disinfectant को material के लिए unsuitable बना सकते हैं।",
+  "content_html": "<p>Disinfection product और target surface के contact पर depend करती है। Dirty, damaged, porous या chemically incompatible surface contact reliability reduce कर सकती है।</p>\n<h2 id=\"hi134-soil\">Visible soil access interfere करती है</h2><p>Dirt, grease और organic material microorganisms shield और uniform wetting prevent कर सकते हैं। Cleaning barrier remove करती है।</p>\n<h2 id=\"hi134-residue\">Residue coverage बदल सकती है</h2><p>Detergent film, mineral scale या previous-product residue uneven wetting या surface response change कर सकती है।</p>\n<h2 id=\"hi134-damage\">Damaged surfaces harder to treat हैं</h2><p>Cracks, chips, worn coatings और rough areas soil/microorganisms trap कर सकते हैं और full coverage कठिन बना सकते हैं।</p>\n<h2 id=\"hi134-porosity\">Porosity product suitability बदलती है</h2><p>Many disinfectant claims hard, nonporous surfaces के लिए specific होती हैं। Porous materials liquid absorb कर सकती हैं, इसलिए label scope matter करती है।</p>\n<h2 id=\"hi134-compatibility\">Chemical compatibility material protect करती है</h2><p>Incompatible disinfectant material discolor, corrode या weaken कर सकती है। Product label और surface/equipment manufacturer instructions दोनों check करें।</p>\n<h2 id=\"hi134-wetness\">Required wet contact possible होना चाहिए</h2><p>Disinfection के लिए sufficient coverage और labeled contact time चाहिए। Absorbent, sloped, hot या damaged surfaces uniform wetness difficult बना सकती हैं।</p>\n<h2 id=\"hi134-takeaway\">Practical takeaway</h2><p>Disinfection से पहले surface clean, intact, compatible और product label scope में confirm करें। Surface condition performance का हिस्सा है।</p>\n<h2 id=\"hi134-references\">संदर्भ</h2><ol><li id=\"hi134-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi134-ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"hi134-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Surface Condition Before Disinfection | Alle's ClinX",
+  "meta_description": "Soil, residue, damage, porosity, compatibility और wet-contact conditions surface disinfection को कैसे affect करती हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0132",
+    "ACX-KB-0133",
+    "ACX-KB-0128"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0134",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Surface Condition Matters Before Disinfection",
+  "slug": "why-surface-condition-matters-before-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "Surface condition matters before disinfection because visible soil, damage, porosity, residue and incompatibility can prevent uniform coverage, protect microorganisms or make the disinfectant unsuitable for the material.",
+  "content_html": "<p>Disinfection depends on contact between the product and the target surface. A dirty, damaged, porous or chemically incompatible surface can make that contact less reliable and can change how the product behaves.</p>\n<h2 id=\"soil\">Visible soil interferes with access</h2><p>Dirt, grease and organic material can shield microorganisms and prevent uniform wetting. Cleaning removes this barrier and prepares the surface for the disinfectant.</p>\n<h2 id=\"residue\">Residue can change coverage</h2><p>Detergent film, mineral scale or previous product residue can create uneven wetting or alter how the surface responds. Good rinsing and maintenance can therefore affect disinfection consistency.</p>\n<h2 id=\"damage\">Damaged surfaces are harder to treat</h2><p>Cracks, chips, worn coatings and rough areas can trap soil and microorganisms and may be difficult to cover completely. Damaged surfaces should be reported and repaired or replaced according to facility policy.</p>\n<h2 id=\"porosity\">Porosity changes product suitability</h2><p>Many disinfectant claims apply specifically to hard, nonporous surfaces. Porous materials can absorb liquid or prevent the product from remaining where needed, so label scope matters.</p>\n<h2 id=\"compatibility\">Chemical compatibility protects the material</h2><p>A disinfectant can discolor, corrode or weaken incompatible materials. Check both the product label and equipment or surface manufacturer instructions.</p>\n<h2 id=\"wetness\">The surface must support the required wet contact</h2><p>Disinfection requires sufficient coverage and labeled contact time. Highly absorbent, sloped, hot or damaged surfaces can make it more difficult to maintain uniform wetness.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Before disinfecting, confirm the surface is clean, intact, compatible and within the product's labeled use. Surface condition is part of disinfection performance, not a cosmetic detail.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Why Surface Condition Matters Before Disinfection | Alle's ClinX",
+  "meta_description": "Learn how soil, residue, damage, porosity, compatibility and wet-contact conditions can affect the reliability of surface disinfection.",
+  "related_article_ids": [
+    "ACX-KB-0132",
+    "ACX-KB-0133",
+    "ACX-KB-0128"
+  ]
+}
