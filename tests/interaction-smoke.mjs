@@ -26,6 +26,7 @@ try{
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
   assert(await page.locator('.acx-menu-button').isVisible(),'Desktop Menu button is missing');
   await page.locator('.acx-dropdown-toggle').first().click();
+  await page.locator('.acx-nav-dropdown').first().waitFor({state:'visible'});
   assert(await page.locator('.acx-nav-dropdown').first().isVisible(),'Desktop dropdown did not open');
   await page.keyboard.press('Escape');
   await page.locator('.acx-menu-button').click();
