@@ -635,13 +635,16 @@ body.acx-menu-open,body.acx-search-open{overflow:hidden}
 .acx-mobile-drawer .acx-mobile-knowledge-nav a,
 .acx-mobile-drawer .acx-mobile-nav a{
   min-height:48px;
+  position:relative;
+  margin:2px 0;
   padding:11px 10px;
   color:#f2f2f3!important;
-  border-color:#292a2d;
+  border:0;
   border-radius:6px;
   font-size:16px;
   font-weight:500;
   letter-spacing:-.015em;
+  transition:background .16s ease,color .16s ease;
 }
 .acx-mobile-knowledge-nav a:hover,.acx-mobile-knowledge-nav a:focus-visible,
 .acx-mobile-nav a:hover,.acx-mobile-nav a:focus-visible,
@@ -650,9 +653,26 @@ body.acx-menu-open,body.acx-search-open{overflow:hidden}
   color:#fff!important;
   background:#242528;
 }
-.acx-mobile-knowledge-nav a small{color:#929398;font-size:12px}
-.acx-mobile-knowledge-nav a.is-current,.acx-mobile-nav a.is-current{font-weight:650}
-.acx-mobile-knowledge-nav a.is-current::before{display:none}
+.acx-mobile-knowledge-nav a small{display:none}
+.acx-mobile-knowledge-nav a.is-current,.acx-mobile-nav a.is-current{font-weight:650;background:#202124}
+.acx-mobile-knowledge-nav a.is-current::before,
+.acx-mobile-nav a.is-current::before,
+.acx-mobile-knowledge-nav a:hover::before,
+.acx-mobile-knowledge-nav a:focus-visible::before,
+.acx-mobile-nav a:hover::before,
+.acx-mobile-nav a:focus-visible::before{
+  content:"";
+  display:block;
+  position:absolute;
+  left:0;
+  top:9px;
+  bottom:9px;
+  width:2px;
+  height:auto;
+  margin:0;
+  border-radius:2px;
+  background:#f5f5f5;
+}
 .acx-mobile-knowledge-nav a.is-current span{margin-right:auto}
 .acx-mobile-drawer-foot,
 .acx-mobile-drawer .acx-mobile-drawer-foot{
