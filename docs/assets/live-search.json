@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 288,
+  "record_count": 298,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3170,6 +3170,116 @@
       "subcategory_slug": "contact-time",
       "excerpt": "Contact time matter करती है क्योंकि disinfectant को validated antimicrobial claim achieve करने के लिए labeled conditions में sufficient exposure चाहिए।",
       "url": "library/disinfection-infection-prevention/contact-time/why-contact-time-matters/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0145",
+      "locale": "en",
+      "title": "Contact Time vs Drying Time: Key Differences",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Contact Time",
+      "subcategory_slug": "contact-time",
+      "excerpt": "Contact time is the labeled period a disinfectant must remain on a treated surface for the relevant claim; drying time is simply how long the surface takes to become dry. They can overlap, but they are not the same.",
+      "url": "library/disinfection-infection-prevention/contact-time/contact-time-vs-drying-time/"
+    },
+    {
+      "article_id": "ACX-KB-0145",
+      "locale": "hi-IN",
+      "title": "Contact time vs drying time: मुख्य अंतर",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Contact Time",
+      "subcategory_slug": "contact-time",
+      "excerpt": "Contact time labeled exposure period है; drying time surface को dry होने में लगने वाला physical time है। दोनों overlap कर सकते हैं, लेकिन same नहीं हैं।",
+      "url": "library/disinfection-infection-prevention/contact-time/contact-time-vs-drying-time/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0146",
+      "locale": "en",
+      "title": "What Makes an Area High Risk for Infection Prevention?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "High-Risk Areas",
+      "subcategory_slug": "high-risk-areas",
+      "excerpt": "An area becomes higher risk when contamination is more likely, people using the area are more vulnerable to infection, or exposure to contaminated high-touch surfaces and procedures is more likely.",
+      "url": "library/disinfection-infection-prevention/high-risk-areas/what-makes-an-area-high-risk-for-infection-prevention/"
+    },
+    {
+      "article_id": "ACX-KB-0146",
+      "locale": "hi-IN",
+      "title": "Infection prevention के लिए area high risk कब होती है?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "High-Risk Areas",
+      "subcategory_slug": "high-risk-areas",
+      "excerpt": "Area higher risk तब होती है जब contamination की probability ज्यादा हो, users infection के प्रति अधिक vulnerable हों, या contaminated high-touch surfaces/procedures से exposure अधिक हो।",
+      "url": "library/disinfection-infection-prevention/high-risk-areas/what-makes-an-area-high-risk-for-infection-prevention/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0147",
+      "locale": "en",
+      "title": "Cleaning Responsibilities in High-Risk Areas",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "High-Risk Areas",
+      "subcategory_slug": "high-risk-areas",
+      "excerpt": "High-risk areas need clearly assigned cleaning responsibilities so environmental services, clinical staff and equipment reprocessing teams know exactly which surfaces, equipment and tasks belong to each role.",
+      "url": "library/disinfection-infection-prevention/high-risk-areas/cleaning-responsibilities-high-risk-areas/"
+    },
+    {
+      "article_id": "ACX-KB-0147",
+      "locale": "hi-IN",
+      "title": "High-risk areas में cleaning responsibilities",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "High-Risk Areas",
+      "subcategory_slug": "high-risk-areas",
+      "excerpt": "High-risk areas में cleaning responsibilities clearly assigned होनी चाहिए ताकि environmental services, clinical staff और reprocessing teams को exact surfaces/tasks ownership पता हो।",
+      "url": "library/disinfection-infection-prevention/high-risk-areas/cleaning-responsibilities-high-risk-areas/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0148",
+      "locale": "en",
+      "title": "Environmental Cleaning and Infection Prevention",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Infection Prevention Workflows",
+      "subcategory_slug": "infection-prevention-workflows",
+      "excerpt": "Environmental cleaning supports infection prevention by removing contamination from surfaces, reducing opportunities for indirect transmission and creating a controlled environment for patient care.",
+      "url": "library/disinfection-infection-prevention/infection-prevention-workflows/environmental-cleaning-infection-prevention/"
+    },
+    {
+      "article_id": "ACX-KB-0148",
+      "locale": "hi-IN",
+      "title": "Environmental cleaning और infection prevention",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Infection Prevention Workflows",
+      "subcategory_slug": "infection-prevention-workflows",
+      "excerpt": "Environmental cleaning surfaces से contamination remove करके, indirect transmission opportunities reduce करके और controlled care environment support करके infection prevention में योगदान देती है।",
+      "url": "library/disinfection-infection-prevention/infection-prevention-workflows/environmental-cleaning-infection-prevention/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0149",
+      "locale": "en",
+      "title": "Cleaning and Clinical Team Responsibilities",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Infection Prevention Workflows",
+      "subcategory_slug": "infection-prevention-workflows",
+      "excerpt": "Cleaning and clinical teams need clearly divided responsibilities so environmental surfaces, patient-zone items, shared equipment and specialized devices are all covered without gaps or duplication.",
+      "url": "library/disinfection-infection-prevention/infection-prevention-workflows/cleaning-clinical-team-responsibilities/"
+    },
+    {
+      "article_id": "ACX-KB-0149",
+      "locale": "hi-IN",
+      "title": "Cleaning और clinical team responsibilities",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Infection Prevention Workflows",
+      "subcategory_slug": "infection-prevention-workflows",
+      "excerpt": "Cleaning और clinical teams की responsibilities clearly divided होनी चाहिए ताकि environmental surfaces, patient-zone items, shared equipment और specialized devices बिना gaps cover हों।",
+      "url": "library/disinfection-infection-prevention/infection-prevention-workflows/cleaning-clinical-team-responsibilities/hi.html"
     }
   ]
 }
