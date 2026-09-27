@@ -25,10 +25,11 @@ try{
   assert(await page.locator('.acx-search-button').isVisible(),'Desktop Search button is not visible');
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
   assert(await page.locator('.acx-menu-button').isVisible(),'Desktop Menu button is missing');
-  await page.locator('.acx-dropdown-toggle').first().click();
-  await page.locator('.acx-nav-dropdown').first().waitFor({state:'visible'});
-  assert(await page.locator('.acx-nav-dropdown').first().isVisible(),'Desktop dropdown did not open');
-  await page.keyboard.press('Escape');
+  const installButton=page.locator('.acx-install-app');
+  assert(await installButton.isVisible(),'Desktop Install button is not visible');
+  await installButton.click();
+  assert(await page.locator('.acx-install-note').isVisible(),'Install fallback guidance did not appear');
+  assert((await page.locator('.acx-install-note').textContent()).trim().length>0,'Install fallback guidance is empty');
   await page.locator('.acx-menu-button').click();
   assert(await page.locator('#acx-mobile-drawer.is-open').isVisible(),'Desktop menu did not open');
   await page.locator('#acx-mobile-drawer a').last().focus();
@@ -74,6 +75,8 @@ try{
   const mp = await mobile.newPage();
   await mp.goto(BASE,{waitUntil:'networkidle'});
   assert(await mp.locator('.acx-menu-button').isVisible(),'Mobile menu button is not visible');
+  assert(await mp.locator('.acx-search-button').isVisible(),'Mobile Search button is not visible');
+  assert(await mp.locator('.acx-install-app').isVisible(),'Mobile Install button is not visible');
   await mp.locator('.acx-menu-button').click();
   assert(await mp.locator('#acx-mobile-drawer.is-open').isVisible(),'Mobile drawer did not open');
   assert((await mp.locator('.acx-menu-button').getAttribute('aria-expanded'))==='true','Mobile menu aria-expanded did not update');
@@ -213,7 +216,7 @@ try{
   assert((new URL(ma.url())).hash==='#'+target,'Scroll navigation did not update the URL hash');
   await maCtx.close();
 
-  console.log('Interaction smoke test passed: global shell, search, mobile menu, sliders, article tools, language tabs, text controls, share/copy/save/print, and mobile section navigation.');
+  console.log('Interaction smoke test passed: header controls, install guidance, search, mobile menu, sliders, article tools, language tabs, text controls, share/copy/save/print, and mobile section navigation.');
 } finally {
   await browser.close();
 }
