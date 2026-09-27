@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 230,
+  "record_count": 240,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -2532,6 +2532,116 @@
       "subcategory_slug": "delicate-fabrics",
       "excerpt": "Wool और other delicate textiles को fibre response, construction, dyes, finishes और shape retention के कारण ordinary wash, agitation और drying से different care चाहिए हो सकती है।",
       "url": "library/laundry-fabric-care/delicate-fabrics/why-wool-and-delicate-fabrics-need-different-care/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0116",
+      "locale": "en",
+      "title": "What Is Linen Hygiene?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Linen Hygiene",
+      "subcategory_slug": "linen-hygiene",
+      "excerpt": "Linen hygiene is the controlled handling, laundering, drying, transport and storage of textiles so clean items remain hygienically clean and are protected from recontamination.",
+      "url": "library/laundry-fabric-care/linen-hygiene/what-is-linen-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0116",
+      "locale": "hi-IN",
+      "title": "Linen hygiene क्या है?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Linen Hygiene",
+      "subcategory_slug": "linen-hygiene",
+      "excerpt": "Linen hygiene textiles की controlled handling, laundering, drying, transport और storage है ताकि clean items hygienically clean रहें और recontamination से protected हों।",
+      "url": "library/laundry-fabric-care/linen-hygiene/what-is-linen-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0117",
+      "locale": "en",
+      "title": "Why Clean and Soiled Linen Should Be Kept Separate",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Linen Hygiene",
+      "subcategory_slug": "linen-hygiene",
+      "excerpt": "Clean and soiled linen should be separated because laundering removes contamination, but later contact with dirty textiles, carts, surfaces or handling can contaminate clean items again.",
+      "url": "library/laundry-fabric-care/linen-hygiene/why-clean-and-soiled-linen-should-be-kept-separate/"
+    },
+    {
+      "article_id": "ACX-KB-0117",
+      "locale": "hi-IN",
+      "title": "Clean और soiled linen अलग क्यों रखनी चाहिए",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Linen Hygiene",
+      "subcategory_slug": "linen-hygiene",
+      "excerpt": "Clean और soiled linen अलग रखना जरूरी है क्योंकि laundering contamination remove करती है, लेकिन dirty textiles, carts, surfaces या handling clean items को फिर contaminate कर सकती है।",
+      "url": "library/laundry-fabric-care/linen-hygiene/why-clean-and-soiled-linen-should-be-kept-separate/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0118",
+      "locale": "en",
+      "title": "How Laundry Workflow Affects Linen Hygiene",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Linen Hygiene",
+      "subcategory_slug": "linen-hygiene",
+      "excerpt": "Laundry workflow affects linen hygiene because every handoff—from collection and sorting to washing, drying, folding, transport and storage—can either control contamination or reintroduce it.",
+      "url": "library/laundry-fabric-care/linen-hygiene/how-laundry-workflow-affects-linen-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0118",
+      "locale": "hi-IN",
+      "title": "Laundry workflow linen hygiene को कैसे affect करती है",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Linen Hygiene",
+      "subcategory_slug": "linen-hygiene",
+      "excerpt": "Laundry workflow linen hygiene को affect करती है क्योंकि collection/sorting से washing, drying, folding, transport और storage तक हर handoff contamination control या recontamination कर सकता है।",
+      "url": "library/laundry-fabric-care/linen-hygiene/how-laundry-workflow-affects-linen-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0119",
+      "locale": "en",
+      "title": "Why Clean Fabric Can Still Smell",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Odour Control",
+      "subcategory_slug": "fabric-odour-control",
+      "excerpt": "A fabric can look clean yet still smell if odour-forming residues, retained moisture, microorganisms, detergent buildup, machine contamination or storage conditions remain unresolved.",
+      "url": "library/laundry-fabric-care/fabric-odour-control/why-clean-fabric-can-still-smell/"
+    },
+    {
+      "article_id": "ACX-KB-0119",
+      "locale": "hi-IN",
+      "title": "Clean fabric फिर भी smell क्यों कर सकती है",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Odour Control",
+      "subcategory_slug": "fabric-odour-control",
+      "excerpt": "Fabric visibly clean होने के बाद भी retained soil, moisture, microorganisms, detergent buildup, machine contamination या storage conditions के कारण smell कर सकती है।",
+      "url": "library/laundry-fabric-care/fabric-odour-control/why-clean-fabric-can-still-smell/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0120",
+      "locale": "en",
+      "title": "What Causes Persistent Odour in Linen?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Odour Control",
+      "subcategory_slug": "fabric-odour-control",
+      "excerpt": "Persistent linen odour usually points to a repeating process problem such as retained body soil, incomplete washing or rinsing, slow drying, damp storage, washer contamination or clean-linen recontamination.",
+      "url": "library/laundry-fabric-care/fabric-odour-control/what-causes-persistent-odour-in-linen/"
+    },
+    {
+      "article_id": "ACX-KB-0120",
+      "locale": "hi-IN",
+      "title": "Linen में persistent odour किस कारण होती है?",
+      "category": "Laundry & Fabric Care",
+      "category_slug": "laundry-fabric-care",
+      "subcategory": "Fabric Odour Control",
+      "subcategory_slug": "fabric-odour-control",
+      "excerpt": "Persistent linen odour अक्सर repeating process problem दिखाती है: retained body soil, incomplete washing/rinsing, slow drying, damp storage, washer contamination या clean-linen recontamination।",
+      "url": "library/laundry-fabric-care/fabric-odour-control/what-causes-persistent-odour-in-linen/hi.html"
     }
   ]
 }
