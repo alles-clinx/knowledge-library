@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0135",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0135",
+  "title": "Disinfection में visibly wet surface का क्या मतलब है?",
+  "slug": "what-does-a-visibly-wet-surface-mean-in-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "Visibly wet surface का मतलब है कि treated area पर इतना disinfectant रहे कि वह full labeled contact time तक wet दिखे। जल्दी dry होने पर required exposure नहीं मिल सकती।",
+  "content_html": "<p>कई disinfectants में surface को full labeled contact time तक visibly wet रहना होता है। यह wet period product के validated use conditions का हिस्सा है।</p>\n<h2 id=\"hi135-meaning\">“Visibly wet” का मतलब</h2><p>Treated area continuously wet दिखनी चाहिए, केवल damp/streaked या already dry नहीं। EPA guidance full contact time तक visible wetness पर जोर देती है।</p>\n<h2 id=\"hi135-contact\">Contact time क्यों matter करती है</h2><p>Contact time वह period है जिसमें disinfectant relevant antimicrobial claim के लिए surface से contact में रहती है। जल्दी dry होने पर effective exposure कम हो सकती है।</p>\n<h2 id=\"hi135-coverage\">Coverage complete होनी चाहिए</h2><p>Uniform wetting जरूरी है क्योंकि missed या rapidly drying areas को same exposure नहीं मिल सकती। Rough, hot, absorbent या sloped surfaces coverage harder बना सकती हैं।</p>\n<h2 id=\"hi135-label\">Requirement label define करती है</h2><p>Different products के contact times/methods अलग हो सकते हैं। Universal time/amount assume न करें; product label follow करें।</p>\n<h2 id=\"hi135-dry\">Surface जल्दी dry हो जाए तो</h2><p>EPA notes कि full labeled contact time maintain करने के लिए additional product की जरूरत पड़ सकती है। Reapplication भी product directions के अनुसार होनी चाहिए।</p>\n<h2 id=\"hi135-pooling\">Wet का मतलब flooding नहीं है</h2><p>Objective labeled wet contact है, unnecessary pooling नहीं। Excess liquid material damage, residue या slip hazard create कर सकती है।</p>\n<h2 id=\"hi135-takeaway\">Practical takeaway</h2><p>“Visibly wet” का मतलब disinfectant wet film full labeled contact time तक present रहे। Coverage, compatibility और label directions सही wet contact define करते हैं।</p>\n<h2 id=\"hi135-references\">संदर्भ</h2><ol><li id=\"hi135-ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"hi135-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li></ol>",
+  "seo_title": "Visibly Wet Surface in Disinfection | Alle's ClinX",
+  "meta_description": "Disinfection में visibly wet surface, full contact time, coverage, reapplication और label directions का meaning समझें।",
+  "related_article_ids": [
+    "ACX-KB-0128",
+    "ACX-KB-0132",
+    "ACX-KB-0134"
+  ]
+}

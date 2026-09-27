@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0139",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Disinfectant Chemistry Relates to Application",
+  "slug": "how-disinfectant-chemistry-relates-to-application",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "Disinfectant chemistry influences what organisms a product can claim against, what surfaces it suits, how long it must remain wet, how stable it is, and what safety or material-compatibility limits apply.",
+  "content_html": "<p>Disinfectant chemistry affects how a product behaves, but chemistry should be translated into application through the product label rather than improvised by the user. Different active-ingredient systems have different performance and compatibility profiles.</p>\n<h2 id=\"claims\">Chemistry influences antimicrobial claims</h2><p>Different active ingredients have different spectra of activity and are validated against different organisms under defined test conditions. The approved label, not the chemical family name alone, determines the supported claim.</p>\n<h2 id=\"surface\">Chemistry influences surface compatibility</h2><p>Some formulations can be harsher on metals, coatings, plastics, fabrics or finishes than others. Product selection should consider both the disinfectant label and the equipment or material manufacturer's guidance.</p>\n<h2 id=\"contact\">Chemistry and formulation influence contact time</h2><p>Different products can require different wet contact times. The required duration should come from the specific label because concentration, formulation and test conditions differ.</p>\n<h2 id=\"soil\">Soil can interact with disinfectant chemistry</h2><p>CDC notes that organic material can reduce the activity of some germicides or physically shield microorganisms. This is one reason cleaning is an important prerequisite for many disinfection processes.</p>\n<h2 id=\"stability\">Formulation affects stability and handling</h2><p>Ready-to-use liquids, wipes and products that require preparation can have different storage, shelf-life and handling requirements. Follow the manufacturer instructions instead of transferring practices from one product to another.</p>\n<h2 id=\"application\">Application method must match the product</h2><p>A wipe, liquid or spray is not automatically interchangeable with another format. Coverage, wetness, use site and contact time must match the approved directions.</p>\n<h2 id=\"no-mixing\">Do not improvise combinations</h2><p>Different disinfectant products should not be mixed or combined unless the manufacturer explicitly provides a compatible system. Unplanned combinations can change performance and create safety risks.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Chemistry explains why disinfectants differ; the label translates that chemistry into a safe, validated application. Choose by approved claim, surface compatibility and use instructions rather than by assuming one chemistry is universally stronger.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection and Sterilization Efficacy</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "How Disinfectant Chemistry Relates to Application | Alle's ClinX",
+  "meta_description": "See how disinfectant chemistry affects antimicrobial claims, surface compatibility, contact time, stability and application while the product label defines safe use.",
+  "related_article_ids": [
+    "ACX-KB-0128",
+    "ACX-KB-0135",
+    "ACX-KB-0134"
+  ]
+}

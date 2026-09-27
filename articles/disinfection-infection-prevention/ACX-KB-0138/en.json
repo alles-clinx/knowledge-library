@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0138",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why More Disinfectant Is Not Better for Floors",
+  "slug": "more-disinfectant-not-better-for-floors",
+  "subcategory": "Floor Disinfection",
+  "subcategory_slug": "floor-disinfection",
+  "excerpt": "Using more disinfectant than the label requires does not guarantee better floor disinfection and can increase residue, material damage, exposure and slip risk while still failing to correct poor cleaning or short contact time.",
+  "content_html": "<p>Disinfectants work under specific labeled conditions. Increasing the amount or concentration beyond those directions does not automatically improve performance and can create new maintenance and safety problems.</p>\n<h2 id=\"label\">The labeled use is the validated use</h2><p>Disinfectant labels define the intended surface, application method and contact time. More product does not substitute for following those conditions correctly.</p>\n<h2 id=\"cleaning\">Extra disinfectant does not remove soil better</h2><p>If the floor is dirty, the first problem is soil removal. Organic matter can interfere with disinfectant action, so simply applying more chemistry to an unclean floor can still leave the process unreliable.</p>\n<h2 id=\"residue\">Residue can build up</h2><p>Excess product can leave films that attract soil, change appearance or alter how the floor feels underfoot. Residue can also complicate later cleaning.</p>\n<h2 id=\"finish\">Floor finishes can be affected</h2><p>Some chemistries can dull, soften, discolor or otherwise affect incompatible floor finishes. Product and flooring-manufacturer compatibility should guide selection.</p>\n<h2 id=\"slip\">Excess liquid can increase slip risk</h2><p>Unnecessary wetness or residue can create a walking-surface hazard. The objective is controlled application that achieves labeled wet contact without uncontrolled pooling.</p>\n<h2 id=\"process\">Fix the process, not the dose</h2><p>If disinfection is failing, review soil removal, product selection, coverage, contact time, surface condition and staff technique before changing chemistry.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Better floor disinfection comes from correct process control, not from using more product. Follow the label and use only the amount and method required for the intended application.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Why More Disinfectant Is Not Better for Floors | Alle's ClinX",
+  "meta_description": "Learn why excess disinfectant can increase floor residue, finish damage and slip risk without correcting poor cleaning, coverage or contact time.",
+  "related_article_ids": [
+    "ACX-KB-0136",
+    "ACX-KB-0137",
+    "ACX-KB-0128"
+  ]
+}

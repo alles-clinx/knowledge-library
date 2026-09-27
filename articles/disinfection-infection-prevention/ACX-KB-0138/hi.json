@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0138",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0138",
+  "title": "Floors पर more disinfectant better क्यों नहीं है",
+  "slug": "more-disinfectant-not-better-for-floors",
+  "subcategory": "Floor Disinfection",
+  "subcategory_slug": "floor-disinfection",
+  "excerpt": "Label से ज्यादा disinfectant use करना better floor disinfection guarantee नहीं करता और residue, material damage, exposure तथा slip risk बढ़ा सकता है।",
+  "content_html": "<p>Disinfectants specific labeled conditions में work करती हैं। Directions से ज्यादा amount/concentration automatically performance improve नहीं करती और maintenance/safety problems create कर सकती है।</p>\n<h2 id=\"hi138-label\">Labeled use validated use है</h2><p>Label intended surface, application method और contact time define करती है। More product correct conditions follow करने का substitute नहीं है।</p>\n<h2 id=\"hi138-cleaning\">Extra disinfectant soil removal improve नहीं करती</h2><p>Floor dirty हो तो first problem soil removal है। Organic matter disinfectant action interfere कर सकती है।</p>\n<h2 id=\"hi138-residue\">Residue build up हो सकती है</h2><p>Excess product films छोड़ सकती है जो soil attract, appearance change और later cleaning complicate कर सकती हैं।</p>\n<h2 id=\"hi138-finish\">Floor finishes affect हो सकती हैं</h2><p>Incompatible chemistry finishes को dull, soften, discolor या damage कर सकती है। Product/flooring compatibility guide करें।</p>\n<h2 id=\"hi138-slip\">Excess liquid slip risk बढ़ा सकती है</h2><p>Unnecessary wetness/residue walking-surface hazard create कर सकती है। Objective labeled wet contact है, uncontrolled pooling नहीं।</p>\n<h2 id=\"hi138-process\">Dose नहीं, process fix करें</h2><p>Disinfection fail हो तो soil removal, product selection, coverage, contact time, surface condition और staff technique review करें।</p>\n<h2 id=\"hi138-takeaway\">Practical takeaway</h2><p>Better floor disinfection correct process control से आती है, more product से नहीं। Intended application के लिए label follow करें।</p>\n<h2 id=\"hi138-references\">संदर्भ</h2><ol><li id=\"hi138-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"hi138-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection Efficacy</a>.</li><li id=\"hi138-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "More Disinfectant Is Not Better for Floors | Alle's ClinX",
+  "meta_description": "Excess disinfectant floor residue, finish damage और slip risk क्यों बढ़ा सकती है और process control क्यों ज्यादा important है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0136",
+    "ACX-KB-0137",
+    "ACX-KB-0128"
+  ]
+}

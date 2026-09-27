@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0136",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "When Is Floor Disinfection Considered?",
+  "slug": "when-is-floor-disinfection-considered",
+  "subcategory": "Floor Disinfection",
+  "subcategory_slug": "floor-disinfection",
+  "excerpt": "Routine floors are usually low-touch and often need cleaning rather than disinfection, but disinfection may be considered after blood or body-fluid contamination, in higher-risk healthcare situations, or when facility protocols require it.",
+  "content_html": "<p>Floors are generally low-touch environmental surfaces, so routine floor disinfection is not automatically necessary. The decision should reflect contamination risk, setting and facility policy.</p>\n<h2 id=\"routine\">Routine conditions</h2><p>CDC guidance states that floors generally pose low pathogen-transmission risk because direct patient contact is limited. Under normal circumstances, routine cleaning is usually the primary control.</p>\n<h2 id=\"spills\">Blood or body-fluid contamination</h2><p>When a floor is visibly contaminated with blood or other potentially infectious material, cleaning and appropriate decontamination should follow the facility's spill protocol.</p>\n<h2 id=\"higher-risk\">Higher-risk healthcare situations</h2><p>Some patient-care areas, outbreak conditions or environments with a higher probability of contamination may require cleaning plus disinfection according to the relevant healthcare procedure.</p>\n<h2 id=\"combined-product\">Detergent-disinfectant workflows</h2><p>Some facilities may use an EPA-registered detergent/disinfectant for floors because it simplifies handling where contamination status is uncertain. That does not mean every floor needs extraordinary decontamination.</p>\n<h2 id=\"schedule\">Use a written schedule</h2><p>Define which floor areas are cleaned routinely, which require event-based disinfection, and which follow special protocols. This prevents unnecessary chemistry while keeping higher-risk areas controlled.</p>\n<h2 id=\"safety\">Floor safety still matters</h2><p>Any disinfectant used on flooring should be compatible with the finish and used according to the product label and facility safety procedures. Residue and excess liquid can affect slip resistance or material condition.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Floor disinfection is risk-based, not automatic. Routine cleaning is usually sufficient for ordinary low-risk floors; defined contamination or higher-risk procedures can justify an added disinfection step.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li></ol>",
+  "seo_title": "When Is Floor Disinfection Considered? | Alle's ClinX",
+  "meta_description": "Learn when floor disinfection may be considered and why routine low-risk floors usually need cleaning rather than routine disinfection.",
+  "related_article_ids": [
+    "ACX-KB-0137",
+    "ACX-KB-0138",
+    "ACX-KB-0133"
+  ]
+}

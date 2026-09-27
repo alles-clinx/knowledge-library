@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0136",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0136",
+  "title": "Floor disinfection कब consider की जाती है?",
+  "slug": "when-is-floor-disinfection-considered",
+  "subcategory": "Floor Disinfection",
+  "subcategory_slug": "floor-disinfection",
+  "excerpt": "Routine floors usually low-touch होती हैं और अक्सर cleaning पर्याप्त होती है; blood/body-fluid contamination, higher-risk healthcare situations या facility protocol में disinfection consider की जा सकती है।",
+  "content_html": "<p>Floors generally low-touch environmental surfaces हैं, इसलिए routine floor disinfection automatically necessary नहीं है। Decision contamination risk, setting और facility policy पर depend करे।</p>\n<h2 id=\"hi136-routine\">Routine conditions</h2><p>CDC के अनुसार floors का direct patient contact limited होता है और transmission risk generally low है। Normal circumstances में routine cleaning primary control होती है।</p>\n<h2 id=\"hi136-spills\">Blood/body-fluid contamination</h2><p>Visible contamination होने पर floor cleaning और appropriate decontamination facility spill protocol के अनुसार होनी चाहिए।</p>\n<h2 id=\"hi136-risk\">Higher-risk healthcare situations</h2><p>कुछ patient-care areas, outbreak conditions या higher contamination probability वाली settings में procedure के अनुसार cleaning + disinfection required हो सकती है।</p>\n<h2 id=\"hi136-combined\">Detergent-disinfectant workflows</h2><p>कुछ facilities floors पर EPA-registered detergent/disinfectant use करती हैं जहाँ contamination status uncertain हो सकती है। इससे extraordinary decontamination every floor के लिए required नहीं हो जाती।</p>\n<h2 id=\"hi136-schedule\">Written schedule use करें</h2><p>Routine-clean floors, event-based disinfection floors और special-protocol areas अलग define करें।</p>\n<h2 id=\"hi136-safety\">Floor safety matter करती है</h2><p>Floor disinfectant finish-compatible हो और label/facility procedures के अनुसार use हो। Residue/excess liquid slip resistance या material condition affect कर सकती है।</p>\n<h2 id=\"hi136-takeaway\">Practical takeaway</h2><p>Floor disinfection risk-based है। Ordinary low-risk floors में routine cleaning usually enough है; defined contamination या higher-risk procedures added disinfection justify कर सकती हैं।</p>\n<h2 id=\"hi136-references\">संदर्भ</h2><ol><li id=\"hi136-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi136-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li></ol>",
+  "seo_title": "Floor Disinfection कब Consider करें | Alle's ClinX",
+  "meta_description": "Routine low-risk floors में cleaning और higher-risk contamination में added floor disinfection का difference समझें।",
+  "related_article_ids": [
+    "ACX-KB-0137",
+    "ACX-KB-0138",
+    "ACX-KB-0133"
+  ]
+}

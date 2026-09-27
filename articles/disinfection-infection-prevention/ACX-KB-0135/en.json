@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0135",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Does a Visibly Wet Surface Mean in Disinfection?",
+  "slug": "what-does-a-visibly-wet-surface-mean-in-disinfection",
+  "subcategory": "Surface Disinfection",
+  "subcategory_slug": "surface-disinfection",
+  "excerpt": "A visibly wet surface means enough disinfectant remains on the treated area to keep it wet for the full labeled contact time. If it dries too early, the required exposure may not be achieved.",
+  "content_html": "<p>For many disinfectants, the surface must remain visibly wet for the entire labeled contact time. This wet period is part of the product's validated use conditions, not a cosmetic detail.</p>\n<h2 id=\"meaning\">What “visibly wet” means</h2><p>The treated area should look continuously wet rather than merely damp, streaked or already dry. EPA guidance states that the surface should remain visibly wet for the full contact time specified on the label.</p>\n<h2 id=\"contact-time\">Why contact time matters</h2><p>Contact time is the period the disinfectant needs to remain in contact with the surface for the relevant antimicrobial claim. If the surface dries early, the effective exposure can be shorter than the labeled condition.</p>\n<h2 id=\"coverage\">Coverage must be complete</h2><p>Uniform wetting matters because missed or rapidly drying areas may not receive the same exposure. Rough, hot, absorbent or highly sloped surfaces can make even coverage harder to maintain.</p>\n<h2 id=\"label\">The label defines the requirement</h2><p>Different disinfectants can have different contact times and application methods. Follow the specific product label rather than using a universal time or amount.</p>\n<h2 id=\"early-drying\">If the surface dries too early</h2><p>EPA notes that additional product may be needed to keep the surface visibly wet for the full labeled contact time. Reapplication should still follow the product directions and surface-safety requirements.</p>\n<h2 id=\"not-pooling\">Wet does not mean uncontrolled pooling</h2><p>The objective is labeled wet contact, not unnecessary flooding. Excess liquid can damage materials, increase residue or create slip hazards depending on the surface and setting.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>“Visibly wet” means the disinfectant is still present as a wet film for the full labeled contact time. Coverage, compatibility and label directions determine whether that wet contact is achieved correctly.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li></ol>",
+  "seo_title": "What Does a Visibly Wet Surface Mean in Disinfection? | Alle's ClinX",
+  "meta_description": "Learn what visibly wet means during disinfection, why full contact time and coverage matter, and why label directions control reapplication and surface use.",
+  "related_article_ids": [
+    "ACX-KB-0128",
+    "ACX-KB-0132",
+    "ACX-KB-0134"
+  ]
+}

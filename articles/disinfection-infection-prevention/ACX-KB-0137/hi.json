@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0137",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0137",
+  "title": "Floor cleaning vs floor disinfection",
+  "slug": "floor-cleaning-vs-floor-disinfection",
+  "subcategory": "Floor Disinfection",
+  "subcategory_slug": "floor-disinfection",
+  "excerpt": "Floor cleaning soil/debris remove करती है; floor disinfection risk/protocol के अनुसार microbial-control step add करती है। Floors usually low-touch surfaces हैं, इसलिए routine disinfection हमेशा जरूरी नहीं।",
+  "content_html": "<p>Floor cleaning और floor disinfection अलग purposes serve करती हैं। Cleaning dirt, dust, spills और residue remove करती है; disinfection defined risk में microbial-control step add करती है।</p>\n<h2 id=\"hi137-cleaning\">Floor cleaning soil removal पर focus करती है</h2><p>Routine floor care appropriate cleaning method से visible/invisible soil remove करती है। Good cleaning appearance, traction और later treatment भी improve करती है।</p>\n<h2 id=\"hi137-disinfection\">Floor disinfection microorganisms target करती है</h2><p>Required होने पर compatible disinfectant proper soil removal के बाद या labeled combined process में use होती है। Correct application/contact time फिर भी जरूरी हैं।</p>\n<h2 id=\"hi137-risk\">Floors generally low-touch होती हैं</h2><p>CDC floors को low-touch surfaces मानता है जिनका patient exposure generally low होता है। Normal conditions में cleaning usually adequate है।</p>\n<h2 id=\"hi137-events\">Defined events requirement बदलते हैं</h2><p>Blood/body-fluid spills, higher-risk healthcare areas, certain outbreak conditions या facility policy cleaning + disinfection justify कर सकते हैं।</p>\n<h2 id=\"hi137-residue\">More chemistry other problems create कर सकती है</h2><p>Unnecessary disinfectant residue add कर सकती है, finishes affect कर सकती है और slip resistance/maintenance complicate कर सकती है।</p>\n<h2 id=\"hi137-verification\">Different outcomes verify करें</h2><p>Cleaning में soil removal/floor condition check करें। Disinfection में correct product, labeled surface, application और contact time भी verify करें।</p>\n<h2 id=\"hi137-takeaway\">Practical takeaway</h2><p>Floors को routinely clean करें; defined infection-control reason होने पर disinfect करें। दोनों interchangeable processes नहीं हैं।</p>\n<h2 id=\"hi137-references\">संदर्भ</h2><ol><li id=\"hi137-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi137-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>",
+  "seo_title": "Floor Cleaning vs Disinfection | Alle's ClinX",
+  "meta_description": "Floor cleaning और floor disinfection को purpose, routine risk, contamination events, residue और verification से compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0136",
+    "ACX-KB-0138",
+    "ACX-KB-0129"
+  ]
+}

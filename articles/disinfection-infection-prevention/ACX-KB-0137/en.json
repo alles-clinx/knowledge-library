@@ -1,0 +1,25 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0137",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Floor Cleaning vs Floor Disinfection",
+  "slug": "floor-cleaning-vs-floor-disinfection",
+  "subcategory": "Floor Disinfection",
+  "subcategory_slug": "floor-disinfection",
+  "excerpt": "Floor cleaning removes soil and debris; floor disinfection adds a microbial-control step where risk or protocol requires it. Because floors are usually low-touch surfaces, routine disinfection is not always necessary.",
+  "content_html": "<p>Floor cleaning and floor disinfection serve different purposes. Cleaning removes dirt, dust, spills and residue. Disinfection is an additional microbial-control step used only when the risk or protocol justifies it.</p>\n<h2 id=\"cleaning\">Floor cleaning focuses on soil removal</h2><p>Routine floor care uses an appropriate cleaning method to remove visible and invisible soil. Good soil removal also improves appearance, traction and later surface treatment.</p>\n<h2 id=\"disinfection\">Floor disinfection targets microorganisms</h2><p>When required, a compatible disinfectant is used after appropriate soil removal or as part of a labeled combined process. The product still needs correct application and contact time.</p>\n<h2 id=\"risk\">Floors are generally low-touch</h2><p>CDC identifies floors as low-touch surfaces with generally low patient exposure. Under normal conditions, cleaning is usually adequate and routine disinfection provides limited additional benefit.</p>\n<h2 id=\"events\">Defined events change the requirement</h2><p>Blood or body-fluid spills, higher-risk healthcare areas, certain outbreak conditions or facility policy can justify cleaning plus disinfection.</p>\n<h2 id=\"residue\">More chemistry can create other problems</h2><p>Unnecessary disinfectant use can add residue, affect floor finishes and complicate slip resistance or maintenance. Use the least complex process that meets the actual risk requirement.</p>\n<h2 id=\"verification\">Verify different outcomes</h2><p>For cleaning, check soil removal and floor condition. For disinfection, also verify that the correct product, labeled surface, application and contact time were used.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Clean floors routinely; disinfect floors when a defined infection-control reason requires it. The two processes should not be treated as interchangeable.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>",
+  "seo_title": "Floor Cleaning vs Floor Disinfection | Alle's ClinX",
+  "meta_description": "Compare floor cleaning and floor disinfection by purpose, risk, routine use, special contamination events, residue and verification.",
+  "related_article_ids": [
+    "ACX-KB-0136",
+    "ACX-KB-0138",
+    "ACX-KB-0129"
+  ]
+}

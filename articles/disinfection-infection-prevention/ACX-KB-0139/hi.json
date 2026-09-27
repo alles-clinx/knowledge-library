@@ -1,0 +1,27 @@
+{
+  "category": "Disinfection & Infection Prevention",
+  "category_slug": "disinfection-infection-prevention",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0139",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0139",
+  "title": "Disinfectant chemistry application से कैसे relate करती है",
+  "slug": "how-disinfectant-chemistry-relates-to-application",
+  "subcategory": "Disinfectant Chemistry",
+  "subcategory_slug": "disinfectant-chemistry",
+  "excerpt": "Disinfectant chemistry organism claims, surface suitability, wet contact time, stability और safety/material-compatibility limits influence करती है।",
+  "content_html": "<p>Disinfectant chemistry product behaviour affect करती है, लेकिन application हमेशा product label के through translate होनी चाहिए, user improvisation से नहीं। Different active-ingredient systems के performance/compatibility profiles अलग होते हैं।</p>\n<h2 id=\"hi139-claims\">Chemistry antimicrobial claims influence करती है</h2><p>Different active ingredients different organisms के against validated हो सकती हैं। Supported claim chemical-family name से नहीं, approved label से तय होती है।</p>\n<h2 id=\"hi139-surface\">Chemistry surface compatibility influence करती है</h2><p>कुछ formulations metals, coatings, plastics, fabrics या finishes पर अधिक harsh हो सकती हैं। Product label और material-manufacturer guidance दोनों consider करें।</p>\n<h2 id=\"hi139-contact\">Chemistry/formulation contact time influence करती है</h2><p>Different products के wet contact times अलग हो सकते हैं। Required duration specific label से लें।</p>\n<h2 id=\"hi139-soil\">Soil chemistry से interact कर सकती है</h2><p>CDC notes कि organic material some germicides की activity reduce या microorganisms shield कर सकती है। इसलिए cleaning many disinfection processes का important prerequisite है।</p>\n<h2 id=\"hi139-stability\">Formulation stability/handling affect करती है</h2><p>Ready-to-use liquids, wipes और preparation-required products की storage, shelf-life और handling requirements अलग हो सकती हैं।</p>\n<h2 id=\"hi139-application\">Application method product से match करें</h2><p>Wipe, liquid और spray formats automatically interchangeable नहीं हैं। Coverage, wetness, use site और contact time approved directions से match करें।</p>\n<h2 id=\"hi139-mixing\">Combinations improvise न करें</h2><p>Different disinfectant products को mix/combine न करें unless manufacturer explicitly compatible system provide करे। Unplanned combinations performance बदल सकती हैं और safety risks create कर सकती हैं।</p>\n<h2 id=\"hi139-takeaway\">Practical takeaway</h2><p>Chemistry बताती है disinfectants क्यों differ करती हैं; label chemistry को safe, validated application में translate करती है। Approved claim, compatibility और directions से choose करें।</p>\n<h2 id=\"hi139-references\">संदर्भ</h2><ol><li id=\"hi139-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html\">CDC — Factors Affecting Disinfection and Sterilization Efficacy</a>.</li><li id=\"hi139-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention Practices</a>.</li><li id=\"hi139-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants\">US EPA — Selected EPA-Registered Disinfectants</a>.</li></ol>",
+  "seo_title": "Disinfectant Chemistry and Application | Alle's ClinX",
+  "meta_description": "Disinfectant chemistry claims, surface compatibility, contact time, stability और application को कैसे influence करती है समझें।",
+  "related_article_ids": [
+    "ACX-KB-0128",
+    "ACX-KB-0135",
+    "ACX-KB-0134"
+  ]
+}
