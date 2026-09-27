@@ -661,26 +661,60 @@ body.acx-menu-open::before{
   background:#242528;
 }
 .acx-mobile-knowledge-nav a small{display:none}
-.acx-mobile-knowledge-nav a.is-current,.acx-mobile-nav a.is-current{font-weight:650;background:#202124}
-.acx-mobile-knowledge-nav a.is-current::before,
-.acx-mobile-nav a.is-current::before,
-.acx-mobile-knowledge-nav a:hover::before,
-.acx-mobile-knowledge-nav a:focus-visible::before,
-.acx-mobile-nav a:hover::before,
-.acx-mobile-nav a:focus-visible::before{
+.acx-mobile-knowledge-nav a.is-current,.acx-mobile-nav a.is-current{font-weight:650;background:transparent}
+.acx-mobile-knowledge-nav a::before,
+.acx-mobile-nav a::before{display:none!important}
+.acx-mobile-knowledge-nav a.is-current span{margin-right:auto}
+.acx-mobile-knowledge-nav,.acx-mobile-nav{
+  position:relative;
+  padding-left:18px;
+}
+.acx-mobile-knowledge-nav a,.acx-mobile-nav a{
+  transition:color .2s ease,transform .32s cubic-bezier(.22,1,.36,1);
+}
+.acx-mobile-drawer .acx-mobile-knowledge-nav a:hover,
+.acx-mobile-drawer .acx-mobile-knowledge-nav a:focus-visible,
+.acx-mobile-drawer .acx-mobile-nav a:hover,
+.acx-mobile-drawer .acx-mobile-nav a:focus-visible{
+  background:transparent;
+  transform:translateX(2px);
+}
+.acx-mobile-knowledge-nav .acx-hover-rail,
+.acx-mobile-nav .acx-hover-rail{
+  position:absolute;
+  z-index:2;
+  left:1px;
+  top:0;
+  width:12px;
+  height:0;
+  opacity:0;
+  color:#6e6e6e;
+  pointer-events:none;
+  transition:height .42s cubic-bezier(.22,1,.36,1),opacity .18s ease,color .2s ease;
+}
+.acx-hover-rail.is-visible{opacity:1}
+.acx-hover-rail.is-active{color:#ededed}
+.acx-hover-rail::before{
   content:"";
-  display:block;
   position:absolute;
   left:0;
-  top:9px;
-  bottom:9px;
-  width:2px;
-  height:auto;
-  margin:0;
-  border-radius:2px;
-  background:#f5f5f5;
+  top:0;
+  bottom:6px;
+  width:1px;
+  background:repeating-linear-gradient(to bottom,currentColor 0 2px,transparent 2px 4px);
 }
-.acx-mobile-knowledge-nav a.is-current span{margin-right:auto}
+.acx-hover-rail::after{
+  content:"";
+  position:absolute;
+  left:0;
+  bottom:0;
+  width:11px;
+  height:7px;
+  border-left:1px solid currentColor;
+  border-bottom:1px solid currentColor;
+  border-radius:0 0 0 7px;
+}
+@media(prefers-reduced-motion:reduce){.acx-hover-rail{transition:none!important}}
 .acx-mobile-drawer-foot,
 .acx-mobile-drawer .acx-mobile-drawer-foot{
   color:#919298;
