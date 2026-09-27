@@ -15,6 +15,46 @@
   window.__ACX_SITE_SHELL__=true;
 
   const BASE='/knowledge-library/';
+
+  function ensurePwaHead(){
+    if(!document.querySelector('link[rel="manifest"]')){
+      const manifest=document.createElement('link');
+      manifest.rel='manifest';
+      manifest.href=BASE+'manifest.webmanifest';
+      document.head.appendChild(manifest);
+    }
+    if(!document.querySelector('link[rel="apple-touch-icon"]')){
+      const touchIcon=document.createElement('link');
+      touchIcon.rel='apple-touch-icon';
+      touchIcon.href=BASE+'assets/favicon.png?v=20260927-3';
+      document.head.appendChild(touchIcon);
+    }
+    [
+      ['theme-color','#ffffff'],
+      ['mobile-web-app-capable','yes'],
+      ['apple-mobile-web-app-capable','yes'],
+      ['apple-mobile-web-app-status-bar-style','default'],
+      ['apple-mobile-web-app-title',"ClinX Knowledge"]
+    ].forEach(function(pair){
+      if(document.querySelector('meta[name="'+pair[0]+'"]')) return;
+      const meta=document.createElement('meta');
+      meta.name=pair[0];
+      meta.content=pair[1];
+      document.head.appendChild(meta);
+    });
+  }
+  ensurePwaHead();
+
+  const pwaStyle=document.createElement('style');
+  pwaStyle.textContent=[
+    '.acx-install-app{height:36px;padding:0 12px;border:1px solid #dedee1;border-radius:8px;background:#fff;color:#111;font:600 13px/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;cursor:pointer;white-space:nowrap}',
+    '.acx-install-app:hover,.acx-install-app:focus-visible{border-color:#bcbcc1;background:#fafafa;outline:0}',
+    '.acx-install-app[hidden],.acx-pwa-status[hidden]{display:none!important}',
+    '.acx-pwa-status{position:fixed;left:50%;bottom:max(18px,env(safe-area-inset-bottom));z-index:9999;transform:translateX(-50%);max-width:calc(100% - 32px);padding:9px 12px;border:1px solid #dedee1;border-radius:999px;background:rgba(255,255,255,.96);color:#303034;font:600 12px/1.25 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;box-shadow:0 5px 22px rgba(0,0,0,.08);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}',
+    '@media(max-width:640px){.acx-install-app{height:34px;padding:0 9px;font-size:12px}.acx-pwa-status{bottom:max(12px,env(safe-area-inset-bottom))}}'
+  ].join('');
+  document.head.appendChild(pwaStyle);
+
   const preferredLocale=document.documentElement.lang==='hi'?'hi-IN':'en';
   const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>';
   const nav=[
@@ -33,7 +73,7 @@
   header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
     '<div class="acx-brand-cluster"><a class="acx-wordmark" href="https://allesclinx.com/" aria-label="Alle\'s ClinX main website">Alle\'s ClinX</a><span class="acx-brand-divider" aria-hidden="true"></span><a class="acx-context-link" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Knowledge</a></div>'+
     '<nav class="acx-primary-nav" aria-label="Primary">'+navLinks()+'</nav>'+
-    '<div class="acx-site-actions"><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'<span class="acx-search-label">Search</span><kbd>⌘K</kbd></button>'+
+    '<div class="acx-site-actions"><button class="acx-install-app" type="button" hidden aria-label="Install Alle\'s ClinX Knowledge app">Install</button><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'<span class="acx-search-label">Search</span><kbd>⌘K</kbd></button>'+
     '<button class="acx-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="acx-mobile-drawer"><span></span></button></div></div>'+
     '<div class="acx-mobile-drawer" id="acx-mobile-drawer" aria-hidden="true"><div class="acx-mobile-drawer-inner">'+
       '<button class="acx-mobile-search" type="button" aria-label="Search Knowledge">'+searchIcon+'<span>Search Knowledge</span><span class="acx-mobile-search-key">⌘K</span></button>'+
@@ -51,6 +91,72 @@
   document.body.insertAdjacentElement('afterbegin',injectedHeader);
   const injectedDrawer=injectedHeader.querySelector('#acx-mobile-drawer');
   if(injectedDrawer) injectedHeader.insertAdjacentElement('afterend',injectedDrawer);
+
+  const installBtn=document.querySelector('.acx-install-app');
+  let deferredInstallPrompt=null;
+  function isStandalone(){
+    return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone===true;
+  }
+  function syncInstallButton(){
+    if(!installBtn) return;
+    installBtn.hidden=isStandalone() || !deferredInstallPrompt;
+  }
+  window.addEventListener('beforeinstallprompt',function(event){
+    event.preventDefault();
+    deferredInstallPrompt=event;
+    syncInstallButton();
+  });
+  if(installBtn){
+    installBtn.addEventListener('click',async function(){
+      if(!deferredInstallPrompt) return;
+      deferredInstallPrompt.prompt();
+      try{await deferredInstallPrompt.userChoice;}catch(error){}
+      deferredInstallPrompt=null;
+      syncInstallButton();
+    });
+  }
+  window.addEventListener('appinstalled',function(){
+    deferredInstallPrompt=null;
+    syncInstallButton();
+  });
+  window.matchMedia('(display-mode: standalone)').addEventListener?.('change',syncInstallButton);
+  syncInstallButton();
+
+  const pwaStatus=document.createElement('div');
+  pwaStatus.className='acx-pwa-status';
+  pwaStatus.setAttribute('role','status');
+  pwaStatus.setAttribute('aria-live','polite');
+  pwaStatus.hidden=true;
+  pwaStatus.textContent='Offline mode · visited guides remain available';
+  document.body.appendChild(pwaStatus);
+  function syncConnectivity(){
+    pwaStatus.hidden=navigator.onLine;
+  }
+  window.addEventListener('online',syncConnectivity);
+  window.addEventListener('offline',syncConnectivity);
+  syncConnectivity();
+
+  if('serviceWorker' in navigator && location.protocol!=='file:'){
+    window.addEventListener('load',async function(){
+      try{
+        const registration=await navigator.serviceWorker.register(BASE+'sw.js',{scope:BASE});
+        if(registration.waiting && navigator.serviceWorker.controller){
+          registration.waiting.postMessage({type:'SKIP_WAITING'});
+        }
+        registration.addEventListener('updatefound',function(){
+          const worker=registration.installing;
+          if(!worker) return;
+          worker.addEventListener('statechange',function(){
+            if(worker.state==='installed' && registration.waiting && navigator.serviceWorker.controller){
+              registration.waiting.postMessage({type:'SKIP_WAITING'});
+            }
+          });
+        });
+      }catch(error){
+        console.warn('Alle\'s ClinX Knowledge service worker registration failed.',error);
+      }
+    });
+  }
 
   const siteHeader=document.querySelector('.acx-site-header');
   function syncHeaderState(){
