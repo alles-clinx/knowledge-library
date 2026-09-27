@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 300,
+  "record_count": 310,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3302,6 +3302,116 @@
       "subcategory_slug": "infection-prevention-workflows",
       "excerpt": "Documentation infection-prevention cleaning को traceable बनाती है—क्या scheduled था, कौन responsible था, work कब complete हुआ, कौनसा method use हुआ और monitoring/corrective action क्या रही।",
       "url": "library/disinfection-infection-prevention/infection-prevention-workflows/documentation-infection-prevention-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0151",
+      "locale": "en",
+      "title": "Why Handwashing Matters in Facility Hygiene",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Handwashing",
+      "subcategory_slug": "handwashing",
+      "excerpt": "Handwashing supports facility hygiene by physically removing soil, germs and some contaminants from hands, reducing opportunities for hands to transfer contamination between people, surfaces, food and equipment.",
+      "url": "library/hand-hygiene/handwashing/why-handwashing-matters-in-facility-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0151",
+      "locale": "hi-IN",
+      "title": "Facility hygiene में handwashing क्यों matter करती है",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Handwashing",
+      "subcategory_slug": "handwashing",
+      "excerpt": "Handwashing hands से soil, germs और कुछ contaminants physically remove करके लोगों, surfaces, food और equipment के बीच contamination transfer opportunities कम करती है।",
+      "url": "library/hand-hygiene/handwashing/why-handwashing-matters-in-facility-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0152",
+      "locale": "en",
+      "title": "Handwashing vs Hand Sanitising",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Handwashing",
+      "subcategory_slug": "handwashing",
+      "excerpt": "Handwashing uses soap and water to physically remove soil and germs, while alcohol-based hand sanitising inactivates many germs without rinsing. The preferred method depends on setting and whether hands are visibly dirty.",
+      "url": "library/hand-hygiene/handwashing/handwashing-vs-hand-sanitising/"
+    },
+    {
+      "article_id": "ACX-KB-0152",
+      "locale": "hi-IN",
+      "title": "Handwashing vs hand sanitising",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Handwashing",
+      "subcategory_slug": "handwashing",
+      "excerpt": "Handwashing soap/water से soil और germs physically remove करती है, जबकि alcohol-based hand sanitising many germs inactivate करती है। Preferred method setting और visible dirt पर depend करती है।",
+      "url": "library/hand-hygiene/handwashing/handwashing-vs-hand-sanitising/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0153",
+      "locale": "en",
+      "title": "What Makes a Handwashing Station Effective?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Handwashing",
+      "subcategory_slug": "handwashing",
+      "excerpt": "An effective handwashing station combines reliable water, soap, hygienic drying, safe drainage, convenient access, clear cues and routine maintenance so people can clean their hands when needed.",
+      "url": "library/hand-hygiene/handwashing/what-makes-a-handwashing-station-effective/"
+    },
+    {
+      "article_id": "ACX-KB-0153",
+      "locale": "hi-IN",
+      "title": "Effective handwashing station में क्या होना चाहिए?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Handwashing",
+      "subcategory_slug": "handwashing",
+      "excerpt": "Effective handwashing station reliable water, soap, hygienic drying, safe drainage, convenient access, clear cues और routine maintenance combine करती है।",
+      "url": "library/hand-hygiene/handwashing/what-makes-a-handwashing-station-effective/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0154",
+      "locale": "en",
+      "title": "What Is Hand Sanitising?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Sanitising",
+      "subcategory_slug": "hand-sanitising",
+      "excerpt": "Hand sanitising uses an approved hand antiseptic—commonly an alcohol-based hand rub—to reduce microorganisms on hands without rinsing with water. It works best when used in the right setting and on hands that are not visibly soiled.",
+      "url": "library/hand-hygiene/hand-sanitising/what-is-hand-sanitising/"
+    },
+    {
+      "article_id": "ACX-KB-0154",
+      "locale": "hi-IN",
+      "title": "Hand sanitising क्या है?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Sanitising",
+      "subcategory_slug": "hand-sanitising",
+      "excerpt": "Hand sanitising approved hand antiseptic—commonly alcohol-based hand rub—से hands पर microorganisms reduce करती है बिना water rinse के।",
+      "url": "library/hand-hygiene/hand-sanitising/what-is-hand-sanitising/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0155",
+      "locale": "en",
+      "title": "When Is Hand Sanitiser Different from Handwashing?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Sanitising",
+      "subcategory_slug": "hand-sanitising",
+      "excerpt": "Hand sanitiser differs most from handwashing when hands are visibly dirty, when physical removal of contaminants is needed, or when healthcare guidance specifies soap and water; otherwise alcohol-based hand rub is often preferred in routine clinical care.",
+      "url": "library/hand-hygiene/hand-sanitising/when-is-hand-sanitiser-different-from-handwashing/"
+    },
+    {
+      "article_id": "ACX-KB-0155",
+      "locale": "hi-IN",
+      "title": "Hand sanitiser handwashing से कब different है?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Sanitising",
+      "subcategory_slug": "hand-sanitising",
+      "excerpt": "Hand sanitiser और handwashing का difference visibly dirty hands, physical contaminant removal या setting-specific soap-and-water requirements में सबसे important होता है।",
+      "url": "library/hand-hygiene/hand-sanitising/when-is-hand-sanitiser-different-from-handwashing/hi.html"
     }
   ]
 }
