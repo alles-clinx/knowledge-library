@@ -30,6 +30,8 @@ jobs:
           sudo apt-get install -y fonts-noto-core
       - name: Build clean Hostinger tree
         run: python scripts/build_hostinger_production.py /tmp/knowledge-publish
+      - name: Harden production interactions
+        run: python scripts/harden_article_interactions.py /tmp/knowledge-publish
       - name: Publish production branch
         run: |
           git config user.name "github-actions[bot]"
