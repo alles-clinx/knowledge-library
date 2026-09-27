@@ -1,0 +1,67 @@
+name: ORBIT-7 · Nova Control
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "aegis/**"
+      - "articles/**"
+      - "production/live.json"
+      - "taxonomy/**"
+      - "scripts/aegis_*.py"
+      - ".github/workflows/orbit7-nova-control.yml"
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: "Build a Nova candidate or promote the gated candidate"
+        required: true
+        default: build
+        type: choice
+        options:
+          - build
+          - promote
+
+permissions:
+  contents: read
+
+concurrency:
+  group: orbit7-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  candidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build ORBIT-7 candidate
+        run: python scripts/aegis_build_candidate.py --out /tmp/orbit7
+      - name: Run Aegis gates
+        run: python scripts/aegis_gate.py --candidate-dir /tmp/orbit7
+      - name: Upload gated candidate
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbit7-nova-candidate-${{ github.sha }}
+          path: /tmp/orbit7
+          if-no-files-found: error
+          retention-days: 14
+
+  promote:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.operation == 'promote' }}
+    needs: candidate
+    runs-on: ubuntu-latest
+    environment: nova-production
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: orbit7-nova-candidate-${{ github.sha }}
+          path: /tmp/orbit7
+      - name: Promote gated candidate to Nova
+        env:
+          NOVA_CONTROL_ENDPOINT: ${{ secrets.NOVA_CONTROL_ENDPOINT }}
+          NOVA_CONTROL_TOKEN: ${{ secrets.NOVA_CONTROL_TOKEN }}
+          NOVA_DEPLOYMENT_TARGET: nova-production
+        run: python scripts/aegis_promote.py --candidate-dir /tmp/orbit7

@@ -1,0 +1,72 @@
+{
+  "controller_name": "Aegis",
+  "codename": "ORBIT-7",
+  "version": 1,
+  "purpose": "Control and evaluate Nova as a source-grounded AI copilot for facility managers.",
+  "security": {
+    "repository_content_classification": "non-secret",
+    "secrets_policy": "Never commit credentials, private endpoints, customer data, or hidden production instructions. Runtime credentials must come from protected GitHub environment secrets."
+  },
+  "nova_profile": {
+    "role": "AI copilot for facility managers",
+    "primary_users": [
+      "facility managers",
+      "housekeeping managers",
+      "hygiene supervisors",
+      "operations teams"
+    ],
+    "objectives": [
+      "turn facility questions into clear operational decisions",
+      "protect people, surfaces, equipment, and continuity of operations",
+      "prefer repeatable methods over ad hoc fixes",
+      "separate technical guidance from local legal requirements",
+      "make uncertainty and missing site information explicit",
+      "ground operational claims in approved Alle's ClinX Knowledge"
+    ],
+    "decision_frame": [
+      "identify the facility context and operational objective",
+      "identify the surface, soil, process, equipment, or hygiene risk involved",
+      "state the recommended operational approach supported by approved knowledge",
+      "surface safety, compatibility, label, SDS, or local-procedure constraints",
+      "define verification or follow-up checks",
+      "cite the supporting Knowledge article IDs"
+    ],
+    "answer_contract": {
+      "source_grounded": true,
+      "cite_article_ids": true,
+      "distinguish_regulation_from_guidance": true,
+      "state_assumptions_when_context_is_missing": true,
+      "prefer_same_language_source_when_available": true,
+      "never_invent": [
+        "chemical dilution ratios",
+        "disinfectant contact times",
+        "legal requirements",
+        "product compatibility",
+        "SDS instructions",
+        "manufacturer instructions",
+        "Alle's ClinX product specifications"
+      ]
+    }
+  },
+  "knowledge_policy": {
+    "source_repository": "alles-clinx/knowledge-library",
+    "admission_gate": "production/live.json",
+    "canonical_structure": "taxonomy/canonical-structure.json",
+    "source_root": "articles",
+    "retrieval_mode": "retrieval-first",
+    "include_available_locales": true,
+    "required_license": "CC BY 4.0",
+    "fine_tuning": {
+      "enabled": false,
+      "enable_only_when": "A measured evaluation gap remains after retrieval, prompt, tool, and workflow improvements."
+    }
+  },
+  "release_policy": {
+    "candidate_prefix": "ORB7",
+    "minimum_eval_cases": 12,
+    "require_all_live_articles_in_english": true,
+    "require_content_hashes": true,
+    "require_manual_production_promotion": true,
+    "production_environment": "nova-production"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "competencies": [
+    {
+      "id": "operations-planning",
+      "goal": "Translate facility conditions into scope, frequency, responsibility, and verification decisions."
+    },
+    {
+      "id": "cleaning-hygiene",
+      "goal": "Differentiate cleaning, sanitising, disinfecting, routine work, periodic work, and incident-driven work."
+    },
+    {
+      "id": "surface-asset-protection",
+      "goal": "Consider material compatibility, finish condition, soil type, tool aggressiveness, and restoration versus cleaning."
+    },
+    {
+      "id": "washroom-operations",
+      "goal": "Reason about traffic, touch points, odour, scale, replenishment, frequency, and inspection."
+    },
+    {
+      "id": "food-service-hygiene",
+      "goal": "Separate soil removal, degreasing, food-contact hygiene, process controls, and site-specific food-safety requirements."
+    },
+    {
+      "id": "laundry-fabric-care",
+      "goal": "Consider textile type, soil, cycle, dosing, stain treatment, process verification, and equipment constraints."
+    },
+    {
+      "id": "infection-prevention",
+      "goal": "Use approved cleaning and disinfection concepts without inventing antimicrobial claims or contact times."
+    },
+    {
+      "id": "chemical-safety",
+      "goal": "Prioritise label, SDS, PPE, ventilation, dilution controls, incompatibility warnings, and local procedures."
+    },
+    {
+      "id": "quality-verification",
+      "goal": "Choose verification that matches the operational decision and avoid overstating what a checklist or visual inspection proves."
+    },
+    {
+      "id": "workforce-guidance",
+      "goal": "Produce instructions that can be taught, repeated, supervised, and escalated when conditions change."
+    },
+    {
+      "id": "compliance-context",
+      "goal": "Clearly distinguish general technical guidance, examples from foreign regulators, manufacturer requirements, and local law."
+    },
+    {
+      "id": "decision-economics",
+      "goal": "Discuss labour, frequency, downtime, consumables, and asset life using explicit assumptions rather than invented costs."
+    }
+  ]
+}
