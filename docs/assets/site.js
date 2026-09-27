@@ -207,6 +207,50 @@
   let visibleResults=[];
 
   let menuReturnFocus=null;
+  const hookStates=new WeakMap();
+
+  function syncHookRails(){
+    drawer.querySelectorAll('.acx-mobile-knowledge-nav,.acx-mobile-nav').forEach(function(nav){
+      let rail=nav.querySelector(':scope > .acx-hover-rail');
+      if(!rail){
+        rail=document.createElement('span');
+        rail.className='acx-hover-rail';
+        rail.setAttribute('aria-hidden','true');
+        nav.appendChild(rail);
+      }
+      let state=hookStates.get(nav);
+      if(!state){
+        state={rail:null,hovered:null};
+        hookStates.set(nav,state);
+      }
+      state.rail=rail;
+      state.hovered=null;
+      function move(link,hover){
+        if(!link || !nav.contains(link)){
+          state.rail.className='acx-hover-rail';
+          return;
+        }
+        state.rail.style.height=(link.offsetTop+link.offsetHeight/2)+'px';
+        state.rail.className='acx-hover-rail is-visible '+(hover?'is-hover':'is-active');
+      }
+      function restore(){move(nav.querySelector('a.is-current'),false);}
+      if(!nav.dataset.hookReady){
+        nav.dataset.hookReady='true';
+        nav.addEventListener('mouseover',function(event){
+          const link=event.target.closest('a');
+          if(link && nav.contains(link)){state.hovered=link;move(link,true);}
+        });
+        nav.addEventListener('focusin',function(event){
+          const link=event.target.closest('a');
+          if(link && nav.contains(link)){state.hovered=link;move(link,true);}
+        });
+        nav.addEventListener('mouseleave',function(){state.hovered=null;restore();});
+        nav.addEventListener('focusout',function(event){if(!nav.contains(event.relatedTarget)){state.hovered=null;restore();}});
+        if(window.ResizeObserver) new ResizeObserver(function(){move(state.hovered||nav.querySelector('a.is-current'),!!state.hovered);}).observe(nav);
+      }
+      restore();
+    });
+  }
 
   function syncMobileActiveLinks(){
     const current=window.location.pathname.replace(/\/+$/,'/') || '/';
@@ -236,6 +280,7 @@
     document.body.classList.toggle('acx-menu-open',open);
     if(open){
       syncMobileActiveLinks();
+      syncHookRails();
       const first=drawer.querySelector('.acx-mobile-search');
       if(first) first.focus({preventScroll:true});
     }else if(restoreFocus!==false && menuReturnFocus && typeof menuReturnFocus.focus==='function'){
@@ -371,6 +416,7 @@
     const total=new Set(records.map(function(record){return record.article_id;})).size;
     if(mobileGuideCount) mobileGuideCount.textContent=total+' live guides';
     syncMobileActiveLinks();
+    syncHookRails();
   }
 
   async function loadRecords(){
