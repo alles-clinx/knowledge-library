@@ -256,10 +256,8 @@
     document.body.classList.toggle('acx-menu-open',open);
     if(open){
       syncMobileActiveLinks();
-      requestAnimationFrame(function(){
-        const first=drawer.querySelector('.acx-mobile-search');
-        if(first) first.focus({preventScroll:true});
-      });
+      const first=drawer.querySelector('.acx-mobile-search');
+      if(first) first.focus({preventScroll:true});
     }else if(restoreFocus!==false && menuReturnFocus && typeof menuReturnFocus.focus==='function'){
       menuReturnFocus.focus({preventScroll:true});
       menuReturnFocus=null;
