@@ -88,7 +88,7 @@
     '<div class="acx-site-actions"><button class="acx-install-app" type="button" hidden aria-label="Install Alle\'s ClinX Knowledge app">Install</button><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'<span class="acx-search-label">Search</span><kbd>⌘K</kbd></button>'+
     '<a class="acx-header-utility" href="https://allesclinx.com/cart/" aria-label="Shopping cart"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9h18l-2 11H5L3 9Zm4 0 5-6 5 6M9 12v5m6-5v5"/></svg></a><a class="acx-header-utility" href="https://allesclinx.com/my-account/" aria-label="My account"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/></svg></a>'+
     '<button class="acx-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="acx-mobile-drawer">Menu</button></div></div>'+
-    '<div class="acx-mobile-drawer" id="acx-mobile-drawer" aria-hidden="true"><div class="acx-mobile-drawer-inner">'+
+    '<div class="acx-mobile-drawer" id="acx-mobile-drawer" role="dialog" aria-modal="true" aria-label="Explore Alle\'s ClinX Knowledge" aria-hidden="true"><div class="acx-mobile-drawer-inner">'+
       '<button class="acx-mobile-search" type="button" aria-label="Search Knowledge">'+searchIcon+'<span>Search Knowledge</span><span class="acx-mobile-search-key">⌘K</span></button>'+
       '<section class="acx-mobile-section" aria-labelledby="acx-mobile-knowledge-label">'+
         '<div class="acx-mobile-section-head"><span id="acx-mobile-knowledge-label">Knowledge</span><span class="acx-mobile-guide-count" aria-live="polite"></span></div>'+
@@ -543,7 +543,7 @@
       else if(drawer.classList.contains('is-open')) setMenu(false);
     }
     if(event.key==='Tab'&&drawer.classList.contains('is-open')){
-      const focusable=[...drawer.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
+      const focusable=[menuBtn,...drawer.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
         return el.offsetParent!==null;
       });
       if(focusable.length){
