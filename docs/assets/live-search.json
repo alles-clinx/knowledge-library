@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 278,
+  "record_count": 288,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3060,6 +3060,116 @@
       "subcategory_slug": "disinfectant-chemistry",
       "excerpt": "Disinfectant chemistry organism claims, surface suitability, wet contact time, stability और safety/material-compatibility limits influence करती है।",
       "url": "library/disinfection-infection-prevention/disinfectant-chemistry/how-disinfectant-chemistry-relates-to-application/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0140",
+      "locale": "en",
+      "title": "How Different Disinfectant Families Differ",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "Disinfectant families differ in antimicrobial spectrum, material compatibility, stability, residue, application format and labeled use. The active-ingredient family helps explain behavior, but the product label determines the validated claim.",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/how-different-disinfectant-families-differ/"
+    },
+    {
+      "article_id": "ACX-KB-0140",
+      "locale": "hi-IN",
+      "title": "Different disinfectant families कैसे differ करती हैं",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "Disinfectant families antimicrobial spectrum, material compatibility, stability, residue, application format और labeled use में differ करती हैं। Family behavior explain करती है, लेकिन validated claim product label तय करती है।",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/how-different-disinfectant-families-differ/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0141",
+      "locale": "en",
+      "title": "How Water Quality and Materials Affect Some Disinfectants",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "Water quality and surface materials can influence some disinfectants through hardness, pH, residue, corrosion, absorption or chemical compatibility. Product labels and manufacturer guidance determine whether these factors matter for a specific use.",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/water-quality-materials-disinfectants/"
+    },
+    {
+      "article_id": "ACX-KB-0141",
+      "locale": "hi-IN",
+      "title": "Water quality और materials कुछ disinfectants को कैसे affect करते हैं",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "Water quality और surface materials hardness, pH, residue, corrosion, absorption या compatibility के through कुछ disinfectants को affect कर सकते हैं।",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/water-quality-materials-disinfectants/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0142",
+      "locale": "en",
+      "title": "Why Product Claims Matter More Than Ingredient Names",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "A disinfectant ingredient name does not prove a product is effective for a specific organism, surface or use. Validated product claims on the registered label are more important than the active-ingredient family alone.",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/why-product-claims-matter/"
+    },
+    {
+      "article_id": "ACX-KB-0142",
+      "locale": "hi-IN",
+      "title": "Product claims ingredient names से ज्यादा क्यों matter करती हैं",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Disinfectant Chemistry",
+      "subcategory_slug": "disinfectant-chemistry",
+      "excerpt": "Disinfectant ingredient name specific organism, surface या use के लिए effectiveness prove नहीं करती। Registered label की validated product claims active-ingredient family से ज्यादा important हैं।",
+      "url": "library/disinfection-infection-prevention/disinfectant-chemistry/why-product-claims-matter/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0143",
+      "locale": "en",
+      "title": "What Is Contact Time in Disinfection?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Contact Time",
+      "subcategory_slug": "contact-time",
+      "excerpt": "Contact time is the labeled period a disinfectant must remain in contact with a treated surface—typically while the surface stays visibly wet—to achieve the relevant antimicrobial claim.",
+      "url": "library/disinfection-infection-prevention/contact-time/what-is-contact-time-in-disinfection/"
+    },
+    {
+      "article_id": "ACX-KB-0143",
+      "locale": "hi-IN",
+      "title": "Disinfection में contact time क्या है?",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Contact Time",
+      "subcategory_slug": "contact-time",
+      "excerpt": "Contact time labeled period है जिसमें disinfectant treated surface के contact में रहती है—usually surface visibly wet रखते हुए—ताकि relevant antimicrobial claim achieve हो सके।",
+      "url": "library/disinfection-infection-prevention/contact-time/what-is-contact-time-in-disinfection/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0144",
+      "locale": "en",
+      "title": "Why Contact Time Matters",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Contact Time",
+      "subcategory_slug": "contact-time",
+      "excerpt": "Contact time matters because a disinfectant needs sufficient exposure under labeled conditions to achieve its validated antimicrobial claim. Shortening that exposure can make the process less reliable.",
+      "url": "library/disinfection-infection-prevention/contact-time/why-contact-time-matters/"
+    },
+    {
+      "article_id": "ACX-KB-0144",
+      "locale": "hi-IN",
+      "title": "Contact time क्यों matter करती है",
+      "category": "Disinfection & Infection Prevention",
+      "category_slug": "disinfection-infection-prevention",
+      "subcategory": "Contact Time",
+      "subcategory_slug": "contact-time",
+      "excerpt": "Contact time matter करती है क्योंकि disinfectant को validated antimicrobial claim achieve करने के लिए labeled conditions में sufficient exposure चाहिए।",
+      "url": "library/disinfection-infection-prevention/contact-time/why-contact-time-matters/hi.html"
     }
   ]
 }
