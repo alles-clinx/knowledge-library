@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0161",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0161",
+  "title": "Hand-hygiene stations कहाँ position करनी चाहिए?",
+  "slug": "where-should-hand-hygiene-stations-be-positioned",
+  "subcategory": "Hand Hygiene Stations",
+  "subcategory_slug": "hand-hygiene-stations",
+  "excerpt": "Hand-hygiene stations वहाँ position हों जहाँ workflow hand hygiene की need बनाती है—clinical setting में point-of-care hand rub और washing indications के लिए accessible soap/water resources।",
+  "content_html": "<p>Hand-hygiene station की location उन moments से match करनी चाहिए जहाँ users को hands clean करनी होती हैं। Placement सिर्फ खाली wall space नहीं, actual workflow support करे।</p>\n<h2 id=\"hi161-point\">Point of care पर hand hygiene support करें</h2><p>WHO point of care को वह जगह बताता है जहाँ patient, healthcare worker और contact वाली care साथ आती हैं। Indicated होने पर alcohol-based hand rub इस point के practical near available हो।</p>\n<h2 id=\"hi161-transitions\">Important transitions पर access रखें</h2><p>Entrances, exits, care zones, shared-equipment areas और food-handling transitions predictable hand-hygiene needs बना सकते हैं। Location चुनने से पहले movement map करें।</p>\n<h2 id=\"hi161-washing\">Washing indications के लिए handwashing available रखें</h2><p>Hand rub visibly soiled hands जैसी washing indications में sink, soap और hygienic drying replace नहीं करती। Correct method unnecessary delay के बिना reachable हो।</p>\n<h2 id=\"hi161-reachable\">Stations visible और reachable हों</h2><p>Hidden, obstructed, empty या difficult-to-operate station functionally available नहीं है। Controls और supplies safely identify और reach की जा सकें।</p>\n<h2 id=\"hi161-maintenance\">Refill/inspection route include करें</h2><p>Staff को station inspect, clean, service और refill करने का safe access चाहिए। Difficult maintenance availability gap बना सकती है।</p>\n<h2 id=\"hi161-safety\">Fire, building और manufacturer requirements apply करें</h2><p>Alcohol-based hand-rub dispenser को location-specific safety review चाहिए। WHO ignition sources और medical-gas outlets से दूर placement कहता है; local codes और manufacturer instructions भी follow करें।</p>\n<h2 id=\"hi161-review\">Use शुरू होने के बाद placement review करें</h2><p>देखें कि users required moment पर station से pass करते हैं या नहीं, obstruction तो नहीं और supplies available रहती हैं या नहीं। Persistent gap पर location या access points revise करें।</p>\n<h2 id=\"hi161-takeaway\">Practical takeaway</h2><p>Resources को need के पास position करें: appropriate जगह point-of-care hand rub, washing locations पर handwashing facilities और key transitions पर reliable access।</p>\n<h2 id=\"hi161-references\">संदर्भ</h2><ol><li id=\"hi161-ref-1\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"hi161-ref-2\"><a href=\"https://www.who.int/news-room/questions-and-answers/item/alcohol-based-handrub-risks-hazards\">WHO — Alcohol-Based Handrub Risks and Hazards</a>.</li><li id=\"hi161-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li></ol>",
+  "seo_title": "Hand-Hygiene Station Placement | Alle's ClinX",
+  "meta_description": "Workflow, point-of-care access, handwashing needs, maintenance और safety hand-hygiene station placement को कैसे guide करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0160",
+    "ACX-KB-0158",
+    "ACX-KB-0159"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0164",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0164",
+  "title": "Facility hand-hygiene program क्या है?",
+  "slug": "what-is-a-facility-hand-hygiene-program",
+  "subcategory": "Hand Hygiene Programs",
+  "subcategory_slug": "hand-hygiene-programs",
+  "excerpt": "Facility hand-hygiene program accessible infrastructure और supplies को procedures, training, reminders, monitoring, feedback और leadership support से जोड़ने वाला managed system है।",
+  "content_html": "<p>Facility hand-hygiene program individual hand-cleaning actions को reliable operating system में बदलता है। यह need define करता है, action possible बनाता है और system work कर रही है या नहीं check करता है।</p>\n<h2 id=\"hi164-system\">System change से शुरू करें</h2><p>WHO multimodal strategy infrastructure/supplies से शुरू होती है: point of care पर hand rub और washing indications के लिए safe water, soap और hygienic drying।</p>\n<h2 id=\"hi164-procedures\">Responsibilities और procedures define करें</h2><p>कौन-सा method कब use होगा, inspection/refill कौन own करेगा, fault कैसे report होगा और shortage/service interruption कैसे handle होंगे—document करें।</p>\n<h2 id=\"hi164-training\">Actual work के लिए train करें</h2><p>Training indications और technique को real workflow से connect करे। Products, glove-related moments, visible-soil decisions और escalation routes cover हों।</p>\n<h2 id=\"hi164-reminders\">Setting-matched reminders use करें</h2><p>Workplace prompts expected action reinforce कर सकते हैं, लेकिन empty dispenser, blocked sink या unclear procedure compensate नहीं करते।</p>\n<h2 id=\"hi164-evaluation\">Measure करें और feedback दें</h2><p>Defined methods से infrastructure, supply availability, practice और improvement actions monitor करें। Corrective teams को useful feedback share करें।</p>\n<h2 id=\"hi164-climate\">Leadership और safety climate build करें</h2><p>Leaders resources दें, accountability assign करें और reported barriers पर respond करें। Staff failure report कर सके, workarounds normalise न हों।</p>\n<h2 id=\"hi164-scope\">Program facility risk के अनुसार adapt करें</h2><p>Healthcare indications और controls office, school या food-service से differ करते हैं। Applicable sector guidance और local requirements use करें।</p>\n<h2 id=\"hi164-cycle\">Improvement को cycle की तरह treat करें</h2><p>Current system assess करें, gaps prioritise करें, changes implement करें, फिर measure करें और effective controls sustain करें। One-time training complete program नहीं है।</p>\n<h2 id=\"hi164-takeaway\">Practical takeaway</h2><p>Hand-hygiene program supplies, people, procedures और measurement को connect करता है। Reliable improvement के लिए leadership और regular review के साथ सभी components चाहिए।</p>\n<h2 id=\"hi164-references\">संदर्भ</h2><ol><li id=\"hi164-ref-1\"><a href=\"https://qualityhealthservices.who.int/quality-toolkit/qt-catalog-item/a-guide-to-the-implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy\">WHO — Guide to the Multimodal Hand Hygiene Improvement Strategy</a>.</li><li id=\"hi164-ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools\">WHO — Hand Hygiene Monitoring Tools</a>.</li><li id=\"hi164-ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li></ol>",
+  "seo_title": "Facility Hand-Hygiene Program | Alle's ClinX",
+  "meta_description": "Infrastructure, procedures, training, reminders, measurement, feedback और leadership facility hand-hygiene program कैसे बनाते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0165",
+    "ACX-KB-0161",
+    "ACX-KB-0157"
+  ]
+}

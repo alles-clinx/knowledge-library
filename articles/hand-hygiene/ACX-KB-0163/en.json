@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0163",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Bulk Refill vs Sealed Cartridge Systems: What Changes?",
+  "slug": "bulk-refill-vs-sealed-cartridge-systems-what-changes",
+  "subcategory": "Dispensers & Refills",
+  "subcategory_slug": "dispensers-refills",
+  "excerpt": "Bulk-refill and sealed-cartridge systems differ in refill handling, dispenser cleaning, contamination controls, stock format, waste and compatibility. Neither should be managed as a simple top-up task.",
+  "content_html": "<p>Bulk-refill and sealed-cartridge systems both deliver hand-hygiene products, but they create different control points. The comparison should focus on safe handling, compatibility and maintenance rather than format alone.</p>\n<h2 id=\"bulk\">What bulk refill means</h2><p>A reusable reservoir is filled from a larger product container. The facility must control how the reservoir is emptied, cleaned, dried, relabelled where required and refilled according to the product and dispenser instructions.</p>\n<h2 id=\"sealed\">What a sealed cartridge changes</h2><p>A factory-filled cartridge is replaced as a closed unit designed for a compatible dispenser. This can reduce direct handling of the product during changeover, but correct storage, installation and disposal are still required.</p>\n<h2 id=\"top-off\">Topping off is not an acceptable shortcut</h2><p>CDC warns against refilling or topping off alcohol-based hand-sanitizer containers because accidental contamination, evaporation and reduced effectiveness can result. Soap should not be added to a partially empty dispenser either.</p>\n<h2 id=\"compatibility\">Compatibility remains essential</h2><p>Product, refill, pump and dispenser should form an approved combination. A container that physically fits may still deliver an unsuitable amount, leak, damage seals or conflict with the product instructions.</p>\n<h2 id=\"operations\">The operating burden differs</h2><p>Bulk systems need controlled decanting and reservoir reprocessing. Cartridge systems need the correct replacement stock and a dependable return or waste route. Compare the complete workflow, not only unit price.</p>\n<h2 id=\"inspection\">Both systems require inspection</h2><p>Check stock, expiry or use-by controls where applicable, dispenser function, leakage, cleanliness and correct product identity. A sealed refill does not make the surrounding dispenser maintenance-free.</p>\n<h2 id=\"selection\">Choose through a documented risk assessment</h2><p>Consider setting, infection-prevention requirements, staff capability, supplier continuity, waste handling, manufacturer instructions and applicable regulations. Do not switch refill formats without checking dispenser compatibility.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Bulk refill places more control on the facility's refill and cleaning process; sealed cartridges place more control on compatible replacement stock. Both need disciplined handling, inspection and supply continuity.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm\">CDC — Guideline for Hand Hygiene in Health-Care Settings</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Bulk Refill vs Sealed Cartridge Systems | Alle's ClinX",
+  "meta_description": "Compare bulk-refill and sealed-cartridge hand-hygiene systems across handling, contamination control, compatibility, maintenance, stock and waste.",
+  "related_article_ids": [
+    "ACX-KB-0162",
+    "ACX-KB-0165",
+    "ACX-KB-0160"
+  ]
+}

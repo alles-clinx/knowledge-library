@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0163",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0163",
+  "title": "Bulk refill vs sealed cartridge systems: क्या बदलता है?",
+  "slug": "bulk-refill-vs-sealed-cartridge-systems-what-changes",
+  "subcategory": "Dispensers & Refills",
+  "subcategory_slug": "dispensers-refills",
+  "excerpt": "Bulk-refill और sealed-cartridge systems refill handling, dispenser cleaning, contamination controls, stock format, waste और compatibility में differ करती हैं। दोनों simple top-up task नहीं हैं।",
+  "content_html": "<p>Bulk-refill और sealed-cartridge systems दोनों hand-hygiene product deliver करती हैं, लेकिन control points अलग होते हैं। Comparison safe handling, compatibility और maintenance पर based हो।</p>\n<h2 id=\"hi163-bulk\">Bulk refill क्या है</h2><p>Reusable reservoir larger container से fill होता है। Facility को emptying, cleaning, drying, required labelling और instructions के अनुसार refilling control करनी होती है।</p>\n<h2 id=\"hi163-sealed\">Sealed cartridge क्या बदलती है</h2><p>Factory-filled cartridge compatible dispenser के लिए closed unit की तरह replace होती है। Product handling कम हो सकती है, लेकिन correct storage, installation और disposal फिर भी needed हैं।</p>\n<h2 id=\"hi163-topoff\">Topping off acceptable shortcut नहीं है</h2><p>CDC alcohol-based hand-sanitizer containers refill/top off करने के against warn करता है क्योंकि contamination, evaporation और reduced effectiveness हो सकती है। Partially empty soap dispenser में भी soap add न करें।</p>\n<h2 id=\"hi163-compatibility\">Compatibility essential रहती है</h2><p>Product, refill, pump और dispenser approved combination हों। Physically fit होने वाला container भी wrong amount deliver, leak या seals damage कर सकता है।</p>\n<h2 id=\"hi163-operations\">Operating burden differ करता है</h2><p>Bulk system controlled decanting और reservoir reprocessing मांगती है। Cartridge system correct replacement stock और waste/return route मांगती है। Complete workflow compare करें।</p>\n<h2 id=\"hi163-inspection\">दोनों systems inspection मांगती हैं</h2><p>Stock, applicable expiry/use-by controls, function, leakage, cleanliness और product identity check करें। Sealed refill surrounding dispenser को maintenance-free नहीं बनाती।</p>\n<h2 id=\"hi163-selection\">Documented risk assessment से choose करें</h2><p>Setting, infection-prevention needs, staff capability, supplier continuity, waste, manufacturer instructions और regulations consider करें। Compatibility check किए बिना format switch न करें।</p>\n<h2 id=\"hi163-takeaway\">Practical takeaway</h2><p>Bulk refill facility के refill/cleaning process पर अधिक control डालती है; sealed cartridge compatible replacement stock पर। दोनों को disciplined handling, inspection और continuity चाहिए।</p>\n<h2 id=\"hi163-references\">संदर्भ</h2><ol><li id=\"hi163-ref-1\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"hi163-ref-2\"><a href=\"https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm\">CDC — Guideline for Hand Hygiene in Health-Care Settings</a>.</li><li id=\"hi163-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Bulk Refill vs Sealed Cartridge | Alle's ClinX",
+  "meta_description": "Bulk-refill और sealed-cartridge systems को handling, contamination control, compatibility, maintenance, stock और waste पर compare करें।",
+  "related_article_ids": [
+    "ACX-KB-0162",
+    "ACX-KB-0165",
+    "ACX-KB-0160"
+  ]
+}

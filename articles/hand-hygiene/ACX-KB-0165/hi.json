@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0165",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0165",
+  "title": "Hand-hygiene supply availability को measure करना",
+  "slug": "hand-hygiene-supply-availability",
+  "subcategory": "Hand Hygiene Programs",
+  "subcategory_slug": "hand-hygiene-programs",
+  "excerpt": "Supply availability measure करने का अर्थ correct product और supporting resources को defined place/time पर present, usable और reachable check करना है—सिर्फ facility stock count नहीं।",
+  "content_html": "<p>Supply availability operating condition है, warehouse total नहीं। Product तभी available count हो जब intended user correct, usable resource को need के place/time पर access कर सके।</p>\n<h2 id=\"hi165-define\">Available का meaning define करें</h2><p>हर station के लिए required items/condition specify करें: correct product, usable dispenser, sufficient quantity, legible identity, unobstructed access और applicable water, soap, drying या waste resources।</p>\n<h2 id=\"hi165-denominator\">Clear denominator use करें</h2><p>Required stations/points of care की total संख्या और सभी conditions meet करने वालों की संख्या record करें। सिर्फ filled units count करने से missing/non-functional stations hide हो सकती हैं।</p>\n<h2 id=\"hi165-timing\">Operating periods में measure करें</h2><p>Single morning check evening, weekend या peak-use shortage miss कर सकती है। Frequency/timing consumption, refill cycle और facility risk reflect करे।</p>\n<h2 id=\"hi165-separate\">Failure types अलग रखें</h2><p>Empty stock, dispenser fault, blocked access, wrong product, missing drying supply और supply-chain shortage अलग record करें। Causes के corrective owners अलग होते हैं।</p>\n<h2 id=\"hi165-stock\">Point-of-use checks को stock control से connect करें</h2><p>Station observations के साथ consumption, reorder point, lead time और buffer stock track करें। Full storeroom failed last-metre refill process solve नहीं करता।</p>\n<h2 id=\"hi165-trend\">एक score chase करने की जगह trend देखें</h2><p>Availability को location, shift और failure type के अनुसार time के साथ compare करें। Repeated gaps placement, ownership, inspection या supply planning redesign की need दिखाते हैं।</p>\n<h2 id=\"hi165-feedback\">Feedback loop close करें</h2><p>Gap log करें, immediate unavailability correct करें, underlying cause assign करें और closure verify करें। Corrective action के बिना measurement सिर्फ documentation है।</p>\n<h2 id=\"hi165-context\">Availability को practice से separate रखें</h2><p>Availability important system measure है, लेकिन अकेले यह prove नहीं करती कि correct moments पर hand hygiene हुई। Appropriate process/improvement measures भी use करें।</p>\n<h2 id=\"hi165-takeaway\">Practical takeaway</h2><p>Reliable access measure करें: required station पर correct supply, needed time पर usable। Consistent definitions, meaningful timing और closed actions use करें।</p>\n<h2 id=\"hi165-references\">संदर्भ</h2><ol><li id=\"hi165-ref-1\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools\">WHO — Hand Hygiene Monitoring Tools</a>.</li><li id=\"hi165-ref-2\"><a href=\"https://www.who.int/publications/m/item/hand-hygiene-self-assessment-framework-2010\">WHO — Hand Hygiene Self-Assessment Framework</a>.</li><li id=\"hi165-ref-3\"><a href=\"https://qualityhealthservices.who.int/quality-toolkit/qt-catalog-item/a-guide-to-the-implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy\">WHO — Guide to the Multimodal Hand Hygiene Improvement Strategy</a>.</li></ol>",
+  "seo_title": "Hand-Hygiene Supply Availability | Alle's ClinX",
+  "meta_description": "Hand-hygiene supply availability को define, inspect, trend और correct करने का practical framework समझें।",
+  "related_article_ids": [
+    "ACX-KB-0164",
+    "ACX-KB-0163",
+    "ACX-KB-0161"
+  ]
+}

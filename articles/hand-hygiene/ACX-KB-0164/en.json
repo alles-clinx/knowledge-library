@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0164",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Facility Hand-Hygiene Program?",
+  "slug": "what-is-a-facility-hand-hygiene-program",
+  "subcategory": "Hand Hygiene Programs",
+  "subcategory_slug": "hand-hygiene-programs",
+  "excerpt": "A facility hand-hygiene program is a managed system that combines accessible infrastructure and supplies with procedures, training, reminders, monitoring, feedback and leadership support.",
+  "content_html": "<p>A facility hand-hygiene program turns individual hand-cleaning actions into a reliable operating system. It defines what people need, makes the action possible and checks whether the system is working.</p>\n<h2 id=\"system-change\">Start with system change</h2><p>WHO's multimodal strategy begins with infrastructure and supplies: alcohol-based hand rub at the point of care and access to safe water, soap and hygienic drying where handwashing is required.</p>\n<h2 id=\"procedures\">Define responsibilities and procedures</h2><p>Document when each method is used, who owns inspection and refill tasks, how faults are reported, and how stock shortages or service interruptions are handled.</p>\n<h2 id=\"training\">Train for the actual work</h2><p>Training should connect hand-hygiene indications and technique to real workflows. It should cover products in use, glove-related moments, visible-soil decisions and local escalation routes.</p>\n<h2 id=\"reminders\">Use reminders that match the setting</h2><p>Workplace prompts can reinforce expected actions, but reminders do not compensate for empty dispensers, blocked sinks or unclear procedures.</p>\n<h2 id=\"evaluation\">Measure and provide feedback</h2><p>Monitor infrastructure, supply availability, practice and improvement actions using defined methods. Share useful feedback with the teams responsible for correction.</p>\n<h2 id=\"safety-climate\">Build leadership and safety climate</h2><p>Leaders should provide resources, assign accountability and respond to reported barriers. Staff should be able to report a failure without normalising workarounds.</p>\n<h2 id=\"scope\">Adapt the program to facility risk</h2><p>A healthcare hand-hygiene program has clinical indications and infection-prevention controls that differ from an office, school or food-service setting. Use applicable sector guidance and local requirements.</p>\n<h2 id=\"improvement\">Treat improvement as a cycle</h2><p>Assess the current system, prioritise gaps, implement changes, measure again and sustain what works. A one-time training event is not a complete program.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A hand-hygiene program connects supplies, people, procedures and measurement. Reliable improvement requires all of them, supported by leadership and regular review.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://qualityhealthservices.who.int/quality-toolkit/qt-catalog-item/a-guide-to-the-implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy\">WHO — Guide to the Multimodal Hand Hygiene Improvement Strategy</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools\">WHO — Hand Hygiene Monitoring Tools</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li></ol>",
+  "seo_title": "What Is a Facility Hand-Hygiene Program? | Alle's ClinX",
+  "meta_description": "Learn how infrastructure, procedures, training, reminders, measurement, feedback and leadership form a facility hand-hygiene program.",
+  "related_article_ids": [
+    "ACX-KB-0165",
+    "ACX-KB-0161",
+    "ACX-KB-0157"
+  ]
+}

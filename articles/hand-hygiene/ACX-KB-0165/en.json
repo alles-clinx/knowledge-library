@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0165",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Measuring Hand-Hygiene Supply Availability",
+  "slug": "hand-hygiene-supply-availability",
+  "subcategory": "Hand Hygiene Programs",
+  "subcategory_slug": "hand-hygiene-programs",
+  "excerpt": "Measuring hand-hygiene supply availability means checking whether the correct product and supporting resources are present, usable and reachable at defined locations and times—not only whether stock exists somewhere in the facility.",
+  "content_html": "<p>Supply availability is an operating condition, not a warehouse total. A product counts as available only when the intended user can access the correct, usable resource at the place and time it is needed.</p>\n<h2 id=\"define\">Define what available means</h2><p>For each station, specify the required items and condition: correct product, usable dispenser, sufficient quantity, legible identity, unobstructed access and supporting water, soap, drying or waste resources where applicable.</p>\n<h2 id=\"denominator\">Use a clear denominator</h2><p>Record the number of required stations or points of care and the number that meet every defined availability condition. Reporting only the number of filled units can hide missing or non-functional stations.</p>\n<h2 id=\"timing\">Measure across operating periods</h2><p>A single morning check may miss evening, weekend or peak-use shortages. Choose a frequency and timing that reflects consumption, refill cycles and facility risk.</p>\n<h2 id=\"separate\">Separate different failure types</h2><p>Distinguish empty stock, dispenser faults, blocked access, wrong product, missing drying supplies and supply-chain shortage. Different causes need different corrective owners.</p>\n<h2 id=\"stock\">Connect point-of-use checks to stock control</h2><p>Track consumption, reorder points, lead time and buffer stock alongside station observations. A full storeroom does not solve a failed last-metre refill process.</p>\n<h2 id=\"trend\">Trend the measure instead of chasing one score</h2><p>Compare availability by location, shift and failure type over time. Repeated gaps show where placement, ownership, inspection frequency or supply planning needs redesign.</p>\n<h2 id=\"feedback\">Close the feedback loop</h2><p>Log the gap, correct immediate unavailability, assign the underlying cause and verify closure. Measurement without corrective action is only documentation.</p>\n<h2 id=\"context\">Keep availability separate from hand-hygiene practice</h2><p>Availability is an important system measure, but it does not by itself prove that hand hygiene occurred at the correct moments. Combine it with appropriate process and improvement measures.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Measure reliable access: the correct supply, at the required station, usable when needed. Use consistent definitions, meaningful timing and closed corrective actions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/monitoring-tools\">WHO — Hand Hygiene Monitoring Tools</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/publications/m/item/hand-hygiene-self-assessment-framework-2010\">WHO — Hand Hygiene Self-Assessment Framework</a>.</li><li id=\"ref-3\"><a href=\"https://qualityhealthservices.who.int/quality-toolkit/qt-catalog-item/a-guide-to-the-implementation-of-the-who-multimodal-hand-hygiene-improvement-strategy\">WHO — Guide to the Multimodal Hand Hygiene Improvement Strategy</a>.</li></ol>",
+  "seo_title": "Measuring Hand-Hygiene Supply Availability | Alle's ClinX",
+  "meta_description": "Learn how to define, inspect, trend and correct hand-hygiene supply availability at stations and points of care.",
+  "related_article_ids": [
+    "ACX-KB-0164",
+    "ACX-KB-0163",
+    "ACX-KB-0161"
+  ]
+}

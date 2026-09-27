@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0161",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Where Should Hand-Hygiene Stations Be Positioned?",
+  "slug": "where-should-hand-hygiene-stations-be-positioned",
+  "subcategory": "Hand Hygiene Stations",
+  "subcategory_slug": "hand-hygiene-stations",
+  "excerpt": "Hand-hygiene stations should be positioned where the workflow creates a need for hand hygiene, with point-of-care hand rub in clinical settings and accessible handwashing resources where soap and water are required.",
+  "content_html": "<p>Hand-hygiene stations work best when their location matches the moments at which people need to clean their hands. Placement should support the actual workflow, not merely fill an available wall space.</p>\n<h2 id=\"point-of-care\">Support hand hygiene at the point of care</h2><p>WHO describes point of care as the place where the patient, healthcare worker and care involving contact come together. Alcohol-based hand rub should be available as close as practical to that point when it is the indicated method.</p>\n<h2 id=\"transitions\">Place access at important transitions</h2><p>Entrances, exits, care zones, shared-equipment areas, food-handling transitions and other workflow boundaries can create predictable hand-hygiene needs. Map those movements before choosing locations.</p>\n<h2 id=\"handwashing\">Keep handwashing available for washing indications</h2><p>Hand rub does not replace sinks, soap and hygienic drying where hands must be washed, including when they are visibly soiled. Users should be able to reach the appropriate method without unnecessary delay.</p>\n<h2 id=\"reachable\">Make stations visible and reachable</h2><p>A station is not functionally available if it is hidden, obstructed, empty or difficult to operate. Position controls and supplies so intended users can identify and reach them safely.</p>\n<h2 id=\"maintenance\">Include the refill and inspection route</h2><p>Staff need safe access to inspect, clean, service and refill each station. Placement that makes maintenance difficult often turns a present dispenser into an unavailable one.</p>\n<h2 id=\"safety\">Apply fire, building and manufacturer requirements</h2><p>Alcohol-based hand-rub dispensers require a location-specific safety review. WHO advises keeping them away from ignition sources and medical-gas outlets; facilities should also follow applicable local codes and manufacturer instructions.</p>\n<h2 id=\"review\">Review placement after use begins</h2><p>Observe whether people pass the station at the required moment, whether queues or obstructions form, and whether supplies remain available. Relocate or add access points when the workflow shows a persistent gap.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Position hand-hygiene resources at the need: point-of-care hand rub where appropriate, handwashing facilities where washing is required, and reliable access at important workflow transitions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools\">WHO — Hand Hygiene Implementation Tools</a>.</li><li id=\"ref-2\"><a href=\"https://www.who.int/news-room/questions-and-answers/item/alcohol-based-handrub-risks-hazards\">WHO — Alcohol-Based Handrub Risks and Hazards</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li></ol>",
+  "seo_title": "Where Should Hand-Hygiene Stations Be Positioned? | Alle's ClinX",
+  "meta_description": "Learn how workflow, point-of-care access, handwashing needs, maintenance and safety should guide hand-hygiene station placement.",
+  "related_article_ids": [
+    "ACX-KB-0160",
+    "ACX-KB-0158",
+    "ACX-KB-0159"
+  ]
+}

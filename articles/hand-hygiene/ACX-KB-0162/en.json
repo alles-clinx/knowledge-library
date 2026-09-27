@@ -1,0 +1,25 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0162",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Dispenser Design Matters for Hand Hygiene",
+  "slug": "why-dispenser-design-matters-for-hand-hygiene",
+  "subcategory": "Dispensers & Refills",
+  "subcategory_slug": "dispensers-refills",
+  "excerpt": "Hand-hygiene dispenser design affects whether the product is easy to identify, reach, dispense and maintain without contamination, leakage, missed doses or avoidable workflow friction.",
+  "content_html": "<p>A hand-hygiene dispenser is part of the delivery system, not just a container holder. Its design can support or obstruct access, correct product delivery, maintenance and safe use.</p>\n<h2 id=\"recognition\">Users should recognise the product and purpose</h2><p>Clear identification helps people distinguish soap from hand rub and understand where each method is expected. Labels and instructions should remain legible after installation.</p>\n<h2 id=\"operation\">Operation should be simple and reliable</h2><p>The control should be easy for intended users to reach and activate. A dispenser that sticks, leaks, needs excessive force or delivers inconsistently creates an avoidable barrier.</p>\n<h2 id=\"dose\">Delivery should follow the product instructions</h2><p>The dispenser and refill must be compatible so the intended amount can be delivered. Facilities should not assume that every pump, nozzle or refill works interchangeably.</p>\n<h2 id=\"contamination\">The refill path should control contamination risk</h2><p>CDC warns against refilling or topping off alcohol-based hand-sanitizer containers because contamination, evaporation and other performance problems can result. Soap dispensers should not be topped off either.</p>\n<h2 id=\"inspection\">Condition should be easy to inspect</h2><p>Staff should be able to identify low stock, damage, leakage, blockage and poor cleanliness before the product is needed. The design should support the facility's documented inspection process.</p>\n<h2 id=\"cleaning\">External surfaces should be maintainable</h2><p>Frequently touched parts need routine cleaning under the facility procedure. Complex crevices, persistent drips or inaccessible mounting areas can make maintenance harder.</p>\n<h2 id=\"placement\">Design and placement must work together</h2><p>A well-designed unit still fails if it is hidden, mounted out of reach or located near an ignition hazard. Select the dispenser only after considering users, workflow, mounting and applicable safety rules.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Choose a dispenser as a complete operating system: clear product identity, reliable delivery, compatible refills, inspectable condition, maintainable surfaces and safe placement.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm\">CDC — Guideline for Hand Hygiene in Health-Care Settings</a>.</li><li id=\"ref-3\"><a href=\"https://www.who.int/news-room/questions-and-answers/item/alcohol-based-handrub-risks-hazards\">WHO — Alcohol-Based Handrub Risks and Hazards</a>.</li></ol>",
+  "seo_title": "Why Dispenser Design Matters for Hand Hygiene | Alle's ClinX",
+  "meta_description": "Learn how dispenser identification, operation, dose delivery, refill compatibility, inspection, cleaning and placement affect hand-hygiene access.",
+  "related_article_ids": [
+    "ACX-KB-0163",
+    "ACX-KB-0161",
+    "ACX-KB-0160"
+  ]
+}

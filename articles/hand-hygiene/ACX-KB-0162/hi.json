@@ -1,0 +1,27 @@
+{
+  "category": "Hand Hygiene",
+  "category_slug": "hand-hygiene",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0162",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0162",
+  "title": "Hand hygiene के लिए dispenser design क्यों matter करती है",
+  "slug": "why-dispenser-design-matters-for-hand-hygiene",
+  "subcategory": "Dispensers & Refills",
+  "subcategory_slug": "dispensers-refills",
+  "excerpt": "Hand-hygiene dispenser design affect करती है कि product identify, reach, dispense और maintain करना कितना easy है—बिना contamination, leakage या avoidable workflow friction के।",
+  "content_html": "<p>Hand-hygiene dispenser सिर्फ container holder नहीं, delivery system का हिस्सा है। Design access, correct product delivery, maintenance और safe use को support या obstruct कर सकती है।</p>\n<h2 id=\"hi162-recognition\">Product और purpose clear होने चाहिए</h2><p>Clear identification users को soap और hand rub distinguish करने में help करती है। Installation के बाद labels/instructions legible रहें।</p>\n<h2 id=\"hi162-operation\">Operation simple और reliable हो</h2><p>Control intended users के लिए reachable और easy to activate हो। Sticking, leaking या inconsistent dispenser avoidable barrier बनाती है।</p>\n<h2 id=\"hi162-dose\">Delivery product instructions follow करे</h2><p>Dispenser और refill compatible हों ताकि intended amount deliver हो। हर pump, nozzle या refill को interchangeable assume न करें।</p>\n<h2 id=\"hi162-contamination\">Refill path contamination risk control करे</h2><p>CDC alcohol-based hand-sanitizer containers को refill/top off करने के against warn करता है क्योंकि contamination, evaporation या performance problems हो सकती हैं। Soap dispensers भी top off न करें।</p>\n<h2 id=\"hi162-inspection\">Condition inspect करना easy हो</h2><p>Product needed होने से पहले low stock, damage, leakage, blockage और poor cleanliness identify हो सके। Design documented inspection process support करे।</p>\n<h2 id=\"hi162-cleaning\">External surfaces maintainable हों</h2><p>Frequently touched parts facility procedure के अनुसार routine clean हों। Complex crevices, drips या inaccessible mounting maintenance difficult बनाते हैं।</p>\n<h2 id=\"hi162-placement\">Design और placement साथ work करें</h2><p>Good unit hidden, out of reach या ignition hazard के near हो तो fail करती है। Selection में users, workflow, mounting और safety rules consider करें।</p>\n<h2 id=\"hi162-takeaway\">Practical takeaway</h2><p>Dispenser को complete operating system की तरह choose करें: clear identity, reliable delivery, compatible refills, inspectable condition, maintainable surfaces और safe placement।</p>\n<h2 id=\"hi162-references\">संदर्भ</h2><ol><li id=\"hi162-ref-1\"><a href=\"https://www.cdc.gov/clean-hands/hcp/clinical-safety/\">CDC — Clinical Safety: Hand Hygiene for Healthcare Workers</a>.</li><li id=\"hi162-ref-2\"><a href=\"https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm\">CDC — Guideline for Hand Hygiene in Health-Care Settings</a>.</li><li id=\"hi162-ref-3\"><a href=\"https://www.who.int/news-room/questions-and-answers/item/alcohol-based-handrub-risks-hazards\">WHO — Alcohol-Based Handrub Risks and Hazards</a>.</li></ol>",
+  "seo_title": "Hand-Hygiene Dispenser Design | Alle's ClinX",
+  "meta_description": "Identification, operation, delivery, refill compatibility, inspection, cleaning और placement dispenser performance को कैसे affect करते हैं समझें।",
+  "related_article_ids": [
+    "ACX-KB-0163",
+    "ACX-KB-0161",
+    "ACX-KB-0160"
+  ]
+}
