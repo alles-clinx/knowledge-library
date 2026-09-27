@@ -163,6 +163,47 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
         if 'type="button"' not in button and 'type="submit"' not in button:
             errors.append(f"Button missing explicit type: {rel}: {button[:100]}")
 
+
+    if __import__("re").search(r'\.article\{\s*--reading-size\s*:\s*16px', html):
+        errors.append(f"Mobile reading-size override regression: {rel}")
+
+    for share_type in ("email","whatsapp","x","linkedin","facebook","telegram","reddit"):
+        count=html.count(f'data-share="{share_type}"')
+        if count != 2:
+            errors.append(f"Share target count failure: {rel} ({share_type} {count}/2)")
+
+    for save_action in ("bookmark","save","print"):
+        count=html.count(f'data-save-action="{save_action}"')
+        if count != 2:
+            errors.append(f"Save action count failure: {rel} ({save_action} {count}/2)")
+
+    toc_blocks=__import__("re").findall(r'<nav aria-label="On this page" class="toc">[\s\S]*?</nav>', html)
+    for block in toc_blocks:
+        for anchor in __import__("re").findall(r'href="#([^"]+)"', block):
+            if anchor not in section_ids:
+                errors.append(f"Mobile TOC target missing: {rel} -> #{anchor}")
+
+    lang_blocks=__import__("re").findall(r'<nav aria-label="Article language"[^>]*>[\s\S]*?</nav>', html)
+    for block in lang_blocks:
+        for href in __import__("re").findall(r'href="([^"]+)"', block):
+            if not href.startswith("/knowledge-library/"):
+                errors.append(f"Language target outside Knowledge base: {rel} -> {href}")
+                continue
+            local=href.removeprefix("/knowledge-library/")
+            target_path=ROOT/"docs"/local
+            if href.endswith("/"):
+                target_path=target_path/"index.html"
+            if not target_path.exists():
+                errors.append(f"Language target missing: {rel} -> {href}")
+
+    for token in [
+        "btn.disabled = size <= 15;",
+        "btn.disabled = size >= 21;",
+        "const isTouchDevice = window.matchMedia('(pointer: coarse)').matches;",
+    ]:
+        if token not in html:
+            errors.append(f"Interaction hardening missing: {rel} ({token})")
+
 site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
 site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
