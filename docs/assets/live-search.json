@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 310,
+  "record_count": 320,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3412,6 +3412,116 @@
       "subcategory_slug": "hand-sanitising",
       "excerpt": "Hand sanitiser और handwashing का difference visibly dirty hands, physical contaminant removal या setting-specific soap-and-water requirements में सबसे important होता है।",
       "url": "library/hand-hygiene/hand-sanitising/when-is-hand-sanitiser-different-from-handwashing/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0156",
+      "locale": "en",
+      "title": "Why Visible Soil Changes Hand-Hygiene Choice",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Sanitising",
+      "subcategory_slug": "hand-sanitising",
+      "excerpt": "Visible soil changes hand-hygiene choice because alcohol-based hand sanitizer does not physically remove dirt, grease or organic material. In healthcare, visibly soiled hands should be washed with soap and water.",
+      "url": "library/hand-hygiene/hand-sanitising/why-visible-soil-changes-hand-hygiene-choice/"
+    },
+    {
+      "article_id": "ACX-KB-0156",
+      "locale": "hi-IN",
+      "title": "Visible soil hand-hygiene choice क्यों बदलती है",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Sanitising",
+      "subcategory_slug": "hand-sanitising",
+      "excerpt": "Visible soil hand-hygiene choice बदलती है क्योंकि alcohol-based sanitizer dirt, grease या organic material physically remove नहीं करती। Healthcare में visibly soiled hands soap और water से wash करनी चाहिए।",
+      "url": "library/hand-hygiene/hand-sanitising/why-visible-soil-changes-hand-hygiene-choice/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0157",
+      "locale": "en",
+      "title": "What Is Clinical Hand Hygiene?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Clinical Hand Hygiene",
+      "subcategory_slug": "clinical-hand-hygiene",
+      "excerpt": "Clinical hand hygiene is the structured cleaning of healthcare personnel's hands at defined moments before, during and after patient care to reduce transmission between patients, staff, equipment and the care environment.",
+      "url": "library/hand-hygiene/clinical-hand-hygiene/what-is-clinical-hand-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0157",
+      "locale": "hi-IN",
+      "title": "Clinical hand hygiene क्या है?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Clinical Hand Hygiene",
+      "subcategory_slug": "clinical-hand-hygiene",
+      "excerpt": "Clinical hand hygiene patient care के defined moments पर healthcare personnel की hands clean करने की structured practice है, ताकि patients, staff, equipment और environment के बीच transmission कम हो।",
+      "url": "library/hand-hygiene/clinical-hand-hygiene/what-is-clinical-hand-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0158",
+      "locale": "en",
+      "title": "Why Hand-Hygiene Access Matters in Healthcare",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Clinical Hand Hygiene",
+      "subcategory_slug": "clinical-hand-hygiene",
+      "excerpt": "Hand-hygiene access matters because healthcare workers need to clean their hands at multiple defined moments during care. Supplies that are distant, blocked or unavailable create practical barriers to timely hand hygiene.",
+      "url": "library/hand-hygiene/clinical-hand-hygiene/why-hand-hygiene-access-matters-in-healthcare/"
+    },
+    {
+      "article_id": "ACX-KB-0158",
+      "locale": "hi-IN",
+      "title": "Healthcare में hand-hygiene access क्यों matter करती है",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Clinical Hand Hygiene",
+      "subcategory_slug": "clinical-hand-hygiene",
+      "excerpt": "Healthcare workers को care के कई defined moments पर hands clean करनी होती हैं। Distant, blocked या unavailable supplies timely hand hygiene में practical barriers बनाती हैं।",
+      "url": "library/hand-hygiene/clinical-hand-hygiene/why-hand-hygiene-access-matters-in-healthcare/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0159",
+      "locale": "en",
+      "title": "How Product Placement Supports Clinical Hand Hygiene",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Clinical Hand Hygiene",
+      "subcategory_slug": "clinical-hand-hygiene",
+      "excerpt": "Product placement supports clinical hand hygiene when alcohol-based hand rub is positioned at or near the point of care, supplies are visible and reachable, and placement considers workflow, maintenance and safety.",
+      "url": "library/hand-hygiene/clinical-hand-hygiene/how-product-placement-supports-clinical-hand-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0159",
+      "locale": "hi-IN",
+      "title": "Product placement clinical hand hygiene को कैसे support करती है",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Clinical Hand Hygiene",
+      "subcategory_slug": "clinical-hand-hygiene",
+      "excerpt": "Clinical hand hygiene तब better supported होती है जब alcohol-based hand rub point of care के near हो, supplies visible/reachable हों और placement workflow, maintenance तथा safety consider करे।",
+      "url": "library/hand-hygiene/clinical-hand-hygiene/how-product-placement-supports-clinical-hand-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0160",
+      "locale": "en",
+      "title": "What Should a Hand-Hygiene Station Include?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Stations",
+      "subcategory_slug": "hand-hygiene-stations",
+      "excerpt": "A hand-hygiene station should provide the resources needed for the expected method: reliable water, soap and hygienic drying for handwashing, and appropriately placed hand rub where alcohol-based hand sanitising is used.",
+      "url": "library/hand-hygiene/hand-hygiene-stations/what-should-a-hand-hygiene-station-include/"
+    },
+    {
+      "article_id": "ACX-KB-0160",
+      "locale": "hi-IN",
+      "title": "Hand-hygiene station में क्या include होना चाहिए?",
+      "category": "Hand Hygiene",
+      "category_slug": "hand-hygiene",
+      "subcategory": "Hand Hygiene Stations",
+      "subcategory_slug": "hand-hygiene-stations",
+      "excerpt": "Hand-hygiene station expected method के resources provide करे: handwashing के लिए reliable water, soap और hygienic drying; और sanitising के लिए appropriately placed hand rub।",
+      "url": "library/hand-hygiene/hand-hygiene-stations/what-should-a-hand-hygiene-station-include/hi.html"
     }
   ]
 }
