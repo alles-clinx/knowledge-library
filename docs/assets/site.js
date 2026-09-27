@@ -3,12 +3,12 @@
   const siteIcon=document.createElement('link');
   siteIcon.rel='icon';
   siteIcon.type='image/svg+xml';
-  siteIcon.href='/knowledge-library/assets/favicon.svg?v=20260927';
+  siteIcon.href='/knowledge-library/assets/favicon.svg?v=20260927-2';
   document.head.appendChild(siteIcon);
 
   const shortcutIcon=document.createElement('link');
   shortcutIcon.rel='shortcut icon';
-  shortcutIcon.href='/knowledge-library/assets/favicon.svg?v=20260927';
+  shortcutIcon.href='/knowledge-library/assets/favicon.svg?v=20260927-2';
   document.head.appendChild(shortcutIcon);
 
   if(window.__ACX_SITE_SHELL__) return;
