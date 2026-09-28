@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0198",
+  "slug": "phenolic-vs-quaternary-disinfectants",
+  "subcategory": "Disinfectant Actives",
+  "subcategory_slug": "disinfectant-actives",
+  "related_article_ids": [
+    "ACX-KB-0196",
+    "ACX-KB-0197",
+    "ACX-KB-0189"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0198",
+  "title": "Phenolic बनाम Quaternary Disinfectants",
+  "excerpt": "Phenolic और quaternary disinfectants अलग chemical families हैं जिनके antimicrobial profiles, compatibility considerations और product-specific label claims अलग होते हैं.",
+  "content_html": "<p>Phenolic और quaternary ammonium disinfectants environmental disinfection में उपयोग होने वाली दो अलग chemical families हैं। दोनों EPA-registered products में मिल सकते हैं, लेकिन केवल disinfectant कहलाने के कारण इन्हें interchangeable नहीं मानना चाहिए।</p>\n<h2 id=\"hi198-phenolic\">Phenolic disinfectants</h2><p>Phenolic disinfectants phenol derivatives को antimicrobial active ingredients के रूप में उपयोग करते हैं। CDC labeled conditions के तहत commercial phenolics की कई bacteria, fungi और viruses के खिलाफ activity बताता है, साथ ही surface और exposure limitations भी बताता है।</p>\n<h2 id=\"hi198-quat\">Quaternary disinfectants</h2><p>Quaternary ammonium products positive-charge ammonium compounds को active ingredients के रूप में उपयोग करते हैं। CDC इन्हें environmental sanitation में व्यापक बताता है और यह भी स्पष्ट करता है कि उनका spectrum हर organism class पर समान नहीं होता।</p>\n<h2 id=\"hi198-differences\">दोनों families की limitations अलग हैं</h2><p>Phenolics और quats chemistry, antimicrobial spectrum, material compatibility और material interactions में अलग होते हैं। Product selection में ये अंतर महत्वपूर्ण हैं।</p>\n<h2 id=\"hi198-label\">Family name से अधिक product label महत्वपूर्ण है</h2><p>एक ही chemical family के दो products के registered organisms, surfaces और use sites अलग हो सकते हैं। Approved claims actual product के EPA registration और label से तय होते हैं।</p>\n<h2 id=\"hi198-not-mixing\">इनका comparison mixing का आधार नहीं है</h2><p>Disinfectant families की तुलना product selection समझने के लिए उपयोगी है, लेकिन उन्हें मिलाने का आधार नहीं। केवल registered products को label और institutional procedure के अनुसार उपयोग किया जाना चाहिए।</p>\n<h2 id=\"hi198-takeaway\">मुख्य बात</h2><p>Phenolic और quaternary disinfectants अलग tools हैं। चयन exact registered product, target use, material compatibility और approved infection-control procedure पर आधारित होना चाहिए।</p>\n<h2 id=\"hi198-references\">संदर्भ</h2><ol><li id=\"hi198-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html\">CDC — Chemical Disinfectants</a>.</li><li id=\"hi198-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi198-ref-3\"><a href=\"https://www.epa.gov/pesticide-registration/list-n-tool-covid-19-disinfectants\">US EPA — List N Tool</a>.</li></ol>",
+  "seo_title": "Phenolic बनाम Quaternary Disinfectants | Alle's ClinX",
+  "meta_description": "Phenolic और quaternary disinfectants अलग chemical families हैं जिनके antimicrobial profiles, compatibility considerations और product-specific label claims अलग होते हैं."
+}

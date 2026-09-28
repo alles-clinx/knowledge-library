@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0197",
+  "slug": "what-are-quaternary-ammonium-compounds",
+  "subcategory": "Disinfectant Actives",
+  "subcategory_slug": "disinfectant-actives",
+  "related_article_ids": [
+    "ACX-KB-0196",
+    "ACX-KB-0198",
+    "ACX-KB-0194"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0197",
+  "title": "Quaternary Ammonium Compounds क्या हैं?",
+  "excerpt": "Quaternary ammonium compounds एक chemical family है जिसमें cationic surfactants और कई registered low-level environmental disinfectants में उपयोग होने वाले active ingredients शामिल हैं.",
+  "content_html": "<p>Quaternary ammonium compounds, जिन्हें अक्सर “quats” कहा जाता है, सकारात्मक charge वाले organic compounds का परिवार है। इस family के कुछ सदस्य cationic surfactants हैं और कुछ EPA-registered disinfectant products में active ingredients के रूप में उपयोग होते हैं।</p>\n<h2 id=\"hi197-chemistry\">यह एक chemical family है, एक single substance नहीं</h2><p>अलग quaternary ammonium compounds की structure और properties अलग होती हैं। CDC healthcare disinfectant formulations में alkyl dimethyl benzyl ammonium chloride और dialkyl dimethyl ammonium compounds जैसे उदाहरण देता है।</p>\n<h2 id=\"hi197-surface\">Environmental surface disinfection में इनका व्यापक उपयोग होता है</h2><p>CDC EPA-registered quaternary ammonium products को noncritical surfaces और intact skin से संपर्क करने वाले कुछ equipment की environmental sanitation में आम बताता है।</p>\n<h2 id=\"hi197-spectrum\">Antimicrobial spectrum की सीमाएँ होती हैं</h2><p>CDC के अनुसार quaternary ammonium disinfectants कई bacteria, fungi और enveloped viruses पर प्रभावी हो सकते हैं, लेकिन हर organism type पर समान नहीं। किसी specific product के लिए उसके label claims ही authoritative होते हैं।</p>\n<h2 id=\"hi197-interference\">सामग्री और conditions प्रदर्शन प्रभावित कर सकते हैं</h2><p>CDC बताता है कि water hardness और कुछ wiping materials कुछ systems में उपलब्ध quat concentration घटा सकते हैं। इसलिए compatible materials और registered product system का पालन महत्वपूर्ण है।</p>\n<h2 id=\"hi197-safety\">Use label और procedure पर निर्भर है</h2><p>Quat disinfectants में occupational और surface-compatibility considerations हो सकते हैं। Product hazard information और approved workplace procedures मानें; इन्हें दूसरे cleaning या disinfecting chemicals के साथ न मिलाएँ।</p>\n<h2 id=\"hi197-takeaway\">मुख्य बात</h2><p>Quats कई environmental disinfectants में उपयोग होने वाली महत्वपूर्ण chemical family हैं, लेकिन performance और allowed claims specific registered product से तय होते हैं।</p>\n<h2 id=\"hi197-references\">संदर्भ</h2><ol><li id=\"hi197-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html\">CDC — Chemical Disinfectants: Quaternary Ammonium Compounds</a>.</li><li id=\"hi197-ref-2\"><a href=\"https://www.epa.gov/pesticide-registration/list-n-tool-covid-19-disinfectants\">US EPA — List N Tool</a>.</li></ol>",
+  "seo_title": "Quaternary Ammonium Compounds क्या हैं? | Alle's ClinX",
+  "meta_description": "Quaternary ammonium compounds एक chemical family है जिसमें cationic surfactants और कई registered low-level environmental disinfectants में उपयोग होने वाले active ingredients शामिल हैं."
+}
