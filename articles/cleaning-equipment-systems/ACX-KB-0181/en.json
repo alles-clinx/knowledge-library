@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0181",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Should an Equipment Maintenance Log Track?",
+  "slug": "what-should-an-equipment-maintenance-log-track",
+  "subcategory": "Equipment Maintenance",
+  "subcategory_slug": "equipment-maintenance",
+  "excerpt": "A useful maintenance log records equipment identity, inspection dates, findings, work performed, parts changed, faults, downtime and who completed or approved the work.",
+  "content_html": "<p>An equipment maintenance log is a service record that shows what was checked, what was found and what action was taken. Its value is not the amount of paperwork it creates; it is whether someone can use the record to understand the machine's condition and maintenance history.</p>\n<h2 id=\"identity\">Identify the equipment clearly</h2><p>Record the machine type, asset or serial number, location or assigned area and any other identifier needed to distinguish it from similar equipment. A maintenance entry is only useful if it can be tied to the correct machine.</p>\n<h2 id=\"date-hours\">Record when the check occurred</h2><p>Include the inspection or service date and, where the equipment programme uses them, operating hours or cycle counts. The manufacturer may define maintenance intervals by calendar time, hours of use or both.</p>\n<h2 id=\"inspection\">Document what was inspected</h2><p>Use a defined checklist rather than a vague note such as “checked machine.” Depending on the equipment, the log may cover brushes or pads, squeegees, filters, tanks, hoses, wheels, cables, batteries, controls, guards and other model-specific components.</p>\n<h2 id=\"findings\">Record condition and faults</h2><p>Note wear, leaks, blockages, unusual noise, weak recovery, charging problems, damaged parts or other observations that could affect performance or safety. If an item is acceptable, the log should make that clear as well.</p>\n<h2 id=\"action\">Record the action taken</h2><p>State whether the item was cleaned, adjusted, repaired, replaced, lubricated, calibrated or referred for technical service. Where a part is replaced, record the relevant part or service detail when the facility procedure requires it.</p>\n<h2 id=\"responsibility\">Show responsibility and follow-up</h2><p>Identify the person who performed the inspection or service and, where required, the person who reviewed or approved the work. If repair is deferred, record the restriction, service status and next action so an unresolved fault is not lost between shifts.</p>\n<h2 id=\"patterns\">Use the log to find patterns</h2><p>Repeated entries can reveal recurring failures, short component life, overdue service or an operating condition that needs investigation. CDC guidance recommends a monitoring and maintenance schedule that documents reusable equipment, inspection frequency and responsible staff, and it specifically advises keeping service records for equipment that requires qualified maintenance.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A strong maintenance log answers seven questions: which machine, when, what was checked, what was found, what was done, who did it and what happens next.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>",
+  "seo_title": "What Should an Equipment Maintenance Log Track? | Alle's ClinX",
+  "meta_description": "Learn what to record in a cleaning-equipment maintenance log, from asset identity and inspections to faults, repairs, responsibility and follow-up.",
+  "related_article_ids": [
+    "ACX-KB-0180",
+    "ACX-KB-0182",
+    "ACX-KB-0183"
+  ]
+}

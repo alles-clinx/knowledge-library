@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0182",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Cleaning Equipment Performance Declines Over Time",
+  "slug": "why-cleaning-equipment-performance-declines-over-time",
+  "subcategory": "Equipment Troubleshooting",
+  "subcategory_slug": "equipment-troubleshooting",
+  "excerpt": "Cleaning-machine performance often declines gradually as wear, contamination, blockage, battery condition, adjustment and neglected maintenance change how the system works.",
+  "content_html": "<p>Cleaning equipment does not usually move from “perfect” to “failed” in one step. Performance often declines gradually as components wear, soil builds up, adjustments change and maintenance is delayed. Recognising that drift early makes troubleshooting easier.</p>\n<h2 id=\"wear\">Wear changes contact with the surface</h2><p>Brushes, pads, squeegee blades, seals and wheels all change with use. A worn component may still look serviceable while producing less agitation, poorer water pickup, uneven pressure or streaking.</p>\n<h2 id=\"restriction\">Dirt and blockage reduce flow</h2><p>Filters, hoses, nozzles, screens and recovery paths can collect debris. A partial restriction may reduce airflow or solution delivery without stopping the machine completely, which is why routine cleaning and inspection matter.</p>\n<h2 id=\"battery\">Energy supply can affect output</h2><p>Battery-powered equipment may show shorter run time or reduced usable capacity as batteries age or charging conditions deteriorate. Cables, plugs or other power components can also create intermittent problems. Follow the equipment manual for battery care and qualified electrical service.</p>\n<h2 id=\"adjustment\">Settings and adjustments can drift</h2><p>Squeegee angle, brush pressure, solution flow, dosing calibration and other adjustable functions can move away from the intended setup after wear, service or repeated handling. A machine can therefore run without producing the same result it produced when correctly configured.</p>\n<h2 id=\"maintenance\">Deferred maintenance compounds small problems</h2><p>A clogged filter can increase strain elsewhere; a worn blade can leave water that operators try to compensate for with slower or repeated passes. Preventive maintenance helps identify the original fault before workarounds create a second problem.</p>\n<h2 id=\"environment\">The operating environment also changes</h2><p>Different soil, floor finishes, carpet condition, water quality, temperature or area congestion can make the same machine appear weaker. Before assuming the machine has failed, compare the current task with the conditions under which it previously performed well.</p>\n<h2 id=\"trend\">Use records to separate drift from sudden failure</h2><p>Maintenance and performance records can show whether recovery, run time, part life or cleaning quality has been declining over several weeks. CDC recommends routine inspection and maintenance schedules for reusable cleaning equipment, while OSHA safety-management guidance recommends routine preventive maintenance to help prevent incidents caused by equipment failure.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Performance decline is usually a trend, not a mystery. Check wear, cleanliness, flow, energy supply, adjustment, maintenance history and operating conditions before replacing the machine or changing the cleaning chemistry.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/safety-management/hazard-prevention\">OSHA — Hazard Prevention and Control</a>.</li></ol>",
+  "seo_title": "Why Cleaning Equipment Performance Declines Over Time | Alle's ClinX",
+  "meta_description": "Understand how wear, blockage, batteries, adjustment, deferred maintenance and changing conditions can gradually reduce cleaning-machine performance.",
+  "related_article_ids": [
+    "ACX-KB-0180",
+    "ACX-KB-0181",
+    "ACX-KB-0183"
+  ]
+}
