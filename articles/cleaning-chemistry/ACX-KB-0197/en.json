@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0197",
+  "slug": "what-are-quaternary-ammonium-compounds",
+  "subcategory": "Disinfectant Actives",
+  "subcategory_slug": "disinfectant-actives",
+  "related_article_ids": [
+    "ACX-KB-0196",
+    "ACX-KB-0198",
+    "ACX-KB-0194"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Are Quaternary Ammonium Compounds?",
+  "excerpt": "Quaternary ammonium compounds are a chemical family that includes cationic surfactants and active ingredients used in many registered low-level environmental disinfectants.",
+  "content_html": "<p>Quaternary ammonium compounds, often shortened to “quats,” are a family of positively charged organic compounds. Some members of this family are used as cationic surfactants, and some are active ingredients in EPA-registered disinfectant products.</p>\n<h2 id=\"chemistry\">They are a chemical family, not one single substance</h2><p>Different quaternary ammonium compounds have different structures and properties. CDC lists examples such as alkyl dimethyl benzyl ammonium chloride and dialkyl dimethyl ammonium compounds in healthcare disinfectant formulations.</p>\n<h2 id=\"surface\">They are common in environmental surface disinfection</h2><p>CDC identifies EPA-registered quaternary ammonium products as commonly used for ordinary environmental sanitation of noncritical surfaces and certain equipment that contacts intact skin.</p>\n<h2 id=\"spectrum\">Their antimicrobial spectrum has limits</h2><p>CDC notes that quaternary ammonium disinfectants are generally effective against many bacteria, fungi and enveloped viruses, but they are not universally effective against every organism type. Product-specific label claims determine what a particular registered disinfectant can be expected to control.</p>\n<h2 id=\"interference\">Materials and conditions can affect performance</h2><p>CDC reports that water hardness and some wiping materials can reduce available quat concentration in certain systems. This is one reason facilities should use compatible materials and follow the registered product system rather than improvising substitutes.</p>\n<h2 id=\"safety\">Use is label- and procedure-dependent</h2><p>Quaternary ammonium disinfectants can have occupational and surface-compatibility considerations. Follow product hazard information and approved workplace procedures; do not combine them with other cleaning or disinfecting chemicals.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Quats are an important chemical family used in many environmental disinfectants, but their performance and allowed claims belong to the specific registered product, not to the family name alone.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html\">CDC — Chemical Disinfectants: Quaternary Ammonium Compounds</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/pesticide-registration/list-n-tool-covid-19-disinfectants\">US EPA — List N Tool</a>.</li></ol>",
+  "seo_title": "What Are Quaternary Ammonium Compounds? | Alle's ClinX",
+  "meta_description": "Quaternary ammonium compounds are a chemical family that includes cationic surfactants and active ingredients used in many registered low-level environmental disinfectants."
+}
