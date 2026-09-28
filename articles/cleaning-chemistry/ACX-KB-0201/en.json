@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0201",
+  "slug": "why-enzyme-performance-depends-on-conditions",
+  "subcategory": "Enzymes",
+  "subcategory_slug": "enzymes",
+  "related_article_ids": [
+    "ACX-KB-0199",
+    "ACX-KB-0200",
+    "ACX-KB-0187"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Enzyme Performance Depends on Conditions",
+  "excerpt": "Enzyme activity depends on formulation and environmental conditions such as pH, temperature, water, stability and the type of soil being targeted.",
+  "content_html": "<p>Enzymes are active biological molecules, so their performance is sensitive to the conditions around them. A formulation has to keep the enzyme stable enough to reach the intended soil and active enough to contribute during use.</p>\n<h2 id=\"ph\">pH affects enzyme structure and activity</h2><p>Each enzyme has a range in which its structure and catalytic activity are better maintained. Moving too far outside that range can reduce performance or stability.</p>\n<h2 id=\"temperature\">Temperature changes reaction behaviour</h2><p>Temperature influences reaction rate and protein stability. Conditions that are too low may slow activity, while excessive heat can damage enzyme structure. Product formulation and label directions account for the intended operating range.</p>\n<h2 id=\"water\">Water conditions can matter</h2><p>Dissolved minerals and other components in the cleaning solution can interact with enzymes or other ingredients. Stabilisation systems are therefore an important part of enzyme-containing formulations.</p>\n<h2 id=\"storage\">Storage stability matters before use</h2><p>An enzyme must remain sufficiently stable during transport and storage as well as during cleaning. EPA maintains separate Safer Choice criteria for enzymes and enzyme stabilisers, reflecting the importance of both the active protein and the system that protects it.</p>\n<h2 id=\"soil\">The right enzyme still needs the right soil</h2><p>Even under ideal conditions, an enzyme cannot be expected to work equally on unrelated soil types. Selectivity and operating conditions have to be considered together.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Enzyme performance depends on a controlled environment created by the formulation. pH, temperature, water, stability and soil type all influence whether an enzyme can do its intended job.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-enzymes-and-enzyme-stabilizers\">US EPA — Safer Choice Criteria for Enzymes and Enzyme Stabilizers</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Why Enzyme Performance Depends on Conditions | Alle's ClinX",
+  "meta_description": "Enzyme activity depends on formulation and environmental conditions such as pH, temperature, water, stability and the type of soil being targeted."
+}
