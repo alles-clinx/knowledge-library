@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0192",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Are Surfactants?",
+  "slug": "what-are-surfactants",
+  "subcategory": "Surfactants",
+  "subcategory_slug": "surfactants",
+  "excerpt": "Surfactants are functional ingredients that reduce surface tension and help cleaning solutions wet surfaces, interact with soil and keep loosened material dispersed for removal.",
+  "content_html": "<p>Surfactants are ingredients that change how liquids behave at surfaces and interfaces. In cleaning products, one of their main roles is reducing surface tension so water-based solution can spread and contact soil more effectively.</p>\n<h2 id=\"structure\">Surfactants interact with water and oily material differently</h2><p>A surfactant molecule has regions with different affinities. This allows surfactants to position themselves at boundaries between water, air, oil and solid surfaces, changing how those materials interact.</p>\n<h2 id=\"wetting\">They improve wetting</h2><p>Plain water can bead on some surfaces. By lowering surface tension, surfactants help a cleaning solution spread over a larger area and reach irregularities that poorly wetting water may not contact as effectively.</p>\n<h2 id=\"soil\">They can help detach and disperse soil</h2><p>In a suitable formulation, surfactants can help loosen oily or particulate material from a surface and keep it dispersed in the cleaning solution until it is wiped, rinsed or recovered.</p>\n<h2 id=\"types\">There are different surfactant classes</h2><p>Surfactants are commonly grouped by the electrical character of the part that interacts with water, including anionic, nonionic, cationic and amphoteric types. The appropriate class depends on the product's intended function and the rest of the formulation.</p>\n<h2 id=\"formulation\">A surfactant is only one part of a cleaner</h2><p>EPA describes surfactants as one functional class within formulated products. Solvents, chelating agents, enzymes and other ingredients may provide additional functions that surfactants cannot deliver alone.</p>\n<h2 id=\"environment\">Surfactant choice also has environmental implications</h2><p>EPA's Safer Choice criteria evaluate surfactants partly by biodegradation, degradation products and aquatic toxicity. Performance and environmental profile are both relevant when formulators select ingredients.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Surfactants help cleaning by changing surface interactions. They improve wetting and can help remove and disperse soil, but their performance depends on the full formulation and the task.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-surfactants\">US EPA — Safer Choice Criteria for Surfactants</a>.</li></ol>",
+  "seo_title": "What Are Surfactants? | Alle's ClinX",
+  "meta_description": "Learn what surfactants do in cleaning products, including surface-tension reduction, wetting, soil dispersion, surfactant classes and environmental considerations.",
+  "related_article_ids": [
+    "ACX-KB-0185",
+    "ACX-KB-0193",
+    "ACX-KB-0187"
+  ]
+}
