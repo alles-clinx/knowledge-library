@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0196",
+  "slug": "what-are-disinfectant-active-ingredients",
+  "subcategory": "Disinfectant Actives",
+  "subcategory_slug": "disinfectant-actives",
+  "related_article_ids": [
+    "ACX-KB-0197",
+    "ACX-KB-0198",
+    "ACX-KB-0196"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Are Disinfectant Active Ingredients?",
+  "excerpt": "Disinfectant active ingredients are the antimicrobial chemicals in a registered product that support its labeled claims against specified microorganisms under defined conditions.",
+  "content_html": "<p>Disinfectant active ingredients are the antimicrobial chemicals in a finished disinfectant product that support the product's registered claims. The active ingredient is important, but the legal and practical claim belongs to the registered product and its label—not to the ingredient name by itself.</p>\n<h2 id=\"examples\">Different active-ingredient families exist</h2><p>Environmental disinfectants may use active ingredients from several chemical families, including quaternary ammonium compounds, chlorine-releasing compounds, hydrogen peroxide, phenolics and others. Different products can have different organism claims, surfaces and use sites.</p>\n<h2 id=\"label\">The label defines the claim</h2><p>EPA-registered disinfectants carry an EPA registration number and label directions that define where the product can be used and what antimicrobial claims it is allowed to make. An active ingredient should not be assumed to have every claim associated with other products in the same chemical family.</p>\n<h2 id=\"formulation\">The finished formulation matters</h2><p>Performance depends on the complete product formulation, not only the antimicrobial ingredient. Solvents, surfactants, stabilisers and other components can affect how the product wets surfaces, remains stable and performs under its registered conditions.</p>\n<h2 id=\"clean-first\">Cleaning and disinfection are distinct steps</h2><p>CDC guidance emphasises that removing organic and inorganic material before disinfection can be important because soil can interfere with antimicrobial performance. A disinfectant active ingredient does not replace the need for appropriate cleaning.</p>\n<h2 id=\"safety\">Active ingredients also have hazard profiles</h2><p>Disinfectant products should be handled according to their label, hazard information and workplace procedures. Do not mix disinfectant products or improvise combinations of antimicrobial chemicals.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>An active ingredient helps explain how a disinfectant is formulated, but the product label is the authoritative source for its approved claims, surfaces and limitations.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/list-n-tool-covid-19-disinfectants\">US EPA — List N Tool</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/executive-summary.html\">CDC — Disinfection and Sterilization Executive Summary</a>.</li></ol>",
+  "seo_title": "What Are Disinfectant Active Ingredients? | Alle's ClinX",
+  "meta_description": "Disinfectant active ingredients are the antimicrobial chemicals in a registered product that support its labeled claims against specified microorganisms under defined conditions."
+}
