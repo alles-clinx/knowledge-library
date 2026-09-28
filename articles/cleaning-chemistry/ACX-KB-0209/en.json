@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0209",
+  "slug": "how-hard-water-affects-cleaning",
+  "subcategory": "Water Hardness",
+  "subcategory_slug": "water-hardness",
+  "related_article_ids": [
+    "ACX-KB-0208",
+    "ACX-KB-0210",
+    "ACX-KB-0205"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Hard Water Affects Cleaning",
+  "excerpt": "Hard water contains higher levels of dissolved calcium and magnesium, which can interfere with some cleaning processes, contribute to residues and increase mineral deposition.",
+  "content_html": "<p>Hard water contains relatively high levels of dissolved calcium and magnesium. These minerals can change how soaps and some detergent systems behave, contribute to residue and increase the tendency for mineral deposits to form on surfaces and equipment.</p>\n<h2 id=\"soap\">Hardness can reduce soap efficiency</h2><p>Calcium and magnesium can react with traditional soaps to form insoluble material commonly called soap scum. This consumes part of the cleaning chemistry before it can contribute to soil removal.</p>\n<h2 id=\"residue\">Minerals can contribute to visible residue</h2><p>When hard water dries, dissolved minerals can remain behind. On some surfaces this can appear as spots, haze or deposits, especially where water repeatedly evaporates.</p>\n<h2 id=\"formulation\">Modern detergents can be designed for hard water</h2><p>Cleaning formulations may include builders, chelating agents or sequestering agents that help manage dissolved minerals so surfactants and other ingredients can work more consistently.</p>\n<h2 id=\"equipment\">Equipment can also be affected</h2><p>Mineral deposition can build up on heating surfaces, spray components and other equipment exposed repeatedly to hard water. Maintenance programs should follow equipment-maker guidance where hardness-related scale is a concern.</p>\n<h2 id=\"water-quality\">Hardness is only one water-quality factor</h2><p>Water hardness does not describe every characteristic of water. Temperature, dissolved solids, pH and other factors can also influence a cleaning process.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Hard water can affect cleaning through soap interaction, residue and mineral deposition. Formulation design and equipment maintenance help manage these effects.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "How Hard Water Affects Cleaning | Alle's ClinX",
+  "meta_description": "Hard water contains higher levels of dissolved calcium and magnesium, which can interfere with some cleaning processes, contribute to residues and increase mineral deposition."
+}
