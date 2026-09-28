@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 376,
+  "record_count": 386,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4138,6 +4138,116 @@
       "subcategory_slug": "ph-acids-alkalis",
       "excerpt": "pH बताता है कि पानी-आधारित सफाई घोल कितना अम्लीय या क्षारीय है; यह व्यवहार और अनुकूलता को प्रभावित करता है, लेकिन अकेले सफाई शक्ति या सुरक्षा तय नहीं करता।",
       "url": "library/cleaning-chemistry/ph-acids-alkalis/what-is-ph-in-cleaning-chemicals/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0189",
+      "locale": "en",
+      "title": "Acidic vs Alkaline Cleaners",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acids-alkalis",
+      "excerpt": "Acidic and alkaline cleaners occupy different parts of the pH scale and can suit different soils and surfaces, but pH alone does not determine cleaning performance or safety.",
+      "url": "library/cleaning-chemistry/ph-acids-alkalis/acidic-vs-alkaline-cleaners/"
+    },
+    {
+      "article_id": "ACX-KB-0189",
+      "locale": "hi-IN",
+      "title": "अम्लीय बनाम क्षारीय क्लीनर",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acids-alkalis",
+      "excerpt": "अम्लीय और क्षारीय क्लीनर pH स्केल के अलग हिस्सों में होते हैं और अलग गंदगी तथा सतह के लिए उपयोगी हो सकते हैं, लेकिन pH अकेले सफाई प्रदर्शन या सुरक्षा तय नहीं करता।",
+      "url": "library/cleaning-chemistry/ph-acids-alkalis/acidic-vs-alkaline-cleaners/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0190",
+      "locale": "en",
+      "title": "Does Higher pH Mean a Stronger Cleaner?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acids-alkalis",
+      "excerpt": "A higher pH does not automatically mean a cleaner is more powerful; cleaning performance depends on the whole formulation, soil, surface, concentration and process.",
+      "url": "library/cleaning-chemistry/ph-acids-alkalis/does-higher-ph-mean-a-stronger-cleaner/"
+    },
+    {
+      "article_id": "ACX-KB-0190",
+      "locale": "hi-IN",
+      "title": "क्या ऊँचा pH मतलब ज्यादा शक्तिशाली क्लीनर है?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acids-alkalis",
+      "excerpt": "ऊँचा pH अपने आप किसी क्लीनर को ज्यादा शक्तिशाली नहीं बनाता; प्रदर्शन पूरे फॉर्म्युलेशन, गंदगी, सतह, कंसन्ट्रेशन और प्रक्रिया पर निर्भर करता है।",
+      "url": "library/cleaning-chemistry/ph-acids-alkalis/does-higher-ph-mean-a-stronger-cleaner/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0191",
+      "locale": "en",
+      "title": "What Is a Neutral Cleaner?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acids-alkalis",
+      "excerpt": "A neutral cleaner is a detergent formulated close to neutral pH, often chosen for routine cleaning where broad surface compatibility and controlled soil removal are priorities.",
+      "url": "library/cleaning-chemistry/ph-acids-alkalis/what-is-a-neutral-cleaner/"
+    },
+    {
+      "article_id": "ACX-KB-0191",
+      "locale": "hi-IN",
+      "title": "न्यूट्रल क्लीनर क्या है?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "pH, Acids & Alkalis",
+      "subcategory_slug": "ph-acids-alkalis",
+      "excerpt": "न्यूट्रल क्लीनर लगभग न्यूट्रल pH पर फॉर्म्युलेट किया गया डिटर्जेंट है, जिसे अक्सर नियमित सफाई और व्यापक सतह अनुकूलता के लिए चुना जाता है।",
+      "url": "library/cleaning-chemistry/ph-acids-alkalis/what-is-a-neutral-cleaner/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0192",
+      "locale": "en",
+      "title": "What Are Surfactants?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "Surfactants are functional ingredients that reduce surface tension and help cleaning solutions wet surfaces, interact with soil and keep loosened material dispersed for removal.",
+      "url": "library/cleaning-chemistry/surfactants/what-are-surfactants/"
+    },
+    {
+      "article_id": "ACX-KB-0192",
+      "locale": "hi-IN",
+      "title": "सर्फैक्टेंट क्या हैं?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "सर्फैक्टेंट ऐसे कार्यात्मक घटक हैं जो सतही तनाव कम करते हैं और सफाई घोल को सतह भिगोने, गंदगी से संपर्क करने और ढीली सामग्री को हटाने तक फैलाए रखने में मदद करते हैं।",
+      "url": "library/cleaning-chemistry/surfactants/what-are-surfactants/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0193",
+      "locale": "en",
+      "title": "How Surfactants Help Water Spread",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "Surfactants help water spread by lowering surface tension, allowing cleaning solution to wet a surface more evenly and make better contact with soil.",
+      "url": "library/cleaning-chemistry/surfactants/how-surfactants-help-water-spread/"
+    },
+    {
+      "article_id": "ACX-KB-0193",
+      "locale": "hi-IN",
+      "title": "सर्फैक्टेंट पानी को फैलने में कैसे मदद करते हैं",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "सर्फैक्टेंट सतही तनाव कम करके पानी-आधारित सफाई घोल को सतह पर अधिक समान रूप से फैलने और गंदगी से बेहतर संपर्क करने में मदद करते हैं।",
+      "url": "library/cleaning-chemistry/surfactants/how-surfactants-help-water-spread/hi.html"
     }
   ]
 }
