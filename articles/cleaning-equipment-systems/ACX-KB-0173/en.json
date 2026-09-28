@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0173",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Scrubber Dryers Can Leave Streaks or Water Behind",
+  "slug": "why-scrubber-dryers-can-leave-streaks-or-water-behind",
+  "subcategory": "Scrubber Dryers",
+  "subcategory_slug": "scrubber-dryers",
+  "excerpt": "Streaks or residual water usually point to a recovery problem, setup issue, debris, wear or operating condition that should be checked systematically.",
+  "content_html": "<p>A scrubber dryer is designed to recover dirty cleaning solution, so visible streaks or water left behind are useful warning signs. They do not identify one single fault; several simple operating or maintenance issues can produce the same symptom.</p>\n<h2 id=\"squeegee\">Start with the squeegee</h2><p>The squeegee must make even contact with the floor to collect liquid. Dirt trapped on the blade can create narrow streaks, while worn, nicked or incorrectly adjusted blades can leave wider wet areas. Manufacturer guidance commonly recommends cleaning the blades and checking their condition and adjustment when pickup becomes uneven.</p>\n<h2 id=\"recovery-path\">Check the recovery path</h2><p>A blocked hose, restricted filter, full recovery tank or another problem in the pickup system can reduce suction. Inspect the machine according to its operator manual, with the machine safely stopped, before continuing to clean. Do not bypass guards, sensors or other safety features to increase pickup.</p>\n<h2 id=\"solution-speed\">Review solution flow and travel speed</h2><p>Putting down more solution than the recovery system can collect may leave water behind. Fast travel, abrupt turns or lifting the squeegee too early can also interrupt recovery. Use the recommended solution flow and operating speed for the machine, floor and soil level.</p>\n<h2 id=\"debris-floor\">Look at debris and floor condition</h2><p>Coarse debris can interfere with the squeegee seal and may cause streaking, which is one reason some areas need dry debris removal before wet scrubbing. Uneven surfaces, damaged joints or deep texture can also make complete pickup more difficult than on a smooth floor.</p>\n<h2 id=\"diagnose\">Use a simple diagnostic sequence</h2><p>Clean the squeegee; inspect the blade edges and mounting; check hoses, filters and recovery-tank condition; confirm solution flow; then test a short straight pass at normal speed. If the problem remains, follow the manufacturer's troubleshooting procedure or remove the machine from service for maintenance.</p>\n<h2 id=\"safety\">Treat residual water as a safety issue</h2><p>Water left on a traffic surface can create a slip hazard. Keep the affected area controlled until the floor is dry and the machine is recovering correctly.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Streaks and water are usually symptoms of poor squeegee contact, debris, restricted recovery, excessive solution or operating conditions. Check these causes methodically instead of compensating by repeatedly re-cleaning the floor.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.tennantco.com/en_us/blog/squeegee-checklist.html\">Tennant — Maximize Your Squeegee: 5-Point Checklist</a>.</li><li id=\"ref-2\"><a href=\"https://www.kaercher.com/nz/professional/floor-scrubbers-scrubber-driers/compact-push-scrubber-driers.html\">Kärcher — How scrubber dryers work</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/etools/hospitals/housekeeping/slips-trips-falls\">OSHA — Housekeeping: Slips/Trips/Falls</a>.</li></ol>",
+  "seo_title": "Why Scrubber Dryers Leave Streaks or Water | Alle's ClinX",
+  "meta_description": "Troubleshoot scrubber-dryer streaks and water by checking squeegees, debris, suction, solution flow, speed and floor conditions.",
+  "related_article_ids": [
+    "ACX-KB-0171",
+    "ACX-KB-0172",
+    "ACX-KB-0168"
+  ]
+}
