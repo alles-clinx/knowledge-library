@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0195",
+  "slug": "why-foam-does-not-always-equal-cleaning-power",
+  "subcategory": "Surfactants",
+  "subcategory_slug": "surfactants",
+  "related_article_ids": [
+    "ACX-KB-0192",
+    "ACX-KB-0193",
+    "ACX-KB-0194"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0195",
+  "title": "झाग हमेशा सफाई शक्ति क्यों नहीं बताता",
+  "excerpt": "झाग सफाई घोल का दिखाई देने वाला गुण है, लेकिन झाग की मात्रा सीधे यह नहीं बताती कि उत्पाद गंदगी कितनी अच्छी तरह हटाता है.",
+  "content_html": "<p>झाग आसानी से दिखाई देता है, इसलिए लोग अक्सर इसे अधिक सफाई शक्ति का संकेत मान लेते हैं। वास्तव में झाग मुख्य रूप से फॉर्म्युलेशन का भौतिक व्यवहार है। सफाई प्रदर्शन गंदगी हटाने, वेटिंग, केमिस्ट्री, यांत्रिक क्रिया और रिकवरी पर निर्भर करता है—बुलबुलों की ऊँचाई पर नहीं।</p>\n<h2 id=\"hi195-foam-source\">क्लीनर में झाग क्यों बनता है</h2><p>कुछ सर्फैक्टेंट पानी में हवा के बुलबुले को दूसरों की तुलना में अधिक स्थिर रखते हैं। एजीटेशन, पानी की स्थिति, कंसन्ट्रेशन और गंदगी भी झाग की मात्रा बदल सकते हैं।</p>\n<h2 id=\"hi195-performance\">अधिक झाग अच्छा या खराब दोनों प्रदर्शन के साथ हो सकता है</h2><p>अधिक झाग वाला उत्पाद किसी एक काम में अच्छा हो सकता है, जबकि कम झाग वाला उत्पाद दूसरे में बेहतर हो सकता है। कई मशीन सफाई प्रणालियाँ नियंत्रित या कम झाग के लिए डिज़ाइन होती हैं क्योंकि अधिक झाग रिकवरी या उपकरण संचालन में बाधा डाल सकता है।</p>\n<h2 id=\"hi195-visual\">दिखावट माप नहीं है</h2><p>झाग की मात्रा सीधे कंसन्ट्रेशन, surfactant activity या गंदगी हटाने को नहीं मापती। केवल बुलबुले देखकर घोल को कमजोर या मजबूत मानना गलत हो सकता है।</p>\n<h2 id=\"hi195-formulation\">फॉर्म्युलेटर झाग को जानबूझकर नियंत्रित करते हैं</h2><p>EPA defoamers और surfactants को अलग functional ingredient classes के रूप में पहचानता है। इसका अर्थ है कि foam level को अन्य cleaning functions से अलग नियंत्रित किया जा सकता है।</p>\n<h2 id=\"hi195-use\">उत्पाद के डिज़ाइन का पालन करें</h2><p>उत्पाद लेबल और उपकरण अनुकूलता के अनुसार उपयोग करें। केवल अधिक झाग बनाने के लिए अतिरिक्त concentrate न डालें।</p>\n<h2 id=\"hi195-takeaway\">मुख्य बात</h2><p>झाग फॉर्म्युलेशन का गुण है, सफाई शक्ति का गेज नहीं। महत्वपूर्ण परिणाम यह है कि स्वीकृत प्रक्रिया लक्ष्य गंदगी हटाती है या नहीं।</p>\n<h2 id=\"hi195-references\">संदर्भ</h2><ol><li id=\"hi195-ref-1\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi195-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "झाग हमेशा सफाई शक्ति क्यों नहीं बताता | Alle's ClinX",
+  "meta_description": "झाग सफाई घोल का दिखाई देने वाला गुण है, लेकिन झाग की मात्रा सीधे यह नहीं बताती कि उत्पाद गंदगी कितनी अच्छी तरह हटाता है."
+}
