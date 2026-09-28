@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0193",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Surfactants Help Water Spread",
+  "slug": "how-surfactants-help-water-spread",
+  "subcategory": "Surfactants",
+  "subcategory_slug": "surfactants",
+  "excerpt": "Surfactants help water spread by lowering surface tension, allowing cleaning solution to wet a surface more evenly and make better contact with soil.",
+  "content_html": "<p>Water does not automatically spread evenly over every surface. On some materials it forms beads because cohesive forces within the water are stronger than the attraction between water and the surface. Surfactants change that balance.</p>\n<h2 id=\"surface-tension\">Surface tension resists spreading</h2><p>Water molecules attract one another, creating surface tension at the boundary between water and air. High surface tension encourages droplets to hold together rather than flatten and spread.</p>\n<h2 id=\"surfactant-effect\">Surfactants lower surface tension</h2><p>Surfactant molecules collect at interfaces and reduce the energy needed for the liquid surface to expand. EPA identifies reducing surface tension as a central cleaning function of surfactants.</p>\n<h2 id=\"wetting\">Lower surface tension improves wetting</h2><p>As surface tension falls, a cleaning solution can form a thinner film and contact more of the surface. Better wetting helps solution reach textured areas, fine irregularities and soil that a beaded droplet might contact poorly.</p>\n<h2 id=\"not-soil-removal-alone\">Spreading is not the whole cleaning process</h2><p>Good wetting creates contact, but soil still has to be loosened and removed. Depending on the task, that may require additional formulation ingredients, mechanical action, rinsing, wiping or recovery.</p>\n<h2 id=\"balance\">More surfactant is not automatically better</h2><p>Formulations are designed for a target concentration and performance profile. Excess product can create residue, foam or other problems. Use the cleaner at the manufacturer's specified dilution rather than adding extra product to force more wetting.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Surfactants help water spread by lowering surface tension. That improves wetting and contact with soil, making it easier for the rest of the cleaning process to work effectively.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-surfactants\">US EPA — Safer Choice Criteria for Surfactants</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "How Surfactants Help Water Spread | Alle's ClinX",
+  "meta_description": "Learn how surfactants reduce surface tension, improve wetting and help water-based cleaning solutions spread more evenly over surfaces.",
+  "related_article_ids": [
+    "ACX-KB-0192",
+    "ACX-KB-0185",
+    "ACX-KB-0184"
+  ]
+}

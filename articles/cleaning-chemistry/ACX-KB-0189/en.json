@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0189",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Acidic vs Alkaline Cleaners",
+  "slug": "acidic-vs-alkaline-cleaners",
+  "subcategory": "pH, Acids & Alkalis",
+  "subcategory_slug": "ph-acids-alkalis",
+  "excerpt": "Acidic and alkaline cleaners occupy different parts of the pH scale and can suit different soils and surfaces, but pH alone does not determine cleaning performance or safety.",
+  "content_html": "<p>Acidic and alkaline cleaners differ mainly in the pH of their water-based use solution. Acidic products are below pH 7, while alkaline products are above pH 7. That difference can influence how a product behaves with certain soils and surfaces, but it does not tell the whole story of the formulation.</p>\n<h2 id=\"acidic\">What acidic cleaners are</h2><p>Acidic cleaners are formulated on the acidic side of the pH scale. In professional cleaning they may be selected for tasks involving certain mineral or inorganic deposits, provided the surface and product instructions allow their use. Acid-sensitive materials can be damaged by inappropriate products, so compatibility checks are essential.</p>\n<h2 id=\"alkaline\">What alkaline cleaners are</h2><p>Alkaline cleaners are formulated above neutral pH. They are often associated with removing some oily or greasy soils, but performance also depends on surfactants, solvents, builders, concentration and mechanical action. High pH by itself does not guarantee better cleaning.</p>\n<h2 id=\"neutral-middle\">Neutral products occupy the middle</h2><p>Neutral or near-neutral cleaners are useful where broad material compatibility and routine soil removal are priorities. CDC recommends neutral detergents, approximately pH 6 to 8, for many routine environmental-cleaning procedures.</p>\n<h2 id=\"selection\">Choose by task, not by pH label alone</h2><p>Identify the soil and the surface before selecting chemistry. Check manufacturer guidance, approved concentration and any restrictions on acids, alkalis or solvents. A specialised acidic or alkaline cleaner should be used because it matches the task—not simply because it appears more aggressive.</p>\n<h2 id=\"safety\">Do not mix products to change pH</h2><p>Changing a cleaner by combining it with another product can create hazardous reactions. OSHA advises workers not to mix cleaning chemicals and to follow product labels, dilution procedures and hazard information.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Acidic and alkaline cleaners have different chemical environments and may suit different cleaning problems. The correct choice depends on the full formulation, soil, surface and approved procedure—not on pH alone.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/ph-and-water\">USGS — pH and Water</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/publications/bytopic/cleaning-chemicals\">OSHA — Cleaning Chemicals</a>.</li></ol>",
+  "seo_title": "Acidic vs Alkaline Cleaners | Alle's ClinX",
+  "meta_description": "Compare acidic, neutral and alkaline cleaning products, including pH, common selection factors, surface compatibility and safe use.",
+  "related_article_ids": [
+    "ACX-KB-0188",
+    "ACX-KB-0190",
+    "ACX-KB-0191"
+  ]
+}
