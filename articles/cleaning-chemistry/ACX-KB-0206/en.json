@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0206",
+  "slug": "concentrate-vs-ready-to-use-cleaner",
+  "subcategory": "Dilution & Concentration",
+  "subcategory_slug": "dilution-concentration",
+  "related_article_ids": [
+    "ACX-KB-0205",
+    "ACX-KB-0207",
+    "ACX-KB-0184"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Concentrate vs Ready-to-Use Cleaner",
+  "excerpt": "Concentrated and ready-to-use cleaners are different product formats; the key distinction is whether the finished product requires an approved preparation step before routine use.",
+  "content_html": "<p>Concentrated and ready-to-use cleaners are two different product formats. A concentrate requires a manufacturer-defined preparation or dispensing step before intended use, while a ready-to-use product is supplied in its intended application concentration.</p>\n<h2 id=\"concentrate\">Concentrated format</h2><p>A concentrate stores more product in a smaller volume and is intended to become a use solution through an approved system or procedure. Correct identification and controlled dispensing are therefore important parts of the format.</p>\n<h2 id=\"rtu\">Ready-to-use format</h2><p>A ready-to-use cleaner is supplied for its labeled use without a separate dilution step by the user. The label still defines where it can be used, surface compatibility and other precautions.</p>\n<h2 id=\"not-ranking\">The formats are not a quality ranking</h2><p>Concentrate does not mean “stronger cleaning,” and ready-to-use does not mean “weaker cleaning.” The formats address packaging and workflow; cleaning performance comes from the finished use formulation and the task match.</p>\n<h2 id=\"consistency\">Process control differs</h2><p>Concentrates place more importance on dispensing accuracy and system maintenance. Ready-to-use products reduce that preparation step, but still depend on correct storage, labeling and application according to instructions.</p>\n<h2 id=\"selection\">Use the approved facility format</h2><p>Facilities should use products and formats selected through their approved purchasing, safety and cleaning program rather than substituting formats or transferring assumptions from one product to another.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Concentrate and ready-to-use describe how a product is supplied. Neither format is inherently better; safe and effective use depends on the exact product, label and facility procedure.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Concentrate vs Ready-to-Use Cleaner | Alle's ClinX",
+  "meta_description": "Concentrated and ready-to-use cleaners are different product formats; the key distinction is whether the finished product requires an approved preparation step before routine use."
+}
