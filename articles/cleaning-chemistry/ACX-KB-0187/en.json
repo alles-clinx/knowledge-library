@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0187",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Professional Cleaning Formulations vs Single Ingredients",
+  "slug": "cleaning-formulations-vs-single-ingredients",
+  "subcategory": "Cleaning Chemistry Basics",
+  "subcategory_slug": "chemistry-basics",
+  "excerpt": "Professional cleaning formulations combine ingredients with different functions so wetting, soil removal, water control, stability and safe use can be managed as one product system.",
+  "content_html": "<p>A professional cleaning product is usually a formulation rather than one active ingredient used alone. Formulators combine ingredients because cleaning requires several functions at the same time: reaching the soil, loosening it, keeping it dispersed, working in the available water and remaining stable during storage and use.</p>\n<h2 id=\"roles\">Different ingredients perform different roles</h2><p>EPA describes functional classes that include surfactants, solvents, chelating and sequestering agents, enzymes, oxidants, preservatives, defoamers and other processing aids. A formulation can use selected ingredients from several classes to achieve the required performance.</p>\n<h2 id=\"surfactant\">A surfactant is important but not the whole product</h2><p>Surfactants can improve wetting and help remove oily or particulate soil, but they do not automatically manage hard-water minerals, product stability, foam level, pH or every type of residue. Those needs may require other formulation components.</p>\n<h2 id=\"balance\">Formulation is a balance</h2><p>Changing one ingredient can affect more than one property. For example, stronger solvency may improve one cleaning task but reduce compatibility with some surfaces; high foam may look active but be unsuitable for certain machines. Professional formulation therefore balances performance, compatibility, stability, user safety and environmental considerations.</p>\n<h2 id=\"single\">Single ingredients are not substitutes for validated products</h2><p>A raw ingredient does not automatically have the same use directions, concentration, stability or safety profile as a finished cleaning formulation. Staff should use approved products according to their labels and procedures rather than improvising mixtures from individual chemicals.</p>\n<h2 id=\"performance\">Finished products are designed for defined conditions</h2><p>The product label and technical information describe where and how the formulation should be used. In regulated applications, additional claims may depend on specific concentrations, surfaces and contact conditions. Those conditions should not be assumed from knowledge of one ingredient.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Professional cleaning formulations work as systems. Their ingredients are selected to perform complementary functions, so judging a finished product by one familiar ingredient can give an incomplete picture of how it cleans or how it should be used.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-master-criteria-safer-chemical-ingredients\">US EPA — Safer Choice Master Criteria for Safer Chemical Ingredients</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Cleaning Formulations vs Single Ingredients | Alle's ClinX",
+  "meta_description": "Understand why professional cleaners combine surfactants, solvents, builders and other ingredients instead of relying on one chemical alone.",
+  "related_article_ids": [
+    "ACX-KB-0184",
+    "ACX-KB-0185",
+    "ACX-KB-0186"
+  ]
+}
