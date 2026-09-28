@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0179",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Dosing Systems Deliver Inconsistent Results",
+  "slug": "dosing-systems-inconsistent-results",
+  "subcategory": "Dispensing & Dosing Systems",
+  "subcategory_slug": "dispensing-dosing-systems",
+  "excerpt": "Inconsistent dosing can result from product, water, setup, wear, blockage or calibration problems; a structured check is safer than guessing at concentration.",
+  "content_html": "<p>A dosing system can make solution preparation more repeatable, but it is not maintenance-free. If output changes from one fill to the next, the cause may be the chemical supply, water conditions, connections, metering components or calibration.</p>\n<h2 id=\"product\">Confirm the product and concentrate supply</h2><p>Check that the connected concentrate is the approved product for that outlet, is not empty and is within its usable life. A wrong or partially connected container can make the system appear to be a calibration problem when the real issue is product supply.</p>\n<h2 id=\"water\">Check the diluent conditions</h2><p>Many proportioning systems depend on water flow or pressure within a specified operating range. A significant change in supply conditions can change performance on some designs. Use the manufacturer's troubleshooting process rather than altering plumbing or metering parts without authorisation.</p>\n<h2 id=\"pickup\">Inspect the approved pickup and metering path</h2><p>Blocked strainers, kinked tubes, air leaks, worn seals or incorrect metering components can alter concentrate delivery. Only inspect or replace parts identified as user-serviceable in the equipment instructions; other faults should be referred for maintenance.</p>\n<h2 id=\"calibration\">Calibration can drift or be changed</h2><p>CDC recommends regular calibration of automatic dispensing systems because a stable-looking dispenser can still prepare the wrong concentration. After maintenance, product changes or unexplained results, verify calibration using the manufacturer's method and any concentration test required by the cleaning programme.</p>\n<h2 id=\"containers\">Container and operator choices also matter</h2><p>Using the wrong fill outlet, changing the intended container size, interrupting a fill cycle or manually adding extra concentrate can defeat a controlled-dosing process. Clear labels and standard operating procedures help keep the preparation step consistent.</p>\n<h2 id=\"diagnose\">Use a controlled troubleshooting sequence</h2><p>Confirm the product and outlet; inspect visible connections; check water availability; run the prescribed verification or concentration test; then compare the result with the accepted range. If the system remains inconsistent, remove that outlet from use and arrange service rather than compensating by eye.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Inconsistent dosing usually means a controllable part of the product, water, setup or maintenance chain has changed. Diagnose the system systematically and verify concentration instead of guessing.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/publications/bytopic/cleaning-chemicals\">OSHA — Cleaning Chemicals</a>.</li></ol>",
+  "seo_title": "Why Dosing Systems Deliver Inconsistent Results | Alle's ClinX",
+  "meta_description": "Troubleshoot dosing inconsistency by checking product supply, water conditions, pickup paths, calibration, containers and operating procedure.",
+  "related_article_ids": [
+    "ACX-KB-0177",
+    "ACX-KB-0178",
+    "ACX-KB-0180"
+  ]
+}

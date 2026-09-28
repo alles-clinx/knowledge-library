@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0177",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Chemical Dispensing System?",
+  "slug": "what-is-a-chemical-dispensing-system",
+  "subcategory": "Dispensing & Dosing Systems",
+  "subcategory_slug": "dispensing-dosing-systems",
+  "excerpt": "A chemical dispensing system prepares a use solution by delivering a controlled amount of concentrate and diluent according to a defined setup.",
+  "content_html": "<p>A chemical dispensing system is equipment used to prepare a working solution from a concentrated cleaning product. Instead of measuring each batch entirely by hand, the system controls how concentrate and diluent—usually water—are delivered according to a defined setup.</p>\n<h2 id=\"purpose\">What the system is intended to control</h2><p>The main purpose is repeatability. If a product is meant to be used at a specified dilution, a correctly selected and calibrated dispenser can help staff prepare that concentration consistently. CDC guidance recommends automatic dispensing where feasible and notes that these systems should be calibrated regularly.</p>\n<h2 id=\"forms\">Dispensing systems take different forms</h2><p>Systems may use proportioning devices, pumps, cartridges, closed chemical containers or other manufacturer-specific arrangements. Some fill bottles; others fill buckets, sinks or machine solution tanks. The operating principle and approved product combinations depend on the specific system.</p>\n<h2 id=\"not-universal\">The dispenser does not choose the correct dilution</h2><p>A dispenser only delivers what it is configured to deliver. The required concentration still comes from the product label, manufacturer instructions and facility procedure. Using a dispenser with the wrong product, setting or connection can produce an incorrect solution just as manual mixing can.</p>\n<h2 id=\"safety\">Closed handling can reduce—but not eliminate—exposure</h2><p>Some systems reduce direct handling of concentrate, but staff still need training, labels, Safety Data Sheet information and any required personal protective equipment. Chemical containers and prepared solutions should remain clearly identified, and incompatible products must not be mixed.</p>\n<h2 id=\"calibration\">Calibration and verification matter</h2><p>Water conditions, worn components, blocked pickup paths, incorrect metering parts or changes in setup can affect output. Follow the dispenser manufacturer's calibration and maintenance process. Where the cleaning programme requires concentration testing, use the specified verification method rather than judging solution strength by colour, foam or smell.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A chemical dispensing system is a control tool for preparing repeatable use solutions. It works well only when the correct product, dilution, connections, calibration, labelling and maintenance are managed together.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/publications/bytopic/cleaning-chemicals\">OSHA — Cleaning Chemicals</a>.</li></ol>",
+  "seo_title": "What Is a Chemical Dispensing System? | Alle's ClinX",
+  "meta_description": "Learn how chemical dispensing systems prepare controlled cleaning solutions and why product selection, calibration and labelling still matter.",
+  "related_article_ids": [
+    "ACX-KB-0178",
+    "ACX-KB-0179",
+    "ACX-KB-0180"
+  ]
+}
