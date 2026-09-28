@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0211",
+  "slug": "how-to-choose-a-cleaning-product-by-soil-and-surface",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0212",
+    "ACX-KB-0213",
+    "ACX-KB-0186"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0211",
+  "title": "Soil और Surface के अनुसार Cleaning Product कैसे चुनें",
+  "excerpt": "Cleaning-product selection soil, surface, compatibility requirements और approved task की पहचान से शुरू होना चाहिए—सबसे aggressive chemistry चुनने से नहीं.",
+  "content_html": "<p>Cleaning-product selection एक matching problem है। Product को soil type पर काम करना चाहिए और साथ ही surface, equipment तथा approved cleaning procedure के compatible रहना चाहिए।</p>\n<h2 id=\"hi211-soil\">पहले soil पहचानें</h2><p>Oily residue, mineral deposits, particulate soil, food residue और अन्य soils अलग तरह respond करते हैं। उद्देश्य cleaning challenge समझना है, यह assume करना नहीं कि एक chemistry हर residue के लिए suitable है।</p>\n<h2 id=\"hi211-surface\">फिर surface पहचानें</h2><p>Metals, glass, stone, resilient flooring, coatings, plastics और textiles की compatibility limits अलग हो सकती हैं। जहाँ available हों, surface-maker instructions check करें।</p>\n<h2 id=\"hi211-task\">Actual task define करें</h2><p>Routine cleaning, stain removal, equipment maintenance और regulated disinfection अलग tasks हैं। Product claims और procedures उस task से match होने चाहिए जो वास्तव में करना है।</p>\n<h2 id=\"hi211-compatibility\">Product-surface compatibility check करें</h2><p>CDC guidance material compatibility, safety और manufacturer instructions को important selection considerations में शामिल करता है। जो product soil हटाए लेकिन surface damage करे, वह successful match नहीं है।</p>\n<h2 id=\"hi211-approved\">Approved products और instructions use करें</h2><p>Workplace में selection facility के purchasing, safety और cleaning program के अनुसार होना चाहिए। Intended use label और technical information से तय होता है, colour, fragrance, foam या informal assumptions से नहीं।</p>\n<h2 id=\"hi211-takeaway\">मुख्य बात</h2><p>Approved program के भीतर soil, surface और task को match करके product चुनें। Goal compatible chemistry के साथ controlled cleaning है, maximum aggressiveness नहीं।</p>\n<h2 id=\"hi211-references\">संदर्भ</h2><ol><li id=\"hi211-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi211-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Soil और Surface के अनुसार Cleaning Product कैसे चुनें | Alle's ClinX",
+  "meta_description": "Cleaning-product selection soil, surface, compatibility requirements और approved task की पहचान से शुरू होना चाहिए—सबसे aggressive chemistry चुनने से नहीं."
+}
