@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0206",
+  "slug": "concentrate-vs-ready-to-use-cleaner",
+  "subcategory": "Dilution & Concentration",
+  "subcategory_slug": "dilution-concentration",
+  "related_article_ids": [
+    "ACX-KB-0205",
+    "ACX-KB-0207",
+    "ACX-KB-0184"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0206",
+  "title": "Concentrate और Ready-to-Use Cleaner में अंतर",
+  "excerpt": "Concentrated और ready-to-use cleaners अलग product formats हैं; मुख्य अंतर यह है कि routine use से पहले approved preparation step की जरूरत है या नहीं.",
+  "content_html": "<p>Concentrated और ready-to-use cleaners दो अलग product formats हैं। Concentrate को intended use से पहले manufacturer-defined preparation या dispensing step चाहिए, जबकि ready-to-use product intended application concentration में supply होता है।</p>\n<h2 id=\"hi206-concentrate\">Concentrated format</h2><p>Concentrate छोटे volume में अधिक product store करता है और approved system या procedure से use solution बनने के लिए intended होता है। इसलिए correct identification और controlled dispensing इस format के महत्वपूर्ण हिस्से हैं।</p>\n<h2 id=\"hi206-rtu\">Ready-to-use format</h2><p>Ready-to-use cleaner labeled use के लिए अलग dilution step के बिना supply होता है। फिर भी label permitted surfaces, compatibility और precautions define करता है।</p>\n<h2 id=\"hi206-not-ranking\">Formats quality ranking नहीं हैं</h2><p>Concentrate का मतलब “stronger cleaning” नहीं और ready-to-use का मतलब “weaker cleaning” नहीं। Formats packaging और workflow बताते हैं; cleaning performance finished use formulation और task match पर निर्भर करता है।</p>\n<h2 id=\"hi206-consistency\">Process control अलग होता है</h2><p>Concentrates में dispensing accuracy और system maintenance अधिक महत्वपूर्ण होते हैं। Ready-to-use products preparation step कम करते हैं, लेकिन correct storage, labeling और instructions के अनुसार use फिर भी जरूरी है।</p>\n<h2 id=\"hi206-selection\">Approved facility format का उपयोग करें</h2><p>Facilities को approved purchasing, safety और cleaning program के जरिए selected products और formats उपयोग करने चाहिए, न कि formats substitute करने या एक product की assumptions दूसरे पर लागू करने चाहिए।</p>\n<h2 id=\"hi206-takeaway\">मुख्य बात</h2><p>Concentrate और ready-to-use बताते हैं कि product कैसे supply होता है। कोई format inherently better नहीं है; safe और effective use exact product, label और facility procedure पर निर्भर करता है।</p>\n<h2 id=\"hi206-references\">संदर्भ</h2><ol><li id=\"hi206-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Concentrate और Ready-to-Use Cleaner में अंतर | Alle's ClinX",
+  "meta_description": "Concentrated और ready-to-use cleaners अलग product formats हैं; मुख्य अंतर यह है कि routine use से पहले approved preparation step की जरूरत है या नहीं."
+}
