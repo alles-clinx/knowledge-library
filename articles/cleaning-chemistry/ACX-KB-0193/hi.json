@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0193",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0193",
+  "title": "सर्फैक्टेंट पानी को फैलने में कैसे मदद करते हैं",
+  "slug": "how-surfactants-help-water-spread",
+  "subcategory": "Surfactants",
+  "subcategory_slug": "surfactants",
+  "excerpt": "सर्फैक्टेंट सतही तनाव कम करके पानी-आधारित सफाई घोल को सतह पर अधिक समान रूप से फैलने और गंदगी से बेहतर संपर्क करने में मदद करते हैं।",
+  "content_html": "<p>पानी हर सतह पर अपने आप समान रूप से नहीं फैलता। कुछ सामग्रियों पर यह बूंदों में रहता है क्योंकि पानी के अणुओं के बीच आकर्षण पानी और सतह के बीच आकर्षण से अधिक होता है। सर्फैक्टेंट इस संतुलन को बदलते हैं।</p>\n<h2 id=\"hi193-surface-tension\">सतही तनाव फैलने का विरोध करता है</h2><p>पानी के अणु एक-दूसरे को आकर्षित करते हैं, जिससे पानी और हवा की सीमा पर सतही तनाव बनता है। अधिक सतही तनाव बूंद को फैलने के बजाय जुड़ा रहने के लिए प्रेरित करता है।</p>\n<h2 id=\"hi193-surfactant-effect\">सर्फैक्टेंट सतही तनाव कम करते हैं</h2><p>सर्फैक्टेंट अणु इंटरफेस पर जमा होकर तरल सतह के फैलने के लिए आवश्यक ऊर्जा कम करते हैं। EPA सतही तनाव कम करना सर्फैक्टेंट का एक मुख्य सफाई कार्य बताता है।</p>\n<h2 id=\"hi193-wetting\">कम सतही तनाव वेटिंग बेहतर करता है</h2><p>सतही तनाव कम होने पर सफाई घोल पतली परत के रूप में फैल सकता है और सतह के अधिक हिस्से से संपर्क कर सकता है। बेहतर वेटिंग टेक्सचर, छोटे असमान हिस्सों और गंदगी तक पहुँच बेहतर करती है।</p>\n<h2 id=\"hi193-not-soil-removal-alone\">फैलना पूरी सफाई प्रक्रिया नहीं है</h2><p>अच्छी वेटिंग संपर्क बनाती है, लेकिन गंदगी को ढीला और हटाना भी जरूरी है। काम के अनुसार अन्य फॉर्म्युलेशन घटक, यांत्रिक क्रिया, रिंसिंग, पोंछना या रिकवरी भी चाहिए हो सकती है।</p>\n<h2 id=\"hi193-balance\">अधिक सर्फैक्टेंट अपने आप बेहतर नहीं होता</h2><p>फॉर्म्युलेशन तय कंसन्ट्रेशन और प्रदर्शन के लिए बनाए जाते हैं। अतिरिक्त उत्पाद अवशेष, झाग या अन्य समस्या पैदा कर सकता है। अधिक वेटिंग के लिए निर्देश से ज्यादा उत्पाद न डालें।</p>\n<h2 id=\"hi193-takeaway\">मुख्य बात</h2><p>सर्फैक्टेंट सतही तनाव कम करके पानी को फैलने में मदद करते हैं। इससे वेटिंग और गंदगी से संपर्क बेहतर होता है, जिससे सफाई प्रक्रिया के बाकी हिस्से अधिक प्रभावी ढंग से काम कर सकते हैं।</p>\n<h2 id=\"hi193-references\">संदर्भ</h2><ol><li id=\"hi193-ref-1\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi193-ref-2\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-surfactants\">US EPA — Safer Choice Criteria for Surfactants</a>.</li><li id=\"hi193-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "सर्फैक्टेंट पानी को फैलने में कैसे मदद करते हैं | Alle's ClinX",
+  "meta_description": "जानें कि सर्फैक्टेंट सतही तनाव कैसे कम करते हैं, वेटिंग कैसे सुधारते हैं और सफाई घोल को अधिक समान रूप से फैलने में कैसे मदद करते हैं।",
+  "related_article_ids": [
+    "ACX-KB-0192",
+    "ACX-KB-0185",
+    "ACX-KB-0184"
+  ]
+}
