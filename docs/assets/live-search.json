@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 406,
+  "record_count": 416,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4468,6 +4468,116 @@
       "subcategory_slug": "bleaches-oxidisers",
       "excerpt": "यह safety-focused overview बताता है कि bleach products अलग oxidising categories में हो सकते हैं और labels, hazards तथा compatibility requirements product-specific होते हैं.",
       "url": "library/cleaning-chemistry/bleaches-oxidisers/chlorine-bleach-vs-oxygen-bleach/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0204",
+      "locale": "en",
+      "title": "Why Oxidisers Can Affect Colour and Materials",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Bleaches & Oxidisers",
+      "subcategory_slug": "bleaches-oxidisers",
+      "excerpt": "Oxidising cleaners can alter stains but can also affect dyes, finishes, metals and other materials, so compatibility depends on the exact product and surface.",
+      "url": "library/cleaning-chemistry/bleaches-oxidisers/why-oxidisers-can-affect-colour-and-materials/"
+    },
+    {
+      "article_id": "ACX-KB-0204",
+      "locale": "hi-IN",
+      "title": "Oxidisers Colour और Materials को क्यों प्रभावित कर सकते हैं",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Bleaches & Oxidisers",
+      "subcategory_slug": "bleaches-oxidisers",
+      "excerpt": "Oxidising cleaners stains को बदल सकते हैं, लेकिन dyes, finishes, metals और अन्य materials को भी प्रभावित कर सकते हैं; compatibility exact product और surface पर निर्भर करती है.",
+      "url": "library/cleaning-chemistry/bleaches-oxidisers/why-oxidisers-can-affect-colour-and-materials/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0205",
+      "locale": "en",
+      "title": "What Is a Cleaning-Chemical Concentrate?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Dilution & Concentration",
+      "subcategory_slug": "dilution-concentration",
+      "excerpt": "A cleaning-chemical concentrate is a product supplied at a higher ingredient concentration than its intended use solution and designed to be prepared only according to its label or approved dispensing system.",
+      "url": "library/cleaning-chemistry/dilution-concentration/what-is-a-cleaning-chemical-concentrate/"
+    },
+    {
+      "article_id": "ACX-KB-0205",
+      "locale": "hi-IN",
+      "title": "Cleaning-Chemical Concentrate क्या होता है?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Dilution & Concentration",
+      "subcategory_slug": "dilution-concentration",
+      "excerpt": "Cleaning-chemical concentrate ऐसा product है जो intended use solution की तुलना में अधिक concentrated form में supply होता है और केवल label या approved dispensing system के अनुसार prepare किया जाना चाहिए.",
+      "url": "library/cleaning-chemistry/dilution-concentration/what-is-a-cleaning-chemical-concentrate/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0206",
+      "locale": "en",
+      "title": "Concentrate vs Ready-to-Use Cleaner",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Dilution & Concentration",
+      "subcategory_slug": "dilution-concentration",
+      "excerpt": "Concentrated and ready-to-use cleaners are different product formats; the key distinction is whether the finished product requires an approved preparation step before routine use.",
+      "url": "library/cleaning-chemistry/dilution-concentration/concentrate-vs-ready-to-use-cleaner/"
+    },
+    {
+      "article_id": "ACX-KB-0206",
+      "locale": "hi-IN",
+      "title": "Concentrate और Ready-to-Use Cleaner में अंतर",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Dilution & Concentration",
+      "subcategory_slug": "dilution-concentration",
+      "excerpt": "Concentrated और ready-to-use cleaners अलग product formats हैं; मुख्य अंतर यह है कि routine use से पहले approved preparation step की जरूरत है या नहीं.",
+      "url": "library/cleaning-chemistry/dilution-concentration/concentrate-vs-ready-to-use-cleaner/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0207",
+      "locale": "en",
+      "title": "Why Over-Concentration Can Reduce Cleaning Quality",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Dilution & Concentration",
+      "subcategory_slug": "dilution-concentration",
+      "excerpt": "Using more cleaning concentrate than a product is designed for can increase residue, interfere with rinsing or recovery, affect surfaces and create unnecessary exposure without improving cleaning.",
+      "url": "library/cleaning-chemistry/dilution-concentration/why-over-concentration-can-reduce-cleaning-quality/"
+    },
+    {
+      "article_id": "ACX-KB-0207",
+      "locale": "hi-IN",
+      "title": "Over-Concentration Cleaning Quality क्यों घटा सकता है",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Dilution & Concentration",
+      "subcategory_slug": "dilution-concentration",
+      "excerpt": "Product design से अधिक cleaning concentrate उपयोग करने पर residue, rinsing या recovery problems, surface effects और unnecessary exposure बढ़ सकते हैं, बिना cleaning बेहतर किए.",
+      "url": "library/cleaning-chemistry/dilution-concentration/why-over-concentration-can-reduce-cleaning-quality/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0208",
+      "locale": "en",
+      "title": "What Is Water Hardness?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "Water hardness is mainly a measure of dissolved calcium and magnesium, and it can influence soap behaviour, scale formation and how cleaning formulations perform.",
+      "url": "library/cleaning-chemistry/water-hardness/what-is-water-hardness/"
+    },
+    {
+      "article_id": "ACX-KB-0208",
+      "locale": "hi-IN",
+      "title": "Water Hardness क्या है?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "Water hardness मुख्य रूप से dissolved calcium और magnesium का measure है, और यह soap behaviour, scale formation तथा cleaning formulations के performance को प्रभावित कर सकता है.",
+      "url": "library/cleaning-chemistry/water-hardness/what-is-water-hardness/hi.html"
     }
   ]
 }
