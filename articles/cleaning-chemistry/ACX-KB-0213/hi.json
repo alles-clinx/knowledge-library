@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0213",
+  "slug": "general-purpose-cleaner-vs-task-specific-cleaner",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0211",
+    "ACX-KB-0212",
+    "ACX-KB-0186"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0213",
+  "title": "General-Purpose और Task-Specific Cleaner में अंतर",
+  "excerpt": "General-purpose और task-specific cleaners अलग workflow roles serve करते हैं; कोई category inherently better नहीं है, और suitability soil, surface तथा approved task पर निर्भर करती है.",
+  "content_html": "<p>General-purpose और task-specific cleaners अलग product roles हैं। General-purpose cleaner defined compatible surfaces पर broad routine cleaning tasks के लिए design होता है, जबकि task-specific cleaner किसी narrower soil, surface या maintenance requirement के लिए formulate हो सकता है।</p>\n<h2 id=\"hi213-general\">General-purpose cleaners routine work support करते हैं</h2><p>ये products compatible surfaces के defined set पर common maintenance tasks के लिए intended होते हैं। उनका value manufacturer limits के भीतर versatility है।</p>\n<h2 id=\"hi213-specific\">Task-specific cleaners narrower problems address करते हैं</h2><p>Task-specific product किसी particular residue, surface, machine process या regulated claim के लिए design हो सकता है। जहाँ general-purpose product task requirement meet नहीं करता, वहाँ narrow purpose relevant हो सकता है।</p>\n<h2 id=\"hi213-not-ranking\">Categories performance ranking नहीं हैं</h2><p>Task-specific का मतलब automatically “stronger” नहीं और general-purpose का मतलब “weaker” नहीं। सही सवाल यह है कि finished product actual soil, surface और required outcome से match करता है या नहीं।</p>\n<h2 id=\"hi213-avoid-overuse\">Specialised chemistry बिना task reason के use नहीं करनी चाहिए</h2><p>जहाँ specialised product की जरूरत नहीं, वहाँ उसका use compatibility, handling या process requirements बढ़ा सकता है, बिना routine cleaning result improve किए।</p>\n<h2 id=\"hi213-program\">Facility program दोनों की भूमिका define करे</h2><p>Workplaces में controlled product list उपयोगी है, जो बताती है कि कौन-से approved products routine tasks के लिए हैं और कौन specific applications के लिए reserved हैं।</p>\n<h2 id=\"hi213-takeaway\">मुख्य बात</h2><p>General-purpose और task-specific cleaners अलग workflow needs solve करते हैं। Selection defined task और approved product program के अनुसार होनी चाहिए, category labels के आधार पर नहीं।</p>\n<h2 id=\"hi213-references\">संदर्भ</h2><ol><li id=\"hi213-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi213-ref-2\"><a href=\"https://www.epa.gov/saferchoice/products\">US EPA — Safer Choice Product Search</a>.</li></ol>",
+  "seo_title": "General-Purpose और Task-Specific Cleaner में अंतर | Alle's ClinX",
+  "meta_description": "General-purpose और task-specific cleaners अलग workflow roles serve करते हैं; कोई category inherently better नहीं है, और suitability soil, surface तथा approved task पर निर्भर करती है."
+}
