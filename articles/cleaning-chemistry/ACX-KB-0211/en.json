@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0211",
+  "slug": "how-to-choose-a-cleaning-product-by-soil-and-surface",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0212",
+    "ACX-KB-0213",
+    "ACX-KB-0186"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Products, Soil, and Surface Compatibility",
+  "excerpt": "Cleaning chemistry has to be compatible with both the soil being removed and the surface being protected; this overview explains those factors without recommending products.",
+  "content_html": "<p>Cleaning chemistry interacts with two things at the same time: the soil being removed and the surface being protected. Different soils and materials can respond differently, which is why labels and surface-care guidance matter.</p>\n<h2 id=\"soil\">Soils are not chemically identical</h2><p>Oily residue, mineral deposits, particulate soil and food residue have different properties. A formulation that interacts well with one soil type may behave differently with another.</p>\n<h2 id=\"surface\">Surfaces have different compatibility limits</h2><p>Metals, glass, stone, resilient flooring, coatings, plastics and textiles can respond differently to cleaning chemistry, moisture and mechanical action.</p>\n<h2 id=\"task\">The task changes the context</h2><p>Routine cleaning, stain removal, equipment maintenance and regulated disinfection are different activities. Product claims and restrictions should be read in the context of the intended task.</p>\n<h2 id=\"compatibility\">Compatibility is a core safety consideration</h2><p>CDC guidance includes material compatibility, safety and manufacturer instructions among important considerations for environmental cleaning products.</p>\n<h2 id=\"labels\">Labels and approved procedures are the reference point</h2><p>In workplaces, trained users should follow the approved product list, manufacturer label and surface-care instructions rather than relying on colour, fragrance, foam or informal assumptions.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Soil type, surface material and task context all influence cleaning compatibility. The safest reference point is the exact product label together with approved workplace procedures.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Cleaning Products, Soil, and Surface Compatibility | Alle's ClinX",
+  "meta_description": "Cleaning-product selection starts by identifying the soil, the surface, compatibility requirements and the approved task—not by choosing the most aggressive chemistry."
+}

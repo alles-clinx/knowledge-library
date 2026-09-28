@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0209",
+  "slug": "how-hard-water-affects-cleaning",
+  "subcategory": "Water Hardness",
+  "subcategory_slug": "water-hardness",
+  "related_article_ids": [
+    "ACX-KB-0208",
+    "ACX-KB-0210",
+    "ACX-KB-0205"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0209",
+  "title": "Hard Water Cleaning को कैसे प्रभावित करता है",
+  "excerpt": "Hard water में dissolved calcium और magnesium अधिक होते हैं, जो कुछ cleaning processes में बाधा डाल सकते हैं, residue बढ़ा सकते हैं और mineral deposits बना सकते हैं.",
+  "content_html": "<p>Hard water में dissolved calcium और magnesium अपेक्षाकृत अधिक होते हैं। ये minerals soaps और कुछ detergent systems के behaviour को बदल सकते हैं, residue बढ़ा सकते हैं और surfaces तथा equipment पर mineral deposits बनने की tendency बढ़ा सकते हैं।</p>\n<h2 id=\"hi209-soap\">Hardness soap efficiency घटा सकती है</h2><p>Calcium और magnesium traditional soaps के साथ react करके insoluble material बना सकते हैं, जिसे अक्सर soap scum कहा जाता है। इससे cleaning chemistry का कुछ हिस्सा soil removal से पहले ही consume हो सकता है।</p>\n<h2 id=\"hi209-residue\">Minerals visible residue छोड़ सकते हैं</h2><p>Hard water सूखने पर dissolved minerals surface पर रह सकते हैं। यह spots, haze या deposits के रूप में दिखाई दे सकता है, खासकर जहाँ water बार-बार evaporate होता है।</p>\n<h2 id=\"hi209-formulation\">Modern detergents hard water के लिए design किए जा सकते हैं</h2><p>Cleaning formulations में builders, chelating agents या sequestering agents हो सकते हैं, जो dissolved minerals manage करने में मदद करते हैं ताकि surfactants और अन्य ingredients अधिक consistently काम करें।</p>\n<h2 id=\"hi209-equipment\">Equipment भी प्रभावित हो सकता है</h2><p>Hard water के repeated exposure से heating surfaces, spray components और अन्य equipment पर mineral deposition हो सकता है। Hardness-related scale concern होने पर equipment-maker guidance follow करनी चाहिए।</p>\n<h2 id=\"hi209-water-quality\">Hardness water quality का केवल एक factor है</h2><p>Water hardness पूरी water quality describe नहीं करती। Temperature, dissolved solids, pH और अन्य factors भी cleaning process को प्रभावित कर सकते हैं।</p>\n<h2 id=\"hi209-takeaway\">मुख्य बात</h2><p>Hard water soap interaction, residue और mineral deposition के जरिए cleaning को प्रभावित कर सकता है। Formulation design और equipment maintenance इन effects को manage करने में मदद करते हैं।</p>\n<h2 id=\"hi209-references\">संदर्भ</h2><ol><li id=\"hi209-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"hi209-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Hard Water Cleaning को कैसे प्रभावित करता है | Alle's ClinX",
+  "meta_description": "Hard water में dissolved calcium और magnesium अधिक होते हैं, जो कुछ cleaning processes में बाधा डाल सकते हैं, residue बढ़ा सकते हैं और mineral deposits बना सकते हैं."
+}

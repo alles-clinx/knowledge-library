@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0212",
+  "slug": "why-product-selection-should-start-with-the-task",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0211",
+    "ACX-KB-0213",
+    "ACX-KB-0184"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0212",
+  "title": "Cleaning Tasks और Product Labels: Context क्यों महत्वपूर्ण है",
+  "excerpt": "अलग cleaning tasks में surface, claim, compatibility और safety requirements अलग हो सकती हैं; यह overview बताता है कि labels को context में क्यों पढ़ना चाहिए.",
+  "content_html": "<p>Product name या chemical category पूरा cleaning context describe नहीं करता। Routine cleaning, stain removal, equipment care और regulated disinfection में अलग surfaces, claims और safety requirements हो सकते हैं।</p>\n<h2 id=\"hi212-outcome\">अलग tasks के intended outcomes अलग होते हैं</h2><p>Ordinary soil removal, equipment maintenance और regulated disinfection एक जैसी activities नहीं हैं। इनके restrictions और documentation requirements अलग हो सकते हैं।</p>\n<h2 id=\"hi212-context\">Operating context महत्वपूर्ण है</h2><p>Surface material, equipment, water conditions, available mechanical action और workplace procedures यह प्रभावित करते हैं कि approved program में product कैसे use होता है।</p>\n<h2 id=\"hi212-claims\">Claims exact product के होते हैं</h2><p>जहाँ regulated antimicrobial claim relevant हो, वह registered product और उसके label का होता है। Generic chemical-category names वही claim establish नहीं करते।</p>\n<h2 id=\"hi212-safety\">Safety information context का हिस्सा है</h2><p>Ventilation, handling requirements, material compatibility और worker precautions products और work areas के बीच अलग हो सकते हैं।</p>\n<h2 id=\"hi212-labels\">Category shortcuts से बचें</h2><p>“Industrial,” “acidic,” “alkaline,” “concentrated” या “disinfecting” जैसे terms अकेले सभी safe-use requirements नहीं बताते।</p>\n<h2 id=\"hi212-takeaway\">मुख्य बात</h2><p>Task label को context देता है। Trained workplace users के लिए approved procedures, exact product instructions और surface compatibility information उचित references हैं।</p>\n<h2 id=\"hi212-references\">संदर्भ</h2><ol><li id=\"hi212-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi212-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Cleaning Tasks और Product Labels: Context क्यों महत्वपूर्ण है | Alle's ClinX",
+  "meta_description": "Cleaning task से शुरू करने पर product select करने से पहले soil, surface, required claim, equipment compatibility और safety constraints define किए जा सकते हैं."
+}

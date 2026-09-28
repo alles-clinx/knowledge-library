@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0210",
+  "slug": "why-scale-forms-on-surfaces",
+  "subcategory": "Water Hardness",
+  "subcategory_slug": "water-hardness",
+  "related_article_ids": [
+    "ACX-KB-0208",
+    "ACX-KB-0209",
+    "ACX-KB-0204"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Scale Forms on Surfaces",
+  "excerpt": "Scale forms when dissolved minerals become less soluble or are left behind as water heats or evaporates, creating deposits on surfaces and equipment.",
+  "content_html": "<p>Scale is a mineral deposit that forms when dissolved material in water becomes less soluble or remains behind after water evaporates. Calcium-containing deposits are common in hard-water systems, especially where surfaces are repeatedly heated or wetted.</p>\n<h2 id=\"evaporation\">Evaporation leaves dissolved minerals behind</h2><p>Water can evaporate while minerals remain. Repeated wetting and drying can gradually concentrate these minerals on a surface and build a visible deposit.</p>\n<h2 id=\"heating\">Heating can encourage deposition</h2><p>Changes in temperature can alter mineral solubility and speed the formation of deposits on heating elements, hot-water surfaces and other equipment.</p>\n<h2 id=\"texture\">Rough deposits can trap more material</h2><p>Once scale develops, the surface can become less smooth. That can make additional mineral deposition and soil retention easier in some settings.</p>\n<h2 id=\"not-all-residue\">Not every white residue is scale</h2><p>Cleaning-product residue, soap scum and other deposits can also look pale or chalky. Correct identification matters before a facility changes its cleaning or maintenance approach.</p>\n<h2 id=\"maintenance\">Scale control is part of maintenance</h2><p>Where scale affects equipment or fixed surfaces, follow the equipment or surface manufacturer's maintenance guidance and the facility's approved procedures rather than improvising chemical treatment.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Scale forms because minerals leave solution and accumulate. Hard water, heating, evaporation and repeated exposure can all contribute to the process.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"ref-2\"><a href=\"https://water.usgs.gov/nwc/NWC/water_quality/tables/quality.abs.html\">USGS — Water Quality Characteristics</a>.</li></ol>",
+  "seo_title": "Why Scale Forms on Surfaces | Alle's ClinX",
+  "meta_description": "Scale forms when dissolved minerals become less soluble or are left behind as water heats or evaporates, creating deposits on surfaces and equipment."
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0213",
+  "slug": "general-purpose-cleaner-vs-task-specific-cleaner",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0211",
+    "ACX-KB-0212",
+    "ACX-KB-0186"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0213",
+  "title": "General-Purpose और Task-Specific Cleaners: Label Context",
+  "excerpt": "General-purpose और task-specific product-role labels हैं; यह overview बिना ranking या chemistry-use advice के उनका distinction समझाता है.",
+  "content_html": "<p>“General-purpose” और “task-specific” अलग product roles describe करते हैं। ये safety या performance ranking नहीं हैं और exact product label को replace नहीं करते।</p>\n<h2 id=\"hi213-general\">General-purpose एक broad role description है</h2><p>General-purpose cleaner आम तौर पर manufacturer द्वारा stated compatible surfaces और uses के भीतर routine cleaning situations के लिए intended होता है।</p>\n<h2 id=\"hi213-specific\">Task-specific एक narrower role description है</h2><p>Task-specific product किसी narrower residue, surface, machine process या regulated claim से associated हो सकता है। Label उन boundaries को define करता है।</p>\n<h2 id=\"hi213-not-ranking\">ये terms ranking नहीं हैं</h2><p>Task-specific का मतलब automatically “stronger” नहीं और general-purpose का मतलब “weaker” नहीं। अलग formulations के hazards और compatibility limits अलग हो सकते हैं।</p>\n<h2 id=\"hi213-labels\">Category names से अधिक exact labels महत्वपूर्ण हैं</h2><p>Workplace users को approved product lists, manufacturer instructions और safety information पर rely करना चाहिए, एक product category को दूसरे के substitute की तरह नहीं लेना चाहिए।</p>\n<h2 id=\"hi213-program\">Controlled programs ambiguity कम करते हैं</h2><p>Facilities clearly document कर सकती हैं कि कौन-से approved products किन tasks और surfaces के लिए assigned हैं।</p>\n<h2 id=\"hi213-takeaway\">मुख्य बात</h2><p>General-purpose और task-specific workflow descriptions हैं। इन्हें exact product label और approved workplace program के context में समझना चाहिए, interchangeable choices या performance grades की तरह नहीं।</p>\n<h2 id=\"hi213-references\">संदर्भ</h2><ol><li id=\"hi213-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi213-ref-2\"><a href=\"https://www.epa.gov/saferchoice/products\">US EPA — Safer Choice Product Search</a>.</li></ol>",
+  "seo_title": "General-Purpose और Task-Specific Cleaners: Label Context | Alle's ClinX",
+  "meta_description": "General-purpose और task-specific cleaners अलग workflow roles serve करते हैं; कोई category inherently better नहीं है, और suitability soil, surface तथा approved task पर निर्भर करती है."
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0210",
+  "slug": "why-scale-forms-on-surfaces",
+  "subcategory": "Water Hardness",
+  "subcategory_slug": "water-hardness",
+  "related_article_ids": [
+    "ACX-KB-0208",
+    "ACX-KB-0209",
+    "ACX-KB-0204"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0210",
+  "title": "Surfaces पर Scale क्यों बनती है",
+  "excerpt": "Scale तब बनती है जब dissolved minerals कम soluble हो जाते हैं या water heat/evaporation के बाद surface पर रह जाते हैं, जिससे deposits बनते हैं.",
+  "content_html": "<p>Scale एक mineral deposit है जो तब बनता है जब water में dissolved material कम soluble हो जाता है या water evaporate होने के बाद surface पर रह जाता है। Hard-water systems में calcium-containing deposits common हो सकते हैं, खासकर repeatedly heated या wetted surfaces पर।</p>\n<h2 id=\"hi210-evaporation\">Evaporation minerals पीछे छोड़ सकती है</h2><p>Water evaporate हो सकता है लेकिन minerals surface पर रह जाते हैं। Repeated wetting और drying से धीरे-धीरे visible deposits बन सकते हैं।</p>\n<h2 id=\"hi210-heating\">Heating deposition बढ़ा सकती है</h2><p>Temperature changes mineral solubility को बदल सकते हैं और heating elements, hot-water surfaces तथा equipment पर deposits बनने की tendency बढ़ा सकते हैं।</p>\n<h2 id=\"hi210-texture\">Rough deposits अधिक material पकड़ सकते हैं</h2><p>Scale बनने के बाद surface कम smooth हो सकती है। कुछ settings में इससे और mineral deposition तथा soil retention आसान हो सकती है।</p>\n<h2 id=\"hi210-not-all-residue\">हर white residue scale नहीं होता</h2><p>Cleaning-product residue, soap scum और अन्य deposits भी pale या chalky दिख सकते हैं। Cleaning या maintenance approach बदलने से पहले सही identification जरूरी है।</p>\n<h2 id=\"hi210-maintenance\">Scale control maintenance का हिस्सा है</h2><p>जहाँ scale equipment या fixed surfaces को प्रभावित करती है, वहाँ improvised chemical treatment के बजाय manufacturer maintenance guidance और approved facility procedures follow करें।</p>\n<h2 id=\"hi210-takeaway\">मुख्य बात</h2><p>Scale तब बनती है जब minerals solution से बाहर आकर जमा होते हैं। Hard water, heating, evaporation और repeated exposure सभी contribute कर सकते हैं।</p>\n<h2 id=\"hi210-references\">संदर्भ</h2><ol><li id=\"hi210-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"hi210-ref-2\"><a href=\"https://water.usgs.gov/nwc/NWC/water_quality/tables/quality.abs.html\">USGS — Water Quality Characteristics</a>.</li></ol>",
+  "seo_title": "Surfaces पर Scale क्यों बनती है | Alle's ClinX",
+  "meta_description": "Scale तब बनती है जब dissolved minerals कम soluble हो जाते हैं या water heat/evaporation के बाद surface पर रह जाते हैं, जिससे deposits बनते हैं."
+}

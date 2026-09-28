@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0212",
+  "slug": "why-product-selection-should-start-with-the-task",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0211",
+    "ACX-KB-0213",
+    "ACX-KB-0184"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Tasks and Product Labels: Why Context Matters",
+  "excerpt": "Cleaning tasks create different surface, claim, compatibility and safety requirements; this overview explains why labels must be read in context.",
+  "content_html": "<p>A product name or chemical category does not describe the whole cleaning context. Routine cleaning, stain removal, equipment care and regulated disinfection can involve different surfaces, claims and safety requirements.</p>\n<h2 id=\"outcome\">Different tasks have different intended outcomes</h2><p>Removing ordinary soil is not the same activity as maintaining equipment or carrying out a regulated disinfection procedure. Each task can involve different restrictions and documentation.</p>\n<h2 id=\"context\">The operating context matters</h2><p>Surface material, equipment, water conditions, available mechanical action and workplace procedures all affect how a cleaning product is used within an approved program.</p>\n<h2 id=\"claims\">Claims belong to the exact product</h2><p>Where a regulated antimicrobial claim is relevant, the claim belongs to the registered product and its label. Generic chemical-category names do not establish the same claim.</p>\n<h2 id=\"safety\">Safety information is part of the context</h2><p>Ventilation, handling requirements, material compatibility and worker precautions can differ between products and work areas.</p>\n<h2 id=\"labels\">Avoid category shortcuts</h2><p>Terms such as “industrial,” “acidic,” “alkaline,” “concentrated” or “disinfecting” do not by themselves describe all safe-use requirements.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>The task gives context to the label. Approved procedures, exact product instructions and surface compatibility information are the appropriate references for trained workplace users.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Cleaning Tasks and Product Labels: Why Context Matters | Alle's ClinX",
+  "meta_description": "Starting with the cleaning task helps define the soil, surface, required claim, equipment compatibility and safety constraints before a product is selected."
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0211",
+  "slug": "how-to-choose-a-cleaning-product-by-soil-and-surface",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0212",
+    "ACX-KB-0213",
+    "ACX-KB-0186"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0211",
+  "title": "Cleaning Products, Soil और Surface Compatibility",
+  "excerpt": "Cleaning chemistry को soil और protected surface दोनों के साथ compatible होना चाहिए; यह overview बिना product recommendation के उन factors को समझाता है.",
+  "content_html": "<p>Cleaning chemistry एक साथ दो चीजों के साथ interact करती है: हटाई जाने वाली soil और protect की जाने वाली surface। अलग soils और materials अलग तरह respond कर सकते हैं, इसलिए labels और surface-care guidance महत्वपूर्ण हैं।</p>\n<h2 id=\"hi211-soil\">Soils chemically identical नहीं होतीं</h2><p>Oily residue, mineral deposits, particulate soil और food residue की properties अलग होती हैं। एक formulation एक soil type के साथ अलग और दूसरी के साथ अलग behave कर सकता है।</p>\n<h2 id=\"hi211-surface\">Surfaces की compatibility limits अलग होती हैं</h2><p>Metals, glass, stone, resilient flooring, coatings, plastics और textiles cleaning chemistry, moisture और mechanical action पर अलग तरह respond कर सकते हैं।</p>\n<h2 id=\"hi211-task\">Task context बदलता है</h2><p>Routine cleaning, stain removal, equipment maintenance और regulated disinfection अलग activities हैं। Product claims और restrictions को intended task के context में पढ़ना चाहिए।</p>\n<h2 id=\"hi211-compatibility\">Compatibility safety का core factor है</h2><p>CDC guidance environmental cleaning products के लिए material compatibility, safety और manufacturer instructions को important considerations में रखता है।</p>\n<h2 id=\"hi211-labels\">Labels और approved procedures reference point हैं</h2><p>Workplace में trained users को approved product list, manufacturer label और surface-care instructions follow करनी चाहिए, न कि colour, fragrance, foam या informal assumptions पर निर्भर होना चाहिए।</p>\n<h2 id=\"hi211-takeaway\">मुख्य बात</h2><p>Soil type, surface material और task context cleaning compatibility को प्रभावित करते हैं। Safest reference point exact product label और approved workplace procedure है।</p>\n<h2 id=\"hi211-references\">संदर्भ</h2><ol><li id=\"hi211-ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"hi211-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Cleaning Products, Soil और Surface Compatibility | Alle's ClinX",
+  "meta_description": "Cleaning-product selection soil, surface, compatibility requirements और approved task की पहचान से शुरू होना चाहिए—सबसे aggressive chemistry चुनने से नहीं."
+}
