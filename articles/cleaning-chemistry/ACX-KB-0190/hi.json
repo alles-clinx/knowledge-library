@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0190",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0190",
+  "title": "क्या ऊँचा pH मतलब ज्यादा शक्तिशाली क्लीनर है?",
+  "slug": "does-higher-ph-mean-a-stronger-cleaner",
+  "subcategory": "pH, Acids & Alkalis",
+  "subcategory_slug": "ph-acids-alkalis",
+  "excerpt": "ऊँचा pH अपने आप किसी क्लीनर को ज्यादा शक्तिशाली नहीं बनाता; प्रदर्शन पूरे फॉर्म्युलेशन, गंदगी, सतह, कंसन्ट्रेशन और प्रक्रिया पर निर्भर करता है।",
+  "content_html": "<p>नहीं। ऊँचा pH अपने आप किसी उत्पाद को “ज्यादा शक्तिशाली क्लीनर” नहीं बनाता। pH केवल यह बताता है कि पानी-आधारित घोल कितना अम्लीय या क्षारीय है। सफाई प्रदर्शन पूरे फॉर्म्युलेशन और काम से उसके मेल पर निर्भर करता है।</p>\n<h2 id=\"hi190-ph-measures\">pH वास्तव में क्या मापता है</h2><p>pH स्केल पानी-आधारित घोल की अम्लीयता और क्षारीयता बताता है। USGS के अनुसार यह लॉगरिदमिक स्केल है, इसलिए एक pH यूनिट का बदलाव हाइड्रोजन आयन गतिविधि में दस गुना बदलाव दर्शाता है। यह रासायनिक गुण है, सफाई शक्ति का सीधा स्कोर नहीं।</p>\n<h2 id=\"hi190-formulation\">एक संख्या से ज्यादा महत्वपूर्ण पूरा फॉर्म्युलेशन है</h2><p>दो उत्पादों का pH समान हो सकता है, फिर भी वे अलग सफाई कर सकते हैं क्योंकि उनके सर्फैक्टेंट, सॉल्वेंट, चिलेटिंग एजेंट, बिल्डर और अन्य घटक अलग होते हैं। EPA इन घटक वर्गों को अलग कार्य करने वाले हिस्सों के रूप में वर्णित करता है।</p>\n<h2 id=\"hi190-soil-match\">प्रदर्शन गंदगी पर निर्भर करता है</h2><p>एक उत्पाद किसी एक गंदगी पर बहुत अच्छा और दूसरी पर कमजोर हो सकता है। तेलीय अवशेष, खनिज जमाव और कणीय गंदगी समान प्रतिक्रिया नहीं देते।</p>\n<h2 id=\"hi190-surface\">अधिक क्षारीयता अनुकूलता समस्या भी बढ़ा सकती है</h2><p>कुछ सतह, कोटिंग और सामग्री अम्लीय या क्षारीय स्थिति की सीमा रखते हैं। निर्माता से अधिक क्षारीयता या गलत उत्पाद उपयोग सतह नुकसान का जोखिम बढ़ा सकता है, बिना बेहतर सफाई की गारंटी के।</p>\n<h2 id=\"hi190-concentration\">कंसन्ट्रेशन pH से अलग विषय है</h2><p>निर्देश से अधिक कंसन्ट्रेट उपयोग करने से उत्पाद बेहतर क्लीनर नहीं बन जाता। CDC निर्माता निर्देश के अनुसार सफाई घोल तैयार करने की सलाह देता है और अधिक कंसन्ट्रेशन से अनावश्यक जोखिम बढ़ने की चेतावनी देता है।</p>\n<h2 id=\"hi190-takeaway\">मुख्य बात</h2><p>pH रासायनिक वातावरण और अनुकूलता समझने में उपयोगी है, लेकिन यह सफाई शक्ति का सार्वभौमिक माप नहीं है। क्लीनर का मूल्यांकन पूरे फॉर्म्युलेशन, स्वीकृत कंसन्ट्रेशन और काम से मेल के आधार पर करें।</p>\n<h2 id=\"hi190-references\">संदर्भ</h2><ol><li id=\"hi190-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/ph-and-water\">USGS — pH and Water</a>.</li><li id=\"hi190-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi190-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "क्या ऊँचा pH मतलब ज्यादा शक्तिशाली क्लीनर है? | Alle's ClinX",
+  "meta_description": "जानें कि ऊँचा pH अपने आप बेहतर सफाई क्यों नहीं देता और फॉर्म्युलेशन, गंदगी, कंसन्ट्रेशन तथा सतह क्यों अधिक महत्वपूर्ण हैं।",
+  "related_article_ids": [
+    "ACX-KB-0188",
+    "ACX-KB-0189",
+    "ACX-KB-0191"
+  ]
+}
