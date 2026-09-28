@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0196",
+  "slug": "what-are-disinfectant-active-ingredients",
+  "subcategory": "Disinfectant Actives",
+  "subcategory_slug": "disinfectant-actives",
+  "related_article_ids": [
+    "ACX-KB-0197",
+    "ACX-KB-0198",
+    "ACX-KB-0196"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0196",
+  "title": "डिसइन्फेक्टेंट active ingredients क्या होते हैं?",
+  "excerpt": "Disinfectant active ingredients registered उत्पाद के वे antimicrobial chemicals हैं जो निर्धारित conditions में specific microorganisms के खिलाफ labeled claims का आधार बनते हैं.",
+  "content_html": "<p>Disinfectant active ingredients तैयार disinfectant उत्पाद में मौजूद वे antimicrobial chemicals हैं जो उसके registered claims का आधार बनते हैं। Active ingredient महत्वपूर्ण है, लेकिन कानूनी और व्यावहारिक claim पूरे registered product और उसके label का होता है—सिर्फ ingredient name का नहीं।</p>\n<h2 id=\"hi196-examples\">Active ingredients के कई chemical families होते हैं</h2><p>Environmental disinfectants में quaternary ammonium compounds, chlorine-releasing compounds, hydrogen peroxide, phenolics और अन्य active families हो सकती हैं। अलग products के organism claims, surfaces और use sites अलग हो सकते हैं।</p>\n<h2 id=\"hi196-label\">Label claim को परिभाषित करता है</h2><p>EPA-registered disinfectants पर EPA registration number और label directions होते हैं। इन्हीं से तय होता है कि उत्पाद कहाँ उपयोग के लिए registered है और कौन-से antimicrobial claims कर सकता है। एक active ingredient से उसी family के हर product का claim मान लेना सही नहीं है।</p>\n<h2 id=\"hi196-formulation\">पूरा फॉर्म्युलेशन महत्वपूर्ण है</h2><p>प्रदर्शन केवल antimicrobial ingredient पर निर्भर नहीं करता। Surfactants, solvents, stabilisers और अन्य घटक surface wetting, stability और registered performance को प्रभावित कर सकते हैं।</p>\n<h2 id=\"hi196-clean-first\">Cleaning और disinfection अलग चरण हैं</h2><p>CDC बताता है कि disinfection से पहले organic और inorganic material हटाना महत्वपूर्ण हो सकता है क्योंकि soil antimicrobial performance में बाधा डाल सकता है। Active ingredient उचित cleaning की जरूरत खत्म नहीं करता।</p>\n<h2 id=\"hi196-safety\">Active ingredients के hazard profiles भी होते हैं</h2><p>Disinfectant products को label, hazard information और workplace procedures के अनुसार संभालना चाहिए। Disinfectant products को आपस में न मिलाएँ और antimicrobial chemicals के improvised combinations न बनाएं।</p>\n<h2 id=\"hi196-takeaway\">मुख्य बात</h2><p>Active ingredient यह समझने में मदद करता है कि disinfectant किस chemical family पर आधारित है, लेकिन approved claims और limitations के लिए product label authoritative source है।</p>\n<h2 id=\"hi196-references\">संदर्भ</h2><ol><li id=\"hi196-ref-1\"><a href=\"https://www.epa.gov/pesticide-registration/list-n-tool-covid-19-disinfectants\">US EPA — List N Tool</a>.</li><li id=\"hi196-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/executive-summary.html\">CDC — Disinfection and Sterilization Executive Summary</a>.</li></ol>",
+  "seo_title": "डिसइन्फेक्टेंट active ingredients क्या होते हैं? | Alle's ClinX",
+  "meta_description": "Disinfectant active ingredients registered उत्पाद के वे antimicrobial chemicals हैं जो निर्धारित conditions में specific microorganisms के खिलाफ labeled claims का आधार बनते हैं."
+}
