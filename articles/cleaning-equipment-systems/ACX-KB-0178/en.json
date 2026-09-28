@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0178",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Controlled Dosing Improves Consistency",
+  "slug": "why-controlled-dosing-improves-consistency",
+  "subcategory": "Dispensing & Dosing Systems",
+  "subcategory_slug": "dispensing-dosing-systems",
+  "excerpt": "Controlled dosing reduces variation in solution preparation by making the concentrate-to-water ratio more repeatable than unstructured manual mixing.",
+  "content_html": "<p>Cleaning products are designed to work within a specified use range. Controlled dosing helps keep solution preparation close to that target each time, reducing the variation that can occur when different people estimate or measure concentrate differently.</p>\n<h2 id=\"concentration\">Concentration affects the process</h2><p>Too little product may reduce cleaning or disinfection performance where a labelled concentration is required. Too much product does not automatically clean better and can increase residue, cost, surface compatibility problems or worker exposure. CDC guidance states that both over-concentration and excessive dilution can create problems.</p>\n<h2 id=\"repeatability\">Repeatability simplifies training</h2><p>When an approved dispenser fills the same container at the same setting, the preparation step becomes easier to standardise. Staff still need to select the correct product and outlet, use the right container and follow the procedure, but fewer concentration decisions are being made from memory.</p>\n<h2 id=\"process-control\">Dosing supports process control</h2><p>Consistent solution strength makes it easier to investigate other causes when results vary. If concentration is verified, teams can look at soil load, contact time, mechanical action, surface condition, tool cleanliness or technique rather than first wondering whether every batch was mixed differently.</p>\n<h2 id=\"cost-residue\">Control also limits avoidable waste</h2><p>Accurate dosing can reduce unnecessary concentrate use and the residue associated with overuse. The objective is not to use the least chemical possible; it is to prepare the concentration specified for the job.</p>\n<h2 id=\"calibration\">Consistency depends on calibration</h2><p>A dosing system can repeat the wrong result if it is incorrectly set or poorly maintained. CDC therefore recommends regular calibration of automatic dispensing systems. Where a procedure calls for concentration checks, use the appropriate test method and document corrective action when results fall outside the accepted range.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Controlled dosing improves consistency by turning dilution into a repeatable, verifiable process. The benefit is strongest when the system is correctly configured, calibrated and used with clear product and container identification.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li></ol>",
+  "seo_title": "Why Controlled Dosing Improves Consistency | Alle's ClinX",
+  "meta_description": "See how controlled dosing reduces dilution variation, supports repeatable cleaning and limits overuse when systems are properly calibrated.",
+  "related_article_ids": [
+    "ACX-KB-0177",
+    "ACX-KB-0179",
+    "ACX-KB-0180"
+  ]
+}
