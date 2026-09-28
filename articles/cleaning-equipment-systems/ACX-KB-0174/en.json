@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0174",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Vacuum Cleaning and Extraction Cleaning Differ",
+  "slug": "how-vacuum-cleaning-and-extraction-cleaning-differ",
+  "subcategory": "Vacuum & Extraction Equipment",
+  "subcategory_slug": "vacuum-extraction-equipment",
+  "excerpt": "Vacuuming primarily removes loose dry soil, while extraction cleaning uses liquid to loosen embedded soil and then recovers the contaminated solution.",
+  "content_html": "<p>Vacuum cleaning and extraction cleaning both use suction, but they are different processes. Vacuuming is primarily a dry-soil removal step. Extraction cleaning introduces liquid into the cleaning process and then recovers that liquid together with loosened soil.</p>\n<h2 id=\"vacuum\">What vacuum cleaning does</h2><p>A vacuum cleaner uses airflow, filtration and often brush agitation to collect loose dust, grit, fibres and other dry particles. Routine vacuuming is a key maintenance step because removing dry soil before it becomes embedded reduces the load on later wet cleaning.</p>\n<h2 id=\"extraction\">What extraction cleaning does</h2><p>Extraction cleaning applies water or cleaning solution to the textile surface, loosens soil through chemistry and sometimes agitation, and uses suction to recover the used liquid. Hot-water extraction is one common form, but equipment and procedures vary.</p>\n<h2 id=\"sequence\">They are often used in sequence</h2><p>Extraction does not eliminate the need for dry vacuuming. Published Carpet and Rug Institute test procedures commonly include pre-vacuuming before pretreatment and extraction. Removing loose dry soil first helps the wet process focus on soil that remains in the carpet.</p>\n<h2 id=\"drying\">Moisture changes the workflow</h2><p>Vacuuming usually leaves the carpet ready for immediate use. Extraction introduces moisture, so the process must include effective recovery and adequate drying before normal use. Excess moisture can extend drying time and may create other carpet or indoor-environment problems.</p>\n<h2 id=\"hygiene\">Equipment hygiene matters</h2><p>CDC guidance for healthcare environments notes that vacuuming and wet carpet cleaning can disperse material if equipment is poorly controlled. It recommends maintaining vacuum equipment to minimise dust dispersal and keeping wet-cleaning and extraction equipment in good repair and able to dry between uses.</p>\n<h2 id=\"choose\">Choose by soil and maintenance need</h2><p>Use routine vacuuming for loose dry soil and frequent maintenance. Use extraction when the carpet's condition, maintenance plan and manufacturer guidance call for deeper wet cleaning. The two methods complement each other rather than compete.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Vacuuming removes mainly dry loose soil; extraction uses liquid to loosen and recover more deeply held soil. A sound carpet-care programme normally treats dry-soil removal as preparation and extraction as a periodic wet-cleaning step.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services: Carpeting</a>.</li><li id=\"ref-2\"><a href=\"https://carpet-rug.org/soa-systems/70-millicare-hot-water-extraction-cleaning-system/\">Carpet and Rug Institute — Hot Water Extraction Cleaning System example</a>.</li></ol>",
+  "seo_title": "Vacuum Cleaning vs Extraction Cleaning | Alle's ClinX",
+  "meta_description": "Understand how routine vacuuming differs from carpet extraction cleaning, including soil removal, moisture, recovery and drying.",
+  "related_article_ids": [
+    "ACX-KB-0175",
+    "ACX-KB-0171",
+    "ACX-KB-0172"
+  ]
+}

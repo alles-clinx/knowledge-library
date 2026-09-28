@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0171",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Scrubber Dryer?",
+  "slug": "what-is-a-scrubber-dryer",
+  "subcategory": "Scrubber Dryers",
+  "subcategory_slug": "scrubber-dryers",
+  "excerpt": "A scrubber dryer combines wet scrubbing and dirty-water recovery so a hard floor can be cleaned and left substantially drier in one machine pass.",
+  "content_html": "<p>A scrubber dryer is a powered floor-cleaning machine that applies cleaning solution, agitates the floor with a brush or pad and then recovers the dirty liquid. The goal is to combine wet cleaning and water pickup in one controlled process.</p>\n<h2 id=\"how-it-works\">How the machine works</h2><p>Most scrubber dryers have a clean-solution tank, a brush or pad system, a squeegee and a vacuum-recovery system. Cleaning solution reaches the floor, mechanical action loosens soil, and the squeegee gathers the used liquid so the vacuum system can pull it into a recovery tank.</p>\n<h2 id=\"types\">Machines differ by size and cleaning head</h2><p>Models range from compact walk-behind machines to larger ride-on units. Some use disc brushes or pads, while others use cylindrical or roller brushes. The correct choice depends on the floor, soil, area size, obstacles and the machine manufacturer's instructions.</p>\n<h2 id=\"where-useful\">Where scrubber dryers are useful</h2><p>They are well suited to many hard floors that can tolerate wet cleaning, especially larger open areas where repeated manual mopping would be slow. They are not a substitute for every cleaning step: loose debris may need to be removed first, and edges, corners or congested areas can still require manual tools.</p>\n<h2 id=\"operator-controls\">Operator choices affect the result</h2><p>Cleaning quality depends on selecting the correct brush or pad, detergent, solution flow, travel speed and—where adjustable—brush pressure. Excess solution, an unsuitable pad, poor pre-cleaning or moving too quickly can reduce cleaning and recovery performance. Follow the floor-care procedure, product label and equipment manual rather than relying on a single machine setting.</p>\n<h2 id=\"drying-safety\">Recovery and floor safety</h2><p>A key advantage of the scrubber dryer is active recovery of dirty water. Good recovery can reduce the amount of liquid left on the floor, but the surface should still be checked before reopening it to normal traffic. Wet floors are a slip hazard, so facilities should use their required controls and warning procedures until the floor is dry.</p>\n<h2 id=\"care\">Care between uses</h2><p>Empty and rinse recovery components as directed, remove debris from the squeegee, inspect hoses and filters, and store equipment so cleaned components can dry. CDC guidance for environmental-cleaning equipment emphasises using equipment for its intended purpose, maintaining it and storing it dry between uses.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A scrubber dryer cleans by combining solution, mechanical agitation and liquid recovery. Its effectiveness depends on correct machine selection, setup, operation and maintenance—not simply on using a powered machine.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.kaercher.com/int/professional/floor-scrubbers-scrubber-driers.html\">Kärcher — Floor scrubbers / scrubber driers</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/etools/hospitals/housekeeping/slips-trips-falls\">OSHA — Housekeeping: Slips/Trips/Falls</a>.</li></ol>",
+  "seo_title": "What Is a Scrubber Dryer? | Alle's ClinX",
+  "meta_description": "Learn how scrubber dryers apply solution, scrub hard floors and recover dirty water, plus where they fit in a cleaning programme.",
+  "related_article_ids": [
+    "ACX-KB-0172",
+    "ACX-KB-0173",
+    "ACX-KB-0168"
+  ]
+}
