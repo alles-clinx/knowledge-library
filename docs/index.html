@@ -302,14 +302,6 @@ h2{
   font-size:15px;
 }
 .empty.show{display:block}
-.footer-note{
-  margin-top:72px;
-  padding-top:24px;
-  border-top:1px solid var(--line);
-  color:var(--muted);
-  font-size:13px;
-  line-height:1.5;
-}
 @media (max-width:760px){
   .page{
     width:min(100% - 40px,var(--page));
@@ -339,7 +331,6 @@ h2{
   .category{padding:20px 0 21px}
   .category strong{font-size:17px}
   .category span{margin-top:6px;font-size:13.5px}
-  .footer-note{margin-top:56px}
 }
 @media (max-width:500px){
   .slider-head-meta{align-items:center}
@@ -522,8 +513,8 @@ h2{
     <div class="empty" id="empty-state" role="status" aria-live="polite">No category matches your search.</div>
   </section>
 
-  <div class="footer-note">317 guides across 13 knowledge areas. · Alle's ClinX Open Knowledge.</div>
 </main>
+<div class="acx-bottom-brand" aria-hidden="true">Alle's ClinX</div>
 <script>
 (function(){
   document.querySelectorAll('[data-slider]').forEach(function(slider){
