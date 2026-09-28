@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0205",
+  "slug": "what-is-a-cleaning-chemical-concentrate",
+  "subcategory": "Dilution & Concentration",
+  "subcategory_slug": "dilution-concentration",
+  "related_article_ids": [
+    "ACX-KB-0206",
+    "ACX-KB-0207",
+    "ACX-KB-0184"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0205",
+  "title": "Cleaning-Chemical Concentrate क्या होता है?",
+  "excerpt": "Cleaning-chemical concentrate ऐसा product है जो intended use solution की तुलना में अधिक concentrated form में supply होता है और केवल label या approved dispensing system के अनुसार prepare किया जाना चाहिए.",
+  "content_html": "<p>Cleaning-chemical concentrate ऐसा product है जो routine use के लिए intended solution की तुलना में अधिक concentrated form में supply होता है। इसे manufacturer-specified controlled process के जरिए use solution में बदला जाता है, अक्सर approved dispensing system के साथ।</p>\n<h2 id=\"hi205-why\">Concentrates क्यों होते हैं</h2><p>Concentrated formats packaging, storage volume और water transport कम कर सकते हैं। सही dispensing system के साथ वे consistent use को भी support कर सकते हैं।</p>\n<h2 id=\"hi205-not-ready\">Concentrate अपने आप ready-to-use नहीं होता</h2><p>Liquid form में होना यह नहीं बताता कि product सीधे apply किया जा सकता है। Label या technical instructions तय करते हैं कि product concentrate है, ready-to-use है या किसी अन्य format में है।</p>\n<h2 id=\"hi205-label\">Intended use solution label से तय होता है</h2><p>CDC guidance manufacturer instructions के अनुसार environmental cleaning products prepare करने पर जोर देता है, क्योंकि बहुत कम या बहुत अधिक concentration effectiveness घटा सकती है या unnecessary risk बढ़ा सकती है।</p>\n<h2 id=\"hi205-dispensing\">Dispensing systems consistency control करते हैं</h2><p>जहाँ automatic dispensing उपयोग होता है, system को approved program के अनुसार maintain और calibrate किया जाना चाहिए। लक्ष्य repeatability है, colour, smell या foam देखकर अनुमान लगाना नहीं।</p>\n<h2 id=\"hi205-safety\">Concentrates के लिए अतिरिक्त controls हो सकते हैं</h2><p>Concentrates में प्रति volume अधिक product होता है, इसलिए labels और safety data handling, storage या protective measures बता सकते हैं। Trained staff को इन requirements का पालन करना चाहिए।</p>\n<h2 id=\"hi205-takeaway\">मुख्य बात</h2><p>Concentrate एक supply format है, उपयोग मात्रा guess करने का संकेत नहीं। Intended use solution manufacturer label और approved dispensing process से तय होता है।</p>\n<h2 id=\"hi205-references\">संदर्भ</h2><ol><li id=\"hi205-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"hi205-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Cleaning-Chemical Concentrate क्या होता है? | Alle's ClinX",
+  "meta_description": "Cleaning-chemical concentrate ऐसा product है जो intended use solution की तुलना में अधिक concentrated form में supply होता है और केवल label या approved dispensing system के अनुसार prepare किया जाना चाहिए."
+}
