@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0191",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Neutral Cleaner?",
+  "slug": "what-is-a-neutral-cleaner",
+  "subcategory": "pH, Acids & Alkalis",
+  "subcategory_slug": "ph-acids-alkalis",
+  "excerpt": "A neutral cleaner is a detergent formulated close to neutral pH, often chosen for routine cleaning where broad surface compatibility and controlled soil removal are priorities.",
+  "content_html": "<p>A neutral cleaner is a cleaning product formulated close to neutral pH. In professional environmental cleaning, the term usually refers to detergents designed for routine soil removal while remaining compatible with a broad range of washable surfaces.</p>\n<h2 id=\"ph-range\">Neutral is a practical range, not one exact point</h2><p>Pure neutral pH is 7, but commercial cleaners may be described as neutral or near-neutral across a small range. CDC recommends neutral detergents around pH 6 to 8 for many routine environmental-cleaning procedures.</p>\n<h2 id=\"how-clean\">Neutral cleaners still use active cleaning chemistry</h2><p>Near-neutral pH does not mean the product is only water or that it cleans weakly. Surfactants and other formulation ingredients can improve wetting, suspend soil and support removal while the overall solution remains close to neutral.</p>\n<h2 id=\"use\">Where neutral cleaners fit</h2><p>They are commonly useful for routine maintenance where the soil does not require specialised acidic or alkaline chemistry and where surface compatibility matters. Always check the product label and the surface manufacturer's instructions rather than assuming every neutral cleaner is safe for every material.</p>\n<h2 id=\"limits\">Neutral cleaners do not solve every cleaning problem</h2><p>Certain mineral deposits, heavy grease or specialised residues may require a product designed for that soil. CDC notes that specialised cleaning products can provide advantages for particular areas or materials.</p>\n<h2 id=\"dilution\">Use the specified dilution</h2><p>Even a neutral cleaner should be prepared and used as directed. Over-concentration can increase residue, cost and exposure, while excessive dilution can reduce performance.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A neutral cleaner combines near-neutral pH with a formulated detergent system. Its value is controlled routine cleaning and broad compatibility—not the absence of active chemistry.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "What Is a Neutral Cleaner? | Alle's ClinX",
+  "meta_description": "Learn what neutral cleaners are, why near-neutral pH does not mean weak cleaning, and where these detergents fit in routine surface care.",
+  "related_article_ids": [
+    "ACX-KB-0188",
+    "ACX-KB-0189",
+    "ACX-KB-0190"
+  ]
+}
