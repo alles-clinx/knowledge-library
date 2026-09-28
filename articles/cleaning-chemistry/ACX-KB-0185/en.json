@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0185",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Cleaning Products Remove Soil",
+  "slug": "how-cleaning-products-remove-soil",
+  "subcategory": "Cleaning Chemistry Basics",
+  "subcategory_slug": "chemistry-basics",
+  "excerpt": "Cleaning products remove soil through several mechanisms, including wetting, dissolving, emulsifying, suspending and controlling water conditions so soil can be separated from a surface.",
+  "content_html": "<p>Cleaning products do not remove every type of soil through one single mechanism. A formulation may help water reach the surface, loosen oily material, dissolve soluble deposits, bind interfering minerals or keep detached soil suspended until it can be wiped, rinsed or recovered.</p>\n<h2 id=\"wetting\">Wetting helps solution reach the soil</h2><p>Water naturally has surface tension. Surfactants reduce that tension so cleaning solution can spread more effectively across a surface and into small irregularities. Better wetting can improve contact between the cleaning solution and the soil.</p>\n<h2 id=\"oil\">Surfactants help manage oily soil</h2><p>Surfactant molecules have regions that interact differently with water and oily material. In a suitable formulation, this helps detach oily soil from a surface and disperse it into the cleaning solution so it can be removed. EPA identifies surfactants as key detergent ingredients that help remove dirt.</p>\n<h2 id=\"solubility\">Some soil can dissolve</h2><p>Water-soluble residues can move into the cleaning solution when the chemistry and conditions are suitable. Other soils may require a solvent system or a specialised formulation. This is why the same product is not equally effective against every residue.</p>\n<h2 id=\"suspension\">Loosened soil must stay controlled</h2><p>Once soil is detached, the cleaning process should keep it from simply settling back onto the surface. Formulation ingredients and adequate solution management help suspend or disperse loosened material until it is removed by wiping, rinsing, extraction or recovery.</p>\n<h2 id=\"water-hardness\">Water conditions can affect cleaning</h2><p>Minerals in water can interfere with some detergent systems. Builders and chelating or sequestering agents can be used in formulations to manage these minerals and support cleaning performance. EPA lists water-hardness control as one of the functional roles ingredients can serve in formulated products.</p>\n<h2 id=\"mechanical\">Chemistry works with mechanical action</h2><p>Chemistry loosens and mobilises soil, but wiping, brushing, scrubbing or machine agitation often provides the physical force needed to separate it from the surface. CDC guidance explicitly describes cleaning as combining cleaning products, water and mechanical action.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Cleaning products remove soil by changing how water, soil and surfaces interact. Wetting, dissolving, dispersing, suspending and mechanical removal work together, with the exact balance depending on the formulation and the soil.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-surfactants\">US EPA — Safer Choice Criteria for Surfactants</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "How Cleaning Products Remove Soil | Alle's ClinX",
+  "meta_description": "Learn how cleaning products use wetting, surfactants, solubility, suspension, water control and mechanical action to remove different types of soil.",
+  "related_article_ids": [
+    "ACX-KB-0184",
+    "ACX-KB-0186",
+    "ACX-KB-0187"
+  ]
+}
