@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 360,
+  "record_count": 366,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3962,6 +3962,72 @@
       "subcategory_slug": "equipment-maintenance",
       "excerpt": "प्रिवेंटिव मेंटेनेंस घिसाव, रुकावट, नुकसान और सेवा जरूरत को खराबी बनने से पहले पहचानकर उपकरण को सुरक्षित, स्वच्छ और भरोसेमंद रखता है।",
       "url": "library/cleaning-equipment-systems/equipment-maintenance/why-cleaning-equipment-needs-preventive-maintenance/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0181",
+      "locale": "en",
+      "title": "What Should an Equipment Maintenance Log Track?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Maintenance",
+      "subcategory_slug": "equipment-maintenance",
+      "excerpt": "A useful maintenance log records equipment identity, inspection dates, findings, work performed, parts changed, faults, downtime and who completed or approved the work.",
+      "url": "library/cleaning-equipment-systems/equipment-maintenance/what-should-an-equipment-maintenance-log-track/"
+    },
+    {
+      "article_id": "ACX-KB-0181",
+      "locale": "hi-IN",
+      "title": "उपकरण मेंटेनेंस लॉग में क्या दर्ज होना चाहिए?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Maintenance",
+      "subcategory_slug": "equipment-maintenance",
+      "excerpt": "अच्छा मेंटेनेंस लॉग उपकरण की पहचान, निरीक्षण तिथि, स्थिति, किए गए काम, बदले भाग, खराबी, डाउनटाइम और जिम्मेदार व्यक्ति को दर्ज करता है।",
+      "url": "library/cleaning-equipment-systems/equipment-maintenance/what-should-an-equipment-maintenance-log-track/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0182",
+      "locale": "en",
+      "title": "Why Cleaning Equipment Performance Declines Over Time",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Troubleshooting",
+      "subcategory_slug": "equipment-troubleshooting",
+      "excerpt": "Cleaning-machine performance often declines gradually as wear, contamination, blockage, battery condition, adjustment and neglected maintenance change how the system works.",
+      "url": "library/cleaning-equipment-systems/equipment-troubleshooting/why-cleaning-equipment-performance-declines-over-time/"
+    },
+    {
+      "article_id": "ACX-KB-0182",
+      "locale": "hi-IN",
+      "title": "समय के साथ सफाई उपकरण का प्रदर्शन क्यों घटता है",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Troubleshooting",
+      "subcategory_slug": "equipment-troubleshooting",
+      "excerpt": "घिसाव, गंदगी, रुकावट, बैटरी स्थिति, समायोजन और टला हुआ रखरखाव धीरे-धीरे सफाई मशीन के प्रदर्शन को कम कर सकते हैं।",
+      "url": "library/cleaning-equipment-systems/equipment-troubleshooting/why-cleaning-equipment-performance-declines-over-time/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0183",
+      "locale": "en",
+      "title": "Troubleshooting Inconsistent Machine-Cleaning Results",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Troubleshooting",
+      "subcategory_slug": "equipment-troubleshooting",
+      "excerpt": "Inconsistent machine-cleaning results are easier to diagnose when you separate the problem into surface, soil, chemistry, setup, operator, recovery and equipment-condition checks.",
+      "url": "library/cleaning-equipment-systems/equipment-troubleshooting/troubleshooting-machine-cleaning-results/"
+    },
+    {
+      "article_id": "ACX-KB-0183",
+      "locale": "hi-IN",
+      "title": "मशीन सफाई के असंगत परिणामों की ट्रबलशूटिंग",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Troubleshooting",
+      "subcategory_slug": "equipment-troubleshooting",
+      "excerpt": "असंगत मशीन सफाई परिणामों को सतह, गंदगी, रसायन, सेटअप, ऑपरेटर, रिकवरी और उपकरण स्थिति के क्रम में जाँचकर आसान बनाया जा सकता है।",
+      "url": "library/cleaning-equipment-systems/equipment-troubleshooting/troubleshooting-machine-cleaning-results/hi.html"
     }
   ]
 }
