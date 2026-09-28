@@ -208,6 +208,24 @@ site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
 site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
 
+
+discovery_css=(ROOT/"docs"/"assets"/"discovery.css").read_text(encoding="utf-8")
+hero_contract_tokens=[
+    "/* Locked global hero component: one visual contract across every Knowledge page type. */",
+    "--acx-hero-max:1060px;",
+    "--acx-hero-title-size:clamp(40px,4.8vw,64px);",
+    ".hero,.article-head{",
+    ".hero h1,.article-head h1{",
+    ".hero>p:first-of-type,.article-head>.deck{",
+]
+for token in hero_contract_tokens:
+    if token not in site_css:
+        errors.append(f"Global hero contract missing: {token}")
+if '@import url("/knowledge-library/assets/site.css");' not in discovery_css:
+    errors.append("Discovery pages no longer inherit the shared Knowledge hero contract")
+if '/knowledge-library/assets/site.css' not in home_html:
+    errors.append("Knowledge home no longer loads the shared Knowledge hero contract")
+
 bad_shell_selector='.acx-site-header,.acx-bottom-brand,.acx-search-dialog,.acx-mobile-drawer{\n  display:block;\n  position:fixed;'
 if bad_shell_selector in site_css:
     errors.append("Global shell CSS regression: header/search/brand incorrectly inherit drawer hidden-state rules")
