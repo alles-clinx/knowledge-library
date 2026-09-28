@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0211",
+  "slug": "how-to-choose-a-cleaning-product-by-soil-and-surface",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0212",
+    "ACX-KB-0213",
+    "ACX-KB-0186"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Choose a Cleaning Product by Soil and Surface",
+  "excerpt": "Cleaning-product selection starts by identifying the soil, the surface, compatibility requirements and the approved task—not by choosing the most aggressive chemistry.",
+  "content_html": "<p>Cleaning-product selection is a matching problem. The product needs to address the type of soil while remaining compatible with the surface, equipment and approved cleaning procedure.</p>\n<h2 id=\"soil\">Start by identifying the soil</h2><p>Oily residue, mineral deposits, particulate soil, food residue and other soils respond differently. The purpose is to understand the cleaning challenge, not to assume one chemistry suits every residue.</p>\n<h2 id=\"surface\">Then identify the surface</h2><p>Metals, glass, stone, resilient flooring, coatings, plastics and textiles can have different compatibility limits. Surface-maker instructions should be checked where available.</p>\n<h2 id=\"task\">Define the actual task</h2><p>Routine cleaning, stain removal, equipment maintenance and regulated disinfection are different tasks. Product claims and procedures should match the task that actually needs to be performed.</p>\n<h2 id=\"compatibility\">Check product-surface compatibility</h2><p>CDC guidance includes material compatibility, safety and manufacturer instructions among important selection considerations. A product that cleans well but damages the surface is not a successful match.</p>\n<h2 id=\"approved\">Use approved products and instructions</h2><p>In workplaces, selection should follow the facility's purchasing, safety and cleaning program. Labels and technical information—not colour, fragrance, foam or informal assumptions—define intended use.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Choose by matching soil, surface and task within an approved program. The goal is controlled cleaning with compatible chemistry, not maximum aggressiveness.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "How to Choose a Cleaning Product by Soil and Surface | Alle's ClinX",
+  "meta_description": "Cleaning-product selection starts by identifying the soil, the surface, compatibility requirements and the approved task—not by choosing the most aggressive chemistry."
+}
