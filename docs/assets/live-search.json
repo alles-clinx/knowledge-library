@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 350,
+  "record_count": 360,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3852,6 +3852,116 @@
       "subcategory_slug": "vacuum-extraction-equipment",
       "excerpt": "कार्पेट एक्सट्रैक्शन एक गीली सफाई प्रक्रिया है जिसमें घोल लगाया जाता है, गंदगी ढीली की जाती है और दूषित तरल को सक्शन से वापस लिया जाता है।",
       "url": "library/cleaning-equipment-systems/vacuum-extraction-equipment/what-is-carpet-extraction-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0176",
+      "locale": "en",
+      "title": "Why Suction and Recovery Matter in Extraction Cleaning",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Vacuum & Extraction Equipment",
+      "subcategory_slug": "vacuum-extraction-equipment",
+      "excerpt": "Extraction cleaning depends not only on applying solution, but on recovering that liquid efficiently so loosened soil and excess moisture leave the carpet.",
+      "url": "library/cleaning-equipment-systems/vacuum-extraction-equipment/why-suction-and-recovery-matter-in-extraction-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0176",
+      "locale": "hi-IN",
+      "title": "एक्सट्रैक्शन सफाई में सक्शन और रिकवरी क्यों महत्वपूर्ण हैं",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Vacuum & Extraction Equipment",
+      "subcategory_slug": "vacuum-extraction-equipment",
+      "excerpt": "एक्सट्रैक्शन सफाई केवल घोल लगाने पर निर्भर नहीं करती; ढीली गंदगी और अतिरिक्त नमी हटाने के लिए तरल की प्रभावी रिकवरी भी जरूरी है।",
+      "url": "library/cleaning-equipment-systems/vacuum-extraction-equipment/why-suction-and-recovery-matter-in-extraction-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0177",
+      "locale": "en",
+      "title": "What Is a Chemical Dispensing System?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Dispensing & Dosing Systems",
+      "subcategory_slug": "dispensing-dosing-systems",
+      "excerpt": "A chemical dispensing system prepares a use solution by delivering a controlled amount of concentrate and diluent according to a defined setup.",
+      "url": "library/cleaning-equipment-systems/dispensing-dosing-systems/what-is-a-chemical-dispensing-system/"
+    },
+    {
+      "article_id": "ACX-KB-0177",
+      "locale": "hi-IN",
+      "title": "केमिकल डिस्पेंसिंग सिस्टम क्या है?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Dispensing & Dosing Systems",
+      "subcategory_slug": "dispensing-dosing-systems",
+      "excerpt": "केमिकल डिस्पेंसिंग सिस्टम निर्धारित सेटअप के अनुसार कंसन्ट्रेट और डाइल्यूएंट की नियंत्रित मात्रा देकर उपयोग-योग्य घोल तैयार करता है।",
+      "url": "library/cleaning-equipment-systems/dispensing-dosing-systems/what-is-a-chemical-dispensing-system/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0178",
+      "locale": "en",
+      "title": "Why Controlled Dosing Improves Consistency",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Dispensing & Dosing Systems",
+      "subcategory_slug": "dispensing-dosing-systems",
+      "excerpt": "Controlled dosing reduces variation in solution preparation by making the concentrate-to-water ratio more repeatable than unstructured manual mixing.",
+      "url": "library/cleaning-equipment-systems/dispensing-dosing-systems/why-controlled-dosing-improves-consistency/"
+    },
+    {
+      "article_id": "ACX-KB-0178",
+      "locale": "hi-IN",
+      "title": "नियंत्रित डोजिंग से निरंतरता क्यों बेहतर होती है",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Dispensing & Dosing Systems",
+      "subcategory_slug": "dispensing-dosing-systems",
+      "excerpt": "नियंत्रित डोजिंग कंसन्ट्रेट और पानी के अनुपात को दोहराने योग्य बनाकर हाथ से मिलाने की भिन्नता घटाती है।",
+      "url": "library/cleaning-equipment-systems/dispensing-dosing-systems/why-controlled-dosing-improves-consistency/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0179",
+      "locale": "en",
+      "title": "Why Dosing Systems Deliver Inconsistent Results",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Dispensing & Dosing Systems",
+      "subcategory_slug": "dispensing-dosing-systems",
+      "excerpt": "Inconsistent dosing can result from product, water, setup, wear, blockage or calibration problems; a structured check is safer than guessing at concentration.",
+      "url": "library/cleaning-equipment-systems/dispensing-dosing-systems/dosing-systems-inconsistent-results/"
+    },
+    {
+      "article_id": "ACX-KB-0179",
+      "locale": "hi-IN",
+      "title": "डोजिंग सिस्टम असंगत परिणाम क्यों देते हैं",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Dispensing & Dosing Systems",
+      "subcategory_slug": "dispensing-dosing-systems",
+      "excerpt": "असंगत डोजिंग उत्पाद, पानी, सेटअप, घिसाव, रुकावट या कैलिब्रेशन समस्या से हो सकती है; अनुमान लगाने के बजाय क्रमबद्ध जाँच बेहतर है।",
+      "url": "library/cleaning-equipment-systems/dispensing-dosing-systems/dosing-systems-inconsistent-results/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0180",
+      "locale": "en",
+      "title": "Why Cleaning Equipment Needs Preventive Maintenance",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Maintenance",
+      "subcategory_slug": "equipment-maintenance",
+      "excerpt": "Preventive maintenance keeps cleaning equipment safe, hygienic and predictable by finding wear, blockage, damage and service needs before they become failures.",
+      "url": "library/cleaning-equipment-systems/equipment-maintenance/why-cleaning-equipment-needs-preventive-maintenance/"
+    },
+    {
+      "article_id": "ACX-KB-0180",
+      "locale": "hi-IN",
+      "title": "सफाई उपकरण को प्रिवेंटिव मेंटेनेंस क्यों चाहिए",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Equipment Maintenance",
+      "subcategory_slug": "equipment-maintenance",
+      "excerpt": "प्रिवेंटिव मेंटेनेंस घिसाव, रुकावट, नुकसान और सेवा जरूरत को खराबी बनने से पहले पहचानकर उपकरण को सुरक्षित, स्वच्छ और भरोसेमंद रखता है।",
+      "url": "library/cleaning-equipment-systems/equipment-maintenance/why-cleaning-equipment-needs-preventive-maintenance/hi.html"
     }
   ]
 }
