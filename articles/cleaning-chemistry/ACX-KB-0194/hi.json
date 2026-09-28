@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0194",
+  "slug": "anionic-vs-nonionic-vs-cationic-surfactants",
+  "subcategory": "Surfactants",
+  "subcategory_slug": "surfactants",
+  "related_article_ids": [
+    "ACX-KB-0192",
+    "ACX-KB-0193",
+    "ACX-KB-0195"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0194",
+  "title": "Anionic, Nonionic और Cationic सर्फैक्टेंट में अंतर",
+  "excerpt": "Anionic, nonionic और cationic सर्फैक्टेंट अपने पानी से संपर्क करने वाले हिस्से के विद्युत गुण में अलग होते हैं, जिससे सफाई व्यवहार, अनुकूलता और फॉर्म्युलेशन डिज़ाइन प्रभावित होता है.",
+  "content_html": "<p>सर्फैक्टेंट को अक्सर अणु के उस हिस्से के विद्युत गुण के अनुसार वर्गीकृत किया जाता है जो पानी से संपर्क करता है। तीन प्रमुख वर्ग anionic, nonionic और cationic हैं। यह वर्ग वेटिंग, गंदगी हटाने, झाग, अनुकूलता और दूसरे फॉर्म्युलेशन घटकों के साथ व्यवहार को प्रभावित कर सकता है।</p>\n<h2 id=\"hi194-anionic\">Anionic सर्फैक्टेंट</h2><p>Anionic सर्फैक्टेंट के पानी से संपर्क करने वाले हिस्से पर नकारात्मक चार्ज होता है। कई anionic सर्फैक्टेंट वेटिंग और कणीय या तेलीय गंदगी हटाने में उपयोगी होते हैं। उनका व्यवहार पानी की कठोरता और अन्य चार्ज वाले घटकों से प्रभावित हो सकता है।</p>\n<h2 id=\"hi194-nonionic\">Nonionic सर्फैक्टेंट</h2><p>Nonionic सर्फैक्टेंट के पानी से संपर्क करने वाले हिस्से पर औपचारिक विद्युत चार्ज नहीं होता। इन्हें अक्सर अच्छी वेटिंग, ग्रीस हटाने, नियंत्रित झाग और अलग पानी परिस्थितियों में अनुकूलता के लिए उपयोग किया जाता है।</p>\n<h2 id=\"hi194-cationic\">Cationic सर्फैक्टेंट</h2><p>Cationic सर्फैक्टेंट पर सकारात्मक चार्ज होता है। कुछ quaternary ammonium compounds इस व्यापक रासायनिक परिवार में आते हैं और EPA-registered disinfectant उत्पाद में active ingredient होने पर antimicrobial भूमिका भी रख सकते हैं। केवल surfactant class से disinfectant claim स्थापित नहीं होता।</p>\n<h2 id=\"hi194-compatibility\">चार्ज वाले सर्फैक्टेंट एक-दूसरे से प्रभावित हो सकते हैं</h2><p>विपरीत चार्ज वाले घटक एक-दूसरे के काम में बाधा डाल सकते हैं या कम घुलनशील संयोजन बना सकते हैं। इसलिए पेशेवर फॉर्म्युलेशन पूरे सिस्टम के रूप में डिज़ाइन किए जाते हैं।</p>\n<h2 id=\"hi194-selection\">किसी एक वर्ग को सार्वभौमिक रूप से सर्वोत्तम नहीं कहा जा सकता</h2><p>प्रदर्शन गंदगी, सतह, पानी की स्थिति, झाग की जरूरत और पूरे फॉर्म्युलेशन पर निर्भर करता है।</p>\n<h2 id=\"hi194-takeaway\">मुख्य बात</h2><p>Anionic, nonionic और cationic उपयोगी वर्गीकरण हैं। वे विद्युत गुण बताते हैं, सफाई शक्ति की सरल रैंकिंग नहीं।</p>\n<h2 id=\"hi194-references\">संदर्भ</h2><ol><li id=\"hi194-ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-surfactants\">US EPA — Safer Choice Criteria for Surfactants</a>.</li><li id=\"hi194-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Anionic, Nonionic और Cationic सर्फैक्टेंट में अंतर | Alle's ClinX",
+  "meta_description": "Anionic, nonionic और cationic सर्फैक्टेंट अपने पानी से संपर्क करने वाले हिस्से के विद्युत गुण में अलग होते हैं, जिससे सफाई व्यवहार, अनुकूलता और फॉर्म्युलेशन डिज़ाइन प्रभावित होता है."
+}
