@@ -820,3 +820,60 @@ body.acx-menu-open::before{
   .acx-install-app{padding:0 9px!important;font-size:12px!important}
   .acx-install-note{top:76px;right:12px}
 }
+
+
+/* Locked global hero component: one visual contract across every Knowledge page type. */
+:root{
+  --acx-hero-max:1060px;
+  --acx-hero-copy-max:820px;
+  --acx-hero-title-size:clamp(40px,4.8vw,64px);
+  --acx-hero-title-leading:.98;
+  --acx-hero-title-tracking:-.05em;
+  --acx-hero-title-weight:620;
+  --acx-hero-copy-size:19px;
+  --acx-hero-copy-leading:1.5;
+  --acx-hero-copy-gap:22px;
+  --acx-hero-control-gap:32px;
+}
+.hero,.article-head{
+  width:100%!important;
+  max-width:var(--acx-hero-max)!important;
+}
+.hero h1,.article-head h1{
+  max-width:1040px!important;
+  margin:0!important;
+  font-size:var(--acx-hero-title-size)!important;
+  line-height:var(--acx-hero-title-leading)!important;
+  letter-spacing:var(--acx-hero-title-tracking)!important;
+  font-weight:var(--acx-hero-title-weight)!important;
+}
+.hero>p:first-of-type,.article-head>.deck{
+  max-width:var(--acx-hero-copy-max)!important;
+  margin-top:var(--acx-hero-copy-gap)!important;
+  font-size:var(--acx-hero-copy-size)!important;
+  line-height:var(--acx-hero-copy-leading)!important;
+  letter-spacing:-.012em!important;
+}
+.hero .search{
+  max-width:720px!important;
+  margin-top:var(--acx-hero-control-gap)!important;
+}
+.hero .search input{
+  height:54px!important;
+  border-radius:8px!important;
+}
+@media(max-width:760px){
+  :root{
+    --acx-hero-title-size:clamp(38px,10.5vw,46px);
+    --acx-hero-copy-size:17px;
+    --acx-hero-copy-gap:16px;
+    --acx-hero-control-gap:26px;
+  }
+  .hero h1,.article-head h1{
+    line-height:1.01!important;
+    letter-spacing:-.045em!important;
+  }
+}
+@media(max-width:360px){
+  :root{--acx-hero-title-size:36px;--acx-hero-copy-size:16px}
+}
