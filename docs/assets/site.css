@@ -738,6 +738,11 @@ body.acx-menu-open::before{
 }
 .knowledge-home .editorial-item:hover,.knowledge-home .quick-item:hover{background:#f1f1f2}
 .knowledge-home .library{margin-top:76px}
+.knowledge-home .page{padding-bottom:0}
+.knowledge-home .acx-bottom-brand{
+  margin-top:clamp(72px,8vw,116px);
+  background-image:linear-gradient(180deg,rgba(11,11,12,.15) 0%,rgba(11,11,12,.065) 48%,rgba(11,11,12,0) 100%);
+}
 @media(max-width:960px){
   .acx-site-bar{width:calc(100% - 36px)}
   .acx-brand-divider{display:block}
@@ -763,6 +768,7 @@ body.acx-menu-open::before{
   .knowledge-home .editorial-block{margin-top:48px}
   .knowledge-home .editorial-block+.editorial-block{margin-top:48px}
   .knowledge-home .library{margin-top:58px}
+  .knowledge-home .acx-bottom-brand{margin-top:64px}
 }
 
 /* Four-item Knowledge header: brand, search, install, menu. */
