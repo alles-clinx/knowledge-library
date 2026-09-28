@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 340,
+  "record_count": 350,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3742,6 +3742,116 @@
       "subcategory_slug": "cleaning-carts-trolleys",
       "excerpt": "ट्रॉली का सही विन्यास अनावश्यक आवाजाही घटाता है, सही सामान जल्दी ढूँढ़ने में मदद करता है और साफ तथा इस्तेमाल की सामग्री अलग रखता है।",
       "url": "library/cleaning-equipment-systems/cleaning-carts-trolleys/why-cleaning-cart-layout-affects-workflow/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0171",
+      "locale": "en",
+      "title": "What Is a Scrubber Dryer?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Scrubber Dryers",
+      "subcategory_slug": "scrubber-dryers",
+      "excerpt": "A scrubber dryer combines wet scrubbing and dirty-water recovery so a hard floor can be cleaned and left substantially drier in one machine pass.",
+      "url": "library/cleaning-equipment-systems/scrubber-dryers/what-is-a-scrubber-dryer/"
+    },
+    {
+      "article_id": "ACX-KB-0171",
+      "locale": "hi-IN",
+      "title": "स्क्रबर-ड्रायर क्या है?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Scrubber Dryers",
+      "subcategory_slug": "scrubber-dryers",
+      "excerpt": "स्क्रबर-ड्रायर एक ही मशीन में गीली स्क्रबिंग और गंदे पानी की रिकवरी को जोड़ता है, जिससे कठोर फर्श साफ होकर अपेक्षाकृत जल्दी सूख सकता है।",
+      "url": "library/cleaning-equipment-systems/scrubber-dryers/what-is-a-scrubber-dryer/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0172",
+      "locale": "en",
+      "title": "Machine Floor Cleaning vs Manual Mopping",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Scrubber Dryers",
+      "subcategory_slug": "scrubber-dryers",
+      "excerpt": "Machine cleaning and manual mopping solve different floor-care problems; area size, access, soil and water recovery should guide the choice.",
+      "url": "library/cleaning-equipment-systems/scrubber-dryers/machine-floor-cleaning-vs-manual-mopping/"
+    },
+    {
+      "article_id": "ACX-KB-0172",
+      "locale": "hi-IN",
+      "title": "मशीन से फर्श की सफाई बनाम हाथ से पोछा",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Scrubber Dryers",
+      "subcategory_slug": "scrubber-dryers",
+      "excerpt": "मशीन से सफाई और हाथ से पोछा अलग जरूरतें पूरी करते हैं; क्षेत्र का आकार, पहुँच, गंदगी और पानी की रिकवरी सही तरीका चुनने में मदद करते हैं।",
+      "url": "library/cleaning-equipment-systems/scrubber-dryers/machine-floor-cleaning-vs-manual-mopping/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0173",
+      "locale": "en",
+      "title": "Why Scrubber Dryers Can Leave Streaks or Water Behind",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Scrubber Dryers",
+      "subcategory_slug": "scrubber-dryers",
+      "excerpt": "Streaks or residual water usually point to a recovery problem, setup issue, debris, wear or operating condition that should be checked systematically.",
+      "url": "library/cleaning-equipment-systems/scrubber-dryers/why-scrubber-dryers-can-leave-streaks-or-water-behind/"
+    },
+    {
+      "article_id": "ACX-KB-0173",
+      "locale": "hi-IN",
+      "title": "स्क्रबर-ड्रायर धारियाँ या पानी क्यों छोड़ सकता है",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Scrubber Dryers",
+      "subcategory_slug": "scrubber-dryers",
+      "excerpt": "धारियाँ या बचा पानी अक्सर रिकवरी समस्या, गलत सेटअप, मलबे, घिसाव या संचालन की स्थिति की ओर संकेत करते हैं।",
+      "url": "library/cleaning-equipment-systems/scrubber-dryers/why-scrubber-dryers-can-leave-streaks-or-water-behind/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0174",
+      "locale": "en",
+      "title": "How Vacuum Cleaning and Extraction Cleaning Differ",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Vacuum & Extraction Equipment",
+      "subcategory_slug": "vacuum-extraction-equipment",
+      "excerpt": "Vacuuming primarily removes loose dry soil, while extraction cleaning uses liquid to loosen embedded soil and then recovers the contaminated solution.",
+      "url": "library/cleaning-equipment-systems/vacuum-extraction-equipment/how-vacuum-cleaning-and-extraction-cleaning-differ/"
+    },
+    {
+      "article_id": "ACX-KB-0174",
+      "locale": "hi-IN",
+      "title": "वैक्यूम सफाई और एक्सट्रैक्शन सफाई में क्या अंतर है",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Vacuum & Extraction Equipment",
+      "subcategory_slug": "vacuum-extraction-equipment",
+      "excerpt": "वैक्यूम मुख्यतः ढीली सूखी गंदगी हटाता है, जबकि एक्सट्रैक्शन में तरल से जमी गंदगी ढीली कर दूषित घोल को वापस खींचा जाता है।",
+      "url": "library/cleaning-equipment-systems/vacuum-extraction-equipment/how-vacuum-cleaning-and-extraction-cleaning-differ/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0175",
+      "locale": "en",
+      "title": "What Is Carpet Extraction Cleaning?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Vacuum & Extraction Equipment",
+      "subcategory_slug": "vacuum-extraction-equipment",
+      "excerpt": "Carpet extraction cleaning is a wet-cleaning process that applies solution, loosens soil and recovers the contaminated liquid with suction.",
+      "url": "library/cleaning-equipment-systems/vacuum-extraction-equipment/what-is-carpet-extraction-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0175",
+      "locale": "hi-IN",
+      "title": "कार्पेट एक्सट्रैक्शन सफाई क्या है?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Vacuum & Extraction Equipment",
+      "subcategory_slug": "vacuum-extraction-equipment",
+      "excerpt": "कार्पेट एक्सट्रैक्शन एक गीली सफाई प्रक्रिया है जिसमें घोल लगाया जाता है, गंदगी ढीली की जाती है और दूषित तरल को सक्शन से वापस लिया जाता है।",
+      "url": "library/cleaning-equipment-systems/vacuum-extraction-equipment/what-is-carpet-extraction-cleaning/hi.html"
     }
   ]
 }
