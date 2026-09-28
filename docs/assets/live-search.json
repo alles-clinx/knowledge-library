@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 396,
+  "record_count": 406,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4358,6 +4358,116 @@
       "subcategory_slug": "disinfectant-actives",
       "excerpt": "Phenolic और quaternary disinfectants अलग regulated chemical families हैं; यह overview बिना ranking या handling instructions दिए उनका सामान्य अंतर समझाता है.",
       "url": "library/cleaning-chemistry/disinfectant-actives/phenolic-vs-quaternary-disinfectants/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0199",
+      "locale": "en",
+      "title": "What Are Enzymes in Cleaning Products?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Enzymes",
+      "subcategory_slug": "enzymes",
+      "excerpt": "Enzymes are specialised proteins used in some cleaning formulations to help break down particular types of organic soil into smaller, more removable materials.",
+      "url": "library/cleaning-chemistry/enzymes/what-are-enzymes-in-cleaning-products/"
+    },
+    {
+      "article_id": "ACX-KB-0199",
+      "locale": "hi-IN",
+      "title": "Cleaning Products में Enzymes क्या होते हैं?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Enzymes",
+      "subcategory_slug": "enzymes",
+      "excerpt": "Enzymes विशेष proteins हैं जो कुछ cleaning formulations में खास प्रकार की organic soil को छोटे और अधिक आसानी से हटने वाले पदार्थों में तोड़ने में मदद करते हैं.",
+      "url": "library/cleaning-chemistry/enzymes/what-are-enzymes-in-cleaning-products/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0200",
+      "locale": "en",
+      "title": "How Enzymes Target Different Soil Types",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Enzymes",
+      "subcategory_slug": "enzymes",
+      "excerpt": "Different enzyme families act on different kinds of organic material, so cleaning formulations may use selected enzymes to address proteins, starches, fats or other targeted soils.",
+      "url": "library/cleaning-chemistry/enzymes/how-enzymes-target-different-soil-types/"
+    },
+    {
+      "article_id": "ACX-KB-0200",
+      "locale": "hi-IN",
+      "title": "Enzymes अलग Soil Types को कैसे Target करते हैं",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Enzymes",
+      "subcategory_slug": "enzymes",
+      "excerpt": "अलग enzyme families अलग organic materials पर काम करती हैं, इसलिए cleaning formulations proteins, starches, fats या दूसरी targeted soils के लिए अलग enzymes चुन सकते हैं.",
+      "url": "library/cleaning-chemistry/enzymes/how-enzymes-target-different-soil-types/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0201",
+      "locale": "en",
+      "title": "Why Enzyme Performance Depends on Conditions",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Enzymes",
+      "subcategory_slug": "enzymes",
+      "excerpt": "Enzyme activity depends on formulation and environmental conditions such as pH, temperature, water, stability and the type of soil being targeted.",
+      "url": "library/cleaning-chemistry/enzymes/why-enzyme-performance-depends-on-conditions/"
+    },
+    {
+      "article_id": "ACX-KB-0201",
+      "locale": "hi-IN",
+      "title": "Enzyme Performance Conditions पर क्यों निर्भर करता है",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Enzymes",
+      "subcategory_slug": "enzymes",
+      "excerpt": "Enzyme activity formulation और pH, temperature, water, stability तथा target soil जैसी conditions पर निर्भर करती है.",
+      "url": "library/cleaning-chemistry/enzymes/why-enzyme-performance-depends-on-conditions/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0202",
+      "locale": "en",
+      "title": "What Is an Oxidising Cleaner?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Bleaches & Oxidisers",
+      "subcategory_slug": "bleaches-oxidisers",
+      "excerpt": "An oxidising cleaner contains chemistry that changes certain soils or stains through oxidation; because oxidisers can also affect materials and present hazards, finished products must be used only as labeled.",
+      "url": "library/cleaning-chemistry/bleaches-oxidisers/what-is-an-oxidising-cleaner/"
+    },
+    {
+      "article_id": "ACX-KB-0202",
+      "locale": "hi-IN",
+      "title": "Oxidising Cleaner क्या होता है?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Bleaches & Oxidisers",
+      "subcategory_slug": "bleaches-oxidisers",
+      "excerpt": "Oxidising cleaner ऐसी chemistry वाला product है जो oxidation के जरिए कुछ soils या stains को बदलता है; oxidisers materials और safety को भी प्रभावित कर सकते हैं, इसलिए finished products केवल label के अनुसार उपयोग होने चाहिए.",
+      "url": "library/cleaning-chemistry/bleaches-oxidisers/what-is-an-oxidising-cleaner/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0203",
+      "locale": "en",
+      "title": "Bleach Product Categories: Safety and Label Guidance",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Bleaches & Oxidisers",
+      "subcategory_slug": "bleaches-oxidisers",
+      "excerpt": "This safety-focused overview explains that bleach products can belong to different oxidising categories and that their labels, hazards, and compatibility requirements are product-specific.",
+      "url": "library/cleaning-chemistry/bleaches-oxidisers/chlorine-bleach-vs-oxygen-bleach/"
+    },
+    {
+      "article_id": "ACX-KB-0203",
+      "locale": "hi-IN",
+      "title": "Bleach Product Categories: Safety और Label Guidance",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Bleaches & Oxidisers",
+      "subcategory_slug": "bleaches-oxidisers",
+      "excerpt": "यह safety-focused overview बताता है कि bleach products अलग oxidising categories में हो सकते हैं और labels, hazards तथा compatibility requirements product-specific होते हैं.",
+      "url": "library/cleaning-chemistry/bleaches-oxidisers/chlorine-bleach-vs-oxygen-bleach/hi.html"
     }
   ]
 }
