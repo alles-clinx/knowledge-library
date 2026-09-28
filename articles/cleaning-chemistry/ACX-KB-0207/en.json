@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0207",
+  "slug": "why-over-concentration-can-reduce-cleaning-quality",
+  "subcategory": "Dilution & Concentration",
+  "subcategory_slug": "dilution-concentration",
+  "related_article_ids": [
+    "ACX-KB-0205",
+    "ACX-KB-0206",
+    "ACX-KB-0184"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Over-Concentration Can Reduce Cleaning Quality",
+  "excerpt": "Using more cleaning concentrate than a product is designed for can increase residue, interfere with rinsing or recovery, affect surfaces and create unnecessary exposure without improving cleaning.",
+  "content_html": "<p>More cleaning chemical does not automatically mean better cleaning. Products are formulated to work within defined use conditions, and moving outside those conditions can change how the solution behaves on the surface.</p>\n<h2 id=\"residue\">Too much product can leave more residue</h2><p>Excess formulation ingredients may remain after the cleaning step, especially where the process is designed around a particular use solution. Residue can make surfaces look streaked, sticky or dull and may attract new soil.</p>\n<h2 id=\"rinsing\">Recovery and rinsing can become harder</h2><p>Over-concentration can increase foam, viscosity or the amount of material that has to be removed from the surface. That can interfere with equipment recovery or require extra removal steps.</p>\n<h2 id=\"surface\">Surface compatibility can change</h2><p>A product that is compatible at its labeled use condition may create more stress on a finish, coating or material when used outside that condition.</p>\n<h2 id=\"risk\">Exposure and environmental load can increase</h2><p>Using more chemical than required can increase worker exposure, cost and the amount of product entering wastewater without guaranteeing better soil removal.</p>\n<h2 id=\"label\">Optimum concentration is product-specific</h2><p>CDC states that cleaning products work at an optimum dilution and that solutions that are too dilute or too concentrated can affect effectiveness and create unnecessary risk. The practical control is to follow the manufacturer label or approved dispensing system.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Over-concentration can make a cleaning process less controlled, not more powerful. Consistent results come from using the product as designed.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Why Over-Concentration Can Reduce Cleaning Quality | Alle's ClinX",
+  "meta_description": "Using more cleaning concentrate than a product is designed for can increase residue, interfere with rinsing or recovery, affect surfaces and create unnecessary exposure without improving cleaning."
+}

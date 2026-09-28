@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0205",
+  "slug": "what-is-a-cleaning-chemical-concentrate",
+  "subcategory": "Dilution & Concentration",
+  "subcategory_slug": "dilution-concentration",
+  "related_article_ids": [
+    "ACX-KB-0206",
+    "ACX-KB-0207",
+    "ACX-KB-0184"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Cleaning-Chemical Concentrate?",
+  "excerpt": "A cleaning-chemical concentrate is a product supplied at a higher ingredient concentration than its intended use solution and designed to be prepared only according to its label or approved dispensing system.",
+  "content_html": "<p>A cleaning-chemical concentrate is a product supplied in a more concentrated form than the solution intended for routine use. Concentrates are designed to be converted into a use solution through a controlled manufacturer-specified process, often using a dispensing system.</p>\n<h2 id=\"why\">Why concentrates exist</h2><p>Concentrated formats can reduce packaging, storage volume and transport of water. They can also support consistent use when paired with a correctly configured dispensing system.</p>\n<h2 id=\"not-ready\">A concentrate is not automatically ready to use</h2><p>The fact that a product is liquid does not mean it is intended to be applied directly. The label or technical instructions define whether it is a concentrate, a ready-to-use product or another format.</p>\n<h2 id=\"label\">The label defines the intended use solution</h2><p>CDC guidance says environmental cleaning products should be prepared according to manufacturer instructions because both under-concentration and over-concentration can reduce effectiveness or create unnecessary risk.</p>\n<h2 id=\"dispensing\">Dispensing systems help control consistency</h2><p>Where facilities use automatic dispensing, the system should be maintained and calibrated according to the approved program. The goal is repeatability rather than estimation by colour, smell or foam.</p>\n<h2 id=\"safety\">Concentrates can require additional controls</h2><p>Because concentrates contain more product per unit volume, labels and safety data may specify handling, storage or protective measures. Those requirements should be followed by trained staff.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A concentrate is a supply format, not a cue to guess how much product to use. The manufacturer label and approved dispensing process determine the intended use solution.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "What Is a Cleaning-Chemical Concentrate? | Alle's ClinX",
+  "meta_description": "A cleaning-chemical concentrate is a product supplied at a higher ingredient concentration than its intended use solution and designed to be prepared only according to its label or approved dispensing system."
+}

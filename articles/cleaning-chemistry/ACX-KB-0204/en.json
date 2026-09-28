@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0204",
+  "slug": "why-oxidisers-can-affect-colour-and-materials",
+  "subcategory": "Bleaches & Oxidisers",
+  "subcategory_slug": "bleaches-oxidisers",
+  "related_article_ids": [
+    "ACX-KB-0202",
+    "ACX-KB-0203",
+    "ACX-KB-0186"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Oxidisers Can Affect Colour and Materials",
+  "excerpt": "Oxidising cleaners can alter stains but can also affect dyes, finishes, metals and other materials, so compatibility depends on the exact product and surface.",
+  "content_html": "<p>Oxidising chemistry can change the chemical structure of some coloured compounds and residues. That can be useful in a formulated cleaning product, but the same reactivity can also affect dyes, finishes, metals, textiles and other materials.</p>\n<h2 id=\"colour\">Colour can depend on chemical structure</h2><p>Many colour-producing molecules absorb visible light because of their chemical structure. Oxidation can alter that structure, which is one reason some stains or colours may fade or change after contact with an oxidising product.</p>\n<h2 id=\"materials\">Materials can react differently</h2><p>Metals, coatings, fibres, plastics and finished surfaces do not all tolerate oxidising conditions in the same way. A product that is compatible with one material may be unsuitable for another.</p>\n<h2 id=\"formulation\">The finished formulation matters</h2><p>Oxidiser type, stabilisation, pH and the rest of the formulation influence how a product behaves. The ingredient family alone is not enough to predict compatibility.</p>\n<h2 id=\"label\">Compatibility comes from product and surface guidance</h2><p>Use the product label and the surface or equipment manufacturer's care instructions to determine whether a finished oxidising product is suitable. Avoid assuming that two products with similar category names are interchangeable.</p>\n<h2 id=\"safety\">Do not improvise combinations</h2><p>Oxidising cleaners can react with other chemicals. They should not be mixed with other cleaning products, and workplace handling should follow approved procedures.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Oxidisers can affect both soil and the material underneath it. That makes product-specific compatibility information essential whenever colour, finish or material integrity matters.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-oxidants-and-oxidant-stabilizers\">US EPA — Safer Choice Criteria for Oxidants and Oxidant Stabilizers</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>",
+  "seo_title": "Why Oxidisers Can Affect Colour and Materials | Alle's ClinX",
+  "meta_description": "Oxidising cleaners can alter stains but can also affect dyes, finishes, metals and other materials, so compatibility depends on the exact product and surface."
+}

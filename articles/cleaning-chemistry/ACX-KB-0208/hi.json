@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0208",
+  "slug": "what-is-water-hardness",
+  "subcategory": "Water Hardness",
+  "subcategory_slug": "water-hardness",
+  "related_article_ids": [
+    "ACX-KB-0205",
+    "ACX-KB-0207",
+    "ACX-KB-0209"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0208",
+  "title": "Water Hardness क्या है?",
+  "excerpt": "Water hardness मुख्य रूप से dissolved calcium और magnesium का measure है, और यह soap behaviour, scale formation तथा cleaning formulations के performance को प्रभावित कर सकता है.",
+  "content_html": "<p>Water hardness पानी में dissolved minerals की मात्रा को बताता है, खासकर calcium और magnesium। ये minerals पानी के soil और rock से गुजरने के दौरान naturally dissolve हो सकते हैं और cleaning behaviour तथा mineral scale दोनों को प्रभावित कर सकते हैं।</p>\n<h2 id=\"hi208-minerals\">Calcium और magnesium मुख्य contributors हैं</h2><p>USGS water hardness को मुख्य रूप से dissolved calcium और magnesium के आधार पर define करता है। अन्य dissolved metals भी contribute कर सकते हैं, लेकिन ये दो minerals आम तौर पर सबसे महत्वपूर्ण होते हैं।</p>\n<h2 id=\"hi208-soap\">Hard water soap behaviour बदलता है</h2><p>Calcium traditional soap के साथ react करके insoluble residue बना सकता है, जिसे अक्सर soap scum कहा जाता है। इसलिए hard water कुछ washing processes को कम efficient महसूस करा सकता है।</p>\n<h2 id=\"hi208-scale\">Hardness mineral scale बना सकती है</h2><p>Hard water heat या evaporation के बाद minerals छोड़ सकता है। Scale fixtures, heating surfaces और बार-बार hard water exposure वाले equipment पर जमा हो सकती है।</p>\n<h2 id=\"hi208-detergents\">Modern formulations hardness manage कर सकते हैं</h2><p>Formulators chelating या sequestering agents और अन्य builders का उपयोग minerals manage करने के लिए कर सकते हैं ताकि detergents अधिक consistently काम करें। EPA cleaning formulations में water-hardness control को functional role मानता है।</p>\n<h2 id=\"hi208-measurement\">Hardness अक्सर calcium carbonate equivalent के रूप में report होती है</h2><p>Water reports hardness को अक्सर milligrams per litre as calcium carbonate में express करते हैं। यह mineral load बताता है, लेकिन अकेले पूरी water quality define नहीं करता।</p>\n<h2 id=\"hi208-takeaway\">मुख्य बात</h2><p>Water hardness मुख्य रूप से mineral-content issue है। इसे समझने से soap scum, scale और hardness-managing formulation ingredients की भूमिका समझ आती है।</p>\n<h2 id=\"hi208-references\">संदर्भ</h2><ol><li id=\"hi208-ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"hi208-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi208-ref-3\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-chelating-and-sequestering-agents\">US EPA — Safer Choice Criteria for Chelating and Sequestering Agents</a>.</li></ol>",
+  "seo_title": "Water Hardness क्या है? | Alle's ClinX",
+  "meta_description": "Water hardness मुख्य रूप से dissolved calcium और magnesium का measure है, और यह soap behaviour, scale formation तथा cleaning formulations के performance को प्रभावित कर सकता है."
+}

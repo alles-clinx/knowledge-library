@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0208",
+  "slug": "what-is-water-hardness",
+  "subcategory": "Water Hardness",
+  "subcategory_slug": "water-hardness",
+  "related_article_ids": [
+    "ACX-KB-0205",
+    "ACX-KB-0207",
+    "ACX-KB-0209"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Water Hardness?",
+  "excerpt": "Water hardness is mainly a measure of dissolved calcium and magnesium, and it can influence soap behaviour, scale formation and how cleaning formulations perform.",
+  "content_html": "<p>Water hardness describes the amount of dissolved minerals in water, especially calcium and magnesium. These minerals are naturally picked up as water moves through soil and rock, and they can affect both cleaning behaviour and mineral scale formation.</p>\n<h2 id=\"minerals\">Calcium and magnesium are the main contributors</h2><p>USGS defines water hardness mainly in terms of dissolved calcium and magnesium. Other dissolved metals can contribute, but these two minerals usually dominate.</p>\n<h2 id=\"soap\">Hard water changes soap behaviour</h2><p>Calcium can react with traditional soap to form an insoluble residue often called soap scum. This is one reason hard water can make some washing processes feel less efficient.</p>\n<h2 id=\"scale\">Hardness can produce mineral scale</h2><p>When hard water is heated or evaporates, minerals can be left behind as deposits. Scale can appear on fixtures, heating surfaces and equipment exposed repeatedly to hard water.</p>\n<h2 id=\"detergents\">Modern cleaning formulations can manage hardness</h2><p>Formulators may use chelating or sequestering agents and other builders to manage minerals so detergents can work more consistently. EPA recognises water-hardness control as a functional role within cleaning formulations.</p>\n<h2 id=\"measurement\">Hardness is commonly reported as calcium carbonate equivalent</h2><p>Water reports often express hardness in milligrams per litre as calcium carbonate. The value helps describe the mineral load but does not, by itself, define every aspect of water quality.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Water hardness is primarily a mineral-content issue. Understanding it helps explain soap scum, scale and why some cleaning formulations include ingredients specifically designed to manage dissolved minerals.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/hardness-water\">USGS — Hardness of Water</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-chelating-and-sequestering-agents\">US EPA — Safer Choice Criteria for Chelating and Sequestering Agents</a>.</li></ol>",
+  "seo_title": "What Is Water Hardness? | Alle's ClinX",
+  "meta_description": "Water hardness is mainly a measure of dissolved calcium and magnesium, and it can influence soap behaviour, scale formation and how cleaning formulations perform."
+}

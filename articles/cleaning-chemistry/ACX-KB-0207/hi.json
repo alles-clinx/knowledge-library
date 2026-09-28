@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0207",
+  "slug": "why-over-concentration-can-reduce-cleaning-quality",
+  "subcategory": "Dilution & Concentration",
+  "subcategory_slug": "dilution-concentration",
+  "related_article_ids": [
+    "ACX-KB-0205",
+    "ACX-KB-0206",
+    "ACX-KB-0184"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0207",
+  "title": "Over-Concentration Cleaning Quality क्यों घटा सकता है",
+  "excerpt": "Product design से अधिक cleaning concentrate उपयोग करने पर residue, rinsing या recovery problems, surface effects और unnecessary exposure बढ़ सकते हैं, बिना cleaning बेहतर किए.",
+  "content_html": "<p>अधिक cleaning chemical का मतलब automatically बेहतर cleaning नहीं है। Products defined use conditions में काम करने के लिए formulate होते हैं, और इन conditions से बाहर जाने पर solution का surface behaviour बदल सकता है।</p>\n<h2 id=\"hi207-residue\">बहुत अधिक product अधिक residue छोड़ सकता है</h2><p>Excess formulation ingredients cleaning step के बाद surface पर रह सकते हैं, खासकर जब process particular use solution के लिए design किया गया हो। Residue surface को streaked, sticky या dull बना सकता है और नई soil attract कर सकता है।</p>\n<h2 id=\"hi207-rinsing\">Recovery और rinsing कठिन हो सकती है</h2><p>Over-concentration foam, viscosity या surface से हटाए जाने वाले material की मात्रा बढ़ा सकता है। इससे equipment recovery प्रभावित हो सकती है या extra removal steps लग सकते हैं।</p>\n<h2 id=\"hi207-surface\">Surface compatibility बदल सकती है</h2><p>Labeled use condition पर compatible product गलत concentration पर finish, coating या material पर अधिक stress डाल सकता है।</p>\n<h2 id=\"hi207-risk\">Exposure और environmental load बढ़ सकते हैं</h2><p>जरूरत से अधिक chemical worker exposure, cost और wastewater में जाने वाले product को बढ़ा सकता है, बिना बेहतर soil removal की guarantee के।</p>\n<h2 id=\"hi207-label\">Optimum concentration product-specific होता है</h2><p>CDC बताता है कि cleaning products optimum dilution पर काम करते हैं और बहुत dilute या बहुत concentrated solutions effectiveness और risk दोनों को प्रभावित कर सकते हैं। Practical control manufacturer label या approved dispensing system follow करना है।</p>\n<h2 id=\"hi207-takeaway\">मुख्य बात</h2><p>Over-concentration cleaning process को अधिक controlled नहीं, कम controlled बना सकता है। Consistent result product को design के अनुसार use करने से आता है।</p>\n<h2 id=\"hi207-references\">संदर्भ</h2><ol><li id=\"hi207-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Over-Concentration Cleaning Quality क्यों घटा सकता है | Alle's ClinX",
+  "meta_description": "Product design से अधिक cleaning concentrate उपयोग करने पर residue, rinsing या recovery problems, surface effects और unnecessary exposure बढ़ सकते हैं, बिना cleaning बेहतर किए."
+}
