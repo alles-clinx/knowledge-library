@@ -32,6 +32,8 @@ try{
   assert((await page.locator('.acx-install-note').textContent()).trim().length>0,'Install fallback guidance is empty');
   await page.locator('.acx-menu-button').click();
   assert(await page.locator('#acx-mobile-drawer.is-open').isVisible(),'Desktop menu did not open');
+  await page.locator('.acx-mobile-knowledge-nav a').nth(1).hover();
+  assert(await page.locator('.acx-mobile-knowledge-nav .acx-hover-rail.is-hover').isVisible(),'Knowledge hook rail did not follow hover');
   await page.locator('#acx-mobile-drawer a').last().focus();
   await page.keyboard.press('Tab');
   assert(await page.locator('.acx-menu-button').evaluate(el=>el===document.activeElement),'Menu keyboard loop skipped Close');
