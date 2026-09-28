@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0201",
+  "slug": "why-enzyme-performance-depends-on-conditions",
+  "subcategory": "Enzymes",
+  "subcategory_slug": "enzymes",
+  "related_article_ids": [
+    "ACX-KB-0199",
+    "ACX-KB-0200",
+    "ACX-KB-0187"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0201",
+  "title": "Enzyme Performance Conditions पर क्यों निर्भर करता है",
+  "excerpt": "Enzyme activity formulation और pH, temperature, water, stability तथा target soil जैसी conditions पर निर्भर करती है.",
+  "content_html": "<p>Enzymes active biological molecules हैं, इसलिए उनका performance आसपास की conditions से प्रभावित होता है। Formulation को enzyme को इतना stable रखना होता है कि वह intended soil तक पहुँचे और use के दौरान पर्याप्त active रहे।</p>\n<h2 id=\"hi201-ph\">pH enzyme structure और activity को प्रभावित करता है</h2><p>हर enzyme की एक range होती है जिसमें उसकी structure और catalytic activity बेहतर बनी रहती है। इस range से बहुत बाहर जाने पर performance या stability कम हो सकती है।</p>\n<h2 id=\"hi201-temperature\">Temperature reaction behaviour बदलता है</h2><p>Temperature reaction rate और protein stability को प्रभावित करता है। बहुत कम temperature activity धीमी कर सकता है, जबकि अधिक heat enzyme structure को नुकसान पहुँचा सकती है।</p>\n<h2 id=\"hi201-water\">Water conditions भी महत्वपूर्ण हो सकती हैं</h2><p>घुले minerals और solution के दूसरे components enzymes या formulation ingredients से interact कर सकते हैं। इसलिए stabilisation systems enzyme formulations का महत्वपूर्ण हिस्सा हैं।</p>\n<h2 id=\"hi201-storage\">Use से पहले storage stability जरूरी है</h2><p>Enzyme को transport और storage के दौरान भी पर्याप्त stable रहना चाहिए। EPA enzymes और enzyme stabilisers के लिए अलग Safer Choice criteria रखता है।</p>\n<h2 id=\"hi201-soil\">सही enzyme को सही soil भी चाहिए</h2><p>Ideal conditions में भी enzyme unrelated soil types पर समान काम नहीं करता। Selectivity और operating conditions दोनों को साथ समझना जरूरी है।</p>\n<h2 id=\"hi201-takeaway\">मुख्य बात</h2><p>Enzyme performance formulation द्वारा बनाए controlled environment पर निर्भर करता है। pH, temperature, water, stability और soil type सभी महत्वपूर्ण हैं।</p>\n<h2 id=\"hi201-references\">संदर्भ</h2><ol><li id=\"hi201-ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-enzymes-and-enzyme-stabilizers\">US EPA — Safer Choice Criteria for Enzymes and Enzyme Stabilizers</a>.</li><li id=\"hi201-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Enzyme Performance Conditions पर क्यों निर्भर करता है | Alle's ClinX",
+  "meta_description": "Enzyme activity formulation और pH, temperature, water, stability तथा target soil जैसी conditions पर निर्भर करती है."
+}
