@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0176",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Suction and Recovery Matter in Extraction Cleaning",
+  "slug": "why-suction-and-recovery-matter-in-extraction-cleaning",
+  "subcategory": "Vacuum & Extraction Equipment",
+  "subcategory_slug": "vacuum-extraction-equipment",
+  "excerpt": "Extraction cleaning depends not only on applying solution, but on recovering that liquid efficiently so loosened soil and excess moisture leave the carpet.",
+  "content_html": "<p>In extraction cleaning, putting cleaning solution into a carpet is only half of the process. The other half is recovery: using airflow and suction to remove the used liquid together with loosened soil. If recovery is weak, the carpet can remain too wet even when the cleaning chemistry is correct.</p>\n<h2 id=\"recovery-purpose\">Recovery removes more than water</h2><p>The recovered liquid carries suspended soil, detergent and other residues out of the carpet. When too much solution remains, soil and chemistry can also remain behind. Good recovery therefore supports both cleaning quality and moisture control.</p>\n<h2 id=\"airflow\">Airflow and sealing work together</h2><p>The recovery tool needs a reasonably effective seal with the carpet so airflow can pull liquid toward the recovery path. Worn lips, damaged hoses, poor connections, restricted filters or a full recovery tank can reduce pickup. The exact checks depend on the extractor, so follow its operator manual rather than bypassing safeguards or increasing suction beyond the equipment design.</p>\n<h2 id=\"passes\">Recovery passes can reduce retained moisture</h2><p>After applying or rinsing with solution, an additional pass with little or no added liquid can remove more moisture where the approved procedure allows it. The objective is controlled cleaning, not repeated soaking.</p>\n<h2 id=\"drying\">Recovery affects drying time</h2><p>Carpet that retains more liquid generally takes longer to dry. Drying time is also influenced by ventilation, air movement, humidity, carpet construction and room conditions. Keep normal traffic off the cleaned area until it is adequately dry.</p>\n<h2 id=\"diagnose\">Poor recovery should be diagnosed systematically</h2><p>If pickup weakens, check the recovery tank, filters, hoses, tool or wand opening, seals and other user-serviceable items described by the manufacturer. Compare performance on a short test section. If the fault remains, remove the machine from service for maintenance instead of compensating by adding more solution.</p>\n<h2 id=\"hygiene\">Clean the recovery system after use</h2><p>Recovery tanks, hoses and related wet components handle contaminated liquid. Clean them according to the equipment instructions and allow components to dry between uses. CDC guidance notes that wet-cleaning equipment should be kept in good repair and able to dry between uses.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Extraction is effective when liquid application and liquid recovery stay in balance. Strong, correctly functioning recovery removes loosened soil, reduces retained moisture and supports faster, more predictable drying.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services: Carpeting</a>.</li><li id=\"ref-2\"><a href=\"https://carpet-rug.org/soa-systems/70-millicare-hot-water-extraction-cleaning-system/\">Carpet and Rug Institute — Hot Water Extraction Cleaning System example</a>.</li></ol>",
+  "seo_title": "Why Suction and Recovery Matter in Extraction Cleaning | Alle's ClinX",
+  "meta_description": "Learn why extraction cleaning depends on suction, airflow, liquid recovery and moisture control—not only on applying cleaning solution.",
+  "related_article_ids": [
+    "ACX-KB-0174",
+    "ACX-KB-0175",
+    "ACX-KB-0180"
+  ]
+}
