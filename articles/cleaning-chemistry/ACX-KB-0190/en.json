@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0190",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Does Higher pH Mean a Stronger Cleaner?",
+  "slug": "does-higher-ph-mean-a-stronger-cleaner",
+  "subcategory": "pH, Acids & Alkalis",
+  "subcategory_slug": "ph-acids-alkalis",
+  "excerpt": "A higher pH does not automatically mean a cleaner is more powerful; cleaning performance depends on the whole formulation, soil, surface, concentration and process.",
+  "content_html": "<p>No. A higher pH does not automatically mean a product is a “stronger cleaner.” pH describes how acidic or alkaline an aqueous solution is. Cleaning performance depends on the complete formulation and how well it matches the soil and surface.</p>\n<h2 id=\"ph-measures\">What pH actually measures</h2><p>The pH scale describes acidity and alkalinity in water-based solutions. USGS notes that the scale is logarithmic, so a one-unit change represents a tenfold change in hydrogen-ion activity. That is a chemical property—not a direct cleaning-power rating.</p>\n<h2 id=\"formulation\">Formulation matters more than one number</h2><p>Two products can have similar pH values and still clean differently because their surfactants, solvents, chelating agents, builders and other ingredients are different. EPA describes these ingredient classes as performing distinct functions within a formulation.</p>\n<h2 id=\"soil-match\">Performance depends on the soil</h2><p>A product can perform very well on one soil and poorly on another. Oily residues, mineral deposits and particulate soil do not respond identically, so a cleaner that is effective for one task may be inappropriate for another even if its pH is higher.</p>\n<h2 id=\"surface\">More alkaline can also mean more compatibility concerns</h2><p>Some surfaces, coatings and materials have limits on acidic or alkaline exposure. Increasing alkalinity beyond what the surface or product instructions allow can increase the risk of damage without guaranteeing better cleaning.</p>\n<h2 id=\"concentration\">Concentration is separate from pH</h2><p>Using more concentrate than directed does not convert a product into a better cleaner. CDC advises preparing cleaning solutions according to manufacturer instructions and warns that stronger-than-recommended concentrations can create unnecessary risk.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>pH is useful for understanding chemical environment and compatibility. It is not a universal measure of cleaning strength. Judge a cleaner by the complete formulation, approved concentration and how well it matches the actual task.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/ph-and-water\">USGS — pH and Water</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Does Higher pH Mean a Stronger Cleaner? | Alle's ClinX",
+  "meta_description": "Learn why higher pH does not automatically mean stronger cleaning, and why formulation, soil, concentration and surface compatibility matter more.",
+  "related_article_ids": [
+    "ACX-KB-0188",
+    "ACX-KB-0189",
+    "ACX-KB-0191"
+  ]
+}
