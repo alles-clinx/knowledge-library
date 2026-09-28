@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0194",
+  "slug": "anionic-vs-nonionic-vs-cationic-surfactants",
+  "subcategory": "Surfactants",
+  "subcategory_slug": "surfactants",
+  "related_article_ids": [
+    "ACX-KB-0192",
+    "ACX-KB-0193",
+    "ACX-KB-0195"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Anionic vs Nonionic vs Cationic Surfactants",
+  "excerpt": "Anionic, nonionic and cationic surfactants differ in the electrical character of their water-interacting region, which influences cleaning behaviour, compatibility and formulation design.",
+  "content_html": "<p>Surfactants are often grouped by the electrical character of the part of the molecule that interacts with water. Three major classes are anionic, nonionic and cationic surfactants. The class can influence wetting, soil removal, foam behaviour, compatibility and how the surfactant works with other formulation ingredients.</p>\n<h2 id=\"anionic\">Anionic surfactants</h2><p>Anionic surfactants carry a negative charge in their water-interacting region. They are widely used in detergency because many are effective at wetting and removing particulate or oily soil. Their behaviour can be affected by water hardness and by other charged ingredients in the formulation.</p>\n<h2 id=\"nonionic\">Nonionic surfactants</h2><p>Nonionic surfactants do not carry a formal electrical charge in the water-interacting region. They are commonly used where good wetting, grease removal, controlled foam and compatibility across a wider range of water conditions are useful.</p>\n<h2 id=\"cationic\">Cationic surfactants</h2><p>Cationic surfactants carry a positive charge. Some quaternary ammonium compounds belong to this broader chemical family and may also have antimicrobial functions when they are active ingredients in an EPA-registered disinfectant product. A surfactant class alone does not establish a disinfectant claim.</p>\n<h2 id=\"compatibility\">Charged surfactants can interact</h2><p>Ingredients with opposite charges can interfere with one another or form less-soluble combinations. Professional formulations are therefore designed as complete systems rather than by adding surfactant classes together casually.</p>\n<h2 id=\"selection\">Class does not determine overall product quality</h2><p>No surfactant class is universally “best.” Performance depends on the intended soil, surface, water conditions, foam requirements and the rest of the formulation.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Anionic, nonionic and cationic surfactants are useful categories for understanding formulation behaviour. They describe electrical character, not a simple ranking of cleaning power.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-surfactants\">US EPA — Safer Choice Criteria for Surfactants</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Anionic vs Nonionic vs Cationic Surfactants | Alle's ClinX",
+  "meta_description": "Anionic, nonionic and cationic surfactants differ in the electrical character of their water-interacting region, which influences cleaning behaviour, compatibility and formulation design."
+}
