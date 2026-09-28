@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0202",
+  "slug": "what-is-an-oxidising-cleaner",
+  "subcategory": "Bleaches & Oxidisers",
+  "subcategory_slug": "bleaches-oxidisers",
+  "related_article_ids": [
+    "ACX-KB-0203",
+    "ACX-KB-0184",
+    "ACX-KB-0186"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0202",
+  "title": "Oxidising Cleaner क्या होता है?",
+  "excerpt": "Oxidising cleaner ऐसी chemistry वाला product है जो oxidation के जरिए कुछ soils या stains को बदलता है; oxidisers materials और safety को भी प्रभावित कर सकते हैं, इसलिए finished products केवल label के अनुसार उपयोग होने चाहिए.",
+  "content_html": "<p>Oxidising cleaner ऐसा formulated product है जिसमें oxidising ingredient cleaning या stain-control function का हिस्सा होता है। Oxidation कुछ materials की chemical structure बदल सकती है, जिससे colour, odour या residue behaviour बदल सकता है।</p>\n<h2 id=\"hi202-function\">Oxidation एक chemical function है</h2><p>Oxidising ingredients chemical reactions में electrons से जुड़ी प्रक्रिया को बदलते हैं। Cleaning formulations में यह chemistry कुछ stains या residues को chemically alter करने के लिए उपयोग हो सकती है।</p>\n<h2 id=\"hi202-examples\">Oxidants की अलग chemical families होती हैं</h2><p>Cleaning products अलग oxidising chemical families उपयोग कर सकते हैं। EPA oxidants और oxidant stabilisers को Safer Choice criteria में अलग functional class मानता है।</p>\n<h2 id=\"hi202-not-universal\">Oxidising का मतलब हर surface के लिए suitable नहीं है</h2><p>Oxidisers dyes, finishes, metals, textiles और अन्य materials को भी प्रभावित कर सकते हैं। एक surface के लिए सही product दूसरी के लिए unsuitable हो सकता है।</p>\n<h2 id=\"hi202-formulation\">Finished product महत्वपूर्ण है</h2><p>Active oxidant formulation का केवल एक हिस्सा है। Stabilisation, pH, surfactants और दूसरे ingredients product behaviour को प्रभावित करते हैं। Safety और compatibility के लिए finished product label authoritative है।</p>\n<h2 id=\"hi202-safety\">Oxidising products को सावधानी से handle करना चाहिए</h2><p>Oxidising cleaners chemical hazards पैदा कर सकते हैं और इन्हें दूसरे cleaning products के साथ नहीं मिलाना चाहिए। Improvised combinations के बजाय label precautions और workplace procedures मानें।</p>\n<h2 id=\"hi202-takeaway\">मुख्य बात</h2><p>Oxidising cleaner oxidation को cleaning function के रूप में उपयोग करता है। उसका सही उपयोग formulation, target soil, surface compatibility और label conditions पर निर्भर करता है।</p>\n<h2 id=\"hi202-references\">संदर्भ</h2><ol><li id=\"hi202-ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-oxidants-and-oxidant-stabilizers\">US EPA — Safer Choice Criteria for Oxidants and Oxidant Stabilizers</a>.</li><li id=\"hi202-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Oxidising Cleaner क्या होता है? | Alle's ClinX",
+  "meta_description": "Oxidising cleaner ऐसी chemistry वाला product है जो oxidation के जरिए कुछ soils या stains को बदलता है; oxidisers materials और safety को भी प्रभावित कर सकते हैं, इसलिए finished products केवल label के अनुसार उपयोग होने चाहिए."
+}

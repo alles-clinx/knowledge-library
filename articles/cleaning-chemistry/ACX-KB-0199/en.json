@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0199",
+  "slug": "what-are-enzymes-in-cleaning-products",
+  "subcategory": "Enzymes",
+  "subcategory_slug": "enzymes",
+  "related_article_ids": [
+    "ACX-KB-0200",
+    "ACX-KB-0201",
+    "ACX-KB-0187"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Are Enzymes in Cleaning Products?",
+  "excerpt": "Enzymes are specialised proteins used in some cleaning formulations to help break down particular types of organic soil into smaller, more removable materials.",
+  "content_html": "<p>Enzymes are specialised proteins that accelerate particular chemical reactions. In some cleaning products, they are included to help break down specific types of organic soil into smaller materials that are easier for the rest of the cleaning process to remove.</p>\n<h2 id=\"selective\">Enzymes are selective</h2><p>An enzyme usually works on a particular kind of chemical structure rather than on every type of soil. That selectivity is why formulators may use different enzyme families for different cleaning tasks.</p>\n<h2 id=\"formulation\">They work as part of a formulation</h2><p>An enzyme is not the whole cleaner. Surfactants, builders, solvents, stabilisers and other ingredients may support wetting, suspension, water control and product stability while the enzyme contributes a targeted function.</p>\n<h2 id=\"conditions\">Their activity depends on conditions</h2><p>Enzyme performance can change with pH, temperature, water conditions, contact conditions and the presence of other ingredients. A formulation is designed so the enzyme remains sufficiently stable and active during intended use.</p>\n<h2 id=\"safety\">Enzymes also require safety controls</h2><p>EPA's Safer Choice criteria recognise enzymes as a distinct functional class and include controls intended to reduce inhalation and sensitisation concerns in qualifying products. Finished products should be handled according to their labels and workplace procedures.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Enzymes are targeted formulation tools. They help with certain organic soils, but their usefulness depends on enzyme type, formulation design and operating conditions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-enzymes-and-enzyme-stabilizers\">US EPA — Safer Choice Criteria for Enzymes and Enzyme Stabilizers</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "What Are Enzymes in Cleaning Products? | Alle's ClinX",
+  "meta_description": "Enzymes are specialised proteins used in some cleaning formulations to help break down particular types of organic soil into smaller, more removable materials."
+}

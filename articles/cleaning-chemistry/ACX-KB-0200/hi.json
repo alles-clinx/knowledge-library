@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0200",
+  "slug": "how-enzymes-target-different-soil-types",
+  "subcategory": "Enzymes",
+  "subcategory_slug": "enzymes",
+  "related_article_ids": [
+    "ACX-KB-0199",
+    "ACX-KB-0201",
+    "ACX-KB-0185"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0200",
+  "title": "Enzymes अलग Soil Types को कैसे Target करते हैं",
+  "excerpt": "अलग enzyme families अलग organic materials पर काम करती हैं, इसलिए cleaning formulations proteins, starches, fats या दूसरी targeted soils के लिए अलग enzymes चुन सकते हैं.",
+  "content_html": "<p>Cleaning में enzymes उपयोगी हैं क्योंकि वे selective होते हैं। अलग enzyme families अलग organic materials से जुड़ी reactions को catalyse करती हैं, इसलिए formulation intended soil के अनुसार enzyme चुन सकता है।</p>\n<h2 id=\"hi200-proteins\">Protease-type enzymes proteins को target करते हैं</h2><p>Protease enzymes कुछ protein structures को छोटे fragments में तोड़ते हैं। ऐसे formulated cleaners में यह protein-based residues हटाने में मदद कर सकता है जहाँ product इसी उद्देश्य के लिए design किया गया हो।</p>\n<h2 id=\"hi200-starch\">Amylase-type enzymes starches को target करते हैं</h2><p>Amylases starch-related materials पर काम करते हैं। जहाँ starchy residues महत्वपूर्ण हों, वहाँ ऐसे enzymes formulation का हिस्सा हो सकते हैं।</p>\n<h2 id=\"hi200-fats\">Lipase-type enzymes fats पर काम करते हैं</h2><p>Lipases कुछ fats और oils से जुड़ी reactions को catalyse करते हैं और बड़े lipid structures को छोटे components में बदलने में मदद कर सकते हैं।</p>\n<h2 id=\"hi200-not-universal\">एक enzyme हर soil को target नहीं करता</h2><p>जो selectivity enzymes को useful बनाती है, वही उनकी सीमा भी है। एक soil के लिए चुना enzyme किसी बिल्कुल अलग residue पर कम योगदान दे सकता है।</p>\n<h2 id=\"hi200-system\">बाकी cleaning system भी जरूरी है</h2><p>Enzyme के soil पर काम करने के बाद भी surfactants, water, mechanical action और removal steps की जरूरत रहती है। Enzymes process की मदद करते हैं, उसे replace नहीं करते।</p>\n<h2 id=\"hi200-takeaway\">मुख्य बात</h2><p>अलग enzyme families अलग organic soils को target करती हैं। उनका लाभ selectivity से आता है, इसलिए formulation enzyme function को intended task से match करता है।</p>\n<h2 id=\"hi200-references\">संदर्भ</h2><ol><li id=\"hi200-ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-enzymes-and-enzyme-stabilizers\">US EPA — Safer Choice Criteria for Enzymes and Enzyme Stabilizers</a>.</li><li id=\"hi200-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Enzymes अलग Soil Types को कैसे Target करते हैं | Alle's ClinX",
+  "meta_description": "अलग enzyme families अलग organic materials पर काम करती हैं, इसलिए cleaning formulations proteins, starches, fats या दूसरी targeted soils के लिए अलग enzymes चुन सकते हैं."
+}

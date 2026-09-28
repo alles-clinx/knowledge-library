@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0203",
+  "slug": "chlorine-bleach-vs-oxygen-bleach",
+  "subcategory": "Bleaches & Oxidisers",
+  "subcategory_slug": "bleaches-oxidisers",
+  "related_article_ids": [
+    "ACX-KB-0202",
+    "ACX-KB-0188",
+    "ACX-KB-0196"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Chlorine Bleach vs Oxygen Bleach",
+  "excerpt": "Chlorine-based and oxygen-based bleaches are different oxidising chemical families; this safety-focused overview explains the distinction without ranking products or giving preparation instructions.",
+  "content_html": "<p>“Chlorine bleach” and “oxygen bleach” are broad labels for different oxidising chemical families used in some cleaning and stain-control products. The terms describe chemistry, not a universal ranking of which product is better.</p>\n<h2 id=\"chlorine\">Chlorine-based bleaches</h2><p>Chlorine-based products use chlorine-releasing chemistry. Depending on the registered or labeled product, that chemistry may be used for bleaching, cleaning, sanitising or disinfecting functions. Claims and permitted surfaces are product-specific.</p>\n<h2 id=\"oxygen\">Oxygen-based bleaches</h2><p>Oxygen-based bleaches use non-chlorine oxidising chemistry, commonly from peroxide-related systems in finished products. Their intended uses, material compatibility and claims also depend on the exact formulation and label.</p>\n<h2 id=\"not-ranking\">The family names are not a performance ranking</h2><p>Different formulations can behave differently even within the same family. Surface compatibility, staining, colourfastness, hazard profile and regulatory claims vary by product.</p>\n<h2 id=\"safety\">Bleach products must not be mixed</h2><p>Bleach and other oxidising products can react dangerously with other cleaners. CDC and OSHA safety guidance emphasise following product labels and avoiding chemical mixing.</p>\n<h2 id=\"label\">The label is the decision source</h2><p>For any finished product, the label and technical information define its allowed surfaces, claims, precautions and storage requirements. Generic family names are not enough to determine appropriate use.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Chlorine-based and oxygen-based bleaches are different oxidising systems. For safety, treat them as product-specific regulated formulations rather than interchangeable ingredients or recipes.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/natural-disasters/safety/how-to-safely-clean-and-sanitize-with-bleach.html\">CDC — How to Safely Clean and Sanitize with Bleach</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/publications/bytopic/cleaning-chemicals\">OSHA — Cleaning Chemicals</a>.</li><li id=\"ref-3\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-oxidants-and-oxidant-stabilizers\">US EPA — Safer Choice Criteria for Oxidants and Oxidant Stabilizers</a>.</li></ol>",
+  "seo_title": "Chlorine Bleach vs Oxygen Bleach | Alle's ClinX",
+  "meta_description": "Chlorine-based and oxygen-based bleaches are different oxidising chemical families; this safety-focused overview explains the distinction without ranking products or giving preparation instructions."
+}
