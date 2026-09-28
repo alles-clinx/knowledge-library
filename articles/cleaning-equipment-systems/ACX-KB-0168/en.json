@@ -1,0 +1,21 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0168",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Tool Cleanliness Matters Between Tasks",
+  "slug": "why-tool-cleanliness-matters-between-tasks",
+  "subcategory": "Mops, Cloths & Manual Tools",
+  "subcategory_slug": "mops-cloths-manual-tools",
+  "excerpt": "A soiled mop, cloth or bucket can carry contamination into the next task; clean tools and clear changeover rules are part of the cleaning method.",
+  "content_html": "<p>Cleaning tools contact the same soil and microorganisms they are used to remove. Without changeover and reprocessing rules, a tool can transfer material from one surface or area to another.</p>\n<h2 id=\"transfer\">Understand the transfer route</h2><p>A used cloth can pick up contamination from a surface and deposit some of it on the next one. Dirty solution, buckets, mop heads and hands can also become transfer points. A surface that looks cleaner is not proof that the tool stayed clean.</p>\n<h2 id=\"changeover\">Set changeover points</h2><p>Define when a clean cloth, mop head or fresh solution is required: for example, between designated areas, after a visibly soiled task, and at points specified by the facility's infection-prevention procedure. Higher-risk healthcare areas may require dedicated equipment or more frequent changes.</p>\n<h2 id=\"separation\">Keep clean and used tools separate</h2><p>Store unused textiles in a clean section of the cart and collect used items in a separate closed or designated container. Do not place a used cloth back into clean stock or double-dip it into a clean solution.</p>\n<h2 id=\"reprocess\">Reprocess reusable tools</h2><p>Launder soiled cloths and mop heads according to manufacturer and site instructions, then dry them completely before storage. Clean and disinfect reusable containers and equipment at the prescribed interval. Do not improvise chemical concentrations or contact times.</p>\n<h2 id=\"hands\">Include hands in the workflow</h2><p>Staff should use the required personal protective equipment and perform hand hygiene at the points specified by the site procedure, especially when moving from used items to clean supplies.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Treat clean-tool availability and used-tool collection as essential parts of the task. A documented changeover is more dependable than asking staff to judge cleanliness by appearance alone.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li></ol>",
+  "seo_title": "Why Tool Cleanliness Matters Between Tasks | Alle's ClinX",
+  "meta_description": "Understand how cloths, mops, buckets and hands can transfer contamination between tasks and how to set changeover rules.",
+  "related_article_ids": ["ACX-KB-0166", "ACX-KB-0167", "ACX-KB-0169"]
+}

@@ -1,0 +1,21 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0169",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Makes a Cleaning Cart Well Organised?",
+  "slug": "what-makes-a-cleaning-cart-well-organised",
+  "subcategory": "Cleaning Carts & Trolleys",
+  "subcategory_slug": "cleaning-carts-trolleys",
+  "excerpt": "A well-organised cleaning cart carries the right supplies, separates clean from used items and makes the approved workflow easy to follow.",
+  "content_html": "<p>A cleaning cart is a mobile work area. Its layout should reduce unnecessary handling and make it obvious where clean supplies, used textiles, chemicals and waste belong.</p>\n<h2 id=\"task\">Stock for the assigned route</h2><p>Load the approved products, labelled containers, enough clean cloths or mop heads, waste supplies, personal protective equipment and any required warning signs for the planned session. Avoid carrying unneeded products that add clutter or increase selection errors.</p>\n<h2 id=\"zones\">Separate clean and used items</h2><p>Give unused textiles a clean, protected space and used materials a separate collection point. Keep waste away from clean stock. The separation should remain clear even after the cart fills during the shift.</p>\n<h2 id=\"chemicals\">Secure and identify chemicals</h2><p>Use containers and labels required by the product and site procedure. Store liquids upright, prevent leaks and place heavier liquid containers where the cart remains stable. Never rely on colour alone to identify a chemical.</p>\n<h2 id=\"access\">Arrange by sequence of use</h2><p>Place frequently needed items within easy reach, without forcing staff to reach across waste or soiled textiles. A consistent layout helps staff notice missing items and reduces repeated trips to a supply room.</p>\n<h2 id=\"handoff\">Build in shift handoff</h2><p>At the start and end of a shift, check quantities, container condition, expiry where relevant and the state of the cart itself. Restock and document faults before the next user inherits an incomplete cart.</p>\n<h2 id=\"clean\">Keep the cart clean</h2><p>Clean and disinfect the cart according to the facility schedule and after contamination events. Do not treat the cart as a storage place for personal items.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Good organisation supports the cleaning sequence: correct supplies, visible separation of clean and dirty, stable chemical storage and a repeatable restocking check.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-clean-carts.html\">CDC Project Firstline — Clean and Safe Carts for Environmental Services</a>.</li></ol>",
+  "seo_title": "What Makes a Cleaning Cart Well Organised? | Alle's ClinX",
+  "meta_description": "Organise a cleaning cart around the route, clean and used separation, labelled chemicals and reliable shift handoff.",
+  "related_article_ids": ["ACX-KB-0170", "ACX-KB-0168", "ACX-KB-0166"]
+}

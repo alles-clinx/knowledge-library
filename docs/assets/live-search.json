@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 330,
+  "record_count": 340,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -3632,6 +3632,116 @@
       "subcategory_slug": "hand-hygiene-programs",
       "excerpt": "Supply availability measure करने का अर्थ correct product और supporting resources को defined place/time पर present, usable और reachable check करना है—सिर्फ facility stock count नहीं।",
       "url": "library/hand-hygiene/hand-hygiene-programs/hand-hygiene-supply-availability/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0166",
+      "locale": "en",
+      "title": "How Mop and Cloth Choice Affects Cleaning",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Mops, Cloths & Manual Tools",
+      "subcategory_slug": "mops-cloths-manual-tools",
+      "excerpt": "Mop and cloth selection affects soil removal, chemical compatibility, cross-contamination control and the time needed to clean a facility.",
+      "url": "library/cleaning-equipment-systems/mops-cloths-manual-tools/how-mop-and-cloth-choice-affects-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0166",
+      "locale": "hi-IN",
+      "title": "पोछे और कपड़े का चुनाव सफाई को कैसे प्रभावित करता है",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Mops, Cloths & Manual Tools",
+      "subcategory_slug": "mops-cloths-manual-tools",
+      "excerpt": "पोछे और कपड़े का चुनाव मैल हटाने, रसायन की अनुकूलता, दूषण फैलने के जोखिम और सफाई में लगने वाले समय को प्रभावित करता है।",
+      "url": "library/cleaning-equipment-systems/mops-cloths-manual-tools/how-mop-and-cloth-choice-affects-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0167",
+      "locale": "en",
+      "title": "Microfibre vs Conventional Cleaning Cloths",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Mops, Cloths & Manual Tools",
+      "subcategory_slug": "mops-cloths-manual-tools",
+      "excerpt": "Microfibre may improve soil pickup, but cloth selection must also account for surface, chemical compatibility, laundering and cost.",
+      "url": "library/cleaning-equipment-systems/mops-cloths-manual-tools/microfibre-vs-conventional-cleaning-cloths/"
+    },
+    {
+      "article_id": "ACX-KB-0167",
+      "locale": "hi-IN",
+      "title": "माइक्रोफाइबर और सामान्य सफाई कपड़ों की तुलना",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Mops, Cloths & Manual Tools",
+      "subcategory_slug": "mops-cloths-manual-tools",
+      "excerpt": "माइक्रोफाइबर कुछ कामों में अधिक मैल पकड़ सकता है, लेकिन चुनाव में सतह, रसायन, धुलाई और कुल लागत भी देखें।",
+      "url": "library/cleaning-equipment-systems/mops-cloths-manual-tools/microfibre-vs-conventional-cleaning-cloths/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0168",
+      "locale": "en",
+      "title": "Why Tool Cleanliness Matters Between Tasks",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Mops, Cloths & Manual Tools",
+      "subcategory_slug": "mops-cloths-manual-tools",
+      "excerpt": "A soiled mop, cloth or bucket can carry contamination into the next task; clean tools and clear changeover rules are part of the cleaning method.",
+      "url": "library/cleaning-equipment-systems/mops-cloths-manual-tools/why-tool-cleanliness-matters-between-tasks/"
+    },
+    {
+      "article_id": "ACX-KB-0168",
+      "locale": "hi-IN",
+      "title": "अलग-अलग कामों के बीच उपकरणों की सफाई क्यों जरूरी है",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Mops, Cloths & Manual Tools",
+      "subcategory_slug": "mops-cloths-manual-tools",
+      "excerpt": "गंदा पोछा, कपड़ा या बाल्टी अगले काम में दूषण पहुँचा सकती है; साफ उपकरण और बदलने के स्पष्ट नियम सफाई विधि का हिस्सा हैं।",
+      "url": "library/cleaning-equipment-systems/mops-cloths-manual-tools/why-tool-cleanliness-matters-between-tasks/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0169",
+      "locale": "en",
+      "title": "What Makes a Cleaning Cart Well Organised?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Cleaning Carts & Trolleys",
+      "subcategory_slug": "cleaning-carts-trolleys",
+      "excerpt": "A well-organised cleaning cart carries the right supplies, separates clean from used items and makes the approved workflow easy to follow.",
+      "url": "library/cleaning-equipment-systems/cleaning-carts-trolleys/what-makes-a-cleaning-cart-well-organised/"
+    },
+    {
+      "article_id": "ACX-KB-0169",
+      "locale": "hi-IN",
+      "title": "सफाई ट्रॉली को व्यवस्थित क्या बनाता है?",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Cleaning Carts & Trolleys",
+      "subcategory_slug": "cleaning-carts-trolleys",
+      "excerpt": "व्यवस्थित सफाई ट्रॉली में सही सामान होता है, साफ और इस्तेमाल की सामग्री अलग रहती है और स्वीकृत कार्यप्रवाह अपनाना आसान होता है।",
+      "url": "library/cleaning-equipment-systems/cleaning-carts-trolleys/what-makes-a-cleaning-cart-well-organised/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0170",
+      "locale": "en",
+      "title": "Why Cleaning-Cart Layout Affects Workflow",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Cleaning Carts & Trolleys",
+      "subcategory_slug": "cleaning-carts-trolleys",
+      "excerpt": "Cart layout can reduce wasted movement, help staff find the correct supplies and reinforce the separation of clean and used materials.",
+      "url": "library/cleaning-equipment-systems/cleaning-carts-trolleys/why-cleaning-cart-layout-affects-workflow/"
+    },
+    {
+      "article_id": "ACX-KB-0170",
+      "locale": "hi-IN",
+      "title": "सफाई ट्रॉली का विन्यास काम के प्रवाह को क्यों प्रभावित करता है",
+      "category": "Cleaning Equipment & Systems",
+      "category_slug": "cleaning-equipment-systems",
+      "subcategory": "Cleaning Carts & Trolleys",
+      "subcategory_slug": "cleaning-carts-trolleys",
+      "excerpt": "ट्रॉली का सही विन्यास अनावश्यक आवाजाही घटाता है, सही सामान जल्दी ढूँढ़ने में मदद करता है और साफ तथा इस्तेमाल की सामग्री अलग रखता है।",
+      "url": "library/cleaning-equipment-systems/cleaning-carts-trolleys/why-cleaning-cart-layout-affects-workflow/hi.html"
     }
   ]
 }

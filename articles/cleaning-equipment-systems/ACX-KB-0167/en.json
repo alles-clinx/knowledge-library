@@ -1,0 +1,21 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0167",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Microfibre vs Conventional Cleaning Cloths",
+  "slug": "microfibre-vs-conventional-cleaning-cloths",
+  "subcategory": "Mops, Cloths & Manual Tools",
+  "subcategory_slug": "mops-cloths-manual-tools",
+  "excerpt": "Microfibre may improve soil pickup, but cloth selection must also account for surface, chemical compatibility, laundering and cost.",
+  "content_html": "<p>Microfibre and conventional cotton cloths can both serve professional cleaning programs. The better option depends on the task and the whole operating system, not a single claim about fibre performance.</p>\n<h2 id=\"pickup\">Compare soil pickup in the intended task</h2><p>Fine microfibre can capture more dirt and microorganisms than cotton in some environmental-cleaning applications. Results depend on the cloth, surface, wiping method, solution and how often a clean face is used.</p>\n<h2 id=\"compatibility\">Check chemical compatibility</h2><p>Do not assume every microfibre cloth works with every disinfectant. CDC guidance notes that high-pH and some chlorine-based products can damage microfibre. Follow the chemical label and textile manufacturer's instructions, and check whether the cloth affects the required disinfectant application.</p>\n<h2 id=\"surface\">Consider the surface and finish</h2><p>Test for streaking, lint, abrasion and moisture retention on the actual material. A cloth suitable for general hard surfaces may not be suitable for a delicate finish or for a task that calls for a disposable wipe.</p>\n<h2 id=\"reuse\">Account for reuse and laundering</h2><p>Reusable cloths need enough clean stock for changeovers, separate collection of soiled items, suitable laundering and complete drying before storage. Microfibre may need to be laundered separately from cotton and may have different replacement requirements.</p>\n<h2 id=\"cost\">Compare total operating cost</h2><p>Include cloth life, laundering, labour, chemical consumption and the frequency of replacement. A lower purchase price does not necessarily mean a lower cost per correctly completed cleaning task.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Trial the cloth with the intended surface, product and workflow. Choose on verified cleaning performance and compatibility, then document when and how it must be changed and reprocessed.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/sites/default/files/documents/ece_curriculum_7.2013_for_uploading.pdf\">US EPA — Green Cleaning, Sanitizing and Disinfecting Curriculum</a>.</li></ol>",
+  "seo_title": "Microfibre vs Conventional Cleaning Cloths | Alle's ClinX",
+  "meta_description": "Compare microfibre and conventional cloths by pickup, surface suitability, chemical compatibility and reprocessing.",
+  "related_article_ids": ["ACX-KB-0166", "ACX-KB-0168", "ACX-KB-0170"]
+}

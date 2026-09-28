@@ -1,0 +1,32 @@
+{
+  "batch_id": "batch-036",
+  "category": "Cleaning Equipment & Systems",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0166",
+    "ACX-KB-0167",
+    "ACX-KB-0168",
+    "ACX-KB-0169",
+    "ACX-KB-0170"
+  ],
+  "stage": "completed",
+  "english": {"source_status": "complete", "editorial_status": "reviewed"},
+  "translation": {"locale": "hi-IN", "status": "reviewed", "article_count": 5},
+  "preview": {
+    "status": "live",
+    "pages": 10,
+    "design": "locked Gold Standard article shell",
+    "qa": {
+      "one_h1": true,
+      "language_tabs": true,
+      "hook_targets_resolve": true,
+      "floating_progress_targets_resolve": true,
+      "duplicate_dom_ids": false,
+      "hook_runtime": true,
+      "compact_hero_scale": true,
+      "site_shell": true
+    }
+  },
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest.",
+  "completed_after_validation": true
+}

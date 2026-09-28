@@ -1,0 +1,21 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0166",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Mop and Cloth Choice Affects Cleaning",
+  "slug": "how-mop-and-cloth-choice-affects-cleaning",
+  "subcategory": "Mops, Cloths & Manual Tools",
+  "subcategory_slug": "mops-cloths-manual-tools",
+  "excerpt": "Mop and cloth selection affects soil removal, chemical compatibility, cross-contamination control and the time needed to clean a facility.",
+  "content_html": "<p>A cleaning chemical is only one part of a cleaning method. The mop or cloth must suit the surface, the soil, the approved product and the way the used tool will be collected and reprocessed.</p>\n<h2 id=\"task\">Start with the task and surface</h2><p>Identify whether the task is dry dust control, damp wiping, wet floor cleaning or disinfection. Check surface finish and manufacturer instructions before selecting a tool; abrasive or overly wet methods can damage some materials.</p>\n<h2 id=\"material\">Match the material to the method</h2><p>Cotton and microfibre are both used in professional cleaning. Microfibre can capture more soil and microorganisms in some applications, but it is not automatically the right choice for every chemical or laundering system. Check compatibility with the cleaning or disinfectant product and the textile supplier's care instructions.</p>\n<h2 id=\"coverage\">Consider coverage and handling</h2><p>A flat mop pad may help cover open floors consistently, while a smaller cloth can reach handles, edges and fittings. Choose a size and attachment system staff can change without repeatedly touching the soiled face.</p>\n<h2 id=\"cross-contamination\">Control movement between areas</h2><p>Provide enough clean cloths or mop heads for the session. Assign tools by area or task where the facility procedure requires it, and keep used textiles separate from clean stock. Do not return a soiled cloth to a clean solution container.</p>\n<h2 id=\"reprocessing\">Plan reprocessing before purchase</h2><p>Reusable textiles need a defined laundering, drying, inspection and replacement process. Check whether the material tolerates the chemicals and wash cycle actually used by the facility; a tool that cannot be reliably reprocessed is a poor operational choice.</p>\n<h2 id=\"trial\">Test the complete workflow</h2><p>Compare tools on soil removal, surface condition, chemical use, changeover time, staff handling and total replacement cost. A small trial in the intended area is more informative than choosing by fibre name alone.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Select a mop or cloth as part of a complete, repeatable cleaning method: suitable material, controlled use, enough clean stock and safe reprocessing.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>",
+  "seo_title": "How Mop and Cloth Choice Affects Cleaning | Alle's ClinX",
+  "meta_description": "Choose mops and cloths by surface, soil, chemical compatibility, contamination control and reprocessing needs.",
+  "related_article_ids": ["ACX-KB-0167", "ACX-KB-0168", "ACX-KB-0170"]
+}

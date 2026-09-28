@@ -1,0 +1,21 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0170",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Cleaning-Cart Layout Affects Workflow",
+  "slug": "why-cleaning-cart-layout-affects-workflow",
+  "subcategory": "Cleaning Carts & Trolleys",
+  "subcategory_slug": "cleaning-carts-trolleys",
+  "excerpt": "Cart layout can reduce wasted movement, help staff find the correct supplies and reinforce the separation of clean and used materials.",
+  "content_html": "<p>The layout of a cleaning cart influences what staff touch, what they can find quickly and how often they must interrupt a cleaning route. It is a workflow decision as much as a storage decision.</p>\n<h2 id=\"sequence\">Follow the work sequence</h2><p>Map the route and the order of tasks. Put regularly used clean supplies where they are reachable before work begins, and provide a separate place for used textiles and waste after each task. This reduces unnecessary handling across clean and dirty areas.</p>\n<h2 id=\"travel\">Reduce avoidable trips</h2><p>A cart stocked for the assigned area limits journeys back to the supply room. Overloading has the opposite effect if staff must search through clutter or if the cart becomes difficult to move safely.</p>\n<h2 id=\"errors\">Make errors easier to notice</h2><p>Consistent positions and clear labels help staff recognise a missing cloth, wrong product, damaged container or empty supply before it disrupts the job. Do not use container colour as the only chemical identifier.</p>\n<h2 id=\"clean-dirty\">Protect the clean side</h2><p>Locate clean cloths away from used materials and waste. Plan how full waste bags and soiled textiles will be removed without passing over unused supplies. Local infection-prevention rules may require stricter separation or dedicated carts.</p>\n<h2 id=\"ergonomics\">Consider reach and movement</h2><p>Place heavy items low and frequently used items within comfortable reach while keeping the cart stable. Check that the loaded cart fits the facility's doors, lifts and corridors without blocking safe access.</p>\n<h2 id=\"trial\">Observe a real shift</h2><p>Trial a layout with the people who use it. Note repeated reaches, searches, forgotten supplies and contamination risks, then adjust the layout and update the restocking checklist.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A good layout supports the order of work, keeps clean and used materials apart, makes missing items visible and remains safe to move.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-clean-carts.html\">CDC Project Firstline — Clean and Safe Carts for Environmental Services</a>.</li></ol>",
+  "seo_title": "Why Cleaning-Cart Layout Affects Workflow | Alle's ClinX",
+  "meta_description": "See how cleaning-cart layout influences task flow, safe movement, supply errors and clean/used separation.",
+  "related_article_ids": ["ACX-KB-0169", "ACX-KB-0168", "ACX-KB-0166"]
+}
