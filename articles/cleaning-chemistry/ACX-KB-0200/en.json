@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0200",
+  "slug": "how-enzymes-target-different-soil-types",
+  "subcategory": "Enzymes",
+  "subcategory_slug": "enzymes",
+  "related_article_ids": [
+    "ACX-KB-0199",
+    "ACX-KB-0201",
+    "ACX-KB-0185"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Enzymes Target Different Soil Types",
+  "excerpt": "Different enzyme families act on different kinds of organic material, so cleaning formulations may use selected enzymes to address proteins, starches, fats or other targeted soils.",
+  "content_html": "<p>Enzymes are useful in cleaning because they are selective. Different enzyme families catalyse reactions involving different kinds of organic material, so a formulation can use an enzyme chosen for the type of soil it is intended to address.</p>\n<h2 id=\"proteins\">Protease-type enzymes target proteins</h2><p>Protease enzymes break certain protein structures into smaller fragments. In formulated cleaners, that can support removal of protein-based residues when the product is designed for that purpose.</p>\n<h2 id=\"starch\">Amylase-type enzymes target starches</h2><p>Amylases act on starch-related materials. They may be included where starchy residues are an important part of the intended cleaning challenge.</p>\n<h2 id=\"fats\">Lipase-type enzymes target fats</h2><p>Lipases act on certain fats and oils by catalysing reactions that break larger lipid structures into smaller components. Their usefulness depends on the formulation and the particular soil.</p>\n<h2 id=\"not-universal\">An enzyme does not target everything</h2><p>The selectivity that makes enzymes useful also creates limits. An enzyme chosen for one soil type may contribute little to a completely different residue, so enzyme cleaners are still matched to defined tasks.</p>\n<h2 id=\"system\">The rest of the cleaning system still matters</h2><p>After an enzyme acts on soil, surfactants, water, mechanical action and removal steps are still needed to carry loosened material away. Enzymes assist a process; they do not replace it.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Different enzyme families target different kinds of organic soil. Their value comes from selectivity, which is why formulators match enzyme function to the intended cleaning task.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-enzymes-and-enzyme-stabilizers\">US EPA — Safer Choice Criteria for Enzymes and Enzyme Stabilizers</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "How Enzymes Target Different Soil Types | Alle's ClinX",
+  "meta_description": "Different enzyme families act on different kinds of organic material, so cleaning formulations may use selected enzymes to address proteins, starches, fats or other targeted soils."
+}
