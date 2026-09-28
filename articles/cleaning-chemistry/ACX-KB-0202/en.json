@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0202",
+  "slug": "what-is-an-oxidising-cleaner",
+  "subcategory": "Bleaches & Oxidisers",
+  "subcategory_slug": "bleaches-oxidisers",
+  "related_article_ids": [
+    "ACX-KB-0203",
+    "ACX-KB-0184",
+    "ACX-KB-0186"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is an Oxidising Cleaner?",
+  "excerpt": "An oxidising cleaner contains chemistry that changes certain soils or stains through oxidation; because oxidisers can also affect materials and present hazards, finished products must be used only as labeled.",
+  "content_html": "<p>An oxidising cleaner is a formulated product that uses an oxidising ingredient as part of its cleaning or stain-control function. Oxidation changes the chemical structure of certain materials, which can alter colour, odour or how easily a residue can be removed.</p>\n<h2 id=\"function\">Oxidation is a chemical function</h2><p>Oxidising ingredients accept or redistribute electrons during chemical reactions. In cleaning formulations, this chemistry may be used to alter particular stains or residues rather than simply dissolve them.</p>\n<h2 id=\"examples\">Different oxidant families exist</h2><p>Cleaning products can use different oxidising chemical families. EPA treats oxidants and oxidant stabilisers as a distinct functional class within Safer Choice criteria, reflecting their specialised role in formulations.</p>\n<h2 id=\"not-universal\">Oxidising does not mean universally suitable</h2><p>Oxidisers can also affect dyes, finishes, metals, textiles and other materials. A product that is appropriate for one surface or stain may be unsuitable for another.</p>\n<h2 id=\"formulation\">The finished product matters</h2><p>The active oxidant is only one part of the formulation. Stabilisation, pH, surfactants and other ingredients influence product behaviour. Safety and compatibility should therefore be judged from the finished product label and technical information.</p>\n<h2 id=\"safety\">Oxidising products require careful handling</h2><p>Oxidising cleaners can present chemical hazards and should not be mixed with other cleaning products. Follow label precautions and workplace procedures rather than improvising combinations.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>An oxidising cleaner uses oxidation as one cleaning function. Its usefulness and safety depend on the complete formulation, target soil, surface compatibility and labeled conditions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-oxidants-and-oxidant-stabilizers\">US EPA — Safer Choice Criteria for Oxidants and Oxidant Stabilizers</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "What Is an Oxidising Cleaner? | Alle's ClinX",
+  "meta_description": "An oxidising cleaner contains chemistry that changes certain soils or stains through oxidation; because oxidisers can also affect materials and present hazards, finished products must be used only as labeled."
+}
