@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0195",
+  "slug": "why-foam-does-not-always-equal-cleaning-power",
+  "subcategory": "Surfactants",
+  "subcategory_slug": "surfactants",
+  "related_article_ids": [
+    "ACX-KB-0192",
+    "ACX-KB-0193",
+    "ACX-KB-0194"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Foam Does Not Always Equal Cleaning Power",
+  "excerpt": "Foam is a visible property of a cleaning solution, but the amount of foam does not directly measure how well the product removes soil.",
+  "content_html": "<p>Foam is easy to see, so it is often mistaken for evidence that a cleaner is working harder. In reality, foam is mainly a physical behaviour of the formulation. Cleaning performance depends on soil removal, wetting, chemistry, mechanical action and recovery—not on the height of the bubbles.</p>\n<h2 id=\"foam-source\">Why cleaners foam</h2><p>Some surfactants stabilise air bubbles in water more readily than others. Agitation, water conditions, concentration and the presence of soil can also change how much foam appears.</p>\n<h2 id=\"performance\">High foam can clean well—or poorly</h2><p>A high-foaming product may perform well for one task, while a low-foaming product may be better for another. Many machine-cleaning systems are designed around controlled or low foam because excessive foam can interfere with recovery or equipment operation.</p>\n<h2 id=\"visual\">Appearance is not a measurement</h2><p>Foam level does not directly measure concentration, surfactant activity or soil removal. Judging a product by bubbles can therefore lead to incorrect conclusions about whether the solution is too weak or too strong.</p>\n<h2 id=\"formulation\">Formulators choose foam deliberately</h2><p>EPA recognises defoamers and surfactants as different functional ingredient classes. This reflects an important formulation principle: foam level can be adjusted independently from other cleaning functions.</p>\n<h2 id=\"use\">Follow the product design</h2><p>Use a product according to its label and equipment compatibility requirements. Do not add extra concentrate simply to produce more visible foam.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Foam is a formulation characteristic, not a cleaning-power gauge. The meaningful result is whether the approved process removes the target soil without damaging the surface or interfering with the equipment.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "Why Foam Does Not Always Equal Cleaning Power | Alle's ClinX",
+  "meta_description": "Foam is a visible property of a cleaning solution, but the amount of foam does not directly measure how well the product removes soil."
+}
