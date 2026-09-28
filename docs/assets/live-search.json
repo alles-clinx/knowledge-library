@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 386,
+  "record_count": 396,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4248,6 +4248,116 @@
       "subcategory_slug": "surfactants",
       "excerpt": "सर्फैक्टेंट सतही तनाव कम करके पानी-आधारित सफाई घोल को सतह पर अधिक समान रूप से फैलने और गंदगी से बेहतर संपर्क करने में मदद करते हैं।",
       "url": "library/cleaning-chemistry/surfactants/how-surfactants-help-water-spread/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0194",
+      "locale": "en",
+      "title": "Anionic vs Nonionic vs Cationic Surfactants",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "Anionic, nonionic and cationic surfactants differ in the electrical character of their water-interacting region, which influences cleaning behaviour, compatibility and formulation design.",
+      "url": "library/cleaning-chemistry/surfactants/anionic-vs-nonionic-vs-cationic-surfactants/"
+    },
+    {
+      "article_id": "ACX-KB-0194",
+      "locale": "hi-IN",
+      "title": "Anionic, Nonionic और Cationic सर्फैक्टेंट में अंतर",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "Anionic, nonionic और cationic सर्फैक्टेंट अपने पानी से संपर्क करने वाले हिस्से के विद्युत गुण में अलग होते हैं, जिससे सफाई व्यवहार, अनुकूलता और फॉर्म्युलेशन डिज़ाइन प्रभावित होता है.",
+      "url": "library/cleaning-chemistry/surfactants/anionic-vs-nonionic-vs-cationic-surfactants/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0195",
+      "locale": "en",
+      "title": "Why Foam Does Not Always Equal Cleaning Power",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "Foam is a visible property of a cleaning solution, but the amount of foam does not directly measure how well the product removes soil.",
+      "url": "library/cleaning-chemistry/surfactants/why-foam-does-not-always-equal-cleaning-power/"
+    },
+    {
+      "article_id": "ACX-KB-0195",
+      "locale": "hi-IN",
+      "title": "झाग हमेशा सफाई शक्ति क्यों नहीं बताता",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Surfactants",
+      "subcategory_slug": "surfactants",
+      "excerpt": "झाग सफाई घोल का दिखाई देने वाला गुण है, लेकिन झाग की मात्रा सीधे यह नहीं बताती कि उत्पाद गंदगी कितनी अच्छी तरह हटाता है.",
+      "url": "library/cleaning-chemistry/surfactants/why-foam-does-not-always-equal-cleaning-power/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0196",
+      "locale": "en",
+      "title": "What Are Disinfectant Active Ingredients?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Disinfectant Actives",
+      "subcategory_slug": "disinfectant-actives",
+      "excerpt": "Disinfectant active ingredients are the antimicrobial chemicals in a registered product that support its labeled claims against specified microorganisms under defined conditions.",
+      "url": "library/cleaning-chemistry/disinfectant-actives/what-are-disinfectant-active-ingredients/"
+    },
+    {
+      "article_id": "ACX-KB-0196",
+      "locale": "hi-IN",
+      "title": "डिसइन्फेक्टेंट active ingredients क्या होते हैं?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Disinfectant Actives",
+      "subcategory_slug": "disinfectant-actives",
+      "excerpt": "Disinfectant active ingredients registered उत्पाद के वे antimicrobial chemicals हैं जो निर्धारित conditions में specific microorganisms के खिलाफ labeled claims का आधार बनते हैं.",
+      "url": "library/cleaning-chemistry/disinfectant-actives/what-are-disinfectant-active-ingredients/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0197",
+      "locale": "en",
+      "title": "What Are Quaternary Ammonium Compounds?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Disinfectant Actives",
+      "subcategory_slug": "disinfectant-actives",
+      "excerpt": "Quaternary ammonium compounds are a chemical family that includes cationic surfactants and active ingredients used in many registered low-level environmental disinfectants.",
+      "url": "library/cleaning-chemistry/disinfectant-actives/what-are-quaternary-ammonium-compounds/"
+    },
+    {
+      "article_id": "ACX-KB-0197",
+      "locale": "hi-IN",
+      "title": "Quaternary Ammonium Compounds क्या हैं?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Disinfectant Actives",
+      "subcategory_slug": "disinfectant-actives",
+      "excerpt": "Quaternary ammonium compounds एक chemical family है जिसमें cationic surfactants और कई registered low-level environmental disinfectants में उपयोग होने वाले active ingredients शामिल हैं.",
+      "url": "library/cleaning-chemistry/disinfectant-actives/what-are-quaternary-ammonium-compounds/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0198",
+      "locale": "en",
+      "title": "Phenolic vs Quaternary Disinfectants",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Disinfectant Actives",
+      "subcategory_slug": "disinfectant-actives",
+      "excerpt": "Phenolic and quaternary disinfectants are different regulated chemical families; this overview explains the distinction without ranking products or giving handling instructions.",
+      "url": "library/cleaning-chemistry/disinfectant-actives/phenolic-vs-quaternary-disinfectants/"
+    },
+    {
+      "article_id": "ACX-KB-0198",
+      "locale": "hi-IN",
+      "title": "Phenolic बनाम Quaternary Disinfectants",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Disinfectant Actives",
+      "subcategory_slug": "disinfectant-actives",
+      "excerpt": "Phenolic और quaternary disinfectants अलग regulated chemical families हैं; यह overview बिना ranking या handling instructions दिए उनका सामान्य अंतर समझाता है.",
+      "url": "library/cleaning-chemistry/disinfectant-actives/phenolic-vs-quaternary-disinfectants/hi.html"
     }
   ]
 }
