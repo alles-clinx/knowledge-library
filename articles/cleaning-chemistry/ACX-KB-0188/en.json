@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0188",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is pH in Cleaning Chemicals?",
+  "slug": "what-is-ph-in-cleaning-chemicals",
+  "subcategory": "pH, Acids & Alkalis",
+  "subcategory_slug": "ph-acids-alkalis",
+  "excerpt": "pH describes how acidic or alkaline an aqueous cleaning solution is; it influences product behaviour and compatibility but does not by itself predict cleaning power or safety.",
+  "content_html": "<p>pH is a measure of how acidic or alkaline a water-based solution is. The commonly used scale runs from 0 to 14: values below 7 are acidic, 7 is neutral and values above 7 are alkaline or basic. In cleaning, pH is one useful property of a formulation, not a complete description of how the product will perform.</p>\n<h2 id=\"logarithmic\">The pH scale is logarithmic</h2><p>A change of one whole pH unit represents a tenfold change in hydrogen-ion activity. That means the numerical distance between pH values should not be interpreted as a simple linear change.</p>\n<h2 id=\"cleaning\">Why pH matters in cleaning</h2><p>Acidic and alkaline conditions can change how certain soils respond and how certain surfaces behave. This is one reason specialised products exist for tasks such as mineral-deposit removal or degreasing. The correct product still depends on the soil, surface and manufacturer instructions.</p>\n<h2 id=\"neutral\">Neutral does not mean weak</h2><p>A neutral or near-neutral detergent can still clean effectively because cleaning performance also comes from surfactants, solvents, chelating agents and mechanical action. CDC recommends neutral detergents, approximately pH 6 to 8, for many routine environmental-cleaning procedures because they can combine cleaning performance with broad material compatibility.</p>\n<h2 id=\"not-strength\">pH is not a cleaning-strength scale</h2><p>A product farther from pH 7 is not automatically a “stronger cleaner.” Two products with similar pH can behave differently because their complete formulations differ. Concentration, temperature, soil type, contact time and physical action also affect the result.</p>\n<h2 id=\"compatibility\">Extreme pH can increase compatibility concerns</h2><p>Some surfaces, coatings, metals and textiles are sensitive to acidic or alkaline conditions. Use the product and surface manufacturer's instructions, and do not increase concentration or change product chemistry in an attempt to shift pH.</p>\n<h2 id=\"measurement\">Measured pH depends on the solution</h2><p>pH applies to aqueous solutions and can change with dilution and formulation. The pH listed for a concentrate may not be the same as the pH of its prepared use solution, so technical data should be read carefully.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>pH tells you whether a water-based cleaning solution is acidic, neutral or alkaline. It helps explain product behaviour and compatibility, but safe and effective cleaner selection still requires the complete formulation, correct concentration and surface requirements.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.usgs.gov/water-science-school/science/ph-and-water\">USGS — pH and Water</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "What Is pH in Cleaning Chemicals? | Alle's ClinX",
+  "meta_description": "Learn what pH means in cleaning chemicals, why the scale is logarithmic, and how pH relates to soil removal, compatibility and product selection.",
+  "related_article_ids": [
+    "ACX-KB-0184",
+    "ACX-KB-0186",
+    "ACX-KB-0189"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0184",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Cleaning Chemistry?",
+  "slug": "what-is-cleaning-chemistry",
+  "subcategory": "Cleaning Chemistry Basics",
+  "subcategory_slug": "chemistry-basics",
+  "excerpt": "Cleaning chemistry is the controlled use of water, detergents and other functional ingredients to loosen, dissolve, suspend or remove soil without unnecessarily damaging the surface.",
+  "content_html": "<p>Cleaning chemistry is the science of how cleaning products interact with soil, water and surfaces. A product does not clean simply because it is “strong.” Effective cleaning depends on matching the formulation, concentration, contact conditions and mechanical action to the material and the type of soil present.</p>\n<h2 id=\"soil-surface\">Cleaning starts with soil and surface</h2><p>Different soils behave differently. Oils, mineral deposits, food residues, dust and biological material do not respond to the same chemistry in the same way. Surfaces also vary in porosity, finish, coating and chemical resistance, so a product that works well in one area may be unsuitable in another.</p>\n<h2 id=\"ingredients\">Formulations combine functional ingredients</h2><p>Professional cleaning products may contain surfactants, solvents, builders, chelating agents, enzymes, pH-control ingredients, preservatives and other components. Each ingredient can serve a different function, such as improving wetting, helping dissolve oily soil, managing water hardness or keeping loosened soil suspended.</p>\n<h2 id=\"water-action\">Water and mechanical action still matter</h2><p>Many cleaning products are designed to work with water and physical action such as wiping, brushing or scrubbing. CDC guidance describes cleaning as combining a cleaning product with water and mechanical action to remove organic material and suspend grease or oil.</p>\n<h2 id=\"concentration\">Concentration is part of the chemistry</h2><p>A concentrated product is normally designed for a specified use dilution. Too little product may reduce performance; too much may increase residue, cost, exposure or surface damage. Follow the product label and approved facility procedure rather than estimating concentration by colour, smell or foam.</p>\n<h2 id=\"compatibility\">Compatibility limits what chemistry should be used</h2><p>Cleaning chemistry must work without unnecessarily damaging the surface. CDC recommends choosing environmental cleaning products that are compatible with the surfaces and equipment being cleaned. Manufacturer instructions should take priority where a surface, coating or machine has specific chemical restrictions.</p>\n<h2 id=\"safety\">Cleaning chemistry includes safe handling</h2><p>Product selection also has to consider hazards, labelling, storage, required personal protective equipment and safe preparation. Do not combine cleaning products unless the product manufacturer explicitly directs that combination.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Cleaning chemistry is the controlled interaction of formulation, soil, surface, water, concentration, time and mechanical action. Good results come from matching those factors—not from using the most aggressive product available.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "What Is Cleaning Chemistry? | Alle's ClinX",
+  "meta_description": "Understand how cleaning chemistry connects formulations, soil, surfaces, water, concentration and mechanical action to produce controlled cleaning results.",
+  "related_article_ids": [
+    "ACX-KB-0185",
+    "ACX-KB-0186",
+    "ACX-KB-0187"
+  ]
+}

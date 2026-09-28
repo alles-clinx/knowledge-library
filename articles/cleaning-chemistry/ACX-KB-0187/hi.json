@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0187",
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0187",
+  "title": "पेशेवर क्लीनिंग फॉर्म्युलेशन बनाम एकल घटक",
+  "slug": "cleaning-formulations-vs-single-ingredients",
+  "subcategory": "Cleaning Chemistry Basics",
+  "subcategory_slug": "chemistry-basics",
+  "excerpt": "पेशेवर क्लीनिंग फॉर्म्युलेशन अलग कार्य वाले कई घटकों को जोड़ते हैं ताकि वेटिंग, गंदगी हटाना, पानी नियंत्रण, स्थिरता और सुरक्षित उपयोग एक ही उत्पाद सिस्टम में प्रबंधित हो सके।",
+  "content_html": "<p>पेशेवर सफाई उत्पाद आम तौर पर एक अकेला सक्रिय घटक नहीं, बल्कि फॉर्म्युलेशन होते हैं। कई कार्य एक साथ चाहिए—गंदगी तक पहुँचना, उसे ढीला करना, निलंबित रखना, उपलब्ध पानी में काम करना और भंडारण तथा उपयोग के दौरान स्थिर रहना।</p>\n<h2 id=\"hi187-roles\">अलग घटक अलग भूमिका निभाते हैं</h2><p>EPA सर्फैक्टेंट, सॉल्वेंट, चिलेटिंग और सीक्वेस्टरिंग एजेंट, एंजाइम, ऑक्सिडेंट, प्रिजर्वेटिव, डीफोमर और अन्य प्रोसेसिंग एड जैसे कार्यात्मक वर्गों का वर्णन करता है। एक फॉर्म्युलेशन कई वर्गों से चुने घटकों को जोड़ सकता है।</p>\n<h2 id=\"hi187-surfactant\">सर्फैक्टेंट महत्वपूर्ण है, लेकिन पूरा उत्पाद नहीं</h2><p>सर्फैक्टेंट वेटिंग और तेलीय या कणीय गंदगी हटाने में मदद कर सकता है, लेकिन पानी की कठोरता, उत्पाद स्थिरता, झाग स्तर, pH या हर प्रकार के अवशेष को अपने आप नियंत्रित नहीं करता।</p>\n<h2 id=\"hi187-balance\">फॉर्म्युलेशन संतुलन है</h2><p>एक घटक बदलने से कई गुण बदल सकते हैं। अधिक सॉल्वेंसी किसी काम में मदद कर सकती है लेकिन कुछ सतहों की अनुकूलता घटा सकती है; अधिक झाग सक्रिय दिख सकता है लेकिन कुछ मशीनों में अनुपयुक्त हो सकता है।</p>\n<h2 id=\"hi187-single\">एकल घटक प्रमाणित फॉर्म्युलेशन का विकल्प नहीं</h2><p>कच्चे घटक के उपयोग निर्देश, कंसन्ट्रेशन, स्थिरता या सुरक्षा प्रोफाइल तैयार उत्पाद जैसे नहीं होते। कर्मचारियों को स्वीकृत उत्पाद लेबल और प्रक्रिया के अनुसार उपयोग करने चाहिए, अलग-अलग रसायनों से अपने मिश्रण नहीं बनाने चाहिए।</p>\n<h2 id=\"hi187-performance\">तैयार उत्पाद परिभाषित स्थितियों के लिए बने होते हैं</h2><p>उत्पाद लेबल और तकनीकी जानकारी बताती है कि फॉर्म्युलेशन कहाँ और कैसे उपयोग होना चाहिए। कुछ दावे विशेष कंसन्ट्रेशन, सतह या संपर्क स्थिति पर निर्भर कर सकते हैं।</p>\n<h2 id=\"hi187-takeaway\">मुख्य बात</h2><p>पेशेवर क्लीनिंग फॉर्म्युलेशन एक सिस्टम की तरह काम करते हैं। अलग घटक पूरक कार्य निभाते हैं, इसलिए केवल एक परिचित घटक देखकर पूरे उत्पाद का प्रदर्शन या उपयोग तय नहीं किया जा सकता।</p>\n<h2 id=\"hi187-references\">संदर्भ</h2><ol><li id=\"hi187-ref-1\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li><li id=\"hi187-ref-2\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-master-criteria-safer-chemical-ingredients\">US EPA — Safer Choice Master Criteria for Safer Chemical Ingredients</a>.</li><li id=\"hi187-ref-3\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li></ol>",
+  "seo_title": "क्लीनिंग फॉर्म्युलेशन बनाम एकल घटक | Alle's ClinX",
+  "meta_description": "समझें कि पेशेवर क्लीनर एक रसायन पर निर्भर रहने के बजाय सर्फैक्टेंट, सॉल्वेंट और अन्य घटकों को क्यों जोड़ते हैं।",
+  "related_article_ids": [
+    "ACX-KB-0184",
+    "ACX-KB-0185",
+    "ACX-KB-0186"
+  ]
+}

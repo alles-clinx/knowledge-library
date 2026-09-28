@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0186",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why One Cleaner Cannot Suit Every Soil and Surface",
+  "slug": "why-one-cleaner-cannot-suit-every-soil-and-surface",
+  "subcategory": "Cleaning Chemistry Basics",
+  "subcategory_slug": "chemistry-basics",
+  "excerpt": "A cleaner that works on one soil and surface may perform poorly or cause damage elsewhere because soil chemistry, material compatibility and required cleaning conditions differ.",
+  "content_html": "<p>There is no universal cleaner that is ideal for every soil and every surface. The chemistry needed to remove oily residue may be different from the chemistry needed for mineral scale, while the surface beneath the soil may limit how aggressive the product can safely be.</p>\n<h2 id=\"soil-types\">Soils are chemically different</h2><p>Grease, proteins, mineral deposits, dust, pigments and adhesive residues have different physical and chemical properties. A formulation that is effective on one category may have little effect on another or may require different contact conditions.</p>\n<h2 id=\"surface-materials\">Surfaces have different tolerances</h2><p>Stone, metals, plastics, glass, resilient flooring, painted surfaces, coatings and textiles do not respond equally to acids, alkalis, solvents or prolonged wetting. Product choice should therefore account for the material and its manufacturer's care instructions.</p>\n<h2 id=\"ph\">pH can be useful but is not the whole answer</h2><p>Acidic, neutral and alkaline products can have different roles, but pH alone does not describe a complete formulation. Surfactants, solvents, chelating agents, concentration, temperature and mechanical action can all affect performance and compatibility.</p>\n<h2 id=\"specialised\">Specialised products exist for a reason</h2><p>CDC notes that specialised cleaning products can provide advantages for particular areas or materials, such as bathroom cleaners, floor-care products or glass cleaners. Their value comes from being matched to a defined task rather than being assumed suitable everywhere.</p>\n<h2 id=\"risk\">A stronger product can create a new problem</h2><p>Using an unnecessarily aggressive cleaner can damage finishes, leave residues, increase exposure or create extra rinsing requirements. Increasing concentration beyond the manufacturer recommendation can also create risk without guaranteeing better cleaning.</p>\n<h2 id=\"selection\">Use a selection sequence</h2><p>Identify the soil, identify the surface, check the surface-care requirements, choose an approved product for both, prepare it at the specified concentration and verify the result. Where compatibility is uncertain, follow the product and surface manufacturer's guidance before broad use.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>The correct cleaner is the one that removes the target soil while remaining compatible with the surface and the cleaning process. Matching matters more than finding one product for every task.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services</a>.</li></ol>",
+  "seo_title": "Why One Cleaner Cannot Suit Every Soil and Surface | Alle's ClinX",
+  "meta_description": "See why cleaner selection must match both the soil and the surface, including chemistry, pH, material compatibility and manufacturer requirements.",
+  "related_article_ids": [
+    "ACX-KB-0184",
+    "ACX-KB-0185",
+    "ACX-KB-0188"
+  ]
+}
