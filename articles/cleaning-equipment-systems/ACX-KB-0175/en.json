@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Equipment & Systems",
+  "category_slug": "cleaning-equipment-systems",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0175",
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Carpet Extraction Cleaning?",
+  "slug": "what-is-carpet-extraction-cleaning",
+  "subcategory": "Vacuum & Extraction Equipment",
+  "subcategory_slug": "vacuum-extraction-equipment",
+  "excerpt": "Carpet extraction cleaning is a wet-cleaning process that applies solution, loosens soil and recovers the contaminated liquid with suction.",
+  "content_html": "<p>Carpet extraction cleaning is a wet-cleaning method in which water or cleaning solution is applied to carpet, soil is loosened, and the contaminated liquid is recovered by suction. Hot-water extraction is a common version of the process, but exact equipment and temperatures vary.</p>\n<h2 id=\"purpose\">What extraction is intended to do</h2><p>Routine vacuuming removes much of the loose dry soil on a carpet. Extraction is used periodically when the maintenance plan calls for deeper cleaning of soil that is not removed by dry vacuuming alone.</p>\n<h2 id=\"process\">A typical process has several stages</h2><p>Work normally starts with inspection and thorough dry vacuuming. Depending on the carpet, soil and approved procedure, a pretreatment may then be applied and given time to work. The extractor applies or rinses with liquid and recovers the used solution. Additional recovery-only passes may be used to remove more moisture.</p>\n<h2 id=\"recovery\">Recovery is as important as application</h2><p>Adding more water does not automatically improve cleaning. The system must recover the liquid effectively so soil and detergent are removed rather than redistributed. Poor recovery can lengthen drying time and leave the carpet excessively wet.</p>\n<h2 id=\"drying\">Plan for drying</h2><p>After extraction, protect the area from normal traffic until the carpet is adequately dry. Ventilation, air movement, humidity and the amount of liquid left in the carpet all affect drying. Follow the carpet and equipment manufacturers' instructions for the specific installation.</p>\n<h2 id=\"compatibility\">Check compatibility before cleaning</h2><p>Not every carpet, adhesive, backing or stain treatment should be cleaned in the same way. Test or verify the approved method before large-scale work, use correctly diluted products and avoid unnecessary overwetting.</p>\n<h2 id=\"not-disinfection\">Cleaning is not automatically disinfection</h2><p>Extraction is primarily a soil-removal process. Do not describe a carpet as disinfected simply because it was extracted; any antimicrobial claim depends on an approved product, compatible surface, validated procedure and applicable label directions.</p>\n<h2 id=\"equipment-care\">Maintain the equipment</h2><p>Clean and maintain tanks, hoses, filters and recovery components as directed, and allow equipment to dry between uses. CDC guidance notes that poorly maintained wet-cleaning equipment can itself become contaminated.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Effective extraction combines preparation, controlled liquid application, soil release, strong recovery and complete drying. The objective is not to soak the carpet, but to remove soil and cleaning residues with as little retained moisture as practical.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://carpet-rug.org/soa-systems/70-millicare-hot-water-extraction-cleaning-system/\">Carpet and Rug Institute — Hot Water Extraction Cleaning System example</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/environmental-services.html\">CDC — Environmental Services: Carpeting</a>.</li></ol>",
+  "seo_title": "What Is Carpet Extraction Cleaning? | Alle's ClinX",
+  "meta_description": "Learn the steps in carpet extraction cleaning: pre-vacuuming, solution application, soil recovery, moisture control and drying.",
+  "related_article_ids": [
+    "ACX-KB-0174",
+    "ACX-KB-0171",
+    "ACX-KB-0173"
+  ]
+}
