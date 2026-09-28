@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 416,
+  "record_count": 426,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4578,6 +4578,116 @@
       "subcategory_slug": "water-hardness",
       "excerpt": "Water hardness मुख्य रूप से dissolved calcium और magnesium का measure है, और यह soap behaviour, scale formation तथा cleaning formulations के performance को प्रभावित कर सकता है.",
       "url": "library/cleaning-chemistry/water-hardness/what-is-water-hardness/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0209",
+      "locale": "en",
+      "title": "How Hard Water Affects Cleaning",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "Hard water contains higher levels of dissolved calcium and magnesium, which can interfere with some cleaning processes, contribute to residues and increase mineral deposition.",
+      "url": "library/cleaning-chemistry/water-hardness/how-hard-water-affects-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0209",
+      "locale": "hi-IN",
+      "title": "Hard Water Cleaning को कैसे प्रभावित करता है",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "Hard water में dissolved calcium और magnesium अधिक होते हैं, जो कुछ cleaning processes में बाधा डाल सकते हैं, residue बढ़ा सकते हैं और mineral deposits बना सकते हैं.",
+      "url": "library/cleaning-chemistry/water-hardness/how-hard-water-affects-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0210",
+      "locale": "en",
+      "title": "Why Scale Forms on Surfaces",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "Scale forms when dissolved minerals become less soluble or are left behind as water heats or evaporates, creating deposits on surfaces and equipment.",
+      "url": "library/cleaning-chemistry/water-hardness/why-scale-forms-on-surfaces/"
+    },
+    {
+      "article_id": "ACX-KB-0210",
+      "locale": "hi-IN",
+      "title": "Surfaces पर Scale क्यों बनती है",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Water Hardness",
+      "subcategory_slug": "water-hardness",
+      "excerpt": "Scale तब बनती है जब dissolved minerals कम soluble हो जाते हैं या water heat/evaporation के बाद surface पर रह जाते हैं, जिससे deposits बनते हैं.",
+      "url": "library/cleaning-chemistry/water-hardness/why-scale-forms-on-surfaces/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0211",
+      "locale": "en",
+      "title": "Cleaning Products, Soil, and Surface Compatibility",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "Cleaning chemistry has to be compatible with both the soil being removed and the surface being protected; this overview explains those factors without recommending products.",
+      "url": "library/cleaning-chemistry/product-selection/how-to-choose-a-cleaning-product-by-soil-and-surface/"
+    },
+    {
+      "article_id": "ACX-KB-0211",
+      "locale": "hi-IN",
+      "title": "Cleaning Products, Soil और Surface Compatibility",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "Cleaning chemistry को soil और protected surface दोनों के साथ compatible होना चाहिए; यह overview बिना product recommendation के उन factors को समझाता है.",
+      "url": "library/cleaning-chemistry/product-selection/how-to-choose-a-cleaning-product-by-soil-and-surface/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0212",
+      "locale": "en",
+      "title": "Cleaning Tasks and Product Labels: Why Context Matters",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "Cleaning tasks create different surface, claim, compatibility and safety requirements; this overview explains why labels must be read in context.",
+      "url": "library/cleaning-chemistry/product-selection/why-product-selection-should-start-with-the-task/"
+    },
+    {
+      "article_id": "ACX-KB-0212",
+      "locale": "hi-IN",
+      "title": "Cleaning Tasks और Product Labels: Context क्यों महत्वपूर्ण है",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "अलग cleaning tasks में surface, claim, compatibility और safety requirements अलग हो सकती हैं; यह overview बताता है कि labels को context में क्यों पढ़ना चाहिए.",
+      "url": "library/cleaning-chemistry/product-selection/why-product-selection-should-start-with-the-task/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0213",
+      "locale": "en",
+      "title": "General-Purpose and Task-Specific Cleaners: Label Context",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "General-purpose and task-specific are product-role labels; this overview explains the distinction without ranking products or advising which chemistry to use.",
+      "url": "library/cleaning-chemistry/product-selection/general-purpose-cleaner-vs-task-specific-cleaner/"
+    },
+    {
+      "article_id": "ACX-KB-0213",
+      "locale": "hi-IN",
+      "title": "General-Purpose और Task-Specific Cleaners: Label Context",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "General-purpose और task-specific product-role labels हैं; यह overview बिना ranking या chemistry-use advice के उनका distinction समझाता है.",
+      "url": "library/cleaning-chemistry/product-selection/general-purpose-cleaner-vs-task-specific-cleaner/hi.html"
     }
   ]
 }
