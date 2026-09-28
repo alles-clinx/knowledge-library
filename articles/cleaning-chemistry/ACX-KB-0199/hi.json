@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0199",
+  "slug": "what-are-enzymes-in-cleaning-products",
+  "subcategory": "Enzymes",
+  "subcategory_slug": "enzymes",
+  "related_article_ids": [
+    "ACX-KB-0200",
+    "ACX-KB-0201",
+    "ACX-KB-0187"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0199",
+  "title": "Cleaning Products में Enzymes क्या होते हैं?",
+  "excerpt": "Enzymes विशेष proteins हैं जो कुछ cleaning formulations में खास प्रकार की organic soil को छोटे और अधिक आसानी से हटने वाले पदार्थों में तोड़ने में मदद करते हैं.",
+  "content_html": "<p>Enzymes विशेष proteins हैं जो कुछ chemical reactions को तेज करते हैं। कुछ cleaning products में इन्हें specific organic soil को छोटे पदार्थों में तोड़ने के लिए शामिल किया जाता है, ताकि बाकी cleaning process उन्हें अधिक आसानी से हटा सके।</p>\n<h2 id=\"hi199-selective\">Enzymes selective होते हैं</h2><p>किसी enzyme का असर आम तौर पर खास chemical structure पर होता है, हर प्रकार की soil पर नहीं। इसी selectivity के कारण formulators अलग cleaning tasks के लिए अलग enzyme families चुन सकते हैं।</p>\n<h2 id=\"hi199-formulation\">वे पूरे formulation का एक हिस्सा होते हैं</h2><p>Enzyme अकेला पूरा cleaner नहीं होता। Surfactants, builders, solvents, stabilisers और अन्य ingredients wetting, suspension, water control और product stability में योगदान दे सकते हैं।</p>\n<h2 id=\"hi199-conditions\">उनकी activity conditions पर निर्भर करती है</h2><p>Enzyme performance pH, temperature, water conditions, contact conditions और दूसरे ingredients से प्रभावित हो सकता है। Formulation को intended use में enzyme की stability और activity बनाए रखने के लिए design किया जाता है।</p>\n<h2 id=\"hi199-safety\">Enzymes के लिए safety controls भी जरूरी हैं</h2><p>EPA Safer Choice enzymes को अलग functional class मानता है और qualifying products में inhalation तथा sensitisation concerns कम करने के लिए criteria रखता है। Finished products को label और workplace procedures के अनुसार handle करना चाहिए।</p>\n<h2 id=\"hi199-takeaway\">मुख्य बात</h2><p>Enzymes targeted formulation tools हैं। वे कुछ organic soils पर मदद करते हैं, लेकिन उनकी usefulness enzyme type, formulation और conditions पर निर्भर करती है।</p>\n<h2 id=\"hi199-references\">संदर्भ</h2><ol><li id=\"hi199-ref-1\"><a href=\"https://www.epa.gov/saferchoice/safer-choice-criteria-enzymes-and-enzyme-stabilizers\">US EPA — Safer Choice Criteria for Enzymes and Enzyme Stabilizers</a>.</li><li id=\"hi199-ref-2\"><a href=\"https://www.epa.gov/saferchoice/standard\">US EPA — Safer Choice Standard and Criteria</a>.</li></ol>",
+  "seo_title": "Cleaning Products में Enzymes क्या होते हैं? | Alle's ClinX",
+  "meta_description": "Enzymes विशेष proteins हैं जो कुछ cleaning formulations में खास प्रकार की organic soil को छोटे और अधिक आसानी से हटने वाले पदार्थों में तोड़ने में मदद करते हैं."
+}
