@@ -1,0 +1,39 @@
+{
+  "batch_id": "batch-040",
+  "category": "Cleaning Chemistry",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0184",
+    "ACX-KB-0185",
+    "ACX-KB-0186",
+    "ACX-KB-0187",
+    "ACX-KB-0188"
+  ],
+  "stage": "source-ready",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "reviewed"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "reviewed",
+    "article_count": 5
+  },
+  "preview": {
+    "status": "pending",
+    "pages": 0,
+    "design": "locked Gold Standard article shell",
+    "qa": {
+      "one_h1": null,
+      "language_tabs": null,
+      "hook_targets_resolve": null,
+      "floating_progress_targets_resolve": null,
+      "duplicate_dom_ids": null,
+      "hook_runtime": null,
+      "compact_hero_scale": null,
+      "site_shell": null
+    }
+  },
+  "gate": "Render locked Gold Standard pages, validate, then add IDs to live manifest.",
+  "completed_after_validation": false
+}
