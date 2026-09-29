@@ -222,3 +222,34 @@ body.legal-page{
 @media(prefers-reduced-motion:reduce){
   *{scroll-behavior:auto!important;transition:none!important}
 }
+
+
+/* ---------- mobile viewport hardening v18 ---------- */
+.legal-shell,.legal-intro,.legal-accordion,.legal-detail,.legal-meta-grid,.legal-meta-block{min-width:0}
+.legal-intro h1,.legal-intro>p,.legal-scope-note,.legal-title,.legal-detail,
+.legal-meta-block p,.legal-meta-block nav,.legal-date{overflow-wrap:anywhere}
+.legal-intro h1{text-wrap:balance}
+.legal-detail a,.legal-meta-block a,.legal-scope-note a{overflow-wrap:anywhere;word-break:break-word}
+@media(max-width:760px){
+  .legal-shell{padding-bottom:max(80px,env(safe-area-inset-bottom))}
+  .legal-accordion summary{min-height:58px}
+}
+@media(max-width:480px){
+  .legal-shell{width:calc(100% - 32px);padding-top:28px}
+  .legal-intro{padding-bottom:26px}
+  .legal-intro h1{font-size:clamp(34px,10vw,40px);line-height:1.04}
+  .legal-intro>p{font-size:15.5px;line-height:1.58}
+  .legal-accordion summary{
+    grid-template-columns:30px minmax(0,1fr) 20px;
+    gap:8px;
+    padding:14px 12px;
+  }
+  .legal-detail{padding:17px 12px 24px;font-size:14px}
+  .legal-meta-grid{gap:24px}
+}
+@media(max-width:340px){
+  .legal-shell{width:calc(100% - 24px)}
+  .legal-intro h1{font-size:34px}
+  .legal-accordion summary{grid-template-columns:26px minmax(0,1fr) 18px;padding-inline:10px}
+  .legal-number{font-size:10px}
+}

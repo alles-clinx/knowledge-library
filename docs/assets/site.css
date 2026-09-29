@@ -820,3 +820,72 @@ body.acx-menu-open::before{
   .acx-install-app{padding:0 9px!important;font-size:12px!important}
   .acx-install-note{top:76px;right:12px}
 }
+
+
+/* ---------- mobile viewport hardening v18 ---------- */
+.acx-site-header,
+.acx-mobile-drawer,
+.acx-search-dialog,
+.acx-search-panel,
+.acx-site-bar,
+.acx-brand-cluster,
+.acx-site-actions{min-width:0}
+.acx-wordmark{max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.acx-search-result strong,
+.acx-search-result-meta,
+.acx-search-result-excerpt,
+.acx-mobile-knowledge-nav a span,
+.acx-mobile-nav a span{overflow-wrap:anywhere}
+@media(max-width:960px){
+  .acx-site-header{
+    left:max(12px,env(safe-area-inset-left));
+    right:max(12px,env(safe-area-inset-right));
+    width:auto;
+  }
+  .acx-mobile-drawer{
+    left:max(12px,env(safe-area-inset-left));
+    right:max(12px,env(safe-area-inset-right));
+  }
+  .acx-search-button{
+    width:44px;
+    height:44px;
+    min-height:44px;
+  }
+  .acx-menu-button{
+    min-width:56px;
+    height:44px;
+    min-height:44px;
+  }
+  .acx-install-app{
+    height:44px!important;
+    min-height:44px!important;
+  }
+  .acx-search-close{
+    width:44px;
+    height:44px;
+  }
+  .acx-search-result{
+    min-height:52px;
+  }
+}
+@media(max-width:560px){
+  .acx-search-top{
+    padding-left:max(14px,env(safe-area-inset-left));
+    padding-right:max(14px,env(safe-area-inset-right));
+  }
+  .acx-search-status,
+  .acx-search-hint{
+    padding-left:max(14px,env(safe-area-inset-left));
+    padding-right:max(14px,env(safe-area-inset-right));
+  }
+  .acx-search-results{
+    padding-left:max(8px,env(safe-area-inset-left));
+    padding-right:max(8px,env(safe-area-inset-right));
+  }
+}
+@media(max-width:340px){
+  .acx-install-app{display:none!important}
+  .acx-site-bar{width:calc(100% - 20px)}
+  .acx-menu-button{min-width:50px;padding-inline:9px}
+  .acx-wordmark{font-size:15px}
+}
