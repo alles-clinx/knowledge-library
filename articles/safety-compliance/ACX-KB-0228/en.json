@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0228",
+  "slug": "usage-guide-vs-sop",
+  "subcategory": "Usage Guides",
+  "subcategory_slug": "usage-guides",
+  "related_article_ids": [
+    "ACX-KB-0224",
+    "ACX-KB-0226",
+    "ACX-KB-0227"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Usage Guide vs SOP: Key Differences",
+  "excerpt": "A usage guide explains product context and points users to controlling documents; an SOP defines the approved, repeatable steps an organization expects for a specific task.",
+  "content_html": "<p>A product usage guide and a Standard Operating Procedure (SOP) can both support consistent work, but they serve different purposes. A usage guide is mainly explanatory, while an SOP is an organization's controlled instruction for carrying out a routine or repeatable activity.</p>\n<h2 id=\"purpose\">The main difference is purpose</h2><p>A usage guide helps readers understand where a product fits, what documents apply and which limits or references should be checked. An SOP documents how an organization expects a specific activity to be performed consistently.</p>\n<h2 id=\"authority\">They do not carry the same authority</h2><p>A usage guide should not override a regulated product label, Safety Data Sheet (SDS), Technical Data Sheet (TDS) or approved site procedure. An SOP may be the facility's controlling internal procedure, but it still has to remain consistent with applicable labels, safety information and legal requirements.</p>\n<h2 id=\"scope\">Usage guides are broader; SOPs are task-specific</h2><p>A usage guide may cover product purpose, application context, document links and general boundaries. An SOP normally focuses on one defined process, with scope, responsibilities, required controls, sequence, records and revision information appropriate to that process.</p>\n<h2 id=\"ownership\">Ownership is usually different</h2><p>Manufacturers, suppliers or facility teams may issue usage guides. SOPs are normally owned and approved by the organization responsible for the work, because they describe that organization's controlled process.</p>\n<h2 id=\"revision\">Both need document control</h2><p>Version numbers, revision dates and clear ownership help users identify the current document. When a label, SDS, product specification or facility process changes, connected guides and SOPs should be reviewed for consistency.</p>\n<h2 id=\"together\">They work best together</h2><p>A usage guide can help someone find the right product information, while an SOP can define the approved workflow for the task. Linking the two reduces ambiguity and helps users distinguish explanation from procedure.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use a usage guide to explain context and connect documents. Use an SOP to control a repeatable organizational process. Neither should contradict the exact product label, SDS or other applicable requirements.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1008GTX.txt\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "Usage Guide vs SOP: Key Differences | Alle's ClinX",
+  "meta_description": "A usage guide explains product context and references; an SOP defines the approved, repeatable process an organization expects for a specific task."
+}
