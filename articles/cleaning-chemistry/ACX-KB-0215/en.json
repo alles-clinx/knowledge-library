@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0215",
+  "slug": "what-is-cleaning-chemical-compatibility",
+  "subcategory": "Product Compatibility",
+  "subcategory_slug": "product-compatibility",
+  "related_article_ids": [
+    "ACX-KB-0214",
+    "ACX-KB-0216",
+    "ACX-KB-0217"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Cleaning-Chemical Compatibility?",
+  "excerpt": "Cleaning-chemical compatibility describes whether a finished product can be used within its labeled conditions without unacceptable effects on the surface, equipment or approved process.",
+  "content_html": "<p>Cleaning-chemical compatibility describes how a finished cleaning product behaves with the surface, equipment, supplies and approved process in which it is used. Compatibility is product-specific and should not be assumed from a chemical family name alone.</p>\n<h2 id=\"surface\">Surface compatibility</h2><p>A compatible product should not cause unacceptable corrosion, discoloration, softening, swelling, cracking or other material damage under its intended conditions of use.</p>\n<h2 id=\"equipment\">Equipment compatibility</h2><p>Cleaning equipment can contain metals, seals, plastics, hoses, pumps and coatings with different chemical tolerances. Equipment-maker guidance is therefore part of compatibility assessment.</p>\n<h2 id=\"supplies\">Supplies can affect the system</h2><p>CDC notes that disinfectants should be compatible with cleaning supplies such as cloths as well as with other materials encountered in use. The full cleaning system matters, not only the liquid product.</p>\n<h2 id=\"process\">Process compatibility matters too</h2><p>A product may have requirements for storage, use conditions or removal of residue that need to fit the facility's approved workflow.</p>\n<h2 id=\"label\">Compatibility information comes from authoritative sources</h2><p>Manufacturer labels, technical information, safety data and surface/equipment instructions are the appropriate references. Workplace users should not test compatibility by mixing products or improvising chemical combinations.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Compatibility means the product, material and process can work together within approved conditions without unacceptable damage or safety problems.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/ideal-disinfectant.html\">CDC — Properties of an Ideal Disinfectant</a>.</li></ol>",
+  "seo_title": "What Is Cleaning-Chemical Compatibility? | Alle's ClinX",
+  "meta_description": "Cleaning-chemical compatibility describes whether a finished product can be used within its labeled conditions without unacceptable effects on the surface, equipment or approved process."
+}
