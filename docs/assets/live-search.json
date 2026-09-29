@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 454,
+  "record_count": 464,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4996,6 +4996,116 @@
       "subcategory_slug": "usage-guides",
       "excerpt": "Product usage guide supporting manufacturer या facility document है जो intended application context explain करता है और applicable label, SDS, TDS या SOP की ओर users को point करता है.",
       "url": "library/safety-compliance/usage-guides/what-is-a-product-usage-guide/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0228",
+      "locale": "en",
+      "title": "Usage Guide vs SOP: Key Differences",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Usage Guides",
+      "subcategory_slug": "usage-guides",
+      "excerpt": "A usage guide explains product context and points users to controlling documents; an SOP defines the approved, repeatable steps an organization expects for a specific task.",
+      "url": "library/safety-compliance/usage-guides/usage-guide-vs-sop/"
+    },
+    {
+      "article_id": "ACX-KB-0228",
+      "locale": "hi-IN",
+      "title": "Usage Guide और SOP में मुख्य अंतर",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Usage Guides",
+      "subcategory_slug": "usage-guides",
+      "excerpt": "Usage guide product context समझाता है और controlling documents की ओर point करता है; SOP किसी specific task के लिए organization की approved, repeatable process को define करता है।",
+      "url": "library/safety-compliance/usage-guides/usage-guide-vs-sop/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0229",
+      "locale": "en",
+      "title": "How to Read a Professional Cleaning-Chemical Label",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Product Labels",
+      "subcategory_slug": "product-labels",
+      "excerpt": "Read a professional cleaning-chemical label by confirming the product identifier, then reviewing the signal word, hazard statements, pictograms, precautionary statements and supplier information as one connected message.",
+      "url": "library/safety-compliance/product-labels/how-to-read-a-professional-cleaning-chemical-label/"
+    },
+    {
+      "article_id": "ACX-KB-0229",
+      "locale": "hi-IN",
+      "title": "Professional Cleaning-Chemical Label कैसे पढ़ें",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Product Labels",
+      "subcategory_slug": "product-labels",
+      "excerpt": "Professional cleaning-chemical label पढ़ते समय पहले product identifier confirm करें, फिर signal word, hazard statements, pictograms, precautionary statements और supplier information को एक connected message की तरह पढ़ें।",
+      "url": "library/safety-compliance/product-labels/how-to-read-a-professional-cleaning-chemical-label/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0230",
+      "locale": "en",
+      "title": "Why Product Labels Matter at the Point of Use",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Product Labels",
+      "subcategory_slug": "product-labels",
+      "excerpt": "Product labels matter at the point of use because they keep product identity and essential hazard information physically connected to the container where work decisions are made.",
+      "url": "library/safety-compliance/product-labels/why-product-labels-matter-at-the-point-of-use/"
+    },
+    {
+      "article_id": "ACX-KB-0230",
+      "locale": "hi-IN",
+      "title": "Point of Use पर Product Labels क्यों महत्वपूर्ण हैं",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Product Labels",
+      "subcategory_slug": "product-labels",
+      "excerpt": "Point of use पर product labels इसलिए महत्वपूर्ण हैं क्योंकि वे product identity और essential hazard information को उसी container से physically connected रखते हैं जहाँ work decisions लिए जाते हैं।",
+      "url": "library/safety-compliance/product-labels/why-product-labels-matter-at-the-point-of-use/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0231",
+      "locale": "en",
+      "title": "Damaged or Missing Product Labels: What to Check",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Product Labels",
+      "subcategory_slug": "product-labels",
+      "excerpt": "If a professional cleaning-chemical label is damaged or missing, verify product identity, label legibility, matching SDS information and the facility's approved relabeling process before routine use continues.",
+      "url": "library/safety-compliance/product-labels/damaged-missing-product-labels/"
+    },
+    {
+      "article_id": "ACX-KB-0231",
+      "locale": "hi-IN",
+      "title": "Damaged या Missing Product Label: क्या Check करें",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Product Labels",
+      "subcategory_slug": "product-labels",
+      "excerpt": "यदि professional cleaning-chemical label damaged या missing है, तो routine use जारी होने से पहले product identity, legibility, matching SDS और facility की approved relabeling process verify करें।",
+      "url": "library/safety-compliance/product-labels/damaged-missing-product-labels/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0232",
+      "locale": "en",
+      "title": "What Is GHS Hazard Communication?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "GHS & Hazard Communication",
+      "subcategory_slug": "ghs-hazard-communication",
+      "excerpt": "GHS is a United Nations framework for classifying chemical hazards and communicating them through harmonized label elements and safety data sheets; jurisdictions adopt it through their own rules.",
+      "url": "library/safety-compliance/ghs-hazard-communication/what-is-ghs-hazard-communication/"
+    },
+    {
+      "article_id": "ACX-KB-0232",
+      "locale": "hi-IN",
+      "title": "GHS Hazard Communication क्या है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "GHS & Hazard Communication",
+      "subcategory_slug": "ghs-hazard-communication",
+      "excerpt": "GHS United Nations का framework है जो chemical hazards classify करने और harmonized label elements तथा safety data sheets के through communicate करने के लिए बनाया गया है; jurisdictions इसे अपने rules के through adopt करते हैं।",
+      "url": "library/safety-compliance/ghs-hazard-communication/what-is-ghs-hazard-communication/hi.html"
     }
   ]
 }
