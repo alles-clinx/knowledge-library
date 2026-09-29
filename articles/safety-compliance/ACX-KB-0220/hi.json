@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0220",
+  "slug": "sds-vs-product-label",
+  "subcategory": "Safety Data Sheets — SDS",
+  "subcategory_slug": "sds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0219",
+    "ACX-KB-0222"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0220",
+  "title": "SDS और Product Label में मुख्य अंतर",
+  "excerpt": "SDS detailed workplace hazard-information document है, जबकि product label product के साथ information communicate करता है और regulated products में legally enforceable directions रख सकता है.",
+  "content_html": "<p>SDS और product label दोनों important information communicate करते हैं, लेकिन उनकी roles अलग हैं। SDS structured workplace hazard-information document है; label actual product पर या उसके साथ दी गई information है।</p>\n<h2 id=\"hi220-sds-role\">SDS: detailed hazard reference</h2><p>SDS standardized 16-section format में product identity, hazards, composition, controls, physical properties और अन्य safety information organize करता है।</p>\n<h2 id=\"hi220-label-role\">Label: product के साथ attached information</h2><p>Label product identify करता है और key hazard, precautionary तथा use information उस जगह communicate करता है जहाँ product handle होता है।</p>\n<h2 id=\"hi220-regulated\">कुछ labels legal use requirements रखते हैं</h2><p>EPA-registered pesticide products में label legally enforceable होता है और approved directions, precautions तथा conditions of use define करता है। SDS इन label requirements को replace नहीं करता।</p>\n<h2 id=\"hi220-together\">दोनों documents साथ काम करते हैं</h2><p>Workplace में label container पर immediate identification और communication support करता है, जबकि SDS exact product के लिए fuller hazard-information reference देता है।</p>\n<h2 id=\"hi220-current\">Matching, current documents use करें</h2><p>SDS और label actual product in use से correspond करने चाहिए। Similar chemical या दूसरी formulation का document interchangeable नहीं मानना चाहिए।</p>\n<h2 id=\"hi220-takeaway\">मुख्य बात</h2><p>Label point of use पर product information देता है; SDS structured workplace hazard reference देता है। दोनों को casually substitute नहीं करना चाहिए।</p>\n<h2 id=\"hi220-references\">संदर्भ</h2><ol><li id=\"hi220-ref-1\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li><li id=\"hi220-ref-2\"><a href=\"https://www.epa.gov/pesticide-labels/introduction-pesticide-labels\">US EPA — Introduction to Pesticide Labels</a>.</li></ol>",
+  "seo_title": "SDS और Product Label में मुख्य अंतर | Alle's ClinX",
+  "meta_description": "SDS detailed workplace hazard-information document है, जबकि product label product के साथ information communicate करता है और regulated products में legally enforceable directions रख सकता है."
+}

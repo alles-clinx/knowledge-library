@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0219",
+  "slug": "how-to-read-the-main-sections-of-an-sds",
+  "subcategory": "Safety Data Sheets — SDS",
+  "subcategory_slug": "sds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0222"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Read the Main Sections of an SDS",
+  "excerpt": "The 16-section SDS format groups chemical identity, hazards, controls, physical properties and other information into a consistent sequence for workplace reference.",
+  "content_html": "<p>OSHA's standardized SDS format uses 16 numbered sections. The sequence helps workplace users locate information consistently, but the SDS should still be treated as a complete product-specific document rather than as isolated sections.</p>\n<h2 id=\"s1\">Sections 1–4: identity and immediate hazards</h2><p>Section 1 identifies the product and supplier. Section 2 summarizes hazard identification. Section 3 covers composition or ingredient information. Section 4 contains first-aid information.</p>\n<h2 id=\"s5\">Sections 5–8: incident response and exposure control</h2><p>Section 5 addresses firefighting information, Section 6 accidental-release information, Section 7 handling and storage, and Section 8 exposure controls and personal protection.</p>\n<h2 id=\"s9\">Sections 9–11: technical hazard information</h2><p>Section 9 covers physical and chemical properties, Section 10 stability and reactivity, and Section 11 toxicological information.</p>\n<h2 id=\"s12\">Sections 12–15: environmental and regulatory topics</h2><p>These sections cover ecological information, disposal considerations, transport information and regulatory information. They appear in the standardized format, although OSHA does not enforce their content.</p>\n<h2 id=\"s16\">Section 16: other information</h2><p>Section 16 includes other information such as the date of preparation or last revision. This can help users confirm whether they are looking at the current document supplied for the product.</p>\n<h2 id=\"use\">Use the SDS as a reference, not a substitute for training</h2><p>Workers should follow their employer's hazard-communication program, training and approved procedures. Reading section headings alone does not replace product-specific instruction.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "How to Read the Main Sections of an SDS | Alle's ClinX",
+  "meta_description": "The 16-section SDS format groups chemical identity, hazards, controls, physical properties and other information into a consistent sequence for workplace reference."
+}

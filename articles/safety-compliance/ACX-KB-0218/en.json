@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0218",
+  "slug": "what-is-a-safety-data-sheet",
+  "subcategory": "Safety Data Sheets — SDS",
+  "subcategory_slug": "sds",
+  "related_article_ids": [
+    "ACX-KB-0219",
+    "ACX-KB-0220",
+    "ACX-KB-0222"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Safety Data Sheet?",
+  "excerpt": "A Safety Data Sheet (SDS) is a standardized workplace hazard-information document that summarizes a chemical product's identity, hazards, handling controls and other safety information.",
+  "content_html": "<p>A Safety Data Sheet, or SDS, is a standardized document used to communicate workplace hazard information about a chemical product. Under OSHA's Hazard Communication Standard, SDS information is organized into a 16-section format so workers and employers can find key information consistently.</p>\n<h2 id=\"purpose\">What an SDS is for</h2><p>An SDS summarizes the product identifier, hazard classification, composition information, exposure controls, physical properties, stability, toxicological information and other safety-related data.</p>\n<h2 id=\"standard\">The format is standardized</h2><p>OSHA's Appendix D specifies the section headings and minimum information for SDSs. Sections 1–11 and 16 contain OSHA-required information; Sections 12–15 are part of the standardized format but are not enforced by OSHA because they address matters handled by other agencies.</p>\n<h2 id=\"workplace\">Why SDSs matter in workplaces</h2><p>SDSs support hazard communication, worker training, emergency planning and decisions about appropriate controls. They are meant to be accessible to workers who need the information.</p>\n<h2 id=\"not-label\">An SDS is not the same as a product label</h2><p>The SDS provides detailed hazard information, while the product label communicates information directly on or with the product. For regulated products, label directions can carry legal requirements that the SDS does not replace.</p>\n<h2 id=\"current\">Use the current SDS for the exact product</h2><p>SDS information is product-specific. Workplaces should maintain the current SDS supplied for the exact chemical product in use rather than relying on a sheet for a similar product or ingredient family.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>An SDS is the structured workplace reference for chemical hazard information. It should be read together with the exact product label and the facility's approved safety procedures.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "What Is a Safety Data Sheet? | Alle's ClinX",
+  "meta_description": "A Safety Data Sheet (SDS) is a standardized workplace hazard-information document that summarizes a chemical product's identity, hazards, handling controls and other safety information."
+}

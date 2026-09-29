@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0222",
+  "slug": "tds-vs-sds",
+  "subcategory": "Technical Data Sheets — TDS",
+  "subcategory_slug": "tds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0221"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "TDS vs SDS: Key Differences",
+  "excerpt": "A TDS is manufacturer technical documentation, while an SDS is the standardized workplace hazard-information document required under OSHA's Hazard Communication framework for covered hazardous chemicals.",
+  "content_html": "<p>A Technical Data Sheet (TDS) and a Safety Data Sheet (SDS) can both describe the same product, but they serve different documentation roles.</p>\n<h2 id=\"tds\">TDS: technical product information</h2><p>A TDS commonly summarizes product properties, intended applications, performance characteristics or other manufacturer technical information. Its format can vary.</p>\n<h2 id=\"sds\">SDS: standardized hazard information</h2><p>An SDS follows OSHA's standardized 16-section structure for workplace hazard communication. It contains defined categories of hazard, control and technical information for covered hazardous chemicals.</p>\n<h2 id=\"format\">The level of standardization is different</h2><p>OSHA specifies SDS section headings and required information. A TDS does not use that OSHA-mandated 16-section structure.</p>\n<h2 id=\"purpose\">The purpose is different</h2><p>The TDS is primarily a technical-reference document. The SDS supports hazard communication, worker access to safety information and workplace chemical-safety programs.</p>\n<h2 id=\"label\">Neither automatically replaces the product label</h2><p>The product label remains the direct source of container-level information, and regulated labels can carry legally enforceable use conditions.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use the TDS for technical product context and the SDS for standardized workplace hazard information. Where both exist, they should refer to the same exact product and current documentation set.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "TDS vs SDS: Key Differences | Alle's ClinX",
+  "meta_description": "A TDS is manufacturer technical documentation, while an SDS is the standardized workplace hazard-information document required under OSHA's Hazard Communication framework for covered hazardous chemicals."
+}

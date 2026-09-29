@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0218",
+  "slug": "what-is-a-safety-data-sheet",
+  "subcategory": "Safety Data Sheets — SDS",
+  "subcategory_slug": "sds",
+  "related_article_ids": [
+    "ACX-KB-0219",
+    "ACX-KB-0220",
+    "ACX-KB-0222"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0218",
+  "title": "Safety Data Sheet क्या होता है?",
+  "excerpt": "Safety Data Sheet (SDS) एक standardized workplace hazard-information document है जो chemical product की identity, hazards, controls और अन्य safety information summarize करता है.",
+  "content_html": "<p>Safety Data Sheet, यानी SDS, workplace में chemical product की hazard information communicate करने वाला standardized document है। OSHA Hazard Communication Standard के तहत SDS information 16-section format में organized होती है ताकि workers और employers key information consistently ढूँढ सकें।</p>\n<h2 id=\"hi218-purpose\">SDS का purpose</h2><p>SDS product identifier, hazard classification, composition information, exposure controls, physical properties, stability, toxicological information और अन्य safety-related data summarize करता है।</p>\n<h2 id=\"hi218-standard\">Format standardized होता है</h2><p>OSHA Appendix D SDS section headings और minimum information specify करता है। Sections 1–11 और 16 OSHA-required information रखते हैं; Sections 12–15 standardized format का हिस्सा हैं लेकिन OSHA उनके content को enforce नहीं करता।</p>\n<h2 id=\"hi218-workplace\">Workplace में SDS क्यों महत्वपूर्ण है</h2><p>SDS hazard communication, worker training, emergency planning और appropriate controls समझने में support करता है। इसे workers के लिए accessible होना चाहिए जब उन्हें information चाहिए।</p>\n<h2 id=\"hi218-not-label\">SDS product label जैसा नहीं है</h2><p>SDS detailed hazard information देता है, जबकि product label सीधे product/container के साथ information communicate करता है। Regulated products में label directions legal requirements रख सकते हैं जिन्हें SDS replace नहीं करता।</p>\n<h2 id=\"hi218-current\">Exact product का current SDS use करें</h2><p>SDS product-specific होता है। Workplace को actual chemical product के लिए current SDS maintain करना चाहिए, किसी similar product या ingredient family के SDS पर depend नहीं करना चाहिए।</p>\n<h2 id=\"hi218-takeaway\">मुख्य बात</h2><p>SDS workplace chemical hazard information का structured reference है। इसे exact product label और facility के approved safety procedures के साथ पढ़ना चाहिए।</p>\n<h2 id=\"hi218-references\">संदर्भ</h2><ol><li id=\"hi218-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"hi218-ref-2\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "Safety Data Sheet क्या होता है? | Alle's ClinX",
+  "meta_description": "Safety Data Sheet (SDS) एक standardized workplace hazard-information document है जो chemical product की identity, hazards, controls और अन्य safety information summarize करता है."
+}
