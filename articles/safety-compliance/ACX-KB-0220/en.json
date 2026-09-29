@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0220",
+  "slug": "sds-vs-product-label",
+  "subcategory": "Safety Data Sheets — SDS",
+  "subcategory_slug": "sds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0219",
+    "ACX-KB-0222"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "SDS vs Product Label: Key Differences",
+  "excerpt": "An SDS is a detailed workplace hazard-information document, while a product label communicates information on or with the product and may carry legally enforceable directions for regulated products.",
+  "content_html": "<p>An SDS and a product label both communicate important information, but they serve different roles. The SDS is a structured workplace hazard-information document; the label is the information presented on or with the actual product.</p>\n<h2 id=\"sds-role\">SDS: detailed hazard reference</h2><p>The SDS uses a standardized 16-section format to organize product identity, hazards, composition, controls, physical properties and other safety information.</p>\n<h2 id=\"label-role\">Label: information attached to the product</h2><p>The label identifies the product and communicates key hazard, precautionary and use information directly where the product is handled.</p>\n<h2 id=\"regulated\">Some labels carry legal use requirements</h2><p>For EPA-registered pesticide products, the label is legally enforceable and defines approved directions, precautions and conditions of use. An SDS does not replace those label requirements.</p>\n<h2 id=\"together\">The documents work together</h2><p>In a workplace, the label supports immediate identification and communication at the container, while the SDS provides a fuller hazard-information reference for the exact product.</p>\n<h2 id=\"current\">Use matching, current documents</h2><p>The SDS and label should correspond to the actual product in use. A document for a similar chemical or another formulation should not be treated as interchangeable.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>The label tells you about the product at the point of use; the SDS provides the structured workplace hazard reference. Neither should be casually substituted for the other.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/pesticide-labels/introduction-pesticide-labels\">US EPA — Introduction to Pesticide Labels</a>.</li></ol>",
+  "seo_title": "SDS vs Product Label: Key Differences | Alle's ClinX",
+  "meta_description": "An SDS is a detailed workplace hazard-information document, while a product label communicates information on or with the product and may carry legally enforceable directions for regulated products."
+}
