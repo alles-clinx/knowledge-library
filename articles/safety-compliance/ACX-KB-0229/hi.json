@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0229",
+  "slug": "how-to-read-a-professional-cleaning-chemical-label",
+  "subcategory": "Product Labels",
+  "subcategory_slug": "product-labels",
+  "related_article_ids": [
+    "ACX-KB-0220",
+    "ACX-KB-0230",
+    "ACX-KB-0231",
+    "ACX-KB-0232"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0229",
+  "title": "Professional Cleaning-Chemical Label कैसे पढ़ें",
+  "excerpt": "Professional cleaning-chemical label पढ़ते समय पहले product identifier confirm करें, फिर signal word, hazard statements, pictograms, precautionary statements और supplier information को एक connected message की तरह पढ़ें।",
+  "content_html": "<p>Professional cleaning-chemical label product identity और hazard information का point-of-use summary होता है। इसे अलग-अलग symbols या words की तरह नहीं, बल्कि connected fields के रूप में पढ़ना बेहतर है।</p>\n<h2 id=\"hi229-identifier\">Product identifier से शुरू करें</h2><p>पहले product name या identifier confirm करें। OSHA Hazard Communication Standard में product identifier label को matching Safety Data Sheet (SDS) और workplace chemical records से connect करता है।</p>\n<h2 id=\"hi229-signal-word\">Signal word पढ़ें</h2><p>जहाँ required हो, label relative hazard severity बताने के लिए signal word use करता है। OSHA के GHS-aligned system में <em>Danger</em> और <em>Warning</em> signal words हैं; <em>Danger</em> अधिक severe categories के लिए use होता है।</p>\n<h2 id=\"hi229-hazard-statements\">Hazard statements पढ़ें</h2><p>Hazard statements classified hazards की nature describe करते हैं। इन्हें signal word और pictograms के साथ पढ़ना चाहिए, अलग-अलग interpret नहीं करना चाहिए।</p>\n<h2 id=\"hi229-pictograms\">Pictograms को hazard cues की तरह देखें</h2><p>Pictograms hazard classes की rapid visual recognition देते हैं। Pictogram अपने-आप में complete instruction नहीं है; surrounding hazard और precautionary text उसका context देता है।</p>\n<h2 id=\"hi229-precautionary\">Precautionary statements review करें</h2><p>Precautionary statements classified hazard से जुड़ी prevention, response, storage या disposal measures communicate करते हैं। Exact label और facility की approved procedures follow करें; assumptions या memory पर निर्भर न रहें।</p>\n<h2 id=\"hi229-supplier\">Supplier identification check करें</h2><p>OSHA-covered shipped-container labels में responsible party का name, U.S. address और telephone number शामिल होता है। इससे product को hazard information के लिए responsible organization से connect किया जा सकता है।</p>\n<h2 id=\"hi229-crosscheck\">More detail के लिए SDS cross-check करें</h2><p>Label concise summary देता है; SDS structured technical detail देता है। Product identifier से यह confirm होना चाहिए कि label और SDS एक ही product को refer करते हैं।</p>\n<h2 id=\"hi229-workplace\">Workplace labels अलग दिख सकते हैं</h2><p>OSHA कुछ workplace labeling systems allow करता है जो shipped-label के हर element को repeat नहीं करते, यदि workplace system और immediately available hazard information standard की requirements पूरी करते हैं। इसलिए site training और written hazard communication program जरूरी हैं।</p>\n<h2 id=\"hi229-takeaway\">मुख्य बात</h2><p>Label को इस क्रम में पढ़ें: identity, signal word, hazard statements, pictograms, precautionary statements और supplier information। More detail के लिए matching SDS या approved site documentation देखें।</p>\n<h2 id=\"hi229-references\">संदर्भ</h2><ol><li id=\"hi229-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200\">OSHA — 29 CFR 1910.1200 Hazard Communication</a>.</li><li id=\"hi229-ref-2\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Appendix C: Allocation of Label Elements</a>.</li><li id=\"hi229-ref-3\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "Cleaning-Chemical Label कैसे पढ़ें | Alle's ClinX",
+  "meta_description": "Professional cleaning-chemical label के main elements समझें: product identifier, signal word, hazards, pictograms, precautions और supplier information."
+}
