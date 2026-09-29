@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0231",
+  "slug": "damaged-missing-product-labels",
+  "subcategory": "Product Labels",
+  "subcategory_slug": "product-labels",
+  "related_article_ids": [
+    "ACX-KB-0229",
+    "ACX-KB-0230",
+    "ACX-KB-0232"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Damaged or Missing Product Labels: What to Check",
+  "excerpt": "If a professional cleaning-chemical label is damaged or missing, verify product identity, label legibility, matching SDS information and the facility's approved relabeling process before routine use continues.",
+  "content_html": "<p>A damaged, unreadable or missing product label breaks the link between a container and its hazard information. The priority is to restore reliable identification and hazard communication before routine use continues.</p>\n<h2 id=\"identity\">First check whether the product can be positively identified</h2><p>Do not rely on container shape, color, odor or memory as a substitute for a product identifier. The identity should be verified through the facility's controlled records, intact original packaging or other approved documentation.</p>\n<h2 id=\"legibility\">Check whether the existing label is still legible</h2><p>A label that is technically present but cannot be read is not doing its job. OSHA requires workplace labels or other forms of warning to be legible and prominently displayed or otherwise readily available in the work area.</p>\n<h2 id=\"sds\">Match the label to the correct SDS</h2><p>Use the verified product identifier to confirm the corresponding SDS. The product identifier is intended to provide a cross-reference among the label, SDS and workplace chemical list.</p>\n<h2 id=\"incoming\">Do not remove or deface incoming labels without replacement</h2><p>Under OSHA's Hazard Communication Standard, employers must not remove or deface existing labels on incoming containers of hazardous chemicals unless the container is immediately marked with the required information.</p>\n<h2 id=\"workplace-process\">Use the facility's approved relabeling process</h2><p>Workplace labeling rules can differ from shipped-container labeling, and some facilities use an approved alternative workplace system. Follow the site's hazard communication program so replacement information is accurate, consistent and traceable.</p>\n<h2 id=\"updates\">Check whether the information itself is current</h2><p>A replacement label should not simply copy obsolete information. If new significant hazard information has been issued, the current supplier or workplace documentation should be used according to the applicable requirements.</p>\n<h2 id=\"uncertain\">If identity remains uncertain, treat that as a stop condition</h2><p>When a container cannot be positively identified, routine use should not continue. Escalate through the facility's safety or supervisory process so the container can be handled under the site's unknown-chemical or incident procedure.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>The key checks are identity, legibility, SDS match, current hazard information and an approved workplace relabeling method. A replacement label should restore a trustworthy connection between the container and its safety documentation.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200\">OSHA — 29 CFR 1910.1200 Hazard Communication</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "Damaged or Missing Product Labels: Checks | Alle's ClinX",
+  "meta_description": "Check identity, legibility, SDS matching, current hazard information and the approved workplace relabeling process when a product label is damaged or missing."
+}

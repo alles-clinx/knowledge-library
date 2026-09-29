@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0228",
+  "slug": "usage-guide-vs-sop",
+  "subcategory": "Usage Guides",
+  "subcategory_slug": "usage-guides",
+  "related_article_ids": [
+    "ACX-KB-0224",
+    "ACX-KB-0226",
+    "ACX-KB-0227"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0228",
+  "title": "Usage Guide और SOP में मुख्य अंतर",
+  "excerpt": "Usage guide product context समझाता है और controlling documents की ओर point करता है; SOP किसी specific task के लिए organization की approved, repeatable process को define करता है।",
+  "content_html": "<p>Product usage guide और Standard Operating Procedure (SOP) दोनों consistent work को support कर सकते हैं, लेकिन उनका purpose अलग होता है। Usage guide मुख्यतः explanatory document है, जबकि SOP किसी routine या repeatable activity को करने के लिए organization की controlled instruction होती है।</p>\n<h2 id=\"hi228-purpose\">मुख्य अंतर purpose में है</h2><p>Usage guide readers को यह समझने में मदद करता है कि product कहाँ fit होता है, कौन-से documents apply करते हैं और किन limits या references को check करना चाहिए। SOP यह document करता है कि organization किसी specific activity को consistently कैसे कराना चाहता है।</p>\n<h2 id=\"hi228-authority\">दोनों की authority समान नहीं होती</h2><p>Usage guide को regulated product label, Safety Data Sheet (SDS), Technical Data Sheet (TDS) या approved site procedure को override नहीं करना चाहिए। SOP facility की controlling internal procedure हो सकती है, लेकिन उसे applicable labels, safety information और legal requirements के साथ consistent रहना चाहिए।</p>\n<h2 id=\"hi228-scope\">Usage guide broad, SOP task-specific होता है</h2><p>Usage guide product purpose, application context, document links और general boundaries cover कर सकता है। SOP सामान्यतः एक defined process पर focus करता है और उस process के लिए scope, responsibilities, required controls, sequence, records और revision information देता है।</p>\n<h2 id=\"hi228-ownership\">Ownership भी अलग हो सकती है</h2><p>Manufacturers, suppliers या facility teams usage guides issue कर सकते हैं। SOP सामान्यतः उस organization द्वारा own और approve की जाती है जो work के लिए responsible है।</p>\n<h2 id=\"hi228-revision\">दोनों में document control जरूरी है</h2><p>Version number, revision date और clear ownership users को current document पहचानने में मदद करते हैं। Label, SDS, product specification या facility process बदलने पर connected guides और SOPs को consistency के लिए review करना चाहिए।</p>\n<h2 id=\"hi228-together\">दोनों साथ में बेहतर काम करते हैं</h2><p>Usage guide सही product information तक पहुँचने में मदद करता है, जबकि SOP task की approved workflow define करता है। दोनों को link करने से explanation और procedure के बीच ambiguity कम होती है।</p>\n<h2 id=\"hi228-takeaway\">मुख्य बात</h2><p>Usage guide context explain करने और documents connect करने के लिए है। SOP repeatable organizational process को control करने के लिए है। दोनों को exact product label, SDS या applicable requirements से conflict नहीं करना चाहिए।</p>\n<h2 id=\"hi228-references\">संदर्भ</h2><ol><li id=\"hi228-ref-1\"><a href=\"https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1008GTX.txt\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li><li id=\"hi228-ref-2\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "Usage Guide और SOP में अंतर | Alle's ClinX",
+  "meta_description": "Usage guide product context और references समझाता है; SOP किसी specific task के लिए organization की approved, repeatable process define करता है।"
+}

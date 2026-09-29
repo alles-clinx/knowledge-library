@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0230",
+  "slug": "why-product-labels-matter-at-the-point-of-use",
+  "subcategory": "Product Labels",
+  "subcategory_slug": "product-labels",
+  "related_article_ids": [
+    "ACX-KB-0229",
+    "ACX-KB-0231",
+    "ACX-KB-0232"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0230",
+  "title": "Point of Use पर Product Labels क्यों महत्वपूर्ण हैं",
+  "excerpt": "Point of use पर product labels इसलिए महत्वपूर्ण हैं क्योंकि वे product identity और essential hazard information को उसी container से physically connected रखते हैं जहाँ work decisions लिए जाते हैं।",
+  "content_html": "<p>Product labels point of use पर इसलिए महत्वपूर्ण हैं क्योंकि essential identity और hazard information वहीं उपलब्ध रहती है जहाँ product वास्तव में encounter होता है। यह immediate connection guesswork कम करता है और wider hazard communication system को support करता है।</p>\n<h2 id=\"hi230-identity\">Identity container के साथ बनी रहती है</h2><p>Product identifier users को एक chemical product को दूसरे से अलग करने और container को सही SDS तथा workplace records से connect करने में मदद करता है। Similar packaging या names वाले products में यह और महत्वपूर्ण हो जाता है।</p>\n<h2 id=\"hi230-summary\">Immediate hazard summary मिलता है</h2><p>OSHA-covered shipped hazardous-chemical containers में signal word, hazard statements, pictograms और precautionary statements जैसे standardized elements होते हैं। ये detailed SDS देखने से पहले concise summary देते हैं।</p>\n<h2 id=\"hi230-decisions\">Work शुरू होने से पहले verification support होती है</h2><p>Visible label trained users को यह confirm करने में मदद करता है कि product, task और supporting documents facility की approved procedure के साथ match करते हैं। Mismatch होने पर यह verify करने का prompt भी देता है।</p>\n<h2 id=\"hi230-workplace\">Workplace labeling system को extend करता है</h2><p>OSHA hazardous chemicals के workplace containers को label, tag या mark करने की requirement रखता है, standard में दिए गए specific exceptions और alternative methods के अधीन। उद्देश्य work area में hazard information available रखना है।</p>\n<h2 id=\"hi230-legibility\">Legibility और visibility जरूरी हैं</h2><p>Correct information भी कम useful है यदि उसे पढ़ा न जा सके। OSHA workplace labels या warnings को legible और prominently displayed, या पूरे shift के दौरान work area में readily available रखने की requirement रखता है।</p>\n<h2 id=\"hi230-training\">Labels, SDS और training साथ काम करते हैं</h2><p>Label पूरी hazard communication program नहीं है। SDS detailed technical information देता है और training users को label system तथा workplace के protective requirements समझने में मदद करती है।</p>\n<h2 id=\"hi230-takeaway\">मुख्य बात</h2><p>Point-of-use label physical container और facility safety information के बीच fastest link है। इस link को clear, legible और current रखना identification, verification और safer decisions support करता है।</p>\n<h2 id=\"hi230-references\">संदर्भ</h2><ol><li id=\"hi230-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200\">OSHA — 29 CFR 1910.1200 Hazard Communication</a>.</li><li id=\"hi230-ref-2\"><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication Overview</a>.</li></ol>",
+  "seo_title": "Point of Use पर Product Labels | Alle's ClinX",
+  "meta_description": "Product labels product identity और essential hazard information को उसी container से connected रखते हैं जहाँ workplace decisions लिए जाते हैं।"
+}
