@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0224",
+  "slug": "what-is-a-cleaning-sop",
+  "subcategory": "Standard Operating Procedures — SOPs",
+  "subcategory_slug": "sops",
+  "related_article_ids": [
+    "ACX-KB-0225",
+    "ACX-KB-0226",
+    "ACX-KB-0227"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0224",
+  "title": "Cleaning SOP क्या होता है?",
+  "excerpt": "Cleaning SOP written instructions का controlled set है जो specific facility या program में routine cleaning activity को organize और carry out करने का documented तरीका बताता है.",
+  "content_html": "<p>Cleaning Standard Operating Procedure (SOP) routine या repetitive cleaning activity के लिए controlled written instructions का set है। EPA SOP को recurring work document करने वाली written instructions के रूप में describe करता है ताकि काम consistently perform किया जा सके।</p>\n<h2 id=\"hi224-scope\">Cleaning SOP scope define करता है</h2><p>SOP को यह clear करना चाहिए कि कौन-सा area, equipment, surface या activity covered है और work के लिए कौन-सी roles responsible हैं।</p>\n<h2 id=\"hi224-resources\">Required resources identify किए जाते हैं</h2><p>Environmental-cleaning SOPs आम तौर पर approved supplies, equipment और protective requirements identify करते हैं। Product-specific details exact manufacturer documentation और facility program से आने चाहिए।</p>\n<h2 id=\"hi224-sequence\">Approved work sequence document होता है</h2><p>SOP उस order को record करता है जिसमें facility work perform करने की अपेक्षा करती है। CDC guidance environmental-cleaning SOPs में ordered cleaning steps, preparation requirements और close-out steps पर जोर देता है।</p>\n<h2 id=\"hi224-safety\">Safety controls SOP framework का हिस्सा हैं</h2><p>Document relevant product labels, SDSs, PPE requirements, training और escalation procedures की ओर point कर सकता है, memory या informal practice पर depend नहीं करता।</p>\n<h2 id=\"hi224-control\">SOPs को document control चाहिए</h2><p>Effective SOP systems identifiers, revision dates, approvals और current controlled copies use करते हैं ताकि staff active procedure और obsolete version में अंतर कर सके।</p>\n<h2 id=\"hi224-training\">SOP training support करता है, replace नहीं</h2><p>Workers को task के अनुसार training और supervision फिर भी चाहिए। SOP approved method का documented reference देता है।</p>\n<h2 id=\"hi224-references\">संदर्भ</h2><ol><li id=\"hi224-ref-1\"><a href=\"https://www.epa.gov/quality/guidance-preparing-standard-operating-procedures\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li><li id=\"hi224-ref-2\"><a href=\"https://cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Environmental Cleaning Programs</a>.</li></ol>",
+  "seo_title": "Cleaning SOP क्या होता है? | Alle's ClinX",
+  "meta_description": "Cleaning SOP written instructions का controlled set है जो specific facility या program में routine cleaning activity को organize और carry out करने का documented तरीका बताता है."
+}
