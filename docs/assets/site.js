@@ -89,6 +89,61 @@
   const injectedDrawer=injectedHeader.querySelector('#acx-mobile-drawer');
   if(injectedDrawer) injectedHeader.insertAdjacentElement('afterend',injectedDrawer);
 
+  if(!document.getElementById('acx-site-footer')){
+    const footer=document.createElement('footer');
+    footer.className='acx-site-footer';
+    footer.id='acx-site-footer';
+    footer.setAttribute('aria-label',"Alle's ClinX Knowledge footer");
+    footer.innerHTML=
+      '<div class="acx-footer-shell">'+
+        '<div class="acx-footer-main">'+
+          '<div class="acx-footer-intro">'+
+            '<a class="acx-footer-brand" href="'+BASE+'">Alle\'s ClinX</a>'+
+            '<p>Open Knowledge for professional cleaning, hygiene, safety and facility operations.</p>'+
+          '</div>'+
+          '<div class="acx-footer-groups">'+
+            '<section class="acx-footer-group" aria-labelledby="acx-footer-knowledge">'+
+              '<h2 id="acx-footer-knowledge">Knowledge</h2>'+
+              '<nav class="acx-footer-nav" aria-label="Knowledge footer navigation">'+
+                '<a href="'+BASE+'">Knowledge home</a>'+
+                '<a href="'+BASE+'library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a>'+
+                '<a href="'+BASE+'library/safety-compliance/">Safety &amp; Compliance</a>'+
+                '<a href="'+BASE+'library/alles-clinx/">Tools &amp; Support</a>'+
+              '</nav>'+
+            '</section>'+
+            '<section class="acx-footer-group" aria-labelledby="acx-footer-legal">'+
+              '<h2 id="acx-footer-legal">Legal</h2>'+
+              '<nav class="acx-footer-nav" aria-label="Legal footer navigation">'+
+                '<a href="'+BASE+'privacy-policy/">Privacy</a>'+
+                '<a href="'+BASE+'terms-conditions/">Terms</a>'+
+                '<a href="'+BASE+'cookie-policy/">Cookies</a>'+
+                '<a href="'+BASE+'ai-data-use/">AI &amp; Data Use</a>'+
+                '<a href="'+BASE+'accessibility/">Accessibility</a>'+
+                '<a href="'+BASE+'trust-security/">Trust &amp; Security</a>'+
+              '</nav>'+
+            '</section>'+
+          '</div>'+
+        '</div>'+
+        '<div class="acx-footer-bottom">'+
+          '<div class="acx-footer-meta"><span>Open Knowledge</span><span>© <span data-acx-footer-year></span> Alle\'s ClinX</span></div>'+
+          '<div class="acx-footer-actions">'+
+            '<a href="mailto:care@allesclinx.com">care@allesclinx.com</a>'+
+            '<a href="https://allesclinx.com/">allesclinx.com <span aria-hidden="true">↗</span></a>'+
+            '<button class="acx-footer-top" type="button" aria-label="Back to top">Top <span aria-hidden="true">↑</span></button>'+
+          '</div>'+
+        '</div>'+
+      '</div>';
+    const decorativeBrand=document.querySelector('.acx-bottom-brand,.legal-bottom-brand');
+    if(decorativeBrand) decorativeBrand.insertAdjacentElement('afterend',footer);
+    else document.body.appendChild(footer);
+    const year=footer.querySelector('[data-acx-footer-year]');
+    if(year) year.textContent=String(new Date().getFullYear());
+    const topButton=footer.querySelector('.acx-footer-top');
+    if(topButton) topButton.addEventListener('click',function(){
+      window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+    });
+  }
+
   const installBtn=document.querySelector('.acx-install-app');
   let deferredInstallPrompt=null;
   const installNote=document.createElement('div');
