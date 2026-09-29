@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0217",
+  "slug": "contact-time-frequency-material-compatibility",
+  "subcategory": "Product Compatibility",
+  "subcategory_slug": "product-compatibility",
+  "related_article_ids": [
+    "ACX-KB-0215",
+    "ACX-KB-0216",
+    "ACX-KB-0212"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Contact Time, Frequency and Material Compatibility",
+  "excerpt": "Contact time and cleaning frequency are label- and process-defined conditions that can influence both intended performance and long-term material compatibility.",
+  "content_html": "<p>Material compatibility depends not only on which product is used, but also on how often the material is exposed and the label-defined conditions under which the product is used. Contact time and frequency are therefore part of the compatibility context.</p>\n<h2 id=\"contact\">Contact time is product-specific</h2><p>CDC defines contact time as the period a disinfectant must remain in contact with a surface or device for the labeled disinfection process. The correct condition comes from the exact product directions.</p>\n<h2 id=\"frequency\">Frequency changes cumulative exposure</h2><p>A surface cleaned occasionally experiences a different exposure pattern from one cleaned many times during a workday. Repeated exposure can matter for coatings, plastics, seals, metals and finishes.</p>\n<h2 id=\"material\">Material limits remain important</h2><p>The surface or equipment manufacturer may specify restrictions or care requirements that must be considered alongside the cleaning product label.</p>\n<h2 id=\"process\">The whole process should align</h2><p>Facility procedures should align the product, surface, equipment, cleaning schedule and any required follow-up steps. Users should not improvise longer exposure or more frequent chemical use beyond approved procedures.</p>\n<h2 id=\"monitoring\">Changes in material condition are maintenance signals</h2><p>Dulling, cracking, swelling, corrosion or finish loss can indicate a compatibility or maintenance issue that should be reviewed through the facility's approved process.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Contact time and frequency are controlled conditions, not performance shortcuts. Compatibility depends on following the exact product label and material-care guidance over the expected use pattern.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/definitions.html\">CDC — Environmental Cleaning Definitions</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"ref-3\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning and Disinfection Guidance</a>.</li></ol>",
+  "seo_title": "Contact Time, Frequency and Material Compatibility | Alle's ClinX",
+  "meta_description": "Contact time and cleaning frequency are label- and process-defined conditions that can influence both intended performance and long-term material compatibility."
+}
