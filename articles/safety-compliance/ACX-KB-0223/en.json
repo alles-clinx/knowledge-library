@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0223",
+  "slug": "cleaning-chemical-tds-contents",
+  "subcategory": "Technical Data Sheets — TDS",
+  "subcategory_slug": "tds",
+  "related_article_ids": [
+    "ACX-KB-0221",
+    "ACX-KB-0222",
+    "ACX-KB-0227"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Should a Cleaning-Chemical TDS Contain?",
+  "excerpt": "A cleaning-chemical TDS commonly summarizes product identity, technical properties, intended applications, compatibility notes and document-control information, while leaving regulated hazard communication to the SDS.",
+  "content_html": "<p>A cleaning-chemical Technical Data Sheet (TDS) is a manufacturer technical-reference document. Its format is not standardized by OSHA in the way an SDS is, so the exact contents can vary by product and manufacturer.</p>\n<h2 id=\"identity\">Product identity and document control</h2><p>A useful TDS should clearly identify the product, manufacturer or supplier, document title, revision date and other version-control information so readers can tell which product and document edition they are using.</p>\n<h2 id=\"description\">Technical description</h2><p>The document can summarize the product's intended technical role, general appearance, product class and other non-hazard descriptive information relevant to specification or maintenance workflows.</p>\n<h2 id=\"properties\">Relevant technical properties</h2><p>Depending on the product, a TDS may present selected physical or performance characteristics that help trained users understand the product in its intended technical context.</p>\n<h2 id=\"applications\">Intended applications and compatibility context</h2><p>A TDS can identify the types of applications or materials for which the product was designed and highlight compatibility limits or manufacturer care considerations where relevant.</p>\n<h2 id=\"crossrefs\">Cross-references to authoritative documents</h2><p>The TDS should not replace the Safety Data Sheet or the exact product label. Where those documents apply, the TDS should point users back to them for hazard information, regulated directions and workplace safety requirements.</p>\n<h2 id=\"control\">Revision and traceability</h2><p>Revision dates and product identifiers help facilities avoid using obsolete technical information. Document-control fields are especially useful when product specifications change.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A good TDS makes technical product information easy to identify and trace. It complements—but does not replace—the SDS, label or facility SOP.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "What Should a Cleaning-Chemical TDS Contain? | Alle's ClinX",
+  "meta_description": "A cleaning-chemical TDS commonly summarizes product identity, technical properties, intended applications, compatibility notes and document-control information, while leaving regulated hazard communication to the SDS."
+}
