@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 426,
+  "record_count": 434,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4688,6 +4688,94 @@
       "subcategory_slug": "product-selection",
       "excerpt": "General-purpose और task-specific product-role labels हैं; यह overview बिना ranking या chemistry-use advice के उनका distinction समझाता है.",
       "url": "library/cleaning-chemistry/product-selection/general-purpose-cleaner-vs-task-specific-cleaner/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0214",
+      "locale": "en",
+      "title": "Cleaning Strength Is Not a Product-Quality Scale",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "A more aggressive cleaning product is not automatically a better product; compatibility, task fit, safety and label-defined use matter more than perceived strength.",
+      "url": "library/cleaning-chemistry/product-selection/strongest-cleaner-not-always-best/"
+    },
+    {
+      "article_id": "ACX-KB-0214",
+      "locale": "hi-IN",
+      "title": "Cleaning Strength Product Quality का Scale नहीं है",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Selection",
+      "subcategory_slug": "product-selection",
+      "excerpt": "अधिक aggressive cleaning product अपने आप बेहतर product नहीं होता; compatibility, task fit, safety और label-defined use perceived strength से अधिक महत्वपूर्ण हैं.",
+      "url": "library/cleaning-chemistry/product-selection/strongest-cleaner-not-always-best/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0215",
+      "locale": "en",
+      "title": "What Is Cleaning-Chemical Compatibility?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Compatibility",
+      "subcategory_slug": "product-compatibility",
+      "excerpt": "Cleaning-chemical compatibility describes whether a finished product can be used within its labeled conditions without unacceptable effects on the surface, equipment or approved process.",
+      "url": "library/cleaning-chemistry/product-compatibility/what-is-cleaning-chemical-compatibility/"
+    },
+    {
+      "article_id": "ACX-KB-0215",
+      "locale": "hi-IN",
+      "title": "Cleaning-Chemical Compatibility क्या है?",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Compatibility",
+      "subcategory_slug": "product-compatibility",
+      "excerpt": "Cleaning-chemical compatibility यह बताती है कि finished product labeled conditions में surface, equipment या approved process पर unacceptable effects के बिना use हो सकता है या नहीं.",
+      "url": "library/cleaning-chemistry/product-compatibility/what-is-cleaning-chemical-compatibility/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0216",
+      "locale": "en",
+      "title": "Why Product and Surface Compatibility Must Align",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Compatibility",
+      "subcategory_slug": "product-compatibility",
+      "excerpt": "A cleaning product can only be suitable when its labeled use and the material limits of the surface or equipment are compatible.",
+      "url": "library/cleaning-chemistry/product-compatibility/product-surface-compatibility/"
+    },
+    {
+      "article_id": "ACX-KB-0216",
+      "locale": "hi-IN",
+      "title": "Product और Surface Compatibility क्यों Align होनी चाहिए",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Compatibility",
+      "subcategory_slug": "product-compatibility",
+      "excerpt": "Cleaning product तभी suitable हो सकता है जब उसका labeled use और surface या equipment की material limits compatible हों.",
+      "url": "library/cleaning-chemistry/product-compatibility/product-surface-compatibility/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0217",
+      "locale": "en",
+      "title": "Contact Time, Frequency and Material Compatibility",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Compatibility",
+      "subcategory_slug": "product-compatibility",
+      "excerpt": "Contact time and cleaning frequency are label- and process-defined conditions that can influence both intended performance and long-term material compatibility.",
+      "url": "library/cleaning-chemistry/product-compatibility/contact-time-frequency-material-compatibility/"
+    },
+    {
+      "article_id": "ACX-KB-0217",
+      "locale": "hi-IN",
+      "title": "Contact Time, Frequency और Material Compatibility",
+      "category": "Cleaning Chemistry",
+      "category_slug": "cleaning-chemistry",
+      "subcategory": "Product Compatibility",
+      "subcategory_slug": "product-compatibility",
+      "excerpt": "Contact time और cleaning frequency label- तथा process-defined conditions हैं जो intended performance और long-term material compatibility दोनों को प्रभावित कर सकते हैं.",
+      "url": "library/cleaning-chemistry/product-compatibility/contact-time-frequency-material-compatibility/hi.html"
     }
   ]
 }
