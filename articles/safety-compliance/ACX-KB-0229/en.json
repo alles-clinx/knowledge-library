@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0229",
+  "slug": "how-to-read-a-professional-cleaning-chemical-label",
+  "subcategory": "Product Labels",
+  "subcategory_slug": "product-labels",
+  "related_article_ids": [
+    "ACX-KB-0220",
+    "ACX-KB-0230",
+    "ACX-KB-0231",
+    "ACX-KB-0232"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Read a Professional Cleaning-Chemical Label",
+  "excerpt": "Read a professional cleaning-chemical label by confirming the product identifier, then reviewing the signal word, hazard statements, pictograms, precautionary statements and supplier information as one connected message.",
+  "content_html": "<p>A professional cleaning-chemical label is a point-of-use summary of product identity and hazard information. The safest way to read it is as a connected set of fields rather than as isolated symbols or words.</p>\n<h2 id=\"identifier\">Start with the product identifier</h2><p>Confirm the product name or identifier first. Under OSHA's Hazard Communication Standard, the product identifier links the label to the corresponding Safety Data Sheet (SDS) and workplace chemical records.</p>\n<h2 id=\"signal-word\">Read the signal word</h2><p>Where required, the label uses a signal word to indicate relative hazard severity. Under OSHA's GHS-aligned system, the signal words are <em>Danger</em> and <em>Warning</em>, with <em>Danger</em> reserved for the more severe categories.</p>\n<h2 id=\"hazard-statements\">Read the hazard statements</h2><p>Hazard statements describe the nature of the classified hazards. They should be read together with the signal word and pictograms rather than interpreted separately.</p>\n<h2 id=\"pictograms\">Use pictograms as hazard cues</h2><p>Pictograms provide rapid visual recognition of hazard classes. A pictogram is not a complete instruction by itself; the surrounding hazard and precautionary text gives the context needed to understand it.</p>\n<h2 id=\"precautionary\">Review precautionary statements</h2><p>Precautionary statements communicate recommended measures associated with prevention, response, storage or disposal for the classified hazard. Follow the exact label and the facility's approved procedures rather than substituting assumptions or memory.</p>\n<h2 id=\"supplier\">Check supplier identification</h2><p>Shipped-container labels covered by OSHA include the responsible party's name, U.S. address and telephone number. This helps users connect the product to the organization responsible for the hazard information.</p>\n<h2 id=\"crosscheck\">Cross-check the SDS when more detail is needed</h2><p>The label provides a concise summary; the SDS provides structured technical detail. The product identifier should let the user confirm that the label and SDS refer to the same product.</p>\n<h2 id=\"workplace-labels\">Workplace labels may look different</h2><p>OSHA allows certain workplace labeling systems that do not reproduce every shipped-label element, provided the workplace system and immediately available hazard information meet the standard's requirements. This is why site training and the written hazard communication program matter.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Read the label in this order: identity, signal word, hazard statements, pictograms, precautionary statements and supplier information. Then use the matching SDS or approved site documentation when more detail is required.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200\">OSHA — 29 CFR 1910.1200 Hazard Communication</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Appendix C: Allocation of Label Elements</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "How to Read a Cleaning-Chemical Label | Alle's ClinX",
+  "meta_description": "Learn the main professional cleaning-chemical label elements: product identifier, signal word, hazards, pictograms, precautions and supplier information."
+}
