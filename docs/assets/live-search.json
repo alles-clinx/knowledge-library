@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 434,
+  "record_count": 444,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4776,6 +4776,116 @@
       "subcategory_slug": "product-compatibility",
       "excerpt": "Contact time और cleaning frequency label- तथा process-defined conditions हैं जो intended performance और long-term material compatibility दोनों को प्रभावित कर सकते हैं.",
       "url": "library/cleaning-chemistry/product-compatibility/contact-time-frequency-material-compatibility/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0218",
+      "locale": "en",
+      "title": "What Is a Safety Data Sheet?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Safety Data Sheets — SDS",
+      "subcategory_slug": "sds",
+      "excerpt": "A Safety Data Sheet (SDS) is a standardized workplace hazard-information document that summarizes a chemical product's identity, hazards, handling controls and other safety information.",
+      "url": "library/safety-compliance/sds/what-is-a-safety-data-sheet/"
+    },
+    {
+      "article_id": "ACX-KB-0218",
+      "locale": "hi-IN",
+      "title": "Safety Data Sheet क्या होता है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Safety Data Sheets — SDS",
+      "subcategory_slug": "sds",
+      "excerpt": "Safety Data Sheet (SDS) एक standardized workplace hazard-information document है जो chemical product की identity, hazards, controls और अन्य safety information summarize करता है.",
+      "url": "library/safety-compliance/sds/what-is-a-safety-data-sheet/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0219",
+      "locale": "en",
+      "title": "How to Read the Main Sections of an SDS",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Safety Data Sheets — SDS",
+      "subcategory_slug": "sds",
+      "excerpt": "The 16-section SDS format groups chemical identity, hazards, controls, physical properties and other information into a consistent sequence for workplace reference.",
+      "url": "library/safety-compliance/sds/how-to-read-the-main-sections-of-an-sds/"
+    },
+    {
+      "article_id": "ACX-KB-0219",
+      "locale": "hi-IN",
+      "title": "SDS के Main Sections कैसे समझें",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Safety Data Sheets — SDS",
+      "subcategory_slug": "sds",
+      "excerpt": "16-section SDS format chemical identity, hazards, controls, physical properties और अन्य information को consistent sequence में organize करता है.",
+      "url": "library/safety-compliance/sds/how-to-read-the-main-sections-of-an-sds/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0220",
+      "locale": "en",
+      "title": "SDS vs Product Label: Key Differences",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Safety Data Sheets — SDS",
+      "subcategory_slug": "sds",
+      "excerpt": "An SDS is a detailed workplace hazard-information document, while a product label communicates information on or with the product and may carry legally enforceable directions for regulated products.",
+      "url": "library/safety-compliance/sds/sds-vs-product-label/"
+    },
+    {
+      "article_id": "ACX-KB-0220",
+      "locale": "hi-IN",
+      "title": "SDS और Product Label में मुख्य अंतर",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Safety Data Sheets — SDS",
+      "subcategory_slug": "sds",
+      "excerpt": "SDS detailed workplace hazard-information document है, जबकि product label product के साथ information communicate करता है और regulated products में legally enforceable directions रख सकता है.",
+      "url": "library/safety-compliance/sds/sds-vs-product-label/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0221",
+      "locale": "en",
+      "title": "What Is a Technical Data Sheet?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Technical Data Sheets — TDS",
+      "subcategory_slug": "tds",
+      "excerpt": "A Technical Data Sheet (TDS) is manufacturer technical documentation that commonly summarizes product properties, intended applications and performance information; unlike an SDS, its format is not standardized by OSHA.",
+      "url": "library/safety-compliance/tds/what-is-a-technical-data-sheet/"
+    },
+    {
+      "article_id": "ACX-KB-0221",
+      "locale": "hi-IN",
+      "title": "Technical Data Sheet क्या होता है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Technical Data Sheets — TDS",
+      "subcategory_slug": "tds",
+      "excerpt": "Technical Data Sheet (TDS) manufacturer technical documentation है जो product properties, intended applications और performance information summarize कर सकता है; SDS के unlike इसका format OSHA standardized नहीं करता.",
+      "url": "library/safety-compliance/tds/what-is-a-technical-data-sheet/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0222",
+      "locale": "en",
+      "title": "TDS vs SDS: Key Differences",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Technical Data Sheets — TDS",
+      "subcategory_slug": "tds",
+      "excerpt": "A TDS is manufacturer technical documentation, while an SDS is the standardized workplace hazard-information document required under OSHA's Hazard Communication framework for covered hazardous chemicals.",
+      "url": "library/safety-compliance/tds/tds-vs-sds/"
+    },
+    {
+      "article_id": "ACX-KB-0222",
+      "locale": "hi-IN",
+      "title": "TDS और SDS में मुख्य अंतर",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Technical Data Sheets — TDS",
+      "subcategory_slug": "tds",
+      "excerpt": "TDS manufacturer technical documentation है, जबकि SDS covered hazardous chemicals के लिए OSHA Hazard Communication framework का standardized workplace hazard-information document है.",
+      "url": "library/safety-compliance/tds/tds-vs-sds/hi.html"
     }
   ]
 }
