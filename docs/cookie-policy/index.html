@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Cookie Policy | Alle's ClinX</title>
-<meta name="description" content="Cookie and browser-storage information for Alle's ClinX Knowledge.">
+<meta name="description" content="Cookie and browser-storage policy for Alle's ClinX Knowledge, covering cookies, localStorage, service-worker cache, search and third-party services.">
 <link rel="canonical" href="https://alles-clinx.github.io/knowledge-library/cookie-policy/">
 <link rel="manifest" href="/knowledge-library/manifest.webmanifest">
 <meta name="theme-color" content="#ffffff">
@@ -17,45 +17,55 @@
   <header class="legal-intro">
     <p class="legal-eyebrow">Legal</p>
     <h1>Cookie Policy</h1>
-    <p>This Cookie Policy explains the browser technologies used by the Alle's ClinX Knowledge site and distinguishes cookies from the offline storage used by its progressive web app.</p>
-    <div class="legal-scope-note">This notice covers the GitHub-hosted Knowledge site only. The shop, account, checkout, analytics, and consent systems on <a href="https://allesclinx.com/">allesclinx.com</a> have separate cookie requirements.</div>
+    <p>This Cookie Policy explains which browser technologies Alle's ClinX Knowledge uses, which ones it does not intentionally use, and how you can control local site data.</p>
+    <div class="legal-scope-note">This notice covers the GitHub-hosted Knowledge site only. Other Alle's ClinX websites and services may use analytics, commerce, authentication, consent or support technologies that are governed by their own cookie and privacy notices.</div>
   </header>
   <section class="legal-accordion" aria-label="Cookie Policy sections">
     <details>
-    <summary><span class="legal-number">01</span><span class="legal-title">Cookies used by this site</span><span class="legal-marker" aria-hidden="true"></span></summary>
-    <div class="legal-detail"><p>As of the effective date of this notice, the Knowledge site's own front-end code does not intentionally set advertising, analytics, shopping-cart, account, or marketing cookies.</p><p>A hosting platform, browser, network, or linked third-party service may still use its own technical mechanisms outside the Knowledge front-end code.</p></div>
+    <summary><span class="legal-number">01</span><span class="legal-title">Current cookie position</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>As of 30 September 2026, the Knowledge site's own front-end code does not intentionally set advertising, behavioural-profiling, analytics, shopping-cart, login or marketing cookies. We therefore do not use a Knowledge-specific consent banner for non-essential cookies that the current front end does not set.</p><p>This statement is limited to code controlled by the Knowledge site. A browser, network layer, GitHub or a destination reached through an external link may operate under its own technical and privacy practices.</p></div>
   </details>
-<details>
-    <summary><span class="legal-number">02</span><span class="legal-title">Offline storage</span><span class="legal-marker" aria-hidden="true"></span></summary>
-    <div class="legal-detail"><p>The Knowledge progressive web app uses a service worker and browser Cache Storage to retain site assets and some visited content. This supports faster loading and offline access after a page has been visited.</p><p>Cache Storage is browser-managed local storage; it is not a cookie and does not by itself create a marketing profile.</p></div>
+    <details>
+    <summary><span class="legal-number">02</span><span class="legal-title">Cookies versus browser storage</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>A cookie is a small value usually stored by the browser and sent with qualifying HTTP requests. Modern browsers also provide other storage mechanisms that do not behave like cookies. Knowledge currently uses non-cookie browser storage for reading preferences and offline operation.</p><p>The absence of first-party analytics cookies does not mean that no technical data is ever processed during page delivery; ordinary hosting and network requests can still generate logs as described in the <a href="/knowledge-library/privacy-policy/">Privacy Policy</a>.</p></div>
   </details>
-<details>
-    <summary><span class="legal-number">03</span><span class="legal-title">Search data</span><span class="legal-marker" aria-hidden="true"></span></summary>
-    <div class="legal-detail"><p>The on-site search feature works against a static Knowledge index in the browser. The current search implementation does not use a cookie to remember search terms.</p></div>
+    <details>
+    <summary><span class="legal-number">03</span><span class="legal-title">Reading-size preference in localStorage</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge article pages use browser <code>localStorage</code> to remember a user's selected article text size. The current key is <code>acx-reading-size</code>, and the stored value is the chosen font size within the supported range.</p><p>This preference remains on the device until it is changed, removed by the site, cleared by the user or removed by the browser. It is not used by the Knowledge front end as an advertising identifier.</p></div>
   </details>
-<details>
-    <summary><span class="legal-number">04</span><span class="legal-title">External links and embedded services</span><span class="legal-marker" aria-hidden="true"></span></summary>
-    <div class="legal-detail"><p>If you leave Knowledge for another website or service, that destination may set cookies or use other storage under its own policy. Review the notice on the destination service if you want to understand or change those settings.</p></div>
+    <details>
+    <summary><span class="legal-number">04</span><span class="legal-title">Service worker and Cache Storage</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>The progressive web app registers a service worker and uses browser Cache Storage to keep core site files and some visited pages available faster or offline. The service worker may replace older cached versions when the site is updated.</p><p>Cache Storage is local browser data rather than a cookie. A cached copy can be older than the online page, so reconnect and refresh before relying on time-sensitive legal, safety or product information.</p></div>
   </details>
-<details>
-    <summary><span class="legal-number">05</span><span class="legal-title">Managing browser data</span><span class="legal-marker" aria-hidden="true"></span></summary>
-    <div class="legal-detail"><p>Most browsers allow you to inspect and remove cookies, cached files, service-worker registrations, and other site data. Removing cached Knowledge data may disable offline access until you revisit the relevant pages.</p></div>
+    <details>
+    <summary><span class="legal-number">05</span><span class="legal-title">Search and temporary in-page data</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>The Knowledge search feature loads a static search index and ranks results in the browser. Search phrases are handled in the active page and are not intentionally saved by the search feature to a cookie, <code>localStorage</code> or a dedicated Alle's ClinX search profile.</p><p>The downloaded search index itself may be cached by the browser or service worker as a site asset.</p></div>
   </details>
-<details>
-    <summary><span class="legal-number">06</span><span class="legal-title">Changes to this notice</span><span class="legal-marker" aria-hidden="true"></span></summary>
-    <div class="legal-detail"><p>We will update this page if the Knowledge site begins using materially different storage, analytics, authentication, or consent technologies. The date below identifies the current version.</p></div>
+    <details>
+    <summary><span class="legal-number">06</span><span class="legal-title">Browser cache and installation data</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Browsers may independently maintain HTTP cache, history, installed-PWA metadata, permissions and other local records. Those browser-managed functions are distinct from cookies set by website code.</p><p>Installing Knowledge as a web app does not create a Knowledge account. Removing the app may not remove every cached item in every browser, so use the browser's site-data controls when you want a complete local reset.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">07</span><span class="legal-title">External links and third-party cookies</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>When you follow a link to GitHub, allesclinx.com, a standards body, government website, social-sharing service, email provider or another third party, that destination may use cookies or other storage under its own policy.</p><p>Knowledge does not control a third party's cookie choices simply because a link appears in an article. Review the destination's notice before entering personal information or changing its consent settings.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">08</span><span class="legal-title">How to control or remove site data</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Most modern browsers let you inspect and clear cookies, local storage, cached files and service-worker data for a specific site. Clearing Knowledge site data can reset your reading-size preference and remove offline copies.</p><p>Browser settings differ, so consult the browser or device help documentation for exact steps. Blocking all storage may reduce offline or preference features but should not prevent ordinary reading of the static site.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">09</span><span class="legal-title">Future changes</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>If Knowledge later introduces analytics, authentication, advertising, personalisation or another technology that materially changes browser storage, we will update this notice and introduce consent controls where applicable law requires them.</p><p>The date below identifies the current version and should be checked if your browser shows storage behaviour that differs from this description.</p></div>
   </details>
   </section>
   <section class="legal-meta-grid" aria-label="Legal contact and related policies">
     <div class="legal-meta-block">
       <h2>Contact</h2>
-      <p>Questions about this page can be sent to <a href="mailto:care@allesclinx.com">care@allesclinx.com</a>.</p>
+      <p>Questions about Knowledge cookies or browser storage can be sent to <a href="mailto:care@allesclinx.com">care@allesclinx.com</a>.</p>
     </div>
     <div class="legal-meta-block">
       <h2>Related policies</h2>
-      <nav class="legal-policy-links" aria-label="Related legal policies">
-        <a href="/knowledge-library/privacy-policy/">Privacy</a><a href="/knowledge-library/terms-conditions/">Terms</a><a href="/knowledge-library/ai-data-use/">AI & Data Use</a><a href="/knowledge-library/accessibility/">Accessibility</a><a href="/knowledge-library/trust-security/">Trust & Security</a>
-      </nav>
+      <nav class="legal-policy-links" aria-label="Related legal policies"><a href="/knowledge-library/privacy-policy/">Privacy</a><a href="/knowledge-library/terms-conditions/">Terms</a><a href="/knowledge-library/ai-data-use/">AI & Data Use</a><a href="/knowledge-library/accessibility/">Accessibility</a><a href="/knowledge-library/trust-security/">Trust & Security</a></nav>
     </div>
   </section>
   <div class="legal-date"><span>Last updated: 30 September 2026</span><span>Effective from: 30 September 2026</span></div>

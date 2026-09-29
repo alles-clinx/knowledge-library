@@ -126,6 +126,10 @@ try{
     ['subcategory',new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href],
     ['article',articleUrl(en)],
     ['legal terms',new URL('terms-conditions/',BASE).href],
+    ['legal privacy',new URL('privacy-policy/',BASE).href],
+    ['legal cookies',new URL('cookie-policy/',BASE).href],
+    ['legal AI data',new URL('ai-data-use/',BASE).href],
+    ['legal accessibility',new URL('accessibility/',BASE).href],
     ['legal trust',new URL('trust-security/',BASE).href]
   ];
   for(const width of [320,360,390,430]){
