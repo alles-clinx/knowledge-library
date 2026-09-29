@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 444,
+  "record_count": 454,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -4886,6 +4886,116 @@
       "subcategory_slug": "tds",
       "excerpt": "TDS manufacturer technical documentation है, जबकि SDS covered hazardous chemicals के लिए OSHA Hazard Communication framework का standardized workplace hazard-information document है.",
       "url": "library/safety-compliance/tds/tds-vs-sds/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0223",
+      "locale": "en",
+      "title": "What Should a Cleaning-Chemical TDS Contain?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Technical Data Sheets — TDS",
+      "subcategory_slug": "tds",
+      "excerpt": "A cleaning-chemical TDS commonly summarizes product identity, technical properties, intended applications, compatibility notes and document-control information, while leaving regulated hazard communication to the SDS.",
+      "url": "library/safety-compliance/tds/cleaning-chemical-tds-contents/"
+    },
+    {
+      "article_id": "ACX-KB-0223",
+      "locale": "hi-IN",
+      "title": "Cleaning-Chemical TDS में क्या होना चाहिए?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Technical Data Sheets — TDS",
+      "subcategory_slug": "tds",
+      "excerpt": "Cleaning-chemical TDS आम तौर पर product identity, technical properties, intended applications, compatibility notes और document-control information summarize करता है; regulated hazard communication SDS का role रहता है.",
+      "url": "library/safety-compliance/tds/cleaning-chemical-tds-contents/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0224",
+      "locale": "en",
+      "title": "What Is a Cleaning SOP?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Standard Operating Procedures — SOPs",
+      "subcategory_slug": "sops",
+      "excerpt": "A cleaning SOP is a controlled set of written instructions that documents how a routine cleaning activity is organized and carried out within a specific facility or program.",
+      "url": "library/safety-compliance/sops/what-is-a-cleaning-sop/"
+    },
+    {
+      "article_id": "ACX-KB-0224",
+      "locale": "hi-IN",
+      "title": "Cleaning SOP क्या होता है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Standard Operating Procedures — SOPs",
+      "subcategory_slug": "sops",
+      "excerpt": "Cleaning SOP written instructions का controlled set है जो specific facility या program में routine cleaning activity को organize और carry out करने का documented तरीका बताता है.",
+      "url": "library/safety-compliance/sops/what-is-a-cleaning-sop/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0225",
+      "locale": "en",
+      "title": "Why SOPs Improve Cleaning Consistency",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Standard Operating Procedures — SOPs",
+      "subcategory_slug": "sops",
+      "excerpt": "SOPs improve consistency by reducing variation in how recurring work is performed, documenting approved expectations and giving teams a common reference for training and quality review.",
+      "url": "library/safety-compliance/sops/why-sops-improve-cleaning-consistency/"
+    },
+    {
+      "article_id": "ACX-KB-0225",
+      "locale": "hi-IN",
+      "title": "SOPs Cleaning Consistency क्यों Improve करते हैं",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Standard Operating Procedures — SOPs",
+      "subcategory_slug": "sops",
+      "excerpt": "SOPs recurring work में variation कम करके, approved expectations document करके और training तथा quality review के लिए common reference देकर consistency improve करते हैं.",
+      "url": "library/safety-compliance/sops/why-sops-improve-cleaning-consistency/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0226",
+      "locale": "en",
+      "title": "SOP vs Checklist: Key Differences",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Standard Operating Procedures — SOPs",
+      "subcategory_slug": "sops",
+      "excerpt": "An SOP documents the approved process and its context, while a checklist is a shorter verification tool used to confirm that defined items or steps have been addressed.",
+      "url": "library/safety-compliance/sops/sop-vs-checklist/"
+    },
+    {
+      "article_id": "ACX-KB-0226",
+      "locale": "hi-IN",
+      "title": "SOP और Checklist में मुख्य अंतर",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Standard Operating Procedures — SOPs",
+      "subcategory_slug": "sops",
+      "excerpt": "SOP approved process और उसका context document करता है, जबकि checklist shorter verification tool है जो confirm करता है कि defined items या steps address हुए हैं.",
+      "url": "library/safety-compliance/sops/sop-vs-checklist/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0227",
+      "locale": "en",
+      "title": "What Is a Product Usage Guide?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Usage Guides",
+      "subcategory_slug": "usage-guides",
+      "excerpt": "A product usage guide is a supporting manufacturer or facility document that explains the intended application context and points users to the controlling label, SDS, TDS or SOP where applicable.",
+      "url": "library/safety-compliance/usage-guides/what-is-a-product-usage-guide/"
+    },
+    {
+      "article_id": "ACX-KB-0227",
+      "locale": "hi-IN",
+      "title": "Product Usage Guide क्या होता है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Usage Guides",
+      "subcategory_slug": "usage-guides",
+      "excerpt": "Product usage guide supporting manufacturer या facility document है जो intended application context explain करता है और applicable label, SDS, TDS या SOP की ओर users को point करता है.",
+      "url": "library/safety-compliance/usage-guides/what-is-a-product-usage-guide/hi.html"
     }
   ]
 }
