@@ -141,6 +141,15 @@ try{
         const box=await h1.boundingBox();
         assert(!box || box.width<=width+1,label+' H1 exceeds the '+width+'px viewport');
       }
+      const footer=auditPage.locator('#acx-site-footer');
+      assert(await footer.count()===1,label+' is missing the shared footer');
+      const footerBox=await footer.boundingBox();
+      assert(!footerBox || footerBox.width<=width+1,label+' footer exceeds the '+width+'px viewport');
+      const footerLegalLinks=auditPage.locator('#acx-site-footer .acx-footer-group').nth(1).locator('a');
+      assert(await footerLegalLinks.count()>=6,label+' footer legal navigation is incomplete');
+      const footerTarget=auditPage.locator('#acx-site-footer .acx-footer-nav a').first();
+      const footerTargetBox=await footerTarget.boundingBox();
+      assert(!footerTargetBox || footerTargetBox.height>=40,label+' footer link target is too small on mobile');
     }
     await auditCtx.close();
   }
@@ -265,7 +274,7 @@ try{
   assert((new URL(ma.url())).hash==='#'+target,'Scroll navigation did not update the URL hash');
   await maCtx.close();
 
-  console.log('Interaction smoke test passed: header controls, install guidance, search, mobile menu, sliders, article tools, language tabs, text controls, share/copy/save/print, mobile section navigation, and 320–430px viewport integrity across home, discovery, article, and legal pages.');
+  console.log('Interaction smoke test passed: header controls, install guidance, search, mobile menu, sliders, article tools, language tabs, text controls, share/copy/save/print, mobile section navigation, shared footer integrity, and 320–430px viewport coverage across home, discovery, article, and legal pages.');
 } finally {
   await browser.close();
 }
