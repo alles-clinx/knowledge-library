@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0232",
+  "slug": "what-is-ghs-hazard-communication",
+  "subcategory": "GHS & Hazard Communication",
+  "subcategory_slug": "ghs-hazard-communication",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0229",
+    "ACX-KB-0230"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0232",
+  "title": "GHS Hazard Communication क्या है?",
+  "excerpt": "GHS United Nations का framework है जो chemical hazards classify करने और harmonized label elements तथा safety data sheets के through communicate करने के लिए बनाया गया है; jurisdictions इसे अपने rules के through adopt करते हैं।",
+  "content_html": "<p>Globally Harmonized System of Classification and Labelling of Chemicals (GHS) United Nations का framework है जो chemical hazards classify करने और consistent label elements तथा Safety Data Sheets (SDSs) के through उन hazards को communicate करने के लिए बनाया गया है।</p>\n<h2 id=\"hi232-framework\">GHS framework है, एक single worldwide law नहीं</h2><p>UN GHS को model system के रूप में publish करता है। Countries और regions तय करते हैं कि इसे अपने laws और regulations में कैसे adopt करना है, इसलिए exact legal requirements, transition dates और adopted revision level jurisdiction के अनुसार अलग हो सकते हैं।</p>\n<h2 id=\"hi232-classification\">यह hazard classification से शुरू होता है</h2><p>GHS physical, health और environmental hazards classify करने के criteria देता है। Chemical या mixture classify होने के बाद वही classification संबंधित hazard communication elements drive करती है।</p>\n<h2 id=\"hi232-labels\">Core label elements harmonize होते हैं</h2><p>GHS product identifiers, signal words, hazard statements, pictograms और precautionary statements जैसे harmonized concepts use करता है। National implementations यह specify कर सकती हैं कि ये elements कैसे use होंगे और कौन-सी additional supplier information required है।</p>\n<h2 id=\"hi232-sds\">Safety Data Sheets भी harmonize होते हैं</h2><p>GHS standardized SDS structure support करता है ताकि hazard, composition, first-aid, handling, storage, exposure-control और अन्य technical information predictable format में organized हो।</p>\n<h2 id=\"hi232-understanding\">Goal understandable hazard information है</h2><p>System workers, emergency responders, regulators, transport systems और supply chains के लिए chemical-hazard information की availability और consistency improve करने के लिए बनाया गया है।</p>\n<h2 id=\"hi232-revisions\">GHS समय के साथ revise होता है</h2><p>UN GHS को periodically update करता है। 2025 में published eleventh revised edition, 2026 तक सबसे recent UN edition है। फिर भी कोई jurisdiction legally earlier revision implement कर सकती है।</p>\n<h2 id=\"hi232-us\">United States का example</h2><p>OSHA Hazard Communication Standard GHS-aligned U.S. regulation है, UN text खुद नहीं। OSHA का 2024 final rule standard को primarily GHS Revision 7 के साथ align करता है और 19 July 2024 से effective हुआ, affected parties के लिए phased compliance dates के साथ।</p>\n<h2 id=\"hi232-takeaway\">मुख्य बात</h2><p>GHS common language देता है; enforceable version local law तय करता है। Label या SDS पढ़ते समय relevant jurisdiction और workplace में applicable requirements और documents use करें।</p>\n<h2 id=\"hi232-references\">संदर्भ</h2><ol><li id=\"hi232-ref-1\"><a href=\"https://unece.org/about-ghs\">UNECE — About the GHS</a>.</li><li id=\"hi232-ref-2\"><a href=\"https://unece.org/transport/documents/2025/09/standards/globally-harmonized-system-classification-and-labelling\">UNECE — GHS Revision 11</a>.</li><li id=\"hi232-ref-3\"><a href=\"https://www.osha.gov/hazcom/rulemaking\">OSHA — Final Rule to Amend the Hazard Communication Standard</a>.</li></ol>",
+  "seo_title": "GHS Hazard Communication क्या है? | Alle's ClinX",
+  "meta_description": "GHS UN framework है जो chemical hazards classify करता है और harmonized label elements तथा safety data sheets से communicate करता है।"
+}
