@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0215",
+  "slug": "what-is-cleaning-chemical-compatibility",
+  "subcategory": "Product Compatibility",
+  "subcategory_slug": "product-compatibility",
+  "related_article_ids": [
+    "ACX-KB-0214",
+    "ACX-KB-0216",
+    "ACX-KB-0217"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0215",
+  "title": "Cleaning-Chemical Compatibility क्या है?",
+  "excerpt": "Cleaning-chemical compatibility यह बताती है कि finished product labeled conditions में surface, equipment या approved process पर unacceptable effects के बिना use हो सकता है या नहीं.",
+  "content_html": "<p>Cleaning-chemical compatibility यह बताती है कि finished cleaning product उस surface, equipment, supplies और approved process के साथ कैसे behave करता है जिसमें उसे use किया जाता है। Compatibility product-specific होती है और केवल chemical family name से assume नहीं करनी चाहिए।</p>\n<h2 id=\"hi215-surface\">Surface compatibility</h2><p>Compatible product intended conditions में unacceptable corrosion, discoloration, softening, swelling, cracking या अन्य material damage नहीं करना चाहिए।</p>\n<h2 id=\"hi215-equipment\">Equipment compatibility</h2><p>Cleaning equipment में metals, seals, plastics, hoses, pumps और coatings हो सकते हैं जिनकी chemical tolerances अलग होती हैं। इसलिए equipment-maker guidance compatibility assessment का हिस्सा है।</p>\n<h2 id=\"hi215-supplies\">Supplies system को प्रभावित कर सकती हैं</h2><p>CDC बताता है कि disinfectants cleaning supplies जैसे cloths और use में आने वाले अन्य materials के साथ compatible होने चाहिए। केवल liquid product नहीं, पूरा cleaning system महत्वपूर्ण है।</p>\n<h2 id=\"hi215-process\">Process compatibility भी महत्वपूर्ण है</h2><p>Product के storage, use conditions या residue management requirements facility के approved workflow से fit होने चाहिए।</p>\n<h2 id=\"hi215-label\">Compatibility information authoritative sources से आती है</h2><p>Manufacturer labels, technical information, safety data और surface/equipment instructions appropriate references हैं। Workplace users को products mix करके या chemical combinations improvise करके compatibility test नहीं करनी चाहिए।</p>\n<h2 id=\"hi215-takeaway\">मुख्य बात</h2><p>Compatibility का मतलब है कि product, material और process approved conditions में बिना unacceptable damage या safety problems के साथ काम कर सकें।</p>\n<h2 id=\"hi215-references\">संदर्भ</h2><ol><li id=\"hi215-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"hi215-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/ideal-disinfectant.html\">CDC — Properties of an Ideal Disinfectant</a>.</li></ol>",
+  "seo_title": "Cleaning-Chemical Compatibility क्या है? | Alle's ClinX",
+  "meta_description": "Cleaning-chemical compatibility यह बताती है कि finished product labeled conditions में surface, equipment या approved process पर unacceptable effects के बिना use हो सकता है या नहीं."
+}

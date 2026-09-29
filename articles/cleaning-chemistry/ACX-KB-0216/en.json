@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0216",
+  "slug": "product-surface-compatibility",
+  "subcategory": "Product Compatibility",
+  "subcategory_slug": "product-compatibility",
+  "related_article_ids": [
+    "ACX-KB-0215",
+    "ACX-KB-0217",
+    "ACX-KB-0204"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Product and Surface Compatibility Must Align",
+  "excerpt": "A cleaning product can only be suitable when its labeled use and the material limits of the surface or equipment are compatible.",
+  "content_html": "<p>A cleaning product acts on both the soil and the material beneath it. Successful cleaning therefore requires the product's labeled use to align with the surface or equipment's material limits.</p>\n<h2 id=\"materials\">Materials respond differently</h2><p>Metals, coatings, stone, plastics, rubber, glass and textiles can have different resistance to moisture, pH, solvents, oxidising chemistry and repeated cleaning.</p>\n<h2 id=\"damage\">Damage may not appear immediately</h2><p>Some compatibility problems develop gradually through repeated exposure, showing up later as dulling, corrosion, softening, cracking or loss of finish.</p>\n<h2 id=\"label\">Product labels define intended surfaces</h2><p>CDC advises users to read disinfectant labels to confirm that a product can be used on the type of surface involved. Manufacturer and equipment-care instructions provide additional material limits.</p>\n<h2 id=\"frequency\">Repeated use is part of compatibility</h2><p>A material that tolerates occasional exposure may respond differently under frequent cleaning. Facility programs therefore need to consider the actual cleaning schedule as well as the product itself.</p>\n<h2 id=\"system\">Compatibility is a system property</h2><p>The product, surface, cloth or tool, equipment and approved workflow interact. Good compatibility means those elements can work together without unacceptable material damage or process failure.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Product and surface compatibility must align over the expected use pattern. Exact labels and manufacturer care instructions are the appropriate references for that alignment.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li></ol>",
+  "seo_title": "Why Product and Surface Compatibility Must Align | Alle's ClinX",
+  "meta_description": "A cleaning product can only be suitable when its labeled use and the material limits of the surface or equipment are compatible."
+}
