@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0232",
+  "slug": "what-is-ghs-hazard-communication",
+  "subcategory": "GHS & Hazard Communication",
+  "subcategory_slug": "ghs-hazard-communication",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0229",
+    "ACX-KB-0230"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is GHS Hazard Communication?",
+  "excerpt": "GHS is a United Nations framework for classifying chemical hazards and communicating them through harmonized label elements and safety data sheets; jurisdictions adopt it through their own rules.",
+  "content_html": "<p>The Globally Harmonized System of Classification and Labelling of Chemicals (GHS) is a United Nations framework for classifying chemical hazards and communicating those hazards through consistent label elements and Safety Data Sheets (SDSs).</p>\n<h2 id=\"framework\">GHS is a framework, not one worldwide law</h2><p>The UN publishes the GHS as a model system. Countries and regions decide how to adopt it into their own laws and regulations, so exact legal requirements, transition dates and adopted revision levels can differ by jurisdiction.</p>\n<h2 id=\"classification\">It starts with hazard classification</h2><p>GHS provides criteria for classifying physical, health and environmental hazards. Once a chemical or mixture is classified, the classification drives the hazard communication elements associated with that class and category.</p>\n<h2 id=\"labels\">It standardizes core label elements</h2><p>GHS uses harmonized concepts such as product identifiers, signal words, hazard statements, pictograms and precautionary statements. National implementations may specify how these elements are used and what additional supplier information is required.</p>\n<h2 id=\"sds\">It also harmonizes Safety Data Sheets</h2><p>GHS supports a standardized SDS structure so hazard, composition, first-aid, handling, storage, exposure-control and other technical information can be organized in a predictable format.</p>\n<h2 id=\"understanding\">The goal is understandable hazard information</h2><p>The system is designed to improve the availability and consistency of chemical-hazard information for workers, emergency responders, regulators, transport systems and supply chains.</p>\n<h2 id=\"revisions\">GHS is revised over time</h2><p>The UN updates the GHS periodically. The eleventh revised edition, published in 2025, is the most recent UN edition as of 2026. A jurisdiction may still legally implement an earlier revision.</p>\n<h2 id=\"united-states\">Example: the United States</h2><p>OSHA's Hazard Communication Standard is GHS-aligned but is a U.S. regulation, not the UN text itself. OSHA's 2024 final rule aligns the standard primarily with GHS Revision 7 and took effect on July 19, 2024, with phased compliance dates for affected parties.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>GHS provides the common language; local law determines the enforceable version. When reading a label or SDS, use the requirements and documents that apply in the relevant jurisdiction and workplace.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://unece.org/about-ghs\">UNECE — About the GHS</a>.</li><li id=\"ref-2\"><a href=\"https://unece.org/transport/documents/2025/09/standards/globally-harmonized-system-classification-and-labelling\">UNECE — GHS Revision 11</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/hazcom/rulemaking\">OSHA — Final Rule to Amend the Hazard Communication Standard</a>.</li></ol>",
+  "seo_title": "What Is GHS Hazard Communication? | Alle's ClinX",
+  "meta_description": "GHS is the UN framework for classifying chemical hazards and communicating them through harmonized label elements and safety data sheets."
+}
