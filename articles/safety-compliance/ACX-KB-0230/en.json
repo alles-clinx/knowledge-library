@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0230",
+  "slug": "why-product-labels-matter-at-the-point-of-use",
+  "subcategory": "Product Labels",
+  "subcategory_slug": "product-labels",
+  "related_article_ids": [
+    "ACX-KB-0229",
+    "ACX-KB-0231",
+    "ACX-KB-0232"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Product Labels Matter at the Point of Use",
+  "excerpt": "Product labels matter at the point of use because they keep product identity and essential hazard information physically connected to the container where work decisions are made.",
+  "content_html": "<p>Product labels matter at the point of use because they place essential identity and hazard information where the product is actually encountered. That immediate connection helps reduce guesswork and supports the wider hazard communication system.</p>\n<h2 id=\"identity\">They keep identity attached to the container</h2><p>The product identifier helps users distinguish one chemical product from another and connect the container to the correct SDS and workplace records. This becomes especially important where multiple products have similar packaging or names.</p>\n<h2 id=\"summary\">They provide an immediate hazard summary</h2><p>For shipped hazardous-chemical containers covered by OSHA, the label includes standardized elements such as a signal word, hazard statements, pictograms and precautionary statements. These elements give a concise summary before a user consults the more detailed SDS.</p>\n<h2 id=\"decisions\">They support safer decisions before work begins</h2><p>A visible label lets trained users confirm that the product, task and supporting documents match before proceeding under the facility's approved procedure. It also provides a prompt to stop and verify when something does not match.</p>\n<h2 id=\"workplace\">Workplace labeling extends the system</h2><p>OSHA requires workplace containers of hazardous chemicals to be labeled, tagged or marked, subject to specific exceptions and alternative methods in the standard. The goal is to keep hazard information available to employees in their work area.</p>\n<h2 id=\"legibility\">Legibility and visibility are part of effectiveness</h2><p>A technically correct label is less useful if it cannot be read. OSHA requires workplace labels or other warnings to be legible and prominently displayed on the container or otherwise readily available in the work area throughout the shift.</p>\n<h2 id=\"training\">Labels work with SDSs and training</h2><p>Labels are not the entire hazard communication program. SDSs provide more detailed technical information, while training helps workers understand the label system and the protective measures their workplace requires.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A point-of-use label is the fastest link between the physical container and the facility's safety information. Keeping that link clear, legible and current supports identification, verification and safer work decisions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200\">OSHA — 29 CFR 1910.1200 Hazard Communication</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication Overview</a>.</li></ol>",
+  "seo_title": "Why Product Labels Matter at Point of Use | Alle's ClinX",
+  "meta_description": "Product labels keep product identity and essential hazard information connected to the container where workplace decisions are made."
+}
