@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0221",
+  "slug": "what-is-a-technical-data-sheet",
+  "subcategory": "Technical Data Sheets — TDS",
+  "subcategory_slug": "tds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0222"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Technical Data Sheet?",
+  "excerpt": "A Technical Data Sheet (TDS) is manufacturer technical documentation that commonly summarizes product properties, intended applications and performance information; unlike an SDS, its format is not standardized by OSHA.",
+  "content_html": "<p>A Technical Data Sheet, or TDS, is a manufacturer-provided technical document used to summarize information about a product's properties, intended applications, performance characteristics or other technical details.</p>\n<h2 id=\"content\">TDS content varies by product and manufacturer</h2><p>A TDS may include product description, appearance, physical properties, compatible applications, storage information or performance data. The exact content and layout depend on the manufacturer and product type.</p>\n<h2 id=\"not-standardized\">There is no OSHA 16-section TDS format</h2><p>OSHA standardizes the structure of Safety Data Sheets under the Hazard Communication Standard. That same 16-section requirement does not define Technical Data Sheets.</p>\n<h2 id=\"technical\">A TDS is mainly a technical reference</h2><p>Its purpose is usually to help readers understand product characteristics and intended technical context. It can support specification, maintenance or product-documentation workflows.</p>\n<h2 id=\"not-sds\">A TDS does not replace an SDS</h2><p>If a hazardous chemical requires an SDS, the TDS is not a substitute for the regulated hazard-information document. Users should consult the SDS for workplace hazard communication.</p>\n<h2 id=\"not-label\">A TDS also does not replace the product label</h2><p>Where a label carries regulated directions or legal conditions of use, those requirements remain authoritative for the product.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A TDS explains technical product information; an SDS communicates standardized workplace hazards. They may complement each other, but they serve different purposes.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "What Is a Technical Data Sheet? | Alle's ClinX",
+  "meta_description": "A Technical Data Sheet (TDS) is manufacturer technical documentation that commonly summarizes product properties, intended applications and performance information; unlike an SDS, its format is not standardized by OSHA."
+}
