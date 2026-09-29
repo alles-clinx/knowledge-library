@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0222",
+  "slug": "tds-vs-sds",
+  "subcategory": "Technical Data Sheets — TDS",
+  "subcategory_slug": "tds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0221"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0222",
+  "title": "TDS और SDS में मुख्य अंतर",
+  "excerpt": "TDS manufacturer technical documentation है, जबकि SDS covered hazardous chemicals के लिए OSHA Hazard Communication framework का standardized workplace hazard-information document है.",
+  "content_html": "<p>Technical Data Sheet (TDS) और Safety Data Sheet (SDS) एक ही product के बारे में information दे सकते हैं, लेकिन उनकी documentation roles अलग हैं।</p>\n<h2 id=\"hi222-tds\">TDS: technical product information</h2><p>TDS आम तौर पर product properties, intended applications, performance characteristics और अन्य manufacturer technical information summarize करता है। इसका format vary कर सकता है।</p>\n<h2 id=\"hi222-sds\">SDS: standardized hazard information</h2><p>SDS workplace hazard communication के लिए OSHA standardized 16-section structure follow करता है। Covered hazardous chemicals के लिए इसमें defined hazard, control और technical information categories होती हैं।</p>\n<h2 id=\"hi222-format\">Standardization अलग है</h2><p>OSHA SDS section headings और required information specify करता है। TDS उस OSHA-mandated 16-section structure का document नहीं है।</p>\n<h2 id=\"hi222-purpose\">Purpose अलग है</h2><p>TDS primarily technical-reference document है। SDS hazard communication, worker access to safety information और workplace chemical-safety programs support करता है।</p>\n<h2 id=\"hi222-label\">दोनों product label को automatically replace नहीं करते</h2><p>Product label container-level information का direct source रहता है, और regulated labels legally enforceable use conditions रख सकते हैं।</p>\n<h2 id=\"hi222-takeaway\">मुख्य बात</h2><p>TDS technical product context के लिए और SDS standardized workplace hazard information के लिए use होता है। जहाँ दोनों हों, वे same exact product और current documentation set से correspond करने चाहिए।</p>\n<h2 id=\"hi222-references\">संदर्भ</h2><ol><li id=\"hi222-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"hi222-ref-2\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "TDS और SDS में मुख्य अंतर | Alle's ClinX",
+  "meta_description": "TDS manufacturer technical documentation है, जबकि SDS covered hazardous chemicals के लिए OSHA Hazard Communication framework का standardized workplace hazard-information document है."
+}
