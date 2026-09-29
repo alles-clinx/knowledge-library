@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0219",
+  "slug": "how-to-read-the-main-sections-of-an-sds",
+  "subcategory": "Safety Data Sheets — SDS",
+  "subcategory_slug": "sds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0222"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0219",
+  "title": "SDS के Main Sections कैसे समझें",
+  "excerpt": "16-section SDS format chemical identity, hazards, controls, physical properties और अन्य information को consistent sequence में organize करता है.",
+  "content_html": "<p>OSHA standardized SDS format 16 numbered sections use करता है। यह sequence workplace users को information consistently locate करने में मदद करता है, लेकिन SDS को isolated sections के बजाय complete product-specific document की तरह समझना चाहिए।</p>\n<h2 id=\"hi219-s1\">Sections 1–4: identity और immediate hazards</h2><p>Section 1 product और supplier identify करता है। Section 2 hazard identification summarize करता है। Section 3 composition/ingredient information देता है। Section 4 first-aid information रखता है।</p>\n<h2 id=\"hi219-s5\">Sections 5–8: incident response और exposure control</h2><p>Section 5 firefighting information, Section 6 accidental-release information, Section 7 handling and storage, और Section 8 exposure controls तथा personal protection cover करता है।</p>\n<h2 id=\"hi219-s9\">Sections 9–11: technical hazard information</h2><p>Section 9 physical and chemical properties, Section 10 stability and reactivity, और Section 11 toxicological information cover करता है।</p>\n<h2 id=\"hi219-s12\">Sections 12–15: environmental और regulatory topics</h2><p>इन sections में ecological information, disposal considerations, transport information और regulatory information आते हैं। ये standardized format का हिस्सा हैं, हालांकि OSHA इनके content को enforce नहीं करता।</p>\n<h2 id=\"hi219-s16\">Section 16: other information</h2><p>Section 16 other information और preparation/last revision date जैसी details रखता है। इससे current document identify करने में मदद मिल सकती है।</p>\n<h2 id=\"hi219-use\">SDS reference है, training का substitute नहीं</h2><p>Workers को employer hazard-communication program, training और approved procedures follow करने चाहिए। केवल section headings पढ़ना product-specific instruction को replace नहीं करता।</p>\n<h2 id=\"hi219-references\">संदर्भ</h2><ol><li id=\"hi219-ref-1\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li><li id=\"hi219-ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "SDS के Main Sections कैसे समझें | Alle's ClinX",
+  "meta_description": "16-section SDS format chemical identity, hazards, controls, physical properties और अन्य information को consistent sequence में organize करता है."
+}
