@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Trust &amp; Security | Alle's ClinX</title>
+<meta name="description" content="Trust and security principles for the Alle's ClinX Knowledge GitHub Pages website.">
+<link rel="canonical" href="https://alles-clinx.github.io/knowledge-library/trust-security/">
+<link rel="manifest" href="/knowledge-library/manifest.webmanifest">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/knowledge-library/assets/site.css">
+<link rel="stylesheet" href="/knowledge-library/assets/legal.css">
+<script src="/knowledge-library/assets/site.js" defer></script>
+</head>
+<body class="legal-page">
+<main class="legal-shell">
+  <header class="legal-intro">
+    <p class="legal-eyebrow">Legal</p>
+    <h1>Trust & Security</h1>
+    <p>This page describes the trust and security principles applied to the Alle's ClinX Knowledge publishing experience, including its static architecture, browser-side search, offline caching, external links, and correction process.</p>
+    <div class="legal-scope-note">It does not claim a certification, penetration-test result, or security guarantee. Separate Alle's ClinX commercial systems may use different infrastructure and controls.</div>
+  </header>
+  <section class="legal-accordion" aria-label="Trust &amp; Security sections">
+    <details>
+    <summary><span class="legal-number">01</span><span class="legal-title">Static publishing architecture</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge is published as static site content. Reading an article does not require a Knowledge account, server-side profile, shopping cart, or payment flow. This reduces the amount of application state the Knowledge front end needs to handle.</p></div>
+  </details>
+<details>
+    <summary><span class="legal-number">02</span><span class="legal-title">Transport and hosting</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>The live GitHub Pages site is delivered over HTTPS. Hosting, network delivery, and platform-level protections are provided in part by GitHub and related infrastructure, subject to their own security controls and terms.</p></div>
+  </details>
+<details>
+    <summary><span class="legal-number">03</span><span class="legal-title">Search and local processing</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge search loads a static index and performs ranking in the browser. The site does not need a dedicated Alle's ClinX search server to receive each search phrase.</p><p>This design limits the number of moving parts involved in ordinary Knowledge discovery.</p></div>
+  </details>
+<details>
+    <summary><span class="legal-number">04</span><span class="legal-title">Offline cache</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>A service worker can cache site assets and previously visited content for offline access. Cached content may remain on a device until the browser evicts it or the user clears site data.</p><p>Users working on shared devices should clear browser site data if local persistence is not appropriate for their environment.</p></div>
+  </details>
+<details>
+    <summary><span class="legal-number">05</span><span class="legal-title">External services</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge links may open GitHub, allesclinx.com, email, documents, or other services. Security and data handling on those destinations depend on the service that receives the request. Check the destination before submitting credentials or sensitive information.</p></div>
+  </details>
+<details>
+    <summary><span class="legal-number">06</span><span class="legal-title">AI-assisted information</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>AI-assisted answers should be checked against current official source documents when the decision affects safety, compliance, product handling, or another consequential outcome. The AI & Data Use page describes this source-first approach in more detail.</p></div>
+  </details>
+<details>
+    <summary><span class="legal-number">07</span><span class="legal-title">Corrections and responsible reporting</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>If you find a security concern, broken access control, misleading content, or a document mismatch, report it privately with enough detail to reproduce the issue. Do not include passwords, access tokens, or unnecessary personal data in the report.</p></div>
+  </details>
+<details>
+    <summary><span class="legal-number">08</span><span class="legal-title">Security is an ongoing process</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>No website can promise absolute security or uninterrupted availability. We review the Knowledge code and content as the site changes, and we update published notices when a material change affects users.</p></div>
+  </details>
+  </section>
+  <section class="legal-meta-grid" aria-label="Legal contact and related policies">
+    <div class="legal-meta-block">
+      <h2>Contact</h2>
+      <p>Report Knowledge security or trust concerns to <a href="mailto:care@allesclinx.com">care@allesclinx.com</a>.</p>
+    </div>
+    <div class="legal-meta-block">
+      <h2>Related policies</h2>
+      <nav class="legal-policy-links" aria-label="Related legal policies">
+        <a href="/knowledge-library/privacy-policy/">Privacy</a><a href="/knowledge-library/terms-conditions/">Terms</a><a href="/knowledge-library/cookie-policy/">Cookies</a><a href="/knowledge-library/ai-data-use/">AI & Data Use</a><a href="/knowledge-library/accessibility/">Accessibility</a>
+      </nav>
+    </div>
+  </section>
+  <div class="legal-date"><span>Last updated: 30 September 2026</span><span>Effective from: 30 September 2026</span></div>
+</main>
+<div class="legal-bottom-brand" aria-hidden="true">Alle's ClinX</div>
+</body>
+</html>
