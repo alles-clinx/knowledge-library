@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0214",
+  "slug": "strongest-cleaner-not-always-best",
+  "subcategory": "Product Selection",
+  "subcategory_slug": "product-selection",
+  "related_article_ids": [
+    "ACX-KB-0211",
+    "ACX-KB-0212",
+    "ACX-KB-0215"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Strength Is Not a Product-Quality Scale",
+  "excerpt": "A more aggressive cleaning product is not automatically a better product; compatibility, task fit, safety and label-defined use matter more than perceived strength.",
+  "content_html": "<p>Cleaning products are designed for particular tasks, surfaces and use conditions. A product that appears more aggressive is not automatically better, because cleaning quality depends on whether the formulation fits the soil, surface and approved procedure.</p>\n<h2 id=\"strength\">“Strength” is not one technical property</h2><p>People may use the word “strong” to describe pH, solvent content, odour, concentration or visible reaction. These are different properties and none of them, by itself, measures overall cleaning quality.</p>\n<h2 id=\"compatibility\">Compatibility limits matter</h2><p>A formulation can remove soil and still be unsuitable if it affects a coating, metal, plastic, textile or other material. Surface compatibility is therefore part of successful cleaning, not an optional extra.</p>\n<h2 id=\"task\">Task fit matters</h2><p>Routine cleaning, stain removal, equipment care and regulated disinfection have different requirements. A product should be understood in the context of its intended task and label.</p>\n<h2 id=\"safety\">More aggressive chemistry can add safety constraints</h2><p>Products with different chemistries can have different handling, ventilation, storage and protective requirements. Those controls belong to the exact product and workplace procedure.</p>\n<h2 id=\"label\">Labels and approved programs are the reference point</h2><p>CDC guidance emphasizes manufacturer instructions, material compatibility and safe use. In workplaces, trained users should follow approved product lists rather than informal ideas about “strength.”</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Cleaning quality is about fit and control, not maximum aggressiveness. The relevant questions are whether the product matches the task, protects the surface and is used within its approved conditions.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html\">CDC — Cleaning Supplies and Equipment</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/ideal-disinfectant.html\">CDC — Properties of an Ideal Disinfectant</a>.</li></ol>",
+  "seo_title": "Cleaning Strength Is Not a Product-Quality Scale | Alle's ClinX",
+  "meta_description": "A more aggressive cleaning product is not automatically a better product; compatibility, task fit, safety and label-defined use matter more than perceived strength."
+}
