@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0216",
+  "slug": "product-surface-compatibility",
+  "subcategory": "Product Compatibility",
+  "subcategory_slug": "product-compatibility",
+  "related_article_ids": [
+    "ACX-KB-0215",
+    "ACX-KB-0217",
+    "ACX-KB-0204"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0216",
+  "title": "Product और Surface Compatibility क्यों Align होनी चाहिए",
+  "excerpt": "Cleaning product तभी suitable हो सकता है जब उसका labeled use और surface या equipment की material limits compatible हों.",
+  "content_html": "<p>Cleaning product soil और उसके नीचे की material दोनों पर act करता है। इसलिए successful cleaning के लिए product का labeled use surface या equipment की material limits के साथ align होना चाहिए।</p>\n<h2 id=\"hi216-materials\">Materials अलग तरह respond करते हैं</h2><p>Metals, coatings, stone, plastics, rubber, glass और textiles की moisture, pH, solvents, oxidising chemistry और repeated cleaning के प्रति resistance अलग हो सकती है।</p>\n<h2 id=\"hi216-damage\">Damage तुरंत दिखाई नहीं दे सकता</h2><p>कुछ compatibility problems repeated exposure से धीरे-धीरे develop होती हैं और बाद में dulling, corrosion, softening, cracking या finish loss के रूप में दिख सकती हैं।</p>\n<h2 id=\"hi216-label\">Product labels intended surfaces define करते हैं</h2><p>CDC users को disinfectant labels पढ़कर यह confirm करने की सलाह देता है कि product संबंधित surface type पर use हो सकता है। Manufacturer और equipment-care instructions additional material limits बताते हैं।</p>\n<h2 id=\"hi216-frequency\">Repeated use compatibility का हिस्सा है</h2><p>Occasional exposure tolerate करने वाली material frequent cleaning में अलग respond कर सकती है। इसलिए facility programs actual cleaning schedule और product दोनों consider करते हैं।</p>\n<h2 id=\"hi216-system\">Compatibility एक system property है</h2><p>Product, surface, cloth या tool, equipment और approved workflow आपस में interact करते हैं। Good compatibility का मतलब है कि ये elements unacceptable material damage या process failure के बिना साथ काम कर सकें।</p>\n<h2 id=\"hi216-takeaway\">मुख्य बात</h2><p>Product और surface compatibility expected use pattern में align होनी चाहिए। Exact labels और manufacturer care instructions इस alignment के appropriate references हैं।</p>\n<h2 id=\"hi216-references\">संदर्भ</h2><ol><li id=\"hi216-ref-1\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — When and How to Clean and Disinfect a Facility</a>.</li><li id=\"hi216-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li></ol>",
+  "seo_title": "Product और Surface Compatibility क्यों Align होनी चाहिए | Alle's ClinX",
+  "meta_description": "Cleaning product तभी suitable हो सकता है जब उसका labeled use और surface या equipment की material limits compatible हों."
+}
