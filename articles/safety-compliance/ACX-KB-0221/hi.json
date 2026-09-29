@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0221",
+  "slug": "what-is-a-technical-data-sheet",
+  "subcategory": "Technical Data Sheets — TDS",
+  "subcategory_slug": "tds",
+  "related_article_ids": [
+    "ACX-KB-0218",
+    "ACX-KB-0220",
+    "ACX-KB-0222"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0221",
+  "title": "Technical Data Sheet क्या होता है?",
+  "excerpt": "Technical Data Sheet (TDS) manufacturer technical documentation है जो product properties, intended applications और performance information summarize कर सकता है; SDS के unlike इसका format OSHA standardized नहीं करता.",
+  "content_html": "<p>Technical Data Sheet, यानी TDS, manufacturer-provided technical document है जो product properties, intended applications, performance characteristics और अन्य technical details summarize करता है।</p>\n<h2 id=\"hi221-content\">TDS content product और manufacturer के अनुसार बदलता है</h2><p>TDS में product description, appearance, physical properties, compatible applications, storage information या performance data हो सकता है। Exact content और layout manufacturer तथा product type पर depend करता है।</p>\n<h2 id=\"hi221-not-standardized\">TDS के लिए OSHA 16-section format नहीं है</h2><p>OSHA Hazard Communication Standard Safety Data Sheets की structure standardize करता है। वही 16-section requirement Technical Data Sheets पर लागू format नहीं है।</p>\n<h2 id=\"hi221-technical\">TDS mainly technical reference है</h2><p>इसका purpose आम तौर पर product characteristics और intended technical context explain करना है। यह specification, maintenance या product-documentation workflows support कर सकता है।</p>\n<h2 id=\"hi221-not-sds\">TDS, SDS को replace नहीं करता</h2><p>यदि hazardous chemical के लिए SDS required है, तो TDS regulated hazard-information document का substitute नहीं है। Workplace hazard communication के लिए SDS consult करना चाहिए।</p>\n<h2 id=\"hi221-not-label\">TDS product label को भी replace नहीं करता</h2><p>जहाँ label regulated directions या legal conditions of use रखता है, वे requirements product के लिए authoritative रहते हैं।</p>\n<h2 id=\"hi221-takeaway\">मुख्य बात</h2><p>TDS technical product information explain करता है; SDS standardized workplace hazards communicate करता है। दोनों complement कर सकते हैं, लेकिन अलग purposes serve करते हैं।</p>\n<h2 id=\"hi221-references\">संदर्भ</h2><ol><li id=\"hi221-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"hi221-ref-2\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "Technical Data Sheet क्या होता है? | Alle's ClinX",
+  "meta_description": "Technical Data Sheet (TDS) manufacturer technical documentation है जो product properties, intended applications और performance information summarize कर सकता है; SDS के unlike इसका format OSHA standardized नहीं करता."
+}
