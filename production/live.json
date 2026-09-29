@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "current_batch": "batch-049",
+  "current_batch": "batch-050",
   "live_article_ids": [
     "ACX-KB-0001",
     "ACX-KB-0002",
@@ -228,7 +228,12 @@
     "ACX-KB-0224",
     "ACX-KB-0225",
     "ACX-KB-0226",
-    "ACX-KB-0227"
+    "ACX-KB-0227",
+    "ACX-KB-0228",
+    "ACX-KB-0229",
+    "ACX-KB-0230",
+    "ACX-KB-0231",
+    "ACX-KB-0232"
   ],
   "completed_batches": [
     "batch-001",
@@ -278,7 +283,8 @@
     "batch-045",
     "batch-046",
     "batch-047",
-    "batch-048"
+    "batch-048",
+    "batch-049"
   ],
-  "note": "Batches 001-048 are live. Batch 049 is next; only QA-passed article IDs belong in live_article_ids."
+  "note": "Batches 001-049 are live. Batch 050 is next; only QA-passed article IDs belong in live_article_ids."
 }
