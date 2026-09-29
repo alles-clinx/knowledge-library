@@ -15,6 +15,28 @@ function articleUrl(record){
 }
 async function wait(ms=180){ await new Promise(r=>setTimeout(r,ms)); }
 
+async function assertMobileViewportIntegrity(page,label){
+  const result=await page.evaluate(()=>{
+    const root=document.documentElement;
+    const body=document.body;
+    const viewportWidth=window.innerWidth;
+    const documentWidth=Math.max(root.scrollWidth,body?.scrollWidth||0);
+    const header=document.querySelector('.acx-site-header');
+    const headerRect=header ? header.getBoundingClientRect() : null;
+    return {
+      viewportWidth,
+      documentWidth,
+      header:headerRect ? {left:headerRect.left,right:headerRect.right,width:headerRect.width} : null
+    };
+  });
+  assert(result.documentWidth<=result.viewportWidth+2,
+    label+' has horizontal page overflow: '+result.documentWidth+'px document vs '+result.viewportWidth+'px viewport');
+  if(result.header){
+    assert(result.header.left>=-1,label+' header extends past the left viewport edge');
+    assert(result.header.right<=result.viewportWidth+1,label+' header extends past the right viewport edge');
+  }
+}
+
 const browser = await chromium.launch({headless:true});
 try{
   const desktop = await browser.newContext({viewport:{width:1366,height:900}});
@@ -97,6 +119,31 @@ try{
   await mobile.close();
 
   assert(en,'No English live article found for interaction smoke test');
+
+  const mobileAuditRoutes=[
+    ['home',BASE],
+    ['category',new URL('library/cleaning-housekeeping/',BASE).href],
+    ['subcategory',new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href],
+    ['article',articleUrl(en)],
+    ['legal terms',new URL('terms-conditions/',BASE).href],
+    ['legal trust',new URL('trust-security/',BASE).href]
+  ];
+  for(const width of [320,360,390,430]){
+    const auditCtx=await browser.newContext({viewport:{width,height:844},isMobile:true,hasTouch:true});
+    const auditPage=await auditCtx.newPage();
+    for(const [label,url] of mobileAuditRoutes){
+      await auditPage.goto(url,{waitUntil:'networkidle'});
+      assert((await auditPage.locator('meta[name="viewport"]').getAttribute('content')||'').includes('width=device-width'),
+        label+' is missing a mobile viewport declaration');
+      await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
+      const h1=auditPage.locator('h1').first();
+      if(await h1.count()){
+        const box=await h1.boundingBox();
+        assert(!box || box.width<=width+1,label+' H1 exceeds the '+width+'px viewport');
+      }
+    }
+    await auditCtx.close();
+  }
 
   const articleCtx = await browser.newContext({viewport:{width:1366,height:900}});
   await articleCtx.grantPermissions(['clipboard-read','clipboard-write'], {origin:ORIGIN});
@@ -218,7 +265,7 @@ try{
   assert((new URL(ma.url())).hash==='#'+target,'Scroll navigation did not update the URL hash');
   await maCtx.close();
 
-  console.log('Interaction smoke test passed: header controls, install guidance, search, mobile menu, sliders, article tools, language tabs, text controls, share/copy/save/print, and mobile section navigation.');
+  console.log('Interaction smoke test passed: header controls, install guidance, search, mobile menu, sliders, article tools, language tabs, text controls, share/copy/save/print, mobile section navigation, and 320–430px viewport integrity across home, discovery, article, and legal pages.');
 } finally {
   await browser.close();
 }
