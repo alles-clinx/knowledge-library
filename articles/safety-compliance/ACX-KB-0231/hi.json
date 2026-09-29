@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0231",
+  "slug": "damaged-missing-product-labels",
+  "subcategory": "Product Labels",
+  "subcategory_slug": "product-labels",
+  "related_article_ids": [
+    "ACX-KB-0229",
+    "ACX-KB-0230",
+    "ACX-KB-0232"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0231",
+  "title": "Damaged या Missing Product Label: क्या Check करें",
+  "excerpt": "यदि professional cleaning-chemical label damaged या missing है, तो routine use जारी होने से पहले product identity, legibility, matching SDS और facility की approved relabeling process verify करें।",
+  "content_html": "<p>Damaged, unreadable या missing product label container और उसकी hazard information के बीच link तोड़ देता है। Priority reliable identification और hazard communication restore करना है, routine use जारी रखने से पहले।</p>\n<h2 id=\"hi231-identity\">पहले product identity positively verify करें</h2><p>Container shape, color, odor या memory को product identifier का substitute न मानें। Identity को facility के controlled records, intact original packaging या दूसरे approved documentation से verify किया जाना चाहिए।</p>\n<h2 id=\"hi231-legibility\">Existing label legible है या नहीं, check करें</h2><p>Label present हो लेकिन पढ़ा न जा सके तो वह अपना काम effectively नहीं कर रहा। OSHA workplace labels या warnings को legible और prominently displayed, या work area में readily available रखने की requirement रखता है।</p>\n<h2 id=\"hi231-sds\">Correct SDS से match करें</h2><p>Verified product identifier का use matching SDS confirm करने के लिए करें। Product identifier label, SDS और workplace chemical list के बीच cross-reference provide करने के लिए होता है।</p>\n<h2 id=\"hi231-incoming\">Incoming label बिना replacement के remove या deface न करें</h2><p>OSHA Hazard Communication Standard के तहत incoming hazardous-chemical containers के existing labels remove या deface नहीं किए जाने चाहिए, जब तक container को immediately required information से mark न किया जाए।</p>\n<h2 id=\"hi231-process\">Facility की approved relabeling process use करें</h2><p>Workplace labeling rules shipped-container labeling से अलग हो सकते हैं और कुछ facilities approved alternative workplace system use करती हैं। Replacement information accurate, consistent और traceable रखने के लिए site hazard communication program follow करें।</p>\n<h2 id=\"hi231-updates\">Information current है या नहीं, check करें</h2><p>Replacement label पर obsolete information copy नहीं करनी चाहिए। यदि नई significant hazard information जारी हुई है, तो applicable requirements के अनुसार current supplier या workplace documentation use होना चाहिए।</p>\n<h2 id=\"hi231-uncertain\">Identity uncertain रहे तो इसे stop condition मानें</h2><p>यदि container positively identify नहीं हो सकता, तो routine use जारी नहीं होना चाहिए। Facility की safety या supervisory process के through escalate करें ताकि container site की unknown-chemical या incident procedure के अनुसार handle हो।</p>\n<h2 id=\"hi231-takeaway\">मुख्य बात</h2><p>Key checks हैं: identity, legibility, SDS match, current hazard information और approved workplace relabeling method। Replacement label को container और safety documentation के बीच trustworthy connection restore करना चाहिए।</p>\n<h2 id=\"hi231-references\">संदर्भ</h2><ol><li id=\"hi231-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200\">OSHA — 29 CFR 1910.1200 Hazard Communication</a>.</li><li id=\"hi231-ref-2\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li></ol>",
+  "seo_title": "Damaged या Missing Product Label Checks | Alle's ClinX",
+  "meta_description": "Damaged या missing label में identity, legibility, SDS match, current hazard information और approved workplace relabeling process check करें।"
+}
