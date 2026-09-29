@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0226",
+  "slug": "sop-vs-checklist",
+  "subcategory": "Standard Operating Procedures — SOPs",
+  "subcategory_slug": "sops",
+  "related_article_ids": [
+    "ACX-KB-0224",
+    "ACX-KB-0225",
+    "ACX-KB-0227"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0226",
+  "title": "SOP और Checklist में मुख्य अंतर",
+  "excerpt": "SOP approved process और उसका context document करता है, जबकि checklist shorter verification tool है जो confirm करता है कि defined items या steps address हुए हैं.",
+  "content_html": "<p>SOP और checklist same workflow को support कर सकते हैं, लेकिन उनकी documentation roles अलग हैं। SOP approved process और context explain करता है; checklist defined items complete या review हुए हैं या नहीं, यह verify करने में मदद करता है।</p>\n<h2 id=\"hi226-sop\">SOP: controlled process reference</h2><p>SOP आम तौर पर recurring activity के scope, responsibilities, resources, sequence, safety references, records और document-control information explain करता है।</p>\n<h2 id=\"hi226-checklist\">Checklist: verification aid</h2><p>Checklist आम तौर पर shorter होती है। यह users को important items, conditions या steps address हुए हैं या नहीं, यह confirm करने के prompts देती है।</p>\n<h2 id=\"hi226-detail\">Detail level अलग होता है</h2><p>SOP fuller procedure और context carry करता है। Checklist normally इतनी information नहीं रखती कि procedure, training या manufacturer documentation को replace कर सके।</p>\n<h2 id=\"hi226-together\">दोनों साथ use हो सकते हैं</h2><p>Controlled SOP supporting form के रूप में checklist reference कर सकता है। Checklist key points review हुए हैं या नहीं, इसका evidence दे सकती है बिना पूरे SOP को duplicate किए।</p>\n<h2 id=\"hi226-control\">दोनों को document control चाहिए</h2><p>Formal quality या safety system में checklists use होने पर version control और active SOP से clear linkage outdated forms के use को रोकने में मदद करते हैं।</p>\n<h2 id=\"hi226-takeaway\">मुख्य बात</h2><p>SOP बताता है कि approved process कैसे defined है; checklist confirm करती है कि required points address हुए। एक को दूसरे का automatic substitute नहीं मानना चाहिए।</p>\n<h2 id=\"hi226-references\">संदर्भ</h2><ol><li id=\"hi226-ref-1\"><a href=\"https://www.epa.gov/quality/guidance-preparing-standard-operating-procedures\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li></ol>",
+  "seo_title": "SOP और Checklist में मुख्य अंतर | Alle's ClinX",
+  "meta_description": "SOP approved process और उसका context document करता है, जबकि checklist shorter verification tool है जो confirm करता है कि defined items या steps address हुए हैं."
+}

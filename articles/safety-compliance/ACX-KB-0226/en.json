@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0226",
+  "slug": "sop-vs-checklist",
+  "subcategory": "Standard Operating Procedures — SOPs",
+  "subcategory_slug": "sops",
+  "related_article_ids": [
+    "ACX-KB-0224",
+    "ACX-KB-0225",
+    "ACX-KB-0227"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "SOP vs Checklist: Key Differences",
+  "excerpt": "An SOP documents the approved process and its context, while a checklist is a shorter verification tool used to confirm that defined items or steps have been addressed.",
+  "content_html": "<p>An SOP and a checklist can support the same workflow, but they serve different documentation roles. The SOP explains the approved process and context; the checklist helps verify that defined items have been completed or reviewed.</p>\n<h2 id=\"sop\">SOP: the controlled process reference</h2><p>An SOP typically explains scope, responsibilities, resources, sequence, safety references, records and document-control information for a recurring activity.</p>\n<h2 id=\"checklist\">Checklist: a verification aid</h2><p>A checklist is usually shorter. It can prompt users to confirm that important items, conditions or steps have been addressed during or after the work.</p>\n<h2 id=\"detail\">The level of detail is different</h2><p>An SOP carries the fuller procedure and context. A checklist normally does not contain enough information to replace the procedure, training or manufacturer documentation.</p>\n<h2 id=\"together\">They can be used together</h2><p>A controlled SOP can reference a checklist as a supporting form. The checklist can then provide evidence that key points were reviewed without duplicating the entire SOP.</p>\n<h2 id=\"control\">Both still need document control</h2><p>Where checklists are part of a formal quality or safety system, version control and clear linkage to the active SOP help prevent outdated forms from being used.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>The SOP tells the organization how the approved process is defined; the checklist helps confirm that required points were addressed. One should not automatically be treated as a substitute for the other.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/quality/guidance-preparing-standard-operating-procedures\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li></ol>",
+  "seo_title": "SOP vs Checklist: Key Differences | Alle's ClinX",
+  "meta_description": "An SOP documents the approved process and its context, while a checklist is a shorter verification tool used to confirm that defined items or steps have been addressed."
+}

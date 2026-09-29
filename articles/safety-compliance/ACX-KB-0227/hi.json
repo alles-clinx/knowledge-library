@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0227",
+  "slug": "what-is-a-product-usage-guide",
+  "subcategory": "Usage Guides",
+  "subcategory_slug": "usage-guides",
+  "related_article_ids": [
+    "ACX-KB-0223",
+    "ACX-KB-0224",
+    "ACX-KB-0226"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0227",
+  "title": "Product Usage Guide क्या होता है?",
+  "excerpt": "Product usage guide supporting manufacturer या facility document है जो intended application context explain करता है और applicable label, SDS, TDS या SOP की ओर users को point करता है.",
+  "content_html": "<p>Product usage guide supporting document है जो users को product के intended use context को समझने में मदद करता है। इसका role explanatory है: इसे exact label, SDS, TDS या facility SOP को override नहीं करना चाहिए।</p>\n<h2 id=\"hi227-purpose\">Purpose orientation है</h2><p>Usage guide explain कर सकता है कि product किस context के लिए है, facility program में कहाँ fit होता है, कौन-सी surfaces या tasks intended scope में हैं और कौन-से दूसरे documents consult करने चाहिए।</p>\n<h2 id=\"hi227-identity\">Exact product identify होना चाहिए</h2><p>Product name, code या अन्य identifiers यह सुनिश्चित करने में मदद करते हैं कि users किसी अलग formulation या similarly named product की guidance apply न करें।</p>\n<h2 id=\"hi227-boundaries\">Boundaries clear होनी चाहिए</h2><p>Good guide explanatory information और controlling requirements में अंतर clear करता है। Regulated label directions, SDS की hazard information और facility SOP requirements applicable होने पर authoritative रहते हैं।</p>\n<h2 id=\"hi227-links\">Documentation set connect होना चाहिए</h2><p>Guide current SDS, TDS, product label, approved SOP और support contacts की ओर point कर सकता है ताकि product documentation coherent system की तरह काम करे।</p>\n<h2 id=\"hi227-revision\">Revision control जरूरी है</h2><p>दूसरे controlled documents की तरह usage guide में revision date या version identifier होना चाहिए ताकि users current document पहचान सकें।</p>\n<h2 id=\"hi227-training\">Training replace नहीं होती</h2><p>Usage guide orientation और refresher learning support कर सकता है, लेकिन workplace training, supervision और approved procedures जहाँ required हों वहाँ जरूरी रहते हैं।</p>\n<h2 id=\"hi227-references\">संदर्भ</h2><ol><li id=\"hi227-ref-1\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li><li id=\"hi227-ref-2\"><a href=\"https://www.epa.gov/quality/guidance-preparing-standard-operating-procedures\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li></ol>",
+  "seo_title": "Product Usage Guide क्या होता है? | Alle's ClinX",
+  "meta_description": "Product usage guide supporting manufacturer या facility document है जो intended application context explain करता है और applicable label, SDS, TDS या SOP की ओर users को point करता है."
+}

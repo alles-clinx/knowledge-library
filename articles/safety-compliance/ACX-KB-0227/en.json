@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0227",
+  "slug": "what-is-a-product-usage-guide",
+  "subcategory": "Usage Guides",
+  "subcategory_slug": "usage-guides",
+  "related_article_ids": [
+    "ACX-KB-0223",
+    "ACX-KB-0224",
+    "ACX-KB-0226"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Product Usage Guide?",
+  "excerpt": "A product usage guide is a supporting manufacturer or facility document that explains the intended application context and points users to the controlling label, SDS, TDS or SOP where applicable.",
+  "content_html": "<p>A product usage guide is a supporting document that helps users understand the intended context in which a product is used. Its role is explanatory: it should organize product information without overriding the exact label, SDS, TDS or facility SOP.</p>\n<h2 id=\"purpose\">Its purpose is orientation</h2><p>A usage guide can explain what the product is for, where it fits in a facility program, which surfaces or tasks are within its intended scope and which other documents should be consulted.</p>\n<h2 id=\"identity\">It should identify the exact product</h2><p>Product name, code or other identifiers help ensure that users do not apply guidance from a different formulation or similarly named product.</p>\n<h2 id=\"boundaries\">It should make boundaries clear</h2><p>A good guide distinguishes explanatory information from controlling requirements. Regulated label directions, hazard information in the SDS and facility SOP requirements remain authoritative where applicable.</p>\n<h2 id=\"links\">It should connect the documentation set</h2><p>The guide can point users to the current SDS, TDS, product label, approved SOP and support contacts so the product documentation works as a coherent system.</p>\n<h2 id=\"revision\">It needs revision control</h2><p>Like other controlled documents, a usage guide should have a revision date or version identifier so users can recognize whether the document is current.</p>\n<h2 id=\"training\">It does not replace training</h2><p>A usage guide can support orientation and refresher learning, but workplace training, supervision and approved procedures remain necessary for tasks that require them.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/hazcom/faq\">OSHA — Hazard Communication Questions and Answers</a>.</li><li id=\"ref-2\"><a href=\"https://www.epa.gov/quality/guidance-preparing-standard-operating-procedures\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li></ol>",
+  "seo_title": "What Is a Product Usage Guide? | Alle's ClinX",
+  "meta_description": "A product usage guide is a supporting manufacturer or facility document that explains the intended application context and points users to the controlling label, SDS, TDS or SOP where applicable."
+}

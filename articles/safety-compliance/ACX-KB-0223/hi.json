@@ -1,0 +1,27 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0223",
+  "slug": "cleaning-chemical-tds-contents",
+  "subcategory": "Technical Data Sheets — TDS",
+  "subcategory_slug": "tds",
+  "related_article_ids": [
+    "ACX-KB-0221",
+    "ACX-KB-0222",
+    "ACX-KB-0227"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0223",
+  "title": "Cleaning-Chemical TDS में क्या होना चाहिए?",
+  "excerpt": "Cleaning-chemical TDS आम तौर पर product identity, technical properties, intended applications, compatibility notes और document-control information summarize करता है; regulated hazard communication SDS का role रहता है.",
+  "content_html": "<p>Cleaning-chemical Technical Data Sheet (TDS) manufacturer का technical-reference document होता है। इसका format OSHA द्वारा SDS की तरह standardize नहीं किया गया है, इसलिए exact contents product और manufacturer के अनुसार बदल सकते हैं।</p>\n<h2 id=\"hi223-identity\">Product identity और document control</h2><p>Useful TDS में product, manufacturer या supplier, document title, revision date और version-control information clearly identify होनी चाहिए ताकि reader सही product और document edition पहचान सके।</p>\n<h2 id=\"hi223-description\">Technical description</h2><p>Document product का intended technical role, general appearance, product class और specification या maintenance workflows के लिए relevant अन्य non-hazard information summarize कर सकता है।</p>\n<h2 id=\"hi223-properties\">Relevant technical properties</h2><p>Product के अनुसार TDS selected physical या performance characteristics present कर सकता है जो trained users को intended technical context समझने में मदद करें।</p>\n<h2 id=\"hi223-applications\">Intended applications और compatibility context</h2><p>TDS उन applications या materials का context बता सकता है जिनके लिए product design किया गया है और relevant compatibility limits या manufacturer care considerations highlight कर सकता है।</p>\n<h2 id=\"hi223-crossrefs\">Authoritative documents के cross-references</h2><p>TDS Safety Data Sheet या exact product label को replace नहीं करता। जहाँ ये documents apply होते हैं, hazard information, regulated directions और workplace safety requirements के लिए users को उन्हीं documents पर जाना चाहिए।</p>\n<h2 id=\"hi223-control\">Revision और traceability</h2><p>Revision dates और product identifiers obsolete technical information के use से बचने में मदद करते हैं। Product specifications बदलने पर document-control fields खास तौर पर useful होते हैं।</p>\n<h2 id=\"hi223-takeaway\">मुख्य बात</h2><p>Good TDS technical product information को identify और trace करना आसान बनाता है। यह SDS, label या facility SOP को complement करता है, replace नहीं।</p>\n<h2 id=\"hi223-references\">संदर्भ</h2><ol><li id=\"hi223-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200AppD\">OSHA — Appendix D: Safety Data Sheets</a>.</li><li id=\"hi223-ref-2\"><a href=\"https://www.osha.gov/Publications/OSHA3514.html\">OSHA — Hazard Communication Standard: Safety Data Sheets</a>.</li></ol>",
+  "seo_title": "Cleaning-Chemical TDS में क्या होना चाहिए? | Alle's ClinX",
+  "meta_description": "Cleaning-chemical TDS आम तौर पर product identity, technical properties, intended applications, compatibility notes और document-control information summarize करता है; regulated hazard communication SDS का role रहता है."
+}

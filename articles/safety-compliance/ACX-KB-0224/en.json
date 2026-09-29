@@ -1,0 +1,25 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0224",
+  "slug": "what-is-a-cleaning-sop",
+  "subcategory": "Standard Operating Procedures — SOPs",
+  "subcategory_slug": "sops",
+  "related_article_ids": [
+    "ACX-KB-0225",
+    "ACX-KB-0226",
+    "ACX-KB-0227"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Cleaning SOP?",
+  "excerpt": "A cleaning SOP is a controlled set of written instructions that documents how a routine cleaning activity is organized and carried out within a specific facility or program.",
+  "content_html": "<p>A cleaning Standard Operating Procedure (SOP) is a controlled set of written instructions for a routine or repetitive cleaning activity. EPA describes SOPs as written instructions that document recurring work so it can be performed consistently.</p>\n<h2 id=\"scope\">A cleaning SOP defines scope</h2><p>The SOP should make clear which area, equipment, surface or activity it covers and which personnel or roles are responsible for the work.</p>\n<h2 id=\"resources\">It identifies required resources</h2><p>Environmental-cleaning SOPs commonly identify the approved supplies, equipment and protective requirements associated with the task. Product-specific details should come from the exact manufacturer documentation and facility program.</p>\n<h2 id=\"sequence\">It documents the approved work sequence</h2><p>The SOP records the order in which the facility expects the work to be performed. CDC guidance emphasizes ordered cleaning steps, preparation requirements and close-out steps in environmental-cleaning SOPs.</p>\n<h2 id=\"safety\">Safety controls belong in the SOP framework</h2><p>The document can point to the relevant product labels, SDSs, PPE requirements, training and escalation procedures rather than relying on memory or informal practice.</p>\n<h2 id=\"control\">SOPs need document control</h2><p>Effective SOP systems use identifiers, revision dates, approvals and current controlled copies so staff can distinguish the active procedure from an obsolete version.</p>\n<h2 id=\"training\">An SOP supports training but does not replace it</h2><p>Workers still need training and supervision appropriate to the task. The SOP provides the documented reference for the approved method.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.epa.gov/quality/guidance-preparing-standard-operating-procedures\">US EPA — Guidance for Preparing Standard Operating Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Environmental Cleaning Programs</a>.</li></ol>",
+  "seo_title": "What Is a Cleaning SOP? | Alle's ClinX",
+  "meta_description": "A cleaning SOP is a controlled set of written instructions that documents how a routine cleaning activity is organized and carried out within a specific facility or program."
+}
