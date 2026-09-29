@@ -1,0 +1,27 @@
+{
+  "category": "Cleaning Chemistry",
+  "category_slug": "cleaning-chemistry",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0217",
+  "slug": "contact-time-frequency-material-compatibility",
+  "subcategory": "Product Compatibility",
+  "subcategory_slug": "product-compatibility",
+  "related_article_ids": [
+    "ACX-KB-0215",
+    "ACX-KB-0216",
+    "ACX-KB-0212"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0217",
+  "title": "Contact Time, Frequency और Material Compatibility",
+  "excerpt": "Contact time और cleaning frequency label- तथा process-defined conditions हैं जो intended performance और long-term material compatibility दोनों को प्रभावित कर सकते हैं.",
+  "content_html": "<p>Material compatibility केवल इस पर निर्भर नहीं करती कि कौन-सा product use हुआ, बल्कि इस पर भी कि material कितनी बार expose हुआ और product किन label-defined conditions में use हुआ। इसलिए contact time और frequency compatibility context का हिस्सा हैं।</p>\n<h2 id=\"hi217-contact\">Contact time product-specific होता है</h2><p>CDC contact time को वह अवधि define करता है जिसमें disinfectant labeled disinfection process के लिए surface या device के contact में रहता है। सही condition exact product directions से आती है।</p>\n<h2 id=\"hi217-frequency\">Frequency cumulative exposure बदलती है</h2><p>Occasional cleaning और workday में कई बार cleaning अलग exposure patterns बनाते हैं। Repeated exposure coatings, plastics, seals, metals और finishes के लिए relevant हो सकता है।</p>\n<h2 id=\"hi217-material\">Material limits महत्वपूर्ण रहती हैं</h2><p>Surface या equipment manufacturer restrictions या care requirements specify कर सकता है जिन्हें cleaning product label के साथ consider करना चाहिए।</p>\n<h2 id=\"hi217-process\">पूरा process align होना चाहिए</h2><p>Facility procedures product, surface, equipment, cleaning schedule और required follow-up steps को align करें। Users को approved procedure से बाहर longer exposure या more frequent chemical use improvise नहीं करना चाहिए।</p>\n<h2 id=\"hi217-monitoring\">Material condition changes maintenance signals हो सकते हैं</h2><p>Dulling, cracking, swelling, corrosion या finish loss compatibility या maintenance issue का संकेत हो सकता है जिसे facility के approved process से review करना चाहिए।</p>\n<h2 id=\"hi217-takeaway\">मुख्य बात</h2><p>Contact time और frequency controlled conditions हैं, performance shortcuts नहीं। Compatibility exact product label और material-care guidance को expected use pattern में follow करने पर निर्भर करती है।</p>\n<h2 id=\"hi217-references\">संदर्भ</h2><ol><li id=\"hi217-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/definitions.html\">CDC — Environmental Cleaning Definitions</a>.</li><li id=\"hi217-ref-2\"><a href=\"https://www.cdc.gov/infection-control/hcp/core-practices/\">CDC — Core Infection Prevention and Control Practices</a>.</li><li id=\"hi217-ref-3\"><a href=\"https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-a-facility.html\">CDC — Facility Cleaning and Disinfection Guidance</a>.</li></ol>",
+  "seo_title": "Contact Time, Frequency और Material Compatibility | Alle's ClinX",
+  "meta_description": "Contact time और cleaning frequency label- तथा process-defined conditions हैं जो intended performance और long-term material compatibility दोनों को प्रभावित कर सकते हैं."
+}
