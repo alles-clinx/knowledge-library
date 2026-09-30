@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20260927-v2-header';
+const VERSION='acx-knowledge-pwa-20260930-v3-icon';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);
@@ -10,7 +10,6 @@ const PRECACHE=[
   asset('assets/site.css'),
   asset('assets/site.js'),
   asset('assets/live-search.json'),
-  asset('assets/favicon.png'),
   asset('assets/favicon.svg'),
   asset('assets/app-icon.svg')
 ];
