@@ -111,6 +111,7 @@
                 '<a href="'+BASE+'library/safety-compliance/">Safety &amp; Compliance</a>'+
                 '<a href="'+BASE+'library/alles-clinx/">Tools &amp; Support</a>'+
                 '<a href="'+BASE+'about/tools/">About digital tools</a>'+
+                '<a href="'+BASE+'sitemap/">Sitemap</a>'+
               '</nav>'+
             '</section>'+
             '<section class="acx-footer-group" aria-labelledby="acx-footer-legal">'+

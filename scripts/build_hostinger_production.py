@@ -89,7 +89,7 @@ for path in OUT.rglob("*"):
 # can otherwise keep serving an old precached CSS/JS file after deployment.
 asset_versions = {
     name: hashlib.sha256((OUT / "assets" / name).read_bytes()).hexdigest()[:12]
-    for name in ("site.css", "site.js", "discovery.css", "legal.css")
+    for name in ("site.css", "site.js", "discovery.css", "legal.css", "sitemap.js")
 }
 for page_path in OUT.rglob("*.html"):
     page = page_path.read_text(encoding="utf-8")

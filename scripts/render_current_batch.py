@@ -192,4 +192,52 @@ for live_id in LIVE.get("live_article_ids", []):
     encoding="utf-8"
 )
 
+def write_xml_sitemap():
+    base = "https://alles-clinx.github.io/knowledge-library/"
+    static_paths = [
+        "",
+        "about/",
+        "about/knowledge/",
+        "about/tools/",
+        "about/nova/",
+        "about/metricon/",
+        "about/checkmate/",
+        "sitemap/",
+        "privacy-policy/",
+        "terms-conditions/",
+        "cookie-policy/",
+        "ai-data-use/",
+        "accessibility/",
+        "trust-security/",
+    ]
+    urls = [base + path for path in static_paths]
+
+    live_meta = [BY_ID[article_id] for article_id in LIVE.get("live_article_ids", []) if article_id in BY_ID]
+    seen_categories = set()
+    seen_topics = set()
+    for meta in live_meta:
+        cat = meta["category_slug"]
+        topic = meta["subcategory_slug"]
+        if cat not in seen_categories:
+            urls.append(base + f"library/{cat}/")
+            seen_categories.add(cat)
+        topic_key = (cat, topic)
+        if topic_key not in seen_topics:
+            urls.append(base + f"library/{cat}/{topic}/")
+            seen_topics.add(topic_key)
+        article_path = f"library/{cat}/{topic}/{meta['slug']}/"
+        urls.append(base + article_path)
+        source_dir = ROOT / "articles" / cat / meta["article_id"]
+        if (source_dir / "hi.json").exists():
+            urls.append(base + article_path + "hi.html")
+
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for url in dict.fromkeys(urls):
+        xml.append(f"  <url><loc>{html.escape(url)}</loc></url>")
+    xml.append("</urlset>")
+    (ROOT / "docs" / "sitemap.xml").write_text("\n".join(xml) + "\n", encoding="utf-8")
+
+write_xml_sitemap()
+
 print(f"Rendered {rendered} pages for {current}.")
