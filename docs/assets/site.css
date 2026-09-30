@@ -725,7 +725,7 @@ body.acx-menu-open::before{
 .acx-mobile-drawer .acx-mobile-drawer-foot a{color:#eee!important;font-weight:550}
 
 /* The home index stays spare, but no longer reads as an empty template. */
-.knowledge-home .page{padding-top:54px}
+.knowledge-home .page{padding-top:72px}
 .knowledge-home h1{font-size:clamp(42px,4.2vw,58px);line-height:1.04;font-weight:620}
 .knowledge-home .hero p{max-width:690px;margin-top:16px;font-size:18px;line-height:1.55}
 .knowledge-home .search{margin-top:30px}
@@ -761,7 +761,7 @@ body.acx-menu-open::before{
   .acx-mobile-section,.acx-mobile-company-section{margin-top:25px}
   .acx-mobile-knowledge-nav a,.acx-mobile-nav a{min-height:46px;font-size:15.5px}
   .acx-mobile-drawer-foot{padding-top:24px}
-  .knowledge-home .page{padding-top:30px}
+  .knowledge-home .page{padding-top:46px}
   .knowledge-home h1{font-size:40px;line-height:1.04}
   .knowledge-home .hero p{font-size:16px;line-height:1.5}
   .knowledge-home .search{margin-top:24px}
