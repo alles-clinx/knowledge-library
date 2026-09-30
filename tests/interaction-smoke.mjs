@@ -124,6 +124,12 @@ try{
     ['home',BASE],
     ['category',new URL('library/cleaning-housekeeping/',BASE).href],
     ['subcategory',new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href],
+    ['about index',new URL('about/',BASE).href],
+    ['about knowledge',new URL('about/knowledge/',BASE).href],
+    ['about tools',new URL('about/tools/',BASE).href],
+    ['about nova',new URL('about/nova/',BASE).href],
+    ['about metricon',new URL('about/metricon/',BASE).href],
+    ['about checkmate',new URL('about/checkmate/',BASE).href],
     ['article',articleUrl(en)],
     ['legal terms',new URL('terms-conditions/',BASE).href],
     ['legal privacy',new URL('privacy-policy/',BASE).href],
@@ -154,6 +160,9 @@ try{
       const footerTarget=auditPage.locator('#acx-site-footer .acx-footer-nav a').first();
       const footerTargetBox=await footerTarget.boundingBox();
       assert(!footerTargetBox || footerTargetBox.height>=40,label+' footer link target is too small on mobile');
+      if(label.startsWith('about ')){
+        assert(await auditPage.locator('.acx-depth-section').count()>=1,label+' is missing deeper editorial content');
+      }
     }
     await auditCtx.close();
   }
