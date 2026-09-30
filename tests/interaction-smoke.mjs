@@ -51,6 +51,14 @@ try{
   assert(await page.locator('.acx-search-button').isVisible(),'Desktop Search button is not visible');
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
   assert(await page.locator('.acx-menu-button').isVisible(),'Desktop Menu button is missing');
+  assert(await page.locator('.acx-skip-link').count()===1,'Skip-to-content link is missing');
+  assert(await page.locator('#main-content').count()===1,'Main content target is missing');
+  assert((await page.locator('#acx-site-footer a').first().getAttribute('aria-current'))==='page','Home footer link is not marked current');
+  await page.locator('.acx-skip-link').focus();
+  assert(await page.locator('.acx-skip-link').isVisible(),'Skip-to-content link is not visible on focus');
+  await page.keyboard.press('Enter');
+  await wait(80);
+  assert(await page.locator('#main-content').evaluate(el=>el===document.activeElement),'Skip-to-content did not move focus to main content');
   const installButton=page.locator('.acx-install-app');
   assert(await installButton.isVisible(),'Desktop Install button is not visible');
   await installButton.click();
@@ -66,18 +74,25 @@ try{
   await page.keyboard.press('Escape');
   assert((await page.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Desktop menu did not close');
 
-  await page.locator('.acx-search-button').click();
+  const desktopSearchButton=page.locator('.acx-search-button');
+  await desktopSearchButton.click();
   assert(await page.locator('.acx-search-dialog.is-open').isVisible(),'Search dialog did not open');
   await page.locator('.acx-search-input').fill('stainless');
   await wait(250);
   assert(await page.locator('.acx-search-result').count()>0,'Search produced no results');
+  const lastSearchResult=page.locator('.acx-search-result').last();
+  await lastSearchResult.focus();
+  await page.keyboard.press('Tab');
+  assert(await page.locator('.acx-search-input').evaluate(el=>el===document.activeElement),'Search dialog keyboard loop did not return to the first control');
   await page.locator('.acx-search-close').click();
   assert(!(await page.locator('.acx-search-dialog').isVisible()),'Search close button did not close the dialog');
+  assert(await desktopSearchButton.evaluate(el=>el===document.activeElement),'Search did not restore focus to its trigger');
 
-  await page.locator('.acx-search-button').click();
+  await desktopSearchButton.click();
   assert(await page.locator('.acx-search-dialog.is-open').isVisible(),'Search dialog did not reopen');
   await page.keyboard.press('Escape');
   assert(!(await page.locator('.acx-search-dialog').isVisible()),'Search dialog did not close with Escape');
+  assert(await desktopSearchButton.evaluate(el=>el===document.activeElement),'Escape did not restore search trigger focus');
 
   const next=page.locator('[data-slider-next]').first();
   if(await next.count()){
@@ -120,6 +135,7 @@ try{
   assert((await mp.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Mobile drawer did not close when search opened');
   await mp.keyboard.press('Escape');
   assert(!(await mp.locator('.acx-search-dialog').isVisible()),'Mobile search did not close with Escape');
+  assert(await mp.locator('.acx-menu-button').evaluate(el=>el===document.activeElement),'Mobile search did not restore focus to Menu after closing');
   await mobile.close();
 
   assert(en,'No English live article found for interaction smoke test');
@@ -150,6 +166,10 @@ try{
       await auditPage.goto(url,{waitUntil:'networkidle'});
       assert((await auditPage.locator('meta[name="viewport"]').getAttribute('content')||'').includes('width=device-width'),
         label+' is missing a mobile viewport declaration');
+      assert(await auditPage.locator('.acx-skip-link').count()===1,label+' is missing the shared skip link');
+      assert(await auditPage.locator('#main-content').count()===1,label+' is missing the shared main target');
+      const scrollPadding=parseFloat(await auditPage.locator('html').evaluate(el=>getComputedStyle(el).scrollPaddingTop));
+      assert(scrollPadding>0,label+' is missing fixed-header scroll padding');
       await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
       const h1=auditPage.locator('h1').first();
       if(await h1.count()){
@@ -172,6 +192,7 @@ try{
         assert(await auditPage.locator('#acx-sitemap-filter').count()===1,'sitemap filter is missing');
         assert(await auditPage.locator('.acx-sitemap-live-link').count()>0,'sitemap did not render live article links');
         assert((await auditPage.locator('#acx-sitemap-count').textContent()).includes('live English article'),'sitemap live count did not resolve');
+        assert((await auditPage.locator('#acx-site-footer a[href$="sitemap/"]').getAttribute('aria-current'))==='page','sitemap footer link is not marked current');
       }
     }
     await auditCtx.close();

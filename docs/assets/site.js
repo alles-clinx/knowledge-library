@@ -16,6 +16,39 @@
 
   const BASE='/knowledge-library/';
 
+  function normalizedPath(value){
+    const path=String(value||'/').split('?')[0].split('#')[0];
+    return path.replace(/\/+$/,'/') || '/';
+  }
+
+  const mainContent=document.querySelector('main');
+  if(mainContent){
+    if(!mainContent.id) mainContent.id='main-content';
+    if(!mainContent.hasAttribute('tabindex')) mainContent.setAttribute('tabindex','-1');
+    const skipLink=document.createElement('a');
+    skipLink.className='acx-skip-link';
+    skipLink.href='#'+mainContent.id;
+    skipLink.textContent='Skip to main content';
+    skipLink.addEventListener('click',function(){
+      requestAnimationFrame(function(){mainContent.focus({preventScroll:true});});
+    });
+    document.body.insertAdjacentElement('afterbegin',skipLink);
+  }
+
+  function syncSharedCurrentLinks(){
+    const current=normalizedPath(window.location.pathname);
+    document.querySelectorAll('#acx-site-footer a[href]').forEach(function(link){
+      const href=link.getAttribute('href')||'';
+      if(!href.startsWith(BASE)) return;
+      const target=normalizedPath(href);
+      const exact=current===target;
+      const section=!exact && target!==BASE && current.startsWith(target);
+      if(exact) link.setAttribute('aria-current','page');
+      else if(section) link.setAttribute('aria-current','location');
+      else link.removeAttribute('aria-current');
+    });
+  }
+
   function ensurePwaHead(){
     if(!document.querySelector('link[rel="manifest"]')){
       const manifest=document.createElement('link');
@@ -146,6 +179,7 @@
       window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
     });
   }
+  syncSharedCurrentLinks();
 
   const installBtn=document.querySelector('.acx-install-app');
   let deferredInstallPrompt=null;
@@ -264,6 +298,7 @@
   let activeIndex=-1;
   let visibleResults=[];
 
+  let searchReturnFocus=null;
   let menuReturnFocus=null;
   const hookStates=new WeakMap();
 
@@ -321,6 +356,7 @@
       const section=!exact && normalized!==BASE && current.startsWith(normalized);
       link.classList.toggle('is-current',exact||section);
       if(exact) link.setAttribute('aria-current','page');
+      else if(section) link.setAttribute('aria-current','location');
       else link.removeAttribute('aria-current');
     });
   }
@@ -565,7 +601,11 @@
   }
 
   async function openSearch(){
-    setMenu(false);
+    if(!dialog.classList.contains('is-open')){
+      searchReturnFocus=drawer.classList.contains('is-open')?menuBtn:document.activeElement;
+      if(searchReturnFocus===document.body) searchReturnFocus=null;
+    }
+    setMenu(false,false);
     dialog.classList.add('is-open');
     document.body.classList.add('acx-search-open');
     input.value='';
@@ -577,11 +617,15 @@
 
   loadRecords();
 
-  function closeSearch(){
+  function closeSearch(restoreFocus){
     dialog.classList.remove('is-open');
     document.body.classList.remove('acx-search-open');
     activeIndex=-1;
     input.removeAttribute('aria-activedescendant');
+    if(restoreFocus!==false && searchReturnFocus && typeof searchReturnFocus.focus==='function' && document.contains(searchReturnFocus)){
+      searchReturnFocus.focus({preventScroll:true});
+    }
+    searchReturnFocus=null;
   }
 
   const homeSearch=document.getElementById('knowledge-search');
@@ -624,7 +668,20 @@
       if(dialog.classList.contains('is-open')) closeSearch();
       else if(drawer.classList.contains('is-open')) setMenu(false);
     }
-    if(event.key==='Tab'&&drawer.classList.contains('is-open')){
+    if(event.key==='Tab'&&dialog.classList.contains('is-open')){
+      const focusable=[input,closeBtn,...results.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
+        return el.offsetParent!==null;
+      });
+      if(focusable.length){
+        const first=focusable[0];
+        const last=focusable[focusable.length-1];
+        if(event.shiftKey&&document.activeElement===first){
+          event.preventDefault();last.focus();
+        }else if(!event.shiftKey&&document.activeElement===last){
+          event.preventDefault();first.focus();
+        }
+      }
+    }else if(event.key==='Tab'&&drawer.classList.contains('is-open')){
       const focusable=[menuBtn,...drawer.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
         return el.offsetParent!==null;
       });
