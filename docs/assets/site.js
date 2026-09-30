@@ -106,9 +106,11 @@
               '<h2 id="acx-footer-knowledge">Knowledge</h2>'+
               '<nav class="acx-footer-nav" aria-label="Knowledge footer navigation">'+
                 '<a href="'+BASE+'">Knowledge home</a>'+
+                '<a href="'+BASE+'about/knowledge/">About Knowledge</a>'+
                 '<a href="'+BASE+'library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a>'+
                 '<a href="'+BASE+'library/safety-compliance/">Safety &amp; Compliance</a>'+
                 '<a href="'+BASE+'library/alles-clinx/">Tools &amp; Support</a>'+
+                '<a href="'+BASE+'about/tools/">About digital tools</a>'+
               '</nav>'+
             '</section>'+
             '<section class="acx-footer-group" aria-labelledby="acx-footer-legal">'+
