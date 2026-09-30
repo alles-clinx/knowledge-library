@@ -23,7 +23,7 @@ button,input{font:inherit}
 .page{
   width:min(var(--page),calc(100% - 64px));
   margin:0 auto;
-  padding:88px 0 112px;
+  padding:104px 0 112px;
 }
 .hero{max-width:760px}
 h1{
@@ -152,7 +152,7 @@ h2{
 @media (max-width:760px){
   .page{
     width:min(100% - 40px,var(--page));
-    padding:56px 0 80px;
+    padding:72px 0 80px;
   }
   h1{font-size:42px;letter-spacing:-.04em}
   .hero p{margin-top:16px;font-size:17px;line-height:1.5}
@@ -169,7 +169,7 @@ h2{
   .footer-note{margin-top:56px}
 }
 @media (max-width:360px){
-  .page{width:calc(100% - 32px);padding-top:44px}
+  .page{width:calc(100% - 32px);padding-top:60px}
   h1{font-size:38px}
   .hero p{font-size:16px}
   .library{margin-top:60px}
