@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Alle's ClinX Knowledge">
-  <rect width="512" height="512" rx="96" fill="#ffffff"/>
-  <rect x="28" y="28" width="456" height="456" rx="76" fill="none" stroke="#111111" stroke-width="12"/>
-  <text x="256" y="236" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-2.2" fill="#111111">Alle's ClinX</text>
-  <line x1="128" y1="270" x2="384" y2="270" stroke="#d8d8da" stroke-width="2"/>
-  <text x="256" y="318" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="22" font-weight="650" letter-spacing="4.5" fill="#55555a">KNOWLEDGE</text>
+  <rect width="512" height="512" rx="112" fill="#111111"/>
+  <path d="M318 142c-19-17-45-28-74-28-68 0-116 54-116 142s48 142 116 142c29 0 55-11 74-28" fill="none" stroke="#ffffff" stroke-width="48" stroke-linecap="round"/>
+  <path d="M310 204 394 308M394 204 310 308" fill="none" stroke="#ffffff" stroke-width="43" stroke-linecap="round"/>
 </svg>
