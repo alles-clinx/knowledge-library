@@ -12,6 +12,7 @@ assert.equal(manifest.start_url,'./');
 assert.equal(manifest.scope,'./');
 assert.equal(manifest.display,'standalone');
 assert.ok(Array.isArray(manifest.icons) && manifest.icons.length>0,'manifest should include an app icon');
+assert.equal(manifest.icons[0].src,'assets/app-icon.svg','manifest should use the shared vector app icon');
 
 const swResponse=await fetch(resolve('sw.js'));
 assert.equal(swResponse.status,200,'sw.js should be served');
@@ -24,6 +25,8 @@ const page=await context.newPage();
 
 await page.goto(baseUrl,{waitUntil:'networkidle'});
 assert.equal(await page.locator('link[rel="manifest"]').count(),1,'page should expose one manifest link');
+assert.equal(await page.locator('link[rel="icon"][type="image/svg+xml"]').count(),1,'page should expose the vector favicon');
+assert.match(await page.locator('link[rel="icon"][type="image/svg+xml"]').getAttribute('href'),/favicon\.svg\?v=20260930-1/,'favicon should use the current cache-busted vector mark');
 await page.evaluate(async()=>{await navigator.serviceWorker.ready;});
 await page.reload({waitUntil:'networkidle'});
 assert.equal(await page.evaluate(()=>Boolean(navigator.serviceWorker.controller)),true,'service worker should control the app after reload');
