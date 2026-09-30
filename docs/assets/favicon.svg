@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 64" role="img" aria-label="Alle's ClinX">
-  <rect width="256" height="64" fill="#fff"/>
-  <text x="128" y="38" text-anchor="middle"
-        font-family="Inter, Arial, sans-serif"
-        font-size="28"
-        font-weight="600"
-        letter-spacing="-0.6"
-        fill="#000">Alle's ClinX</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Alle's ClinX">
+  <rect width="64" height="64" rx="14" fill="#111111"/>
+  <path d="M39.5 17.5c-2.4-2.1-5.6-3.5-9.2-3.5C21.8 14 16 20.8 16 32s5.8 18 14.3 18c3.6 0 6.8-1.3 9.2-3.5" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M38.5 25.5 49 38.5M49 25.5 38.5 38.5" fill="none" stroke="#ffffff" stroke-width="5.4" stroke-linecap="round"/>
 </svg>
