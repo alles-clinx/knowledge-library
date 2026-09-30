@@ -4,8 +4,12 @@ import fs from 'node:fs';
 const BASE = process.env.BASE_URL || 'http://127.0.0.1:4173/knowledge/';
 const ORIGIN = new URL(BASE).origin;
 const records = JSON.parse(fs.readFileSync('docs/assets/live-search.json','utf8')).records || [];
+const sitemapXml = fs.readFileSync('docs/sitemap.xml','utf8');
 const en = [...records].reverse().find(r => r.locale === 'en');
 const hi = en ? records.find(r => r.article_id === en.article_id && r.locale === 'hi-IN') : null;
+
+assert(sitemapXml.includes('<urlset'),'XML sitemap is missing its urlset root');
+assert(sitemapXml.includes('/knowledge-library/sitemap/'),'XML sitemap is missing the human sitemap route');
 
 function assert(value, message){
   if(!value) throw new Error(message);
@@ -130,6 +134,7 @@ try{
     ['about nova',new URL('about/nova/',BASE).href],
     ['about metricon',new URL('about/metricon/',BASE).href],
     ['about checkmate',new URL('about/checkmate/',BASE).href],
+    ['sitemap',new URL('sitemap/',BASE).href],
     ['article',articleUrl(en)],
     ['legal terms',new URL('terms-conditions/',BASE).href],
     ['legal privacy',new URL('privacy-policy/',BASE).href],
@@ -162,6 +167,11 @@ try{
       assert(!footerTargetBox || footerTargetBox.height>=40,label+' footer link target is too small on mobile');
       if(label.startsWith('about ')){
         assert(await auditPage.locator('.acx-depth-section').count()>=1,label+' is missing deeper editorial content');
+      }
+      if(label==='sitemap'){
+        assert(await auditPage.locator('#acx-sitemap-filter').count()===1,'sitemap filter is missing');
+        assert(await auditPage.locator('.acx-sitemap-live-link').count()>0,'sitemap did not render live article links');
+        assert((await auditPage.locator('#acx-sitemap-count').textContent()).includes('live English article'),'sitemap live count did not resolve');
       }
     }
     await auditCtx.close();
