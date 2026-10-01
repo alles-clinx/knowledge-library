@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0248",
+  "slug": "why-controlled-documents-need-version-management",
+  "subcategory": "Records & Document Control",
+  "subcategory_slug": "records-document-control",
+  "related_article_ids": [
+    "ACX-KB-0247",
+    "ACX-KB-0249",
+    "ACX-KB-0224",
+    "ACX-KB-0227"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Controlled Documents Need Version Management",
+  "excerpt": "Version management helps facilities know which procedure is current, what changed, who approved it and when an older version was replaced.",
+  "content_html": "<p>Controlled documents need version management so workers and supervisors can identify the current approved instruction and distinguish it from older material. Without clear version control, different copies of the same procedure can remain in circulation and create inconsistency.</p>\n<h2 id=\"current\">Version control identifies the current approved document</h2><p>A controlled document should make it clear which revision is current. A version number, revision date or equivalent identifier helps users confirm that they are reading the approved document.</p>\n<h2 id=\"history\">Revision history explains what changed</h2><p>Version management can record when a document changed and, where appropriate, the reason for the revision. This creates a traceable history that supports review, training and audit readiness.</p>\n<h2 id=\"approval\">Approval status matters</h2><p>Facilities should distinguish drafts from approved documents. The document-control process should identify who is authorised to review and approve changes before the revised instruction is released for use.</p>\n<h2 id=\"distribution\">Distribution needs control</h2><p>When a new version is issued, the controlled distribution system should make the current document available where it is needed and reduce the chance that superseded copies remain in normal use.</p>\n<h2 id=\"access\">Users should be able to verify the version</h2><p>Workers should have a simple way to confirm that the instruction they are using is current, whether the document is electronic or printed.</p>\n<h2 id=\"training\">Important revisions may require communication or training</h2><p>If a revision changes responsibilities, sequence, controls or other important content, the facility should consider whether affected people need updated communication or training before the new version is relied on.</p>\n<h2 id=\"records\">Version records support audits and investigations</h2><p>A clear revision trail can help a facility demonstrate which instruction was current at a particular time and explain how changes were controlled.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Version management turns a document into a controlled source of information. The essential questions are: Which version is current? Who approved it? When did it become effective? What happened to the version it replaced?</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015 Quality management systems — Requirements</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "Why Controlled Documents Need Version Management | Alle's ClinX",
+  "meta_description": "Learn why controlled documents need version numbers, approval status, revision history, controlled distribution and traceable replacement of obsolete versions."
+}
