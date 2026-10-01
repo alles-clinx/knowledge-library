@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 466,
+  "record_count": 468,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5128,6 +5128,28 @@
       "subcategory_slug": "ghs-hazard-communication",
       "excerpt": "GHS pictograms chemical labels पर दिए जाने वाले diamond-shaped hazard symbols हैं, जो physical, health और environmental hazards को जल्दी पहचानने में मदद करते हैं।",
       "url": "library/safety-compliance/ghs-hazard-communication/what-do-ghs-pictograms-mean/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0234",
+      "locale": "en",
+      "title": "GHS Signal Words, Hazard & Precautionary Statements",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "GHS & Hazard Communication",
+      "subcategory_slug": "ghs-hazard-communication",
+      "excerpt": "GHS labels use signal words, hazard statements and precautionary statements together to show how serious a classified hazard is, what the hazard is, and what protective actions are recommended.",
+      "url": "library/safety-compliance/ghs-hazard-communication/ghs-signal-words-hazard-precautionary-statements/"
+    },
+    {
+      "article_id": "ACX-KB-0234",
+      "locale": "hi-IN",
+      "title": "GHS Signal Words, Hazard और Precautionary Statements",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "GHS & Hazard Communication",
+      "subcategory_slug": "ghs-hazard-communication",
+      "excerpt": "GHS labels signal words, hazard statements और precautionary statements को साथ use करते हैं ताकि hazard की relative severity, उसकी nature और recommended protective actions clear हों।",
+      "url": "library/safety-compliance/ghs-hazard-communication/ghs-signal-words-hazard-precautionary-statements/hi.html"
     }
   ]
 }
