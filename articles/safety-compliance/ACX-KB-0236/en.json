@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0236",
+  "slug": "why-ppe-requirements-differ-between-cleaning-tasks",
+  "subcategory": "Personal Protective Equipment — PPE",
+  "subcategory_slug": "ppe",
+  "related_article_ids": [
+    "ACX-KB-0235",
+    "ACX-KB-0237",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why PPE Requirements Differ Between Cleaning Tasks",
+  "excerpt": "PPE requirements differ because workplace tasks, products and environments are not identical; selection should follow the documented hazard assessment and applicable safety information.",
+  "content_html": "<p>PPE requirements can differ between cleaning tasks because the hazards, products, equipment and work environments involved are not always the same. PPE should therefore be selected from the documented hazard assessment and applicable safety information rather than from a one-size-fits-all rule.</p>\n<h2 id=\"hazards\">Different tasks can involve different hazards</h2><p>A routine task and a specialised task may not present the same hazards. The required protection should reflect the hazards identified for the specific activity.</p>\n<h2 id=\"product-information\">Product information can change the requirement</h2><p>Different products can carry different classifications and safety requirements. Labels and Safety Data Sheets provide information that can affect PPE selection.</p>\n<h2 id=\"environment\">The work environment matters</h2><p>Work-area conditions, equipment, nearby activities and other workplace factors can affect the overall hazard assessment. PPE selection should consider the full work setting.</p>\n<h2 id=\"combined-hazards\">Several hazards can exist at the same time</h2><p>Some tasks can involve more than one type of workplace hazard. The assessment should consider them together so that the selected PPE remains appropriate for the overall task.</p>\n<h2 id=\"fit\">Fit and compatibility matter</h2><p>PPE should fit the individual and work correctly with any other protective equipment that must be worn. Poor fit or interference between items can reduce protection.</p>\n<h2 id=\"documents\">Use the documented safety information</h2><p>Product labels, Safety Data Sheets, workplace procedures and the formal hazard assessment should be read together when determining PPE requirements. If the task or conditions change, the assessment may also need review.</p>\n<h2 id=\"not-uniform\">A standard PPE set may not cover every task</h2><p>A routine uniform or standard PPE set can support consistency, but it should not be assumed to be suitable for every activity. Task-specific requirements should follow the documented assessment.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>PPE requirements differ because tasks differ. The safest approach is to follow the current hazard assessment, product safety information and workplace procedure for the specific task.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910SubpartIAppB\">OSHA — PPE Hazard Assessment and Selection Guidelines</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910subparti\">OSHA — Personal Protective Equipment, 1910 Subpart I</a>.</li></ol>",
+  "seo_title": "Why PPE Differs Between Cleaning Tasks | Alle's ClinX",
+  "meta_description": "Learn why PPE requirements vary between cleaning tasks and why documented hazard assessment, product information, fit and workplace conditions matter."
+}
