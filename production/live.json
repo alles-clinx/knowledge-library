@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "current_batch": "batch-053",
+  "current_batch": "batch-054",
   "live_article_ids": [
     "ACX-KB-0001",
     "ACX-KB-0002",
@@ -304,7 +304,8 @@
     "batch-049",
     "batch-050",
     "batch-051",
-    "batch-052"
+    "batch-052",
+    "batch-053"
   ],
-  "note": "Batches 001-052 are live. Batch 053 is in final QA; only QA-passed article IDs belong in live_article_ids."
+  "note": "Batches 001-053 are live. Batch 054 is next; only QA-passed article IDs belong in live_article_ids."
 }
