@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0258",
+  "slug": "how-practical-observation-supports-competency-checks",
+  "subcategory": "Competency Assessment",
+  "subcategory_slug": "competency-assessment",
+  "related_article_ids": [
+    "ACX-KB-0256",
+    "ACX-KB-0257",
+    "ACX-KB-0254"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Practical Observation Supports Competency Checks",
+  "excerpt": "Practical observation lets an assessor compare real task performance with defined criteria and identify technique, safety or consistency gaps that written tests may miss.",
+  "seo_title": "Practical Observation for Cleaning Competency Checks | Alle's ClinX",
+  "meta_description": "Learn how practical observation strengthens cleaning competency checks by comparing real task performance with defined criteria.",
+  "content_html": "<p>Practical observation is one of the strongest ways to assess cleaning competency because it shows what a worker actually does during the task. It allows an assessor to compare real performance with the approved method.</p>\n<h2 id=\"criteria\">Start with clear criteria</h2><p>The observer should use a checklist or defined criteria based on the SOP, including sequence, PPE, product preparation, technique, equipment handling and completion steps.</p>\n<h2 id=\"observe\">Observe the whole task where practical</h2><p>Watching only the final result may miss unsafe or ineffective technique. The process itself matters, especially where contact time, contamination control or equipment setup affect the outcome.</p>\n<h2 id=\"objective\">Keep the assessment objective</h2><p>Standard criteria reduce inconsistency between assessors and help workers understand exactly what is expected.</p>\n<h2 id=\"feedback\">Give immediate, specific feedback</h2><p>Feedback should identify the exact step that needs correction, explain why it matters and allow the worker to repeat the task where appropriate.</p>\n<h2 id=\"record\">Record the result and follow-up</h2><p>Documentation should show the task assessed, date, assessor, outcome, gaps found and any retraining or reassessment required.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Practical observation turns competency from an assumption into observable evidence. Use defined criteria, watch the process, provide feedback and document the outcome.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-prepare.html\">CDC Project Firstline — EVS Training</a>.</li></ol>"
+}
