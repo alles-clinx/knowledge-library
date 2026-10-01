@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 498,
+  "record_count": 500,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5480,6 +5480,28 @@
       "subcategory_slug": "records-document-control",
       "excerpt": "Facilities approvals, distribution, replacement, access और periodic review control करके obsolete cleaning instructions का risk reduce कर सकती हैं।",
       "url": "library/safety-compliance/records-document-control/preventing-obsolete-cleaning-instructions/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0250",
+      "locale": "en",
+      "title": "What Is a Facility Cleaning Plan?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Cleaning Plans & Schedules",
+      "subcategory_slug": "cleaning-plans-schedules",
+      "excerpt": "A facility cleaning plan defines what must be cleaned, how often, by whom, using which methods and controls, and how completion and quality will be verified.",
+      "url": "library/facility-hygiene-management/cleaning-plans-schedules/what-is-a-facility-cleaning-plan/"
+    },
+    {
+      "article_id": "ACX-KB-0250",
+      "locale": "hi-IN",
+      "title": "Facility Cleaning Plan क्या होता है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Cleaning Plans & Schedules",
+      "subcategory_slug": "cleaning-plans-schedules",
+      "excerpt": "Facility cleaning plan यह define करता है कि क्या clean करना है, कितनी frequency पर, किसकी responsibility है, कौन-से methods और controls use होंगे, और completion व quality कैसे verify होगी।",
+      "url": "library/facility-hygiene-management/cleaning-plans-schedules/what-is-a-facility-cleaning-plan/hi.html"
     }
   ]
 }
