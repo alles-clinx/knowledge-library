@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0257",
+  "slug": "why-attendance-does-not-prove-competency",
+  "subcategory": "Competency Assessment",
+  "subcategory_slug": "competency-assessment",
+  "related_article_ids": [
+    "ACX-KB-0256",
+    "ACX-KB-0258",
+    "ACX-KB-0253"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Attendance Does Not Prove Competency",
+  "excerpt": "Training attendance shows that a worker was present; it does not show that the worker can correctly perform the task under real operating conditions.",
+  "seo_title": "Why Attendance Does Not Prove Competency | Alle's ClinX",
+  "meta_description": "Understand why training attendance records are not enough to prove cleaning competency and what evidence is stronger.",
+  "content_html": "<p>Attendance records are useful evidence that training took place, but they do not prove practical competency. A worker may attend a session and still misunderstand, forget or incorrectly apply an important step.</p>\n<h2 id=\"attendance\">Attendance measures presence, not performance</h2><p>A sign-in sheet confirms who was present and when. It does not show whether the person can perform the task correctly, safely or consistently.</p>\n<h2 id=\"variation\">People learn and retain differently</h2><p>Language, prior experience, task complexity, confidence and opportunities to practise can affect how well training transfers into work.</p>\n<h2 id=\"observation\">Observed performance provides stronger evidence</h2><p>Watching a worker perform the actual task reveals whether the required sequence, PPE, product use, equipment handling and contamination controls are applied correctly.</p>\n<h2 id=\"records\">Use attendance and competency records together</h2><p>Attendance documents exposure to training. Competency records document demonstrated ability. Together they give a more complete picture than either alone.</p>\n<h2 id=\"repeat\">Competency can decline over time</h2><p>Even previously competent workers can drift from approved methods, especially when tasks are infrequent or procedures change.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Do not treat a signature on a training sheet as proof of capability. Verify important tasks through demonstration, observation and documented competency checks.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}
