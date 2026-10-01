@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0233",
+  "slug": "what-do-ghs-pictograms-mean",
+  "subcategory": "GHS & Hazard Communication",
+  "subcategory_slug": "ghs-hazard-communication",
+  "related_article_ids": [
+    "ACX-KB-0232",
+    "ACX-KB-0229",
+    "ACX-KB-0220",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Do GHS Pictograms Mean?",
+  "excerpt": "GHS pictograms are diamond-shaped hazard symbols used on chemical labels to communicate specific physical, health and environmental hazards at a glance.",
+  "content_html": "<p>GHS pictograms are standardized hazard symbols used on chemical labels to communicate important information quickly. Each pictogram is a red diamond with a black symbol on a white background, and the symbol points to one or more types of hazard.</p>\n<h2 id=\"read-with-label\">A pictogram is only one part of the label</h2><p>Do not interpret a pictogram by itself. Read it together with the product identifier, signal word, hazard statements and precautionary statements, and use the Safety Data Sheet (SDS) when more detail is needed. The same pictogram can represent several related hazards, and the exact classification depends on the product.</p>\n<h2 id=\"nine-pictograms\">The nine GHS pictograms</h2><p>The GHS uses nine hazard pictograms. National or regional rules may not require every pictogram in every workplace system. For example, OSHA's U.S. Hazard Communication Standard requires eight GHS pictograms; the environmental pictogram is not mandatory under that standard because environmental hazards are outside OSHA's jurisdiction.</p>\n<h2 id=\"physical-hazards\">Pictograms mainly associated with physical hazards</h2><p><strong>Exploding bomb:</strong> indicates certain explosive hazards and some self-reactive substances or organic peroxides. <strong>Flame:</strong> is used for hazards such as flammability, pyrophoricity, self-heating, chemicals that emit flammable gas, and some self-reactive substances or organic peroxides. <strong>Flame over circle:</strong> identifies oxidizing hazards that can cause or intensify fire. <strong>Gas cylinder:</strong> identifies gases under pressure.</p>\n<h2 id=\"health-hazards\">Pictograms mainly associated with health hazards</h2><p><strong>Skull and crossbones:</strong> identifies severe acute toxicity, where short-term exposure can be toxic or fatal. <strong>Exclamation mark:</strong> is used for hazards such as skin or eye irritation, skin sensitization, harmful acute toxicity, respiratory tract irritation or narcotic effects. <strong>Health hazard:</strong> identifies serious or longer-term health hazards such as carcinogenicity, germ-cell mutagenicity, reproductive toxicity, respiratory sensitization, specific target-organ toxicity or aspiration hazard.</p>\n<h2 id=\"corrosion\">The corrosion pictogram can cover more than one hazard type</h2><p><strong>Corrosion:</strong> is used for serious eye damage or skin corrosion and can also indicate that a substance or mixture is corrosive to metals. This is a useful reminder that one pictogram can communicate both health and physical-hazard information.</p>\n<h2 id=\"environment\">The environmental pictogram</h2><p><strong>Environment:</strong> the dead-tree-and-fish symbol is used for hazards to the aquatic environment under the GHS. Whether it is legally required on a workplace label depends on the jurisdiction and the rules being applied.</p>\n<h2 id=\"not-severity-scale\">Pictograms are not a simple severity ranking</h2><p>Do not assume that one symbol is automatically 'worse' than another. Pictograms identify hazard classes and categories; the signal word and hazard statements provide additional information about the nature and, where applicable, the relative severity of the hazard.</p>\n<h2 id=\"practical-reading\">Practical reading sequence</h2><p>When checking a chemical label, first confirm the product identity, then note every pictogram, read the signal word and hazard statements, and follow the precautionary statements. If the label is unclear, damaged or incomplete, use the current SDS and the applicable workplace procedure rather than guessing from the symbol alone.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://unece.org/transport/documents/2025/09/standards/globally-harmonized-system-classification-and-labelling\">UNECE — Globally Harmonized System of Classification and Labelling of Chemicals, Revision 11</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/pictograms\">OSHA — Hazard Communication Pictograms</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Appendix C: Allocation of Label Elements</a>.</li></ol>",
+  "seo_title": "What Do GHS Pictograms Mean? | Alle's ClinX",
+  "meta_description": "Learn what the nine GHS hazard pictograms mean and how to read them with signal words, hazard statements, precautionary statements and the SDS."
+}

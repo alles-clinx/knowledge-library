@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0233",
+  "slug": "what-do-ghs-pictograms-mean",
+  "subcategory": "GHS & Hazard Communication",
+  "subcategory_slug": "ghs-hazard-communication",
+  "related_article_ids": [
+    "ACX-KB-0232",
+    "ACX-KB-0229",
+    "ACX-KB-0220",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0233",
+  "title": "GHS Pictograms का क्या मतलब है?",
+  "excerpt": "GHS pictograms chemical labels पर दिए जाने वाले diamond-shaped hazard symbols हैं, जो physical, health और environmental hazards को जल्दी पहचानने में मदद करते हैं।",
+  "content_html": "<p>GHS pictograms standardized hazard symbols हैं जो chemical labels पर important hazard information जल्दी communicate करते हैं। हर pictogram red diamond में white background और black symbol के साथ दिखाया जाता है, और उसका symbol एक या अधिक hazard types की ओर संकेत करता है।</p>\n<h2 id=\"hi233-read-with-label\">Pictogram label का केवल एक हिस्सा है</h2><p>Pictogram को अकेले interpret न करें। इसे product identifier, signal word, hazard statements और precautionary statements के साथ पढ़ें, और अधिक detail के लिए Safety Data Sheet (SDS) देखें। एक ही pictogram कई related hazards represent कर सकता है, और exact classification product पर depend करती है।</p>\n<h2 id=\"hi233-nine-pictograms\">GHS के नौ pictograms</h2><p>GHS में नौ hazard pictograms हैं। National या regional rules हर workplace system में सभी pictograms require नहीं करते। उदाहरण के लिए, U.S. OSHA Hazard Communication Standard आठ GHS pictograms require करता है; environmental pictogram उस standard के under mandatory नहीं है क्योंकि environmental hazards OSHA jurisdiction के बाहर हैं।</p>\n<h2 id=\"hi233-physical-hazards\">Physical hazards से जुड़े मुख्य pictograms</h2><p><strong>Exploding bomb:</strong> कुछ explosive hazards और कुछ self-reactive substances या organic peroxides को indicate करता है। <strong>Flame:</strong> flammability, pyrophoricity, self-heating, flammable gas emit करने वाले chemicals, और कुछ self-reactive substances या organic peroxides जैसे hazards के लिए use होता है। <strong>Flame over circle:</strong> oxidizing hazards identify करता है जो fire cause या intensify कर सकते हैं। <strong>Gas cylinder:</strong> gases under pressure को identify करता है।</p>\n<h2 id=\"hi233-health-hazards\">Health hazards से जुड़े मुख्य pictograms</h2><p><strong>Skull and crossbones:</strong> severe acute toxicity identify करता है, जहाँ short-term exposure toxic या fatal हो सकता है। <strong>Exclamation mark:</strong> skin या eye irritation, skin sensitization, harmful acute toxicity, respiratory tract irritation या narcotic effects जैसे hazards के लिए use होता है। <strong>Health hazard:</strong> carcinogenicity, germ-cell mutagenicity, reproductive toxicity, respiratory sensitization, specific target-organ toxicity या aspiration hazard जैसे serious या longer-term health hazards identify करता है।</p>\n<h2 id=\"hi233-corrosion\">Corrosion pictogram एक से अधिक hazard type cover कर सकता है</h2><p><strong>Corrosion:</strong> serious eye damage या skin corrosion के लिए use होता है और यह भी indicate कर सकता है कि substance या mixture metals के लिए corrosive है। यह दिखाता है कि एक pictogram health और physical-hazard information दोनों communicate कर सकता है।</p>\n<h2 id=\"hi233-environment\">Environmental pictogram</h2><p><strong>Environment:</strong> dead-tree-and-fish symbol GHS के under aquatic environment hazards के लिए use होता है। Workplace label पर इसे legally require किया जाता है या नहीं, यह jurisdiction और applicable rules पर depend करता है।</p>\n<h2 id=\"hi233-not-severity-scale\">Pictograms simple severity ranking नहीं हैं</h2><p>यह assume न करें कि एक symbol automatically दूसरे से 'ज़्यादा खतरनाक' है। Pictograms hazard classes और categories identify करते हैं; signal word और hazard statements hazard की nature और, जहाँ applicable हो, relative severity के बारे में additional information देते हैं।</p>\n<h2 id=\"hi233-practical-reading\">Label पढ़ने का practical sequence</h2><p>Chemical label check करते समय पहले product identity confirm करें, फिर सभी pictograms देखें, signal word और hazard statements पढ़ें, और precautionary statements follow करें। अगर label unclear, damaged या incomplete है, तो symbol से guess करने के बजाय current SDS और applicable workplace procedure use करें।</p>\n<h2 id=\"hi233-references\">संदर्भ</h2><ol><li id=\"hi233-ref-1\"><a href=\"https://unece.org/transport/documents/2025/09/standards/globally-harmonized-system-classification-and-labelling\">UNECE — Globally Harmonized System of Classification and Labelling of Chemicals, Revision 11</a>.</li><li id=\"hi233-ref-2\"><a href=\"https://www.osha.gov/hazcom/pictograms\">OSHA — Hazard Communication Pictograms</a>.</li><li id=\"hi233-ref-3\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Appendix C: Allocation of Label Elements</a>.</li></ol>",
+  "seo_title": "GHS Pictograms का क्या मतलब है? | Alle's ClinX",
+  "meta_description": "GHS के नौ hazard pictograms का मतलब समझें और उन्हें signal words, hazard statements, precautionary statements तथा SDS के साथ पढ़ना सीखें।"
+}
