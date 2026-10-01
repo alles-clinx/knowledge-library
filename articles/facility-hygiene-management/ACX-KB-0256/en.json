@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0256",
+  "slug": "what-is-cleaning-competency-assessment",
+  "subcategory": "Competency Assessment",
+  "subcategory_slug": "competency-assessment",
+  "related_article_ids": [
+    "ACX-KB-0253",
+    "ACX-KB-0254",
+    "ACX-KB-0257",
+    "ACX-KB-0258"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Cleaning Competency Assessment?",
+  "excerpt": "Cleaning competency assessment checks whether a worker can perform required tasks correctly, safely and consistently in practice—not simply whether training was attended.",
+  "seo_title": "What Is Cleaning Competency Assessment? | Alle's ClinX",
+  "meta_description": "Learn how cleaning competency assessment verifies practical ability, safety, consistency and task-specific performance.",
+  "content_html": "<p>Cleaning competency assessment is a structured check of whether a worker can perform an assigned cleaning task to the required standard. It focuses on demonstrated ability, not only on training attendance or theoretical knowledge.</p>\n<h2 id=\"purpose\">The purpose is to verify practical capability</h2><p>An assessment confirms whether the worker can apply the approved procedure, use products and equipment safely, control contamination and complete the task consistently.</p>\n<h2 id=\"criteria\">Use defined task criteria</h2><p>Assessment criteria should reflect the SOP or job aid, including sequence, technique, PPE, product use, equipment handling, safety precautions and completion requirements.</p>\n<h2 id=\"observation\">Observation is often the core method</h2><p>A supervisor or competent assessor watches the worker perform the task and records whether each required element is met.</p>\n<h2 id=\"questions\">Questions can support the assessment</h2><p>Short questions may be used to check understanding of hazards, escalation routes, product labels or reasons behind critical steps, especially where the task cannot demonstrate every scenario.</p>\n<h2 id=\"outcome\">The outcome should lead to action</h2><p>If competency is confirmed, the result can be recorded. If gaps are found, the worker may need coaching, retraining, supervised practice or reassessment before independent work continues.</p>\n<h2 id=\"review\">Competency should be reassessed when needed</h2><p>Reassessment may be required after major process changes, long gaps, incidents, poor audit findings or repeated performance concerns.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Competency assessment answers a simple question: can this person perform this task correctly and safely in real conditions?</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li><li><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-prepare.html\">CDC Project Firstline — EVS Training</a>.</li></ol>"
+}
