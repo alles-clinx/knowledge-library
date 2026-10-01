@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0264",
+  "slug": "non-conformance-vs-corrective-action",
+  "subcategory": "Audits & CAPA",
+  "subcategory_slug": "audits-capa",
+  "related_article_ids": [
+    "ACX-KB-0262",
+    "ACX-KB-0263",
+    "ACX-KB-0259"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0264",
+  "title": "Non-Conformance और Corrective Action में क्या अंतर है?",
+  "excerpt": "Non-conformance requirement failure है; corrective action cause address करके recurrence का chance कम करने वाली structured response है।",
+  "seo_title": "Non-Conformance vs Corrective Action | Alle's ClinX",
+  "meta_description": "Hygiene non-conformance, immediate correction और corrective action में फर्क समझें।",
+  "content_html": "<p>Non-conformance और corrective action related लेकिन अलग concepts हैं। Non-conformance problem describe करती है; corrective action cause address करने वाली response है।</p>\n<h2 id=\"hi264-nc\">Non-conformance एक finding है</h2><p>Examples में missed cleaning, unapproved product, incomplete training record या procedure follow न करना शामिल हैं।</p>\n<h2 id=\"hi264-correction\">Correction immediate condition fix करती है</h2><p>Re-cleaning या missing record complete करना immediate issue fix कर सकता है।</p>\n<h2 id=\"hi264-ca\">Corrective action cause address करती है</h2><p>Process revision, training improvement, responsibility change, equipment repair या stronger monitoring corrective action हो सकते हैं।</p>\n<h2 id=\"hi264-evidence\">Response significance के अनुसार हो</h2><p>हर minor issue large investigation require नहीं करता, लेकिन repeated या high-risk failures deeper analysis मांगते हैं।</p>\n<h2 id=\"hi264-closeout\">Closure verification के बाद हो</h2><p>Action तभी close करें जब completion और effectiveness का evidence हो।</p>\n<h2 id=\"hi264-takeaway\">मुख्य बात</h2><p>Non-conformance बताती है क्या गलत हुआ; correction immediate problem fix करती है; corrective action बताती है recurrence कैसे कम होगी।</p>\n<h2 id=\"hi264-references\">संदर्भ</h2><ol><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}
