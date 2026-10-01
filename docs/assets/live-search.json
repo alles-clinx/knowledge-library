@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 494,
+  "record_count": 498,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5436,6 +5436,50 @@
       "subcategory_slug": "records-document-control",
       "excerpt": "Document control वह system है जो hygiene documents और records को create, approve, identify, update, distribute, protect, retain और retire करता है ताकि people reliable information use करें।",
       "url": "library/safety-compliance/records-document-control/what-is-document-control-in-facility-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0248",
+      "locale": "en",
+      "title": "Why Controlled Documents Need Version Management",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Records & Document Control",
+      "subcategory_slug": "records-document-control",
+      "excerpt": "Version management helps facilities know which procedure is current, what changed, who approved it and when an older version was replaced.",
+      "url": "library/safety-compliance/records-document-control/why-controlled-documents-need-version-management/"
+    },
+    {
+      "article_id": "ACX-KB-0248",
+      "locale": "hi-IN",
+      "title": "Controlled Documents को Version Management की जरूरत क्यों होती है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Records & Document Control",
+      "subcategory_slug": "records-document-control",
+      "excerpt": "Version management facility को यह जानने में मदद करता है कि कौन-सी procedure current है, क्या change हुआ, किसने approve किया और older version कब replace हुआ।",
+      "url": "library/safety-compliance/records-document-control/why-controlled-documents-need-version-management/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0249",
+      "locale": "en",
+      "title": "Preventing Obsolete Cleaning Instructions",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Records & Document Control",
+      "subcategory_slug": "records-document-control",
+      "excerpt": "Facilities can reduce obsolete cleaning instructions by controlling approvals, distribution, replacement, access and periodic review of procedures and work instructions.",
+      "url": "library/safety-compliance/records-document-control/preventing-obsolete-cleaning-instructions/"
+    },
+    {
+      "article_id": "ACX-KB-0249",
+      "locale": "hi-IN",
+      "title": "Obsolete Cleaning Instructions को कैसे Prevent करें?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Records & Document Control",
+      "subcategory_slug": "records-document-control",
+      "excerpt": "Facilities approvals, distribution, replacement, access और periodic review control करके obsolete cleaning instructions का risk reduce कर सकती हैं।",
+      "url": "library/safety-compliance/records-document-control/preventing-obsolete-cleaning-instructions/hi.html"
     }
   ]
 }
