@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 518,
+  "record_count": 528,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5700,6 +5700,116 @@
       "subcategory_slug": "supervision-inspections",
       "excerpt": "Hygiene inspection structured review है जो areas, surfaces, tasks और records check करती है ताकि पता चले कि cleaning controls implement हो रहे हैं और required standards maintain हो रहे हैं।",
       "url": "library/facility-hygiene-management/supervision-inspections/what-is-a-hygiene-inspection/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0260",
+      "locale": "en",
+      "title": "How Supervision Differs from Formal Auditing",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supervision & Inspections",
+      "subcategory_slug": "supervision-inspections",
+      "excerpt": "Supervision is continuous operational oversight; formal auditing is a structured, periodic evaluation against defined criteria with documented findings and follow-up.",
+      "url": "library/facility-hygiene-management/supervision-inspections/how-supervision-differs-from-formal-auditing/"
+    },
+    {
+      "article_id": "ACX-KB-0260",
+      "locale": "hi-IN",
+      "title": "Supervision और Formal Auditing में क्या अंतर है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supervision & Inspections",
+      "subcategory_slug": "supervision-inspections",
+      "excerpt": "Supervision continuous operational oversight है; formal auditing defined criteria के against structured, periodic evaluation है।",
+      "url": "library/facility-hygiene-management/supervision-inspections/how-supervision-differs-from-formal-auditing/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0261",
+      "locale": "en",
+      "title": "Why Inspection Criteria Need to Be Consistent",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supervision & Inspections",
+      "subcategory_slug": "supervision-inspections",
+      "excerpt": "Consistent inspection criteria make findings comparable, reduce assessor variation and help facilities identify real trends rather than differences in personal judgement.",
+      "url": "library/facility-hygiene-management/supervision-inspections/why-inspection-criteria-need-to-be-consistent/"
+    },
+    {
+      "article_id": "ACX-KB-0261",
+      "locale": "hi-IN",
+      "title": "Inspection Criteria Consistent क्यों होने चाहिए?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supervision & Inspections",
+      "subcategory_slug": "supervision-inspections",
+      "excerpt": "Consistent inspection criteria findings को comparable बनाते हैं, assessor variation कम करते हैं और real trends identify करने में मदद करते हैं।",
+      "url": "library/facility-hygiene-management/supervision-inspections/why-inspection-criteria-need-to-be-consistent/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0262",
+      "locale": "en",
+      "title": "What Is a Facility Hygiene Audit?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Audits & CAPA",
+      "subcategory_slug": "audits-capa",
+      "excerpt": "A facility hygiene audit is a structured evaluation of hygiene controls, records and actual practice against defined requirements to identify conformity, gaps and improvement needs.",
+      "url": "library/facility-hygiene-management/audits-capa/what-is-a-facility-hygiene-audit/"
+    },
+    {
+      "article_id": "ACX-KB-0262",
+      "locale": "hi-IN",
+      "title": "Facility Hygiene Audit क्या होता है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Audits & CAPA",
+      "subcategory_slug": "audits-capa",
+      "excerpt": "Facility hygiene audit hygiene controls, records और actual practice को defined requirements के against structured तरीके से evaluate करती है।",
+      "url": "library/facility-hygiene-management/audits-capa/what-is-a-facility-hygiene-audit/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0263",
+      "locale": "en",
+      "title": "Corrective and Preventive Action in Hygiene Management",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Audits & CAPA",
+      "subcategory_slug": "audits-capa",
+      "excerpt": "Corrective and preventive action addresses causes of hygiene failures, verifies that fixes work and uses risk information to reduce the chance of recurrence or similar future problems.",
+      "url": "library/facility-hygiene-management/audits-capa/corrective-preventive-action-hygiene-management/"
+    },
+    {
+      "article_id": "ACX-KB-0263",
+      "locale": "hi-IN",
+      "title": "Hygiene Management में Corrective और Preventive Action",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Audits & CAPA",
+      "subcategory_slug": "audits-capa",
+      "excerpt": "CAPA hygiene failures के causes address करती है, fixes की effectiveness verify करती है और recurrence या similar future problems का risk कम करती है।",
+      "url": "library/facility-hygiene-management/audits-capa/corrective-preventive-action-hygiene-management/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0264",
+      "locale": "en",
+      "title": "Non-Conformance vs Corrective Action: Key Differences",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Audits & CAPA",
+      "subcategory_slug": "audits-capa",
+      "excerpt": "A non-conformance is a failure to meet a requirement; corrective action is the structured response used to address the cause and reduce the chance of recurrence.",
+      "url": "library/facility-hygiene-management/audits-capa/non-conformance-vs-corrective-action/"
+    },
+    {
+      "article_id": "ACX-KB-0264",
+      "locale": "hi-IN",
+      "title": "Non-Conformance और Corrective Action में क्या अंतर है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Audits & CAPA",
+      "subcategory_slug": "audits-capa",
+      "excerpt": "Non-conformance requirement failure है; corrective action cause address करके recurrence का chance कम करने वाली structured response है।",
+      "url": "library/facility-hygiene-management/audits-capa/non-conformance-vs-corrective-action/hi.html"
     }
   ]
 }
