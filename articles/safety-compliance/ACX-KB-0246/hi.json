@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0246",
+  "slug": "why-document-availability-matters-during-audits",
+  "subcategory": "Audit Readiness",
+  "subcategory_slug": "audit-readiness",
+  "related_article_ids": [
+    "ACX-KB-0244",
+    "ACX-KB-0245",
+    "ACX-KB-0247",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0246",
+  "title": "Audits के दौरान Document Availability क्यों Matter करती है?",
+  "excerpt": "Document availability matter करती है क्योंकि auditors को current और relevant evidence timely access चाहिए; missing, outdated या difficult-to-retrieve information traceability कमजोर कर सकती है।",
+  "content_html": "<p>Audits के दौरान document availability इसलिए important है क्योंकि auditor को audit criteria से relevant evidence examine करना होता है। Process सही काम कर रहा हो, फिर भी supporting information locate, identify या verify न हो सके तो control demonstrate करना difficult हो जाता है।</p>\n<h2 id=\"hi246-current\">Current information identifiable होनी चाहिए</h2><p>Procedures, forms और reference documents से clear होना चाहिए कि current version कौन-सा है। इससे obsolete instructions या conflicting information को active evidence की तरह present करने का risk कम होता है।</p>\n<h2 id=\"hi246-retrieval\">Records जरूरत पर retrievable हों</h2><p>Audit evidence तब अधिक useful होती है जब authorised personnel relevant record बिना unnecessary delay locate कर सकें। Retrieval केवल एक person की memory या personal files पर depend नहीं करनी चाहिए।</p>\n<h2 id=\"hi246-traceability\">Availability traceability support करती है</h2><p>Documents और records requirements, responsibilities, completed activities, verification और follow-up को connect करते हैं। Consistent identification और storage audit trail समझना आसान बनाते हैं।</p>\n<h2 id=\"hi246-access\">Availability का मतलब uncontrolled access नहीं है</h2><p>Documents authorised users के लिए accessible हो सकते हैं और फिर भी inappropriate editing, loss या disclosure से protected रह सकते हैं। Access controls information की sensitivity और purpose के अनुसार हों।</p>\n<h2 id=\"hi246-format\">Paper और digital systems दोनों work कर सकते हैं</h2><p>Documented information different media में maintain की जा सकती है। Important यह है कि system integrity, identification, availability और control preserve करे और organisation के लिए suitable हो।</p>\n<h2 id=\"hi246-gaps\">Missing documents transparently handle हों</h2><p>अगर required evidence missing हो, तो audit के लिए misleading record recreate नहीं करना चाहिए। Gap को organisation के normal corrective या improvement process के through manage करना चाहिए।</p>\n<h2 id=\"hi246-takeaway\">मुख्य बात</h2><p>Audit readiness केवल documents होने पर depend नहीं करती; सही current information authorised users को evidence की जरूरत पर available होनी चाहिए। Reliable retrieval और control system audits और day-to-day operations दोनों strengthen करता है।</p>\n<h2 id=\"hi246-references\">संदर्भ</h2><ol><li id=\"hi246-ref-1\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"hi246-ref-2\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li></ol>",
+  "seo_title": "Audits में Document Availability क्यों Matter करती है? | Alle's ClinX",
+  "meta_description": "Audits में current, retrievable और controlled documents क्यों जरूरी हैं और availability traceability को कैसे support करती है, समझें।"
+}
