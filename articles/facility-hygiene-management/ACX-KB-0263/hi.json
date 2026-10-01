@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0263",
+  "slug": "corrective-preventive-action-hygiene-management",
+  "subcategory": "Audits & CAPA",
+  "subcategory_slug": "audits-capa",
+  "related_article_ids": [
+    "ACX-KB-0262",
+    "ACX-KB-0264",
+    "ACX-KB-0259"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0263",
+  "title": "Hygiene Management में Corrective और Preventive Action",
+  "excerpt": "CAPA hygiene failures के causes address करती है, fixes की effectiveness verify करती है और recurrence या similar future problems का risk कम करती है।",
+  "seo_title": "Hygiene Management में CAPA | Alle's ClinX",
+  "meta_description": "Hygiene management में correction, root cause, corrective action, preventive action और effectiveness verification समझें।",
+  "content_html": "<p>Corrective and preventive action यानी CAPA failures respond करने और future risk reduce करने का structured तरीका है। यह immediate symptom fix करने से आगे जाकर cause address करती है।</p>\n<h2 id=\"hi263-correction\">जरूरत पर immediate correction से शुरू करें</h2><p>Unsafe condition में prompt containment, re-cleaning, isolation या replacement जरूरी हो सकता है।</p>\n<h2 id=\"hi263-root-cause\">Underlying cause identify करें</h2><p>Repeated failures unclear procedures, inadequate training, unrealistic schedules, equipment issues या weak supervision से आ सकती हैं।</p>\n<h2 id=\"hi263-corrective\">Corrective action recurrence कम करती है</h2><p>Corrective action identified cause address करती है।</p>\n<h2 id=\"hi263-preventive\">Preventive action similar future risk address करती है</h2><p>एक issue से मिले lessons अन्य areas में proactively apply किए जा सकते हैं।</p>\n<h2 id=\"hi263-effectiveness\">Effectiveness verify करें</h2><p>Action complete होना enough नहीं है; verify करें कि problem actually controlled है।</p>\n<h2 id=\"hi263-records\">Ownership और due dates document करें</h2><p>CAPA record में issue, cause, action, owner, target date और effectiveness review capture करें।</p>\n<h2 id=\"hi263-takeaway\">मुख्य बात</h2><p>Effective CAPA finding, cause, action और verification को connect करती है।</p>\n<h2 id=\"hi263-references\">संदर्भ</h2><ol><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}
