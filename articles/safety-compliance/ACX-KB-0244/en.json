@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0244",
+  "slug": "what-does-hygiene-audit-readiness-mean",
+  "subcategory": "Audit Readiness",
+  "subcategory_slug": "audit-readiness",
+  "related_article_ids": [
+    "ACX-KB-0245",
+    "ACX-KB-0246",
+    "ACX-KB-0247",
+    "ACX-KB-0224"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Does Hygiene Audit Readiness Mean?",
+  "excerpt": "Hygiene audit readiness means that current procedures, records, responsibilities and evidence are maintained routinely so the facility can demonstrate how its hygiene controls operate without last-minute reconstruction.",
+  "content_html": "<p>Hygiene audit readiness means being able to show, with current and reliable evidence, how the facility's hygiene controls are planned, implemented, monitored and improved. It is not the same as preparing paperwork only when an audit is announced.</p>\n<h2 id=\"routine\">Readiness is built through routine control</h2><p>A ready facility maintains its procedures, records and responsibilities during normal operations. This makes audit evidence a reflection of the system as it actually works.</p>\n<h2 id=\"criteria\">The audit criteria must be understood</h2><p>Different audits can use different criteria, including internal procedures, customer requirements, management-system standards or regulatory obligations. Readiness starts with knowing which requirements apply to the audit being performed.</p>\n<h2 id=\"evidence\">Evidence should be current and traceable</h2><p>Audits rely on evidence. Records, observations, interviews and controlled documents should be consistent enough for an auditor to understand what was planned, what was done and how issues were addressed.</p>\n<h2 id=\"ownership\">Responsibilities should be clear</h2><p>People responsible for hygiene activities should understand their roles and know where the relevant procedures and records are maintained. Readiness is stronger when knowledge is not concentrated in one person.</p>\n<h2 id=\"documents\">Documents and records should be controlled</h2><p>Current versions should be identifiable, obsolete information should not be mistaken for active instructions, and retained records should remain accessible for the period required by the applicable system.</p>\n<h2 id=\"gaps\">Known gaps should be managed openly</h2><p>Audit readiness does not mean pretending that no problems exist. It means identified gaps, corrective actions and follow-up are documented and managed through the facility's normal improvement process.</p>\n<h2 id=\"review\">Internal review supports readiness</h2><p>Periodic internal checks can confirm whether records are complete, procedures remain current, responsibilities are understood and evidence can be retrieved when needed.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Hygiene audit readiness is a state of normal operational control: current documents, reliable records, clear ownership, accessible evidence and visible follow-up. The exact evidence required depends on the audit scope and criteria.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"ref-2\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li></ol>",
+  "seo_title": "What Does Hygiene Audit Readiness Mean? | Alle's ClinX",
+  "meta_description": "Learn what hygiene audit readiness means: routine control, clear criteria, current evidence, controlled documents, defined responsibilities and managed follow-up."
+}
