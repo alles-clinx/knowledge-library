@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0244",
+  "slug": "what-does-hygiene-audit-readiness-mean",
+  "subcategory": "Audit Readiness",
+  "subcategory_slug": "audit-readiness",
+  "related_article_ids": [
+    "ACX-KB-0245",
+    "ACX-KB-0246",
+    "ACX-KB-0247",
+    "ACX-KB-0224"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0244",
+  "title": "Hygiene Audit Readiness का क्या मतलब है?",
+  "excerpt": "Hygiene audit readiness का मतलब है कि current procedures, records, responsibilities और evidence routine तरीके से maintained हों ताकि facility last-minute reconstruction के बिना अपना hygiene system demonstrate कर सके।",
+  "content_html": "<p>Hygiene audit readiness का मतलब है current और reliable evidence के साथ यह दिखा पाना कि facility के hygiene controls कैसे planned, implemented, monitored और improved होते हैं। इसका मतलब audit announce होने पर ही paperwork तैयार करना नहीं है।</p>\n<h2 id=\"hi244-routine\">Readiness routine control से बनती है</h2><p>Ready facility normal operations के दौरान procedures, records और responsibilities maintain करती है। इससे audit evidence system के actual working को reflect करता है।</p>\n<h2 id=\"hi244-criteria\">Audit criteria समझना जरूरी है</h2><p>Different audits different criteria use कर सकते हैं, जैसे internal procedures, customer requirements, management-system standards या regulatory obligations। Readiness यह जानने से शुरू होती है कि specific audit पर कौन-सी requirements apply करती हैं।</p>\n<h2 id=\"hi244-evidence\">Evidence current और traceable होना चाहिए</h2><p>Audits evidence पर depend करते हैं। Records, observations, interviews और controlled documents इतने consistent हों कि auditor समझ सके क्या planned था, क्या किया गया और issues कैसे address हुए।</p>\n<h2 id=\"hi244-ownership\">Responsibilities clear होनी चाहिए</h2><p>Hygiene activities के responsible people अपनी roles समझें और relevant procedures तथा records कहाँ maintained हैं यह जानें। Knowledge केवल एक person पर depend न करे तो readiness stronger होती है।</p>\n<h2 id=\"hi244-documents\">Documents और records controlled हों</h2><p>Current versions identifiable हों, obsolete information active instruction समझी न जाए, और retained records applicable system में required period तक accessible रहें।</p>\n<h2 id=\"hi244-gaps\">Known gaps openly manage हों</h2><p>Audit readiness का मतलब यह pretend करना नहीं कि problems नहीं हैं। इसका मतलब identified gaps, corrective actions और follow-up facility के normal improvement process में documented और managed हों।</p>\n<h2 id=\"hi244-review\">Internal review readiness support करता है</h2><p>Periodic internal checks confirm कर सकते हैं कि records complete हैं, procedures current हैं, responsibilities understood हैं और evidence जरूरत पर retrieve किया जा सकता है।</p>\n<h2 id=\"hi244-takeaway\">मुख्य बात</h2><p>Hygiene audit readiness normal operational control की state है: current documents, reliable records, clear ownership, accessible evidence और visible follow-up। Exact evidence audit scope और criteria पर depend करता है।</p>\n<h2 id=\"hi244-references\">संदर्भ</h2><ol><li id=\"hi244-ref-1\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"hi244-ref-2\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li></ol>",
+  "seo_title": "Hygiene Audit Readiness का क्या मतलब है? | Alle's ClinX",
+  "meta_description": "Hygiene audit readiness में routine control, clear criteria, current evidence, controlled documents, defined responsibilities और managed follow-up को समझें।"
+}
