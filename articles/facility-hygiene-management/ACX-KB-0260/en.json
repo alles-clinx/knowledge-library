@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0260",
+  "slug": "how-supervision-differs-from-formal-auditing",
+  "subcategory": "Supervision & Inspections",
+  "subcategory_slug": "supervision-inspections",
+  "related_article_ids": [
+    "ACX-KB-0259",
+    "ACX-KB-0261",
+    "ACX-KB-0262"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Supervision Differs from Formal Auditing",
+  "excerpt": "Supervision is continuous operational oversight; formal auditing is a structured, periodic evaluation against defined criteria with documented findings and follow-up.",
+  "seo_title": "Supervision vs Formal Auditing | Alle's ClinX",
+  "meta_description": "Understand how routine cleaning supervision differs from formal hygiene auditing in purpose, frequency, independence, evidence and follow-up.",
+  "content_html": "<p>Supervision and formal auditing both help control hygiene performance, but they serve different functions. Supervision is part of day-to-day management. Auditing is a structured evaluation of whether defined requirements are being met.</p>\n<h2 id=\"supervision\">Supervision supports daily execution</h2><p>Supervisors assign work, answer questions, observe technique, correct problems, verify completion and respond to operational issues as they occur.</p>\n<h2 id=\"audit\">Auditing evaluates the system</h2><p>A formal audit uses defined criteria, evidence and documented findings to assess whether policies, procedures, records and actual practice are aligned.</p>\n<h2 id=\"frequency\">The frequency and depth differ</h2><p>Supervision may happen every shift or every day. Audits are usually periodic and broader, although targeted audits may be triggered by risk or repeated failures.</p>\n<h2 id=\"independence\">Audits benefit from greater objectivity</h2><p>Where practical, the auditor should be sufficiently independent of the activity being reviewed to reduce bias and improve confidence in findings.</p>\n<h2 id=\"evidence\">Both use evidence, but for different decisions</h2><p>Supervision uses evidence to keep work on track. Auditing uses evidence to determine conformity, identify systemic gaps and support corrective action.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use supervision to control daily performance and formal audits to evaluate whether the wider hygiene-management system is effective and consistently followed.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.iso.org/standard/70017.html\">ISO — ISO 19011:2018 Guidelines for auditing management systems</a>.</li></ol>"
+}
