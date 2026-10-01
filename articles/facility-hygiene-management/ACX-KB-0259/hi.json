@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0259",
+  "slug": "what-is-a-hygiene-inspection",
+  "subcategory": "Supervision & Inspections",
+  "subcategory_slug": "supervision-inspections",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0252",
+    "ACX-KB-0256"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0259",
+  "title": "Hygiene Inspection क्या होती है?",
+  "excerpt": "Hygiene inspection structured review है जो areas, surfaces, tasks और records check करती है ताकि पता चले कि cleaning controls implement हो रहे हैं और required standards maintain हो रहे हैं।",
+  "seo_title": "Hygiene Inspection क्या होती है? | Alle's ClinX",
+  "meta_description": "Hygiene inspection क्या check करती है और findings corrective action व improvement को कैसे support करती हैं, समझें।",
+  "content_html": "<p>Hygiene inspection structured check है जो verify करती है कि facility के cleaning और hygiene controls intended तरीके से काम कर रहे हैं या नहीं। इसमें physical conditions, completed tasks, records, equipment, storage और staff practices examine किए जा सकते हैं।</p>\n<h2 id=\"hi259-purpose\">Purpose verification है</h2><p>Inspection cleaning replace नहीं करती। यह verify करती है कि required controls implement हुए और result expected standard meet करता है।</p>\n<h2 id=\"hi259-scope\">Inspection scope define करें</h2><p>Scope room, department, building, specific task type या risk area cover कर सकती है।</p>\n<h2 id=\"hi259-criteria\">Defined criteria use करें</h2><p>Criteria cleaning plans, schedules, SOPs, legal requirements, manufacturer instructions और facility standards से आ सकते हैं।</p>\n<h2 id=\"hi259-evidence\">Appearance से ज्यादा evidence देखें</h2><p>Visible cleanliness के साथ logs, missed tasks, product storage, equipment condition, PPE use और recurring defects भी review करें।</p>\n<h2 id=\"hi259-findings\">Findings classify करके action लें</h2><p>Findings document और assign करें। High-risk failures immediate action require कर सकते हैं; recurring issues root-cause review, retraining या schedule adjustment मांग सकते हैं।</p>\n<h2 id=\"hi259-trend\">Inspection data improvement के लिए use करें</h2><p>Trend analysis recurring problem areas और weak controls identify कर सकती है।</p>\n<h2 id=\"hi259-takeaway\">मुख्य बात</h2><p>Good hygiene inspection clear scope, defined criteria, objective evidence, documented findings और follow-up action use करती है।</p>\n<h2 id=\"hi259-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}
