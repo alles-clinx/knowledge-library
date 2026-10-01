@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0257",
+  "slug": "why-attendance-does-not-prove-competency",
+  "subcategory": "Competency Assessment",
+  "subcategory_slug": "competency-assessment",
+  "related_article_ids": [
+    "ACX-KB-0256",
+    "ACX-KB-0258",
+    "ACX-KB-0253"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0257",
+  "title": "Training Attendance Competency क्यों Prove नहीं करती?",
+  "excerpt": "Training attendance केवल presence show करती है; यह prove नहीं करती कि worker real operating conditions में task correctly perform कर सकता है।",
+  "seo_title": "Attendance Competency क्यों Prove नहीं करती? | Alle's ClinX",
+  "meta_description": "Training attendance और demonstrated competency में फर्क समझें और जानें कि stronger evidence क्या है।",
+  "content_html": "<p>Attendance record useful evidence है कि training हुई, लेकिन यह practical competency prove नहीं करता। Worker session attend कर सकता है और फिर भी important step misunderstand, forget या incorrectly apply कर सकता है।</p>\n<h2 id=\"hi257-attendance\">Attendance presence measure करती है, performance नहीं</h2><p>Sign-in sheet केवल बताती है कि कौन present था। यह नहीं बताती कि task correctly, safely और consistently perform हो सकता है या नहीं।</p>\n<h2 id=\"hi257-variation\">Learning और retention अलग हो सकते हैं</h2><p>Language, prior experience, task complexity, confidence और practice opportunities training transfer को affect करते हैं।</p>\n<h2 id=\"hi257-observation\">Observed performance stronger evidence देता है</h2><p>Actual task observe करने से sequence, PPE, product use, equipment handling और contamination control verify किए जा सकते हैं।</p>\n<h2 id=\"hi257-records\">Attendance और competency records साथ use करें</h2><p>Attendance training exposure document करती है; competency record demonstrated ability document करता है।</p>\n<h2 id=\"hi257-repeat\">Competency समय के साथ decline हो सकती है</h2><p>Previously competent worker भी methods से drift कर सकता है, खासकर infrequent tasks या changed procedures में।</p>\n<h2 id=\"hi257-takeaway\">मुख्य बात</h2><p>Training sheet पर signature को capability का proof न मानें। Important tasks को demonstration, observation और documented competency checks से verify करें।</p>\n<h2 id=\"hi257-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}
