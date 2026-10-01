@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0263",
+  "slug": "corrective-preventive-action-hygiene-management",
+  "subcategory": "Audits & CAPA",
+  "subcategory_slug": "audits-capa",
+  "related_article_ids": [
+    "ACX-KB-0262",
+    "ACX-KB-0264",
+    "ACX-KB-0259"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Corrective and Preventive Action in Hygiene Management",
+  "excerpt": "Corrective and preventive action addresses causes of hygiene failures, verifies that fixes work and uses risk information to reduce the chance of recurrence or similar future problems.",
+  "seo_title": "Corrective and Preventive Action in Hygiene Management | Alle's ClinX",
+  "meta_description": "Learn how CAPA in hygiene management moves from immediate correction to root-cause action, prevention and effectiveness verification.",
+  "content_html": "<p>Corrective and preventive action, often called CAPA, is a structured way to respond to failures and reduce future risk. It goes beyond fixing the immediate symptom by asking why the problem occurred and what system change is needed.</p>\n<h2 id=\"correction\">Start with immediate correction where needed</h2><p>Unsafe or unacceptable conditions may require prompt containment, re-cleaning, isolation, replacement or other immediate control.</p>\n<h2 id=\"root-cause\">Identify the underlying cause</h2><p>Repeated failures may come from unclear procedures, inadequate training, unrealistic schedules, equipment problems, supply shortages or weak supervision.</p>\n<h2 id=\"corrective\">Corrective action prevents recurrence</h2><p>Corrective action addresses the identified cause so the same problem is less likely to happen again.</p>\n<h2 id=\"preventive\">Preventive action addresses similar future risk</h2><p>Lessons from one issue may reveal vulnerabilities elsewhere. Preventive action applies those lessons before another failure occurs.</p>\n<h2 id=\"effectiveness\">Verify effectiveness</h2><p>An action should not be closed only because it was completed. Follow-up should confirm that the problem has actually been controlled.</p>\n<h2 id=\"records\">Document ownership and due dates</h2><p>CAPA records should identify the issue, cause, actions, responsible person, target date, completion evidence and effectiveness review.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Effective CAPA connects finding, cause, action and verification. The goal is sustained control, not temporary correction.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}
