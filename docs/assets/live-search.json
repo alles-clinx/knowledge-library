@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 508,
+  "record_count": 518,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5590,6 +5590,116 @@
       "subcategory_slug": "staff-training",
       "excerpt": "Task demonstration written instructions को observable practice में बदलता है, जिससे trainer correct method दिखा सकता है और verify कर सकता है कि staff उसे safely और consistently repeat कर सकते हैं।",
       "url": "library/facility-hygiene-management/staff-training/why-task-demonstration-matters-in-cleaning-training/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0255",
+      "locale": "en",
+      "title": "Induction Training vs Refresher Training",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Staff Training",
+      "subcategory_slug": "staff-training",
+      "excerpt": "Induction training prepares staff for safe initial work; refresher training reinforces, updates and corrects knowledge and practical performance after work has begun.",
+      "url": "library/facility-hygiene-management/staff-training/induction-training-vs-refresher-training/"
+    },
+    {
+      "article_id": "ACX-KB-0255",
+      "locale": "hi-IN",
+      "title": "Induction Training और Refresher Training में क्या अंतर है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Staff Training",
+      "subcategory_slug": "staff-training",
+      "excerpt": "Induction training staff को safe initial work के लिए prepare करती है; refresher training काम शुरू होने के बाद knowledge और practical performance को reinforce, update और correct करती है।",
+      "url": "library/facility-hygiene-management/staff-training/induction-training-vs-refresher-training/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0256",
+      "locale": "en",
+      "title": "What Is Cleaning Competency Assessment?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Competency Assessment",
+      "subcategory_slug": "competency-assessment",
+      "excerpt": "Cleaning competency assessment checks whether a worker can perform required tasks correctly, safely and consistently in practice—not simply whether training was attended.",
+      "url": "library/facility-hygiene-management/competency-assessment/what-is-cleaning-competency-assessment/"
+    },
+    {
+      "article_id": "ACX-KB-0256",
+      "locale": "hi-IN",
+      "title": "Cleaning Competency Assessment क्या होता है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Competency Assessment",
+      "subcategory_slug": "competency-assessment",
+      "excerpt": "Cleaning competency assessment check करता है कि worker required task को practice में correctly, safely और consistently perform कर सकता है या नहीं।",
+      "url": "library/facility-hygiene-management/competency-assessment/what-is-cleaning-competency-assessment/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0257",
+      "locale": "en",
+      "title": "Why Attendance Does Not Prove Competency",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Competency Assessment",
+      "subcategory_slug": "competency-assessment",
+      "excerpt": "Training attendance shows that a worker was present; it does not show that the worker can correctly perform the task under real operating conditions.",
+      "url": "library/facility-hygiene-management/competency-assessment/why-attendance-does-not-prove-competency/"
+    },
+    {
+      "article_id": "ACX-KB-0257",
+      "locale": "hi-IN",
+      "title": "Training Attendance Competency क्यों Prove नहीं करती?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Competency Assessment",
+      "subcategory_slug": "competency-assessment",
+      "excerpt": "Training attendance केवल presence show करती है; यह prove नहीं करती कि worker real operating conditions में task correctly perform कर सकता है।",
+      "url": "library/facility-hygiene-management/competency-assessment/why-attendance-does-not-prove-competency/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0258",
+      "locale": "en",
+      "title": "How Practical Observation Supports Competency Checks",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Competency Assessment",
+      "subcategory_slug": "competency-assessment",
+      "excerpt": "Practical observation lets an assessor compare real task performance with defined criteria and identify technique, safety or consistency gaps that written tests may miss.",
+      "url": "library/facility-hygiene-management/competency-assessment/how-practical-observation-supports-competency-checks/"
+    },
+    {
+      "article_id": "ACX-KB-0258",
+      "locale": "hi-IN",
+      "title": "Practical Observation Competency Checks को कैसे Support करती है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Competency Assessment",
+      "subcategory_slug": "competency-assessment",
+      "excerpt": "Practical observation assessor को real task performance को defined criteria से compare करने और technique, safety या consistency gaps identify करने देता है।",
+      "url": "library/facility-hygiene-management/competency-assessment/how-practical-observation-supports-competency-checks/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0259",
+      "locale": "en",
+      "title": "What Is a Hygiene Inspection?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supervision & Inspections",
+      "subcategory_slug": "supervision-inspections",
+      "excerpt": "A hygiene inspection is a structured review of areas, surfaces, tasks and records to check whether cleaning controls are being implemented and whether required standards are being maintained.",
+      "url": "library/facility-hygiene-management/supervision-inspections/what-is-a-hygiene-inspection/"
+    },
+    {
+      "article_id": "ACX-KB-0259",
+      "locale": "hi-IN",
+      "title": "Hygiene Inspection क्या होती है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supervision & Inspections",
+      "subcategory_slug": "supervision-inspections",
+      "excerpt": "Hygiene inspection structured review है जो areas, surfaces, tasks और records check करती है ताकि पता चले कि cleaning controls implement हो रहे हैं और required standards maintain हो रहे हैं।",
+      "url": "library/facility-hygiene-management/supervision-inspections/what-is-a-hygiene-inspection/hi.html"
     }
   ]
 }
