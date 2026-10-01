@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0242",
+  "slug": "chemical-exposure-procedure",
+  "subcategory": "Spills & Exposure",
+  "subcategory_slug": "spills-exposure",
+  "related_article_ids": [
+    "ACX-KB-0241",
+    "ACX-KB-0218",
+    "ACX-KB-0229",
+    "ACX-KB-0238"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Belongs in a Chemical Exposure Procedure?",
+  "excerpt": "A chemical exposure procedure should define recognition, reporting, emergency escalation, access to product safety information, medical coordination, documentation and follow-up.",
+  "content_html": "<p>A chemical exposure procedure gives workers and supervisors a clear framework for what to do when exposure is suspected or reported. It should focus on recognition, communication, escalation and access to authorised medical and emergency support rather than leaving people to improvise.</p>\n<h2 id=\"scope\">The procedure defines its scope</h2><p>The document should state which workplaces, tasks and types of exposure it covers and how it connects with the facility's emergency action plan and other safety procedures.</p>\n<h2 id=\"recognition\">Recognition and reporting are clear</h2><p>Workers should know how to report a suspected exposure and who must be informed. The procedure should define the reporting route and the people authorised to assess or escalate the incident.</p>\n<h2 id=\"emergency\">Emergency escalation is defined</h2><p>The procedure should explain when the facility's emergency process or outside emergency support is activated and who is responsible for making that decision.</p>\n<h2 id=\"information\">Product safety information is accessible</h2><p>The correct product identity, label and Safety Data Sheet (SDS) should be available to authorised responders and medical personnel so that decisions can be based on the actual product involved.</p>\n<h2 id=\"medical\">Medical coordination is included</h2><p>The procedure should identify how workers are connected with appropriate first-aid or medical services and who coordinates that support. It should rely on trained personnel and product-specific safety information rather than improvised treatment.</p>\n<h2 id=\"documentation\">The incident is documented</h2><p>Records can capture the product involved, time and location, people notified, actions taken by authorised personnel and any required medical or workplace follow-up.</p>\n<h2 id=\"follow-up\">Follow-up addresses both people and systems</h2><p>After an exposure incident, the facility should review whether medical follow-up, work restrictions, control changes, procedure updates or additional training are needed under the applicable requirements.</p>\n<h2 id=\"training\">Workers should understand the procedure before an incident</h2><p>Relevant workers and supervisors should know how to report an exposure, where safety information is located and how the emergency escalation process works.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A chemical exposure procedure should make responsibilities and escalation clear. It should connect the affected worker with trained medical or emergency support and the correct product information, while creating a record for follow-up and prevention.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.151\">OSHA — Medical Services and First Aid</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.38\">OSHA — Emergency Action Plans</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Hazard Communication, Appendix C</a>.</li></ol>",
+  "seo_title": "What Belongs in a Chemical Exposure Procedure? | Alle's ClinX",
+  "meta_description": "Learn the key elements of a chemical exposure procedure: reporting, escalation, SDS access, medical coordination, documentation, follow-up and training."
+}
