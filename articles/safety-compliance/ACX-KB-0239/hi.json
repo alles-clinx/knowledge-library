@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0239",
+  "slug": "what-makes-a-chemical-storage-area-well-organised",
+  "subcategory": "Chemical Storage",
+  "subcategory_slug": "chemical-storage",
+  "related_article_ids": [
+    "ACX-KB-0238",
+    "ACX-KB-0240",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0239",
+  "title": "Chemical Storage Area को Well Organised क्या बनाता है?",
+  "excerpt": "Well-organised chemical storage area clear identification, documented segregation, controlled access, inventory visibility और routine inspection support करता है।",
+  "content_html": "<p>Well-organised chemical storage area केवल appearance पर based नहीं होता; यह safety information और clear responsibility के around design होता है। Arrangement products identify करने, correct safety information find करने और attention needing conditions notice करने में मदद करनी चाहिए।</p>\n<h2 id=\"hi239-identification\">Products clearly identifiable रहते हैं</h2><p>Containers clear और current identification से associated होने चाहिए ताकि उन्हें correct label और Safety Data Sheet (SDS) से match किया जा सके।</p>\n<h2 id=\"hi239-segregation\">Segregation documented compatibility information follow करती है</h2><p>जिन products को अलग रखना required है, उन्हें accordingly store किया जाना चाहिए। Compatibility decisions SDS, label, manufacturer information और applicable workplace requirements से आने चाहिए, guesswork से नहीं।</p>\n<h2 id=\"hi239-access\">Access controlled होता है</h2><p>Storage arrangement यह reflect करे कि stored products तक किसे authorised access है और product information या workplace procedure में कौन-सी restrictions दी गई हैं।</p>\n<h2 id=\"hi239-inventory\">Inventory visible और current रहती है</h2><p>Current inventory facility को यह समझने में मदद करती है कि क्या present है, unexpected या obsolete stock identify करने और products को safety documentation से link करने में सहायता करती है।</p>\n<h2 id=\"hi239-inspection\">Layout routine inspection support करता है</h2><p>Good organisation damaged containers, missing labels, leaks, blocked access या दूसरी abnormal conditions notice करना आसान बनाती है जिन्हें facility procedure के अनुसार escalate करना चाहिए।</p>\n<h2 id=\"hi239-emergency\">Safety information जल्दी मिल सकती है</h2><p>Product inventory, SDS access और area responsibility clear तथा current हों तो emergency planning easier होती है।</p>\n<h2 id=\"hi239-takeaway\">मुख्य बात</h2><p>Well-organised chemical storage area identifiable, documented, controlled और easy to inspect होता है। Exact arrangement products present, उनकी safety information और facility requirements follow करे।</p>\n<h2 id=\"hi239-references\">संदर्भ</h2><ol><li id=\"hi239-ref-1\"><a href=\"https://www.osha.gov/hazcom/ghd053107\">OSHA — Hazard Communication Guidance for Hazard Determination</a>.</li><li id=\"hi239-ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250\">OSHA — General Requirements for Storage</a>.</li></ol>",
+  "seo_title": "Chemical Storage Area को Well Organised क्या बनाता है? | Alle's ClinX",
+  "meta_description": "Chemical storage area में identification, documented segregation, controlled access, inventory और inspection के core elements समझें।"
+}
