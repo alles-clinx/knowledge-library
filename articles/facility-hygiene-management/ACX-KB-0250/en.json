@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0250",
+  "slug": "what-is-a-facility-cleaning-plan",
+  "subcategory": "Cleaning Plans & Schedules",
+  "subcategory_slug": "cleaning-plans-schedules",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0016",
+    "ACX-KB-0017",
+    "ACX-KB-0146"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Facility Cleaning Plan?",
+  "excerpt": "A facility cleaning plan defines what must be cleaned, how often, by whom, using which methods and controls, and how completion and quality will be verified.",
+  "content_html": "<p>A facility cleaning plan is the operating framework that turns hygiene requirements into assigned, repeatable and verifiable work. It connects areas, surfaces and equipment with cleaning frequencies, methods, responsibilities, supplies, safety controls and records so the facility can manage cleaning as a system rather than as a collection of isolated tasks.</p>\n<h2 id=\"purpose\">The plan defines the required cleaning outcome</h2><p>A useful cleaning plan starts with the facility's hygiene objectives and the conditions that must be maintained. It should make clear which spaces, surfaces and equipment are in scope and what level of cleaning, disinfection or other care is required for each task.</p>\n<h2 id=\"scope\">Map areas, assets and task boundaries</h2><p>The plan should identify rooms, zones, shared spaces, high-touch points, equipment and other relevant assets. Clear task boundaries reduce gaps and duplication, especially where responsibilities are divided among housekeeping, operations, specialist teams or contractors.</p>\n<h2 id=\"frequency\">Set frequencies using risk and actual use</h2><p>Cleaning frequency should reflect how an area is used, how quickly soil can accumulate, the likelihood and consequence of contamination, occupancy, touch frequency and any applicable regulatory or facility requirements. Higher-risk or heavily used areas normally need tighter controls than low-risk, low-use spaces.</p>\n<h2 id=\"method\">Specify the approved method and resources</h2><p>For each recurring task, the plan should point to the approved method or SOP and identify the required products, equipment, dilution or preparation controls where relevant, personal protective equipment and any precautions needed to protect people, surfaces and equipment.</p>\n<h2 id=\"responsibility\">Assign ownership and escalation</h2><p>Each task should have a clearly assigned role or team, with supervision and escalation routes defined. Staff should know who performs the work, who checks it, and what to do when access, staffing, supplies, equipment condition or unusual contamination prevents normal completion.</p>\n<h2 id=\"schedule\">Convert the plan into practical schedules</h2><p>The cleaning plan provides the management framework; schedules translate that framework into daily, weekly, periodic and event-triggered work. Schedules should be realistic for staffing and operating hours and should make missed or deferred work visible rather than allowing it to disappear.</p>\n<h2 id=\"verification\">Include records, monitoring and review</h2><p>Facilities need a way to confirm that required work was completed and that the result is acceptable. Depending on risk and context, verification can include checklists, supervisor review, inspections, audit data, complaints, trend analysis or other documented monitoring. Findings should feed back into training, staffing, methods and frequencies.</p>\n<h2 id=\"change\">Keep the plan current when conditions change</h2><p>A cleaning plan should be reviewed when layouts, occupancy, activities, equipment, products, risk controls or legal and organizational requirements change. Periodic review also helps identify tasks that are missing, duplicated, no longer necessary or no longer achievable with the available resources.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A facility cleaning plan should answer six operational questions: what is cleaned, why it is required, how it is done, how often it is done, who is responsible, and how completion and quality are verified. When those elements are controlled and reviewed together, cleaning becomes easier to manage, audit and improve.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.iso.org/standard/68021.html\">ISO — ISO 41001:2018 Facility management — Management systems — Requirements with guidance for use</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs: Best Practices for Environmental Cleaning in Global Healthcare Facilities with Limited Resources</a>.</li></ol>",
+  "seo_title": "What Is a Facility Cleaning Plan? | Alle's ClinX",
+  "meta_description": "Learn what a facility cleaning plan should define: scope, frequencies, methods, responsibilities, schedules, verification, records and periodic review."
+}
