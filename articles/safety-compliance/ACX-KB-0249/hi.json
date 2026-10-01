@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0249",
+  "slug": "preventing-obsolete-cleaning-instructions",
+  "subcategory": "Records & Document Control",
+  "subcategory_slug": "records-document-control",
+  "related_article_ids": [
+    "ACX-KB-0247",
+    "ACX-KB-0248",
+    "ACX-KB-0224",
+    "ACX-KB-0227"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0249",
+  "title": "Obsolete Cleaning Instructions को कैसे Prevent करें?",
+  "excerpt": "Facilities approvals, distribution, replacement, access और periodic review control करके obsolete cleaning instructions का risk reduce कर सकती हैं।",
+  "content_html": "<p>Obsolete cleaning instructions circulation में रह सकती हैं जब documents copy, print, locally save या बिना controlled process के replace किए जाते हैं। Document control को current approved instruction identify करना आसान बनाना चाहिए और superseded versions के use की संभावना reduce करनी चाहिए।</p>\n<h2 id=\"hi249-single-source\">Defined source of truth use करें</h2><p>Facility identify करे कि current approved instruction कहाँ maintained है। Users को पता होना चाहिए कि कौन-सा system, location या controlled copy authoritative है, personal files या old printouts नहीं।</p>\n<h2 id=\"hi249-approval\">केवल approved revisions release करें</h2><p>Drafts और proposed changes approved instructions से clearly distinguish होने चाहिए। Revised document normal use में तभी आए जब required review और approval complete हों।</p>\n<h2 id=\"hi249-replacement\">Superseded copies systematically replace करें</h2><p>Revision effective होने पर distribution process controlled locations update करे और superseded copies remove या clearly identify करे ताकि वे current instruction समझकर use न हों।</p>\n<h2 id=\"hi249-electronic\">Electronic access भी control होना चाहिए</h2><p>Shared folders, intranets और document-management systems में भी duplicate या outdated files रह सकती हैं। Naming conventions, permissions और controlled links users को current version तक पहुँचने में मदद करते हैं।</p>\n<h2 id=\"hi249-printed\">Printed copies का defined status होना चाहिए</h2><p>Printed instructions use हों तो facility define करे कि वे controlled copies हैं या नहीं और revisions issue होने पर उन्हें कैसे replace किया जाएगा। Uncontrolled printouts को verified current instruction नहीं समझना चाहिए।</p>\n<h2 id=\"hi249-review\">Periodic review outdated documents identify करती है</h2><p>Correctly controlled document भी outdated हो सकता है अगर products, equipment, responsibilities या requirements change हों। Periodic review confirm करती है कि instruction approved process को अभी भी reflect करती है।</p>\n<h2 id=\"hi249-communication\">Important changes users तक पहुँचनी चाहिए</h2><p>Revision responsibilities या दूसरे important content affect करे तो affected workers और supervisors को facility change-control process के अनुसार required communication या training मिलनी चाहिए।</p>\n<h2 id=\"hi249-audit\">Obsolete-document control audit readiness support करता है</h2><p>Facility यह show कर सके कि कौन-सी instruction current है, prior versions कैसे withdraw या archive किए गए और जहाँ required हो change कैसे communicate किया गया।</p>\n<h2 id=\"hi249-takeaway\">मुख्य बात</h2><p>Obsolete instructions prevent करना memory problem नहीं, system problem है। Source, approval, distribution, replacement, review और communication control करें ताकि users reliably current approved version find कर सकें।</p>\n<h2 id=\"hi249-references\">संदर्भ</h2><ol><li id=\"hi249-ref-1\"><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015 Quality management systems — Requirements</a>.</li><li id=\"hi249-ref-2\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "Obsolete Cleaning Instructions को कैसे Prevent करें? | Alle's ClinX",
+  "meta_description": "Approval, distribution, replacement, electronic access, printed-copy status और periodic review से obsolete instructions कैसे prevent होती हैं, समझें।"
+}
