@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 468,
+  "record_count": 474,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5150,6 +5150,72 @@
       "subcategory_slug": "ghs-hazard-communication",
       "excerpt": "GHS labels signal words, hazard statements और precautionary statements को साथ use करते हैं ताकि hazard की relative severity, उसकी nature और recommended protective actions clear हों।",
       "url": "library/safety-compliance/ghs-hazard-communication/ghs-signal-words-hazard-precautionary-statements/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0235",
+      "locale": "en",
+      "title": "How PPE Fits Into Chemical Risk Control",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Personal Protective Equipment — PPE",
+      "subcategory_slug": "ppe",
+      "excerpt": "PPE is one layer of workplace risk control: it protects the worker from remaining exposure, but it should be selected through hazard assessment and used with stronger controls where feasible.",
+      "url": "library/safety-compliance/ppe/how-ppe-fits-into-chemical-risk-control/"
+    },
+    {
+      "article_id": "ACX-KB-0235",
+      "locale": "hi-IN",
+      "title": "Chemical Risk Control में PPE की भूमिका",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Personal Protective Equipment — PPE",
+      "subcategory_slug": "ppe",
+      "excerpt": "PPE workplace risk control की एक layer है: यह remaining exposure से worker को protect करता है, लेकिन इसे hazard assessment के आधार पर select करना चाहिए और stronger controls के साथ use करना चाहिए।",
+      "url": "library/safety-compliance/ppe/how-ppe-fits-into-chemical-risk-control/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0236",
+      "locale": "en",
+      "title": "Why PPE Requirements Differ Between Cleaning Tasks",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Personal Protective Equipment — PPE",
+      "subcategory_slug": "ppe",
+      "excerpt": "PPE requirements differ because workplace tasks, products and environments are not identical; selection should follow the documented hazard assessment and applicable safety information.",
+      "url": "library/safety-compliance/ppe/why-ppe-requirements-differ-between-cleaning-tasks/"
+    },
+    {
+      "article_id": "ACX-KB-0236",
+      "locale": "hi-IN",
+      "title": "Cleaning Tasks में PPE Requirements अलग क्यों होती हैं?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Personal Protective Equipment — PPE",
+      "subcategory_slug": "ppe",
+      "excerpt": "PPE requirements अलग होती हैं क्योंकि workplace tasks, products और environments identical नहीं होते; selection documented hazard assessment और applicable safety information के अनुसार होनी चाहिए।",
+      "url": "library/safety-compliance/ppe/why-ppe-requirements-differ-between-cleaning-tasks/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0237",
+      "locale": "en",
+      "title": "PPE vs Engineering Controls: Key Differences",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Personal Protective Equipment — PPE",
+      "subcategory_slug": "ppe",
+      "excerpt": "Engineering controls change the workplace or process, while PPE protects the individual worker; they reduce risk in different ways and sit at different levels in the hierarchy of controls.",
+      "url": "library/safety-compliance/ppe/ppe-vs-engineering-controls/"
+    },
+    {
+      "article_id": "ACX-KB-0237",
+      "locale": "hi-IN",
+      "title": "PPE vs Engineering Controls: मुख्य अंतर",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Personal Protective Equipment — PPE",
+      "subcategory_slug": "ppe",
+      "excerpt": "Engineering controls workplace या process को change करते हैं, जबकि PPE individual worker को protect करता है; दोनों risk अलग तरीके से reduce करते हैं और hierarchy of controls में इनके levels अलग हैं।",
+      "url": "library/safety-compliance/ppe/ppe-vs-engineering-controls/hi.html"
     }
   ]
 }
