@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 484,
+  "record_count": 494,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5326,6 +5326,116 @@
       "subcategory_slug": "spills-exposure",
       "excerpt": "Chemical exposure procedure recognition, reporting, emergency escalation, product safety information access, medical coordination, documentation और follow-up define करे।",
       "url": "library/safety-compliance/spills-exposure/chemical-exposure-procedure/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0243",
+      "locale": "en",
+      "title": "When Should a Chemical Incident Be Escalated?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Spills & Exposure",
+      "subcategory_slug": "spills-exposure",
+      "excerpt": "A chemical incident should be escalated whenever conditions are uncertain, worsening, beyond authorised response capability, or involve exposure, injury, fire, evacuation or outside emergency support.",
+      "url": "library/safety-compliance/spills-exposure/when-should-a-chemical-incident-be-escalated/"
+    },
+    {
+      "article_id": "ACX-KB-0243",
+      "locale": "hi-IN",
+      "title": "Chemical Incident को कब Escalate करना चाहिए?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Spills & Exposure",
+      "subcategory_slug": "spills-exposure",
+      "excerpt": "Chemical incident को तब escalate करना चाहिए जब situation uncertain, worsening, authorised response capability से बाहर हो, या exposure, injury, fire, evacuation या outside emergency support involve करे।",
+      "url": "library/safety-compliance/spills-exposure/when-should-a-chemical-incident-be-escalated/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0244",
+      "locale": "en",
+      "title": "What Does Hygiene Audit Readiness Mean?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Audit Readiness",
+      "subcategory_slug": "audit-readiness",
+      "excerpt": "Hygiene audit readiness means that current procedures, records, responsibilities and evidence are maintained routinely so the facility can demonstrate how its hygiene controls operate without last-minute reconstruction.",
+      "url": "library/safety-compliance/audit-readiness/what-does-hygiene-audit-readiness-mean/"
+    },
+    {
+      "article_id": "ACX-KB-0244",
+      "locale": "hi-IN",
+      "title": "Hygiene Audit Readiness का क्या मतलब है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Audit Readiness",
+      "subcategory_slug": "audit-readiness",
+      "excerpt": "Hygiene audit readiness का मतलब है कि current procedures, records, responsibilities और evidence routine तरीके से maintained हों ताकि facility last-minute reconstruction के बिना अपना hygiene system demonstrate कर सके।",
+      "url": "library/safety-compliance/audit-readiness/what-does-hygiene-audit-readiness-mean/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0245",
+      "locale": "en",
+      "title": "Cleaning Records Commonly Reviewed in Audits",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Audit Readiness",
+      "subcategory_slug": "audit-readiness",
+      "excerpt": "Cleaning audits commonly review records that show what was planned, what was completed, what was checked, and how exceptions or corrective actions were handled; the exact record set depends on the audit scope.",
+      "url": "library/safety-compliance/audit-readiness/cleaning-records-reviewed-in-audits/"
+    },
+    {
+      "article_id": "ACX-KB-0245",
+      "locale": "hi-IN",
+      "title": "Audits में Commonly Reviewed Cleaning Records",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Audit Readiness",
+      "subcategory_slug": "audit-readiness",
+      "excerpt": "Cleaning audits अक्सर ऐसे records review करते हैं जो दिखाएँ कि क्या planned था, क्या complete हुआ, क्या verify हुआ और exceptions या corrective actions कैसे handle किए गए; exact record set audit scope पर depend करता है।",
+      "url": "library/safety-compliance/audit-readiness/cleaning-records-reviewed-in-audits/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0246",
+      "locale": "en",
+      "title": "Why Document Availability Matters During Audits",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Audit Readiness",
+      "subcategory_slug": "audit-readiness",
+      "excerpt": "Document availability matters because auditors need timely access to current, relevant evidence; missing, outdated or hard-to-retrieve information can weaken traceability even when work was performed correctly.",
+      "url": "library/safety-compliance/audit-readiness/why-document-availability-matters-during-audits/"
+    },
+    {
+      "article_id": "ACX-KB-0246",
+      "locale": "hi-IN",
+      "title": "Audits के दौरान Document Availability क्यों Matter करती है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Audit Readiness",
+      "subcategory_slug": "audit-readiness",
+      "excerpt": "Document availability matter करती है क्योंकि auditors को current और relevant evidence timely access चाहिए; missing, outdated या difficult-to-retrieve information traceability कमजोर कर सकती है।",
+      "url": "library/safety-compliance/audit-readiness/why-document-availability-matters-during-audits/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0247",
+      "locale": "en",
+      "title": "What Is Document Control in Facility Hygiene?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Records & Document Control",
+      "subcategory_slug": "records-document-control",
+      "excerpt": "Document control is the system used to create, approve, identify, update, distribute, protect, retain and retire hygiene documents and records so people use reliable information.",
+      "url": "library/safety-compliance/records-document-control/what-is-document-control-in-facility-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0247",
+      "locale": "hi-IN",
+      "title": "Facility Hygiene में Document Control क्या है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Records & Document Control",
+      "subcategory_slug": "records-document-control",
+      "excerpt": "Document control वह system है जो hygiene documents और records को create, approve, identify, update, distribute, protect, retain और retire करता है ताकि people reliable information use करें।",
+      "url": "library/safety-compliance/records-document-control/what-is-document-control-in-facility-hygiene/hi.html"
     }
   ]
 }
