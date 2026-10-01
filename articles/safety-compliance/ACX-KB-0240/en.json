@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0240",
+  "slug": "incompatible-product-storage",
+  "subcategory": "Chemical Storage",
+  "subcategory_slug": "chemical-storage",
+  "related_article_ids": [
+    "ACX-KB-0238",
+    "ACX-KB-0239",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Incompatible Products Should Not Be Stored Together",
+  "excerpt": "Some chemical products require separation because incompatibility can create additional hazards; storage decisions should follow documented safety information, not assumptions.",
+  "content_html": "<p>Some chemical products should not be stored together because contact between incompatible materials can create additional hazards. Facilities should manage compatibility using documented safety information rather than assumptions based on appearance, brand or normal use.</p>\n<h2 id=\"meaning\">Incompatibility is a safety property</h2><p>Chemical incompatibility means that certain materials should be kept apart because contact or loss of containment can create unsafe conditions. The exact compatibility requirements depend on the products involved.</p>\n<h2 id=\"verify\">Compatibility should be verified from authoritative information</h2><p>Labels, Safety Data Sheets (SDSs), manufacturer guidance and applicable workplace requirements are the appropriate sources for storage restrictions and segregation requirements.</p>\n<h2 id=\"not-guess\">Do not rely on colour, odour or product category</h2><p>Products that look similar or are used for similar tasks can still have different hazard properties. Storage decisions should therefore not be based on appearance or informal assumptions.</p>\n<h2 id=\"segregation\">Segregation reduces the consequences of a storage problem</h2><p>Where separation is required, a controlled storage system helps prevent unintended contact and supports safer management if a container is damaged or another abnormal condition occurs.</p>\n<h2 id=\"inventory\">Inventory and labelling support compatibility control</h2><p>Current identification and inventory records make it easier to confirm what is present and check the correct safety information before storage arrangements are changed.</p>\n<h2 id=\"changes\">Reassess storage when products change</h2><p>Adding a new product, changing suppliers or changing the storage layout can require a review of compatibility information. Existing arrangements should not be assumed to remain appropriate automatically.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Incompatible products should be kept apart whenever the documented safety information requires it. Verify storage restrictions from the current label, SDS, manufacturer guidance and applicable workplace procedure.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/hazcom/ghd053107\">OSHA — Hazard Communication Guidance for Hazard Determination</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250\">OSHA — General Requirements for Storage</a>.</li></ol>",
+  "seo_title": "Why Incompatible Products Should Not Be Stored Together | Alle's ClinX",
+  "meta_description": "Learn why chemical incompatibility matters in storage and why segregation decisions should follow labels, SDSs and documented workplace requirements."
+}
