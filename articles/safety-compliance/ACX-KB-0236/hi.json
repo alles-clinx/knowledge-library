@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0236",
+  "slug": "why-ppe-requirements-differ-between-cleaning-tasks",
+  "subcategory": "Personal Protective Equipment — PPE",
+  "subcategory_slug": "ppe",
+  "related_article_ids": [
+    "ACX-KB-0235",
+    "ACX-KB-0237",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0236",
+  "title": "Cleaning Tasks में PPE Requirements अलग क्यों होती हैं?",
+  "excerpt": "PPE requirements अलग होती हैं क्योंकि workplace tasks, products और environments identical नहीं होते; selection documented hazard assessment और applicable safety information के अनुसार होनी चाहिए।",
+  "content_html": "<p>PPE requirements cleaning tasks के बीच अलग हो सकती हैं क्योंकि involved hazards, products, equipment और work environments हमेशा same नहीं होते। इसलिए PPE selection documented hazard assessment और applicable safety information के अनुसार होनी चाहिए, one-size-fits-all rule के अनुसार नहीं।</p>\n<h2 id=\"hi236-hazards\">Different tasks में different hazards हो सकते हैं</h2><p>Routine task और specialised task में same hazards जरूरी नहीं होते। Required protection specific activity के लिए identified hazards को reflect करना चाहिए।</p>\n<h2 id=\"hi236-product-information\">Product information requirement बदल सकती है</h2><p>Different products की classifications और safety requirements अलग हो सकती हैं। Labels और Safety Data Sheets ऐसी information देते हैं जो PPE selection को affect कर सकती है।</p>\n<h2 id=\"hi236-environment\">Work environment matter करता है</h2><p>Work-area conditions, equipment, nearby activities और दूसरे workplace factors overall hazard assessment को affect कर सकते हैं। PPE selection में full work setting consider होना चाहिए।</p>\n<h2 id=\"hi236-combined-hazards\">एक समय में कई hazards हो सकते हैं</h2><p>कुछ tasks में एक से अधिक workplace hazards हो सकते हैं। Assessment को उन्हें साथ consider करना चाहिए ताकि selected PPE overall task के लिए appropriate रहे।</p>\n<h2 id=\"hi236-fit\">Fit और compatibility matter करते हैं</h2><p>PPE individual को सही fit होना चाहिए और दूसरे required protective equipment के साथ सही work करना चाहिए। Poor fit या items के बीच interference protection reduce कर सकता है।</p>\n<h2 id=\"hi236-documents\">Documented safety information use करें</h2><p>Product labels, Safety Data Sheets, workplace procedures और formal hazard assessment को PPE requirements determine करते समय साथ पढ़ना चाहिए। Task या conditions change हों तो assessment को भी review करने की जरूरत हो सकती है।</p>\n<h2 id=\"hi236-not-uniform\">Standard PPE set हर task cover नहीं कर सकता</h2><p>Routine uniform या standard PPE set consistency support कर सकता है, लेकिन यह assume नहीं करना चाहिए कि वही हर activity के लिए suitable होगा। Task-specific requirements documented assessment follow करनी चाहिए।</p>\n<h2 id=\"hi236-takeaway\">मुख्य बात</h2><p>PPE requirements अलग होती हैं क्योंकि tasks अलग होते हैं। Specific task के लिए current hazard assessment, product safety information और workplace procedure follow करना safest approach है।</p>\n<h2 id=\"hi236-references\">संदर्भ</h2><ol><li id=\"hi236-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910SubpartIAppB\">OSHA — PPE Hazard Assessment and Selection Guidelines</a>.</li><li id=\"hi236-ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910subparti\">OSHA — Personal Protective Equipment, 1910 Subpart I</a>.</li></ol>",
+  "seo_title": "Cleaning Tasks में PPE Requirements क्यों बदलती हैं? | Alle's ClinX",
+  "meta_description": "जानें कि documented hazard assessment, product information, fit और workplace conditions के कारण cleaning tasks में PPE requirements क्यों बदलती हैं।"
+}
