@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0235",
+  "slug": "how-ppe-fits-into-chemical-risk-control",
+  "subcategory": "Personal Protective Equipment — PPE",
+  "subcategory_slug": "ppe",
+  "related_article_ids": [
+    "ACX-KB-0236",
+    "ACX-KB-0237",
+    "ACX-KB-0232",
+    "ACX-KB-0229"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How PPE Fits Into Chemical Risk Control",
+  "excerpt": "PPE is one layer of workplace risk control: it protects the worker from remaining exposure, but it should be selected through hazard assessment and used with stronger controls where feasible.",
+  "content_html": "<p>Personal protective equipment (PPE) is an important part of workplace risk control, but it is not normally the first or only control to consider. PPE protects the person wearing it from remaining exposure, while other controls can remove a hazard, isolate people from it or change how the task is performed.</p>\n<h2 id=\"hierarchy\">PPE sits at the lower end of the hierarchy of controls</h2><p>The hierarchy of controls places elimination and substitution first, followed by engineering controls, administrative or work-practice controls, and then PPE. Controls higher in the hierarchy are generally preferred because they reduce exposure with less dependence on individual behaviour or correct equipment use.</p>\n<h2 id=\"remaining-risk\">PPE addresses remaining exposure</h2><p>PPE becomes important when a hazard cannot be fully removed or controlled by other practical measures, or while stronger controls are being implemented. The specific protection needed depends on the hazard assessment for the task.</p>\n<h2 id=\"assessment\">Selection starts with hazard assessment</h2><p>PPE should be selected for hazards that are actually present or reasonably foreseeable. The assessment should consider the product information, how the task is performed, the work environment and any additional workplace hazards.</p>\n<h2 id=\"match\">PPE must match the hazard and task</h2><p>Different protective equipment is designed for different hazards. A generic protective item is not automatically suitable for every task. Selection should consider protective capability, compatibility, coverage and equipment limitations.</p>\n<h2 id=\"fit-use\">Fit, condition and correct use matter</h2><p>Protection can be reduced if PPE fits poorly, is damaged, is worn incorrectly or is not maintained as required. Workers should understand why the PPE is needed, its limitations and the applicable workplace procedure.</p>\n<h2 id=\"combination\">PPE often works with other controls</h2><p>A well-controlled task may use several measures together. Engineering or work-practice controls can reduce exposure at the source or along the pathway, while PPE provides an additional barrier for the worker.</p>\n<h2 id=\"practical\">Practical takeaway</h2><p>Start with the hazard and the task, not with a preferred item of PPE. Control the hazard as high in the hierarchy as reasonably practicable, then use correctly selected PPE for the exposure that remains. Reassess the controls when the task or conditions change.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/niosh/hierarchy-of-controls/about/index.html\">NIOSH — Hierarchy of Controls</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/safety-management/hazard-prevention\">OSHA — Hazard Prevention and Control</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910SubpartIAppB\">OSHA — PPE Hazard Assessment and Selection Guidelines</a>.</li></ol>",
+  "seo_title": "How PPE Fits Into Chemical Risk Control | Alle's ClinX",
+  "meta_description": "Learn where PPE fits in workplace risk control, why hazard assessment matters, and why PPE should work with stronger controls."
+}
