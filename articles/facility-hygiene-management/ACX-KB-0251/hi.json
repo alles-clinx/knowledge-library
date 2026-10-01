@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0251",
+  "slug": "how-cleaning-plans-and-cleaning-schedules-differ",
+  "subcategory": "Cleaning Plans & Schedules",
+  "subcategory_slug": "cleaning-plans-schedules",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0015",
+    "ACX-KB-0017",
+    "ACX-KB-0252"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0251",
+  "title": "Cleaning Plan और Cleaning Schedule में क्या अंतर है?",
+  "excerpt": "Cleaning plan management framework, standards और controls define करता है; cleaning schedule उसी framework को timed और assigned tasks में बदलता है।",
+  "content_html": "<p>Cleaning plan और cleaning schedule closely related हैं, लेकिन दोनों same document नहीं हैं। Cleaning plan overall system define करता है: क्या control करना है, कौन-से standards achieve करने हैं, approved methods क्या हैं, responsibilities कैसे assigned हैं और verification व review कैसे होंगे। Cleaning schedule इन requirements को specific tasks में बदलता है जो defined time या frequency पर complete होने चाहिए।</p>\n<h2 id=\"hi251-plan-role\">Cleaning plan management framework set करता है</h2><p>Plan facility के cleaning objectives, scope, risk logic, approved methods, responsibilities, products और equipment, safety controls, records और quality-verification approach explain करता है। यही rules cleaning work design और manage करने के लिए use होते हैं।</p>\n<h2 id=\"hi251-schedule-role\">Cleaning schedule execution organize करता है</h2><p>Schedule बताता है कि कौन-सा task due है, कहाँ apply होता है, कितनी frequency पर करना है और responsibility किसकी है। Facility और task के अनुसार इसे shift, day, week, month, event या area के हिसाब से organize किया जा सकता है।</p>\n<h2 id=\"hi251-different-questions\">दोनों अलग operational questions का जवाब देते हैं</h2><p>Plan यह बताता है कि task क्यों required है, कौन-सा method approved है और performance कैसे control होगी। Schedule यह बताता है कि task कब due है और कौन complete करेगा। Plan के बिना schedule work list कर सकता है लेकिन standard define नहीं करता; schedule के बिना plan reliable daily action में convert नहीं हो सकता।</p>\n<h2 id=\"hi251-link-sops\">दोनों SOPs और job aids से linked होने चाहिए</h2><p>हर technical instruction plan या schedule में repeat नहीं करनी चाहिए। जहाँ task के लिए defined sequence, product preparation, safety precaution या equipment method जरूरी हो, वहाँ approved SOP, checklist या job aid की link या reference होनी चाहिए।</p>\n<h2 id=\"hi251-changes\">Changes plan से schedule तक flow होने चाहिए</h2><p>Risk, occupancy, equipment, products, staffing या facility use change हो तो पहले plan review की जरूरत हो सकती है। उसके बाद frequency, responsibility या task scope में change relevant schedules में भी reflect होना चाहिए ताकि operational documents aligned रहें।</p>\n<h2 id=\"hi251-verification\">Schedules completion evidence support करते हैं</h2><p>Schedules completion records, supervisor checks और missed-task escalation का practical base बनते हैं। Wider plan define करता है कि इन records को कैसे review किया जाएगा और recurring failures पर corrective action कैसे लिया जाएगा।</p>\n<h2 id=\"hi251-takeaway\">मुख्य बात</h2><p>Cleaning plan को control system और cleaning schedule को execution calendar समझें। Strong facility system में दोनों linked रहते हैं: plan rules और standards define करता है, जबकि schedule उन्हें assigned work के रूप में visible बनाता है।</p>\n<h2 id=\"hi251-references\">संदर्भ</h2><ol><li id=\"hi251-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi251-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>",
+  "seo_title": "Cleaning Plan और Cleaning Schedule में अंतर | Alle's ClinX",
+  "meta_description": "Cleaning plan और cleaning schedule के roles, differences और controlled facility cleaning में उनके साथ काम करने का तरीका समझें।"
+}
