@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0253",
+  "slug": "what-should-cleaning-staff-training-cover",
+  "subcategory": "Staff Training",
+  "subcategory_slug": "staff-training",
+  "related_article_ids": [
+    "ACX-KB-0254",
+    "ACX-KB-0151",
+    "ACX-KB-0184",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0253",
+  "title": "Cleaning Staff Training में क्या-क्या Cover होना चाहिए?",
+  "excerpt": "Cleaning staff training में task methods, hygiene principles, chemical और equipment safety, PPE, facility-specific risks, records, escalation और demonstrated competency शामिल होने चाहिए।",
+  "content_html": "<p>Cleaning staff training workers को assigned tasks safely, consistently और required standard पर perform करने के लिए prepare करनी चाहिए। इसमें facility-specific procedures के साथ practical skill development होना चाहिए; केवल policies पढ़ना या one-time presentation attend करना पर्याप्त नहीं है।</p>\n<h2 id=\"hi253-role\">Cleaning role और hygiene purpose explain करें</h2><p>Staff को समझना चाहिए कि environmental cleaning क्यों important है, contamination कैसे spread हो सकती है, उनका काम building users को कैसे protect करता है और उनके role की responsibilities क्या हैं। Training task को hygiene outcome से connect करे, केवल steps बिना context के न सिखाए।</p>\n<h2 id=\"hi253-methods\">Approved procedures और task sequence सिखाएँ</h2><p>Workers को routine और periodic tasks का correct method पता होना चाहिए, जिसमें work order, surface या equipment precautions, product application, जहाँ applicable हो contact time, cloth या tool use, waste handling और completion के बाद के steps शामिल हों।</p>\n<h2 id=\"hi253-chemicals\">Chemical use और hazard controls cover करें</h2><p>Training में product identification, label और SDS access, relevant dilution या preparation, incompatible mixing hazards, ventilation, spill response और required protective measures शामिल हों। Workers को यह भी पता होना चाहिए कि unfamiliar product के साथ improvise करने की बजाय कब stop और escalate करना है।</p>\n<h2 id=\"hi253-equipment\">Equipment preparation, use और care सिखाएँ</h2><p>Staff को used equipment के inspection before use, safe operation, use के बाद cleaning या reprocessing, storage और defect reporting पर train किया जाना चाहिए। New equipment को self-explanatory नहीं मानना चाहिए।</p>\n<h2 id=\"hi253-ppe\">PPE और personal hygiene requirements शामिल करें</h2><p>Workers को पता होना चाहिए कि specific tasks के लिए कौन-सा PPE required है, उसे सही तरह use और remove कैसे करना है, hand hygiene कब required है और contamination को areas के बीच transfer होने से कैसे रोकना है।</p>\n<h2 id=\"hi253-facility\">Facility और higher-risk areas की orientation दें</h2><p>Training में area classifications, access restrictions, high-risk या specialized locations, clean और dirty routes, storage points, emergency contacts और cleaning work को affect करने वाले local rules explain होने चाहिए।</p>\n<h2 id=\"hi253-records\">Records, communication और escalation सिखाएँ</h2><p>Staff को checklists या logs complete करना, missed work report करना, damaged surfaces या equipment identify करना, unusual contamination escalate करना और planned task complete न हो सके तो communicate करना आना चाहिए।</p>\n<h2 id=\"hi253-competency\">Practice से competency verify करें</h2><p>Training अधिक effective होती है जब workers task demonstrate करते हैं और feedback receive करते हैं। Competency checks, supervision, monitoring और refresher training उन gaps को identify कर सकते हैं जो attendance records से दिखाई नहीं देते।</p>\n<h2 id=\"hi253-takeaway\">मुख्य बात</h2><p>Effective cleaning training knowledge, demonstration, supervised practice और verification को combine करती है। Goal केवल training occurrence record करना नहीं, बल्कि यह confirm करना है कि staff real facility में required work safely और consistently perform कर सकते हैं।</p>\n<h2 id=\"hi253-references\">संदर्भ</h2><ol><li id=\"hi253-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li><li id=\"hi253-ref-2\"><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-prepare.html\">CDC Project Firstline — Effective Cleaning and Disinfection Start with Preparation</a>.</li></ol>",
+  "seo_title": "Cleaning Staff Training में क्या Cover होना चाहिए? | Alle's ClinX",
+  "meta_description": "Cleaning staff training में procedures, hygiene, chemicals, equipment, PPE, facility risks, records, escalation और competency के core topics समझें।"
+}
