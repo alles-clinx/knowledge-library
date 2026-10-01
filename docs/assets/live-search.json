@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 500,
+  "record_count": 508,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5502,6 +5502,94 @@
       "subcategory_slug": "cleaning-plans-schedules",
       "excerpt": "Facility cleaning plan यह define करता है कि क्या clean करना है, कितनी frequency पर, किसकी responsibility है, कौन-से methods और controls use होंगे, और completion व quality कैसे verify होगी।",
       "url": "library/facility-hygiene-management/cleaning-plans-schedules/what-is-a-facility-cleaning-plan/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0251",
+      "locale": "en",
+      "title": "How Cleaning Plans and Cleaning Schedules Differ",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Cleaning Plans & Schedules",
+      "subcategory_slug": "cleaning-plans-schedules",
+      "excerpt": "A cleaning plan defines the management framework, standards and controls; a cleaning schedule converts that framework into timed, assigned tasks.",
+      "url": "library/facility-hygiene-management/cleaning-plans-schedules/how-cleaning-plans-and-cleaning-schedules-differ/"
+    },
+    {
+      "article_id": "ACX-KB-0251",
+      "locale": "hi-IN",
+      "title": "Cleaning Plan और Cleaning Schedule में क्या अंतर है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Cleaning Plans & Schedules",
+      "subcategory_slug": "cleaning-plans-schedules",
+      "excerpt": "Cleaning plan management framework, standards और controls define करता है; cleaning schedule उसी framework को timed और assigned tasks में बदलता है।",
+      "url": "library/facility-hygiene-management/cleaning-plans-schedules/how-cleaning-plans-and-cleaning-schedules-differ/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0252",
+      "locale": "en",
+      "title": "How to Set Cleaning Frequencies by Risk and Use",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Cleaning Plans & Schedules",
+      "subcategory_slug": "cleaning-plans-schedules",
+      "excerpt": "Cleaning frequency should reflect contamination risk, touch and traffic levels, occupancy, task purpose, facility use and the consequences of inadequate cleaning.",
+      "url": "library/facility-hygiene-management/cleaning-plans-schedules/how-to-set-cleaning-frequencies-by-risk-and-use/"
+    },
+    {
+      "article_id": "ACX-KB-0252",
+      "locale": "hi-IN",
+      "title": "Risk और Use के आधार पर Cleaning Frequency कैसे Set करें?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Cleaning Plans & Schedules",
+      "subcategory_slug": "cleaning-plans-schedules",
+      "excerpt": "Cleaning frequency contamination risk, touch और traffic levels, occupancy, task purpose, facility use और inadequate cleaning के consequences पर आधारित होनी चाहिए।",
+      "url": "library/facility-hygiene-management/cleaning-plans-schedules/how-to-set-cleaning-frequencies-by-risk-and-use/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0253",
+      "locale": "en",
+      "title": "What Should Cleaning Staff Training Cover?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Staff Training",
+      "subcategory_slug": "staff-training",
+      "excerpt": "Cleaning staff training should cover task methods, hygiene principles, chemical and equipment safety, PPE, facility-specific risks, records, escalation and demonstrated competency.",
+      "url": "library/facility-hygiene-management/staff-training/what-should-cleaning-staff-training-cover/"
+    },
+    {
+      "article_id": "ACX-KB-0253",
+      "locale": "hi-IN",
+      "title": "Cleaning Staff Training में क्या-क्या Cover होना चाहिए?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Staff Training",
+      "subcategory_slug": "staff-training",
+      "excerpt": "Cleaning staff training में task methods, hygiene principles, chemical और equipment safety, PPE, facility-specific risks, records, escalation और demonstrated competency शामिल होने चाहिए।",
+      "url": "library/facility-hygiene-management/staff-training/what-should-cleaning-staff-training-cover/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0254",
+      "locale": "en",
+      "title": "Why Task Demonstration Matters in Cleaning Training",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Staff Training",
+      "subcategory_slug": "staff-training",
+      "excerpt": "Task demonstration turns written instructions into observable practice, allowing trainers to show the correct method and verify that staff can repeat it safely and consistently.",
+      "url": "library/facility-hygiene-management/staff-training/why-task-demonstration-matters-in-cleaning-training/"
+    },
+    {
+      "article_id": "ACX-KB-0254",
+      "locale": "hi-IN",
+      "title": "Cleaning Training में Task Demonstration क्यों जरूरी है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Staff Training",
+      "subcategory_slug": "staff-training",
+      "excerpt": "Task demonstration written instructions को observable practice में बदलता है, जिससे trainer correct method दिखा सकता है और verify कर सकता है कि staff उसे safely और consistently repeat कर सकते हैं।",
+      "url": "library/facility-hygiene-management/staff-training/why-task-demonstration-matters-in-cleaning-training/hi.html"
     }
   ]
 }
