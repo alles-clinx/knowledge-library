@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0237",
+  "slug": "ppe-vs-engineering-controls",
+  "subcategory": "Personal Protective Equipment — PPE",
+  "subcategory_slug": "ppe",
+  "related_article_ids": [
+    "ACX-KB-0235",
+    "ACX-KB-0236",
+    "ACX-KB-0232",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0237",
+  "title": "PPE vs Engineering Controls: मुख्य अंतर",
+  "excerpt": "Engineering controls workplace या process को change करते हैं, जबकि PPE individual worker को protect करता है; दोनों risk अलग तरीके से reduce करते हैं और hierarchy of controls में इनके levels अलग हैं।",
+  "content_html": "<p>Personal protective equipment (PPE) और engineering controls दोनों workplace risk-control measures हैं, लेकिन वे अलग जगह act करते हैं। Engineering controls workplace या process को change करते हैं। PPE individual worker द्वारा पहना जाता है।</p>\n<h2 id=\"hi237-hierarchy\">Hierarchy of controls में इनके levels अलग हैं</h2><p>Engineering controls hierarchy of controls में administrative controls और PPE से ऊपर आते हैं। Higher-level controls सामान्यतः prefer किए जाते हैं क्योंकि वे individual behaviour पर कम depend करते हुए risk reduce कर सकते हैं।</p>\n<h2 id=\"hi237-engineering\">Engineering controls workplace को change करते हैं</h2><p>Engineering controls physical या technical changes होते हैं जिनका उद्देश्य workplace hazard के contact को reduce करना है। इनका focus work environment को design के through safer बनाना होता है।</p>\n<h2 id=\"hi237-ppe\">PPE individual को protect करता है</h2><p>PPE worker द्वारा पहना जाने वाला protective equipment है, जहाँ documented assessment इसकी जरूरत दिखाती है। इसकी effectiveness correct selection, fit, condition और use पर depend करती है।</p>\n<h2 id=\"hi237-difference\">मुख्य अंतर यह है कि control कहाँ act करता है</h2><p>Engineering controls workplace या process पर act करते हैं। PPE individual worker पर act करता है। यही difference दोनों control types की strengths और limitations को समझाता है।</p>\n<h2 id=\"hi237-combination\">दोनों साथ use हो सकते हैं</h2><p>एक control हमेशा दूसरे को replace नहीं करता। Workplace broader risk reduction के लिए stronger controls और appropriate होने पर additional layer के रूप में PPE use कर सकता है।</p>\n<h2 id=\"hi237-assessment\">Assessment तय करती है कि क्या appropriate है</h2><p>Appropriate control strategy documented workplace assessment और applicable safety requirements follow करनी चाहिए। Conditions या tasks change होने पर controls review होने चाहिए।</p>\n<h2 id=\"hi237-takeaway\">मुख्य बात</h2><p>Engineering controls को workplace changes और PPE को worker द्वारा पहने जाने वाले protection के रूप में समझें। दोनों important हो सकते हैं, लेकिन mainly PPE पर rely करने से पहले hierarchy में higher controls consider किए जाने चाहिए।</p>\n<h2 id=\"hi237-references\">संदर्भ</h2><ol><li id=\"hi237-ref-1\"><a href=\"https://www.cdc.gov/niosh/hierarchy-of-controls/about/index.html\">NIOSH — Hierarchy of Controls</a>.</li><li id=\"hi237-ref-2\"><a href=\"https://www.osha.gov/safety-management/hazard-prevention\">OSHA — Hazard Prevention and Control</a>.</li></ol>",
+  "seo_title": "PPE vs Engineering Controls: मुख्य अंतर | Alle's ClinX",
+  "meta_description": "PPE और engineering controls कहाँ act करते हैं और workplace risk-control hierarchy में कैसे अलग हैं, यह समझें।"
+}
