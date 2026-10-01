@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0262",
+  "slug": "what-is-a-facility-hygiene-audit",
+  "subcategory": "Audits & CAPA",
+  "subcategory_slug": "audits-capa",
+  "related_article_ids": [
+    "ACX-KB-0259",
+    "ACX-KB-0260",
+    "ACX-KB-0263",
+    "ACX-KB-0264"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0262",
+  "title": "Facility Hygiene Audit क्या होता है?",
+  "excerpt": "Facility hygiene audit hygiene controls, records और actual practice को defined requirements के against structured तरीके से evaluate करती है।",
+  "seo_title": "Facility Hygiene Audit क्या है? | Alle's ClinX",
+  "meta_description": "Facility hygiene audit scope, evidence, findings और corrective action को कैसे evaluate करती है, समझें।",
+  "content_html": "<p>Facility hygiene audit planned और documented evaluation है जो verify करती है कि hygiene-management requirements implement और maintain हो रही हैं या नहीं।</p>\n<h2 id=\"hi262-scope\">Audit scope और criteria define करें</h2><p>Areas, processes, records और requirements clearly specify करें।</p>\n<h2 id=\"hi262-evidence\">Objective evidence gather करें</h2><p>Evidence में observations, interviews, schedules, training records, inspection data और corrective-action records शामिल हो सकते हैं।</p>\n<h2 id=\"hi262-sampling\">Audits sampling use कर सकती हैं</h2><p>हर record review करना जरूरी नहीं; sampling risk के अनुसार appropriate होनी चाहिए।</p>\n<h2 id=\"hi262-findings\">Conformity और non-conformity document करें</h2><p>Finding को evidence और applicable requirement से link करें।</p>\n<h2 id=\"hi262-follow-up\">Follow-up audit cycle का हिस्सा है</h2><p>Significant findings corrective action, owner, due date और effectiveness verification तक lead करें।</p>\n<h2 id=\"hi262-takeaway\">मुख्य बात</h2><p>Hygiene audit केवल visible cleanliness नहीं देखती; यह system, records और actual practice collectively evaluate करती है।</p>\n<h2 id=\"hi262-references\">संदर्भ</h2><ol><li><a href=\"https://www.iso.org/standard/70017.html\">ISO — ISO 19011:2018</a>.</li></ol>"
+}
