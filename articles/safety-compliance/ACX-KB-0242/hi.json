@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0242",
+  "slug": "chemical-exposure-procedure",
+  "subcategory": "Spills & Exposure",
+  "subcategory_slug": "spills-exposure",
+  "related_article_ids": [
+    "ACX-KB-0241",
+    "ACX-KB-0218",
+    "ACX-KB-0229",
+    "ACX-KB-0238"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0242",
+  "title": "Chemical Exposure Procedure में क्या शामिल होना चाहिए?",
+  "excerpt": "Chemical exposure procedure recognition, reporting, emergency escalation, product safety information access, medical coordination, documentation और follow-up define करे।",
+  "content_html": "<p>Chemical exposure procedure workers और supervisors को suspected या reported exposure के समय clear framework देता है। इसका focus recognition, communication, escalation और authorised medical तथा emergency support तक access पर होना चाहिए ताकि लोग improvise न करें।</p>\n<h2 id=\"hi242-scope\">Procedure अपना scope define करती है</h2><p>Document बताए कि यह किन workplaces, tasks और exposure types को cover करती है और facility emergency action plan तथा दूसरी safety procedures से कैसे connect होती है।</p>\n<h2 id=\"hi242-recognition\">Recognition और reporting clear होते हैं</h2><p>Workers को पता होना चाहिए कि suspected exposure report कैसे करना है और किसे inform करना है। Procedure reporting route और incident assess या escalate करने की authority identify करे।</p>\n<h2 id=\"hi242-emergency\">Emergency escalation defined होती है</h2><p>Procedure explain करे कि facility emergency process या outside emergency support कब activate होगा और यह decision लेने की responsibility किसकी है।</p>\n<h2 id=\"hi242-information\">Product safety information accessible रहती है</h2><p>Correct product identity, label और Safety Data Sheet (SDS) authorised responders और medical personnel के लिए available हों ताकि decisions actual product involved पर based हों।</p>\n<h2 id=\"hi242-medical\">Medical coordination included होती है</h2><p>Procedure identify करे कि workers appropriate first-aid या medical services से कैसे connect होंगे और उस support को कौन coordinate करेगा। Improvised treatment के बजाय trained personnel और product-specific safety information पर rely करना चाहिए।</p>\n<h2 id=\"hi242-documentation\">Incident documented होता है</h2><p>Records product involved, time और location, people notified, authorised personnel द्वारा ली गई actions और required medical या workplace follow-up capture कर सकते हैं।</p>\n<h2 id=\"hi242-follow-up\">Follow-up people और systems दोनों address करता है</h2><p>Exposure incident के बाद facility review करे कि applicable requirements के under medical follow-up, work restrictions, control changes, procedure updates या additional training needed है या नहीं।</p>\n<h2 id=\"hi242-training\">Incident से पहले workers procedure समझें</h2><p>Relevant workers और supervisors को पता होना चाहिए कि exposure report कैसे करना है, safety information कहाँ located है और emergency escalation process कैसे work करती है।</p>\n<h2 id=\"hi242-takeaway\">मुख्य बात</h2><p>Chemical exposure procedure responsibilities और escalation clear करे। यह affected worker को trained medical या emergency support और correct product information से connect करे तथा follow-up और prevention के लिए record create करे।</p>\n<h2 id=\"hi242-references\">संदर्भ</h2><ol><li id=\"hi242-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.151\">OSHA — Medical Services and First Aid</a>.</li><li id=\"hi242-ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.38\">OSHA — Emergency Action Plans</a>.</li><li id=\"hi242-ref-3\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Hazard Communication, Appendix C</a>.</li></ol>",
+  "seo_title": "Chemical Exposure Procedure में क्या शामिल होना चाहिए? | Alle's ClinX",
+  "meta_description": "Chemical exposure procedure में reporting, escalation, SDS access, medical coordination, documentation, follow-up और training के key elements समझें।"
+}
