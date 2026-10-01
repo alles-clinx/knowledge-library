@@ -233,7 +233,8 @@
     "ACX-KB-0229",
     "ACX-KB-0230",
     "ACX-KB-0231",
-    "ACX-KB-0232"
+    "ACX-KB-0232",
+    "ACX-KB-0233"
   ],
   "completed_batches": [
     "batch-001",
@@ -286,5 +287,5 @@
     "batch-048",
     "batch-049"
   ],
-  "note": "Batches 001-049 are live. Batch 050 is next; only QA-passed article IDs belong in live_article_ids."
+  "note": "Batches 001-049 are live. Batch 050 is in progress; only QA-passed article IDs belong in live_article_ids."
 }
