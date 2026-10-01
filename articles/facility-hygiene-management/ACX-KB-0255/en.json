@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0255",
+  "slug": "induction-training-vs-refresher-training",
+  "subcategory": "Staff Training",
+  "subcategory_slug": "staff-training",
+  "related_article_ids": [
+    "ACX-KB-0253",
+    "ACX-KB-0254",
+    "ACX-KB-0256"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Induction Training vs Refresher Training",
+  "excerpt": "Induction training prepares staff for safe initial work; refresher training reinforces, updates and corrects knowledge and practical performance after work has begun.",
+  "seo_title": "Induction Training vs Refresher Training | Alle's ClinX",
+  "meta_description": "Understand the different purposes of induction and refresher training for cleaning staff and when each is needed.",
+  "content_html": "<p>Induction and refresher training serve different purposes in a cleaning programme. Induction prepares a worker before or at the start of assigned duties. Refresher training revisits knowledge and skills after work has begun, especially when procedures change, performance gaps appear or important risks need reinforcement.</p>\n<h2 id=\"induction\">Induction establishes the starting standard</h2><p>Induction should explain the worker's role, facility rules, hygiene principles, approved procedures, chemical and equipment safety, PPE, reporting routes and practical task expectations before independent work begins.</p>\n<h2 id=\"refresher\">Refresher training reinforces and updates</h2><p>Refresher training helps prevent drift from approved methods, correct recurring mistakes and introduce revised procedures, products, equipment or controls.</p>\n<h2 id=\"timing\">Timing should follow risk and performance</h2><p>Refreshers may be scheduled periodically, but they should also be triggered by incidents, audit findings, observed technique problems, significant changes or long gaps between rarely performed tasks.</p>\n<h2 id=\"practice\">Both should include practical verification</h2><p>Attendance alone is not enough. Workers should demonstrate important tasks so supervisors can confirm that the required method is understood and applied correctly.</p>\n<h2 id=\"records\">Training records should distinguish the two</h2><p>Records should show whether training was induction, refresher or change-specific, what content was covered, who delivered it and whether competency was verified.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use induction to establish safe initial capability and refresher training to maintain and improve that capability over time. Both should remain linked to current procedures and observed performance.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}
