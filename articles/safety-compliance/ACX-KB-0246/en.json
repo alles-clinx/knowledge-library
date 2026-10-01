@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0246",
+  "slug": "why-document-availability-matters-during-audits",
+  "subcategory": "Audit Readiness",
+  "subcategory_slug": "audit-readiness",
+  "related_article_ids": [
+    "ACX-KB-0244",
+    "ACX-KB-0245",
+    "ACX-KB-0247",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Document Availability Matters During Audits",
+  "excerpt": "Document availability matters because auditors need timely access to current, relevant evidence; missing, outdated or hard-to-retrieve information can weaken traceability even when work was performed correctly.",
+  "content_html": "<p>Document availability matters during audits because an auditor must be able to examine evidence that is relevant to the audit criteria. A process may be working, but if the supporting information cannot be located, identified or verified, demonstrating control becomes more difficult.</p>\n<h2 id=\"current\">Current information should be identifiable</h2><p>Procedures, forms and reference documents should make it clear which version is current. This reduces the risk of presenting obsolete instructions or conflicting information as active evidence.</p>\n<h2 id=\"retrieval\">Records should be retrievable when needed</h2><p>Audit evidence is more useful when authorised personnel can locate the relevant record without unnecessary delay. Retrieval should not depend entirely on one person's memory or personal files.</p>\n<h2 id=\"traceability\">Availability supports traceability</h2><p>Documents and records help connect requirements, responsibilities, completed activities, verification and follow-up. Consistent identification and storage make that audit trail easier to understand.</p>\n<h2 id=\"access\">Availability does not mean uncontrolled access</h2><p>Documents can be accessible to authorised users while still being protected against inappropriate editing, loss or disclosure. Access controls should match the sensitivity and purpose of the information.</p>\n<h2 id=\"format\">Paper and digital systems can both work</h2><p>Documented information can be maintained in different media. The important point is that the system preserves integrity, identification, availability and control in a way that suits the organisation.</p>\n<h2 id=\"gaps\">Missing documents should be handled transparently</h2><p>If required evidence is missing, the facility should not recreate a misleading record simply for the audit. The gap should be handled through the organisation's normal corrective or improvement process.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Audit readiness depends not only on having documents, but on having the right current information available to authorised users when evidence is needed. A reliable retrieval and control system strengthens both audits and day-to-day operations.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"ref-2\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li></ol>",
+  "seo_title": "Why Document Availability Matters During Audits | Alle's ClinX",
+  "meta_description": "Learn why current, retrievable and controlled documents matter during audits and how availability supports traceability without sacrificing access control."
+}
