@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0252",
+  "slug": "how-to-set-cleaning-frequencies-by-risk-and-use",
+  "subcategory": "Cleaning Plans & Schedules",
+  "subcategory_slug": "cleaning-plans-schedules",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0251",
+    "ACX-KB-0016",
+    "ACX-KB-0146"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0252",
+  "title": "Risk और Use के आधार पर Cleaning Frequency कैसे Set करें?",
+  "excerpt": "Cleaning frequency contamination risk, touch और traffic levels, occupancy, task purpose, facility use और inadequate cleaning के consequences पर आधारित होनी चाहिए।",
+  "content_html": "<p>Cleaning frequency केवल habit या हर area के लिए same interval use करके decide नहीं करनी चाहिए। Risk-based approach यह देखती है कि space या surface कैसे use होता है, कितनी जल्दी soil या contamination हो सकती है, लोग उसे कितनी बार touch या occupy करते हैं, और cleaning delay होने पर क्या impact हो सकता है।</p>\n<h2 id=\"hi252-start-risk\">Area के risk और purpose से शुरू करें</h2><p>Area में होने वाली activity, users और poor hygiene के consequence identify करें। जहाँ contamination का impact अधिक हो सकता है, वहाँ low-risk spaces की तुलना में अधिक frequent या tighter controlled cleaning की जरूरत होती है।</p>\n<h2 id=\"hi252-touch-traffic\">Touch frequency और traffic consider करें</h2><p>High-touch surfaces और heavily used routes low-touch surfaces की तुलना में जल्दी contaminated या visibly soiled हो सकते हैं। Door hardware, shared controls, counters और frequently handled points को walls, ceilings या rarely touched fixtures से अलग frequency की जरूरत हो सकती है।</p>\n<h2 id=\"hi252-soil-load\">Expected soil load consider करें</h2><p>Food debris, dust, moisture, oils, body-fluid contamination, process residues और outdoor soil यह affect करते हैं कि cleaning कितनी जल्दी चाहिए। Frequency का उद्देश्य unacceptable accumulation रोकना होना चाहिए, न कि soil difficult होने तक wait करना।</p>\n<h2 id=\"hi252-event-based\">जहाँ जरूरी हो event-triggered cleaning add करें</h2><p>कुछ tasks fixed calendar से alone manage नहीं होते। Spills, contamination incidents, maintenance work, construction, unusual occupancy, outbreaks या defined events routine schedule के बाहर immediate या additional cleaning require कर सकते हैं।</p>\n<h2 id=\"hi252-requirements\">Legal, manufacturer और facility requirements follow करें</h2><p>जहाँ regulations, accreditation requirements, equipment instructions, product labels या facility policies cleaning या disinfection interval specify करें, schedule को उन requirements को meet करना चाहिए। Risk assessment जरूरत पड़ने पर control strengthen करे, mandatory requirement को कमजोर नहीं।</p>\n<h2 id=\"hi252-resources\">Frequency operationally achievable होनी चाहिए</h2><p>जो frequency reliably complete ही नहीं हो सकती वह effective control नहीं है। Schedule design करते समय staffing, access, equipment, supplies और operating hours consider करें। Resources insufficient हों तो facility constraint address करे, repeated missed tasks को silently accept न करे।</p>\n<h2 id=\"hi252-verify\">Evidence से verify और adjust करें</h2><p>Inspection findings, audit results, complaints, visible-soil trends, contamination events और missed-task data बता सकते हैं कि frequency effective है या नहीं। Facility use, occupancy, risk या performance change हो तो frequencies review करनी चाहिए।</p>\n<h2 id=\"hi252-takeaway\">मुख्य बात</h2><p>Cleaning frequency set करते समय risk, use, touch, soil, mandatory requirements और operational reality को combine करें। Higher risk या faster re-soiling के लिए आम तौर पर tighter frequency चाहिए, और monitoring data से confirm होना चाहिए कि selected interval अभी भी appropriate है।</p>\n<h2 id=\"hi252-references\">संदर्भ</h2><ol><li id=\"hi252-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"hi252-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>",
+  "seo_title": "Risk और Use से Cleaning Frequency कैसे Set करें | Alle's ClinX",
+  "meta_description": "Risk, touch, traffic, soil load, events, requirements, resources और monitoring के आधार पर cleaning frequency set करना समझें।"
+}
