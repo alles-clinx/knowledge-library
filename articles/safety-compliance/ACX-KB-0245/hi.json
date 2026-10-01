@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0245",
+  "slug": "cleaning-records-reviewed-in-audits",
+  "subcategory": "Audit Readiness",
+  "subcategory_slug": "audit-readiness",
+  "related_article_ids": [
+    "ACX-KB-0244",
+    "ACX-KB-0246",
+    "ACX-KB-0247",
+    "ACX-KB-0224"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0245",
+  "title": "Audits में Commonly Reviewed Cleaning Records",
+  "excerpt": "Cleaning audits अक्सर ऐसे records review करते हैं जो दिखाएँ कि क्या planned था, क्या complete हुआ, क्या verify हुआ और exceptions या corrective actions कैसे handle किए गए; exact record set audit scope पर depend करता है।",
+  "content_html": "<p>Cleaning records audit evidence के रूप में commonly use होते हैं क्योंकि वे दिखाते हैं कि planned hygiene activities perform और review हुईं या नहीं। Exact records audit scope, facility type, internal procedures, customer requirements और applicable regulations पर depend करते हैं।</p>\n<h2 id=\"hi245-schedules\">Cleaning schedules और task records</h2><p>Schedules, completed task records या equivalent evidence दिखा सकते हैं कि कौन-सी activities expected थीं, कब perform हुईं और responsibility किसकी थी।</p>\n<h2 id=\"hi245-verification\">Inspection और verification records</h2><p>Facilities inspection, verification या monitoring records retain कर सकती हैं ताकि दिखाया जा सके कि completed work कैसे check हुआ और acceptance criteria कैसे apply हुए।</p>\n<h2 id=\"hi245-exceptions\">Deviation और corrective-action records</h2><p>जहाँ problem identify हुई हो, auditors review कर सकते हैं कि उसे कैसे record, assign, correct और closure तक follow किया गया।</p>\n<h2 id=\"hi245-training\">Training और competence evidence</h2><p>Audit criteria के अनुसार relevant personnel की training या authorisation का evidence audit trail का हिस्सा हो सकता है।</p>\n<h2 id=\"hi245-products\">Product और safety-document records</h2><p>जहाँ chemicals hygiene system का हिस्सा हों, current product identification, Safety Data Sheets, hazard-communication information और related controlled documents relevant evidence हो सकते हैं।</p>\n<h2 id=\"hi245-maintenance\">Supporting equipment या maintenance records</h2><p>अगर equipment condition hygiene performance affect करती है, तो audit scope में inspection, servicing, calibration या दूसरी required support activities के records शामिल हो सकते हैं।</p>\n<h2 id=\"hi245-retention\">Record retention defined requirements follow करे</h2><p>हर record का retention period same होना जरूरी नहीं। Facility अपने management system, customer requirements, contracts या applicable regulations में defined retention rules follow करे।</p>\n<h2 id=\"hi245-takeaway\">मुख्य बात</h2><p>Auditors commonly planned work, completed work, verification और follow-up को link करने वाला evidence देखते हैं। Facility को अपने audit criteria और operating system में required records maintain करने चाहिए, केवल audit के लिए paperwork create नहीं करना चाहिए।</p>\n<h2 id=\"hi245-references\">संदर्भ</h2><ol><li id=\"hi245-ref-1\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"hi245-ref-2\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li><li id=\"hi245-ref-3\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "Audits में Cleaning Records | Alle's ClinX",
+  "meta_description": "Audits में cleaning schedules, verification, corrective actions, training, product information और supporting records क्यों review हो सकते हैं, समझें।"
+}
