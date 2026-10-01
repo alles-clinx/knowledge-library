@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0241",
+  "slug": "why-facilities-need-a-chemical-spill-response-plan",
+  "subcategory": "Spills & Exposure",
+  "subcategory_slug": "spills-exposure",
+  "related_article_ids": [
+    "ACX-KB-0242",
+    "ACX-KB-0218",
+    "ACX-KB-0229",
+    "ACX-KB-0238"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0241",
+  "title": "Facilities को Chemical Spill Response Plan की जरूरत क्यों होती है?",
+  "excerpt": "Spill response plan define करता है कि facility emergency कैसे recognise करेगी, लोगों को alert करेगी, responsibility assign करेगी, evacuation या outside help coordinate करेगी और follow-up record करेगी।",
+  "content_html": "<p>Chemical spill response plan facility को abnormal release या suspected emergency handle करने के लिए defined framework देता है। Plan clear करे कि decisions कौन लेगा, people कैसे alert होंगे, evacuation या outside assistance कब required होगी और information कैसे communicate होगी।</p>\n<h2 id=\"hi241-recognition\">Plan define करता है कि emergency कैसे recognise होगी</h2><p>हर abnormal condition का risk level same नहीं होता। Written plan identify करे कि situation assess करने की authority किसके पास है और routine issue को emergency procedure या external response needing condition से कैसे distinguish किया जाएगा।</p>\n<h2 id=\"hi241-roles\">Roles और authority clear होते हैं</h2><p>Emergency plans responsibilities, reporting lines और communication channels identify करें ताकि incident के समय workers को improvise न करना पड़े।</p>\n<h2 id=\"hi241-alerting\">Alerting और evacuation पहले से planned होते हैं</h2><p>Facility define करे कि emergency report कैसे होगी, affected people को warning कैसे मिलेगी और required होने पर evacuation या दूसरी protective actions कैसे coordinate होंगी।</p>\n<h2 id=\"hi241-outside\">Outside responders coordinate किए जा सकते हैं</h2><p>Planning identify कर सकती है कि emergency services, medical support, specialist responders या दूसरे outside parties को कब contact करना है और उस coordination की responsibility किसकी है।</p>\n<h2 id=\"hi241-information\">Safety information accessible रहती है</h2><p>Product identity, Safety Data Sheets (SDSs), inventory information और site details authorised responders और medical personnel के लिए important हो सकते हैं। Plan clear करे कि यह information कैसे access होगी।</p>\n<h2 id=\"hi241-training\">Workers को plan समझना चाहिए</h2><p>Plan तभी useful है जब relevant workers अपनी responsibilities, reporting route और evacuation या emergency expectations समझते हों। Training और periodic review plan को usable रखते हैं।</p>\n<h2 id=\"hi241-follow-up\">Incident के बाद review और follow-up होना चाहिए</h2><p>Incident के बाद facility को review करना चाहिए कि क्या हुआ, required follow-up document करना चाहिए और देखना चाहिए कि controls, procedures या training update करने की जरूरत है या नहीं।</p>\n<h2 id=\"hi241-takeaway\">मुख्य बात</h2><p>Spill response plan मुख्यतः coordination और decision framework है। यह बताता है कि incident recognise, report और escalate कैसे करना है और facility workers को authorised emergency तथा medical support से कैसे connect करती है।</p>\n<h2 id=\"hi241-references\">संदर्भ</h2><ol><li id=\"hi241-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.120\">OSHA — Hazardous Waste Operations and Emergency Response</a>.</li><li id=\"hi241-ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.38\">OSHA — Emergency Action Plans</a>.</li><li id=\"hi241-ref-3\"><a href=\"https://www.osha.gov/emergency-preparedness/getting-started\">OSHA — Emergency Preparedness and Response: Getting Started</a>.</li></ol>",
+  "seo_title": "Chemical Spill Response Plan की जरूरत क्यों होती है? | Alle's ClinX",
+  "meta_description": "Chemical spill response plan में recognition, roles, alerting, evacuation, outside coordination, training और follow-up क्यों जरूरी हैं, समझें।"
+}
