@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0252",
+  "slug": "how-to-set-cleaning-frequencies-by-risk-and-use",
+  "subcategory": "Cleaning Plans & Schedules",
+  "subcategory_slug": "cleaning-plans-schedules",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0251",
+    "ACX-KB-0016",
+    "ACX-KB-0146"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Set Cleaning Frequencies by Risk and Use",
+  "excerpt": "Cleaning frequency should reflect contamination risk, touch and traffic levels, occupancy, task purpose, facility use and the consequences of inadequate cleaning.",
+  "content_html": "<p>Cleaning frequency should not be chosen only by habit or by using the same interval for every area. A risk-based approach considers how a space or surface is used, how quickly it can become soiled or contaminated, how often people touch or occupy it, and what could happen if cleaning is delayed.</p>\n<h2 id=\"start-risk\">Start with the risk and purpose of the area</h2><p>Identify the activity taking place, the people using the area and the consequence of poor hygiene. Areas where contamination could have a greater impact generally require more frequent or more tightly controlled cleaning than low-risk spaces.</p>\n<h2 id=\"touch-traffic\">Consider touch frequency and traffic</h2><p>High-touch surfaces and heavily used routes can become contaminated or visibly soiled faster than low-touch surfaces. Door hardware, shared controls, counters and other frequently handled points may therefore need different frequencies from walls, ceilings or rarely touched fixtures.</p>\n<h2 id=\"soil-load\">Consider the expected soil load</h2><p>Food debris, dust, moisture, oils, body-fluid contamination, process residues and outdoor soil all affect how quickly cleaning is needed. The frequency should prevent unacceptable accumulation rather than waiting until soil becomes difficult to remove.</p>\n<h2 id=\"event-based\">Add event-triggered cleaning where needed</h2><p>Some tasks cannot be managed by a fixed calendar alone. Spills, contamination incidents, maintenance work, construction, unusual occupancy, outbreaks or other defined events may require immediate or additional cleaning outside the routine schedule.</p>\n<h2 id=\"requirements\">Respect legal, manufacturer and facility requirements</h2><p>Where regulations, accreditation requirements, equipment instructions, product labels or facility policies specify a cleaning or disinfection interval, the schedule should meet those requirements. Risk assessment should strengthen controls when necessary, not weaken mandatory requirements.</p>\n<h2 id=\"resources\">Check whether the frequency is operationally achievable</h2><p>A frequency that cannot be completed reliably is not an effective control. Staffing, access, equipment, supplies and operating hours should be considered when designing schedules. If resources are insufficient, the facility should address the constraint rather than silently accepting repeated missed tasks.</p>\n<h2 id=\"verify\">Verify and adjust using evidence</h2><p>Inspection findings, audit results, complaints, visible-soil trends, contamination events and missed-task data can show whether a frequency is working. Frequencies should be reviewed when facility use, occupancy, risk or performance changes.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Set cleaning frequencies by combining risk, use, touch, soil, mandatory requirements and operational reality. Higher risk or faster re-soiling usually requires tighter frequency, while monitoring data should confirm whether the chosen interval remains appropriate.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>",
+  "seo_title": "How to Set Cleaning Frequencies by Risk and Use | Alle's ClinX",
+  "meta_description": "Learn how to set cleaning frequencies using risk, touch, traffic, soil load, events, mandatory requirements, resources and monitoring evidence."
+}
