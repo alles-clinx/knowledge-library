@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0259",
+  "slug": "what-is-a-hygiene-inspection",
+  "subcategory": "Supervision & Inspections",
+  "subcategory_slug": "supervision-inspections",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0252",
+    "ACX-KB-0256"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Hygiene Inspection?",
+  "excerpt": "A hygiene inspection is a structured review of areas, surfaces, tasks and records to check whether cleaning controls are being implemented and whether required standards are being maintained.",
+  "seo_title": "What Is a Hygiene Inspection? | Alle's ClinX",
+  "meta_description": "Learn what a hygiene inspection checks, how it differs from routine cleaning, and how findings support corrective action and improvement.",
+  "content_html": "<p>A hygiene inspection is a structured check of whether a facility's cleaning and hygiene controls are working as intended. It may examine physical conditions, completed tasks, records, equipment, storage, staff practices and other evidence relevant to the area's hygiene standard.</p>\n<h2 id=\"purpose\">The purpose is verification</h2><p>An inspection does not replace cleaning. It verifies whether required controls have been implemented and whether the result meets the facility's expectations.</p>\n<h2 id=\"scope\">Define the inspection scope</h2><p>The scope may cover a room, department, building, specific task type or risk area. Clear scope helps avoid inconsistent inspections.</p>\n<h2 id=\"criteria\">Use defined criteria</h2><p>Inspection criteria can come from cleaning plans, schedules, SOPs, legal requirements, manufacturer instructions and facility standards.</p>\n<h2 id=\"evidence\">Look at more than appearance</h2><p>Visible cleanliness matters, but inspectors may also review logs, missed tasks, product storage, equipment condition, PPE use, access controls and recurring defects.</p>\n<h2 id=\"findings\">Classify and act on findings</h2><p>Findings should be documented and assigned for correction. Higher-risk failures may need immediate action, while recurring issues may require root-cause review, retraining, resource changes or schedule adjustment.</p>\n<h2 id=\"trend\">Use inspection data for improvement</h2><p>Trend analysis can show recurring problem areas, weak controls or improvement over time. This makes inspections part of the management system rather than isolated spot checks.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A good hygiene inspection uses clear scope, defined criteria, objective evidence, documented findings and follow-up action.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}
