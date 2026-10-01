@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0254",
+  "slug": "why-task-demonstration-matters-in-cleaning-training",
+  "subcategory": "Staff Training",
+  "subcategory_slug": "staff-training",
+  "related_article_ids": [
+    "ACX-KB-0253",
+    "ACX-KB-0151",
+    "ACX-KB-0170",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0254",
+  "title": "Cleaning Training में Task Demonstration क्यों जरूरी है?",
+  "excerpt": "Task demonstration written instructions को observable practice में बदलता है, जिससे trainer correct method दिखा सकता है और verify कर सकता है कि staff उसे safely और consistently repeat कर सकते हैं।",
+  "content_html": "<p>Cleaning work practical work है। Written instructions, slides और verbal explanations procedure describe कर सकते हैं, लेकिन यह prove नहीं करते कि worker उसे correctly perform कर सकता है। Task demonstration required method को visible बनाता है और supervised practice व competency verification का opportunity देता है।</p>\n<h2 id=\"hi254-show-standard\">Demonstration expected standard को visible बनाता है</h2><p>Trainer correct sequence, product amount, tool handling, movement pattern, PPE use, equipment setup और finishing steps दिखा सकता है। इससे वह ambiguity reduce होती है जो workers द्वारा written instructions को अलग-अलग interpret करने पर रह सकती है।</p>\n<h2 id=\"hi254-context\">Worker real context में method देखता है</h2><p>Demonstration तब सबसे useful है जब वह actual facility, surfaces, products और equipment reflect करे। Staff देख सकता है कि SOP उसके real work environment में कैसे apply होता है, including access constraints, storage arrangements और local safety controls।</p>\n<h2 id=\"hi254-practice\">Practice skill gaps जल्दी reveal करती है</h2><p>Task observe करने के बाद worker को trainer की supervision में task perform करना चाहिए। Sequence, technique, dilution, contact time, PPE, equipment handling या contamination control की errors independent work से पहले correct की जा सकती हैं।</p>\n<h2 id=\"hi254-feedback\">Immediate feedback learning strengthen करता है</h2><p>Specific feedback worker को समझने में मदद करता है कि क्या सही था, क्या adjust करना है और क्यों। Feedback के बाद task repeat करना केवल यह पूछने से अधिक informative है कि instructions समझ में आईं या नहीं।</p>\n<h2 id=\"hi254-competency\">Demonstration competency assessment support करता है</h2><p>Attendance केवल यह confirm करती है कि व्यक्ति training में present था; observed performance evidence देता है कि वह task perform कर सकता है। Facility simple competency criteria या checklists use करके assessment को consistent बना सकती है।</p>\n<h2 id=\"hi254-refreshers\">Refreshers और change management में भी useful है</h2><p>Demonstration केवल induction तक limited नहीं होना चाहिए। New product, tool, machine, procedure या risk control introduce होने पर, और monitoring से recurring technique problems मिलने पर यह विशेष रूप से useful है।</p>\n<h2 id=\"hi254-limits\">Demonstration documented procedures को replace नहीं करता</h2><p>Workers को current SOPs, labels, safety information और job aids का access अभी भी चाहिए। Demonstration दिखाता है कि controls apply कैसे करने हैं; controlled documents approved method के reference बने रहते हैं।</p>\n<h2 id=\"hi254-takeaway\">मुख्य बात</h2><p>Simple training cycle use करें: task explain करें, correct method demonstrate करें, worker को practise करने दें, performance observe करें, feedback दें और competency verify करें। इससे training passive information transfer से practical capability के evidence में बदलती है।</p>\n<h2 id=\"hi254-references\">संदर्भ</h2><ol><li id=\"hi254-ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li><li id=\"hi254-ref-2\"><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-prepare.html\">CDC Project Firstline — Effective Cleaning and Disinfection Start with Preparation</a>.</li></ol>",
+  "seo_title": "Cleaning Training में Task Demonstration क्यों जरूरी है? | Alle's ClinX",
+  "meta_description": "Cleaning training में demonstration, supervised practice, feedback और competency checks की importance समझें।"
+}
