@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0238",
+  "slug": "why-cleaning-chemicals-need-controlled-storage",
+  "subcategory": "Chemical Storage",
+  "subcategory_slug": "chemical-storage",
+  "related_article_ids": [
+    "ACX-KB-0239",
+    "ACX-KB-0240",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0238",
+  "title": "Cleaning Chemicals को Controlled Storage की जरूरत क्यों होती है?",
+  "excerpt": "Controlled storage cleaning chemicals को identifiable, required तरीके से separated, misuse से protected और label, SDS तथा workplace requirements के अनुसार managed रखने में मदद करता है।",
+  "content_html": "<p>Cleaning chemicals को controlled storage की जरूरत होती है क्योंकि storage conditions safety, identification, access और emergency preparedness को affect करती हैं। Storage system को product label, Safety Data Sheet (SDS) और workplace requirements support करनी चाहिए।</p>\n<h2 id=\"hi238-identification\">Controlled storage clear identification support करता है</h2><p>Products identifiable रहने चाहिए ताकि container को correct label और safety information से match किया जा सके। Missing, damaged या unclear identification safe handling और emergency decisions को difficult बना सकती है।</p>\n<h2 id=\"hi238-access\">Access workplace responsibility के अनुसार होना चाहिए</h2><p>Storage arrangements casual या unintended access reduce करें और product information तथा workplace procedure में required controls को reflect करें।</p>\n<h2 id=\"hi238-conditions\">Storage conditions safety को affect कर सकती हैं</h2><p>Labels और SDS storage precautions specify कर सकते हैं, जैसे environmental conditions, container requirements या restrictions। Facility storage system को इन instructions follow करनी चाहिए।</p>\n<h2 id=\"hi238-incompatibility\">कुछ products को अलग रखना जरूरी हो सकता है</h2><p>Chemical incompatibilities additional hazards create कर सकती हैं। Products को केवल brand या convenience के आधार पर group नहीं करना चाहिए; storage decisions documented compatibility information और applicable requirements follow करें।</p>\n<h2 id=\"hi238-inspection\">Organisation inspection आसान बनाती है</h2><p>Controlled storage area damaged containers, missing labels, unexpected stock या दूसरी conditions notice करना आसान बनाती है जिन्हें facility procedure के अनुसार attention चाहिए।</p>\n<h2 id=\"hi238-emergency\">Storage emergency preparedness का हिस्सा है</h2><p>Accurate inventories, accessible safety information और clear responsibility abnormal condition या emergency होने पर facility को appropriate response support करते हैं।</p>\n<h2 id=\"hi238-takeaway\">मुख्य बात</h2><p>Controlled storage केवल tidiness नहीं है। यह identification, appropriate access, compatibility management और emergency preparedness support करने वाला safety system है। Specific products के लिए label, SDS और workplace procedure follow करें।</p>\n<h2 id=\"hi238-references\">संदर्भ</h2><ol><li id=\"hi238-ref-1\"><a href=\"https://www.osha.gov/hazcom/ghd053107\">OSHA — Hazard Communication Guidance for Hazard Determination</a>.</li><li id=\"hi238-ref-2\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Hazard Communication, Appendix C</a>.</li></ol>",
+  "seo_title": "Cleaning Chemicals को Controlled Storage क्यों चाहिए? | Alle's ClinX",
+  "meta_description": "जानें कि controlled chemical storage identification, access control, compatibility management, inspection और emergency preparedness को कैसे support करता है।"
+}
