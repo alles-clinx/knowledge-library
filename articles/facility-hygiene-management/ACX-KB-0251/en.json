@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0251",
+  "slug": "how-cleaning-plans-and-cleaning-schedules-differ",
+  "subcategory": "Cleaning Plans & Schedules",
+  "subcategory_slug": "cleaning-plans-schedules",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0015",
+    "ACX-KB-0017",
+    "ACX-KB-0252"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Cleaning Plans and Cleaning Schedules Differ",
+  "excerpt": "A cleaning plan defines the management framework, standards and controls; a cleaning schedule converts that framework into timed, assigned tasks.",
+  "content_html": "<p>Cleaning plans and cleaning schedules are closely related, but they are not the same document. A cleaning plan defines the overall system: what must be controlled, the standards to be achieved, the approved methods, responsibilities, verification and review. A cleaning schedule turns those requirements into specific tasks that must happen at defined times or frequencies.</p>\n<h2 id=\"plan-role\">A cleaning plan sets the management framework</h2><p>The plan explains the facility's cleaning objectives, scope, risk logic, approved methods, responsibilities, products and equipment, safety controls, records and quality-verification approach. It provides the rules used to design and manage cleaning work.</p>\n<h2 id=\"schedule-role\">A cleaning schedule organizes execution</h2><p>The schedule states which task is due, where it applies, how often it must be completed and who is responsible. It may be organized by shift, day, week, month, event or area, depending on the facility and the task.</p>\n<h2 id=\"different-questions\">They answer different operational questions</h2><p>The plan answers questions such as why a task is required, which method is approved and how performance will be controlled. The schedule answers when the task is due and who must complete it. A schedule without a plan can list work without defining the standards behind it; a plan without schedules may never translate into reliable daily action.</p>\n<h2 id=\"link-sops\">Both should link to procedures and job aids</h2><p>Neither document should carry every technical instruction. Where a task needs a defined sequence, product preparation, safety precaution or equipment method, the plan or schedule should point users to the approved SOP, checklist or job aid.</p>\n<h2 id=\"changes\">Changes should flow from plan to schedule</h2><p>If risk, occupancy, equipment, products, staffing or facility use changes, the plan may need review first. Any resulting change in frequency, responsibility or task scope should then be reflected in the relevant schedules so the operational documents remain aligned.</p>\n<h2 id=\"verification\">Schedules support evidence of completion</h2><p>Schedules often provide the practical basis for completion records, supervisor checks and missed-task escalation. The wider plan defines how those records are reviewed and how recurring failures lead to corrective action.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Think of the cleaning plan as the control system and the cleaning schedule as the execution calendar. The strongest facilities keep them linked: the plan defines the rules and standards, while the schedule makes those requirements visible as assigned work.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>",
+  "seo_title": "Cleaning Plan vs Cleaning Schedule | Alle's ClinX",
+  "meta_description": "Understand how a cleaning plan differs from a cleaning schedule, how the two documents work together, and why both are needed for controlled facility cleaning."
+}
