@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0261",
+  "slug": "why-inspection-criteria-need-to-be-consistent",
+  "subcategory": "Supervision & Inspections",
+  "subcategory_slug": "supervision-inspections",
+  "related_article_ids": [
+    "ACX-KB-0259",
+    "ACX-KB-0260",
+    "ACX-KB-0262"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Inspection Criteria Need to Be Consistent",
+  "excerpt": "Consistent inspection criteria make findings comparable, reduce assessor variation and help facilities identify real trends rather than differences in personal judgement.",
+  "seo_title": "Why Inspection Criteria Need to Be Consistent | Alle's ClinX",
+  "meta_description": "Learn why consistent hygiene inspection criteria improve fairness, comparability, trend analysis and corrective action.",
+  "content_html": "<p>Inspection data is useful only when the criteria are applied consistently. If different inspectors judge the same condition differently, results become difficult to compare and trends may reflect assessor preference rather than actual performance.</p>\n<h2 id=\"criteria\">Define observable criteria</h2><p>Criteria should describe what is being checked and what acceptable performance looks like. Vague terms such as “good condition” should be supported by clearer expectations where possible.</p>\n<h2 id=\"training\">Train inspectors on the criteria</h2><p>Inspectors should understand the same definitions, scoring rules, evidence requirements and escalation thresholds.</p>\n<h2 id=\"calibration\">Use calibration to reduce variation</h2><p>Periodic joint inspections or review of sample findings can reveal where inspectors interpret criteria differently.</p>\n<h2 id=\"change-control\">Control changes to inspection tools</h2><p>When criteria or scoring change, the revision should be documented so historical results are not compared without context.</p>\n<h2 id=\"trends\">Consistency improves trend analysis</h2><p>Reliable criteria make it easier to identify recurring problem areas, compare departments and evaluate whether corrective actions are working.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Standardize criteria, definitions, scoring and inspector training before relying on inspection data for management decisions.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.iso.org/standard/70017.html\">ISO — ISO 19011:2018</a>.</li></ol>"
+}
