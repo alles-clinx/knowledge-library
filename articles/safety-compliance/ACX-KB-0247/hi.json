@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0247",
+  "slug": "what-is-document-control-in-facility-hygiene",
+  "subcategory": "Records & Document Control",
+  "subcategory_slug": "records-document-control",
+  "related_article_ids": [
+    "ACX-KB-0244",
+    "ACX-KB-0245",
+    "ACX-KB-0246",
+    "ACX-KB-0224"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0247",
+  "title": "Facility Hygiene में Document Control क्या है?",
+  "excerpt": "Document control वह system है जो hygiene documents और records को create, approve, identify, update, distribute, protect, retain और retire करता है ताकि people reliable information use करें।",
+  "content_html": "<p>Facility hygiene में document control procedures, forms, records और reference information को उनके life cycle में manage करने वाला organised system है। इसका purpose reliable information available रखना और outdated, uncontrolled या conflicting documents use होने का risk reduce करना है।</p>\n<h2 id=\"hi247-creation\">Documents defined purpose के लिए create होते हैं</h2><p>Controlled document का clear owner, purpose और intended users होने चाहिए। Detail का level process और organisation की needs के अनुसार होना चाहिए।</p>\n<h2 id=\"hi247-approval\">Controlled use से पहले approval होता है</h2><p>Procedures और दूसरी controlled instructions active version बनने से पहले authorised personnel द्वारा review और approve होनी चाहिए।</p>\n<h2 id=\"hi247-identification\">Current versions identifiable होती हैं</h2><p>Titles, document identifiers, revision information, dates या equivalent controls users को current approved version को drafts और obsolete copies से distinguish करने में मदद करते हैं।</p>\n<h2 id=\"hi247-change\">Changes reviewed और traceable होते हैं</h2><p>Hygiene process change होने पर affected documents review होने चाहिए। Document-control system से यह समझ आना चाहिए कि क्या change हुआ और कौन-सा version अब active है।</p>\n<h2 id=\"hi247-distribution\">Users सही information access कर सकते हैं</h2><p>Controlled distribution relevant personnel को current information तक access देती है और outdated personal copies पर dependency reduce करती है।</p>\n<h2 id=\"hi247-records\">Records evidence के रूप में retain होते हैं</h2><p>Completed records active instructions से अलग होते हैं: वे activities या results का evidence देते हैं। Retention, protection और disposal rules organisation की applicable requirements follow करें।</p>\n<h2 id=\"hi247-obsolete\">Obsolete information manage होती है</h2><p>Replaced या withdrawn documents ऐसी तरह available नहीं रहने चाहिए कि accidental use हो सके। अगर obsolete versions retain करना जरूरी हो, तो उनका status clear रहे।</p>\n<h2 id=\"hi247-digital\">Document control paper-based या digital हो सकता है</h2><p>Medium अलग हो सकता है। Important यह है कि identification, integrity, availability, access, change control और retention reliable रहें।</p>\n<h2 id=\"hi247-takeaway\">मुख्य बात</h2><p>Document control facility को ensure करने में मदद करता है कि people current approved instructions use करें और records trustworthy evidence बने रहें। यह consistency, training, audit readiness और continual improvement support करता है।</p>\n<h2 id=\"hi247-references\">संदर्भ</h2><ol><li id=\"hi247-ref-1\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li><li id=\"hi247-ref-2\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"hi247-ref-3\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "Facility Hygiene में Document Control क्या है? | Alle's ClinX",
+  "meta_description": "Facility hygiene में procedures और records को creation, approval, revision, access, retention और withdrawal के through control करना समझें।"
+}
