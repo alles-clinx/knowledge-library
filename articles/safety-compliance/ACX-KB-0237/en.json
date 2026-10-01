@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0237",
+  "slug": "ppe-vs-engineering-controls",
+  "subcategory": "Personal Protective Equipment — PPE",
+  "subcategory_slug": "ppe",
+  "related_article_ids": [
+    "ACX-KB-0235",
+    "ACX-KB-0236",
+    "ACX-KB-0232",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "PPE vs Engineering Controls: Key Differences",
+  "excerpt": "Engineering controls change the workplace or process, while PPE protects the individual worker; they reduce risk in different ways and sit at different levels in the hierarchy of controls.",
+  "content_html": "<p>Personal protective equipment (PPE) and engineering controls are both workplace risk-control measures, but they act in different places. Engineering controls change the workplace or process. PPE is worn by the individual worker.</p>\n<h2 id=\"hierarchy\">They occupy different levels in the hierarchy of controls</h2><p>Engineering controls are placed above administrative controls and PPE in the hierarchy of controls. Higher-level controls are generally preferred because they can reduce risk with less dependence on individual behaviour.</p>\n<h2 id=\"engineering\">Engineering controls change the workplace</h2><p>Engineering controls are physical or technical changes intended to reduce contact with a workplace hazard. Their purpose is to make the work environment safer by design.</p>\n<h2 id=\"ppe\">PPE protects the individual</h2><p>PPE is protective equipment worn by the worker when the documented assessment shows that it is needed. Its effectiveness depends on correct selection, fit, condition and use.</p>\n<h2 id=\"difference\">The key difference is where the control acts</h2><p>Engineering controls act on the workplace or process. PPE acts at the individual worker. That difference explains why the two types of control have different strengths and limitations.</p>\n<h2 id=\"combination\">They can be used together</h2><p>One control does not always replace the other. A workplace may use stronger controls to reduce risk broadly and PPE as an additional layer where appropriate.</p>\n<h2 id=\"assessment\">Assessment determines what is appropriate</h2><p>The appropriate control strategy should follow the documented workplace assessment and applicable safety requirements. Controls should be reviewed when conditions or tasks change.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Think of engineering controls as changes to the workplace and PPE as protection worn by the worker. Both can matter, but controls higher in the hierarchy should be considered before relying mainly on PPE.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/niosh/hierarchy-of-controls/about/index.html\">NIOSH — Hierarchy of Controls</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/safety-management/hazard-prevention\">OSHA — Hazard Prevention and Control</a>.</li></ol>",
+  "seo_title": "PPE vs Engineering Controls: Key Differences | Alle's ClinX",
+  "meta_description": "Compare PPE and engineering controls, where each acts, and how they differ within the hierarchy of workplace risk controls."
+}
