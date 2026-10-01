@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0240",
+  "slug": "incompatible-product-storage",
+  "subcategory": "Chemical Storage",
+  "subcategory_slug": "chemical-storage",
+  "related_article_ids": [
+    "ACX-KB-0238",
+    "ACX-KB-0239",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0240",
+  "title": "Incompatible Products को साथ Store क्यों नहीं करना चाहिए?",
+  "excerpt": "कुछ chemical products को अलग रखना जरूरी होता है क्योंकि incompatibility additional hazards create कर सकती है; storage decisions documented safety information follow करें।",
+  "content_html": "<p>कुछ chemical products को साथ store नहीं करना चाहिए क्योंकि incompatible materials के contact से additional hazards create हो सकते हैं। Compatibility को appearance, brand या normal use के assumptions से नहीं, documented safety information से manage करना चाहिए।</p>\n<h2 id=\"hi240-meaning\">Incompatibility एक safety property है</h2><p>Chemical incompatibility का मतलब है कि कुछ materials को अलग रखना चाहिए क्योंकि contact या loss of containment unsafe conditions create कर सकता है। Exact requirements involved products पर depend करती हैं।</p>\n<h2 id=\"hi240-verify\">Compatibility authoritative information से verify होनी चाहिए</h2><p>Labels, Safety Data Sheets (SDSs), manufacturer guidance और applicable workplace requirements storage restrictions तथा segregation requirements के correct sources हैं।</p>\n<h2 id=\"hi240-not-guess\">Colour, odour या product category पर rely न करें</h2><p>Similar दिखने वाले या similar tasks में use होने वाले products की hazard properties फिर भी अलग हो सकती हैं। इसलिए storage decisions appearance या informal assumptions पर based नहीं होने चाहिए।</p>\n<h2 id=\"hi240-segregation\">Segregation storage problem के consequences reduce करती है</h2><p>जहाँ separation required हो, controlled storage system unintended contact prevent करने में मदद करता है और damaged container या दूसरी abnormal condition होने पर safer management support करता है।</p>\n<h2 id=\"hi240-inventory\">Inventory और labelling compatibility control support करते हैं</h2><p>Current identification और inventory records यह confirm करना आसान बनाते हैं कि क्या present है और storage arrangement change करने से पहले correct safety information check की जा सके।</p>\n<h2 id=\"hi240-changes\">Products change हों तो storage reassess करें</h2><p>New product add करना, supplier change करना या storage layout change करना compatibility information review require कर सकता है। Existing arrangement को automatically appropriate assume नहीं करना चाहिए।</p>\n<h2 id=\"hi240-takeaway\">मुख्य बात</h2><p>जहाँ documented safety information require करे, incompatible products को अलग रखना चाहिए। Current label, SDS, manufacturer guidance और applicable workplace procedure से storage restrictions verify करें।</p>\n<h2 id=\"hi240-references\">संदर्भ</h2><ol><li id=\"hi240-ref-1\"><a href=\"https://www.osha.gov/hazcom/ghd053107\">OSHA — Hazard Communication Guidance for Hazard Determination</a>.</li><li id=\"hi240-ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250\">OSHA — General Requirements for Storage</a>.</li></ol>",
+  "seo_title": "Incompatible Products को साथ Store क्यों नहीं करना चाहिए? | Alle's ClinX",
+  "meta_description": "Chemical incompatibility, storage segregation और labels, SDSs व documented requirements से compatibility verify करने का महत्व समझें।"
+}
