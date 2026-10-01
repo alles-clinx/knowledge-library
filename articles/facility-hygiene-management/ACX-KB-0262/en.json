@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0262",
+  "slug": "what-is-a-facility-hygiene-audit",
+  "subcategory": "Audits & CAPA",
+  "subcategory_slug": "audits-capa",
+  "related_article_ids": [
+    "ACX-KB-0259",
+    "ACX-KB-0260",
+    "ACX-KB-0263",
+    "ACX-KB-0264"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is a Facility Hygiene Audit?",
+  "excerpt": "A facility hygiene audit is a structured evaluation of hygiene controls, records and actual practice against defined requirements to identify conformity, gaps and improvement needs.",
+  "seo_title": "What Is a Facility Hygiene Audit? | Alle's ClinX",
+  "meta_description": "Learn what a facility hygiene audit reviews, how evidence is gathered and how findings support corrective action and improvement.",
+  "content_html": "<p>A facility hygiene audit is a planned, documented evaluation of whether hygiene-management requirements are being implemented and maintained. It reviews both the management system and evidence from actual operations.</p>\n<h2 id=\"scope\">Define the audit scope and criteria</h2><p>The audit should state which areas, processes, records and requirements are included and what standards will be used for evaluation.</p>\n<h2 id=\"evidence\">Gather objective evidence</h2><p>Evidence can include observations, interviews, schedules, training records, inspection data, chemical controls, equipment records and corrective-action documents.</p>\n<h2 id=\"sampling\">Audits often use sampling</h2><p>An audit may not review every record or task. Sampling should be appropriate to risk and large enough to support reasonable conclusions.</p>\n<h2 id=\"findings\">Document conformity and non-conformity</h2><p>Findings should be linked to evidence and the applicable requirement so the facility can understand exactly what is working and what needs correction.</p>\n<h2 id=\"follow-up\">Follow-up is part of the audit cycle</h2><p>Significant findings should lead to corrective action, ownership, due dates and verification that actions were completed and effective.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A hygiene audit is not just an inspection of visible cleanliness. It evaluates whether the system, records and real-world practice collectively meet defined requirements.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.iso.org/standard/70017.html\">ISO — ISO 19011:2018</a>.</li></ol>"
+}
