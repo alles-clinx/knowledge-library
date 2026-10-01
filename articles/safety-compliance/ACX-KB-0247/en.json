@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0247",
+  "slug": "what-is-document-control-in-facility-hygiene",
+  "subcategory": "Records & Document Control",
+  "subcategory_slug": "records-document-control",
+  "related_article_ids": [
+    "ACX-KB-0244",
+    "ACX-KB-0245",
+    "ACX-KB-0246",
+    "ACX-KB-0224"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Document Control in Facility Hygiene?",
+  "excerpt": "Document control is the system used to create, approve, identify, update, distribute, protect, retain and retire hygiene documents and records so people use reliable information.",
+  "content_html": "<p>Document control in facility hygiene is the organised system used to manage procedures, forms, records and reference information through their life cycle. Its purpose is to make reliable information available while reducing the risk of outdated, uncontrolled or conflicting documents being used.</p>\n<h2 id=\"creation\">Documents are created for a defined purpose</h2><p>A controlled document should have a clear owner, purpose and intended users. The level of detail should match the process and the needs of the organisation.</p>\n<h2 id=\"approval\">Approval happens before controlled use</h2><p>Procedures and other controlled instructions should be reviewed and approved by authorised personnel before they become the active version.</p>\n<h2 id=\"identification\">Current versions are identifiable</h2><p>Titles, document identifiers, revision information, dates or equivalent controls help users distinguish the current approved version from drafts and obsolete copies.</p>\n<h2 id=\"change\">Changes are reviewed and traceable</h2><p>When a hygiene process changes, affected documents should be reviewed. The document-control system should make it possible to understand what changed and which version is now active.</p>\n<h2 id=\"distribution\">Users can access the right information</h2><p>Controlled distribution helps ensure that relevant personnel can reach the current information they need without relying on personal copies that may no longer be valid.</p>\n<h2 id=\"records\">Records are retained as evidence</h2><p>Completed records are different from active instructions: they provide evidence of activities or results. Retention, protection and disposal rules should follow the organisation's applicable requirements.</p>\n<h2 id=\"obsolete\">Obsolete information is managed</h2><p>Documents that are replaced or withdrawn should not remain available in a way that could cause accidental use. Where obsolete versions must be retained, their status should remain clear.</p>\n<h2 id=\"digital\">Document control can be paper-based or digital</h2><p>The medium can vary. What matters is that identification, integrity, availability, access, change control and retention remain reliable.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Document control helps a facility ensure that people use current approved instructions and that records remain trustworthy evidence. It supports consistency, training, audit readiness and continual improvement.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li><li id=\"ref-2\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "What Is Document Control in Facility Hygiene? | Alle's ClinX",
+  "meta_description": "Learn how document control manages hygiene procedures and records through creation, approval, revision, access, retention and withdrawal."
+}
