@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0249",
+  "slug": "preventing-obsolete-cleaning-instructions",
+  "subcategory": "Records & Document Control",
+  "subcategory_slug": "records-document-control",
+  "related_article_ids": [
+    "ACX-KB-0247",
+    "ACX-KB-0248",
+    "ACX-KB-0224",
+    "ACX-KB-0227"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Preventing Obsolete Cleaning Instructions",
+  "excerpt": "Facilities can reduce obsolete cleaning instructions by controlling approvals, distribution, replacement, access and periodic review of procedures and work instructions.",
+  "content_html": "<p>Obsolete cleaning instructions can remain in circulation when documents are copied, printed, saved locally or replaced without a controlled process. Document control should make the current approved instruction easy to identify and reduce the chance that superseded versions are used.</p>\n<h2 id=\"single-source\">Use a defined source of truth</h2><p>Facilities should identify where the current approved instruction is maintained. Users should know which system, location or controlled copy is authoritative rather than relying on personal files or old printouts.</p>\n<h2 id=\"approval\">Release only approved revisions</h2><p>Drafts and proposed changes should be clearly distinguishable from approved instructions. A revised document should enter normal use only after the required review and approval are complete.</p>\n<h2 id=\"replacement\">Replace superseded copies systematically</h2><p>When a revision becomes effective, the distribution process should update controlled locations and remove or clearly identify superseded copies so they are not mistaken for the current instruction.</p>\n<h2 id=\"electronic\">Electronic access also needs control</h2><p>Shared folders, intranets and document-management systems can still contain duplicate or outdated files. Naming conventions, permissions and controlled links can help users reach the current version.</p>\n<h2 id=\"printed\">Printed copies need a defined status</h2><p>If printed instructions are used, the facility should define whether they are controlled copies and how they are replaced when revisions are issued. Uncontrolled printouts should not be mistaken for verified current instructions.</p>\n<h2 id=\"review\">Periodic review catches documents that no longer match practice</h2><p>Even a correctly controlled document can become outdated if products, equipment, responsibilities or requirements change. Periodic review helps confirm that the instruction still reflects the approved process.</p>\n<h2 id=\"communication\">Users need to know when important changes occur</h2><p>When a revision affects responsibilities or other important content, affected workers and supervisors should receive the communication or training required by the facility's change-control process.</p>\n<h2 id=\"audit\">Obsolete-document control supports audit readiness</h2><p>A facility should be able to show which instruction is current, how prior versions were withdrawn or archived, and how the change was communicated where required.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Preventing obsolete instructions is a system problem, not a memory problem. Control the source, approval, distribution, replacement, review and communication of documents so users can reliably find the current approved version.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015 Quality management systems — Requirements</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "Preventing Obsolete Cleaning Instructions | Alle's ClinX",
+  "meta_description": "Learn how controlled approval, distribution, replacement, electronic access, printed-copy status and periodic review help prevent obsolete cleaning instructions."
+}
