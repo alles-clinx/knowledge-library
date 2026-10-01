@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0261",
+  "slug": "why-inspection-criteria-need-to-be-consistent",
+  "subcategory": "Supervision & Inspections",
+  "subcategory_slug": "supervision-inspections",
+  "related_article_ids": [
+    "ACX-KB-0259",
+    "ACX-KB-0260",
+    "ACX-KB-0262"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0261",
+  "title": "Inspection Criteria Consistent क्यों होने चाहिए?",
+  "excerpt": "Consistent inspection criteria findings को comparable बनाते हैं, assessor variation कम करते हैं और real trends identify करने में मदद करते हैं।",
+  "seo_title": "Inspection Criteria Consistent क्यों हों? | Alle's ClinX",
+  "meta_description": "Consistent hygiene inspection criteria fairness, comparability, trend analysis और corrective action को कैसे improve करते हैं, समझें।",
+  "content_html": "<p>Inspection data तभी useful है जब criteria consistently apply हों। अलग inspectors same condition को अलग judge करें तो results compare करना difficult हो जाता है।</p>\n<h2 id=\"hi261-criteria\">Observable criteria define करें</h2><p>Criteria clear बताएँ कि क्या check हो रहा है और acceptable performance कैसी दिखती है।</p>\n<h2 id=\"hi261-training\">Inspectors को same criteria पर train करें</h2><p>Definitions, scoring rules, evidence requirements और escalation thresholds consistent होने चाहिए।</p>\n<h2 id=\"hi261-calibration\">Calibration से variation कम करें</h2><p>Joint inspections या sample findings review करके interpretation differences identify करें।</p>\n<h2 id=\"hi261-change-control\">Inspection tools के changes control करें</h2><p>Criteria या scoring change हो तो revision document करें।</p>\n<h2 id=\"hi261-trends\">Consistency trend analysis improve करती है</h2><p>Reliable criteria recurring problems और corrective-action effectiveness identify करना आसान बनाते हैं।</p>\n<h2 id=\"hi261-takeaway\">मुख्य बात</h2><p>Management decisions से पहले criteria, definitions, scoring और inspector training standardize करें।</p>\n<h2 id=\"hi261-references\">संदर्भ</h2><ol><li><a href=\"https://www.iso.org/standard/70017.html\">ISO — ISO 19011:2018</a>.</li></ol>"
+}
