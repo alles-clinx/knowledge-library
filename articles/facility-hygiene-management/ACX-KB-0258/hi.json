@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0258",
+  "slug": "how-practical-observation-supports-competency-checks",
+  "subcategory": "Competency Assessment",
+  "subcategory_slug": "competency-assessment",
+  "related_article_ids": [
+    "ACX-KB-0256",
+    "ACX-KB-0257",
+    "ACX-KB-0254"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0258",
+  "title": "Practical Observation Competency Checks को कैसे Support करती है?",
+  "excerpt": "Practical observation assessor को real task performance को defined criteria से compare करने और technique, safety या consistency gaps identify करने देता है।",
+  "seo_title": "Cleaning Competency Checks में Practical Observation | Alle's ClinX",
+  "meta_description": "Practical observation real task performance को defined criteria से compare करके competency checks को कैसे मजबूत करती है, समझें।",
+  "content_html": "<p>Practical observation cleaning competency assess करने का strong method है क्योंकि यह दिखाता है कि worker actual task में क्या करता है। Assessor real performance को approved method से compare कर सकता है।</p>\n<h2 id=\"hi258-criteria\">Clear criteria से शुरू करें</h2><p>Observer SOP-based checklist use करे जिसमें sequence, PPE, product preparation, technique, equipment handling और completion steps हों।</p>\n<h2 id=\"hi258-observe\">जहाँ practical हो पूरा task observe करें</h2><p>केवल final result देखने से unsafe या ineffective technique miss हो सकती है। Process भी important है।</p>\n<h2 id=\"hi258-objective\">Assessment objective रखें</h2><p>Standard criteria assessors के बीच inconsistency reduce करते हैं और worker को clear expectation देते हैं।</p>\n<h2 id=\"hi258-feedback\">Immediate और specific feedback दें</h2><p>Feedback exact step identify करे, उसका reason बताए और जहाँ appropriate हो worker को task repeat करने दे।</p>\n<h2 id=\"hi258-record\">Result और follow-up record करें</h2><p>Documentation में task, date, assessor, outcome, gaps और required retraining या reassessment capture हो।</p>\n<h2 id=\"hi258-takeaway\">मुख्य बात</h2><p>Practical observation competency को assumption से observable evidence में बदलती है।</p>\n<h2 id=\"hi258-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-prepare.html\">CDC Project Firstline — EVS Training</a>.</li></ol>"
+}
