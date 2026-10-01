@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0238",
+  "slug": "why-cleaning-chemicals-need-controlled-storage",
+  "subcategory": "Chemical Storage",
+  "subcategory_slug": "chemical-storage",
+  "related_article_ids": [
+    "ACX-KB-0239",
+    "ACX-KB-0240",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Cleaning Chemicals Need Controlled Storage",
+  "excerpt": "Controlled storage helps keep cleaning chemicals identifiable, separated as required, protected from misuse, and managed according to label, SDS and workplace requirements.",
+  "content_html": "<p>Cleaning chemicals need controlled storage because storage conditions affect safety, identification, access and emergency preparedness. A storage system should support the product information on the label and Safety Data Sheet (SDS) and the requirements of the workplace.</p>\n<h2 id=\"identification\">Controlled storage supports clear identification</h2><p>Products should remain identifiable so workers can match a container to the correct label and safety information. Missing, damaged or unclear identification can make safe handling and emergency decisions more difficult.</p>\n<h2 id=\"access\">Access should match workplace responsibility</h2><p>Storage arrangements should prevent casual or unintended access and should reflect the controls required by the product information and workplace procedure.</p>\n<h2 id=\"conditions\">Storage conditions can affect safety</h2><p>Labels and SDSs can specify storage precautions such as environmental conditions, container requirements or restrictions. These instructions should guide the facility's storage system.</p>\n<h2 id=\"incompatibility\">Some products must be kept apart</h2><p>Chemical incompatibilities can create additional hazards. Products should not be grouped only by brand or convenience; storage decisions should follow documented compatibility information and applicable requirements.</p>\n<h2 id=\"inspection\">Organisation makes inspection easier</h2><p>A controlled storage area makes it easier to notice damaged containers, missing labels, unexpected stock or other conditions that need attention under the facility's procedure.</p>\n<h2 id=\"emergency\">Storage is part of emergency preparedness</h2><p>Accurate inventories, accessible safety information and clear responsibility help facilities respond appropriately when an abnormal condition or emergency occurs.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Controlled storage is not simply about tidiness. It is a safety system that supports identification, appropriate access, compatibility management and emergency preparedness. Follow the product label, SDS and workplace procedure for the specific products present.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/hazcom/ghd053107\">OSHA — Hazard Communication Guidance for Hazard Determination</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/hazcom/appendix-c\">OSHA — Hazard Communication, Appendix C</a>.</li></ol>",
+  "seo_title": "Why Cleaning Chemicals Need Controlled Storage | Alle's ClinX",
+  "meta_description": "Learn why controlled chemical storage supports identification, access control, compatibility management, inspection and emergency preparedness."
+}
