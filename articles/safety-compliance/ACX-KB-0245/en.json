@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0245",
+  "slug": "cleaning-records-reviewed-in-audits",
+  "subcategory": "Audit Readiness",
+  "subcategory_slug": "audit-readiness",
+  "related_article_ids": [
+    "ACX-KB-0244",
+    "ACX-KB-0246",
+    "ACX-KB-0247",
+    "ACX-KB-0224"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Records Commonly Reviewed in Audits",
+  "excerpt": "Cleaning audits commonly review records that show what was planned, what was completed, what was checked, and how exceptions or corrective actions were handled; the exact record set depends on the audit scope.",
+  "content_html": "<p>Cleaning records are often used as audit evidence because they help show whether planned hygiene activities were carried out and reviewed. The exact records an auditor examines depend on the audit scope, facility type, internal procedures, customer requirements and applicable regulations.</p>\n<h2 id=\"schedules\">Cleaning schedules and task records</h2><p>Schedules, completed task records or equivalent evidence can show what activities were expected, when they were performed and who was responsible.</p>\n<h2 id=\"verification\">Inspection and verification records</h2><p>Facilities may retain inspection, verification or monitoring records to show how completed work was checked and how acceptance criteria were applied.</p>\n<h2 id=\"exceptions\">Deviation and corrective-action records</h2><p>Where a problem was identified, auditors may review how it was recorded, assigned, corrected and followed through to closure.</p>\n<h2 id=\"training\">Training and competence evidence</h2><p>Depending on the audit criteria, evidence that relevant personnel were trained or authorised for their responsibilities may form part of the audit trail.</p>\n<h2 id=\"products\">Product and safety-document records</h2><p>Where chemicals are part of the hygiene system, current product identification, Safety Data Sheets, hazard-communication information and related controlled documents can be relevant evidence.</p>\n<h2 id=\"maintenance\">Supporting equipment or maintenance records</h2><p>If equipment condition affects hygiene performance, the audit scope may include records that demonstrate inspection, servicing, calibration or other required support activities.</p>\n<h2 id=\"retention\">Record retention should follow defined requirements</h2><p>Not every record needs the same retention period. Facilities should follow the retention rules defined by their management system, customer requirements, contracts or applicable regulations.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Auditors commonly look for evidence linking planned work, completed work, verification and follow-up. A facility should maintain the records required by its own audit criteria and operating system rather than creating paperwork solely for an audit.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.iso.org/standard/19011\">ISO 19011:2026 — Guidelines for auditing management systems</a>.</li><li id=\"ref-2\"><a href=\"https://www.iso.org/standard/75736.html\">ISO 10013:2021 — Guidance for documented information</a>.</li><li id=\"ref-3\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "Cleaning Records Commonly Reviewed in Audits | Alle's ClinX",
+  "meta_description": "Learn which cleaning records may be reviewed during audits, including schedules, verification, corrective actions, training, product information and supporting records."
+}
