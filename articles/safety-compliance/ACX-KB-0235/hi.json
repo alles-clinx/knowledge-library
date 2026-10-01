@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0235",
+  "slug": "how-ppe-fits-into-chemical-risk-control",
+  "subcategory": "Personal Protective Equipment — PPE",
+  "subcategory_slug": "ppe",
+  "related_article_ids": [
+    "ACX-KB-0236",
+    "ACX-KB-0237",
+    "ACX-KB-0232",
+    "ACX-KB-0229"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0235",
+  "title": "Chemical Risk Control में PPE की भूमिका",
+  "excerpt": "PPE workplace risk control की एक layer है: यह remaining exposure से worker को protect करता है, लेकिन इसे hazard assessment के आधार पर select करना चाहिए और stronger controls के साथ use करना चाहिए।",
+  "content_html": "<p>Personal protective equipment (PPE) workplace risk control का important हिस्सा है, लेकिन सामान्यतः यह पहला या एकमात्र control नहीं होता। PPE पहनने वाले person को remaining exposure से protect करता है, जबकि दूसरे controls hazard remove कर सकते हैं, people को उससे isolate कर सकते हैं या task perform करने का तरीका change कर सकते हैं।</p>\n<h2 id=\"hi235-hierarchy\">Hierarchy of controls में PPE lower level पर आता है</h2><p>Hierarchy of controls में elimination और substitution पहले आते हैं, फिर engineering controls, administrative या work-practice controls, और उसके बाद PPE। Higher-level controls सामान्यतः prefer किए जाते हैं क्योंकि वे individual behaviour या equipment के correct use पर कम depend करते हुए exposure reduce करते हैं।</p>\n<h2 id=\"hi235-remaining-risk\">PPE remaining exposure को address करता है</h2><p>जब hazard को दूसरे practical measures से पूरी तरह remove या control नहीं किया जा सकता, या stronger controls implement किए जा रहे हों, तब PPE important हो जाता है। Specific protection की जरूरत task के hazard assessment पर depend करती है।</p>\n<h2 id=\"hi235-assessment\">Selection hazard assessment से शुरू होती है</h2><p>PPE को actually present या reasonably foreseeable hazards के अनुसार select करना चाहिए। Assessment में product information, task कैसे perform होता है, work environment और additional workplace hazards consider होने चाहिए।</p>\n<h2 id=\"hi235-match\">PPE को hazard और task से match होना चाहिए</h2><p>Different protective equipment अलग hazards के लिए design किया जाता है। Generic protective item हर task के लिए automatically suitable नहीं होता। Selection में protective capability, compatibility, coverage और equipment limitations consider करनी चाहिए।</p>\n<h2 id=\"hi235-fit-use\">Fit, condition और correct use matter करते हैं</h2><p>अगर PPE poorly fit करे, damaged हो, गलत पहना जाए या required तरीके से maintain न किया जाए तो protection reduce हो सकती है। Workers को समझना चाहिए कि PPE क्यों needed है, उसकी limitations क्या हैं और applicable workplace procedure क्या कहती है।</p>\n<h2 id=\"hi235-combination\">PPE अक्सर दूसरे controls के साथ काम करता है</h2><p>Well-controlled task में कई measures साथ use हो सकते हैं। Engineering या work-practice controls source या pathway पर exposure reduce कर सकते हैं, जबकि PPE worker के लिए additional barrier देता है।</p>\n<h2 id=\"hi235-practical\">मुख्य बात</h2><p>Preferred PPE item से नहीं, hazard और task से शुरू करें। Hazard को hierarchy में जितना reasonably practicable हो उतना ऊपर control करें, फिर remaining exposure के लिए correctly selected PPE use करें। Task या conditions change होने पर controls reassess करें।</p>\n<h2 id=\"hi235-references\">संदर्भ</h2><ol><li id=\"hi235-ref-1\"><a href=\"https://www.cdc.gov/niosh/hierarchy-of-controls/about/index.html\">NIOSH — Hierarchy of Controls</a>.</li><li id=\"hi235-ref-2\"><a href=\"https://www.osha.gov/safety-management/hazard-prevention\">OSHA — Hazard Prevention and Control</a>.</li><li id=\"hi235-ref-3\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910SubpartIAppB\">OSHA — PPE Hazard Assessment and Selection Guidelines</a>.</li></ol>",
+  "seo_title": "Chemical Risk Control में PPE की भूमिका | Alle's ClinX",
+  "meta_description": "Workplace risk control hierarchy में PPE की भूमिका, hazard assessment और stronger controls के साथ इसके use को समझें।"
+}
