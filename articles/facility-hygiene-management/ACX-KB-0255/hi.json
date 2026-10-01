@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0255",
+  "slug": "induction-training-vs-refresher-training",
+  "subcategory": "Staff Training",
+  "subcategory_slug": "staff-training",
+  "related_article_ids": [
+    "ACX-KB-0253",
+    "ACX-KB-0254",
+    "ACX-KB-0256"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0255",
+  "title": "Induction Training और Refresher Training में क्या अंतर है?",
+  "excerpt": "Induction training staff को safe initial work के लिए prepare करती है; refresher training काम शुरू होने के बाद knowledge और practical performance को reinforce, update और correct करती है।",
+  "seo_title": "Induction Training vs Refresher Training | Alle's ClinX",
+  "meta_description": "Cleaning staff के लिए induction और refresher training के अलग purposes और उनके सही use को समझें।",
+  "content_html": "<p>Induction और refresher training cleaning programme में अलग purposes serve करती हैं। Induction worker को assigned duties शुरू करने से पहले prepare करती है। Refresher training काम शुरू होने के बाद knowledge और skills revisit करती है, खासकर जब procedures change हों, performance gaps दिखें या important risks reinforce करने हों।</p>\n<h2 id=\"hi255-induction\">Induction starting standard establish करती है</h2><p>Induction में role, facility rules, hygiene principles, approved procedures, chemical और equipment safety, PPE, reporting routes और practical task expectations cover होने चाहिए।</p>\n<h2 id=\"hi255-refresher\">Refresher training reinforce और update करती है</h2><p>Refresher training approved methods से drift कम करती है, recurring mistakes correct करती है और revised procedures, products, equipment या controls introduce करती है।</p>\n<h2 id=\"hi255-timing\">Timing risk और performance पर आधारित हो</h2><p>Refreshers periodic हो सकते हैं, लेकिन incidents, audit findings, observed technique problems, major changes या rarely performed tasks के लंबे gap के बाद भी trigger होने चाहिए।</p>\n<h2 id=\"hi255-practice\">दोनों में practical verification होनी चाहिए</h2><p>Attendance alone पर्याप्त नहीं है। Important tasks demonstrate करवाने चाहिए ताकि supervisor verify कर सके कि required method correctly apply हो रहा है।</p>\n<h2 id=\"hi255-records\">Training records दोनों को अलग दिखाएँ</h2><p>Record में training type, covered content, trainer और competency verification clearly documented होनी चाहिए।</p>\n<h2 id=\"hi255-takeaway\">मुख्य बात</h2><p>Induction initial capability establish करती है; refresher training उस capability को समय के साथ maintain और improve करती है।</p>\n<h2 id=\"hi255-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}
