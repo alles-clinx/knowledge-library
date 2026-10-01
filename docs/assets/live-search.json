@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 474,
+  "record_count": 484,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5216,6 +5216,116 @@
       "subcategory_slug": "ppe",
       "excerpt": "Engineering controls workplace या process को change करते हैं, जबकि PPE individual worker को protect करता है; दोनों risk अलग तरीके से reduce करते हैं और hierarchy of controls में इनके levels अलग हैं।",
       "url": "library/safety-compliance/ppe/ppe-vs-engineering-controls/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0238",
+      "locale": "en",
+      "title": "Why Cleaning Chemicals Need Controlled Storage",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Chemical Storage",
+      "subcategory_slug": "chemical-storage",
+      "excerpt": "Controlled storage helps keep cleaning chemicals identifiable, separated as required, protected from misuse, and managed according to label, SDS and workplace requirements.",
+      "url": "library/safety-compliance/chemical-storage/why-cleaning-chemicals-need-controlled-storage/"
+    },
+    {
+      "article_id": "ACX-KB-0238",
+      "locale": "hi-IN",
+      "title": "Cleaning Chemicals को Controlled Storage की जरूरत क्यों होती है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Chemical Storage",
+      "subcategory_slug": "chemical-storage",
+      "excerpt": "Controlled storage cleaning chemicals को identifiable, required तरीके से separated, misuse से protected और label, SDS तथा workplace requirements के अनुसार managed रखने में मदद करता है।",
+      "url": "library/safety-compliance/chemical-storage/why-cleaning-chemicals-need-controlled-storage/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0239",
+      "locale": "en",
+      "title": "What Makes a Chemical Storage Area Well Organised?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Chemical Storage",
+      "subcategory_slug": "chemical-storage",
+      "excerpt": "A well-organised chemical storage area supports clear identification, documented segregation, controlled access, inventory visibility and routine inspection.",
+      "url": "library/safety-compliance/chemical-storage/what-makes-a-chemical-storage-area-well-organised/"
+    },
+    {
+      "article_id": "ACX-KB-0239",
+      "locale": "hi-IN",
+      "title": "Chemical Storage Area को Well Organised क्या बनाता है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Chemical Storage",
+      "subcategory_slug": "chemical-storage",
+      "excerpt": "Well-organised chemical storage area clear identification, documented segregation, controlled access, inventory visibility और routine inspection support करता है।",
+      "url": "library/safety-compliance/chemical-storage/what-makes-a-chemical-storage-area-well-organised/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0240",
+      "locale": "en",
+      "title": "Why Incompatible Products Should Not Be Stored Together",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Chemical Storage",
+      "subcategory_slug": "chemical-storage",
+      "excerpt": "Some chemical products require separation because incompatibility can create additional hazards; storage decisions should follow documented safety information, not assumptions.",
+      "url": "library/safety-compliance/chemical-storage/incompatible-product-storage/"
+    },
+    {
+      "article_id": "ACX-KB-0240",
+      "locale": "hi-IN",
+      "title": "Incompatible Products को साथ Store क्यों नहीं करना चाहिए?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Chemical Storage",
+      "subcategory_slug": "chemical-storage",
+      "excerpt": "कुछ chemical products को अलग रखना जरूरी होता है क्योंकि incompatibility additional hazards create कर सकती है; storage decisions documented safety information follow करें।",
+      "url": "library/safety-compliance/chemical-storage/incompatible-product-storage/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0241",
+      "locale": "en",
+      "title": "Why Facilities Need a Chemical Spill Response Plan",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Spills & Exposure",
+      "subcategory_slug": "spills-exposure",
+      "excerpt": "A spill response plan defines how a facility recognises an emergency, alerts people, assigns responsibility, coordinates evacuation or outside help, and records follow-up.",
+      "url": "library/safety-compliance/spills-exposure/why-facilities-need-a-chemical-spill-response-plan/"
+    },
+    {
+      "article_id": "ACX-KB-0241",
+      "locale": "hi-IN",
+      "title": "Facilities को Chemical Spill Response Plan की जरूरत क्यों होती है?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Spills & Exposure",
+      "subcategory_slug": "spills-exposure",
+      "excerpt": "Spill response plan define करता है कि facility emergency कैसे recognise करेगी, लोगों को alert करेगी, responsibility assign करेगी, evacuation या outside help coordinate करेगी और follow-up record करेगी।",
+      "url": "library/safety-compliance/spills-exposure/why-facilities-need-a-chemical-spill-response-plan/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0242",
+      "locale": "en",
+      "title": "What Belongs in a Chemical Exposure Procedure?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Spills & Exposure",
+      "subcategory_slug": "spills-exposure",
+      "excerpt": "A chemical exposure procedure should define recognition, reporting, emergency escalation, access to product safety information, medical coordination, documentation and follow-up.",
+      "url": "library/safety-compliance/spills-exposure/chemical-exposure-procedure/"
+    },
+    {
+      "article_id": "ACX-KB-0242",
+      "locale": "hi-IN",
+      "title": "Chemical Exposure Procedure में क्या शामिल होना चाहिए?",
+      "category": "Safety, Compliance & Documentation",
+      "category_slug": "safety-compliance",
+      "subcategory": "Spills & Exposure",
+      "subcategory_slug": "spills-exposure",
+      "excerpt": "Chemical exposure procedure recognition, reporting, emergency escalation, product safety information access, medical coordination, documentation और follow-up define करे।",
+      "url": "library/safety-compliance/spills-exposure/chemical-exposure-procedure/hi.html"
     }
   ]
 }
