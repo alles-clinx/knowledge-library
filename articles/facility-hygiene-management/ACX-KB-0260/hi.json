@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0260",
+  "slug": "how-supervision-differs-from-formal-auditing",
+  "subcategory": "Supervision & Inspections",
+  "subcategory_slug": "supervision-inspections",
+  "related_article_ids": [
+    "ACX-KB-0259",
+    "ACX-KB-0261",
+    "ACX-KB-0262"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0260",
+  "title": "Supervision और Formal Auditing में क्या अंतर है?",
+  "excerpt": "Supervision continuous operational oversight है; formal auditing defined criteria के against structured, periodic evaluation है।",
+  "seo_title": "Supervision vs Formal Auditing | Alle's ClinX",
+  "meta_description": "Routine cleaning supervision और formal hygiene auditing में purpose, frequency, independence और follow-up का अंतर समझें।",
+  "content_html": "<p>Supervision और formal auditing दोनों hygiene performance control करने में मदद करते हैं, लेकिन इनके functions अलग हैं। Supervision day-to-day management का हिस्सा है; auditing defined requirements के against structured evaluation है।</p>\n<h2 id=\"hi260-supervision\">Supervision daily execution support करती है</h2><p>Supervisor work assign करता है, questions resolve करता है, technique observe करता है और operational problems correct करता है।</p>\n<h2 id=\"hi260-audit\">Auditing system evaluate करती है</h2><p>Formal audit defined criteria, evidence और documented findings use करके policies, procedures, records और actual practice evaluate करती है।</p>\n<h2 id=\"hi260-frequency\">Frequency और depth अलग होती है</h2><p>Supervision daily या every shift हो सकती है; audits आम तौर पर periodic और broader होती हैं।</p>\n<h2 id=\"hi260-independence\">Audits में objectivity महत्वपूर्ण है</h2><p>जहाँ practical हो, auditor reviewed activity से पर्याप्त independent होना चाहिए।</p>\n<h2 id=\"hi260-evidence\">दोनों evidence use करते हैं, लेकिन decisions अलग हैं</h2><p>Supervision evidence से work on track रखती है; audit evidence से conformity और systemic gaps identify करती है।</p>\n<h2 id=\"hi260-takeaway\">मुख्य बात</h2><p>Daily performance के लिए supervision और wider system effectiveness के लिए formal audit use करें।</p>\n<h2 id=\"hi260-references\">संदर्भ</h2><ol><li><a href=\"https://www.iso.org/standard/70017.html\">ISO — ISO 19011:2018 Guidelines for auditing management systems</a>.</li></ol>"
+}
