@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0248",
+  "slug": "why-controlled-documents-need-version-management",
+  "subcategory": "Records & Document Control",
+  "subcategory_slug": "records-document-control",
+  "related_article_ids": [
+    "ACX-KB-0247",
+    "ACX-KB-0249",
+    "ACX-KB-0224",
+    "ACX-KB-0227"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0248",
+  "title": "Controlled Documents को Version Management की जरूरत क्यों होती है?",
+  "excerpt": "Version management facility को यह जानने में मदद करता है कि कौन-सी procedure current है, क्या change हुआ, किसने approve किया और older version कब replace हुआ।",
+  "content_html": "<p>Controlled documents को version management की जरूरत होती है ताकि workers और supervisors current approved instruction identify कर सकें और उसे older material से distinguish कर सकें। Clear version control न हो तो same procedure की अलग-अलग copies circulation में रह सकती हैं और inconsistency create कर सकती हैं।</p>\n<h2 id=\"hi248-current\">Version control current approved document identify करता है</h2><p>Controlled document में यह clear होना चाहिए कि कौन-सी revision current है। Version number, revision date या equivalent identifier users को confirm करने में मदद करता है कि वे approved document पढ़ रहे हैं।</p>\n<h2 id=\"hi248-history\">Revision history बताती है कि क्या change हुआ</h2><p>Version management record कर सकता है कि document कब change हुआ और, जहाँ appropriate हो, revision का reason क्या था। इससे traceable history बनती है जो review, training और audit readiness support करती है।</p>\n<h2 id=\"hi248-approval\">Approval status matter करता है</h2><p>Facilities को drafts और approved documents के बीच distinction रखना चाहिए। Document-control process identify करे कि revised instruction release होने से पहले changes review और approve करने की authority किसके पास है।</p>\n<h2 id=\"hi248-distribution\">Distribution को control करना जरूरी है</h2><p>New version issue होने पर controlled distribution system current document को required locations पर available करे और superseded copies के normal use में बने रहने की संभावना reduce करे।</p>\n<h2 id=\"hi248-access\">Users version verify कर सकें</h2><p>Workers के पास simple तरीका होना चाहिए जिससे वे confirm कर सकें कि use की जा रही instruction current है, चाहे document electronic हो या printed।</p>\n<h2 id=\"hi248-training\">Important revisions communication या training require कर सकती हैं</h2><p>अगर revision responsibilities, sequence, controls या दूसरे important content change करती है, तो facility को consider करना चाहिए कि affected people को updated communication या training चाहिए या नहीं।</p>\n<h2 id=\"hi248-records\">Version records audits और investigations support करते हैं</h2><p>Clear revision trail facility को यह demonstrate करने में मदद कर सकती है कि particular time पर कौन-सी instruction current थी और changes कैसे controlled थे।</p>\n<h2 id=\"hi248-takeaway\">मुख्य बात</h2><p>Version management document को controlled source of information बनाता है। Core questions हैं: कौन-सा version current है? किसने approve किया? यह कब effective हुआ? जिस version को इसने replace किया उसका क्या हुआ?</p>\n<h2 id=\"hi248-references\">संदर्भ</h2><ol><li id=\"hi248-ref-1\"><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015 Quality management systems — Requirements</a>.</li><li id=\"hi248-ref-2\"><a href=\"https://www.osha.gov/hazcom/HCS-Final-RegText\">OSHA — Hazard Communication Standard regulatory text</a>.</li></ol>",
+  "seo_title": "Controlled Documents में Version Management क्यों जरूरी है? | Alle's ClinX",
+  "meta_description": "Version numbers, approval status, revision history, controlled distribution और obsolete versions के replacement का महत्व समझें।"
+}
