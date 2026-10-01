@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0254",
+  "slug": "why-task-demonstration-matters-in-cleaning-training",
+  "subcategory": "Staff Training",
+  "subcategory_slug": "staff-training",
+  "related_article_ids": [
+    "ACX-KB-0253",
+    "ACX-KB-0151",
+    "ACX-KB-0170",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Task Demonstration Matters in Cleaning Training",
+  "excerpt": "Task demonstration turns written instructions into observable practice, allowing trainers to show the correct method and verify that staff can repeat it safely and consistently.",
+  "content_html": "<p>Cleaning work is practical work. Written instructions, slides and verbal explanations can describe a procedure, but they do not prove that a worker can carry it out correctly. Task demonstration makes the required method visible and creates an opportunity for supervised practice and competency verification.</p>\n<h2 id=\"show-standard\">Demonstration makes the expected standard visible</h2><p>A trainer can show the correct sequence, amount of product, tool handling, movement pattern, PPE use, equipment setup and finishing steps. This reduces ambiguity that can remain when workers interpret written instructions differently.</p>\n<h2 id=\"context\">Workers can see the method in its real context</h2><p>Demonstration is most useful when it reflects the actual facility, surfaces, products and equipment. Staff can see how the SOP applies to the environment they will work in, including access constraints, storage arrangements and local safety controls.</p>\n<h2 id=\"practice\">Practice reveals skill gaps early</h2><p>After observing the task, the worker should perform it while the trainer watches. Errors in sequence, technique, dilution, contact time, PPE, equipment handling or contamination control can then be corrected before the worker performs the task independently.</p>\n<h2 id=\"feedback\">Immediate feedback strengthens learning</h2><p>Specific feedback helps the worker understand what was correct, what needs adjustment and why. Repeating the task after feedback is more informative than simply asking whether the instructions were understood.</p>\n<h2 id=\"competency\">Demonstration supports competency assessment</h2><p>Attendance confirms that a person was present; observed performance provides evidence that the person can perform the task. Facilities can use simple competency criteria or checklists to make this assessment consistent.</p>\n<h2 id=\"refreshers\">It is useful for refreshers and change management</h2><p>Demonstration should not be limited to induction. It is valuable when a new product, tool, machine, procedure or risk control is introduced, and when monitoring identifies recurring technique problems.</p>\n<h2 id=\"limits\">Demonstration should complement, not replace, documented procedures</h2><p>Workers still need access to current SOPs, labels, safety information and job aids. Demonstration shows how to apply those controls; the controlled documents remain the reference for the approved method.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use a simple training cycle: explain the task, demonstrate the correct method, let the worker practise, observe performance, give feedback and verify competency. This converts training from passive information transfer into evidence of practical capability.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li><li id=\"ref-2\"><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-prepare.html\">CDC Project Firstline — Effective Cleaning and Disinfection Start with Preparation</a>.</li></ol>",
+  "seo_title": "Why Task Demonstration Matters in Cleaning Training | Alle's ClinX",
+  "meta_description": "Learn why demonstration, supervised practice, feedback and competency checks are essential parts of effective cleaning staff training."
+}
