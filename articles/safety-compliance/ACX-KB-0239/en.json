@@ -1,0 +1,26 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0239",
+  "slug": "what-makes-a-chemical-storage-area-well-organised",
+  "subcategory": "Chemical Storage",
+  "subcategory_slug": "chemical-storage",
+  "related_article_ids": [
+    "ACX-KB-0238",
+    "ACX-KB-0240",
+    "ACX-KB-0229",
+    "ACX-KB-0218"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Makes a Chemical Storage Area Well Organised?",
+  "excerpt": "A well-organised chemical storage area supports clear identification, documented segregation, controlled access, inventory visibility and routine inspection.",
+  "content_html": "<p>A well-organised chemical storage area is designed around safety information and clear responsibility, not simply appearance. The arrangement should help people identify products, find the correct safety information and notice conditions that require attention.</p>\n<h2 id=\"identification\">Products remain clearly identifiable</h2><p>Containers should be associated with clear, current identification so workers can match them to the correct label and Safety Data Sheet (SDS).</p>\n<h2 id=\"segregation\">Segregation follows documented compatibility information</h2><p>Products that require separation should be stored accordingly. Compatibility decisions should come from the SDS, label, manufacturer information and applicable workplace requirements rather than guesswork.</p>\n<h2 id=\"access\">Access is controlled</h2><p>The storage arrangement should reflect who is authorised to enter or handle the stored products and any restrictions identified in the product information or workplace procedure.</p>\n<h2 id=\"inventory\">Inventory is visible and current</h2><p>A current inventory helps a facility understand what is present, identify unexpected or obsolete stock and link products to their safety documentation.</p>\n<h2 id=\"inspection\">The layout supports routine inspection</h2><p>Good organisation makes it easier to notice damaged containers, missing labels, leaks, blocked access or other abnormal conditions that need escalation under the facility procedure.</p>\n<h2 id=\"emergency\">Safety information can be found quickly</h2><p>Emergency planning is easier when the product inventory, SDS access and responsibility for the area are clear and current.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A well-organised chemical storage area is identifiable, documented, controlled and easy to inspect. The exact arrangement should follow the products present, their safety information and the facility's applicable requirements.</p>\n<h2 id=\"references\">References</h2><ol><li id=\"ref-1\"><a href=\"https://www.osha.gov/hazcom/ghd053107\">OSHA — Hazard Communication Guidance for Hazard Determination</a>.</li><li id=\"ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250\">OSHA — General Requirements for Storage</a>.</li></ol>",
+  "seo_title": "What Makes a Chemical Storage Area Well Organised? | Alle's ClinX",
+  "meta_description": "Learn the core features of an organised chemical storage area: identification, documented segregation, controlled access, inventory and inspection."
+}
