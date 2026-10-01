@@ -250,7 +250,8 @@
     "ACX-KB-0246",
     "ACX-KB-0247",
     "ACX-KB-0248",
-    "ACX-KB-0249"
+    "ACX-KB-0249",
+    "ACX-KB-0250"
   ],
   "completed_batches": [
     "batch-001",
@@ -307,5 +308,5 @@
     "batch-052",
     "batch-053"
   ],
-  "note": "Batches 001-053 are live. Batch 054 is next; only QA-passed article IDs belong in live_article_ids."
+  "note": "Batches 001-053 are complete. Batch 054 is active; ACX-KB-0250 is live after bilingual Gold Standard render and structural QA. ACX-KB-0251–0254 remain queued."
 }
