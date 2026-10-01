@@ -1,0 +1,28 @@
+{
+  "category": "Safety, Compliance & Documentation",
+  "category_slug": "safety-compliance",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0243",
+  "slug": "when-should-a-chemical-incident-be-escalated",
+  "subcategory": "Spills & Exposure",
+  "subcategory_slug": "spills-exposure",
+  "related_article_ids": [
+    "ACX-KB-0241",
+    "ACX-KB-0242",
+    "ACX-KB-0218",
+    "ACX-KB-0229"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0243",
+  "title": "Chemical Incident को कब Escalate करना चाहिए?",
+  "excerpt": "Chemical incident को तब escalate करना चाहिए जब situation uncertain, worsening, authorised response capability से बाहर हो, या exposure, injury, fire, evacuation या outside emergency support involve करे।",
+  "content_html": "<p>Chemical incident को तब escalate करना चाहिए जब situation facility की authorised procedures और trained capability के भीतर safely manage नहीं की जा सकती। Escalation का मतलब incident को appropriate supervisor, emergency coordinator, medical support या outside emergency service तक move करना है, न कि improvise करते रहना।</p>\n<h2 id=\"hi243-uncertainty\">Situation uncertain हो तो escalate करें</h2><p>अगर product, hazard, incident extent या appropriate response unclear हो, तो assumptions पर rely करने के बजाय issue को authorised personnel तक move करना safer है जो correct safety information के साथ assess कर सकें।</p>\n<h2 id=\"hi243-worsening\">Conditions worsening हों तो escalate करें</h2><p>जो incident spread हो रहा हो, control करना harder हो रहा हो या new hazards create कर रहा हो, उसे routine handling से beyond मानकर facility emergency procedure के अनुसार escalate करना चाहिए।</p>\n<h2 id=\"hi243-exposure\">Exposure या injury prompt escalation require करती है</h2><p>Suspected exposure, injury, symptoms या medical evaluation की जरूरत applicable medical और emergency pathway trigger करे। Product identity और Safety Data Sheet (SDS) authorised responders या medical personnel को available होनी चाहिए।</p>\n<h2 id=\"hi243-fire\">Fire, evacuation या emergency indicators emergency response require करते हैं</h2><p>जहाँ fire, evacuation, serious danger या दूसरी emergency condition present हो, वहाँ facility emergency action plan और outside emergency-support arrangements routine work procedures से priority लेते हैं।</p>\n<h2 id=\"hi243-capability\">Authorised response capability से आगे न जाएँ</h2><p>Workers से ऐसी incident manage करने की expectation नहीं होनी चाहिए जो उनकी training, assigned role, equipment या workplace procedure से बाहर हो। Clear escalation thresholds stressful conditions में informal decision-making reduce करते हैं।</p>\n<h2 id=\"hi243-reporting\">Reporting और communication पहले से defined हों</h2><p>Facility identify करे कि किसे contact करना है, incident कैसे report करना है, evacuation या outside assistance कौन authorise कर सकता है और responders तक information कैसे जाएगी।</p>\n<h2 id=\"hi243-follow-up\">Escalation follow-up तक जारी रहती है</h2><p>Immediate event के बाद भी documentation, medical follow-up, investigation, corrective action या procedure और training updates की जरूरत हो सकती है।</p>\n<h2 id=\"hi243-takeaway\">मुख्य बात</h2><p>Incident uncertain या worsening हो, exposure या injury involve करे, evacuation या emergency support चाहिए, या facility capability से बाहर हो—तो escalate करें। Improvise करने के बजाय current emergency plan और product safety information follow करें।</p>\n<h2 id=\"hi243-references\">संदर्भ</h2><ol><li id=\"hi243-ref-1\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.38\">OSHA — Emergency Action Plans</a>.</li><li id=\"hi243-ref-2\"><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.120\">OSHA — Hazardous Waste Operations and Emergency Response</a>.</li><li id=\"hi243-ref-3\"><a href=\"https://www.osha.gov/emergency-preparedness/getting-started\">OSHA — Emergency Preparedness and Response: Getting Started</a>.</li></ol>",
+  "seo_title": "Chemical Incident को कब Escalate करना चाहिए? | Alle's ClinX",
+  "meta_description": "जानें कि uncertainty, worsening conditions, exposure, injury, evacuation, emergency support या limited response capability में chemical incident कब escalate करनी चाहिए।"
+}
