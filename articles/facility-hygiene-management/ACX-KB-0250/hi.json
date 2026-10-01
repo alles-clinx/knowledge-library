@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0250",
+  "slug": "what-is-a-facility-cleaning-plan",
+  "subcategory": "Cleaning Plans & Schedules",
+  "subcategory_slug": "cleaning-plans-schedules",
+  "related_article_ids": [
+    "ACX-KB-0015",
+    "ACX-KB-0016",
+    "ACX-KB-0017",
+    "ACX-KB-0146"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0250",
+  "title": "Facility Cleaning Plan क्या होता है?",
+  "excerpt": "Facility cleaning plan यह define करता है कि क्या clean करना है, कितनी frequency पर, किसकी responsibility है, कौन-से methods और controls use होंगे, और completion व quality कैसे verify होगी।",
+  "content_html": "<p>Facility cleaning plan वह operating framework है जो hygiene requirements को assigned, repeatable और verifiable work में बदलता है। यह areas, surfaces और equipment को cleaning frequencies, methods, responsibilities, supplies, safety controls और records से जोड़ता है, ताकि facility cleaning को isolated tasks की बजाय एक system की तरह manage कर सके।</p>\n<h2 id=\"hi250-purpose\">Plan required cleaning outcome define करता है</h2><p>Useful cleaning plan facility के hygiene objectives और maintain की जाने वाली conditions से शुरू होता है। इसमें साफ होना चाहिए कि कौन-से spaces, surfaces और equipment scope में हैं और प्रत्येक task के लिए किस level की cleaning, disinfection या other care required है।</p>\n<h2 id=\"hi250-scope\">Areas, assets और task boundaries map करें</h2><p>Plan में rooms, zones, shared spaces, high-touch points, equipment और अन्य relevant assets identify होने चाहिए। Clear task boundaries gaps और duplication reduce करती हैं, खासकर जहाँ responsibility housekeeping, operations, specialist teams या contractors के बीच divided हो।</p>\n<h2 id=\"hi250-frequency\">Risk और actual use के आधार पर frequencies set करें</h2><p>Cleaning frequency यह reflect करे कि area कैसे use होता है, soil कितनी जल्दी accumulate हो सकती है, contamination की likelihood और consequence क्या है, occupancy और touch frequency कितनी है, और कौन-सी regulatory या facility requirements apply होती हैं। Higher-risk या heavily used areas को सामान्यतः low-risk, low-use spaces से tighter controls चाहिए।</p>\n<h2 id=\"hi250-method\">Approved method और resources specify करें</h2><p>हर recurring task के लिए plan approved method या SOP की ओर point करे और required products, equipment, relevant dilution या preparation controls, personal protective equipment और people, surfaces व equipment की protection के लिए जरूरी precautions identify करे।</p>\n<h2 id=\"hi250-responsibility\">Ownership और escalation assign करें</h2><p>हर task के लिए clearly assigned role या team होनी चाहिए, साथ ही supervision और escalation routes defined होने चाहिए। Staff को पता होना चाहिए कि work कौन करता है, कौन check करता है और access, staffing, supplies, equipment condition या unusual contamination normal completion रोक दे तो क्या करना है।</p>\n<h2 id=\"hi250-schedule\">Plan को practical schedules में convert करें</h2><p>Cleaning plan management framework देता है; schedules उस framework को daily, weekly, periodic और event-triggered work में बदलते हैं। Schedules staffing और operating hours के लिए realistic होने चाहिए और missed या deferred work visible होना चाहिए, न कि silently disappear होना चाहिए।</p>\n<h2 id=\"hi250-verification\">Records, monitoring और review शामिल करें</h2><p>Facility को confirm करने का तरीका चाहिए कि required work complete हुआ और result acceptable है। Risk और context के अनुसार verification में checklists, supervisor review, inspections, audit data, complaints, trend analysis या अन्य documented monitoring शामिल हो सकते हैं। Findings को training, staffing, methods और frequencies में improvement के लिए वापस feed करना चाहिए।</p>\n<h2 id=\"hi250-change\">Conditions change हों तो plan current रखें</h2><p>Layout, occupancy, activities, equipment, products, risk controls या legal और organizational requirements बदलें तो cleaning plan review होना चाहिए। Periodic review उन tasks को भी identify करती है जो missing, duplicated, no longer necessary या available resources के साथ no longer achievable हों।</p>\n<h2 id=\"hi250-takeaway\">मुख्य बात</h2><p>Facility cleaning plan को छह operational questions का जवाब देना चाहिए: क्या clean करना है, क्यों करना है, कैसे करना है, कितनी frequency पर करना है, responsibility किसकी है, और completion व quality कैसे verify होगी। जब ये elements साथ में controlled और reviewed हों, cleaning को manage, audit और improve करना आसान होता है।</p>\n<h2 id=\"hi250-references\">संदर्भ</h2><ol><li id=\"hi250-ref-1\"><a href=\"https://www.iso.org/standard/68021.html\">ISO — ISO 41001:2018 Facility management — Management systems — Requirements with guidance for use</a>.</li><li id=\"hi250-ref-2\"><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs: Best Practices for Environmental Cleaning in Global Healthcare Facilities with Limited Resources</a>.</li></ol>",
+  "seo_title": "Facility Cleaning Plan क्या होता है? | Alle's ClinX",
+  "meta_description": "Facility cleaning plan में scope, frequency, methods, responsibilities, schedules, verification, records और periodic review कैसे define किए जाते हैं, समझें।"
+}
