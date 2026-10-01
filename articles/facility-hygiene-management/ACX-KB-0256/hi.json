@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0256",
+  "slug": "what-is-cleaning-competency-assessment",
+  "subcategory": "Competency Assessment",
+  "subcategory_slug": "competency-assessment",
+  "related_article_ids": [
+    "ACX-KB-0253",
+    "ACX-KB-0254",
+    "ACX-KB-0257",
+    "ACX-KB-0258"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0256",
+  "title": "Cleaning Competency Assessment क्या होता है?",
+  "excerpt": "Cleaning competency assessment check करता है कि worker required task को practice में correctly, safely और consistently perform कर सकता है या नहीं।",
+  "seo_title": "Cleaning Competency Assessment क्या है? | Alle's ClinX",
+  "meta_description": "Cleaning competency assessment practical ability, safety, consistency और task performance को कैसे verify करता है, समझें।",
+  "content_html": "<p>Cleaning competency assessment structured check है जो verify करता है कि worker assigned cleaning task required standard पर perform कर सकता है। Focus demonstrated ability पर होता है, केवल attendance या theory knowledge पर नहीं।</p>\n<h2 id=\"hi256-purpose\">Purpose practical capability verify करना है</h2><p>Assessment confirm करता है कि worker approved procedure apply कर सकता है, products और equipment safely use कर सकता है और task consistently complete कर सकता है।</p>\n<h2 id=\"hi256-criteria\">Defined task criteria use करें</h2><p>Criteria SOP या job aid से aligned हों और sequence, technique, PPE, product use, equipment handling, safety precautions और completion requirements cover करें।</p>\n<h2 id=\"hi256-observation\">Observation core method हो सकता है</h2><p>Supervisor या competent assessor worker को task perform करते हुए observe करता है और required elements record करता है।</p>\n<h2 id=\"hi256-questions\">Questions assessment support कर सकते हैं</h2><p>Short questions hazards, escalation routes, labels या critical steps की understanding check कर सकते हैं।</p>\n<h2 id=\"hi256-outcome\">Outcome action तक lead करे</h2><p>Competency confirm हो तो result record करें। Gap मिले तो coaching, retraining, supervised practice या reassessment करें।</p>\n<h2 id=\"hi256-review\">जरूरत पर competency reassess करें</h2><p>Major changes, long gaps, incidents, poor audit findings या repeated concerns के बाद reassessment useful है।</p>\n<h2 id=\"hi256-takeaway\">मुख्य बात</h2><p>Competency assessment का core question है: क्या यह व्यक्ति real conditions में यह task correctly और safely perform कर सकता है?</p>\n<h2 id=\"hi256-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li><li><a href=\"https://www.cdc.gov/project-firstline/hcp/training/evs-prepare.html\">CDC Project Firstline — EVS Training</a>.</li></ol>"
+}
