@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 594,
+  "record_count": 602,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6536,6 +6536,94 @@
       "subcategory_slug": "retail",
       "excerpt": "Retail cleaning priorities customer traffic के साथ बदलनी चाहिए क्योंकि entrances, checkout zones, washrooms, fitting rooms और touchpoints peak periods में जल्दी deteriorate हो सकते हैं।",
       "url": "library/facility-guides/retail/customer-traffic-retail-cleaning-priorities/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0298",
+      "locale": "en",
+      "title": "Retail Cleaning: Front-of-House vs Back-of-House",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Retail Facilities",
+      "subcategory_slug": "retail",
+      "excerpt": "Front-of-house retail cleaning prioritizes customer safety, visible readiness and rapid response, while back-of-house cleaning focuses more on stock, receiving, staff and service areas.",
+      "url": "library/facility-guides/retail/retail-cleaning-front-of-house-vs-back-of-house/"
+    },
+    {
+      "article_id": "ACX-KB-0298",
+      "locale": "hi-IN",
+      "title": "Retail Cleaning: Front-of-House और Back-of-House में क्या अंतर है?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Retail Facilities",
+      "subcategory_slug": "retail",
+      "excerpt": "Front-of-house cleaning customer safety और visible readiness पर focus करती है, जबकि back-of-house cleaning stock, receiving, staff और service areas पर।",
+      "url": "library/facility-guides/retail/retail-cleaning-front-of-house-vs-back-of-house/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0299",
+      "locale": "en",
+      "title": "Long-Term Care Cleaning vs General Housekeeping",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Long-Term Care Facilities",
+      "subcategory_slug": "long-term-care",
+      "excerpt": "Long-term care cleaning combines residential housekeeping with healthcare-oriented infection-prevention controls because residents live in the facility while also receiving personal or medical care.",
+      "url": "library/facility-guides/long-term-care/long-term-care-cleaning-vs-general-housekeeping/"
+    },
+    {
+      "article_id": "ACX-KB-0299",
+      "locale": "hi-IN",
+      "title": "Long-Term Care Cleaning और General Housekeeping में क्या अंतर है?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Long-Term Care Facilities",
+      "subcategory_slug": "long-term-care",
+      "excerpt": "Long-term care cleaning residential housekeeping को healthcare-oriented infection-prevention controls के साथ combine करती है।",
+      "url": "library/facility-guides/long-term-care/long-term-care-cleaning-vs-general-housekeeping/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0300",
+      "locale": "en",
+      "title": "Priority Hygiene Areas in Long-Term Care",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Long-Term Care Facilities",
+      "subcategory_slug": "long-term-care",
+      "excerpt": "Priority hygiene areas in long-term care are usually determined by resident contact, touch frequency, shared use, moisture, care activity and the consequences of delayed cleaning.",
+      "url": "library/facility-guides/long-term-care/priority-hygiene-areas-long-term-care/"
+    },
+    {
+      "article_id": "ACX-KB-0300",
+      "locale": "hi-IN",
+      "title": "Long-Term Care में Priority Hygiene Areas कौन-सी हैं?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Long-Term Care Facilities",
+      "subcategory_slug": "long-term-care",
+      "excerpt": "Long-term care में priority hygiene areas resident contact, touch frequency, shared use, moisture, care activity और delayed cleaning के impact से तय होती हैं।",
+      "url": "library/facility-guides/long-term-care/priority-hygiene-areas-long-term-care/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0301",
+      "locale": "en",
+      "title": "Cleaning, Hand Hygiene and Linen in Long-Term Care",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Long-Term Care Facilities",
+      "subcategory_slug": "long-term-care",
+      "excerpt": "Environmental cleaning, hand hygiene and safe linen handling are separate but connected controls in long-term care and should be coordinated so one process does not undermine another.",
+      "url": "library/facility-guides/long-term-care/cleaning-hand-hygiene-linen-long-term-care/"
+    },
+    {
+      "article_id": "ACX-KB-0301",
+      "locale": "hi-IN",
+      "title": "Long-Term Care में Cleaning, Hand Hygiene और Linen",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Long-Term Care Facilities",
+      "subcategory_slug": "long-term-care",
+      "excerpt": "Environmental cleaning, hand hygiene और safe linen handling अलग लेकिन connected controls हैं और इन्हें coordinated तरीके से manage करना चाहिए।",
+      "url": "library/facility-guides/long-term-care/cleaning-hand-hygiene-linen-long-term-care/hi.html"
     }
   ]
 }
