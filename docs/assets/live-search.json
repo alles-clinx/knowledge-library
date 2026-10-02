@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 538,
+  "record_count": 548,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5920,6 +5920,116 @@
       "subcategory_slug": "chemical-consumption-cost-control",
       "excerpt": "Cost per use एक defined cleaning use, dose या task की chemical/consumable cost estimate करता है, केवल pack price compare नहीं करता।",
       "url": "library/facility-hygiene-management/chemical-consumption-cost-control/what-is-cost-per-use-in-cleaning-operations/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0270",
+      "locale": "en",
+      "title": "Why Overuse Raises Cost Without Improving Results",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Chemical Consumption & Cost Control",
+      "subcategory_slug": "chemical-consumption-cost-control",
+      "excerpt": "Using more cleaning chemical than the approved dose usually raises consumption and residue risk without guaranteeing better cleaning or disinfection performance.",
+      "url": "library/facility-hygiene-management/chemical-consumption-cost-control/overuse-cost-without-better-results/"
+    },
+    {
+      "article_id": "ACX-KB-0270",
+      "locale": "hi-IN",
+      "title": "Chemical Overuse Cost क्यों बढ़ाता है लेकिन Results नहीं?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Chemical Consumption & Cost Control",
+      "subcategory_slug": "chemical-consumption-cost-control",
+      "excerpt": "Approved dose से अधिक cleaning chemical use करने पर consumption और residue risk बढ़ सकता है, लेकिन बेहतर cleaning या disinfection result guarantee नहीं होता।",
+      "url": "library/facility-hygiene-management/chemical-consumption-cost-control/overuse-cost-without-better-results/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0271",
+      "locale": "en",
+      "title": "Cleaning Product Approval: What Procurement Should Check",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Procurement",
+      "subcategory_slug": "procurement",
+      "excerpt": "Cleaning-product approval should verify intended use, technical performance, safety information, compatibility, regulatory status, supply continuity and total operating requirements before purchase.",
+      "url": "library/facility-hygiene-management/procurement/cleaning-product-approval-procurement-checks/"
+    },
+    {
+      "article_id": "ACX-KB-0271",
+      "locale": "hi-IN",
+      "title": "Cleaning Product Approval में Procurement को क्या Check करना चाहिए?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Procurement",
+      "subcategory_slug": "procurement",
+      "excerpt": "Cleaning-product approval में intended use, technical performance, safety documents, compatibility, compliance, supply continuity और operating requirements verify होने चाहिए।",
+      "url": "library/facility-hygiene-management/procurement/cleaning-product-approval-procurement-checks/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0272",
+      "locale": "en",
+      "title": "Why Technical Documents Matter in Cleaning Procurement",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Procurement",
+      "subcategory_slug": "procurement",
+      "excerpt": "Technical documents give procurement and operations the evidence needed to understand a cleaning product's intended use, hazards, preparation, compatibility and control requirements.",
+      "url": "library/facility-hygiene-management/procurement/why-technical-documents-matter-in-cleaning-procurement/"
+    },
+    {
+      "article_id": "ACX-KB-0272",
+      "locale": "hi-IN",
+      "title": "Cleaning Procurement में Technical Documents क्यों जरूरी हैं?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Procurement",
+      "subcategory_slug": "procurement",
+      "excerpt": "Technical documents product के intended use, hazards, preparation, compatibility और control requirements समझने के लिए evidence देते हैं।",
+      "url": "library/facility-hygiene-management/procurement/why-technical-documents-matter-in-cleaning-procurement/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0273",
+      "locale": "en",
+      "title": "What to Expect from a Cleaning-Chemical Supplier",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supplier Management",
+      "subcategory_slug": "supplier-management",
+      "excerpt": "A cleaning-chemical supplier should provide consistent approved products, current technical documentation, reliable delivery, traceability and appropriate technical support.",
+      "url": "library/facility-hygiene-management/supplier-management/cleaning-chemical-supplier-expectations/"
+    },
+    {
+      "article_id": "ACX-KB-0273",
+      "locale": "hi-IN",
+      "title": "Cleaning-Chemical Supplier से क्या Expect करना चाहिए?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supplier Management",
+      "subcategory_slug": "supplier-management",
+      "excerpt": "Supplier को consistent approved products, current technical documents, reliable delivery, traceability और appropriate technical support provide करना चाहिए।",
+      "url": "library/facility-hygiene-management/supplier-management/cleaning-chemical-supplier-expectations/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0274",
+      "locale": "en",
+      "title": "Why Supplier Documentation and Service Levels Matter",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supplier Management",
+      "subcategory_slug": "supplier-management",
+      "excerpt": "Supplier documentation and service levels make expectations measurable, improve traceability and help facilities manage delivery, technical support and product-quality issues consistently.",
+      "url": "library/facility-hygiene-management/supplier-management/why-supplier-documentation-and-service-levels-matter/"
+    },
+    {
+      "article_id": "ACX-KB-0274",
+      "locale": "hi-IN",
+      "title": "Supplier Documentation और Service Levels क्यों Matter करते हैं?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Supplier Management",
+      "subcategory_slug": "supplier-management",
+      "excerpt": "Supplier documentation और service levels expectations measurable बनाते हैं और delivery, technical support व product-quality issues को consistently manage करने में मदद करते हैं।",
+      "url": "library/facility-hygiene-management/supplier-management/why-supplier-documentation-and-service-levels-matter/hi.html"
     }
   ]
 }
