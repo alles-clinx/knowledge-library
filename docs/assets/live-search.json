@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 612,
+  "record_count": 622,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6734,6 +6734,116 @@
       "subcategory_slug": "product-documents",
       "excerpt": "Alle's ClinX product documents online Document Center में मिलते हैं, जहाँ MSDS, TDS, SOP और usage guides product और SKU से searchable हैं।",
       "url": "library/alles-clinx/product-documents/where-to-find-alles-clinx-product-documents/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0307",
+      "locale": "en",
+      "title": "SDS, TDS, SOP and Usage Guide: Which Document Do You Need?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Product Documents",
+      "subcategory_slug": "product-documents",
+      "excerpt": "An SDS explains hazards and safe handling, a TDS explains technical product properties, an SOP defines a controlled work procedure, and a usage guide gives practical task-level instructions.",
+      "url": "library/alles-clinx/product-documents/sds-tds-sop-and-usage-guide-which-document-do-you-need/"
+    },
+    {
+      "article_id": "ACX-KB-0307",
+      "locale": "hi-IN",
+      "title": "SDS, TDS, SOP और Usage Guide: कौन-सा Document चाहिए?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Product Documents",
+      "subcategory_slug": "product-documents",
+      "excerpt": "SDS hazards और safe handling बताता है, TDS technical product information, SOP controlled procedure और usage guide practical task-level instructions देता है।",
+      "url": "library/alles-clinx/product-documents/sds-tds-sop-and-usage-guide-which-document-do-you-need/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0308",
+      "locale": "en",
+      "title": "What Information Can an Alle's ClinX QR Code Open?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "QR Codes",
+      "subcategory_slug": "qr-codes",
+      "excerpt": "A product-linked Alle's ClinX QR code can provide a route from the physical label to current online product information and supporting documents such as safety, technical and usage resources.",
+      "url": "library/alles-clinx/qr-codes/what-information-can-an-alles-clinx-qr-code-open/"
+    },
+    {
+      "article_id": "ACX-KB-0308",
+      "locale": "hi-IN",
+      "title": "Alle's ClinX QR Code कौन-सी Information खोल सकता है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "QR Codes",
+      "subcategory_slug": "qr-codes",
+      "excerpt": "Product-linked Alle's ClinX QR code physical label से current online product information और safety, technical तथा usage resources तक route दे सकता है।",
+      "url": "library/alles-clinx/qr-codes/what-information-can-an-alles-clinx-qr-code-open/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0309",
+      "locale": "en",
+      "title": "Why Product-Linked QR Codes Help at the Point of Use",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "QR Codes",
+      "subcategory_slug": "qr-codes",
+      "excerpt": "Product-linked QR codes reduce the distance between a chemical container and its current digital guidance, helping users find product documents without relying on memory or separate filing systems.",
+      "url": "library/alles-clinx/qr-codes/why-product-linked-qr-codes-help-at-the-point-of-use/"
+    },
+    {
+      "article_id": "ACX-KB-0309",
+      "locale": "hi-IN",
+      "title": "Product-Linked QR Codes Point of Use पर क्यों Helpful हैं?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "QR Codes",
+      "subcategory_slug": "qr-codes",
+      "excerpt": "Product-linked QR codes chemical container और current digital guidance के बीच distance कम करते हैं, जिससे users product documents जल्दी find कर सकते हैं।",
+      "url": "library/alles-clinx/qr-codes/why-product-linked-qr-codes-help-at-the-point-of-use/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0310",
+      "locale": "en",
+      "title": "How to Choose an Alle's ClinX Product by Task",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Choosing Alle's ClinX Products",
+      "subcategory_slug": "choosing-alles-clinx-products",
+      "excerpt": "Choose an Alle's ClinX product by defining the area, required cleaning outcome, surface and soil, then confirming the product fit, approved instructions and recurring use pattern.",
+      "url": "library/alles-clinx/choosing-alles-clinx-products/how-to-choose-an-alles-clinx-product-by-task/"
+    },
+    {
+      "article_id": "ACX-KB-0310",
+      "locale": "hi-IN",
+      "title": "Task के आधार पर Alle's ClinX Product कैसे चुनें?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Choosing Alle's ClinX Products",
+      "subcategory_slug": "choosing-alles-clinx-products",
+      "excerpt": "Alle's ClinX product चुनते समय area, required outcome, surface और soil define करें, फिर product fit, approved instructions और recurring use pattern confirm करें।",
+      "url": "library/alles-clinx/choosing-alles-clinx-products/how-to-choose-an-alles-clinx-product-by-task/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0311",
+      "locale": "en",
+      "title": "Comparing Alle's ClinX Products for Similar Applications",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Choosing Alle's ClinX Products",
+      "subcategory_slug": "choosing-alles-clinx-products",
+      "excerpt": "Products that appear suitable for the same area can still differ in task, chemistry, surface compatibility, concentration, contact conditions, documentation and operating cost.",
+      "url": "library/alles-clinx/choosing-alles-clinx-products/compare-alles-clinx-products-similar-applications/"
+    },
+    {
+      "article_id": "ACX-KB-0311",
+      "locale": "hi-IN",
+      "title": "Similar Applications के लिए Alle's ClinX Products कैसे Compare करें?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Choosing Alle's ClinX Products",
+      "subcategory_slug": "choosing-alles-clinx-products",
+      "excerpt": "Same area के लिए suitable दिखने वाले products task, chemistry, surface compatibility, concentration, contact conditions, documentation और operating cost में अलग हो सकते हैं।",
+      "url": "library/alles-clinx/choosing-alles-clinx-products/compare-alles-clinx-products-similar-applications/hi.html"
     }
   ]
 }
