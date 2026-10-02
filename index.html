@@ -1,0 +1,604 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Alle's ClinX Knowledge</title>
+<meta name="description" content="Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.">
+<link rel="manifest" href="/knowledge/manifest.webmanifest">
+<meta name="theme-color" content="#ffffff">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="ClinX Knowledge">
+<link rel="stylesheet" href="/knowledge/assets/site.css?v=c682d3e21cbe">
+<style>
+:root{
+  --ink:#111111;
+  --text:#3a3a3c;
+  --muted:#737373;
+  --line:#e7e7e7;
+  --soft:#f7f7f7;
+  --page:1120px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:#fff;
+  color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+a{color:inherit;text-decoration:none}
+button,input{font:inherit}
+.page{
+  width:min(var(--page),calc(100% - 64px));
+  margin:0 auto;
+  padding:88px 0 112px;
+}
+.hero{max-width:760px}
+h1{
+  margin:0;
+  font-size:clamp(44px,5vw,64px);
+  line-height:1;
+  letter-spacing:-.045em;
+  font-weight:700;
+}
+.hero p{
+  max-width:680px;
+  margin:20px 0 0;
+  color:var(--text);
+  font-size:19px;
+  line-height:1.55;
+  letter-spacing:-.012em;
+}
+.search{
+  position:relative;
+  max-width:720px;
+  margin-top:40px;
+}
+.search svg{
+  position:absolute;
+  left:18px;
+  top:50%;
+  width:19px;
+  height:19px;
+  transform:translateY(-50%);
+  fill:none;
+  stroke:#6f6f73;
+  stroke-width:1.7;
+  stroke-linecap:round;
+  pointer-events:none;
+}
+.search input{
+  width:100%;
+  height:58px;
+  padding:0 18px 0 50px;
+  border:1px solid #cfcfcf;
+  border-radius:12px;
+  outline:none;
+  background:#fff;
+  color:var(--ink);
+  font-size:16px;
+  transition:border-color .14s ease,box-shadow .14s ease;
+}
+.search input::placeholder{color:#8a8a8e}
+.search input:focus{
+  border-color:#111;
+  box-shadow:0 0 0 3px rgba(0,0,0,.055);
+}
+
+.editorial-block{margin-top:84px}
+.editorial-block+.editorial-block{margin-top:72px}
+.slider-head-meta{
+  display:flex;
+  align-items:center;
+  gap:16px;
+}
+.slider-head-meta p{margin:0}
+.slider-controls{display:flex;gap:6px}
+.slider-button{
+  width:34px;
+  height:34px;
+  display:grid;
+  place-items:center;
+  padding:0;
+  border:1px solid #e5e5e7;
+  border-radius:8px;
+  background:#fff;
+  color:#55555a;
+  cursor:pointer;
+  font-size:17px;
+  line-height:1;
+  transition:background .14s ease,border-color .14s ease,color .14s ease,opacity .14s ease;
+}
+.slider-button:hover:not(:disabled),.slider-button:focus-visible:not(:disabled){
+  background:#f9f9f9;
+  border-color:#d6d6d9;
+  color:var(--ink);
+  outline:0;
+}
+.slider-button:disabled{opacity:.32;cursor:default}
+.slider-shell{
+  position:relative;
+  margin-top:18px;
+}
+.slider-shell::before,.slider-shell::after{
+  content:"";
+  position:absolute;
+  top:0;
+  bottom:8px;
+  width:54px;
+  z-index:3;
+  pointer-events:none;
+  opacity:0;
+  transition:opacity .16s ease;
+  backdrop-filter:blur(5px);
+  -webkit-backdrop-filter:blur(5px);
+}
+.slider-shell::before{
+  left:0;
+  background:linear-gradient(90deg,rgba(255,255,255,.96),rgba(255,255,255,.55),rgba(255,255,255,0));
+}
+.slider-shell::after{
+  right:0;
+  background:linear-gradient(270deg,rgba(255,255,255,.96),rgba(255,255,255,.55),rgba(255,255,255,0));
+}
+.slider-shell.can-scroll-left::before{opacity:1}
+.slider-shell.can-scroll-right::after{opacity:1}
+.bento-slider{
+  display:flex;
+  gap:12px;
+  overflow-x:auto;
+  padding:0 0 8px;
+  scroll-snap-type:x mandatory;
+  scroll-padding-inline:0;
+  scrollbar-width:none;
+  overscroll-behavior-inline:contain;
+  -webkit-overflow-scrolling:touch;
+}
+.bento-slider::-webkit-scrollbar{display:none}
+.editorial-item,.quick-item{
+  flex:0 0 320px;
+  min-width:0;
+  min-height:224px;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  padding:24px;
+  border:0;
+  border-radius:8px;
+  background:#f9f9f9;
+  scroll-snap-align:start;
+  transition:transform .14s ease,background-color .14s ease;
+}
+.editorial-item:first-child{flex-basis:430px}
+.editorial-item:hover,.quick-item:hover{background:#f5f5f5;transform:translateY(-2px)}
+.editorial-item:focus-visible,.quick-item:focus-visible{
+  outline:2px solid #111;
+  outline-offset:3px;
+}
+.editorial-kicker,.quick-item>span{
+  display:block;
+  margin-bottom:10px;
+  color:var(--muted);
+  font-size:10.5px;
+  line-height:1.3;
+  font-weight:680;
+  letter-spacing:.055em;
+  text-transform:uppercase;
+}
+.editorial-item strong{
+  display:block;
+  max-width:500px;
+  font-size:22px;
+  line-height:1.18;
+  letter-spacing:-.03em;
+  font-weight:670;
+}
+.editorial-item:first-child strong{font-size:26px}
+.editorial-item p{
+  max-width:500px;
+  margin:12px 0 0;
+  color:var(--muted);
+  font-size:13.5px;
+  line-height:1.52;
+}
+.editorial-arrow{
+  align-self:flex-end;
+  margin-top:24px;
+  color:#9b9ba0;
+  font-size:19px;
+  line-height:1;
+  transition:transform .14s ease,color .14s ease;
+}
+.editorial-item:hover .editorial-arrow{transform:translateX(3px);color:var(--ink)}
+.quick-item{
+  flex-basis:276px;
+  min-height:192px;
+  justify-content:flex-start;
+}
+.quick-item strong{
+  display:block;
+  font-size:17px;
+  line-height:1.3;
+  letter-spacing:-.02em;
+  font-weight:650;
+}
+.quick-item em{
+  display:block;
+  margin-top:auto;
+  padding-top:20px;
+  color:#818186;
+  font-size:12px;
+  line-height:1.45;
+  font-style:normal;
+}
+
+.library{
+  margin-top:96px;
+}
+.section-head{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:32px;
+  padding-bottom:18px;
+  border-bottom:1px solid var(--line);
+}
+h2{
+  margin:0;
+  font-size:28px;
+  line-height:1.15;
+  letter-spacing:-.032em;
+  font-weight:680;
+}
+.section-head p{
+  margin:0;
+  color:var(--muted);
+  font-size:14px;
+  line-height:1.4;
+}
+.category-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  column-gap:56px;
+}
+.category{
+  min-width:0;
+  display:block;
+  padding:24px 0 26px;
+  border-bottom:1px solid var(--line);
+  transition:background-color .12s ease;
+}
+.category:hover{background:#fafafa}
+.category:focus-visible{
+  outline:2px solid #111;
+  outline-offset:4px;
+  border-radius:4px;
+}
+.category strong{
+  display:block;
+  font-size:18px;
+  line-height:1.3;
+  letter-spacing:-.018em;
+  font-weight:640;
+}
+.category span{
+  display:block;
+  max-width:430px;
+  margin-top:7px;
+  color:var(--muted);
+  font-size:14px;
+  line-height:1.5;
+}
+.category[hidden]{display:none}
+.empty{
+  display:none;
+  padding:28px 0;
+  color:var(--muted);
+  font-size:15px;
+}
+.empty.show{display:block}
+@media (max-width:760px){
+  .page{
+    width:min(100% - 40px,var(--page));
+    padding:56px 0 80px;
+  }
+  h1{font-size:42px;letter-spacing:-.04em}
+  .hero p{margin-top:16px;font-size:17px;line-height:1.5}
+  .search{margin-top:30px}
+  .search input{height:54px;border-radius:10px}
+
+  .editorial-block{margin-top:64px}
+  .editorial-block+.editorial-block{margin-top:56px}
+  .slider-head-meta{margin-top:12px;justify-content:space-between}
+  .slider-head-meta p{margin:0}
+  .slider-shell{margin-top:14px}
+  .editorial-item{flex-basis:min(82vw,360px);min-height:216px;padding:22px}
+  .editorial-item:first-child{flex-basis:min(88vw,390px)}
+  .editorial-item strong{font-size:20px}
+  .editorial-item:first-child strong{font-size:23px}
+  .quick-item{flex-basis:min(72vw,290px);min-height:184px;padding:21px}
+
+  .library{margin-top:68px}
+  .section-head{display:block;padding-bottom:14px}
+  h2{font-size:24px}
+  .section-head p{margin-top:7px}
+  .category-grid{grid-template-columns:1fr;column-gap:0}
+  .category{padding:20px 0 21px}
+  .category strong{font-size:17px}
+  .category span{margin-top:6px;font-size:13.5px}
+}
+@media (max-width:500px){
+  .slider-head-meta{align-items:center}
+  .slider-head-meta p{font-size:12px}
+  .slider-button{width:32px;height:32px}
+  .editorial-item{flex-basis:86vw}
+  .editorial-item:first-child{flex-basis:90vw}
+  .quick-item{flex-basis:78vw}
+}
+@media (max-width:360px){
+  .page{width:calc(100% - 32px);padding-top:44px}
+  h1{font-size:38px}
+  .hero p{font-size:16px}
+  .library{margin-top:60px}
+}
+@media (prefers-reduced-motion:reduce){
+  *{scroll-behavior:auto!important;transition:none!important}
+}
+</style>
+<script src="/knowledge/assets/site.js?v=95fe9b43b43e" defer></script>
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<link rel="canonical" href="https://allesclinx.com/knowledge/">
+<meta property="og:url" content="https://allesclinx.com/knowledge/">
+<meta property="og:image" content="https://allesclinx.com/wp-content/uploads/2026/09/alles-clinx-knowledge-hub-500-resources.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://allesclinx.com/wp-content/uploads/2026/09/alles-clinx-knowledge-hub-500-resources.png">
+<meta property="og:title" content="Alle&#x27;s ClinX Knowledge">
+<meta name="twitter:title" content="Alle&#x27;s ClinX Knowledge">
+<meta property="og:description" content="Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.">
+<meta name="twitter:description" content="Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Alle's ClinX Knowledge","url":"https://allesclinx.com/knowledge/"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Alle's ClinX Knowledge","description":"Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.","url":"https://allesclinx.com/knowledge/","isPartOf":{"@type":"WebSite","name":"Alle's ClinX Knowledge","url":"https://allesclinx.com/knowledge/"}}</script>
+</head>
+<body class="knowledge-home">
+<main class="page">
+  <header class="hero">
+    <h1>Alle's ClinX Knowledge</h1>
+    <p>Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.</p>
+    <div class="search" role="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>
+      <input id="knowledge-search" type="search" autocomplete="off" placeholder="Search the knowledge base" aria-label="Search the knowledge base">
+    </div>
+  </header>
+
+
+  <section class="editorial-block" aria-labelledby="trending-title">
+    <div class="section-head">
+      <h2 id="trending-title">Trending articles</h2>
+      <div class="slider-head-meta">
+        <p>Curated from currently live Knowledge guides.</p>
+        <div class="slider-controls" aria-label="Trending articles controls">
+          <button class="slider-button" type="button" data-slider-prev="trending-slider" aria-label="Previous trending articles">←</button>
+          <button class="slider-button" type="button" data-slider-next="trending-slider" aria-label="Next trending articles">→</button>
+        </div>
+      </div>
+    </div>
+    <div class="slider-shell">
+    <div class="bento-slider" id="trending-slider" data-slider>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/cleaning-basics/cleaning-vs-sanitising-vs-disinfecting/">
+        <div>
+          <span class="editorial-kicker">Cleaning Basics</span>
+          <strong>Cleaning vs Sanitising vs Disinfecting</strong>
+          <p>Understand what each process does and when the distinction matters in a facility cleaning plan.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/cleaning-basics/the-four-factors-that-influence-cleaning-performance/">
+        <div>
+          <span class="editorial-kicker">Cleaning Basics</span>
+          <strong>The Four Factors That Influence Cleaning Performance</strong>
+          <p>See how chemistry, mechanical action, time and temperature work together during cleaning.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/deep-cleaning/deep-cleaning-vs-routine-cleaning/">
+        <div>
+          <span class="editorial-kicker">Deep Cleaning</span>
+          <strong>Deep Cleaning vs Routine Cleaning</strong>
+          <p>Compare purpose, scope, frequency, access, labour and verification without mixing the two programs.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/high-touch-cleaning/what-are-high-touch-surfaces/">
+        <div>
+          <span class="editorial-kicker">High-Touch Cleaning</span>
+          <strong>What Are High-Touch Surfaces?</strong>
+          <p>Learn how frequently handled surfaces are identified and why the exact list changes by facility.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+    </div>
+  </section>
+
+  <section class="editorial-block" aria-labelledby="quick-title">
+    <div class="section-head">
+      <h2 id="quick-title">Quick reads</h2>
+      <div class="slider-head-meta">
+        <p>Start with the essentials.</p>
+        <div class="slider-controls" aria-label="Quick reads controls">
+          <button class="slider-button" type="button" data-slider-prev="quick-slider" aria-label="Previous quick reads">←</button>
+          <button class="slider-button" type="button" data-slider-next="quick-slider" aria-label="Next quick reads">→</button>
+        </div>
+      </div>
+    </div>
+    <div class="slider-shell">
+    <div class="bento-slider" id="quick-slider" data-slider>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/">
+        <span>Cleaning Basics</span>
+        <strong>What Is Professional Cleaning?</strong>
+        <em>A practical definition of planned, repeatable facility cleaning.</em>
+      </a>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/daily-cleaning/what-is-routine-daily-cleaning/">
+        <span>Daily Cleaning</span>
+        <strong>What Is Routine Daily Cleaning?</strong>
+        <em>The recurring tasks that keep facilities ready between deeper work.</em>
+      </a>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/deep-cleaning/what-is-deep-cleaning/">
+        <span>Deep Cleaning</span>
+        <strong>What Is Deep Cleaning?</strong>
+        <em>When normal routine scope is not enough and broader work is required.</em>
+      </a>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/cleaning-schedules/what-is-a-cleaning-schedule/">
+        <span>Cleaning Schedules</span>
+        <strong>What Is a Cleaning Schedule?</strong>
+        <em>What to clean, where, how often, by whom and by which approved method.</em>
+      </a>
+    </div>
+    </div>
+  </section>
+
+  <section class="acx-depth-section" aria-labelledby="system-title">
+    <div class="acx-depth-head">
+      <p class="acx-depth-eyebrow">Understand the system</p>
+      <h2 id="system-title">Knowledge connects the explanation to the tool.</h2>
+      <p>Read the principle here, then move to the right Alle's ClinX tool when the job becomes a source question, a calculation, or an evidence check.</p>
+    </div>
+    <div class="acx-depth-grid">
+      <div class="acx-depth-item">
+        <h3>About Knowledge</h3>
+        <p>See how the library is structured, sourced, licensed and kept separate from product-specific instructions.</p>
+        <a href="/knowledge/about/knowledge/">How Knowledge works</a>
+      </div>
+      <div class="acx-depth-item">
+        <h3>Nova</h3>
+        <p>Ask product, safety and compliance questions against Alle's ClinX source documentation.</p>
+        <a href="/knowledge/about/nova/">About Nova</a>
+      </div>
+      <div class="acx-depth-item">
+        <h3>Metricon + CheckMate</h3>
+        <p>Use Metricon for repeatable calculations and CheckMate when multiple records need to agree.</p>
+        <a href="/knowledge/about/tools/">Explore digital tools</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="library" aria-labelledby="browse-title">
+    <div class="section-head">
+      <h2 id="browse-title">Browse by category</h2>
+      <p>Choose the area closest to your question.</p>
+    </div>
+
+    <div class="category-grid" id="category-grid">
+      <a class="category" href="/knowledge/library/cleaning-housekeeping/" data-search="cleaning housekeeping basics daily deep cleaning high touch schedules workflows professional">
+        <strong>Cleaning &amp; Housekeeping</strong>
+        <span>Everyday cleaning methods, routines, schedules and housekeeping workflows.</span>
+      </a>
+      <a class="category" href="/knowledge/library/floor-surface-care/" data-search="floor surface care hard resilient stone tile carpet maintenance stains troubleshooting">
+        <strong>Floor &amp; Surface Care</strong>
+        <span>Care, maintenance and troubleshooting for floors and other facility surfaces.</span>
+      </a>
+      <a class="category" href="/knowledge/library/washroom-hygiene/" data-search="washroom hygiene toilets urinals restroom routine odour scale sanitary fittings">
+        <strong>Washroom Hygiene</strong>
+        <span>Routine cleaning, odour control, sanitary fittings and washroom maintenance.</span>
+      </a>
+      <a class="category" href="/knowledge/library/kitchen-food-service/" data-search="kitchen food service hygiene food contact degreasing dishwashing sanitation food safety">
+        <strong>Kitchen &amp; Food-Service Hygiene</strong>
+        <span>Cleaning and hygiene guidance for kitchens, food-contact areas and dishwashing.</span>
+      </a>
+      <a class="category" href="/knowledge/library/laundry-fabric-care/" data-search="laundry fabric care washing linen stain textiles dosing cycles">
+        <strong>Laundry &amp; Fabric Care</strong>
+        <span>Washing, dosing, stain care and practical guidance for fabrics and linen.</span>
+      </a>
+      <a class="category" href="/knowledge/library/disinfection-infection-prevention/" data-search="disinfection infection prevention disinfectant sanitising sanitizing microorganisms contact time healthcare">
+        <strong>Disinfection &amp; Infection Prevention</strong>
+        <span>Disinfection principles, contact time and infection-prevention cleaning practices.</span>
+      </a>
+      <a class="category" href="/knowledge/library/hand-hygiene/" data-search="hand hygiene handwash soap sanitizer sanitiser washing dispensers">
+        <strong>Hand Hygiene</strong>
+        <span>Handwashing, hand rubs, dispensers and practical hygiene guidance.</span>
+      </a>
+      <a class="category" href="/knowledge/library/cleaning-equipment-systems/" data-search="cleaning equipment systems machines scrubber dryer vacuum mop microfiber dilution dosing">
+        <strong>Cleaning Equipment &amp; Systems</strong>
+        <span>Machines, tools, dosing systems and equipment used in professional cleaning.</span>
+      </a>
+      <a class="category" href="/knowledge/library/cleaning-chemistry/" data-search="cleaning chemistry ph acid acids alkali alkaline surfactants detergent dilution water hardness chemistry">
+        <strong>Cleaning Chemistry</strong>
+        <span>pH, acids, alkalis, surfactants, dilution and the chemistry behind cleaning.</span>
+      </a>
+      <a class="category" href="/knowledge/library/safety-compliance/" data-search="safety compliance documentation sds labels ppe chemical handling storage training regulations">
+        <strong>Safety, Compliance &amp; Documentation</strong>
+        <span>SDS, labels, PPE, chemical handling, storage and workplace documentation.</span>
+      </a>
+      <a class="category" href="/knowledge/library/facility-hygiene-management/" data-search="facility hygiene management audits inspections quality cleaning plans frequencies staff training operations">
+        <strong>Facility Hygiene Management</strong>
+        <span>Planning, inspection, auditing, training and management of cleaning programs.</span>
+      </a>
+      <a class="category" href="/knowledge/library/facility-guides/" data-search="facility sector guides healthcare hospitality education industrial offices retail institutional environments">
+        <strong>Facility &amp; Sector Guides</strong>
+        <span>Practical guidance for different facility types and operating environments.</span>
+      </a>
+      <a class="category" href="/knowledge/library/alles-clinx/" data-search="alles clinx tools support products product selection nova checkmate metricon plus documents service support">
+        <strong>Alle's ClinX Tools &amp; Support</strong>
+        <span>Product selection, digital tools, documentation and Alle's ClinX support resources.</span>
+      </a>
+    </div>
+    <div class="empty" id="empty-state" role="status" aria-live="polite">No category matches your search.</div>
+  </section>
+
+</main>
+<div class="acx-bottom-brand" aria-hidden="true">Alle's ClinX</div>
+<script>
+(function(){
+  document.querySelectorAll('[data-slider]').forEach(function(slider){
+    const id=slider.id;
+    const prev=document.querySelector('[data-slider-prev="'+id+'"]');
+    const next=document.querySelector('[data-slider-next="'+id+'"]');
+    const step=function(){return Math.max(260,Math.min(slider.clientWidth*.82,440));};
+    const shell=slider.closest('.slider-shell');
+    function sync(){
+      const max=slider.scrollWidth-slider.clientWidth;
+      const canLeft=slider.scrollLeft>2;
+      const canRight=slider.scrollLeft<max-2;
+      prev.disabled=!canLeft;
+      next.disabled=!canRight;
+      if(shell){
+        shell.classList.toggle('can-scroll-left',canLeft);
+        shell.classList.toggle('can-scroll-right',canRight);
+      }
+    }
+    prev.addEventListener('click',function(){
+      slider.scrollBy({left:-step(),behavior:'smooth'});
+    });
+    next.addEventListener('click',function(){
+      slider.scrollBy({left:step(),behavior:'smooth'});
+    });
+    slider.addEventListener('scroll',function(){
+      requestAnimationFrame(sync);
+    },{passive:true});
+    window.addEventListener('resize',sync);
+    sync();
+  });
+
+  const input=document.getElementById('knowledge-search');
+  const cards=[...document.querySelectorAll('.category')];
+  const empty=document.getElementById('empty-state');
+  input.addEventListener('input',()=>{
+    const q=input.value.trim().toLowerCase();
+    let shown=0;
+    cards.forEach(card=>{
+      const hay=(card.textContent+' '+(card.dataset.search||'')).toLowerCase();
+      const match=!q||hay.includes(q);
+      card.hidden=!match;
+      if(match) shown++;
+    });
+    empty.classList.toggle('show',shown===0);
+  });
+})();
+</script>
+</body>
+</html>

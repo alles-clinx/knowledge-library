@@ -1,0 +1,17 @@
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+AddType application/manifest+json .webmanifest
+AddType application/xml .xml
+<FilesMatch "^(sitemap|google-sitemap)\.xml$">
+  ForceType application/xml
+</FilesMatch>
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  <FilesMatch "^(sitemap|google-sitemap)\.xml$">
+    Header set Cache-Control "no-cache, max-age=0, must-revalidate"
+  </FilesMatch>
+  <Files "offline.html">
+    Header set X-Robots-Tag "noindex, follow"
+  </Files>
+</IfModule>

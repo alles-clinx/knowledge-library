@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Trust & Security | Alle's ClinX</title>
+<meta name="description" content="Trust and security statement for Alle's ClinX Knowledge covering static architecture, HTTPS, software changes, local caching, incident response, vulnerability reporting and legal obligations.">
+
+<link rel="manifest" href="/knowledge/manifest.webmanifest">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/knowledge/assets/site.css?v=c682d3e21cbe">
+<link rel="stylesheet" href="/knowledge/assets/legal.css?v=b4329f580c1e">
+<script src="/knowledge/assets/site.js?v=95fe9b43b43e" defer></script>
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<link rel="canonical" href="https://allesclinx.com/trust-security/">
+<meta property="og:url" content="https://allesclinx.com/trust-security/">
+<meta property="og:image" content="https://allesclinx.com/wp-content/uploads/2026/09/alles-clinx-knowledge-hub-500-resources.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://allesclinx.com/wp-content/uploads/2026/09/alles-clinx-knowledge-hub-500-resources.png">
+<meta property="og:title" content="Trust &amp; Security | Alle&#x27;s ClinX">
+<meta name="twitter:title" content="Trust &amp; Security | Alle&#x27;s ClinX">
+<meta property="og:description" content="Trust and security statement for Alle&#x27;s ClinX Knowledge covering static architecture, HTTPS, software changes, local caching, incident response, vulnerability reporting and legal obligations.">
+<meta name="twitter:description" content="Trust and security statement for Alle&#x27;s ClinX Knowledge covering static architecture, HTTPS, software changes, local caching, incident response, vulnerability reporting and legal obligations.">
+</head>
+<body class="legal-page">
+<main class="legal-shell">
+  <header class="legal-intro">
+    <p class="legal-eyebrow">Legal</p>
+    <h1>Trust & Security</h1>
+    <p>This page explains the security model and trust practices used for Alle's ClinX Knowledge, including what the static architecture reduces, what remains dependent on hosting and browsers, and how to report a security concern responsibly.</p>
+    <div class="legal-scope-note">This statement does not claim a security certification, penetration-test result, bug-bounty programme or guarantee of absolute security. Separate Alle's ClinX commercial, account, AI or payment systems may use different infrastructure and controls.</div>
+  </header>
+  <section class="legal-accordion" aria-label="Trust &amp; Security sections">
+    <details>
+    <summary><span class="legal-number">01</span><span class="legal-title">Static architecture and reduced application state</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge is published primarily as static HTML, CSS, JavaScript, JSON and media. Reading an article does not require a Knowledge account, server-side profile, shopping cart, password or payment flow.</p><p>Reducing server-side application state lowers some categories of risk, but static sites can still be affected by supply-chain issues, malicious dependencies, hosting compromise, browser vulnerabilities, content errors, unsafe external links or configuration mistakes.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">02</span><span class="legal-title">HTTPS and GitHub Pages hosting</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>GitHub Pages supports HTTPS for correctly configured Pages sites, which protects data in transit against ordinary interception or modification between a browser and the served site. GitHub's current guidance on Pages HTTPS is available in its <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https">Pages security documentation</a>.</p><p>Hosting, edge delivery, certificates and platform-level security controls are provided in part by GitHub and related infrastructure. Those controls are governed by GitHub's own terms, policies and operational practices rather than by this page alone.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">03</span><span class="legal-title">Version control, review and automated checks</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge source files are version-controlled, which creates a change history and supports review before publication. Shared site changes are tested through automated repository workflows, including production builds, interaction smoke tests, PWA checks and mobile overflow regression coverage.</p><p>Passing automated checks reduces known regression risk but does not prove the absence of vulnerabilities. Security-sensitive changes may require additional review depending on their scope.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">04</span><span class="legal-title">Search, local processing and browser storage</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge search loads a static index and ranks results in the browser, so ordinary search does not require a dedicated Alle's ClinX search server to receive each phrase. Article text-size preferences are stored locally in the browser.</p><p>The progressive web app uses a service worker and Cache Storage for offline support. Users on shared or managed devices should clear site data when local persistence is not appropriate. The <a href="/knowledge/cookie-policy/">Cookie Policy</a> describes these technologies in more detail.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">05</span><span class="legal-title">Personal-data security and India's DPDP framework</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Where Alle's ClinX controls personal-data processing, security measures should be proportionate to the nature of the data, processing and risk. India's DPDP framework includes security and breach obligations on the timetable prescribed by the Act, Rules and commencement notifications.</p><p>Because substantive DPDP obligations are being phased in, this page does not misstate a future commencement date as a present certification. We will apply duties as they become legally applicable and continue to use reasonable safeguards before then.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">06</span><span class="legal-title">Cyber-incident obligations and CERT-In</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>India's Computer Emergency Response Team, CERT-In, issues directions under section 70B of the Information Technology Act, 2000 concerning cyber-incident prevention, response, logging and reporting. Reportable incidents can be subject to rapid notification requirements, including the six-hour reporting framework described in CERT-In's current directions and FAQs.</p><p>Where those directions apply to an Alle's ClinX-controlled entity or system, incident handling must be performed at the responsible system level. This statement does not imply that Alle's ClinX directly controls every log or security process inside GitHub's hosting infrastructure. See <a href="https://www.cert-in.org.in/Directions70B.jsp">CERT-In Directions under section 70B</a>.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">07</span><span class="legal-title">External links, third parties and supply chain</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>Knowledge links may open government sources, standards bodies, GitHub, allesclinx.com, email applications, social-sharing destinations and other third parties. A legitimate link does not make Alle's ClinX responsible for the destination's security controls or privacy practices.</p><p>Before entering credentials or sensitive information, verify the destination domain and the context. Knowledge pages on GitHub Pages should not be used to submit passwords or payment-card information.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">08</span><span class="legal-title">AI-assisted services and prompt security</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>AI services can introduce risks such as prompt injection, fabricated sources, sensitive-data disclosure and unsafe automation. AI-assisted output should be checked against current authoritative sources where a decision affects safety, compliance, product handling or another consequential outcome.</p><p>Do not place secrets, credentials or unnecessary sensitive information into an AI prompt. Additional controls and disclosures for AI are described in <a href="/knowledge/ai-data-use/">AI & Data Use</a>.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">09</span><span class="legal-title">Responsible vulnerability reporting</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>If you identify a potential vulnerability affecting Knowledge, report it privately with the affected URL or component, steps needed to reproduce the issue, expected versus observed behaviour and any non-sensitive evidence that helps us understand the risk.</p><p>Do not include passwords, access tokens or personal data that is not necessary to demonstrate the issue. Avoid destructive testing, denial-of-service activity, social engineering, persistence, accessing data that is not yours, or testing third-party infrastructure without that provider's permission.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">10</span><span class="legal-title">No bug-bounty or testing authorisation</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>This page is not a bug-bounty programme and does not promise payment, reward or legal safe harbour. It also does not grant permission to bypass access controls or test systems owned by GitHub, hosting providers, customers or other third parties.</p><p>Good-faith reports are welcome, but any security testing must remain within applicable law and any permissions you independently hold.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">11</span><span class="legal-title">Incident response, correction and recovery</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>When a material security issue is confirmed, appropriate response can include containment, investigation, correction, deployment of a fixed version, preservation of evidence, communication to affected parties and legally required notification to authorities.</p><p>Content-integrity problems—such as a wrong safety document, misleading citation or compromised page—are also treated as trust issues and may require rapid correction even when no personal data is involved.</p></div>
+  </details>
+    <details>
+    <summary><span class="legal-number">12</span><span class="legal-title">Security limitations and updates</span><span class="legal-marker" aria-hidden="true"></span></summary>
+    <div class="legal-detail"><p>No website can guarantee perfect security, continuous availability or immunity from future vulnerabilities. Users should keep browsers and operating systems updated and exercise caution with external links and downloads.</p><p>We may update this statement when the hosting model, security controls, applicable law or incident-response process changes materially.</p></div>
+  </details>
+  </section>
+  <section class="legal-meta-grid" aria-label="Legal contact and related policies">
+    <div class="legal-meta-block">
+      <h2>Contact</h2>
+      <p>Report Knowledge security concerns privately to <a href="mailto:care@allesclinx.com">care@allesclinx.com</a>. Do not send live credentials, access tokens, exploit payloads containing third-party data or other unnecessary sensitive material.</p>
+    </div>
+    <div class="legal-meta-block">
+      <h2>Related policies</h2>
+      <nav class="legal-policy-links" aria-label="Related legal policies"><a href="/knowledge/privacy-policy/">Privacy</a><a href="/knowledge/terms-conditions/">Terms</a><a href="/knowledge/cookie-policy/">Cookies</a><a href="/knowledge/ai-data-use/">AI & Data Use</a><a href="/knowledge/accessibility/">Accessibility</a></nav>
+    </div>
+  </section>
+  <div class="legal-date"><span>Last updated: 30 September 2026</span><span>Effective from: 30 September 2026</span></div>
+</main>
+<div class="legal-bottom-brand" aria-hidden="true">Alle's ClinX</div>
+</body>
+</html>

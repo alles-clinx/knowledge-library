@@ -1,0 +1,42 @@
+{
+  "name": "Alle's ClinX Knowledge",
+  "short_name": "Knowledge",
+  "description": "Open professional cleaning, hygiene, chemistry, safety, equipment and facility-operations knowledge.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "any",
+  "categories": ["education", "productivity", "reference"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Cleaning & Housekeeping",
+      "short_name": "Cleaning",
+      "url": "library/cleaning-housekeeping/"
+    },
+    {
+      "name": "Cleaning Chemistry",
+      "short_name": "Chemistry",
+      "url": "library/cleaning-chemistry/"
+    },
+    {
+      "name": "Safety & Compliance",
+      "short_name": "Safety",
+      "url": "library/safety-compliance/"
+    }
+  ]
+}
