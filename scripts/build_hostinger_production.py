@@ -115,16 +115,16 @@ for item in live_articles:
     subcategory_names[(item["category_slug"], item["subcategory_slug"])] = item["subcategory"]
 
 def page_title_description(page: str) -> tuple[str, str]:
-    title_match = re.search(r"<title>([\\s\\S]*?)</title>", page, flags=re.I)
+    title_match = re.search(r"<title>([\s\S]*?)</title>", page, flags=re.I)
     title = strip_tags(html.unescape(title_match.group(1))) if title_match else "Alle's ClinX Knowledge"
     desc_match = re.search(
-        r'<meta[^>]+name=["\\']description["\\'][^>]+content=["\\']([^"\\']*)["\\']',
+        r"<meta[^>]+name=['\"]description['\"][^>]+content=['\"]([^'\"]*)['\"]",
         page,
         flags=re.I,
     )
     if not desc_match:
         desc_match = re.search(
-            r'<meta[^>]+content=["\\']([^"\\']*)["\\'][^>]+name=["\\']description["\\']',
+            r"<meta[^>]+content=['\"]([^'\"]*)['\"][^>]+name=['\"]description['\"]",
             page,
             flags=re.I,
         )
@@ -228,11 +228,11 @@ def generic_meta(rel: str, canonical_url: str, page: str) -> str:
 
 for page_path in OUT.rglob("*.html"):
     page = page_path.read_text(encoding="utf-8")
-    page = remove_existing(page, r'<meta\\s+name=["\\']robots["\\'][^>]*>')
-    page = remove_existing(page, r'<link\\s+rel=["\\']canonical["\\'][^>]*>')
-    page = remove_existing(page, r'<link\\s+rel=["\\']alternate["\\'][^>]*hreflang=[^>]*>')
-    page = remove_existing(page, r'<meta\\s+property=["\\']og:(?:type|site_name|title|description|url|image|image:type|image:width|image:height|image:alt)["\\'][^>]*>')
-    page = remove_existing(page, r'<meta\\s+name=["\\']twitter:(?:card|title|description|image|image:alt)["\\'][^>]*>')
+    page = remove_existing(page, r"<meta\s+name=['\"]robots['\"][^>]*>")
+    page = remove_existing(page, r"<link\s+rel=['\"]canonical['\"][^>]*>")
+    page = remove_existing(page, r"<link\s+rel=['\"]alternate['\"][^>]*hreflang=[^>]*>")
+    page = remove_existing(page, r"<meta\s+property=['\"]og:(?:type|site_name|title|description|url|image|image:type|image:width|image:height|image:alt)['\"][^>]*>")
+    page = remove_existing(page, r"<meta\s+name=['\"]twitter:(?:card|title|description|image|image:alt)['\"][^>]*>")
 
     rel = page_path.relative_to(OUT).as_posix()
     canonical_path = public_path_for_file(page_path)
@@ -294,10 +294,10 @@ llms += [
 
 # Subdirectory crawler hints. The authoritative robots.txt remains at the domain root.
 (OUT / "robots.txt").write_text(
-    "User-agent: *\\n"
-    "Allow: /knowledge/\\n"
-    "Disallow: /knowledge/offline.html\\n"
-    f"Sitemap: {BASE_URL}sitemap.xml\\n",
+    "User-agent: *\n"
+    "Allow: /knowledge/\n"
+    "Disallow: /knowledge/offline.html\n"
+    f"Sitemap: {BASE_URL}sitemap.xml\n",
     encoding="utf-8"
 )
 
@@ -309,6 +309,9 @@ llms += [
     "<IfModule mod_headers.c>\n"
     "  Header set X-Content-Type-Options \"nosniff\"\n"
     "  Header set Referrer-Policy \"strict-origin-when-cross-origin\"\n"
+    "  <Files \"offline.html\">\n"
+    "    Header set X-Robots-Tag \"noindex, follow\"\n"
+    "  </Files>\n"
     "</IfModule>\n",
     encoding="utf-8"
 )
