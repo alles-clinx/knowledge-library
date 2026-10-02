@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0266",
+  "slug": "minimum-stock-vs-reorder-point",
+  "subcategory": "Inventory & Stock Control",
+  "subcategory_slug": "inventory-stock-control",
+  "related_article_ids": [
+    "ACX-KB-0265",
+    "ACX-KB-0267",
+    "ACX-KB-0268"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Minimum Stock vs Reorder Point: Key Differences",
+  "excerpt": "Minimum stock is the lowest inventory level a facility intends to protect; the reorder point is the trigger level at which replenishment should be initiated.",
+  "seo_title": "Minimum Stock vs Reorder Point | Alle's ClinX",
+  "meta_description": "Understand the difference between minimum stock and reorder point and how both support reliable cleaning-chemical availability.",
+  "content_html": "<p>Minimum stock and reorder point are related inventory controls, but they are not identical. Minimum stock is the lower buffer a facility wants to protect. The reorder point is the level at which a new order should be placed so replenishment arrives before stock falls too low.</p>\n<h2 id=\"minimum\">Minimum stock is the protected floor</h2><p>It represents the quantity the facility does not normally want to fall below because doing so increases operational risk.</p>\n<h2 id=\"reorder\">Reorder point is the action trigger</h2><p>The reorder point should normally be set above minimum stock so there is enough inventory to cover expected use during supplier lead time.</p>\n<h2 id=\"lead-time\">Lead time strongly affects the reorder point</h2><p>Longer or less predictable delivery times generally require a larger buffer between the reorder point and the minimum level.</p>\n<h2 id=\"usage\">Consumption rate also matters</h2><p>Fast-moving chemicals need earlier reorder triggers than low-use products, even when the pack size is similar.</p>\n<h2 id=\"review\">Review both when conditions change</h2><p>Supplier reliability, consumption, seasonality, facility occupancy and product specifications can all change the appropriate settings.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Minimum stock answers “how low can we safely go?” Reorder point answers “when should we order?”</p>"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0265",
+  "slug": "why-cleaning-chemical-stock-control-matters",
+  "subcategory": "Inventory & Stock Control",
+  "subcategory_slug": "inventory-stock-control",
+  "related_article_ids": [
+    "ACX-KB-0266",
+    "ACX-KB-0267",
+    "ACX-KB-0268"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0265",
+  "title": "Cleaning-Chemical Stock Control क्यों जरूरी है?",
+  "excerpt": "Cleaning-chemical stock control shortages, overstock, expiry, unauthorized substitution और service disruption reduce करने में मदद करता है।",
+  "seo_title": "Cleaning-Chemical Stock Control क्यों जरूरी है? | Alle's ClinX",
+  "meta_description": "Chemical stock control shortages, overstock, expiry risk और operational disruption को कैसे reduce करता है, समझें।",
+  "content_html": "<p>Cleaning chemicals केवल store-room items नहीं, operational inputs हैं। Essential product unavailable हो तो cleaning delay हो सकती है या unsuitable substitute use हो सकता है। Stock control approved products की reliable availability support करता है।</p>\n<h2 id=\"hi265-availability\">Stock control availability protect करता है</h2><p>Minimum levels, reorder points और routine stock checks critical products के stock-out risk को reduce करते हैं।</p>\n<h2 id=\"hi265-overstock\">Overstock भी reduce होता है</h2><p>Excess stock space और money block करता है और ageing या expiry risk बढ़ा सकता है।</p>\n<h2 id=\"hi265-identity\">Product identity controlled रखें</h2><p>Approved product, concentration और pack size clearly defined हों ताकि unauthorized substitution न हो।</p>\n<h2 id=\"hi265-rotation\">Rotation और expiry checks करें</h2><p>Older usable stock को appropriate rotation से पहले consume करें।</p>\n<h2 id=\"hi265-traceability\">Records traceability improve करते हैं</h2><p>Receiving, issue और stock records unusual consumption और shortages समझने में मदद करते हैं।</p>\n<h2 id=\"hi265-takeaway\">मुख्य बात</h2><p>Good stock control availability, safety, traceability और cost को balance करता है।</p>\n<h2 id=\"hi265-references\">संदर्भ</h2><ol><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}

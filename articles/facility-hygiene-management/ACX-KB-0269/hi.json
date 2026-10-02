@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0269",
+  "slug": "what-is-cost-per-use-in-cleaning-operations",
+  "subcategory": "Chemical Consumption & Cost Control",
+  "subcategory_slug": "chemical-consumption-cost-control",
+  "related_article_ids": [
+    "ACX-KB-0268",
+    "ACX-KB-0265",
+    "ACX-KB-0266"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0269",
+  "title": "Cleaning Operations में Cost per Use क्या होता है?",
+  "excerpt": "Cost per use एक defined cleaning use, dose या task की chemical/consumable cost estimate करता है, केवल pack price compare नहीं करता।",
+  "seo_title": "Cleaning Operations में Cost per Use क्या है? | Alle's ClinX",
+  "meta_description": "Cost per use pack price से बेहतर product comparison कैसे देता है और calculation के लिए क्या inputs चाहिए, समझें।",
+  "content_html": "<p>Cost per use cleaning products compare करने का practical तरीका है। Pack price misleading हो सकता है जब concentration, dilution या dose size अलग हों।</p>\n<h2 id=\"hi269-formula\">Actual usable quantity से शुरू करें</h2><p>Concentrate के लिए approved dilution पर बनने वाली ready-to-use quantity calculate करें।</p>\n<h2 id=\"hi269-task\">Define करें कि one use क्या है</h2><p>One use spray bottle, bucket, machine tank, wash cycle या standardized task हो सकता है।</p>\n<h2 id=\"hi269-compare\">Equivalent outcomes compare करें</h2><p>Products तभी compare करें जब वे same task के लिए approved हों।</p>\n<h2 id=\"hi269-waste\">Relevant waste include करें</h2><p>Over-dosing, discarded solution या poor calibration real cost बढ़ा सकते हैं।</p>\n<h2 id=\"hi269-beyond-price\">Cost per use अकेला decision factor नहीं है</h2><p>Safety, compatibility, labour और compliance भी important हैं।</p>\n<h2 id=\"hi269-takeaway\">मुख्य बात</h2><p>Container price नहीं, like-for-like cleaning task की real cost compare करें।</p>"
+}

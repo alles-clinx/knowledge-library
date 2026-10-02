@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0268",
+  "slug": "why-facilities-should-track-chemical-consumption",
+  "subcategory": "Chemical Consumption & Cost Control",
+  "subcategory_slug": "chemical-consumption-cost-control",
+  "related_article_ids": [
+    "ACX-KB-0265",
+    "ACX-KB-0267",
+    "ACX-KB-0269"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Facilities Should Track Chemical Consumption",
+  "excerpt": "Chemical-consumption tracking helps facilities understand demand, detect abnormal use, improve purchasing, investigate waste and compare cleaning costs more meaningfully.",
+  "seo_title": "Why Facilities Should Track Chemical Consumption | Alle's ClinX",
+  "meta_description": "Learn how chemical-consumption tracking improves purchasing, waste control, stock planning and cleaning-cost visibility.",
+  "content_html": "<p>Tracking chemical consumption turns purchasing data into operational information. It helps facilities understand how much product is actually used over time and whether consumption matches workload, occupancy and expected dilution or dosing.</p>\n<h2 id=\"baseline\">Consumption data creates a baseline</h2><p>Monthly or weekly use data can show normal demand for each product and support more realistic stock planning.</p>\n<h2 id=\"abnormal\">Abnormal use becomes easier to detect</h2><p>Sudden increases may indicate over-dosing, leaks, poor issue control, changed workload or incorrect use.</p>\n<h2 id=\"waste\">Tracking can expose avoidable waste</h2><p>Repeated disposal, expired stock or unusually high product use may reveal process problems that are otherwise hidden inside purchasing totals.</p>\n<h2 id=\"comparison\">Use context when comparing consumption</h2><p>Consumption should be interpreted against relevant drivers such as cleaned area, occupancy, task volume, operating days or production output.</p>\n<h2 id=\"cost\">Consumption links operations to cost</h2><p>When quantity used is combined with unit cost, managers can estimate cost per use, per area or per activity more meaningfully.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Track enough consumption data to understand normal demand, investigate exceptions and improve purchasing and cost decisions.</p>"
+}

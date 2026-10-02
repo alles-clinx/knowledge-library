@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0267",
+  "slug": "how-stock-visibility-reduces-cleaning-disruption",
+  "subcategory": "Inventory & Stock Control",
+  "subcategory_slug": "inventory-stock-control",
+  "related_article_ids": [
+    "ACX-KB-0265",
+    "ACX-KB-0266",
+    "ACX-KB-0268"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0267",
+  "title": "Stock Visibility Cleaning Disruption कैसे Reduce करती है?",
+  "excerpt": "Stock visibility shortages का early warning देती है और emergency substitution, cleaning delays तथा last-minute purchasing reduce करती है।",
+  "seo_title": "Stock Visibility Cleaning Disruption कैसे Reduce करती है? | Alle's ClinX",
+  "meta_description": "Clear stock visibility chemical shortages, emergency purchases और task delays को कैसे reduce करती है, समझें।",
+  "content_html": "<p>Stock visibility का मतलब है approved products की quantity, location और pending orders का clear status होना। Visibility न हो तो shortage अक्सर task due होने पर पता चलती है।</p>\n<h2 id=\"hi267-warning\">Early warning मिलता है</h2><p>Regular counts declining stock जल्दी identify कर सकते हैं।</p>\n<h2 id=\"hi267-planning\">Planned purchasing support होती है</h2><p>Demand और stock clear हों तो emergency ordering कम होती है।</p>\n<h2 id=\"hi267-substitution\">Unauthorized substitution कम होती है</h2><p>Shortage early manage होने पर unapproved product use करने का pressure कम होता है।</p>\n<h2 id=\"hi267-distribution\">Location visibility भी important है</h2><p>Total stock पर्याप्त होने के बावजूद departments में uneven distribution local shortage create कर सकती है।</p>\n<h2 id=\"hi267-data\">Data recurring problems दिखाता है</h2><p>Repeated stock-outs incorrect reorder settings या abnormal consumption indicate कर सकते हैं।</p>\n<h2 id=\"hi267-takeaway\">मुख्य बात</h2><p>Stock status इतना visible रखें कि supervisors cleaning disruption से पहले action ले सकें।</p>"
+}

@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0267",
+  "slug": "how-stock-visibility-reduces-cleaning-disruption",
+  "subcategory": "Inventory & Stock Control",
+  "subcategory_slug": "inventory-stock-control",
+  "related_article_ids": [
+    "ACX-KB-0265",
+    "ACX-KB-0266",
+    "ACX-KB-0268"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Stock Visibility Reduces Cleaning Disruption",
+  "excerpt": "Stock visibility gives supervisors early warning of shortages, supports planned replenishment and reduces emergency substitution, delayed cleaning and last-minute purchasing.",
+  "seo_title": "How Stock Visibility Reduces Cleaning Disruption | Alle's ClinX",
+  "meta_description": "Learn how clear stock visibility reduces chemical shortages, emergency purchases, task delays and unauthorized substitutions.",
+  "content_html": "<p>Stock visibility means knowing what approved cleaning products are available, where they are stored, how much remains and what is already on order. Without that visibility, shortages are often discovered only when a task is due.</p>\n<h2 id=\"warning\">Visibility provides early warning</h2><p>Regular counts or simple digital records can reveal declining stock before it becomes a service problem.</p>\n<h2 id=\"planning\">It supports planned purchasing</h2><p>When demand and stock levels are visible, purchasing can be based on expected need rather than emergency requests.</p>\n<h2 id=\"substitution\">It reduces unauthorized substitution</h2><p>Teams are less likely to improvise with an unapproved product when shortages are identified and managed early.</p>\n<h2 id=\"distribution\">Location visibility matters too</h2><p>A facility may have enough stock overall but still experience local shortages if supplies are unevenly distributed between stores, floors or departments.</p>\n<h2 id=\"data\">Simple data can reveal recurring problems</h2><p>Repeated stock-outs may indicate incorrect reorder settings, inaccurate issue records, abnormal consumption or supplier delays.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Make stock status visible enough that supervisors can act before product availability affects cleaning delivery.</p>"
+}

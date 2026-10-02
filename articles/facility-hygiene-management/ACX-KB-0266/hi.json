@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0266",
+  "slug": "minimum-stock-vs-reorder-point",
+  "subcategory": "Inventory & Stock Control",
+  "subcategory_slug": "inventory-stock-control",
+  "related_article_ids": [
+    "ACX-KB-0265",
+    "ACX-KB-0267",
+    "ACX-KB-0268"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0266",
+  "title": "Minimum Stock और Reorder Point में क्या अंतर है?",
+  "excerpt": "Minimum stock protected lower inventory level है; reorder point वह trigger level है जहाँ replenishment initiate करनी चाहिए।",
+  "seo_title": "Minimum Stock vs Reorder Point | Alle's ClinX",
+  "meta_description": "Minimum stock और reorder point में difference और cleaning-chemical availability में दोनों का role समझें।",
+  "content_html": "<p>Minimum stock और reorder point related inventory controls हैं लेकिन same नहीं। Minimum stock protected lower buffer है; reorder point वह level है जहाँ नया order place करना चाहिए।</p>\n<h2 id=\"hi266-minimum\">Minimum stock protected floor है</h2><p>यह वह quantity है जिसके नीचे facility normally नहीं जाना चाहती।</p>\n<h2 id=\"hi266-reorder\">Reorder point action trigger है</h2><p>यह minimum stock से ऊपर होना चाहिए ताकि supplier lead time के दौरान enough inventory रहे।</p>\n<h2 id=\"hi266-lead-time\">Lead time reorder point को affect करता है</h2><p>Longer delivery time larger buffer require करती है।</p>\n<h2 id=\"hi266-usage\">Consumption rate भी important है</h2><p>Fast-moving chemicals के लिए earlier reorder trigger चाहिए।</p>\n<h2 id=\"hi266-review\">Conditions change हों तो review करें</h2><p>Supplier reliability, consumption और occupancy बदलें तो settings भी review करें।</p>\n<h2 id=\"hi266-takeaway\">मुख्य बात</h2><p>Minimum stock बताता है “कितना low safely जा सकते हैं?” Reorder point बताता है “order कब करना है?”</p>"
+}

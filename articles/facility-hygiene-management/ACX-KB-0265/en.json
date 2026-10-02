@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0265",
+  "slug": "why-cleaning-chemical-stock-control-matters",
+  "subcategory": "Inventory & Stock Control",
+  "subcategory_slug": "inventory-stock-control",
+  "related_article_ids": [
+    "ACX-KB-0266",
+    "ACX-KB-0267",
+    "ACX-KB-0268"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Cleaning-Chemical Stock Control Matters",
+  "excerpt": "Cleaning-chemical stock control helps prevent shortages, overstock, expiry, unauthorized substitution and service disruption while improving traceability and cost visibility.",
+  "seo_title": "Why Cleaning-Chemical Stock Control Matters | Alle's ClinX",
+  "meta_description": "Learn how cleaning-chemical stock control reduces shortages, overstock, expiry risk, unauthorized substitution and operational disruption.",
+  "content_html": "<p>Cleaning chemicals are operational inputs, not just store-room items. If essential products are unavailable, cleaning tasks may be delayed, substituted incorrectly or performed with methods that do not match the approved process. Stock control helps keep the right products available in the right quantity and condition.</p>\n<h2 id=\"availability\">Stock control protects availability</h2><p>Minimum levels, reorder points and routine stock checks reduce the risk that critical products run out before replenishment arrives.</p>\n<h2 id=\"overstock\">It also reduces unnecessary overstock</h2><p>Excess stock ties up space and money and may increase the chance of products ageing, expiring or becoming obsolete after a specification change.</p>\n<h2 id=\"identity\">Product identity must remain controlled</h2><p>Facilities should know exactly which product, concentration and pack size are approved so staff do not substitute a different chemical without review.</p>\n<h2 id=\"rotation\">Rotation and expiry checks matter</h2><p>First-expiry-first-out or similar rotation helps ensure older usable stock is consumed before newer stock where product conditions allow.</p>\n<h2 id=\"traceability\">Records improve traceability</h2><p>Receiving, issue and stock records can help explain unusual consumption, shortages, loss or repeated emergency purchasing.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Good chemical stock control balances availability, safety, traceability and cost. The goal is enough approved stock to support cleaning without unmanaged excess.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}

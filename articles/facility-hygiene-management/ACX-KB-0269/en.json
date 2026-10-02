@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0269",
+  "slug": "what-is-cost-per-use-in-cleaning-operations",
+  "subcategory": "Chemical Consumption & Cost Control",
+  "subcategory_slug": "chemical-consumption-cost-control",
+  "related_article_ids": [
+    "ACX-KB-0268",
+    "ACX-KB-0265",
+    "ACX-KB-0266"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Cost per Use in Cleaning Operations?",
+  "excerpt": "Cost per use estimates the chemical or consumable cost of completing one defined cleaning use, dose, task or service event rather than comparing pack prices alone.",
+  "seo_title": "What Is Cost per Use in Cleaning Operations? | Alle's ClinX",
+  "meta_description": "Learn how cost per use gives a clearer comparison of cleaning chemicals than pack price alone and what inputs are needed.",
+  "content_html": "<p>Cost per use is a practical way to compare cleaning products based on what it costs to complete a defined task or dose. Pack price alone can be misleading when products have different concentrations, dilution rates or dose sizes.</p>\n<h2 id=\"formula\">Start with the actual usable quantity</h2><p>For concentrates, calculate how much ready-to-use solution the pack produces at the approved dilution. For dosing systems, use the actual dose delivered per task.</p>\n<h2 id=\"task\">Define what one use means</h2><p>One use might be one spray bottle, one bucket, one machine tank, one wash cycle or one standardized cleaning task.</p>\n<h2 id=\"compare\">Compare equivalent outcomes</h2><p>Products should be compared only where they are approved for the same task and provide the required performance and safety controls.</p>\n<h2 id=\"waste\">Include avoidable waste where relevant</h2><p>Over-dosing, discarded solution, product loss or poor dispenser calibration can raise real cost per use above the theoretical value.</p>\n<h2 id=\"beyond-price\">Cost per use is not the only decision factor</h2><p>Safety, compatibility, labour, equipment needs, effectiveness and compliance requirements may be more important than a small unit-cost difference.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use cost per use to compare like-for-like cleaning tasks, not just container prices.</p>"
+}

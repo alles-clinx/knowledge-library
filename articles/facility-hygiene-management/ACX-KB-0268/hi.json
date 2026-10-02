@@ -1,0 +1,27 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0268",
+  "slug": "why-facilities-should-track-chemical-consumption",
+  "subcategory": "Chemical Consumption & Cost Control",
+  "subcategory_slug": "chemical-consumption-cost-control",
+  "related_article_ids": [
+    "ACX-KB-0265",
+    "ACX-KB-0267",
+    "ACX-KB-0269"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0268",
+  "title": "Facilities को Chemical Consumption Track क्यों करनी चाहिए?",
+  "excerpt": "Chemical-consumption tracking demand समझने, abnormal use detect करने, purchasing improve करने और waste investigate करने में मदद करती है।",
+  "seo_title": "Chemical Consumption Track क्यों करें? | Alle's ClinX",
+  "meta_description": "Chemical-consumption tracking purchasing, waste control, stock planning और cost visibility को कैसे improve करती है, समझें।",
+  "content_html": "<p>Chemical consumption track करने से purchasing data operational information में बदलता है। Facility समझ सकती है कि product वास्तव में कितना use हो रहा है।</p>\n<h2 id=\"hi268-baseline\">Consumption data baseline बनाता है</h2><p>Weekly या monthly use normal demand identify करता है।</p>\n<h2 id=\"hi268-abnormal\">Abnormal use detect करना आसान होता है</h2><p>Sudden increase over-dosing, leak, changed workload या incorrect use indicate कर सकता है।</p>\n<h2 id=\"hi268-waste\">Avoidable waste identify हो सकती है</h2><p>Expired stock या unusually high use process problem reveal कर सकते हैं।</p>\n<h2 id=\"hi268-comparison\">Comparison context के साथ करें</h2><p>Consumption को area, occupancy, task volume या operating days के against interpret करें।</p>\n<h2 id=\"hi268-cost\">Consumption cost से link होती है</h2><p>Quantity और unit cost combine करके cost per use या cost per area estimate किया जा सकता है।</p>\n<h2 id=\"hi268-takeaway\">मुख्य बात</h2><p>Consumption data normal demand और exceptions दोनों समझने के लिए track करें।</p>"
+}
