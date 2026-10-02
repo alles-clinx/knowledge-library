@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0304",
+  "slug": "what-is-metricon",
+  "subcategory": "Metricon",
+  "subcategory_slug": "metricon",
+  "related_article_ids": [
+    "ACX-KB-0305",
+    "ACX-KB-0268",
+    "ACX-KB-0269"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0304",
+  "title": "Metricon क्या है?",
+  "excerpt": "Metricon Alle's ClinX का browser-native free calculator collection है जो procurement, product usage, chemistry और supply-risk analysis support करता है।",
+  "seo_title": "Metricon क्या है? | Alle's ClinX",
+  "meta_description": "Metricon क्या है, किन calculation areas को cover करता है, browser-native processing कैसे काम करती है और results कैसे use करें, समझें।",
+  "content_html": "<p>Metricon Alle's ClinX का browser-native calculator collection है जो procurement, product usage/cost, chemistry और supply-risk analysis support करता है। Tools common formulas को practical calculations में बदलते हैं और account या separate software installation require नहीं करते।</p>\n<h2 id=\"hi304-browser\">Calculations browser में run होती हैं</h2><p>Metricon के अनुसार inputs browser में process होते हैं और tool उन्हें store या transmit नहीं करता। Page load होने के बाद calculations active connection के बिना भी चल सकती हैं।</p>\n<h2 id=\"hi304-procurement\">Procurement models commercial analysis support करते हैं</h2><p>TCO, EOQ, should-cost, ROI, supplier positioning और contract risk जैसे tools available हैं।</p>\n<h2 id=\"hi304-usage\">Usage और cost tools facility planning support करते हैं</h2><p>Dilution, cost per use, usage, coverage और dosage calculators product instructions को operating numbers में बदलते हैं।</p>\n<h2 id=\"hi304-chemistry\">Chemistry tools common lab calculations support करते हैं</h2><p>pH, molarity, concentration, specific gravity, purity और dilution series जैसे models available हैं।</p>\n<h2 id=\"hi304-risk\">Risk tools supply analysis support करते हैं</h2><p>Single-source exposure, disruption cost, supplier health, spend concentration और FX exposure models शामिल हैं।</p>\n<h2 id=\"hi304-judgment\">Results analysis support करते हैं, judgment replace नहीं</h2><p>Inputs, assumptions और applicability user को verify करनी चाहिए, खासकर legal, safety या high-impact decisions में।</p>\n<h2 id=\"hi304-takeaway\">मुख्य बात</h2><p>Procurement, usage, chemistry या supply risk के transparent browser calculation के लिए Metricon use करें।</p>\n<h2 id=\"hi304-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/metricon/\">Alle's ClinX — Metricon</a>.</li></ol>"
+}

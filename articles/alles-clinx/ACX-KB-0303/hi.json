@@ -1,0 +1,26 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0303",
+  "slug": "what-questions-can-nova-help-answer",
+  "subcategory": "Nova",
+  "subcategory_slug": "nova",
+  "related_article_ids": [
+    "ACX-KB-0302",
+    "ACX-KB-0306"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0303",
+  "title": "Nova किन Questions में Help कर सकता है?",
+  "excerpt": "Nova Alle's ClinX product, safety, technical, policy और compliance information से answer होने वाले questions में सबसे useful है।",
+  "seo_title": "Nova किन Questions में Help कर सकता है? | Alle's ClinX",
+  "meta_description": "Nova product, safety, technical, compliance, document और dilution questions में कैसे help करता है और human verification कब जरूरी है, समझें।",
+  "content_html": "<p>Nova उन questions में सबसे useful है जो Alle's ClinX products, documents, policies या operational guidance से related हों। यह technical source material को user की role के अनुसार concise answer में बदल सकता है।</p>\n<h2 id=\"hi303-product\">Product-use questions</h2><p>Users पूछ सकते हैं product किस task के लिए है, कौन-सी surfaces support करता है, documented dilution क्या है या official restrictions क्या हैं।</p>\n<h2 id=\"hi303-safety\">Safety और handling questions</h2><p>Nova available safety documents से PPE, storage, first aid, incompatibility और handling information locate करने में मदद कर सकता है। Critical answers current SDS से verify करें।</p>\n<h2 id=\"hi303-documents\">Document lookup questions</h2><p>SDS, TDS, certification या policy में information कहाँ है, यह पूछा जा सकता है और available citation से original source तक जाया जा सकता है।</p>\n<h2 id=\"hi303-compliance\">Compliance और policy questions</h2><p>Nova documented certifications, policy requirements और official company information summarize कर सकता है।</p>\n<h2 id=\"hi303-calculations\">Supported quantitative questions</h2><p>जब required values source documentation में हों, dilution quantity जैसे calculations code-based computation से support हो सकते हैं।</p>\n<h2 id=\"hi303-role\">Same question role के अनुसार अलग तरह answer हो सकता है</h2><p>Frontline user को short safety-first answer और supervisor या procurement user को अधिक document/business context मिल सकता है।</p>\n<h2 id=\"hi303-outside\">Documentation के बाहर questions में support limited हो सकती है</h2><p>अगर evidence knowledge base में नहीं है तो Nova confident document-grounded answer नहीं दे सकता। Current interface separate web-search tool भी offer करता है।</p>\n<h2 id=\"hi303-takeaway\">मुख्य बात</h2><p>Nova से वे questions पूछें जिनके लिए आप otherwise product pages, SDS/TDS, policies या compliance documents search करते। Critical decision में cited source verify करें।</p>\n<h2 id=\"hi303-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/about-nova/\">Alle's ClinX — About Nova</a>.</li><li><a href=\"https://allesclinx.com/how-nova-works/\">Alle's ClinX — How Nova Works</a>.</li></ol>"
+}

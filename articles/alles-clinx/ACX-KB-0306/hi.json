@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0306",
+  "slug": "where-to-find-alles-clinx-product-documents",
+  "subcategory": "Product Documents",
+  "subcategory_slug": "product-documents",
+  "related_article_ids": [
+    "ACX-KB-0302",
+    "ACX-KB-0303",
+    "ACX-KB-0272"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0306",
+  "title": "Alle's ClinX Product Documents कहाँ मिलेंगे?",
+  "excerpt": "Alle's ClinX product documents online Document Center में मिलते हैं, जहाँ MSDS, TDS, SOP और usage guides product और SKU से searchable हैं।",
+  "seo_title": "Alle's ClinX Product Documents कहाँ मिलेंगे? | Alle's ClinX",
+  "meta_description": "Alle's ClinX MSDS, TDS, SOP और usage guides कहाँ मिलते हैं, Document Center कैसे search करें और latest revision कब verify करें, समझें।",
+  "content_html": "<p>Alle's ClinX product safety, technical और operating documents के लिए online Document Center maintain करता है। Library product, SKU या document से search की जा सकती है और document type से filter भी की जा सकती है।</p>\n<h2 id=\"hi306-center\">Document Center से शुरू करें</h2><p>Document Center product files को one searchable library में organize करता है।</p>\n<h2 id=\"hi306-types\">Common document types में MSDS, TDS, SOP और usage guides शामिल हैं</h2><p>Product entries Material Safety Data Sheet, Technical Data Sheet, standard operating procedure और practical usage guide links provide कर सकती हैं।</p>\n<h2 id=\"hi306-search\">Product या SKU से search करें</h2><p>Similar variants में सही record identify करने के लिए SKU useful है।</p>\n<h2 id=\"hi306-product-page\">Product pages भी documents की ओर point कर सकती हैं</h2><p>Individual product pages document information या QR-code access provide कर सकती हैं।</p>\n<h2 id=\"hi306-nova\">Nova document set में information locate करने में मदद कर सकता है</h2><p>Supported product/compliance questions में Nova Alle's ClinX documentation retrieve करके source identify कर सकता है।</p>\n<h2 id=\"hi306-revision\">Critical work में current document use करें</h2><p>Safety, audit या compliance decision में document version और exact product/SKU match verify करें।</p>\n<h2 id=\"hi306-support\">Required document missing हो तो support से contact करें</h2><p>Different product या variant का document substitute न करें।</p>\n<h2 id=\"hi306-takeaway\">मुख्य बात</h2><p>Primary product-document library के रूप में Document Center use करें, product/SKU से search करें और critical use से पहले current version verify करें।</p>\n<h2 id=\"hi306-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li><li><a href=\"https://allesclinx.com/nova/\">Alle's ClinX — Nova</a>.</li></ol>"
+}

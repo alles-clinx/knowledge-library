@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0304",
+  "slug": "what-is-metricon",
+  "subcategory": "Metricon",
+  "subcategory_slug": "metricon",
+  "related_article_ids": [
+    "ACX-KB-0305",
+    "ACX-KB-0268",
+    "ACX-KB-0269"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Metricon?",
+  "excerpt": "Metricon is Alle's ClinX's browser-native collection of free calculators for procurement, product usage, chemistry and supply-risk analysis.",
+  "seo_title": "What Is Metricon? | Alle's ClinX",
+  "meta_description": "Learn what Metricon is, the calculation areas it covers, how browser-native processing works, and how results should be used.",
+  "content_html": "<p>Metricon is Alle's ClinX's collection of browser-native calculators for procurement, product usage and cost, chemistry, and supply-risk analysis. The tools are designed to turn common formulas into practical, repeatable calculations without requiring an account or a separate software installation.</p>\n<h2 id=\"browser\">Calculations run in the browser</h2><p>Metricon states that calculation inputs are processed in the browser and are not stored or transmitted by the tool. Once a calculator page has loaded, calculations can continue without an active connection.</p>\n<h2 id=\"procurement\">Procurement models support commercial analysis</h2><p>The suite includes tools for areas such as total cost of ownership, economic order quantity, should-cost, return on investment, supplier positioning, contract risk and other procurement decisions.</p>\n<h2 id=\"usage\">Usage and cost tools support facility planning</h2><p>Metricon includes calculators for dilution, cost per use, usage rates, coverage and dosage so facilities can convert product instructions and consumption data into practical operating numbers.</p>\n<h2 id=\"chemistry\">Chemistry tools support common laboratory calculations</h2><p>Available models include pH, molarity, concentration, specific gravity, purity and dilution-series calculations.</p>\n<h2 id=\"risk\">Risk tools support supply analysis</h2><p>Metricon also includes models for single-source exposure, disruption cost, supplier health, spend concentration and foreign-exchange exposure.</p>\n<h2 id=\"judgment\">Results support analysis rather than replace judgment</h2><p>The calculators use defined formulas and are intended to support decisions. Inputs, assumptions and applicability still need to be checked by the user, especially for legal, safety or high-impact business decisions.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use Metricon when you need a transparent calculation model for procurement, usage, chemistry or supply risk and want to see the result immediately in the browser.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/metricon/\">Alle's ClinX — Metricon</a>.</li></ol>"
+}

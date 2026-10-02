@@ -1,0 +1,24 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0302",
+  "slug": "what-is-nova",
+  "subcategory": "Nova",
+  "subcategory_slug": "nova",
+  "related_article_ids": [
+    "ACX-KB-0303",
+    "ACX-KB-0306"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Is Nova?",
+  "excerpt": "Nova is Alle's ClinX's AI assistant for product, safety, compliance and operational questions, designed to answer from Alle's ClinX documentation and present guidance in a role-aware format.",
+  "seo_title": "What Is Nova? | Alle's ClinX",
+  "meta_description": "Learn what Nova is, how it uses Alle's ClinX product and compliance documents, how role-aware answers work, and when to verify the original source.",
+  "content_html": "<p>Nova is Alle's ClinX's AI assistant for product, safety, compliance and operational questions. Its core knowledge workflow is built around Alle's ClinX product documents, policies and official website content so users can get practical answers without manually searching through multiple files.</p>\n<h2 id=\"grounding\">Nova is grounded in Alle's ClinX documentation</h2><p>For product and compliance questions, Nova retrieves from sources such as Safety Data Sheets, Technical Data Sheets, certifications, policies and official product information before composing an answer.</p>\n<h2 id=\"role\">Answers are shaped around the user's role</h2><p>Nova asks for a name and role at the start of a session. It can then present the same underlying information differently for frontline users, supervisors, compliance teams or procurement staff.</p>\n<h2 id=\"sources\">Nova can identify the source behind an answer</h2><p>Where supported, Nova cites the document used so the original SDS, TDS or policy can be checked when full detail or audit evidence is required.</p>\n<h2 id=\"calculations\">Quantitative outputs can be computed rather than guessed</h2><p>For supported tasks such as dilution calculations, Nova can use documented ratios and code-based calculation rather than relying on approximate mental arithmetic.</p>\n<h2 id=\"confidence\">Nova communicates uncertainty</h2><p>If the available documentation does not strongly support an answer, Nova is designed to indicate lower confidence or that the documentation is insufficient instead of presenting every response with the same certainty.</p>\n<h2 id=\"tools\">The interface can include additional tools</h2><p>The current Nova interface includes a separate web-search option for live internet results. That tool is distinct from Nova's document-grounded product and policy workflow.</p>\n<h2 id=\"limits\">Critical information should still be verified</h2><p>Nova is an assistant, not a replacement for official documentation or professional judgment. Safety-critical or compliance-critical decisions should be confirmed against the current SDS, TDS, policy or the Alle's ClinX support team.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use Nova to reach Alle's ClinX product and compliance knowledge faster, then verify the original source whenever the decision is safety-critical, regulatory or audit-sensitive.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/about-nova/\">Alle's ClinX — About Nova</a>.</li><li><a href=\"https://allesclinx.com/how-nova-works/\">Alle's ClinX — How Nova Works</a>.</li><li><a href=\"https://allesclinx.com/nova/\">Alle's ClinX — Ask Nova</a>.</li></ol>"
+}

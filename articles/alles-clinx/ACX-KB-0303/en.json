@@ -1,0 +1,24 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0303",
+  "slug": "what-questions-can-nova-help-answer",
+  "subcategory": "Nova",
+  "subcategory_slug": "nova",
+  "related_article_ids": [
+    "ACX-KB-0302",
+    "ACX-KB-0306"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Questions Can Nova Help Answer?",
+  "excerpt": "Nova is best suited to questions that can be answered from Alle's ClinX product, safety, technical, policy and compliance information, with role-aware explanations and source references.",
+  "seo_title": "What Questions Can Nova Help Answer? | Alle's ClinX",
+  "meta_description": "See the types of product, safety, technical, compliance, document and dilution questions Nova can help answer and when a human check is still needed.",
+  "content_html": "<p>Nova is most useful when the question relates to Alle's ClinX products, documents, policies or operational guidance. It can turn technical source material into a shorter answer suited to the role of the person asking.</p>\n<h2 id=\"product\">Product-use questions</h2><p>Users can ask what a product is intended for, which surfaces or tasks it supports, what working ratio is documented, or what use restrictions appear in the official product information.</p>\n<h2 id=\"safety\">Safety and handling questions</h2><p>Nova can help locate documented PPE, storage, first-aid, incompatibility or handling information from available safety documents. Safety-critical answers should still be checked against the current SDS.</p>\n<h2 id=\"documents\">Document lookup questions</h2><p>Users can ask where information appears in an SDS, TDS, certification, policy or other Alle's ClinX document and, where available, follow Nova's citation back to the original source.</p>\n<h2 id=\"compliance\">Compliance and policy questions</h2><p>Nova can summarize documented certifications, policy requirements or official company information when those materials exist in its knowledge base.</p>\n<h2 id=\"calculations\">Supported quantitative questions</h2><p>Where the source documentation contains the required values, Nova can support calculations such as dilution quantities using code-based computation instead of an estimate.</p>\n<h2 id=\"role\">The same question can be answered differently by role</h2><p>A frontline user may receive a short safety-first explanation, while a supervisor or procurement user may receive more document, compliance or business context.</p>\n<h2 id=\"outside\">Questions outside the documentation may have limited support</h2><p>If Alle's ClinX documentation does not contain the needed evidence, Nova may not be able to provide a confident document-grounded answer. The current interface also offers a separate web-search tool when live internet information is appropriate.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Ask Nova questions that you would otherwise answer by searching product pages, SDS/TDS files, company policies or compliance documents. For critical decisions, confirm the cited source directly.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/about-nova/\">Alle's ClinX — About Nova</a>.</li><li><a href=\"https://allesclinx.com/how-nova-works/\">Alle's ClinX — How Nova Works</a>.</li></ol>"
+}

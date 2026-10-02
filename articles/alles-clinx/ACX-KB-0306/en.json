@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0306",
+  "slug": "where-to-find-alles-clinx-product-documents",
+  "subcategory": "Product Documents",
+  "subcategory_slug": "product-documents",
+  "related_article_ids": [
+    "ACX-KB-0302",
+    "ACX-KB-0303",
+    "ACX-KB-0272"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Where to Find Alle's ClinX Product Documents",
+  "excerpt": "Alle's ClinX product documents can be found in the online Document Center, which organizes searchable MSDS, TDS, SOP and usage-guide files by product and SKU.",
+  "seo_title": "Where to Find Alle's ClinX Product Documents | Alle's ClinX",
+  "meta_description": "Learn where to find Alle's ClinX MSDS, TDS, SOP and usage-guide files, how to search the Document Center, and when to verify the latest revision.",
+  "content_html": "<p>Alle's ClinX maintains an online Document Center for product safety, technical and operating documents. The library can be searched by product, SKU or document and can be filtered by document type.</p>\n<h2 id=\"center\">Start with the Document Center</h2><p>The Document Center groups product files in one searchable library rather than requiring users to find each file from an individual product page.</p>\n<h2 id=\"types\">Common document types include MSDS, TDS, SOP and usage guides</h2><p>Product entries can provide links to Material Safety Data Sheets, Technical Data Sheets, standard operating procedures and practical usage guides.</p>\n<h2 id=\"search\">Search by product or SKU</h2><p>If the product name is uncertain or several variants are similar, the SKU can be used to identify the correct product record and its associated documents.</p>\n<h2 id=\"product-page\">Product pages may also point to documents</h2><p>Individual product pages can include document information or QR-code access, providing another route to the relevant safety and technical material.</p>\n<h2 id=\"nova\">Nova can help locate information inside the document set</h2><p>For supported product and compliance questions, Nova can retrieve from Alle's ClinX documentation and point users toward the source used in an answer.</p>\n<h2 id=\"revision\">Use the current document for critical work</h2><p>For safety, audit or compliance decisions, confirm that the document version is current and matches the exact product and SKU in use.</p>\n<h2 id=\"support\">Contact support if the required document is missing</h2><p>If a required SDS, TDS or other document cannot be found, contact Alle's ClinX support rather than relying on a document for a different product or variant.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use the Document Center as the primary product-document library, search by product or SKU, and verify the current version before safety- or compliance-critical use.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li><li><a href=\"https://allesclinx.com/nova/\">Alle's ClinX — Nova</a>.</li></ol>"
+}

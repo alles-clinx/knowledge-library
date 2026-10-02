@@ -1,0 +1,26 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0302",
+  "slug": "what-is-nova",
+  "subcategory": "Nova",
+  "subcategory_slug": "nova",
+  "related_article_ids": [
+    "ACX-KB-0303",
+    "ACX-KB-0306"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0302",
+  "title": "Nova क्या है?",
+  "excerpt": "Nova Alle's ClinX का AI assistant है जो product, safety, compliance और operational questions के लिए Alle's ClinX documentation से grounded answers देता है।",
+  "seo_title": "Nova क्या है? | Alle's ClinX",
+  "meta_description": "Nova कैसे Alle's ClinX product और compliance documents use करता है, role-aware answers कैसे देता है और source verification कब जरूरी है, समझें।",
+  "content_html": "<p>Nova Alle's ClinX का AI assistant है जो product, safety, compliance और operational questions में मदद करता है। इसका core knowledge workflow Alle's ClinX के product documents, policies और official website content पर आधारित है।</p>\n<h2 id=\"hi302-grounding\">Nova Alle's ClinX documentation पर grounded है</h2><p>Product और compliance questions के लिए Nova SDS, TDS, certifications, policies और official product information जैसे sources retrieve करके answer बनाता है।</p>\n<h2 id=\"hi302-role\">Answers user की role के अनुसार shape होते हैं</h2><p>Session शुरू होने पर Nova name और role पूछता है और frontline staff, supervisors, compliance teams या procurement users के अनुसार response style adjust कर सकता है।</p>\n<h2 id=\"hi302-sources\">Nova answer के source identify कर सकता है</h2><p>जहाँ supported हो, Nova original SDS, TDS या policy की citation देता है ताकि full detail verify की जा सके।</p>\n<h2 id=\"hi302-calculations\">Quantitative outputs compute किए जा सकते हैं</h2><p>Dilution जैसे supported tasks में documented ratios और code-based calculation use किया जा सकता है।</p>\n<h2 id=\"hi302-confidence\">Nova uncertainty communicate करता है</h2><p>Documentation weak या incomplete हो तो Nova lower confidence या insufficient support indicate करने के लिए designed है।</p>\n<h2 id=\"hi302-tools\">Interface में additional tools भी हो सकते हैं</h2><p>Current Nova interface में live internet results के लिए separate web-search option है। यह document-grounded product/policy workflow से अलग tool है।</p>\n<h2 id=\"hi302-limits\">Critical information फिर भी verify करें</h2><p>Safety-critical या compliance-critical decision current SDS, TDS, policy या Alle's ClinX support team से confirm करें।</p>\n<h2 id=\"hi302-takeaway\">मुख्य बात</h2><p>Nova से product और compliance knowledge जल्दी access करें, लेकिन critical decisions में original source verify करें।</p>\n<h2 id=\"hi302-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/about-nova/\">Alle's ClinX — About Nova</a>.</li><li><a href=\"https://allesclinx.com/how-nova-works/\">Alle's ClinX — How Nova Works</a>.</li><li><a href=\"https://allesclinx.com/nova/\">Alle's ClinX — Ask Nova</a>.</li></ol>"
+}

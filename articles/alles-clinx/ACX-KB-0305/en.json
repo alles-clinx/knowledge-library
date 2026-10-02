@@ -1,0 +1,26 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0305",
+  "slug": "what-types-of-calculations-does-metricon-support",
+  "subcategory": "Metricon",
+  "subcategory_slug": "metricon",
+  "related_article_ids": [
+    "ACX-KB-0304",
+    "ACX-KB-0268",
+    "ACX-KB-0269",
+    "ACX-KB-0266"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Types of Calculations Does Metricon Support?",
+  "excerpt": "Metricon supports calculations across procurement, product usage and unit economics, chemistry and laboratory work, and supply-risk analysis.",
+  "seo_title": "What Calculations Does Metricon Support? | Alle's ClinX",
+  "meta_description": "See the main calculation categories in Metricon, including procurement, dilution and cost, chemistry, and supply-risk models.",
+  "content_html": "<p>Metricon groups its calculators into practical decision areas. The available tools cover procurement, product usage and unit economics, chemistry and laboratory calculations, and supply-risk analysis.</p>\n<h2 id=\"procurement\">Procurement calculations</h2><p>Procurement tools include total cost of ownership, economic order quantity, should-cost modelling, supplier preferencing, ROI, contract risk, Kraljic segmentation, NPV, cost per invoice and MRO savings analysis.</p>\n<h2 id=\"usage\">Product usage and unit-economics calculations</h2><p>Facility and product-use tools include dilution, cost per use, usage rate, area coverage and dosage calculations. These models help convert pack size, working ratio, consumption and application data into comparable operating figures.</p>\n<h2 id=\"chemistry\">Chemistry and laboratory calculations</h2><p>Metricon includes pH, molarity, concentration, specific gravity, percent purity and dilution-series calculations for common solution and laboratory work.</p>\n<h2 id=\"risk\">Supply-risk calculations</h2><p>Risk models include single-source exposure, disruption cost, supplier health scoring, spend concentration using HHI, and foreign-exchange exposure.</p>\n<h2 id=\"inputs\">The result depends on the inputs and assumptions</h2><p>A precise formula can still produce a poor decision if the input data is wrong or the model is not appropriate to the situation. Users should verify units, assumptions and source data before acting on a result.</p>\n<h2 id=\"privacy\">Calculations are browser-native</h2><p>Metricon states that inputs remain in browser memory and are not sent or stored by the calculator service.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Choose the calculator by the decision you are making: procurement economics, product-use planning, chemistry or supply risk.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/metricon/\">Alle's ClinX — Metricon</a>.</li></ol>"
+}
