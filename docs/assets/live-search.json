@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 602,
+  "record_count": 612,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6624,6 +6624,116 @@
       "subcategory_slug": "long-term-care",
       "excerpt": "Environmental cleaning, hand hygiene और safe linen handling अलग लेकिन connected controls हैं और इन्हें coordinated तरीके से manage करना चाहिए।",
       "url": "library/facility-guides/long-term-care/cleaning-hand-hygiene-linen-long-term-care/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0302",
+      "locale": "en",
+      "title": "What Is Nova?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Nova",
+      "subcategory_slug": "nova",
+      "excerpt": "Nova is Alle's ClinX's AI assistant for product, safety, compliance and operational questions, designed to answer from Alle's ClinX documentation and present guidance in a role-aware format.",
+      "url": "library/alles-clinx/nova/what-is-nova/"
+    },
+    {
+      "article_id": "ACX-KB-0302",
+      "locale": "hi-IN",
+      "title": "Nova क्या है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Nova",
+      "subcategory_slug": "nova",
+      "excerpt": "Nova Alle's ClinX का AI assistant है जो product, safety, compliance और operational questions के लिए Alle's ClinX documentation से grounded answers देता है।",
+      "url": "library/alles-clinx/nova/what-is-nova/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0303",
+      "locale": "en",
+      "title": "What Questions Can Nova Help Answer?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Nova",
+      "subcategory_slug": "nova",
+      "excerpt": "Nova is best suited to questions that can be answered from Alle's ClinX product, safety, technical, policy and compliance information, with role-aware explanations and source references.",
+      "url": "library/alles-clinx/nova/what-questions-can-nova-help-answer/"
+    },
+    {
+      "article_id": "ACX-KB-0303",
+      "locale": "hi-IN",
+      "title": "Nova किन Questions में Help कर सकता है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Nova",
+      "subcategory_slug": "nova",
+      "excerpt": "Nova Alle's ClinX product, safety, technical, policy और compliance information से answer होने वाले questions में सबसे useful है।",
+      "url": "library/alles-clinx/nova/what-questions-can-nova-help-answer/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0304",
+      "locale": "en",
+      "title": "What Is Metricon?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Metricon",
+      "subcategory_slug": "metricon",
+      "excerpt": "Metricon is Alle's ClinX's browser-native collection of free calculators for procurement, product usage, chemistry and supply-risk analysis.",
+      "url": "library/alles-clinx/metricon/what-is-metricon/"
+    },
+    {
+      "article_id": "ACX-KB-0304",
+      "locale": "hi-IN",
+      "title": "Metricon क्या है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Metricon",
+      "subcategory_slug": "metricon",
+      "excerpt": "Metricon Alle's ClinX का browser-native free calculator collection है जो procurement, product usage, chemistry और supply-risk analysis support करता है।",
+      "url": "library/alles-clinx/metricon/what-is-metricon/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0305",
+      "locale": "en",
+      "title": "What Types of Calculations Does Metricon Support?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Metricon",
+      "subcategory_slug": "metricon",
+      "excerpt": "Metricon supports calculations across procurement, product usage and unit economics, chemistry and laboratory work, and supply-risk analysis.",
+      "url": "library/alles-clinx/metricon/what-types-of-calculations-does-metricon-support/"
+    },
+    {
+      "article_id": "ACX-KB-0305",
+      "locale": "hi-IN",
+      "title": "Metricon किन Types की Calculations Support करता है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Metricon",
+      "subcategory_slug": "metricon",
+      "excerpt": "Metricon procurement, product usage और unit economics, chemistry/laboratory work और supply-risk analysis की calculations support करता है।",
+      "url": "library/alles-clinx/metricon/what-types-of-calculations-does-metricon-support/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0306",
+      "locale": "en",
+      "title": "Where to Find Alle's ClinX Product Documents",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Product Documents",
+      "subcategory_slug": "product-documents",
+      "excerpt": "Alle's ClinX product documents can be found in the online Document Center, which organizes searchable MSDS, TDS, SOP and usage-guide files by product and SKU.",
+      "url": "library/alles-clinx/product-documents/where-to-find-alles-clinx-product-documents/"
+    },
+    {
+      "article_id": "ACX-KB-0306",
+      "locale": "hi-IN",
+      "title": "Alle's ClinX Product Documents कहाँ मिलेंगे?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Product Documents",
+      "subcategory_slug": "product-documents",
+      "excerpt": "Alle's ClinX product documents online Document Center में मिलते हैं, जहाँ MSDS, TDS, SOP और usage guides product और SKU से searchable हैं।",
+      "url": "library/alles-clinx/product-documents/where-to-find-alles-clinx-product-documents/hi.html"
     }
   ]
 }
