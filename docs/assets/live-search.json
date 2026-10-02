@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 564,
+  "record_count": 574,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6206,6 +6206,116 @@
       "subcategory_slug": "hospitality",
       "excerpt": "Guest-room turnover room को next stay या service event के लिए ready करता है; periodic deep cleaning lower-frequency detailed tasks cover करती है।",
       "url": "library/facility-guides/hospitality/guest-room-turnover-vs-periodic-deep-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0283",
+      "locale": "en",
+      "title": "Hotel Hygiene Across Housekeeping, Laundry and Kitchens",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Hotels & Hospitality",
+      "subcategory_slug": "hospitality",
+      "excerpt": "Hotel hygiene depends on coordinated controls across guest rooms, linen handling, public areas and food-service operations rather than treating housekeeping, laundry and kitchens as isolated functions.",
+      "url": "library/facility-guides/hospitality/hotel-hygiene-housekeeping-laundry-kitchens/"
+    },
+    {
+      "article_id": "ACX-KB-0283",
+      "locale": "hi-IN",
+      "title": "Hotel Hygiene में Housekeeping, Laundry और Kitchens को कैसे Coordinate करें?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Hotels & Hospitality",
+      "subcategory_slug": "hospitality",
+      "excerpt": "Hotel hygiene guest rooms, linen handling, public areas और food-service operations के coordinated controls पर depend करती है।",
+      "url": "library/facility-guides/hospitality/hotel-hygiene-housekeeping-laundry-kitchens/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0284",
+      "locale": "en",
+      "title": "How School Cleaning Programs Are Structured",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Schools & Education",
+      "subcategory_slug": "education",
+      "excerpt": "School cleaning programs combine classroom and washroom routines, high-touch cleaning, food-service controls, event response, periodic work and custodial quality checks around the academic timetable.",
+      "url": "library/facility-guides/education/how-school-cleaning-programs-are-structured/"
+    },
+    {
+      "article_id": "ACX-KB-0284",
+      "locale": "hi-IN",
+      "title": "School Cleaning Programs कैसे Structured होते हैं?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Schools & Education",
+      "subcategory_slug": "education",
+      "excerpt": "School cleaning programs classrooms, washrooms, high-touch cleaning, food-service controls, event response और periodic work को academic timetable के around organize करते हैं।",
+      "url": "library/facility-guides/education/how-school-cleaning-programs-are-structured/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0285",
+      "locale": "en",
+      "title": "Priority Hygiene Areas in Education Facilities",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Schools & Education",
+      "subcategory_slug": "education",
+      "excerpt": "Priority hygiene areas in education facilities are typically determined by touch frequency, student density, moisture, food activity, shared equipment and the consequences of delayed cleaning.",
+      "url": "library/facility-guides/education/priority-hygiene-areas-education-facilities/"
+    },
+    {
+      "article_id": "ACX-KB-0285",
+      "locale": "hi-IN",
+      "title": "Education Facilities में Priority Hygiene Areas कौन-सी हैं?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Schools & Education",
+      "subcategory_slug": "education",
+      "excerpt": "Education facilities में priority hygiene areas touch frequency, student density, moisture, food activity, shared equipment और delayed cleaning के impact से identify होती हैं।",
+      "url": "library/facility-guides/education/priority-hygiene-areas-education-facilities/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0286",
+      "locale": "en",
+      "title": "Campus Hygiene: Classrooms, Washrooms and Food-Service Areas",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Schools & Education",
+      "subcategory_slug": "education",
+      "excerpt": "Campus hygiene works best when classrooms, washrooms and food-service areas have separate task standards, frequencies and ownership while remaining part of one coordinated cleaning program.",
+      "url": "library/facility-guides/education/campus-hygiene-classrooms-washrooms-food-service/"
+    },
+    {
+      "article_id": "ACX-KB-0286",
+      "locale": "hi-IN",
+      "title": "Campus Hygiene: Classrooms, Washrooms और Food-Service Areas",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Schools & Education",
+      "subcategory_slug": "education",
+      "excerpt": "Campus hygiene तब बेहतर काम करती है जब classrooms, washrooms और food-service areas के separate task standards और frequencies हों लेकिन management coordinated हो।",
+      "url": "library/facility-guides/education/campus-hygiene-classrooms-washrooms-food-service/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0287",
+      "locale": "en",
+      "title": "Industrial Cleaning vs Commercial Housekeeping",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Industrial Facilities",
+      "subcategory_slug": "industrial",
+      "excerpt": "Industrial cleaning often involves process residues, production equipment and task-specific hazards, while commercial housekeeping generally focuses on routine occupied-building cleanliness and presentation.",
+      "url": "library/facility-guides/industrial/industrial-cleaning-vs-commercial-housekeeping/"
+    },
+    {
+      "article_id": "ACX-KB-0287",
+      "locale": "hi-IN",
+      "title": "Industrial Cleaning और Commercial Housekeeping में क्या अंतर है?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Industrial Facilities",
+      "subcategory_slug": "industrial",
+      "excerpt": "Industrial cleaning process residues, production equipment और task-specific hazards involve कर सकती है, जबकि commercial housekeeping routine occupied-building cleanliness पर focus करती है।",
+      "url": "library/facility-guides/industrial/industrial-cleaning-vs-commercial-housekeeping/hi.html"
     }
   ]
 }
