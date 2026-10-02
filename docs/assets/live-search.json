@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 548,
+  "record_count": 554,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6030,6 +6030,72 @@
       "subcategory_slug": "supplier-management",
       "excerpt": "Supplier documentation और service levels expectations measurable बनाते हैं और delivery, technical support व product-quality issues को consistently manage करने में मदद करते हैं।",
       "url": "library/facility-hygiene-management/supplier-management/why-supplier-documentation-and-service-levels-matter/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0275",
+      "locale": "en",
+      "title": "Sustainable Cleaning in Facility Operations",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Sustainability & Waste",
+      "subcategory_slug": "sustainability-waste",
+      "excerpt": "Sustainable cleaning aims to maintain required hygiene while reducing avoidable chemical, water, energy, packaging and material use across the cleaning system.",
+      "url": "library/facility-hygiene-management/sustainability-waste/sustainable-cleaning-facility-operations/"
+    },
+    {
+      "article_id": "ACX-KB-0275",
+      "locale": "hi-IN",
+      "title": "Facility Operations में Sustainable Cleaning क्या है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Sustainability & Waste",
+      "subcategory_slug": "sustainability-waste",
+      "excerpt": "Sustainable cleaning required hygiene maintain करते हुए avoidable chemical, water, energy, packaging और material use को reduce करने का approach है।",
+      "url": "library/facility-hygiene-management/sustainability-waste/sustainable-cleaning-facility-operations/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0276",
+      "locale": "en",
+      "title": "How Concentrates Affect Packaging and Transport Efficiency",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Sustainability & Waste",
+      "subcategory_slug": "sustainability-waste",
+      "excerpt": "Concentrated cleaning products can reduce the amount of packaged liquid transported and stored per usable dose, but the benefit depends on correct dilution, packaging design and the full supply system.",
+      "url": "library/facility-hygiene-management/sustainability-waste/concentrates-packaging-transport-efficiency/"
+    },
+    {
+      "article_id": "ACX-KB-0276",
+      "locale": "hi-IN",
+      "title": "Concentrates Packaging और Transport Efficiency को कैसे Affect करते हैं?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Sustainability & Waste",
+      "subcategory_slug": "sustainability-waste",
+      "excerpt": "Concentrated cleaning products usable dose के हिसाब से transported और stored packaged liquid कम कर सकते हैं, लेकिन benefit correct dilution और supply system पर depend करता है।",
+      "url": "library/facility-hygiene-management/sustainability-waste/concentrates-packaging-transport-efficiency/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0277",
+      "locale": "en",
+      "title": "Waste Reduction Without Compromising Hygiene",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Sustainability & Waste",
+      "subcategory_slug": "sustainability-waste",
+      "excerpt": "Cleaning waste can often be reduced through accurate dosing, risk-based scheduling, better stock control and durable systems while preserving required hygiene standards.",
+      "url": "library/facility-hygiene-management/sustainability-waste/waste-reduction-without-compromising-hygiene/"
+    },
+    {
+      "article_id": "ACX-KB-0277",
+      "locale": "hi-IN",
+      "title": "Hygiene Compromise किए बिना Waste कैसे Reduce करें?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Sustainability & Waste",
+      "subcategory_slug": "sustainability-waste",
+      "excerpt": "Accurate dosing, risk-based scheduling, better stock control और durable systems cleaning waste reduce कर सकते हैं जबकि required hygiene standards maintain रहते हैं।",
+      "url": "library/facility-hygiene-management/sustainability-waste/waste-reduction-without-compromising-hygiene/hi.html"
     }
   ]
 }
