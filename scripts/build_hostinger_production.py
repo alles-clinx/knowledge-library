@@ -369,18 +369,19 @@ for item in live_articles:
 def page_title_description(page: str) -> tuple[str, str]:
     title_match = re.search(r"<title>([\s\S]*?)</title>", page, flags=re.I)
     title = strip_tags(html.unescape(title_match.group(1))) if title_match else "Alle's ClinX Knowledge"
-    desc_match = re.search(
-        r"<meta[^>]+name=['\"]description['\"][^>]+content=['\"]([^'\"]*)['\"]",
-        page,
-        flags=re.I,
+
+    desc = ""
+    desc_patterns = (
+        r'<meta[^>]+name="description"[^>]+content="([^"]*)"',
+        r'<meta[^>]+content="([^"]*)"[^>]+name="description"',
+        r"<meta[^>]+name='description'[^>]+content='([^']*)'",
+        r"<meta[^>]+content='([^']*)'[^>]+name='description'",
     )
-    if not desc_match:
-        desc_match = re.search(
-            r"<meta[^>]+content=['\"]([^'\"]*)['\"][^>]+name=['\"]description['\"]",
-            page,
-            flags=re.I,
-        )
-    desc = html.unescape(desc_match.group(1)).strip() if desc_match else ""
+    for pattern in desc_patterns:
+        match = re.search(pattern, page, flags=re.I)
+        if match:
+            desc = html.unescape(match.group(1)).strip()
+            break
     return title, desc
 
 def discovery_schema(rel: str, canonical_url: str, page: str) -> list[dict]:
