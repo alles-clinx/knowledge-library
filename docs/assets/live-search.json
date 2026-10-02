@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 528,
+  "record_count": 538,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -5810,6 +5810,116 @@
       "subcategory_slug": "audits-capa",
       "excerpt": "Non-conformance requirement failure है; corrective action cause address करके recurrence का chance कम करने वाली structured response है।",
       "url": "library/facility-hygiene-management/audits-capa/non-conformance-vs-corrective-action/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0265",
+      "locale": "en",
+      "title": "Why Cleaning-Chemical Stock Control Matters",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Inventory & Stock Control",
+      "subcategory_slug": "inventory-stock-control",
+      "excerpt": "Cleaning-chemical stock control helps prevent shortages, overstock, expiry, unauthorized substitution and service disruption while improving traceability and cost visibility.",
+      "url": "library/facility-hygiene-management/inventory-stock-control/why-cleaning-chemical-stock-control-matters/"
+    },
+    {
+      "article_id": "ACX-KB-0265",
+      "locale": "hi-IN",
+      "title": "Cleaning-Chemical Stock Control क्यों जरूरी है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Inventory & Stock Control",
+      "subcategory_slug": "inventory-stock-control",
+      "excerpt": "Cleaning-chemical stock control shortages, overstock, expiry, unauthorized substitution और service disruption reduce करने में मदद करता है।",
+      "url": "library/facility-hygiene-management/inventory-stock-control/why-cleaning-chemical-stock-control-matters/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0266",
+      "locale": "en",
+      "title": "Minimum Stock vs Reorder Point: Key Differences",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Inventory & Stock Control",
+      "subcategory_slug": "inventory-stock-control",
+      "excerpt": "Minimum stock is the lowest inventory level a facility intends to protect; the reorder point is the trigger level at which replenishment should be initiated.",
+      "url": "library/facility-hygiene-management/inventory-stock-control/minimum-stock-vs-reorder-point/"
+    },
+    {
+      "article_id": "ACX-KB-0266",
+      "locale": "hi-IN",
+      "title": "Minimum Stock और Reorder Point में क्या अंतर है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Inventory & Stock Control",
+      "subcategory_slug": "inventory-stock-control",
+      "excerpt": "Minimum stock protected lower inventory level है; reorder point वह trigger level है जहाँ replenishment initiate करनी चाहिए।",
+      "url": "library/facility-hygiene-management/inventory-stock-control/minimum-stock-vs-reorder-point/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0267",
+      "locale": "en",
+      "title": "How Stock Visibility Reduces Cleaning Disruption",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Inventory & Stock Control",
+      "subcategory_slug": "inventory-stock-control",
+      "excerpt": "Stock visibility gives supervisors early warning of shortages, supports planned replenishment and reduces emergency substitution, delayed cleaning and last-minute purchasing.",
+      "url": "library/facility-hygiene-management/inventory-stock-control/how-stock-visibility-reduces-cleaning-disruption/"
+    },
+    {
+      "article_id": "ACX-KB-0267",
+      "locale": "hi-IN",
+      "title": "Stock Visibility Cleaning Disruption कैसे Reduce करती है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Inventory & Stock Control",
+      "subcategory_slug": "inventory-stock-control",
+      "excerpt": "Stock visibility shortages का early warning देती है और emergency substitution, cleaning delays तथा last-minute purchasing reduce करती है।",
+      "url": "library/facility-hygiene-management/inventory-stock-control/how-stock-visibility-reduces-cleaning-disruption/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0268",
+      "locale": "en",
+      "title": "Why Facilities Should Track Chemical Consumption",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Chemical Consumption & Cost Control",
+      "subcategory_slug": "chemical-consumption-cost-control",
+      "excerpt": "Chemical-consumption tracking helps facilities understand demand, detect abnormal use, improve purchasing, investigate waste and compare cleaning costs more meaningfully.",
+      "url": "library/facility-hygiene-management/chemical-consumption-cost-control/why-facilities-should-track-chemical-consumption/"
+    },
+    {
+      "article_id": "ACX-KB-0268",
+      "locale": "hi-IN",
+      "title": "Facilities को Chemical Consumption Track क्यों करनी चाहिए?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Chemical Consumption & Cost Control",
+      "subcategory_slug": "chemical-consumption-cost-control",
+      "excerpt": "Chemical-consumption tracking demand समझने, abnormal use detect करने, purchasing improve करने और waste investigate करने में मदद करती है।",
+      "url": "library/facility-hygiene-management/chemical-consumption-cost-control/why-facilities-should-track-chemical-consumption/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0269",
+      "locale": "en",
+      "title": "What Is Cost per Use in Cleaning Operations?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Chemical Consumption & Cost Control",
+      "subcategory_slug": "chemical-consumption-cost-control",
+      "excerpt": "Cost per use estimates the chemical or consumable cost of completing one defined cleaning use, dose, task or service event rather than comparing pack prices alone.",
+      "url": "library/facility-hygiene-management/chemical-consumption-cost-control/what-is-cost-per-use-in-cleaning-operations/"
+    },
+    {
+      "article_id": "ACX-KB-0269",
+      "locale": "hi-IN",
+      "title": "Cleaning Operations में Cost per Use क्या होता है?",
+      "category": "Facility Hygiene Management",
+      "category_slug": "facility-hygiene-management",
+      "subcategory": "Chemical Consumption & Cost Control",
+      "subcategory_slug": "chemical-consumption-cost-control",
+      "excerpt": "Cost per use एक defined cleaning use, dose या task की chemical/consumable cost estimate करता है, केवल pack price compare नहीं करता।",
+      "url": "library/facility-hygiene-management/chemical-consumption-cost-control/what-is-cost-per-use-in-cleaning-operations/hi.html"
     }
   ]
 }
