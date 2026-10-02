@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0313",
+  "slug": "purchase-order-review-information",
+  "subcategory": "Ordering & Procurement",
+  "subcategory_slug": "ordering-procurement",
+  "related_article_ids": [
+    "ACX-KB-0312",
+    "ACX-KB-0316",
+    "ACX-KB-0306"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0313",
+  "title": "Purchase Order Review: कौन-सी Information Approval तेज करती है?",
+  "excerpt": "Clear PO buyer, exact products, quantities, delivery location और commercial references identify करता है ताकि unnecessary clarification processing delay न करे।",
+  "seo_title": "Purchase Order Review: Approval तेज करने वाली Information | Alle's ClinX",
+  "meta_description": "Alle's ClinX institutional PO review के लिए product, quantity, delivery details और commercial references जैसी useful information समझें।",
+  "content_html": "<p>Purchase order तभी जल्दी process होता है जब commercial requirement clear हो। Missing product details, quantities या delivery information avoidable clarification create करती है।</p>\n<h2 id=\"hi313-buyer\">Buying organisation identify करें</h2><p>Legal/purchasing entity name और relevant buyer या procurement contact include करें।</p>\n<h2 id=\"hi313-products\">Exact products list करें</h2><p>Product name और जहाँ available हो SKU/product code use करें। Broad category name alone avoid करें।</p>\n<h2 id=\"hi313-quantities\">Quantities और pack requirements clear रखें</h2><p>Number of packs, units या agreed bulk quantity specify करें और quotation के pack configuration से align रखें।</p>\n<h2 id=\"hi313-delivery\">Complete delivery information include करें</h2><p>Delivery address, receiving contact और relevant site details provide करें।</p>\n<h2 id=\"hi313-reference\">जहाँ relevant हो agreed quotation reference करें</h2><p>Quote number या commercial reference PO को approved offer से match करने में मदद करता है।</p>\n<h2 id=\"hi313-requirements\">Special requirements पहले flag करें</h2><p>Documentation, receiving windows, packaging या agreed conditions processing से पहले visible हों।</p>\n<h2 id=\"hi313-send\">PO procurement को भेजें</h2><p>Institutional purchase orders <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a> पर भेजे जा सकते हैं।</p>\n<h2 id=\"hi313-takeaway\">मुख्य बात</h2><p>Good PO तुरंत बताए: कौन खरीद रहा है, क्या, कितना, कहाँ deliver होगा और कौन-सी agreed commercial terms apply हैं।</p>\n<h2 id=\"hi313-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/how-to-place-an-order/\">Alle's ClinX — How to Place an Order</a>.</li><li><a href=\"https://allesclinx.com/procurement/\">Alle's ClinX — Procurement</a>.</li></ol>"
+}

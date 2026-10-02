@@ -1,0 +1,28 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0316",
+  "slug": "which-alles-clinx-support-channel-should-you-use",
+  "subcategory": "Customer Support",
+  "subcategory_slug": "customer-support",
+  "related_article_ids": [
+    "ACX-KB-0312",
+    "ACX-KB-0314",
+    "ACX-KB-0302",
+    "ACX-KB-0304"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0316",
+  "title": "कौन-सा Alle's ClinX Support Channel Use करें?",
+  "excerpt": "Product-document questions के लिए Nova, calculations के लिए Metricon, ordering/commercial matters के लिए procurement और post-order/general support के लिए care use करें।",
+  "seo_title": "कौन-सा Alle's ClinX Support Channel Use करें? | Alle's ClinX",
+  "meta_description": "Product questions, calculations, POs, delivery issues, documents और customer care के लिए सही Alle's ClinX support route चुनें।",
+  "content_html": "<p>Alle's ClinX कई support routes देता है क्योंकि dilution question, purchase order और delivery issue को same help नहीं चाहिए। सही channel faster और clearer response देता है।</p>\n<h2 id=\"hi316-nova\">Product-document questions के लिए Nova use करें</h2><p>Nova Alle's ClinX SDS, TDS, product information, policies और selected compliance guidance पर grounded questions के लिए suitable है। Delivery status या billing enquiry के लिए नहीं।</p>\n<h2 id=\"hi316-metricon\">Calculations के लिए Metricon use करें</h2><p>Metricon dilution, usage, cost, procurement, chemistry और supply-risk calculations के लिए self-service suite है।</p>\n<h2 id=\"hi316-procurement\">Buying और commercial matters के लिए Procurement use करें</h2><p>POs, quotation questions, pack/quantity clarification और institutional enquiries <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a> पर भेजें।</p>\n<h2 id=\"hi316-care\">Service और document help के लिए Care & Support use करें</h2><p>Post-order support, product-document requests, container pickup questions और general customer help के लिए <a href=\"mailto:care@allesclinx.com\">care@allesclinx.com</a> use करें।</p>\n<h2 id=\"hi316-documents\">Self-service files के लिए Document Center use करें</h2><p>Product या SKU known हो तो MSDS, TDS, SOP और usage guides पहले Document Center में search करें।</p>\n<h2 id=\"hi316-label\">Point-of-use instructions के लिए product label use करें</h2><p>Digital answer और printed label में conflict हो तो stop करें और support से mismatch resolve कराएँ।</p>\n<h2 id=\"hi316-executive\">Executive contact default support route नहीं है</h2><p>Public contact page CEO email भी list करती है, लेकिन routine product, order और support questions care या procurement में जाना बेहतर है।</p>\n<h2 id=\"hi316-takeaway\">मुख्य बात</h2><p>Nova = documented product questions. Metricon = calculations. Procurement = buying/POs. Care = post-order/general support. Document Center = self-service files.</p>\n<h2 id=\"hi316-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/contact/\">Alle's ClinX — Contact</a>.</li><li><a href=\"https://allesclinx.com/support/nova-guide/\">Alle's ClinX — Ask Nova the Right Way</a>.</li><li><a href=\"https://allesclinx.com/support/understand-your-metricon/\">Alle's ClinX — Understand Your Metricon</a>.</li><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}

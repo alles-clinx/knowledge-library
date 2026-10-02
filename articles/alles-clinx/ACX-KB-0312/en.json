@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0312",
+  "slug": "how-alles-clinx-ordering-and-procurement-support-works",
+  "subcategory": "Ordering & Procurement",
+  "subcategory_slug": "ordering-procurement",
+  "related_article_ids": [
+    "ACX-KB-0313",
+    "ACX-KB-0316",
+    "ACX-KB-0310"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Alle's ClinX Ordering and Procurement Support Works",
+  "excerpt": "Alle's ClinX supports both direct website ordering and formal institutional purchase orders, with procurement support for product scope, quantities, documentation, quotations and repeat supply.",
+  "seo_title": "How Alle's ClinX Ordering & Procurement Support Works | Alle's ClinX",
+  "meta_description": "Learn how Alle's ClinX direct orders, purchase orders, quotations, product documentation and repeat procurement support fit together.",
+  "content_html": "<p>Alle's ClinX supports more than one buying route because facilities do not all procure in the same way. Smaller or straightforward orders can be placed through the website, while institutions that use formal purchase orders can send the approved PO directly to the procurement team.</p>\n<h2 id=\"direct\">Direct website ordering</h2><p>For a standard purchase, users can select products in the online store, add the required quantities to the cart, complete checkout and confirm the delivery information.</p>\n<h2 id=\"po\">Formal purchase-order route</h2><p>Facilities that operate through purchase orders can send the PO to <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a>. The order should identify the required products, quantities and delivery address so the procurement team can process it through the same fulfilment system.</p>\n<h2 id=\"quote\">Procurement support can begin before the PO</h2><p>Where the exact product, pack size or quantity still needs to be defined, the procurement process can start with a requirement or quotation request. The aim is to clarify product scope, supporting documents, commercial terms and the next approval step before the PO is raised.</p>\n<h2 id=\"documents\">Supporting documents can be part of the review</h2><p>TDS, SDS where applicable, labels and product guidance can help technical and procurement teams verify what is being approved and what operators will receive.</p>\n<h2 id=\"repeat\">Repeat supply can be planned more deliberately</h2><p>Where demand repeats, actual consumption, storage practicality and replenishment timing can be used to improve later purchasing cycles rather than rebuilding the requirement from the beginning each time.</p>\n<h2 id=\"ownership\">Keep ownership clear</h2><p>Procurement, operations and receiving teams should know who is responsible for technical clarification, commercial approval, purchase order creation, receiving and replenishment.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use the website for straightforward direct orders and the procurement route for institutional POs, quotations, pack/quantity questions and recurring supply planning.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/how-to-place-an-order/\">Alle's ClinX — How to Place an Order</a>.</li><li><a href=\"https://allesclinx.com/procurement/\">Alle's ClinX — Procurement</a>.</li><li><a href=\"https://allesclinx.com/custom-quote/\">Alle's ClinX — Custom Quote</a>.</li></ol>"
+}

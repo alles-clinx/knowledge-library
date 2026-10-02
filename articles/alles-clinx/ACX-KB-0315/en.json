@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0315",
+  "slug": "alles-clinx-container-recovery",
+  "subcategory": "Container Recovery",
+  "subcategory_slug": "container-recovery",
+  "related_article_ids": [
+    "ACX-KB-0314",
+    "ACX-KB-0312",
+    "ACX-KB-0275"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Alle's ClinX Container Recovery Works",
+  "excerpt": "Alle's ClinX container recovery is normally linked to the next delivery: empty cans are collected together on site and picked up when the next order arrives, with care support available when an earlier pickup is needed.",
+  "seo_title": "How Alle's ClinX Container Recovery Works | Alle's ClinX",
+  "meta_description": "Learn how to store Alle's ClinX empty containers for recovery, when collection normally happens and how to request an earlier pickup.",
+  "content_html": "<p>Alle's ClinX uses a delivery-linked approach for recovering eligible empty containers. The normal process is to collect empties at the facility and return them when the next delivery arrives rather than arranging a separate pickup every time a container is emptied.</p>\n<h2 id=\"collect\">Collect empty containers in one place</h2><p>Keep used containers together in a defined collection area so they are easy to identify and do not become mixed with new stock.</p>\n<h2 id=\"separate\">Keep empties separate from usable inventory</h2><p>A simple separation between empty returns and new/active stock reduces confusion during storage and receiving.</p>\n<h2 id=\"next-delivery\">The next delivery is the normal collection point</h2><p>When the next Alle's ClinX order arrives, the accumulated empties can be handed back through the same logistics movement.</p>\n<h2 id=\"early\">Earlier pickup can be requested</h2><p>If the containers cannot reasonably remain on site until the next delivery, contact <a href=\"mailto:care@allesclinx.com\">care@allesclinx.com</a> to ask about an earlier pickup.</p>\n<h2 id=\"preparation\">Do not improvise a return treatment</h2><p>Follow the current Alle's ClinX return instructions for the container type. The published guidance does not require customers to thoroughly clean or sort empty cans by product before normal collection; they should simply be kept together and accessible.</p>\n<h2 id=\"schedule\">Care can help confirm timing</h2><p>If the next delivery date is unclear, the care team can help confirm the expected timing or advise on the appropriate recovery route.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Collect empties, keep them separate from new stock and return them at the next delivery. Contact care when the containers need to move sooner.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/returning-your-containers/\">Alle's ClinX — Returning Your Containers</a>.</li><li><a href=\"https://allesclinx.com/investors/\">Alle's ClinX — Investor Relations: Circular Logistics</a>.</li></ol>"
+}

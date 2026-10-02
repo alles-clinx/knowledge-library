@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0314",
+  "slug": "alles-clinx-delivery-returns-support",
+  "subcategory": "Delivery & Returns",
+  "subcategory_slug": "delivery-returns",
+  "related_article_ids": [
+    "ACX-KB-0312",
+    "ACX-KB-0315",
+    "ACX-KB-0316"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Alle's ClinX Delivery & Returns Support Works",
+  "excerpt": "Alle's ClinX delivery and returns support separates order fulfilment issues, customer-care questions and container recovery so each request can be handled through the appropriate route.",
+  "seo_title": "How Alle's ClinX Delivery & Returns Support Works | Alle's ClinX",
+  "meta_description": "Learn how to handle Alle's ClinX delivery questions, order issues, returns and container recovery, and which support route to use.",
+  "content_html": "<p>Delivery and returns support works best when the request is routed according to the issue. Ordering and commercial questions belong with procurement; post-order service issues normally belong with care and support; empty-container recovery follows its own delivery-linked process.</p>\n<h2 id=\"before\">Before dispatch, confirm the order details</h2><p>Correct product, quantity, billing information and delivery address should be confirmed before fulfilment. Institutional orders should also match the agreed quotation or PO scope.</p>\n<h2 id=\"delivery\">For delivery questions, identify the order clearly</h2><p>When asking about a delivery, provide the order or PO reference, organisation, delivery location and a concise description of the issue so support does not have to reconstruct the order from partial information.</p>\n<h2 id=\"problem\">Report damaged, incorrect or missing items promptly</h2><p>If a delivery arrives with an apparent shortage, wrong product or damage, document what was received and contact support with the relevant order details. Keep affected goods separated where necessary while the issue is reviewed.</p>\n<h2 id=\"returns\">Returns depend on the reason and order terms</h2><p>Product-return handling can depend on the specific order, product condition and applicable commercial terms. Contact care or procurement before sending goods back so the correct route and instructions can be confirmed.</p>\n<h2 id=\"containers\">Empty-container recovery is different from a product return</h2><p>Eligible empty containers are normally collected through the delivery-linked recovery process rather than treated as a conventional merchandise return.</p>\n<h2 id=\"channels\">Use the appropriate support channel</h2><p>Commercial, PO and procurement questions go to <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a>. Customer-care and post-order support questions can be sent to <a href=\"mailto:care@allesclinx.com\">care@allesclinx.com</a>.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>For faster support, identify the order, describe the exact issue and use procurement for buying/commercial questions and care for post-order service questions.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/contact/\">Alle's ClinX — Contact</a>.</li><li><a href=\"https://allesclinx.com/terms-conditions/\">Alle's ClinX — Terms & Conditions</a>.</li><li><a href=\"https://allesclinx.com/support/returning-your-containers/\">Alle's ClinX — Returning Your Containers</a>.</li></ol>"
+}

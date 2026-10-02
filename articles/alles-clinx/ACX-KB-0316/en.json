@@ -1,0 +1,26 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0316",
+  "slug": "which-alles-clinx-support-channel-should-you-use",
+  "subcategory": "Customer Support",
+  "subcategory_slug": "customer-support",
+  "related_article_ids": [
+    "ACX-KB-0312",
+    "ACX-KB-0314",
+    "ACX-KB-0302",
+    "ACX-KB-0304"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Which Alle's ClinX Support Channel Should You Use?",
+  "excerpt": "Use Nova for product-document questions, Metricon for calculations, procurement for ordering and commercial matters, and care for post-order support, document requests and general customer assistance.",
+  "seo_title": "Which Alle's ClinX Support Channel Should You Use? | Alle's ClinX",
+  "meta_description": "Choose the right Alle's ClinX support route for product questions, calculations, purchase orders, delivery issues, documents and general customer care.",
+  "content_html": "<p>Alle's ClinX provides several support routes because a dilution question, purchase order and delivery issue do not need the same kind of help. Choosing the right channel usually produces a faster and clearer response.</p>\n<h2 id=\"nova\">Use Nova for product-document questions</h2><p>Nova is suited to questions grounded in Alle's ClinX SDS, TDS, product information, policies and selected compliance guidance. It can help with documented dilution, safety and audit-related questions, but it is not the right place for delivery status or billing enquiries.</p>\n<h2 id=\"metricon\">Use Metricon for calculations</h2><p>Metricon is the self-service calculation suite for dilution, usage, cost, procurement, chemistry and supply-risk models. Use it when the problem is numerical and the required inputs are known.</p>\n<h2 id=\"procurement\">Use Procurement for buying and commercial matters</h2><p>Send purchase orders, quotation questions, pack/quantity clarification and institutional procurement enquiries to <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a>.</p>\n<h2 id=\"care\">Use Care & Support for service and document help</h2><p>For post-order support, product-document requests, container pickup questions or general customer assistance, use <a href=\"mailto:care@allesclinx.com\">care@allesclinx.com</a>.</p>\n<h2 id=\"documents\">Use the Document Center for self-service files</h2><p>If you already know the product or SKU, the Document Center is the fastest place to search available MSDS, TDS, SOP and usage-guide resources before sending a manual request.</p>\n<h2 id=\"label\">Use the product label for point-of-use instructions</h2><p>When a live container is in front of you, the current product label is a primary point-of-use reference. If a digital answer conflicts with the printed label, stop and ask support to resolve the mismatch.</p>\n<h2 id=\"executive\">Executive contact is not the default support route</h2><p>The public contact page also lists a direct CEO email, but routine product, order and support questions are better sent through care or procurement so they enter the appropriate operating workflow.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Nova = documented product questions. Metricon = calculations. Procurement = buying and POs. Care = post-order support and general help. Document Center = self-service files.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/contact/\">Alle's ClinX — Contact</a>.</li><li><a href=\"https://allesclinx.com/support/nova-guide/\">Alle's ClinX — Ask Nova the Right Way</a>.</li><li><a href=\"https://allesclinx.com/support/understand-your-metricon/\">Alle's ClinX — Understand Your Metricon</a>.</li><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}

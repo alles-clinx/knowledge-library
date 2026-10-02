@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0312",
+  "slug": "how-alles-clinx-ordering-and-procurement-support-works",
+  "subcategory": "Ordering & Procurement",
+  "subcategory_slug": "ordering-procurement",
+  "related_article_ids": [
+    "ACX-KB-0313",
+    "ACX-KB-0316",
+    "ACX-KB-0310"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0312",
+  "title": "Alle's ClinX Ordering और Procurement Support कैसे काम करता है?",
+  "excerpt": "Alle's ClinX direct website ordering और formal institutional purchase orders दोनों support करता है, साथ ही quotations, documents, quantities और repeat supply के लिए procurement help देता है।",
+  "seo_title": "Alle's ClinX Ordering & Procurement Support कैसे काम करता है? | Alle's ClinX",
+  "meta_description": "Alle's ClinX direct orders, purchase orders, quotations, product documents और repeat procurement support कैसे साथ काम करते हैं, समझें।",
+  "content_html": "<p>Alle's ClinX अलग buying routes support करता है क्योंकि हर facility procurement same तरीके से नहीं करती। Straightforward orders website से place किए जा सकते हैं, जबकि formal purchase-order users approved PO सीधे procurement team को भेज सकते हैं।</p>\n<h2 id=\"hi312-direct\">Direct website ordering</h2><p>Standard purchase के लिए online store से products और quantities select करके checkout तथा delivery information confirm की जा सकती है।</p>\n<h2 id=\"hi312-po\">Formal purchase-order route</h2><p>PO-based facilities approved purchase order <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a> पर भेज सकती हैं। PO में products, quantities और delivery address clear होना चाहिए।</p>\n<h2 id=\"hi312-quote\">PO से पहले procurement support लिया जा सकता है</h2><p>Exact product, pack size या quantity unclear हो तो requirement या quotation request से process शुरू हो सकता है।</p>\n<h2 id=\"hi312-documents\">Supporting documents review का हिस्सा हो सकते हैं</h2><p>TDS, SDS जहाँ applicable हो, labels और product guidance technical और procurement review support कर सकते हैं।</p>\n<h2 id=\"hi312-repeat\">Repeat supply को better plan किया जा सकता है</h2><p>Actual consumption, storage practicality और replenishment timing future purchasing cycles improve कर सकते हैं।</p>\n<h2 id=\"hi312-ownership\">Ownership clear रखें</h2><p>Procurement, operations और receiving teams को clarification, approval, PO creation, receiving और replenishment ownership पता होनी चाहिए।</p>\n<h2 id=\"hi312-takeaway\">मुख्य बात</h2><p>Straightforward direct orders के लिए website और institutional PO, quotation, quantity तथा recurring supply planning के लिए procurement route use करें।</p>\n<h2 id=\"hi312-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/how-to-place-an-order/\">Alle's ClinX — How to Place an Order</a>.</li><li><a href=\"https://allesclinx.com/procurement/\">Alle's ClinX — Procurement</a>.</li><li><a href=\"https://allesclinx.com/custom-quote/\">Alle's ClinX — Custom Quote</a>.</li></ol>"
+}

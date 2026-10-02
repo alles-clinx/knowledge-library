@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0313",
+  "slug": "purchase-order-review-information",
+  "subcategory": "Ordering & Procurement",
+  "subcategory_slug": "ordering-procurement",
+  "related_article_ids": [
+    "ACX-KB-0312",
+    "ACX-KB-0316",
+    "ACX-KB-0306"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Purchase Order Review: Information That Speeds Approval",
+  "excerpt": "A clear purchase order should identify the buyer, products, quantities, delivery location and commercial reference information so avoidable clarification does not delay processing.",
+  "seo_title": "Purchase Order Review: Information That Speeds Approval | Alle's ClinX",
+  "meta_description": "See the information that helps Alle's ClinX review an institutional purchase order efficiently, including products, quantities, delivery details and references.",
+  "content_html": "<p>A purchase order can only move quickly when the commercial requirement is clear. Missing product details, quantities or delivery information create avoidable clarification loops. A complete PO helps procurement, fulfilment and receiving teams work from the same record.</p>\n<h2 id=\"buyer\">Identify the buying organisation</h2><p>Include the legal or purchasing entity name and the relevant buyer or procurement contact so questions can be routed without delay.</p>\n<h2 id=\"products\">List the exact products</h2><p>Use the product name and, where available, the SKU or product code. Similar products or variants should not be described only with a broad category such as “floor cleaner” or “disinfectant.”</p>\n<h2 id=\"quantities\">State quantities and pack requirements clearly</h2><p>Specify the number of packs, units or agreed bulk quantity. If the quotation defines a pack configuration, the PO should match that commercial scope unless a change has been agreed.</p>\n<h2 id=\"delivery\">Include complete delivery information</h2><p>Provide the delivery address and any site, receiving or contact information needed for fulfilment. Incorrect or incomplete address details can delay or disrupt delivery.</p>\n<h2 id=\"reference\">Reference the agreed quotation where relevant</h2><p>If the order follows a formal quote, including the quote number, agreed pricing or other commercial reference helps the team compare the PO with the approved offer.</p>\n<h2 id=\"requirements\">Flag special requirements before approval</h2><p>Documentation needs, receiving windows, packaging requirements or other agreed conditions should be visible before the order is processed rather than introduced after dispatch planning has started.</p>\n<h2 id=\"send\">Send the PO to procurement</h2><p>Institutional purchase orders can be sent to <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a>. If information is missing, the procurement team may need clarification before fulfilment can proceed.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>A strong PO answers five questions immediately: who is buying, what is being ordered, how much, where it is going and which commercial terms or quotation it follows.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/how-to-place-an-order/\">Alle's ClinX — How to Place an Order</a>.</li><li><a href=\"https://allesclinx.com/procurement/\">Alle's ClinX — Procurement</a>.</li></ol>"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0315",
+  "slug": "alles-clinx-container-recovery",
+  "subcategory": "Container Recovery",
+  "subcategory_slug": "container-recovery",
+  "related_article_ids": [
+    "ACX-KB-0314",
+    "ACX-KB-0312",
+    "ACX-KB-0275"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0315",
+  "title": "Alle's ClinX Container Recovery कैसे काम करता है?",
+  "excerpt": "Alle's ClinX container recovery normally next delivery से linked है: empty cans site पर collect होते हैं और अगली delivery के समय pick up किए जाते हैं।",
+  "seo_title": "Alle's ClinX Container Recovery कैसे काम करता है? | Alle's ClinX",
+  "meta_description": "Alle's ClinX empty containers recovery के लिए कैसे store करें, collection कब होती है और earlier pickup कैसे request करें, समझें।",
+  "content_html": "<p>Alle's ClinX eligible empty containers के लिए delivery-linked recovery approach use करता है। Normal process में empties facility पर collect होते हैं और next delivery के समय return किए जाते हैं।</p>\n<h2 id=\"hi315-collect\">Empty containers एक जगह collect करें</h2><p>Used containers को defined collection area में रखें ताकि वे आसानी से identify हो सकें।</p>\n<h2 id=\"hi315-separate\">Empties को usable inventory से separate रखें</h2><p>Empty returns और new/active stock अलग रखने से storage और receiving confusion कम होता है।</p>\n<h2 id=\"hi315-next-delivery\">Next delivery normal collection point है</h2><p>अगली Alle's ClinX delivery आने पर accumulated empties उसी logistics movement से वापस किए जा सकते हैं।</p>\n<h2 id=\"hi315-early\">Earlier pickup request किया जा सकता है</h2><p>अगर containers next delivery तक site पर नहीं रखे जा सकते, <a href=\"mailto:care@allesclinx.com\">care@allesclinx.com</a> से earlier pickup पूछें।</p>\n<h2 id=\"hi315-preparation\">Return treatment improvise न करें</h2><p>Current return instructions follow करें। Published guidance normal collection से पहले cans को thoroughly clean या product-wise sort करने की requirement नहीं बताती; उन्हें together और accessible रखें।</p>\n<h2 id=\"hi315-schedule\">Care timing confirm करने में help कर सकता है</h2><p>Next delivery date unclear हो तो care team timing या recovery route confirm कर सकती है।</p>\n<h2 id=\"hi315-takeaway\">मुख्य बात</h2><p>Empties collect करें, new stock से अलग रखें और next delivery पर return करें; earlier movement के लिए care contact करें।</p>\n<h2 id=\"hi315-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/returning-your-containers/\">Alle's ClinX — Returning Your Containers</a>.</li><li><a href=\"https://allesclinx.com/investors/\">Alle's ClinX — Investor Relations: Circular Logistics</a>.</li></ol>"
+}
