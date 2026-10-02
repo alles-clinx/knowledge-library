@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 632,
+  "record_count": 634,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6954,6 +6954,28 @@
       "subcategory_slug": "customer-support",
       "excerpt": "Product-document questions के लिए Nova, calculations के लिए Metricon, ordering/commercial matters के लिए procurement और post-order/general support के लिए care use करें।",
       "url": "library/alles-clinx/customer-support/which-alles-clinx-support-channel-should-you-use/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0317",
+      "locale": "en",
+      "title": "Nova vs Customer Support: Where Should a Question Go?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Customer Support",
+      "subcategory_slug": "customer-support",
+      "excerpt": "Use Nova for fast, document-grounded product and policy questions; use customer support when the issue needs human review, order access, document follow-up, exception handling or an operational decision.",
+      "url": "library/alles-clinx/customer-support/nova-vs-customer-support-where-should-a-question-go/"
+    },
+    {
+      "article_id": "ACX-KB-0317",
+      "locale": "hi-IN",
+      "title": "Nova vs Customer Support: Question कहाँ भेजना चाहिए?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Customer Support",
+      "subcategory_slug": "customer-support",
+      "excerpt": "Fast document-grounded product और policy questions के लिए Nova use करें; human review, order access, follow-up, exception handling या operational action के लिए customer support use करें।",
+      "url": "library/alles-clinx/customer-support/nova-vs-customer-support-where-should-a-question-go/hi.html"
     }
   ]
 }
