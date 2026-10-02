@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 554,
+  "record_count": 564,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6096,6 +6096,116 @@
       "subcategory_slug": "sustainability-waste",
       "excerpt": "Accurate dosing, risk-based scheduling, better stock control और durable systems cleaning waste reduce कर सकते हैं जबकि required hygiene standards maintain रहते हैं।",
       "url": "library/facility-hygiene-management/sustainability-waste/waste-reduction-without-compromising-hygiene/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0278",
+      "locale": "en",
+      "title": "Healthcare Cleaning vs General Cleaning",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Healthcare Facilities",
+      "subcategory_slug": "healthcare",
+      "excerpt": "Healthcare cleaning uses the same core cleaning principles as general cleaning but applies tighter risk controls, task frequencies, disinfection requirements, documentation and competency expectations where patient-care risk is higher.",
+      "url": "library/facility-guides/healthcare/healthcare-cleaning-vs-general-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0278",
+      "locale": "hi-IN",
+      "title": "Healthcare Cleaning और General Cleaning में क्या अंतर है?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Healthcare Facilities",
+      "subcategory_slug": "healthcare",
+      "excerpt": "Healthcare cleaning general cleaning के core principles use करती है, लेकिन patient-care risk बढ़ने पर tighter controls, frequency, disinfection, documentation और competency requirements apply होते हैं।",
+      "url": "library/facility-guides/healthcare/healthcare-cleaning-vs-general-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0279",
+      "locale": "en",
+      "title": "Priority Areas in Healthcare Housekeeping",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Healthcare Facilities",
+      "subcategory_slug": "healthcare",
+      "excerpt": "Healthcare housekeeping priorities are usually driven by patient-care risk, touch frequency, contamination likelihood, occupancy and the consequences of delayed cleaning.",
+      "url": "library/facility-guides/healthcare/priority-areas-healthcare-housekeeping/"
+    },
+    {
+      "article_id": "ACX-KB-0279",
+      "locale": "hi-IN",
+      "title": "Healthcare Housekeeping में Priority Areas कौन-सी होती हैं?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Healthcare Facilities",
+      "subcategory_slug": "healthcare",
+      "excerpt": "Healthcare housekeeping priorities patient-care risk, touch frequency, contamination likelihood, occupancy और delayed cleaning के consequences पर आधारित होनी चाहिए।",
+      "url": "library/facility-guides/healthcare/priority-areas-healthcare-housekeeping/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0280",
+      "locale": "en",
+      "title": "Cleaning Documentation in Healthcare Hygiene Programs",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Healthcare Facilities",
+      "subcategory_slug": "healthcare",
+      "excerpt": "Healthcare cleaning documentation links plans, schedules, procedures, training, completion records, inspections and corrective actions so hygiene controls can be verified and reviewed.",
+      "url": "library/facility-guides/healthcare/cleaning-documentation-healthcare-hygiene-programs/"
+    },
+    {
+      "article_id": "ACX-KB-0280",
+      "locale": "hi-IN",
+      "title": "Healthcare Hygiene Programs में Cleaning Documentation",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Healthcare Facilities",
+      "subcategory_slug": "healthcare",
+      "excerpt": "Healthcare cleaning documentation plans, schedules, procedures, training, completion records, inspections और corrective actions को connect करती है।",
+      "url": "library/facility-guides/healthcare/cleaning-documentation-healthcare-hygiene-programs/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0281",
+      "locale": "en",
+      "title": "How Hotel Cleaning Programs Are Structured",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Hotels & Hospitality",
+      "subcategory_slug": "hospitality",
+      "excerpt": "Hotel cleaning programs usually combine guest-room turnover, public-area cleaning, periodic deep cleaning, back-of-house tasks, quality checks and clearly assigned housekeeping responsibilities.",
+      "url": "library/facility-guides/hospitality/how-hotel-cleaning-programs-are-structured/"
+    },
+    {
+      "article_id": "ACX-KB-0281",
+      "locale": "hi-IN",
+      "title": "Hotel Cleaning Programs कैसे Structured होते हैं?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Hotels & Hospitality",
+      "subcategory_slug": "hospitality",
+      "excerpt": "Hotel cleaning programs guest-room turnover, public-area cleaning, periodic deep cleaning, back-of-house tasks और quality checks को structured तरीके से combine करते हैं।",
+      "url": "library/facility-guides/hospitality/how-hotel-cleaning-programs-are-structured/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0282",
+      "locale": "en",
+      "title": "Guest Room Turnover vs Periodic Deep Cleaning",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Hotels & Hospitality",
+      "subcategory_slug": "hospitality",
+      "excerpt": "Guest-room turnover restores readiness between stays or service events; periodic deep cleaning tackles lower-frequency tasks that are impractical to complete during every routine room reset.",
+      "url": "library/facility-guides/hospitality/guest-room-turnover-vs-periodic-deep-cleaning/"
+    },
+    {
+      "article_id": "ACX-KB-0282",
+      "locale": "hi-IN",
+      "title": "Guest Room Turnover और Periodic Deep Cleaning में क्या अंतर है?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Hotels & Hospitality",
+      "subcategory_slug": "hospitality",
+      "excerpt": "Guest-room turnover room को next stay या service event के लिए ready करता है; periodic deep cleaning lower-frequency detailed tasks cover करती है।",
+      "url": "library/facility-guides/hospitality/guest-room-turnover-vs-periodic-deep-cleaning/hi.html"
     }
   ]
 }
