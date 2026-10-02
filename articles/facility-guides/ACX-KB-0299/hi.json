@@ -1,0 +1,27 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0299",
+  "slug": "long-term-care-cleaning-vs-general-housekeeping",
+  "subcategory": "Long-Term Care Facilities",
+  "subcategory_slug": "long-term-care",
+  "related_article_ids": [
+    "ACX-KB-0300",
+    "ACX-KB-0301",
+    "ACX-KB-0278"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0299",
+  "title": "Long-Term Care Cleaning और General Housekeeping में क्या अंतर है?",
+  "excerpt": "Long-term care cleaning residential housekeeping को healthcare-oriented infection-prevention controls के साथ combine करती है।",
+  "seo_title": "Long-Term Care Cleaning vs General Housekeeping | Alle's ClinX",
+  "meta_description": "Long-term care cleaning और general housekeeping में resident risk, touchpoints, disinfection, linen और infection-prevention controls का difference समझें।",
+  "content_html": "<p>Long-term care facilities living environment भी हैं और care environment भी। इसलिए cleaning ordinary residential या commercial housekeeping से अलग हो सकती है। Comfort और daily livability के साथ infection-prevention controls भी important होते हैं।</p>\n<h2 id=\"hi299-resident-risk\">Resident risk cleaning priorities affect करता है</h2><p>Residents infection के प्रति more vulnerable हो सकते हैं, इसलिए high-touch care areas और shared spaces tighter control require कर सकते हैं।</p>\n<h2 id=\"hi299-routine\">Routine housekeeping फिर भी important है</h2><p>Bedrooms, corridors, lounges, dining areas और washrooms regular cleaning require करते हैं।</p>\n<h2 id=\"hi299-care\">Care-related areas additional controls require कर सकते हैं</h2><p>Resident-care equipment, high-touch surfaces और contamination events facility-specific cleaning या disinfection procedures require कर सकते हैं।</p>\n<h2 id=\"hi299-workflow\">Workflow cross-contamination limit करे</h2><p>Tools और cloths को ऐसे manage करें कि contamination rooms या zones के बीच unnecessarily transfer न हो।</p>\n<h2 id=\"hi299-training\">Staff को facility-specific training चाहिए</h2><p>General housekeeping experience को long-term-care procedures, product instructions, hand hygiene और escalation routes से supplement करें।</p>\n<h2 id=\"hi299-records\">Verification जरूरी है</h2><p>Schedules, completion records, inspections और corrective actions required controls maintain होने का evidence देते हैं।</p>\n<h2 id=\"hi299-takeaway\">मुख्य बात</h2><p>Long-term care cleaning residential housekeeping को healthcare-oriented risk control और closer verification से strengthen करती है।</p>\n<h2 id=\"hi299-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/long-term-care-facilities/about/index.html\">CDC — Infection Prevention and Long-term Care Facility Residents</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}

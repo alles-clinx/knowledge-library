@@ -1,0 +1,25 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0299",
+  "slug": "long-term-care-cleaning-vs-general-housekeeping",
+  "subcategory": "Long-Term Care Facilities",
+  "subcategory_slug": "long-term-care",
+  "related_article_ids": [
+    "ACX-KB-0300",
+    "ACX-KB-0301",
+    "ACX-KB-0278"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Long-Term Care Cleaning vs General Housekeeping",
+  "excerpt": "Long-term care cleaning combines residential housekeeping with healthcare-oriented infection-prevention controls because residents live in the facility while also receiving personal or medical care.",
+  "seo_title": "Long-Term Care Cleaning vs General Housekeeping | Alle's ClinX",
+  "meta_description": "Understand how long-term care cleaning differs from general housekeeping in resident risk, touchpoints, disinfection, linen and infection-prevention controls.",
+  "content_html": "<p>Long-term care facilities are both living environments and care environments. That makes cleaning different from ordinary residential or commercial housekeeping. Comfort, dignity and day-to-day livability matter, but cleaning procedures may also need to support infection-prevention requirements for residents, staff and visitors.</p>\n<h2 id=\"resident-risk\">Resident risk affects cleaning priorities</h2><p>Long-term care residents may be more vulnerable to infection than the general population, so higher-touch resident-care areas and shared spaces may require tighter control than ordinary housekeeping.</p>\n<h2 id=\"routine\">Routine housekeeping still matters</h2><p>Bedrooms, corridors, lounges, dining areas and washrooms need regular cleaning for soil, comfort and safety just as they would in other occupied facilities.</p>\n<h2 id=\"care\">Care-related areas need additional controls</h2><p>Resident-care equipment, higher-touch surfaces and contamination events may require facility-specific cleaning or disinfection procedures beyond normal residential cleaning.</p>\n<h2 id=\"workflow\">Workflow should limit cross-contamination</h2><p>Tools, cloths and equipment should be managed so contamination is not transferred unnecessarily between resident rooms, washrooms, dining areas or other zones.</p>\n<h2 id=\"training\">Staff need facility-specific training</h2><p>General housekeeping experience is useful but should be supplemented with long-term-care procedures, product instructions, hand-hygiene expectations, escalation routes and task competency.</p>\n<h2 id=\"records\">Verification matters</h2><p>Schedules, completion records, inspections and corrective-action follow-up can help demonstrate that required cleaning controls are being maintained.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Long-term care cleaning is residential housekeeping strengthened by healthcare-oriented risk control, infection-prevention procedures and closer verification.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/long-term-care-facilities/about/index.html\">CDC — Infection Prevention and Long-term Care Facility Residents</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}

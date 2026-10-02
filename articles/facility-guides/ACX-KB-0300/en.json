@@ -1,0 +1,25 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0300",
+  "slug": "priority-hygiene-areas-long-term-care",
+  "subcategory": "Long-Term Care Facilities",
+  "subcategory_slug": "long-term-care",
+  "related_article_ids": [
+    "ACX-KB-0299",
+    "ACX-KB-0301",
+    "ACX-KB-0279"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Priority Hygiene Areas in Long-Term Care",
+  "excerpt": "Priority hygiene areas in long-term care are usually determined by resident contact, touch frequency, shared use, moisture, care activity and the consequences of delayed cleaning.",
+  "seo_title": "Priority Hygiene Areas in Long-Term Care | Alle's ClinX",
+  "meta_description": "Learn how long-term care facilities prioritize resident rooms, washrooms, dining areas, shared spaces and high-touch surfaces.",
+  "content_html": "<p>Long-term care facilities combine private living spaces with shared community and care areas. Hygiene priorities should therefore reflect resident contact, shared use, contamination potential and the vulnerability of the people using the space.</p>\n<h2 id=\"resident-rooms\">Resident rooms are core hygiene zones</h2><p>Frequently touched surfaces, washroom fixtures, floors and resident-care touchpoints should have clearly defined cleaning responsibilities and frequencies.</p>\n<h2 id=\"washrooms\">Washrooms require close control</h2><p>Moisture, repeated hand contact and contamination risk mean private and shared washrooms often need routine checks and timely response when visibly soiled.</p>\n<h2 id=\"shared\">Shared lounges and activity spaces need ownership</h2><p>Tables, chairs, handrails, shared devices and activity equipment can be overlooked when responsibility is unclear between care and environmental-services teams.</p>\n<h2 id=\"dining\">Dining areas need coordinated hygiene</h2><p>Dining rooms and food-service boundaries should have cleaning responsibilities that align with both resident-area housekeeping and food-safety controls.</p>\n<h2 id=\"high-touch\">High-touch surfaces may need increased frequency</h2><p>Door hardware, handrails, call controls, lift buttons and shared touchpoints can require more frequent cleaning based on use and facility risk assessment.</p>\n<h2 id=\"events\">Contamination events can override routine schedules</h2><p>Spills, body-fluid contamination or outbreak-related precautions may require immediate or enhanced response under facility procedures.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Set long-term-care cleaning priorities by resident contact, touch, shared use, moisture and care risk—not only by room type.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/long-term-care-facilities/about/index.html\">CDC — Long-Term Care Facilities</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>"
+}

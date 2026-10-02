@@ -1,0 +1,25 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0301",
+  "slug": "cleaning-hand-hygiene-linen-long-term-care",
+  "subcategory": "Long-Term Care Facilities",
+  "subcategory_slug": "long-term-care",
+  "related_article_ids": [
+    "ACX-KB-0299",
+    "ACX-KB-0300",
+    "ACX-KB-0283"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning, Hand Hygiene and Linen in Long-Term Care",
+  "excerpt": "Environmental cleaning, hand hygiene and safe linen handling are separate but connected controls in long-term care and should be coordinated so one process does not undermine another.",
+  "seo_title": "Cleaning, Hand Hygiene and Linen in Long-Term Care | Alle's ClinX",
+  "meta_description": "Understand how environmental cleaning, hand hygiene and linen handling work together in long-term care infection-prevention programs.",
+  "content_html": "<p>Environmental cleaning, hand hygiene and linen handling are different activities, but they interact throughout long-term care. A clean room can be recontaminated by poor hand hygiene, and clean linen can be compromised by incorrect handling or storage. Coordinated procedures help keep these controls aligned.</p>\n<h2 id=\"cleaning\">Environmental cleaning manages surfaces and spaces</h2><p>Resident rooms, washrooms, shared spaces and high-touch surfaces should be cleaned according to facility risk, use and infection-prevention procedures.</p>\n<h2 id=\"hands\">Hand hygiene supports every care and cleaning interaction</h2><p>Staff should follow facility hand-hygiene requirements before and after relevant care, cleaning or glove-use activities. Hand hygiene remains a core infection-prevention control in healthcare settings.</p>\n<h2 id=\"soiled-linen\">Soiled linen should be handled with minimal agitation</h2><p>Used or contaminated linen should be contained at the point of collection and handled in a way that limits unnecessary contact and dispersal of contamination.</p>\n<h2 id=\"clean-linen\">Clean linen must stay protected</h2><p>Clean textiles should be stored and transported so they remain separated from soiled linen, dust, waste and other contamination sources.</p>\n<h2 id=\"workflow\">Sequence and handoffs matter</h2><p>Cleaning staff, care staff and laundry teams should understand when linen is removed, when surfaces are cleaned, when fresh linen is introduced and who owns each step.</p>\n<h2 id=\"training\">Training should connect the processes</h2><p>Staff should understand not only their own task but also how hand hygiene, glove use, environmental cleaning and linen handling affect one another.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Treat cleaning, hand hygiene and linen as coordinated infection-prevention controls with clear separation, sequence and ownership.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html\">CDC — Fundamental Elements for Preventing Transmission</a>.</li><li><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Linen and Laundry Management</a>.</li></ol>"
+}

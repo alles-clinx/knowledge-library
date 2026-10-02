@@ -1,0 +1,27 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0300",
+  "slug": "priority-hygiene-areas-long-term-care",
+  "subcategory": "Long-Term Care Facilities",
+  "subcategory_slug": "long-term-care",
+  "related_article_ids": [
+    "ACX-KB-0299",
+    "ACX-KB-0301",
+    "ACX-KB-0279"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0300",
+  "title": "Long-Term Care में Priority Hygiene Areas कौन-सी हैं?",
+  "excerpt": "Long-term care में priority hygiene areas resident contact, touch frequency, shared use, moisture, care activity और delayed cleaning के impact से तय होती हैं।",
+  "seo_title": "Long-Term Care में Priority Hygiene Areas | Alle's ClinX",
+  "meta_description": "Long-term care facilities resident rooms, washrooms, dining areas, shared spaces और high-touch surfaces को कैसे prioritize करती हैं, समझें।",
+  "content_html": "<p>Long-term care facilities private living spaces और shared care/community areas को combine करती हैं। Hygiene priority resident contact, shared use और contamination potential के अनुसार set होनी चाहिए।</p>\n<h2 id=\"hi300-resident-rooms\">Resident rooms core hygiene zones हैं</h2><p>High-touch surfaces, washroom fixtures, floors और resident-care touchpoints की responsibility और frequency clear होनी चाहिए।</p>\n<h2 id=\"hi300-washrooms\">Washrooms close control require करते हैं</h2><p>Moisture और repeated hand contact के कारण routine checks और timely response जरूरी हो सकते हैं।</p>\n<h2 id=\"hi300-shared\">Shared lounges और activity spaces की ownership clear हो</h2><p>Tables, chairs, handrails और shared devices responsibility unclear होने पर miss हो सकते हैं।</p>\n<h2 id=\"hi300-dining\">Dining areas coordinated hygiene require करते हैं</h2><p>Dining rooms की cleaning resident-area housekeeping और food-safety controls के साथ align होनी चाहिए।</p>\n<h2 id=\"hi300-high-touch\">High-touch surfaces more frequent cleaning require कर सकती हैं</h2><p>Door hardware, handrails, call controls और shared touchpoints use के आधार पर higher frequency require कर सकते हैं।</p>\n<h2 id=\"hi300-events\">Contamination events routine schedule override कर सकते हैं</h2><p>Spills, body-fluid contamination या outbreak-related precautions immediate response require कर सकते हैं।</p>\n<h2 id=\"hi300-takeaway\">मुख्य बात</h2><p>Priority resident contact, touch, shared use, moisture और care risk के अनुसार set करें।</p>\n<h2 id=\"hi300-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/long-term-care-facilities/about/index.html\">CDC — Long-Term Care Facilities</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>"
+}

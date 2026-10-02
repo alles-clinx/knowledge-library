@@ -1,0 +1,27 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0301",
+  "slug": "cleaning-hand-hygiene-linen-long-term-care",
+  "subcategory": "Long-Term Care Facilities",
+  "subcategory_slug": "long-term-care",
+  "related_article_ids": [
+    "ACX-KB-0299",
+    "ACX-KB-0300",
+    "ACX-KB-0283"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0301",
+  "title": "Long-Term Care में Cleaning, Hand Hygiene और Linen",
+  "excerpt": "Environmental cleaning, hand hygiene और safe linen handling अलग लेकिन connected controls हैं और इन्हें coordinated तरीके से manage करना चाहिए।",
+  "seo_title": "Long-Term Care में Cleaning, Hand Hygiene और Linen | Alle's ClinX",
+  "meta_description": "Environmental cleaning, hand hygiene और linen handling long-term care infection-prevention program में कैसे साथ काम करते हैं, समझें।",
+  "content_html": "<p>Environmental cleaning, hand hygiene और linen handling अलग activities हैं, लेकिन long-term care में एक-दूसरे को affect करती हैं। Clean room poor hand hygiene से recontaminate हो सकता है और clean linen incorrect handling से compromise हो सकती है।</p>\n<h2 id=\"hi301-cleaning\">Environmental cleaning surfaces और spaces manage करती है</h2><p>Resident rooms, washrooms, shared areas और high-touch surfaces facility risk और infection-prevention procedures के अनुसार clean हों।</p>\n<h2 id=\"hi301-hands\">Hand hygiene हर care और cleaning interaction support करती है</h2><p>Staff relevant care, cleaning और glove-use activities के आसपास facility hand-hygiene requirements follow करें।</p>\n<h2 id=\"hi301-soiled-linen\">Soiled linen minimal agitation के साथ handle करें</h2><p>Used या contaminated linen collection point पर contain करें और unnecessary contact या contamination spread limit करें।</p>\n<h2 id=\"hi301-clean-linen\">Clean linen protected रहे</h2><p>Clean textiles को soiled linen, dust, waste और other contamination sources से separate store और transport करें।</p>\n<h2 id=\"hi301-workflow\">Sequence और handoffs important हैं</h2><p>Cleaning, care और laundry teams को linen removal, surface cleaning और fresh linen introduction की ownership clear हो।</p>\n<h2 id=\"hi301-training\">Training processes को connect करे</h2><p>Staff समझे कि hand hygiene, glove use, environmental cleaning और linen handling एक-दूसरे को कैसे affect करते हैं।</p>\n<h2 id=\"hi301-takeaway\">मुख्य बात</h2><p>Cleaning, hand hygiene और linen को clear separation, sequence और ownership के साथ coordinated controls की तरह manage करें।</p>\n<h2 id=\"hi301-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html\">CDC — Fundamental Elements for Preventing Transmission</a>.</li><li><a href=\"https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html\">CDC — Laundry and Bedding</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html\">CDC — Linen and Laundry Management</a>.</li></ol>"
+}
