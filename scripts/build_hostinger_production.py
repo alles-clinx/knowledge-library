@@ -517,6 +517,7 @@ for url in sorted(urls):
     sitemap.append(f'  <url><loc>{xml_escape(url)}</loc></url>')
 sitemap.append('</urlset>')
 (OUT / "sitemap.xml").write_text("\n".join(sitemap) + "\n", encoding="utf-8")
+(OUT / "google-sitemap.xml").write_text("\n".join(sitemap) + "\n", encoding="utf-8")
 
 categories = {}
 for a in live_meta:
@@ -555,12 +556,19 @@ llms += [
 
 # Hostinger/Apache hardening for the /knowledge/ directory.
 (OUT / ".htaccess").write_text(
-    "Options -Indexes\n"
+    "Options -Indexes -MultiViews\n"
     "DirectoryIndex index.html\n"
     "AddType application/manifest+json .webmanifest\n"
+    "AddType application/xml .xml\n"
+    "<FilesMatch \"^(sitemap|google-sitemap)\\.xml$\">\n"
+    "  ForceType application/xml\n"
+    "</FilesMatch>\n"
     "<IfModule mod_headers.c>\n"
     "  Header set X-Content-Type-Options \"nosniff\"\n"
     "  Header set Referrer-Policy \"strict-origin-when-cross-origin\"\n"
+    "  <FilesMatch \"^(sitemap|google-sitemap)\\.xml$\">\n"
+    "    Header set Cache-Control \"no-cache, max-age=0, must-revalidate\"\n"
+    "  </FilesMatch>\n"
     "  <Files \"offline.html\">\n"
     "    Header set X-Robots-Tag \"noindex, follow\"\n"
     "  </Files>\n"
