@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0293",
+  "slug": "food-service-hygiene-program-structure",
+  "subcategory": "Food-Service Facilities",
+  "subcategory_slug": "food-service",
+  "related_article_ids": [
+    "ACX-KB-0294",
+    "ACX-KB-0295",
+    "ACX-KB-0283",
+    "ACX-KB-0250"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0293",
+  "title": "Food-Service Hygiene Programs कैसे Structured होते हैं?",
+  "excerpt": "Food-service hygiene programs food-contact sanitation, warewashing, floor और drain care, waste control, staff hygiene और cleaning responsibilities को food-safety system के साथ coordinate करते हैं।",
+  "seo_title": "Food-Service Hygiene Programs कैसे Structured होते हैं? | Alle's ClinX",
+  "meta_description": "Food-service hygiene programs food-contact sanitation, warewashing, floors, waste और cleaning responsibilities को कैसे organize करते हैं, समझें।",
+  "content_html": "<p>Food-service hygiene programs cleaning, sanitizing, warewashing, waste control और staff practices को wider food-safety system के साथ combine करते हैं। Food-contact requirements को general housekeeping से clearly separate लेकिन coordinated रखना चाहिए।</p>\n<h2 id=\"hi293-zones\">Work को hygiene zones के अनुसार organize करें</h2><p>Food-preparation surfaces, warewashing, storage, dining, floors, drains और waste points के risks अलग होते हैं।</p>\n<h2 id=\"hi293-food-contact\">Food-contact surfaces के लिए defined cleaning और sanitizing controls हों</h2><p>Utensils, equipment और preparation surfaces applicable food-safety requirements और product instructions के अनुसार clean और sanitize हों।</p>\n<h2 id=\"hi293-warewashing\">Warewashing controlled process है</h2><p>Manual और mechanical systems के लिए defined steps, temperatures या chemical controls और verification हों।</p>\n<h2 id=\"hi293-floors\">Floors और drains के controls अलग हों</h2><p>Floor cleaning grease, food debris और slip risk manage करे और food-contact areas contaminate न करे।</p>\n<h2 id=\"hi293-waste\">Waste handling spills और pest risk control करे</h2><p>Bins, waste routes और external waste areas leakage, odors और soil accumulation को control करें।</p>\n<h2 id=\"hi293-people\">Staff hygiene और task ownership system support करते हैं</h2><p>Teams को area ownership, approved tools और products clear होने चाहिए।</p>\n<h2 id=\"hi293-records\">Records verification support करते हैं</h2><p>Schedules, sanitizer checks, inspections और corrective-action records program follow होने का evidence देते हैं।</p>\n<h2 id=\"hi293-takeaway\">मुख्य बात</h2><p>Food-service hygiene को zone, task type, food-safety requirement और ownership के अनुसार structure करें।</p>\n<h2 id=\"hi293-references\">संदर्भ</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

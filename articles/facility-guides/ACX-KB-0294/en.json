@@ -1,0 +1,25 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0294",
+  "slug": "warewashing-surface-hygiene-floor-care",
+  "subcategory": "Food-Service Facilities",
+  "subcategory_slug": "food-service",
+  "related_article_ids": [
+    "ACX-KB-0293",
+    "ACX-KB-0295",
+    "ACX-KB-0231"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Warewashing, Surface Hygiene and Floor Care",
+  "excerpt": "Warewashing, food-contact surface hygiene and floor care need separate methods because the required outcome, contamination risk and approved chemicals differ between these tasks.",
+  "seo_title": "Warewashing, Surface Hygiene and Floor Care | Alle's ClinX",
+  "meta_description": "Understand why warewashing, food-contact surfaces and floors require different cleaning methods, tools, chemicals and verification.",
+  "content_html": "<p>Warewashing, food-contact surface hygiene and floor care all support food-service cleanliness, but they should not be treated as interchangeable tasks. Each has different risks, products, tools and verification needs.</p>\n<h2 id=\"warewashing\">Warewashing cleans and sanitizes reusable food-service items</h2><p>Manual sinks and dishmachines should follow the approved sequence and operating conditions for washing, rinsing and sanitizing. Loading and air-drying practices also affect results.</p>\n<h2 id=\"surfaces\">Food-contact surfaces require controlled cleaning and sanitizing</h2><p>Preparation counters, cutting surfaces and equipment food zones should be cleaned of soil before sanitizing where required. Sanitizer concentration and contact conditions should match approved instructions.</p>\n<h2 id=\"floors\">Floors focus on soil, grease and slip control</h2><p>Floor-care products and tools may be unsuitable for food-contact surfaces. Floor tasks should be sequenced to avoid splashing or transferring contamination onto cleaned food-preparation areas.</p>\n<h2 id=\"tools\">Tool separation reduces cross-use</h2><p>Dedicated brushes, mops, cloths or storage systems can help prevent low-level or floor-cleaning tools from being used on food-contact surfaces.</p>\n<h2 id=\"timing\">Sequence matters</h2><p>Food-contact cleaning and warewashing should be protected from floor work, waste handling and other tasks that could re-contaminate cleaned areas.</p>\n<h2 id=\"verification\">Verify the outcome appropriate to each task</h2><p>Warewashing may use temperature or sanitizer checks, food-contact surfaces may use visual or process verification, and floors may be inspected for soil, grease and slip hazards.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Keep warewashing, food-contact sanitation and floor care separate in method, tools and verification while coordinating them within the same hygiene schedule.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

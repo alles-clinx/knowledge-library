@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0293",
+  "slug": "food-service-hygiene-program-structure",
+  "subcategory": "Food-Service Facilities",
+  "subcategory_slug": "food-service",
+  "related_article_ids": [
+    "ACX-KB-0294",
+    "ACX-KB-0295",
+    "ACX-KB-0283",
+    "ACX-KB-0250"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Food-Service Hygiene Programs Are Structured",
+  "excerpt": "Food-service hygiene programs coordinate food-contact sanitation, warewashing, floor and drain care, waste control, staff hygiene and documented cleaning responsibilities around the food-safety system.",
+  "seo_title": "How Food-Service Hygiene Programs Are Structured | Alle's ClinX",
+  "meta_description": "Learn how food-service hygiene programs organize food-contact sanitation, warewashing, floors, waste, staff hygiene and cleaning responsibilities.",
+  "content_html": "<p>Food-service hygiene programs combine cleaning, sanitizing, warewashing, waste control and staff practices within the wider food-safety system. The program should clearly separate food-contact requirements from general housekeeping while ensuring both are coordinated.</p>\n<h2 id=\"zones\">Organize work by hygiene zone</h2><p>Food-preparation surfaces, warewashing areas, storage spaces, dining areas, floors, drains, waste points and staff facilities have different risks and should not all use the same procedure.</p>\n<h2 id=\"food-contact\">Food-contact surfaces need defined cleaning and sanitizing controls</h2><p>Utensils, equipment and preparation surfaces should be cleaned and, where required, sanitized according to applicable food-safety requirements and product instructions.</p>\n<h2 id=\"warewashing\">Warewashing is a controlled process</h2><p>Manual and mechanical warewashing should have defined steps, temperatures or chemical controls, loading practices and verification appropriate to the system in use.</p>\n<h2 id=\"floors\">Floors and drains need separate housekeeping controls</h2><p>Floor cleaning should manage grease, food debris and slip risk without contaminating food-contact areas. Drains and low-level surfaces may need dedicated tools or procedures.</p>\n<h2 id=\"waste\">Waste handling should prevent spill and pest problems</h2><p>Bins, waste routes and external waste areas should be managed so leakage, odors, soil accumulation and pest attraction are controlled.</p>\n<h2 id=\"people\">Staff hygiene and task ownership support the system</h2><p>Teams should know who cleans each area, which tools and products are approved, and when food-service staff versus specialist cleaning staff are responsible.</p>\n<h2 id=\"records\">Records support verification</h2><p>Cleaning schedules, temperature or sanitizer checks, inspection findings and corrective-action records can help verify that the hygiene program is being followed.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Structure food-service hygiene by zone, task type, food-safety requirement and ownership rather than relying on one general cleaning checklist.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

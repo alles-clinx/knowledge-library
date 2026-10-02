@@ -1,0 +1,27 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0294",
+  "slug": "warewashing-surface-hygiene-floor-care",
+  "subcategory": "Food-Service Facilities",
+  "subcategory_slug": "food-service",
+  "related_article_ids": [
+    "ACX-KB-0293",
+    "ACX-KB-0295",
+    "ACX-KB-0231"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0294",
+  "title": "Warewashing, Surface Hygiene और Floor Care",
+  "excerpt": "Warewashing, food-contact surface hygiene और floor care के methods अलग होने चाहिए क्योंकि इनके outcomes, risks और approved chemicals अलग होते हैं।",
+  "seo_title": "Warewashing, Surface Hygiene और Floor Care | Alle's ClinX",
+  "meta_description": "Warewashing, food-contact surfaces और floors के लिए अलग methods, tools, chemicals और verification क्यों चाहिए, समझें।",
+  "content_html": "<p>Warewashing, food-contact surface hygiene और floor care सभी food-service cleanliness support करते हैं, लेकिन ये interchangeable tasks नहीं हैं। इनके risks, products, tools और verification needs अलग हैं।</p>\n<h2 id=\"hi294-warewashing\">Warewashing reusable items clean और sanitize करता है</h2><p>Manual sinks और dishmachines approved wash, rinse और sanitize sequence और operating conditions follow करें।</p>\n<h2 id=\"hi294-surfaces\">Food-contact surfaces controlled cleaning और sanitizing require करती हैं</h2><p>Preparation surfaces से soil remove करें और जहाँ required हो approved sanitizer सही concentration और contact conditions में use करें।</p>\n<h2 id=\"hi294-floors\">Floors soil, grease और slip control पर focus करते हैं</h2><p>Floor-care tools और chemicals food-contact surfaces के लिए suitable नहीं भी हो सकते।</p>\n<h2 id=\"hi294-tools\">Tool separation cross-use reduce करती है</h2><p>Dedicated brushes, mops और cloths low-level tools को food-contact areas में use होने से रोक सकते हैं।</p>\n<h2 id=\"hi294-timing\">Task sequence important है</h2><p>Floor work और waste handling से cleaned food-contact areas re-contaminate नहीं होने चाहिए।</p>\n<h2 id=\"hi294-verification\">हर task का suitable verification करें</h2><p>Warewashing में temperature या sanitizer checks, surfaces में process verification और floors में soil तथा slip hazards inspect किए जा सकते हैं।</p>\n<h2 id=\"hi294-takeaway\">मुख्य बात</h2><p>Warewashing, food-contact sanitation और floor care को method, tools और verification में separate रखें।</p>\n<h2 id=\"hi294-references\">संदर्भ</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

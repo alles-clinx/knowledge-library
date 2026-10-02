@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0295",
+  "slug": "food-service-cleaning-area-responsibilities",
+  "subcategory": "Food-Service Facilities",
+  "subcategory_slug": "food-service",
+  "related_article_ids": [
+    "ACX-KB-0293",
+    "ACX-KB-0294",
+    "ACX-KB-0250",
+    "ACX-KB-0253"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0295",
+  "title": "Food-Service Cleaning में Area Responsibilities Clear क्यों हों?",
+  "excerpt": "Clear cleaning ownership kitchen staff, stewards, housekeeping और specialist cleaners के बीच tasks miss होने से रोकती है।",
+  "seo_title": "Food-Service Cleaning: Clear Area Responsibilities | Alle's ClinX",
+  "meta_description": "Kitchen staff, stewards, housekeeping और specialist cleaners के बीच clear ownership food-service cleaning gaps कैसे prevent करती है, समझें।",
+  "content_html": "<p>Food-service facilities में kitchen staff, stewards, housekeeping, waste handlers, maintenance और specialist cleaners अलग teams हो सकती हैं। Responsibility clear न हो तो tasks duplicate या miss हो सकते हैं।</p>\n<h2 id=\"hi295-food-contact\">Food-contact surfaces की ownership explicitly assign करें</h2><p>Preparation benches, utensils, machines और removable food-contact parts के लिए clear cleaning responsibility हो।</p>\n<h2 id=\"hi295-warewashing\">Warewashing ownership define करें</h2><p>Dishmachines, sinks, racks और surrounding areas की operation, routine cleaning और deeper cleaning responsibility clear हो।</p>\n<h2 id=\"hi295-floors\">Floors, drains और low-level surfaces clarify करें</h2><p>Kitchen floors और drains culinary तथा housekeeping teams के बीच gap बन सकते हैं, इसलिए owner और frequency define करें।</p>\n<h2 id=\"hi295-shared\">Shared और boundary areas पर special attention दें</h2><p>Waste rooms, service corridors और handoff zones responsibility unclear होने पर miss हो सकते हैं।</p>\n<h2 id=\"hi295-equipment\">जहाँ जरूरी हो cleaning और maintenance अलग रखें</h2><p>कुछ equipment safe cleaning से पहले isolation या technical support require कर सकते हैं।</p>\n<h2 id=\"hi295-matrix\">Responsibility matrix use करें</h2><p>Area-task matrix बताए कि क्या clean करना है, किसने, कितनी frequency से और कौन verify करेगा।</p>\n<h2 id=\"hi295-takeaway\">मुख्य बात</h2><p>Important task को clear owner दें। यह hygiene gaps prevent करने का simple और effective control है।</p>\n<h2 id=\"hi295-references\">संदर्भ</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

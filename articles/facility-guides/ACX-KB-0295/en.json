@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0295",
+  "slug": "food-service-cleaning-area-responsibilities",
+  "subcategory": "Food-Service Facilities",
+  "subcategory_slug": "food-service",
+  "related_article_ids": [
+    "ACX-KB-0293",
+    "ACX-KB-0294",
+    "ACX-KB-0250",
+    "ACX-KB-0253"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Food-Service Cleaning: Clear Area Responsibilities",
+  "excerpt": "Clear cleaning ownership prevents food-service tasks from being missed between kitchen staff, stewards, housekeeping and specialist cleaners.",
+  "seo_title": "Food-Service Cleaning: Clear Area Responsibilities | Alle's ClinX",
+  "meta_description": "Learn how clear ownership prevents gaps between kitchen staff, stewards, housekeeping and specialist cleaning teams in food-service facilities.",
+  "content_html": "<p>Food-service facilities often use several teams: kitchen staff, stewards, housekeeping, waste handlers, maintenance and specialist cleaners. Without clear boundaries, tasks can be duplicated or missed because each team assumes another team owns them.</p>\n<h2 id=\"food-contact\">Assign food-contact surfaces explicitly</h2><p>Preparation benches, utensils, machines and removable food-contact parts should have clearly defined cleaning responsibility because these tasks are directly tied to food safety.</p>\n<h2 id=\"warewashing\">Define warewashing ownership</h2><p>Dishmachines, manual sinks, racks and surrounding areas should have assigned responsibilities for operation, routine cleaning and deeper maintenance cleaning.</p>\n<h2 id=\"floors\">Clarify floors, drains and low-level surfaces</h2><p>Kitchen floors and drains may sit between culinary and housekeeping responsibilities. The owner, frequency, tools and safe timing should be defined.</p>\n<h2 id=\"shared\">Shared and boundary areas need special attention</h2><p>Loading points, waste rooms, staff dining areas, service corridors and handoff zones are common places for gaps when responsibilities are unclear.</p>\n<h2 id=\"equipment\">Separate cleaning from maintenance when necessary</h2><p>Some equipment may need technical isolation, disassembly or maintenance support before safe cleaning is possible. Staff should know when to stop and escalate.</p>\n<h2 id=\"matrix\">Use a responsibility matrix</h2><p>A simple area-and-task matrix can identify what must be cleaned, by whom, how often, with which procedure and who verifies completion.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>If a task matters, give it an owner. Clear responsibility is one of the simplest ways to prevent hygiene gaps in food-service operations.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}
