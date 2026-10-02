@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0310",
+  "slug": "how-to-choose-an-alles-clinx-product-by-task",
+  "subcategory": "Choosing Alle's ClinX Products",
+  "subcategory_slug": "choosing-alles-clinx-products",
+  "related_article_ids": [
+    "ACX-KB-0311",
+    "ACX-KB-0303",
+    "ACX-KB-0305"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How to Choose an Alle's ClinX Product by Task",
+  "excerpt": "Choose an Alle's ClinX product by defining the area, required cleaning outcome, surface and soil, then confirming the product fit, approved instructions and recurring use pattern.",
+  "seo_title": "How to Choose an Alle's ClinX Product by Task | Alle's ClinX",
+  "meta_description": "Use a task-first method to choose an Alle's ClinX product based on area, outcome, surface, soil, product fit and operating pattern.",
+  "content_html": "<p>The most reliable way to choose an Alle's ClinX product is to start with the cleaning task rather than the product name. Define what must be cleaned, what outcome is required and what surface and soil are involved before narrowing the catalogue.</p>\n<h2 id=\"area\">Start with the area</h2><p>Identify where the work will happen: for example a patient room, washroom, kitchen, factory floor, classroom or guest room. The area helps define the operating context and possible constraints.</p>\n<h2 id=\"outcome\">Define the primary outcome</h2><p>Decide whether the job is routine cleaning, disinfection, descaling, degreasing, dishwashing, laundry, hand hygiene, metal care, polishing or another specific task. Choose the primary outcome rather than trying to make one product cover unrelated tasks.</p>\n<h2 id=\"surface-soil\">Match the surface and soil</h2><p>Check the material being cleaned and the type or severity of soil. Acid-sensitive surfaces, aluminium, polished finishes, fabrics and heavy grease can require very different chemistry.</p>\n<h2 id=\"fit\">Narrow to the smallest practical product set</h2><p>Choose products whose documented intended use matches the task. Avoid unnecessary overlap when one approved product already covers the recurring need.</p>\n<h2 id=\"instructions\">Confirm the approved instructions</h2><p>Before use, check the label and available TDS/SDS or usage guide for dilution, PPE, contact conditions, compatibility and other relevant requirements.</p>\n<h2 id=\"use-pattern\">Then consider the recurring use pattern</h2><p>Frequency, dilution and workload influence how much product the facility will actually consume. Metricon can help translate those inputs into usage and cost estimates.</p>\n<h2 id=\"help\">Use Nova or support when the fit is unclear</h2><p>When the label or product page does not answer an edge case, Nova can help search Alle's ClinX product information, or the support team can confirm a suitable option for the described task.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Choose by area → task → surface and soil → product fit → approved instructions → use pattern. Product selection should follow the job, not the other way around.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/solutions/\">Alle's ClinX — Solutions</a>.</li><li><a href=\"https://allesclinx.com/support/usage-guide-which-product/\">Alle's ClinX — Usage Guide: Which Product</a>.</li></ol>"
+}

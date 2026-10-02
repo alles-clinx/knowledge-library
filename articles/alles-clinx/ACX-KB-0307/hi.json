@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0307",
+  "slug": "sds-tds-sop-and-usage-guide-which-document-do-you-need",
+  "subcategory": "Product Documents",
+  "subcategory_slug": "product-documents",
+  "related_article_ids": [
+    "ACX-KB-0306",
+    "ACX-KB-0308",
+    "ACX-KB-0272"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0307",
+  "title": "SDS, TDS, SOP और Usage Guide: कौन-सा Document चाहिए?",
+  "excerpt": "SDS hazards और safe handling बताता है, TDS technical product information, SOP controlled procedure और usage guide practical task-level instructions देता है।",
+  "seo_title": "SDS, TDS, SOP या Usage Guide? | Alle's ClinX",
+  "meta_description": "SDS, TDS, SOP और usage guide में अंतर और safety, technical, procedural या practical question के लिए सही document कैसे चुनें, समझें।",
+  "content_html": "<p>Alle's ClinX product documents अलग purposes serve करते हैं। सही document चुनने से answer जल्दी मिलता है और गलत source use करने का risk कम होता है।</p>\n<h2 id=\"hi307-sds\">Hazards और safe handling के लिए SDS use करें</h2><p>Safety Data Sheet, जिसे कभी-कभी MSDS कहा जाता है, hazard classification, first aid, PPE, storage, handling, accidental release और exposure controls जैसी safety information देता है।</p>\n<h2 id=\"hi307-tds\">Technical product information के लिए TDS use करें</h2><p>Technical Data Sheet product characteristics और intended performance explain करता है। इसमें pH, working ratio, application conditions और compatibility जैसी information हो सकती है।</p>\n<h2 id=\"hi307-sop\">Controlled work procedure के लिए SOP use करें</h2><p>Standard Operating Procedure task को consistent sequence में perform करने के steps define करता है, जैसे preparation, PPE, application, rinsing और completion checks।</p>\n<h2 id=\"hi307-usage-guide\">Practical task help के लिए usage guide use करें</h2><p>Usage guide routine work में जल्दी scan करने योग्य guidance देता है—product कहाँ fit होता है और practically कैसे use करना है।</p>\n<h2 id=\"hi307-label\">Product label भी important है</h2><p>Label point of use पर approved use, caution और handling information देता है। Specific requirement में controlled source follow करें।</p>\n<h2 id=\"hi307-together\">Documents एक-दूसरे को complement करते हैं</h2><p>TDS से working ratio, SDS से PPE, SOP से task sequence और usage guide से quick practical reminder लिया जा सकता है।</p>\n<h2 id=\"hi307-revision\">Current version verify करें</h2><p>Safety, compliance या audit-sensitive work में exact product/SKU और current revision confirm करें।</p>\n<h2 id=\"hi307-takeaway\">मुख्य बात</h2><p>SDS safety, TDS technical information, SOP controlled procedure और usage guide practical use answer करता है।</p>\n<h2 id=\"hi307-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}

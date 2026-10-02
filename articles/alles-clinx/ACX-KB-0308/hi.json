@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0308",
+  "slug": "what-information-can-an-alles-clinx-qr-code-open",
+  "subcategory": "QR Codes",
+  "subcategory_slug": "qr-codes",
+  "related_article_ids": [
+    "ACX-KB-0306",
+    "ACX-KB-0307",
+    "ACX-KB-0309"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0308",
+  "title": "Alle's ClinX QR Code कौन-सी Information खोल सकता है?",
+  "excerpt": "Product-linked Alle's ClinX QR code physical label से current online product information और safety, technical तथा usage resources तक route दे सकता है।",
+  "seo_title": "Alle's ClinX QR Code क्या खोल सकता है? | Alle's ClinX",
+  "meta_description": "Product-linked Alle's ClinX QR codes product information, MSDS/SDS, TDS, SOP और usage resources तक कैसे पहुँचाते हैं, समझें।",
+  "content_html": "<p>Alle's ClinX product-linked QR access physical product को online information से connect करता है। Exact destination product और page design के अनुसार vary कर सकता है, लेकिन goal current product resources तक fast access देना है।</p>\n<h2 id=\"hi308-product\">Product information</h2><p>QR code product web page तक ले जा सकता है जहाँ identity, intended application, pack information और specifications check किए जा सकते हैं।</p>\n<h2 id=\"hi308-safety\">Safety documents</h2><p>जहाँ available हो, linked resources current MSDS/SDS तक access दे सकते हैं ताकि hazards, PPE, storage और first aid information review की जा सके।</p>\n<h2 id=\"hi308-technical\">Technical documents</h2><p>Product pages या linked resources TDS तक access दे सकते हैं जिसमें technical characteristics और working ratios हो सकते हैं।</p>\n<h2 id=\"hi308-procedures\">SOP और usage resources</h2><p>जहाँ published हों, SOP और usage guides controlled task steps या short practical guidance provide करते हैं।</p>\n<h2 id=\"hi308-availability\">हर product पर हर document एक ही समय available नहीं होता</h2><p>Required document missing हो तो Document Center या Alle's ClinX support use करें; similar product का document substitute न करें।</p>\n<h2 id=\"hi308-verify\">Information use करने से पहले product verify करें</h2><p>Page और document product name तथा SKU से match करते हों, especially similar variants में।</p>\n<h2 id=\"hi308-takeaway\">मुख्य बात</h2><p>QR code को label से current product resources तक fast bridge की तरह use करें और फिर question के अनुसार SDS, TDS, SOP या usage guide चुनें।</p>\n<h2 id=\"hi308-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li><li><a href=\"https://allesclinx.com/responsible-chemistry/\">Alle's ClinX — Responsible Chemistry</a>.</li></ol>"
+}

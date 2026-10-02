@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0309",
+  "slug": "why-product-linked-qr-codes-help-at-the-point-of-use",
+  "subcategory": "QR Codes",
+  "subcategory_slug": "qr-codes",
+  "related_article_ids": [
+    "ACX-KB-0308",
+    "ACX-KB-0307",
+    "ACX-KB-0306"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Product-Linked QR Codes Help at the Point of Use",
+  "excerpt": "Product-linked QR codes reduce the distance between a chemical container and its current digital guidance, helping users find product documents without relying on memory or separate filing systems.",
+  "seo_title": "Why Product-Linked QR Codes Help at the Point of Use | Alle's ClinX",
+  "meta_description": "Learn how product-linked QR codes improve access to current safety, technical and usage information at the point of use.",
+  "content_html": "<p>Cleaning chemicals are often used far from the office, procurement system or document archive where their technical files are stored. A product-linked QR code can shorten that gap by connecting the physical container to the product's online information.</p>\n<h2 id=\"access\">Guidance is easier to reach</h2><p>Instead of searching a shared drive, old email or printed binder, the user can start from the product in front of them and open the associated online resources.</p>\n<h2 id=\"identity\">The physical product helps anchor the lookup</h2><p>Because the QR code is linked from the product label, it can reduce the chance of searching for the wrong product name or confusing similar formulations. Users should still confirm the displayed product and SKU.</p>\n<h2 id=\"current\">Digital resources can be kept current centrally</h2><p>Web-hosted product pages and documents can be updated centrally, which is more manageable than relying only on printed copies that may remain in circulation after a revision.</p>\n<h2 id=\"training\">QR access can support training and supervision</h2><p>Supervisors can direct staff to the same product page, usage guide or controlled document during demonstrations and refresher training.</p>\n<h2 id=\"response\">Faster access helps during questions or incidents</h2><p>When a user needs to check PPE, dilution, compatibility or handling information, direct access to the relevant document can reduce unnecessary searching.</p>\n<h2 id=\"limits\">A QR code does not replace controls</h2><p>The container label, current SDS/TDS, site SOP, training and professional judgment remain important. QR access is a navigation aid, not permission to ignore a controlled procedure.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Product-linked QR codes make current guidance easier to reach where the product is actually used, while the underlying label and controlled documents remain the authority.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/responsible-chemistry/\">Alle's ClinX — Responsible Chemistry</a>.</li><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}

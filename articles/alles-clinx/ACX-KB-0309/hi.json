@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0309",
+  "slug": "why-product-linked-qr-codes-help-at-the-point-of-use",
+  "subcategory": "QR Codes",
+  "subcategory_slug": "qr-codes",
+  "related_article_ids": [
+    "ACX-KB-0308",
+    "ACX-KB-0307",
+    "ACX-KB-0306"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0309",
+  "title": "Product-Linked QR Codes Point of Use पर क्यों Helpful हैं?",
+  "excerpt": "Product-linked QR codes chemical container और current digital guidance के बीच distance कम करते हैं, जिससे users product documents जल्दी find कर सकते हैं।",
+  "seo_title": "Product-Linked QR Codes Point of Use पर क्यों Helpful हैं? | Alle's ClinX",
+  "meta_description": "Product-linked QR codes point of use पर current safety, technical और usage information तक access कैसे improve करते हैं, समझें।",
+  "content_html": "<p>Cleaning chemicals अक्सर office या document archive से दूर use होते हैं। Product-linked QR code physical container को online product information से connect करके यह gap कम कर सकता है।</p>\n<h2 id=\"hi309-access\">Guidance जल्दी reach होती है</h2><p>Shared drive, email या printed binder search करने के बजाय user सामने मौजूद product से associated resources open कर सकता है।</p>\n<h2 id=\"hi309-identity\">Physical product lookup anchor करता है</h2><p>Label-linked QR similar formulations में wrong product search करने का risk कम कर सकता है। Displayed product और SKU फिर भी verify करें।</p>\n<h2 id=\"hi309-current\">Digital resources centrally current रखे जा सकते हैं</h2><p>Web-hosted pages और documents centrally update किए जा सकते हैं, जबकि old printed copies circulation में रह सकती हैं।</p>\n<h2 id=\"hi309-training\">QR access training और supervision support कर सकती है</h2><p>Supervisors demonstrations और refresher training में same product page या controlled document share कर सकते हैं।</p>\n<h2 id=\"hi309-response\">Questions या incidents में faster access useful है</h2><p>PPE, dilution, compatibility या handling information जल्दी check की जा सकती है।</p>\n<h2 id=\"hi309-limits\">QR code controls replace नहीं करता</h2><p>Label, current SDS/TDS, site SOP, training और professional judgment authority बने रहते हैं।</p>\n<h2 id=\"hi309-takeaway\">मुख्य बात</h2><p>QR codes guidance को product use location के पास लाते हैं, लेकिन underlying controlled documents ही authority रहते हैं।</p>\n<h2 id=\"hi309-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/responsible-chemistry/\">Alle's ClinX — Responsible Chemistry</a>.</li><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}

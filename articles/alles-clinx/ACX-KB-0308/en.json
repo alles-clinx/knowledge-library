@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0308",
+  "slug": "what-information-can-an-alles-clinx-qr-code-open",
+  "subcategory": "QR Codes",
+  "subcategory_slug": "qr-codes",
+  "related_article_ids": [
+    "ACX-KB-0306",
+    "ACX-KB-0307",
+    "ACX-KB-0309"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What Information Can an Alle's ClinX QR Code Open?",
+  "excerpt": "A product-linked Alle's ClinX QR code can provide a route from the physical label to current online product information and supporting documents such as safety, technical and usage resources.",
+  "seo_title": "What Can an Alle's ClinX QR Code Open? | Alle's ClinX",
+  "meta_description": "Learn what product-linked Alle's ClinX QR codes can connect users to, including product information, MSDS/SDS, TDS, SOP and usage resources.",
+  "content_html": "<p>Alle's ClinX uses product-linked QR access to connect the physical product with online information. The exact destination can vary by product and page design, but the purpose is to make current product resources easier to reach at or near the point of use.</p>\n<h2 id=\"product\">Product information</h2><p>A QR code may open or lead to the product's current web page, where users can check the product identity, intended application, pack information, product specifications and use notes.</p>\n<h2 id=\"safety\">Safety documents</h2><p>Where available for the product, the linked resources can provide access to the current MSDS/SDS so users can review hazards, PPE, storage, first aid and handling requirements.</p>\n<h2 id=\"technical\">Technical documents</h2><p>Product pages or linked document resources can also provide Technical Data Sheets containing technical characteristics, working ratios and application information.</p>\n<h2 id=\"procedures\">SOP and usage resources</h2><p>Where published, Standard Operating Procedures and usage guides can provide controlled task instructions or shorter practical guidance for routine use.</p>\n<h2 id=\"availability\">Not every product has every document published at the same time</h2><p>The available resources depend on the specific product. If a required document is not present, use the Document Center or contact Alle's ClinX support rather than substituting a document from a similar product.</p>\n<h2 id=\"verify\">Verify the product before using the information</h2><p>Confirm that the page and documents match the product name and SKU on the container, especially when similar formulations or pack variants exist.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use the QR code as a fast bridge from the label to current product resources, then choose the SDS, TDS, SOP or usage guide that matches the question you need to answer.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li><li><a href=\"https://allesclinx.com/responsible-chemistry/\">Alle's ClinX — Responsible Chemistry</a>.</li></ol>"
+}

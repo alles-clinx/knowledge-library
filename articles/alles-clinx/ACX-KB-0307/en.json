@@ -1,0 +1,25 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0307",
+  "slug": "sds-tds-sop-and-usage-guide-which-document-do-you-need",
+  "subcategory": "Product Documents",
+  "subcategory_slug": "product-documents",
+  "related_article_ids": [
+    "ACX-KB-0306",
+    "ACX-KB-0308",
+    "ACX-KB-0272"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "SDS, TDS, SOP and Usage Guide: Which Document Do You Need?",
+  "excerpt": "An SDS explains hazards and safe handling, a TDS explains technical product properties, an SOP defines a controlled work procedure, and a usage guide gives practical task-level instructions.",
+  "seo_title": "SDS, TDS, SOP or Usage Guide? | Alle's ClinX",
+  "meta_description": "Understand the difference between SDS, TDS, SOP and usage guides and which Alle's ClinX document to use for safety, technical, procedural or practical questions.",
+  "content_html": "<p>Alle's ClinX product documentation serves different purposes. Choosing the right document makes it easier to find the answer quickly and reduces the risk of using one document for a question it was not designed to answer.</p>\n<h2 id=\"sds\">Use the SDS for hazards and safe handling</h2><p>The Safety Data Sheet, sometimes listed as MSDS, is the primary document for hazard classification, first aid, PPE, storage, handling, accidental release, exposure controls and other safety information. Use the current SDS when the question is about chemical safety.</p>\n<h2 id=\"tds\">Use the TDS for technical product information</h2><p>The Technical Data Sheet explains the product's technical characteristics and intended performance. It may include formulation type, pH, working ratio, application conditions, compatibility information and other product specifications.</p>\n<h2 id=\"sop\">Use the SOP for a controlled work procedure</h2><p>A Standard Operating Procedure defines how a task should be performed in a consistent sequence. An SOP may specify preparation, equipment, PPE, application steps, contact or dwell conditions, rinsing, completion checks and escalation points.</p>\n<h2 id=\"usage-guide\">Use the usage guide for practical task-level help</h2><p>A usage guide is typically easier to scan during routine work. It can explain where the product fits, how it is prepared or applied, and common use considerations without replacing the full safety or technical documents.</p>\n<h2 id=\"label\">The product label remains important</h2><p>The label identifies the product and provides approved use, caution and handling information at the point of use. Where the label, SDS, TDS or SOP gives a specific requirement, follow the controlled source rather than a general summary.</p>\n<h2 id=\"together\">The documents work together</h2><p>For example, a user may check the TDS for the working ratio, the SDS for PPE and hazard information, the SOP for the approved task sequence, and the usage guide for a short practical reminder.</p>\n<h2 id=\"revision\">Verify the current version</h2><p>For safety, compliance or audit-sensitive work, confirm that the document matches the exact product and SKU and is the current published revision.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>SDS answers safety questions, TDS answers technical questions, SOP answers “how should this controlled task be performed?”, and the usage guide answers “how do I use this product in practice?”</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}

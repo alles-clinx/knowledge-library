@@ -1,0 +1,27 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0310",
+  "slug": "how-to-choose-an-alles-clinx-product-by-task",
+  "subcategory": "Choosing Alle's ClinX Products",
+  "subcategory_slug": "choosing-alles-clinx-products",
+  "related_article_ids": [
+    "ACX-KB-0311",
+    "ACX-KB-0303",
+    "ACX-KB-0305"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0310",
+  "title": "Task के आधार पर Alle's ClinX Product कैसे चुनें?",
+  "excerpt": "Alle's ClinX product चुनते समय area, required outcome, surface और soil define करें, फिर product fit, approved instructions और recurring use pattern confirm करें।",
+  "seo_title": "Task के आधार पर Alle's ClinX Product कैसे चुनें? | Alle's ClinX",
+  "meta_description": "Area, outcome, surface, soil, product fit और use pattern के आधार पर Alle's ClinX product चुनने का task-first method समझें।",
+  "content_html": "<p>Alle's ClinX product choose करने का reliable तरीका product name से नहीं, cleaning task से शुरू करना है। पहले area, required outcome, surface और soil define करें।</p>\n<h2 id=\"hi310-area\">Area से शुरू करें</h2><p>Identify करें कि काम patient room, washroom, kitchen, factory floor, classroom या guest room जैसे किस context में होगा।</p>\n<h2 id=\"hi310-outcome\">Primary outcome define करें</h2><p>Routine cleaning, disinfection, descaling, degreasing, dishwashing, laundry, hand hygiene, metal care या polishing में से primary job choose करें।</p>\n<h2 id=\"hi310-surface-soil\">Surface और soil match करें</h2><p>Material और soil type/severity check करें। Sensitive surfaces, aluminium, polished finishes, fabrics और heavy grease अलग chemistry require कर सकते हैं।</p>\n<h2 id=\"hi310-fit\">Smallest practical product set चुनें</h2><p>Documented intended use task से match होना चाहिए। Unnecessary overlap avoid करें।</p>\n<h2 id=\"hi310-instructions\">Approved instructions confirm करें</h2><p>Label और available TDS/SDS या usage guide से dilution, PPE, contact conditions और compatibility check करें।</p>\n<h2 id=\"hi310-use-pattern\">फिर recurring use pattern consider करें</h2><p>Frequency, dilution और workload actual consumption affect करते हैं। Metricon usage और cost estimates में मदद कर सकता है।</p>\n<h2 id=\"hi310-help\">Fit unclear हो तो Nova या support use करें</h2><p>Edge case में Nova Alle's ClinX product information search कर सकता है या support team suitable option confirm कर सकती है।</p>\n<h2 id=\"hi310-takeaway\">मुख्य बात</h2><p>Area → task → surface/soil → product fit → approved instructions → use pattern के sequence से choose करें।</p>\n<h2 id=\"hi310-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/solutions/\">Alle's ClinX — Solutions</a>.</li><li><a href=\"https://allesclinx.com/support/usage-guide-which-product/\">Alle's ClinX — Usage Guide: Which Product</a>.</li></ol>"
+}
