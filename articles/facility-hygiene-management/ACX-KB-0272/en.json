@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0272",
+  "slug": "why-technical-documents-matter-in-cleaning-procurement",
+  "subcategory": "Procurement",
+  "subcategory_slug": "procurement",
+  "related_article_ids": [
+    "ACX-KB-0271",
+    "ACX-KB-0231",
+    "ACX-KB-0247",
+    "ACX-KB-0265"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Technical Documents Matter in Cleaning Procurement",
+  "excerpt": "Technical documents give procurement and operations the evidence needed to understand a cleaning product's intended use, hazards, preparation, compatibility and control requirements.",
+  "seo_title": "Why Technical Documents Matter in Cleaning Procurement | Alle's ClinX",
+  "meta_description": "Learn why labels, SDSs, technical data and controlled product instructions are essential during cleaning-product procurement and approval.",
+  "content_html": "<p>Technical documents turn a cleaning product from a trade name into a controlled operational input. They provide the information procurement, safety and cleaning teams need to understand what the product is, how it should be used and what controls are required.</p>\n<h2 id=\"identity\">Documents confirm product identity and intended use</h2><p>Product labels and technical data help distinguish similar products and clarify which applications, surfaces or processes the manufacturer supports.</p>\n<h2 id=\"safety\">Safety data supports hazard control</h2><p>A current safety data sheet provides standardized hazard, handling, storage and emergency information that can support risk assessment and worker training.</p>\n<h2 id=\"method\">Technical instructions support correct use</h2><p>Dilution, dosing, contact time, temperature, rinsing and compatibility requirements can materially affect performance and should be known before the product enters routine use.</p>\n<h2 id=\"approval\">Documents support a defensible approval decision</h2><p>Procurement can compare proposed products against defined technical requirements rather than relying only on sales claims or packaging.</p>\n<h2 id=\"change\">Document changes need control</h2><p>If a formulation, label, SDS or technical instruction changes, the facility may need to review training, risk controls, procedures or compatibility before continuing use.</p>\n<h2 id=\"access\">Users need access after purchase</h2><p>Technical documentation should remain available to the people responsible for storage, training, safe use and incident response—not disappear after the purchasing decision.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Collect, review and retain the technical documents that support product approval and safe use throughout the product lifecycle.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}

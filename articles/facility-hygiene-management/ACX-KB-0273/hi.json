@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0273",
+  "slug": "cleaning-chemical-supplier-expectations",
+  "subcategory": "Supplier Management",
+  "subcategory_slug": "supplier-management",
+  "related_article_ids": [
+    "ACX-KB-0274",
+    "ACX-KB-0271",
+    "ACX-KB-0272",
+    "ACX-KB-0265"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0273",
+  "title": "Cleaning-Chemical Supplier से क्या Expect करना चाहिए?",
+  "excerpt": "Supplier को consistent approved products, current technical documents, reliable delivery, traceability और appropriate technical support provide करना चाहिए।",
+  "seo_title": "Cleaning-Chemical Supplier से क्या Expect करें? | Alle's ClinX",
+  "meta_description": "Cleaning-chemical supplier के लिए product consistency, documentation, delivery, traceability और technical support expectations समझें।",
+  "content_html": "<p>Cleaning-chemical supplier केवल purchasing को नहीं, cleaning continuity और safe use को भी affect करता है। इसलिए routine supply से पहले clear expectations define होनी चाहिए।</p>\n<h2 id=\"hi273-product\">Consistent approved product supply expect करें</h2><p>Supplier agreed product, concentration, pack size और specification deliver करे और material changes पहले communicate करे।</p>\n<h2 id=\"hi273-documents\">Current technical और safety documents expect करें</h2><p>Labels, SDS, technical data और use instructions current और available होने चाहिए।</p>\n<h2 id=\"hi273-delivery\">Reliable delivery performance expect करें</h2><p>Lead time, order accuracy और shortage response predictable होने चाहिए।</p>\n<h2 id=\"hi273-traceability\">Basic traceability expect करें</h2><p>जहाँ relevant हो batch या lot information complaints, recalls और investigations के लिए available हो।</p>\n<h2 id=\"hi273-support\">Competent technical support expect करें</h2><p>Dilution, dosing, compatibility या training needs पर accurate supplier support available हो।</p>\n<h2 id=\"hi273-issues\">Problems के लिए defined route हो</h2><p>Damaged goods, missing documents, delivery failures या technical concerns report करने का clear process हो।</p>\n<h2 id=\"hi273-takeaway\">मुख्य बात</h2><p>Supplier को product, documentation, delivery और support expectations के against manage करें—केवल price पर नहीं।</p>\n<h2 id=\"hi273-references\">संदर्भ</h2><ol><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}

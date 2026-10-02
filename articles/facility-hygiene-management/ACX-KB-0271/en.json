@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0271",
+  "slug": "cleaning-product-approval-procurement-checks",
+  "subcategory": "Procurement",
+  "subcategory_slug": "procurement",
+  "related_article_ids": [
+    "ACX-KB-0272",
+    "ACX-KB-0184",
+    "ACX-KB-0231",
+    "ACX-KB-0265"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Product Approval: What Procurement Should Check",
+  "excerpt": "Cleaning-product approval should verify intended use, technical performance, safety information, compatibility, regulatory status, supply continuity and total operating requirements before purchase.",
+  "seo_title": "Cleaning Product Approval: Procurement Checks | Alle's ClinX",
+  "meta_description": "See what procurement should verify before approving a cleaning product: intended use, safety documents, compatibility, compliance, supply and operating requirements.",
+  "content_html": "<p>Cleaning procurement should not be based on price or availability alone. A product becomes part of the facility's cleaning process, so approval should confirm that it is suitable for the intended task, can be used safely and can be supported operationally.</p>\n<h2 id=\"use\">Confirm the intended use</h2><p>Procurement should know which surfaces, soils, tasks or hygiene outcomes the product is intended to address. A product approved for one application should not automatically be treated as suitable for another.</p>\n<h2 id=\"documents\">Review the technical and safety documents</h2><p>Current product labels, technical data, safety data sheets and relevant use instructions should be available before approval so the facility understands hazards, dilution, contact conditions, storage and handling requirements.</p>\n<h2 id=\"compatibility\">Check surface and equipment compatibility</h2><p>The proposed product should be compatible with the surfaces, machines, dispensers and materials used in the facility. Where uncertainty exists, supplier guidance or controlled testing may be required.</p>\n<h2 id=\"compliance\">Check applicable regulatory or customer requirements</h2><p>Where the product makes regulated claims or is used in a controlled environment, procurement should verify that the product and its documentation meet the requirements relevant to that jurisdiction and use.</p>\n<h2 id=\"supply\">Assess supply continuity and pack configuration</h2><p>Lead time, minimum order quantities, pack size, shelf life, storage needs and backup availability can affect whether a technically suitable product is operationally practical.</p>\n<h2 id=\"system\">Consider the full operating system</h2><p>Some products require dedicated dosing equipment, bottles, labels, training, PPE or supplier service. Those requirements should be understood before purchase.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Approve cleaning products against a defined technical and operational checklist rather than treating procurement as a price-only decision.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}

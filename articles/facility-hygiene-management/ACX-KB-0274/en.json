@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0274",
+  "slug": "why-supplier-documentation-and-service-levels-matter",
+  "subcategory": "Supplier Management",
+  "subcategory_slug": "supplier-management",
+  "related_article_ids": [
+    "ACX-KB-0273",
+    "ACX-KB-0272",
+    "ACX-KB-0265",
+    "ACX-KB-0267"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Supplier Documentation and Service Levels Matter",
+  "excerpt": "Supplier documentation and service levels make expectations measurable, improve traceability and help facilities manage delivery, technical support and product-quality issues consistently.",
+  "seo_title": "Why Supplier Documentation and Service Levels Matter | Alle's ClinX",
+  "meta_description": "Learn how supplier documentation and service levels improve cleaning-product traceability, delivery reliability, issue handling and accountability.",
+  "content_html": "<p>Supplier performance is easier to manage when expectations are documented. Product specifications, approved documents and service levels create a shared reference for what the supplier must provide and how performance will be evaluated.</p>\n<h2 id=\"documents\">Documentation defines the approved supply</h2><p>Specifications, product codes, labels, SDSs, technical data and agreed pack sizes help prevent confusion about what should be delivered.</p>\n<h2 id=\"service-levels\">Service levels make operational expectations measurable</h2><p>Lead time, fill rate, order accuracy, response time and escalation routes can be defined so performance is assessed consistently rather than informally.</p>\n<h2 id=\"changes\">Change notification protects control</h2><p>Suppliers should notify the facility of relevant changes to formulation, packaging, documentation, availability or regulatory status before the change creates an operational problem.</p>\n<h2 id=\"issues\">Documented processes improve issue handling</h2><p>When shortages, damaged goods, documentation gaps or product complaints occur, agreed responsibilities and response routes reduce delay and confusion.</p>\n<h2 id=\"review\">Performance data supports supplier review</h2><p>Delivery records, complaints, documentation status and service-level performance can be reviewed periodically to decide whether improvement or corrective action is needed.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Document what the supplier must provide and how service will be measured. Clear expectations make supplier management more consistent and auditable.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}

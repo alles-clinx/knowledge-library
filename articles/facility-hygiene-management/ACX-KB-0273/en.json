@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0273",
+  "slug": "cleaning-chemical-supplier-expectations",
+  "subcategory": "Supplier Management",
+  "subcategory_slug": "supplier-management",
+  "related_article_ids": [
+    "ACX-KB-0274",
+    "ACX-KB-0271",
+    "ACX-KB-0272",
+    "ACX-KB-0265"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "What to Expect from a Cleaning-Chemical Supplier",
+  "excerpt": "A cleaning-chemical supplier should provide consistent approved products, current technical documentation, reliable delivery, traceability and appropriate technical support.",
+  "seo_title": "What to Expect from a Cleaning-Chemical Supplier | Alle's ClinX",
+  "meta_description": "Understand the core expectations for cleaning-chemical suppliers: product consistency, documentation, delivery reliability, traceability and technical support.",
+  "content_html": "<p>A cleaning-chemical supplier affects more than purchasing. Product consistency, documentation, delivery performance and technical support can directly influence cleaning continuity and safe use. Supplier expectations should therefore be defined before routine supply begins.</p>\n<h2 id=\"product\">Expect consistent approved product supply</h2><p>The supplier should deliver the agreed product, concentration, pack size and specification and should communicate material changes before they affect use.</p>\n<h2 id=\"documents\">Expect current technical and safety documents</h2><p>Labels, safety data sheets, technical data and relevant use instructions should be available and kept current.</p>\n<h2 id=\"delivery\">Expect reliable delivery performance</h2><p>Lead times, order accuracy, delivery conditions and response to shortages should be predictable enough to support stock planning.</p>\n<h2 id=\"traceability\">Expect basic traceability</h2><p>Batch, lot or other product-identification information should be available where needed for complaints, quality issues, recalls or investigations.</p>\n<h2 id=\"support\">Expect competent technical support</h2><p>Where products require dilution, dosing equipment, compatibility guidance or application training, the supplier should be able to provide accurate support or escalation.</p>\n<h2 id=\"issues\">Expect a defined route for problems</h2><p>Facilities should know how to report damaged goods, documentation gaps, delivery failures or technical concerns and how quickly the supplier is expected to respond.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Manage cleaning-chemical suppliers against defined product, documentation, delivery and support expectations—not purchase price alone.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}

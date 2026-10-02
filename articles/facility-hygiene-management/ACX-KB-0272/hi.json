@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0272",
+  "slug": "why-technical-documents-matter-in-cleaning-procurement",
+  "subcategory": "Procurement",
+  "subcategory_slug": "procurement",
+  "related_article_ids": [
+    "ACX-KB-0271",
+    "ACX-KB-0231",
+    "ACX-KB-0247",
+    "ACX-KB-0265"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0272",
+  "title": "Cleaning Procurement में Technical Documents क्यों जरूरी हैं?",
+  "excerpt": "Technical documents product के intended use, hazards, preparation, compatibility और control requirements समझने के लिए evidence देते हैं।",
+  "seo_title": "Cleaning Procurement में Technical Documents क्यों जरूरी हैं? | Alle's ClinX",
+  "meta_description": "Labels, SDS, technical data और controlled product instructions cleaning procurement और approval में क्यों जरूरी हैं, समझें।",
+  "content_html": "<p>Technical documents cleaning product को केवल trade name से controlled operational input में बदलते हैं। Procurement, safety और cleaning teams इन्हीं documents से product use और required controls समझते हैं।</p>\n<h2 id=\"hi272-identity\">Documents product identity और intended use confirm करते हैं</h2><p>Labels और technical data similar products distinguish करने और supported applications clarify करने में मदद करते हैं।</p>\n<h2 id=\"hi272-safety\">Safety data hazard control support करती है</h2><p>Current SDS hazard, handling, storage और emergency information provide करती है।</p>\n<h2 id=\"hi272-method\">Technical instructions correct use support करती हैं</h2><p>Dilution, dosing, contact time, rinsing और compatibility requirements performance affect कर सकते हैं।</p>\n<h2 id=\"hi272-approval\">Documents approval decision support करते हैं</h2><p>Procurement products को defined technical requirements के against compare कर सकती है।</p>\n<h2 id=\"hi272-change\">Document changes control होने चाहिए</h2><p>Formulation, label, SDS या instructions change हों तो procedures, training और risk controls review करने पड़ सकते हैं।</p>\n<h2 id=\"hi272-access\">Purchase के बाद भी access जरूरी है</h2><p>Storage, training, safe use और incident response के responsible staff को documents accessible रहने चाहिए।</p>\n<h2 id=\"hi272-takeaway\">मुख्य बात</h2><p>Product lifecycle के दौरान approval और safe use support करने वाले technical documents collect, review और retain करें।</p>\n<h2 id=\"hi272-references\">संदर्भ</h2><ol><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}

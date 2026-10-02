@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0271",
+  "slug": "cleaning-product-approval-procurement-checks",
+  "subcategory": "Procurement",
+  "subcategory_slug": "procurement",
+  "related_article_ids": [
+    "ACX-KB-0272",
+    "ACX-KB-0184",
+    "ACX-KB-0231",
+    "ACX-KB-0265"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0271",
+  "title": "Cleaning Product Approval में Procurement को क्या Check करना चाहिए?",
+  "excerpt": "Cleaning-product approval में intended use, technical performance, safety documents, compatibility, compliance, supply continuity और operating requirements verify होने चाहिए।",
+  "seo_title": "Cleaning Product Approval: Procurement Checks | Alle's ClinX",
+  "meta_description": "Cleaning product approve करने से पहले procurement को intended use, safety, compatibility, compliance और supply में क्या check करना चाहिए, समझें।",
+  "content_html": "<p>Cleaning procurement केवल price या availability पर आधारित नहीं होनी चाहिए। Product facility के cleaning process का हिस्सा बनता है, इसलिए approval से पहले technical suitability, safety और operational support verify करना चाहिए।</p>\n<h2 id=\"hi271-use\">Intended use confirm करें</h2><p>Clear करें कि product किन surfaces, soils, tasks या hygiene outcomes के लिए intended है।</p>\n<h2 id=\"hi271-documents\">Technical और safety documents review करें</h2><p>Current label, technical data, SDS और use instructions approval से पहले available होने चाहिए।</p>\n<h2 id=\"hi271-compatibility\">Surface और equipment compatibility check करें</h2><p>Product facility के surfaces, machines, dispensers और materials के compatible होना चाहिए।</p>\n<h2 id=\"hi271-compliance\">Applicable requirements check करें</h2><p>Regulated claims या controlled environment में relevant jurisdictional और customer requirements verify करें।</p>\n<h2 id=\"hi271-supply\">Supply continuity और pack configuration assess करें</h2><p>Lead time, minimum order, pack size, shelf life और storage needs operational practicality affect करते हैं।</p>\n<h2 id=\"hi271-system\">Full operating system consider करें</h2><p>Dosing equipment, bottles, labels, training, PPE या supplier service जैसी dependencies पहले समझें।</p>\n<h2 id=\"hi271-takeaway\">मुख्य बात</h2><p>Cleaning products को defined technical और operational checklist के against approve करें, केवल price के आधार पर नहीं।</p>\n<h2 id=\"hi271-references\">संदर्भ</h2><ol><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}

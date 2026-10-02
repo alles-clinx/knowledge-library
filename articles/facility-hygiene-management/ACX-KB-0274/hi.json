@@ -1,0 +1,28 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0274",
+  "slug": "why-supplier-documentation-and-service-levels-matter",
+  "subcategory": "Supplier Management",
+  "subcategory_slug": "supplier-management",
+  "related_article_ids": [
+    "ACX-KB-0273",
+    "ACX-KB-0272",
+    "ACX-KB-0265",
+    "ACX-KB-0267"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0274",
+  "title": "Supplier Documentation और Service Levels क्यों Matter करते हैं?",
+  "excerpt": "Supplier documentation और service levels expectations measurable बनाते हैं और delivery, technical support व product-quality issues को consistently manage करने में मदद करते हैं।",
+  "seo_title": "Supplier Documentation और Service Levels क्यों Matter करते हैं? | Alle's ClinX",
+  "meta_description": "Supplier documentation और service levels cleaning-product traceability, delivery reliability और issue handling को कैसे improve करते हैं, समझें।",
+  "content_html": "<p>Supplier performance तब बेहतर manage होती है जब expectations documented हों। Product specifications, approved documents और service levels clear reference create करते हैं।</p>\n<h2 id=\"hi274-documents\">Documentation approved supply define करती है</h2><p>Specifications, product codes, labels, SDS, technical data और pack sizes confusion कम करते हैं।</p>\n<h2 id=\"hi274-service-levels\">Service levels expectations measurable बनाते हैं</h2><p>Lead time, fill rate, order accuracy, response time और escalation routes define किए जा सकते हैं।</p>\n<h2 id=\"hi274-changes\">Change notification control protect करती है</h2><p>Formulation, packaging, documentation या availability में relevant change supplier advance में communicate करे।</p>\n<h2 id=\"hi274-issues\">Documented process issue handling improve करता है</h2><p>Shortage, damaged goods या product complaint के लिए agreed response route delay reduce करता है।</p>\n<h2 id=\"hi274-review\">Performance data supplier review support करता है</h2><p>Delivery records, complaints और service-level performance periodic review में use किए जा सकते हैं।</p>\n<h2 id=\"hi274-takeaway\">मुख्य बात</h2><p>Supplier deliverables और service measurement clearly document करें ताकि supplier management consistent और auditable हो।</p>\n<h2 id=\"hi274-references\">संदर्भ</h2><ol><li><a href=\"https://www.iso.org/standard/62085.html\">ISO — ISO 9001:2015</a>.</li></ol>"
+}

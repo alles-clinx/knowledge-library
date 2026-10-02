@@ -1,0 +1,25 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0270",
+  "slug": "overuse-cost-without-better-results",
+  "subcategory": "Chemical Consumption & Cost Control",
+  "subcategory_slug": "chemical-consumption-cost-control",
+  "related_article_ids": [
+    "ACX-KB-0268",
+    "ACX-KB-0269",
+    "ACX-KB-0184"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Why Overuse Raises Cost Without Improving Results",
+  "excerpt": "Using more cleaning chemical than the approved dose usually raises consumption and residue risk without guaranteeing better cleaning or disinfection performance.",
+  "seo_title": "Why Overuse Raises Cost Without Improving Results | Alle's ClinX",
+  "meta_description": "Learn why overdosing cleaning chemicals increases cost, waste and residue risk without necessarily improving cleaning results.",
+  "content_html": "<p>More chemical does not automatically mean better cleaning. Cleaning products are designed to work within approved concentrations, methods and contact conditions. Using more than required can increase cost and waste while creating new problems such as residue, difficult rinsing, surface damage or unnecessary exposure.</p>\n<h2 id=\"dose\">Approved dose is part of the cleaning method</h2><p>The intended concentration or dose should come from the product label, technical instructions or approved facility procedure. Changing that dose without review changes the process.</p>\n<h2 id=\"cost\">Overuse increases cost directly</h2><p>If a product is routinely overdosed, each task consumes more concentrate than planned. Across many rooms, shifts or machines, small dosing errors can become a significant recurring cost.</p>\n<h2 id=\"residue\">Excess product can create residue problems</h2><p>Too much detergent may leave films that attract soil, require extra rinsing or change the appearance and feel of a surface. More product can therefore create additional work rather than better results.</p>\n<h2 id=\"safety\">Overuse can increase exposure and compatibility risk</h2><p>Higher-than-approved concentrations may increase worker exposure or damage sensitive surfaces and equipment. Products should be used according to approved instructions and safety controls.</p>\n<h2 id=\"dosing\">Controlled dosing reduces variation</h2><p>Measured dilution, dosing equipment, calibrated dispensers and clear work instructions help reduce guesswork and improve consistency between users.</p>\n<h2 id=\"monitor\">Consumption data can reveal overuse</h2><p>Unusual increases in product consumption, especially without a matching change in workload, can indicate over-dosing, leaks, incorrect dispenser settings or poor issue control.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Optimize cleaning by controlling dose, method and technique—not by assuming that more chemical produces a better result.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}
