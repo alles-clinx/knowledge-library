@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0290",
+  "slug": "how-office-cleaning-programs-are-structured",
+  "subcategory": "Offices & Commercial Buildings",
+  "subcategory_slug": "offices-commercial-buildings",
+  "related_article_ids": [
+    "ACX-KB-0291",
+    "ACX-KB-0292",
+    "ACX-KB-0250",
+    "ACX-KB-0251"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Office Cleaning Programs Are Structured",
+  "excerpt": "Office cleaning programs usually combine workstation and common-area routines, washroom servicing, waste handling, periodic floor care, day cleaning and after-hours work under one scheduled quality-control system.",
+  "seo_title": "How Office Cleaning Programs Are Structured | Alle's ClinX",
+  "meta_description": "Learn how office cleaning programs organize workstations, common areas, washrooms, waste, floor care, day cleaning and after-hours service.",
+  "content_html": "<p>Office cleaning programs have to support daily occupancy without disrupting work. A structured program separates routine desk-area and common-space cleaning from washroom service, waste handling, periodic floor care and lower-frequency detailed tasks.</p>\n<h2 id=\"zones\">Organize work by building zone</h2><p>Workstations, meeting rooms, reception areas, kitchens or pantries, washrooms, lifts, corridors and building entrances have different use patterns and should not automatically receive the same frequency.</p>\n<h2 id=\"daily\">Routine daily tasks maintain readiness</h2><p>Typical work can include waste removal, visible soil removal, high-use surface cleaning, washroom service and common-area floor care.</p>\n<h2 id=\"periodic\">Periodic tasks need separate planning</h2><p>Carpet extraction, upholstery cleaning, high-level dusting, detailed floor maintenance and other lower-frequency tasks should be scheduled outside the routine daily checklist.</p>\n<h2 id=\"timing\">Day and after-hours work can be combined</h2><p>High-use washrooms and shared spaces may benefit from daytime service, while vacuuming, detailed desk-area work or disruptive floor tasks may be better after occupancy drops.</p>\n<h2 id=\"quality\">Inspections and feedback support consistency</h2><p>Supervisor checks, service requests and complaint trends can help identify recurring problem areas and refine task frequencies.</p>\n<h2 id=\"changes\">Occupancy changes should trigger review</h2><p>Hybrid work, events, tenant changes or altered building hours can change cleaning demand and should be reflected in schedules rather than leaving frequencies fixed indefinitely.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Structure office cleaning by zone, occupancy, task frequency and the best service window, then verify delivery through inspections and feedback.</p>"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0289",
+  "slug": "industrial-hygiene-floors-washrooms-break-areas",
+  "subcategory": "Industrial Facilities",
+  "subcategory_slug": "industrial",
+  "related_article_ids": [
+    "ACX-KB-0287",
+    "ACX-KB-0288",
+    "ACX-KB-0252",
+    "ACX-KB-0259"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0289",
+  "title": "Industrial Hygiene में Floors, Washrooms और Break Areas",
+  "excerpt": "Industrial hygiene program production-floor housekeeping, washrooms और break-area cleaning को अलग controls के साथ manage करे, लेकिन standards और ownership coordinated रहें।",
+  "seo_title": "Industrial Hygiene: Floors, Washrooms और Break Areas | Alle's ClinX",
+  "meta_description": "Industrial facilities floors, washrooms और break areas की hygiene को area-specific controls के साथ कैसे coordinate करती हैं, समझें।",
+  "content_html": "<p>Production floors, washrooms और break areas के functions और cleaning risks अलग हैं। एक generic checklist इन differences को miss कर सकती है, इसलिए हर zone के लिए suitable procedure चाहिए।</p>\n<h2 id=\"hi289-floors\">Production floors को process-aware housekeeping चाहिए</h2><p>Method process residues, equipment boundaries, traffic routes और operational hazards reflect करे।</p>\n<h2 id=\"hi289-washrooms\">Washrooms frequent service और replenishment require करते हैं</h2><p>Fixtures, touchpoints, floors और consumables workforce size और shift pattern के अनुसार check हों।</p>\n<h2 id=\"hi289-break\">Break areas को shared-touch controls चाहिए</h2><p>Tables, counters, handles, sinks और shared surfaces operating hours के दौरान routine cleaning require कर सकते हैं।</p>\n<h2 id=\"hi289-separation\">Cross-use risk हो तो tools separate रखें</h2><p>Washroom या heavily soiled production tools को employee eating areas में बिना approved control के use न करें।</p>\n<h2 id=\"hi289-waste\">Waste routes define करें</h2><p>Industrial, restroom और break-area waste के handling routes अलग हो सकते हैं।</p>\n<h2 id=\"hi289-inspection\">हर zone को suitable criteria से inspect करें</h2><p>Production floors में spills और access hazards, जबकि washrooms और break areas में hygiene condition और replenishment भी check करें।</p>\n<h2 id=\"hi289-takeaway\">मुख्य बात</h2><p>Site-wide program one हो सकता है, लेकिन procedures, tools, frequencies और inspection criteria area-specific रखें।</p>"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0291",
+  "slug": "priority-hygiene-areas-commercial-buildings",
+  "subcategory": "Offices & Commercial Buildings",
+  "subcategory_slug": "offices-commercial-buildings",
+  "related_article_ids": [
+    "ACX-KB-0290",
+    "ACX-KB-0292",
+    "ACX-KB-0252",
+    "ACX-KB-0259"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Priority Hygiene Areas in Commercial Buildings",
+  "excerpt": "Commercial-building hygiene priorities are usually driven by occupancy, touch frequency, washroom use, food or beverage activity, public access and the consequences of delayed service.",
+  "seo_title": "Priority Hygiene Areas in Commercial Buildings | Alle's ClinX",
+  "meta_description": "Learn how offices and commercial buildings identify priority hygiene areas using occupancy, touch frequency, washrooms, entrances and shared spaces.",
+  "content_html": "<p>Commercial buildings contain spaces with very different traffic and hygiene demand. Cleaning priority should be set using actual use, touch frequency and service risk rather than applying the same frequency to every room.</p>\n<h2 id=\"washrooms\">Washrooms are high-priority service areas</h2><p>Heavy use, moisture and repeated hand contact mean washrooms often need service checks during occupied hours as well as scheduled cleaning.</p>\n<h2 id=\"entrances\">Entrances carry a high soil load</h2><p>External soil, water and debris are concentrated around entrances and can spread into lobbies and corridors. Matting, condition checks and responsive floor care can reduce this spread.</p>\n<h2 id=\"touch\">High-touch shared surfaces need routine attention</h2><p>Lift buttons, door hardware, reception counters, meeting-room controls and shared equipment may need more frequent cleaning than low-touch surfaces.</p>\n<h2 id=\"food\">Pantries and shared eating spaces need defined ownership</h2><p>Counters, sinks, appliance exteriors and shared tables can deteriorate quickly if cleaning responsibility is unclear between occupants and service teams.</p>\n<h2 id=\"public\">Public-facing areas influence readiness</h2><p>Reception zones, lobbies, lifts and meeting spaces may require condition-based service because visible defects directly affect the user experience.</p>\n<h2 id=\"back\">Back-of-house areas should not be ignored</h2><p>Cleaner stores, waste rooms, service corridors and loading zones can affect the wider building if they are poorly managed.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Prioritize commercial-building cleaning by occupancy, touch, moisture, soil entry, shared use and operational consequence.</p>"
+}

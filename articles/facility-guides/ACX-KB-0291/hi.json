@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0291",
+  "slug": "priority-hygiene-areas-commercial-buildings",
+  "subcategory": "Offices & Commercial Buildings",
+  "subcategory_slug": "offices-commercial-buildings",
+  "related_article_ids": [
+    "ACX-KB-0290",
+    "ACX-KB-0292",
+    "ACX-KB-0252",
+    "ACX-KB-0259"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0291",
+  "title": "Commercial Buildings में Priority Hygiene Areas कौन-सी हैं?",
+  "excerpt": "Commercial-building hygiene priorities occupancy, touch frequency, washroom use, public access और delayed service के impact से तय होती हैं।",
+  "seo_title": "Commercial Buildings में Priority Hygiene Areas | Alle's ClinX",
+  "meta_description": "Offices और commercial buildings में priority hygiene areas occupancy, touch frequency, washrooms और shared spaces के आधार पर कैसे identify करें, समझें।",
+  "content_html": "<p>Commercial buildings में traffic और hygiene demand areas के बीच काफी अलग होती है। Priority actual use, touch frequency और service risk से set करें।</p>\n<h2 id=\"hi291-washrooms\">Washrooms high-priority service areas हैं</h2><p>Heavy use, moisture और repeated hand contact के कारण occupied hours में service checks की जरूरत हो सकती है।</p>\n<h2 id=\"hi291-entrances\">Entrances high soil load carry करते हैं</h2><p>Outdoor soil, water और debris lobby और corridors में spread हो सकते हैं।</p>\n<h2 id=\"hi291-touch\">High-touch shared surfaces routine attention require करती हैं</h2><p>Lift buttons, door hardware, reception counters और shared controls low-touch surfaces से अधिक frequent cleaning require कर सकते हैं।</p>\n<h2 id=\"hi291-food\">Pantries और eating spaces की ownership clear हो</h2><p>Counters, sinks, appliance exteriors और tables responsibility unclear होने पर जल्दी deteriorate हो सकते हैं।</p>\n<h2 id=\"hi291-public\">Public-facing areas readiness को affect करते हैं</h2><p>Reception, lobbies, lifts और meeting spaces condition-based service require कर सकते हैं।</p>\n<h2 id=\"hi291-back\">Back-of-house areas ignore न करें</h2><p>Cleaner stores, waste rooms और service corridors wider building standard को affect कर सकते हैं।</p>\n<h2 id=\"hi291-takeaway\">मुख्य बात</h2><p>Priority occupancy, touch, moisture, soil entry, shared use और operational consequence से set करें।</p>"
+}

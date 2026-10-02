@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0289",
+  "slug": "industrial-hygiene-floors-washrooms-break-areas",
+  "subcategory": "Industrial Facilities",
+  "subcategory_slug": "industrial",
+  "related_article_ids": [
+    "ACX-KB-0287",
+    "ACX-KB-0288",
+    "ACX-KB-0252",
+    "ACX-KB-0259"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Industrial Hygiene Across Floors, Washrooms and Break Areas",
+  "excerpt": "Industrial hygiene programs should separate production-floor housekeeping from washroom and break-area cleaning while keeping standards, ownership and escalation coordinated across the site.",
+  "seo_title": "Industrial Hygiene: Floors, Washrooms and Break Areas | Alle's ClinX",
+  "meta_description": "Learn how industrial facilities coordinate hygiene across production floors, washrooms and employee break areas using area-specific controls.",
+  "content_html": "<p>Production floors, washrooms and break areas serve different functions and carry different cleaning risks. A single generic checklist can miss important differences in soil, contamination, access and user expectations. Each zone should have suitable procedures within one coordinated facility program.</p>\n<h2 id=\"floors\">Production floors need process-aware housekeeping</h2><p>Cleaning methods should reflect process residues, equipment boundaries, traffic routes and operational hazards. Tasks may need to be coordinated with production or maintenance before access is safe.</p>\n<h2 id=\"washrooms\">Washrooms require frequent service and replenishment</h2><p>Fixtures, touchpoints, floors and consumables should be checked at a frequency matched to workforce size, shift pattern and actual use.</p>\n<h2 id=\"break\">Break areas need food and shared-touch controls</h2><p>Tables, counters, appliance exteriors, handles, sinks and shared surfaces can require routine cleaning throughout operating hours, especially where multiple shifts use the same space.</p>\n<h2 id=\"separation\">Separate tools where cross-use creates risk</h2><p>Equipment used in washrooms or heavily soiled production zones should not be moved into employee eating areas without an approved decontamination or separation system.</p>\n<h2 id=\"waste\">Waste routes should be defined</h2><p>Industrial waste, restroom waste and break-area waste may follow different disposal or handling routes. Cleaning staff should know which system applies to each stream.</p>\n<h2 id=\"inspection\">Inspect each zone against appropriate criteria</h2><p>Production floors may be judged on soil, spills and access hazards, while washrooms and break areas also need checks for hygiene condition, replenishment and user readiness.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use one site-wide hygiene program, but apply area-specific procedures, tools, frequencies and inspection criteria to floors, washrooms and break areas.</p>"
+}

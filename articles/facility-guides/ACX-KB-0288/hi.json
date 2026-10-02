@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0288",
+  "slug": "soil-load-industrial-cleaning",
+  "subcategory": "Industrial Facilities",
+  "subcategory_slug": "industrial",
+  "related_article_ids": [
+    "ACX-KB-0287",
+    "ACX-KB-0252",
+    "ACX-KB-0268",
+    "ACX-KB-0270"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0288",
+  "title": "Soil Load Industrial Cleaning को कैसे Affect करता है?",
+  "excerpt": "Industrial cleaning method, frequency और resources soil की amount, type और accumulation rate के अनुसार set होने चाहिए।",
+  "seo_title": "Soil Load Industrial Cleaning को कैसे Affect करता है? | Alle's ClinX",
+  "meta_description": "Soil type, quantity और accumulation rate industrial cleaning frequency, methods और resource planning को कैसे affect करते हैं, समझें।",
+  "content_html": "<p>Soil load वह amount और type है जो किसी area में समय के साथ accumulate होती है। Industrial facilities में production process, traffic और maintenance के कारण soil load zones के बीच काफी अलग हो सकती है।</p>\n<h2 id=\"hi288-type\">Soil type cleaning method affect करता है</h2><p>Dust, oil, grease, metal fines, powders और process residues same method से effectively remove नहीं होते।</p>\n<h2 id=\"hi288-rate\">Accumulation rate frequency affect करती है</h2><p>जो areas जल्दी re-soil होते हैं उन्हें more frequent या condition-based cleaning की जरूरत हो सकती है।</p>\n<h2 id=\"hi288-quantity\">Heavy soil task design बदल सकता है</h2><p>High soil load pre-removal, mechanical recovery, multiple passes या additional time require कर सकता है।</p>\n<h2 id=\"hi288-safety\">Soil safety hazards create कर सकता है</h2><p>Dust, liquids और residues slip, visibility या process risk बढ़ा सकते हैं।</p>\n<h2 id=\"hi288-source-control\">Source control cleaning demand कम करता है</h2><p>Containment, extraction, drip control और maintenance soil को work area तक पहुँचने से पहले reduce कर सकते हैं।</p>\n<h2 id=\"hi288-measure\">Recurring soil patterns measure करें</h2><p>Inspection findings, cleaning time और repeat-task data high-demand zones identify करने में मदद करते हैं।</p>\n<h2 id=\"hi288-takeaway\">मुख्य बात</h2><p>Industrial cleaning को actual soil type, quantity और accumulation rate के अनुसार design करें।</p>\n<h2 id=\"hi288-references\">संदर्भ</h2><ol><li><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22\">OSHA — Walking-Working Surfaces</a>.</li></ol>"
+}
