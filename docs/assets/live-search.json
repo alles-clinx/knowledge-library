@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 622,
+  "record_count": 632,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6844,6 +6844,116 @@
       "subcategory_slug": "choosing-alles-clinx-products",
       "excerpt": "Same area के लिए suitable दिखने वाले products task, chemistry, surface compatibility, concentration, contact conditions, documentation और operating cost में अलग हो सकते हैं।",
       "url": "library/alles-clinx/choosing-alles-clinx-products/compare-alles-clinx-products-similar-applications/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0312",
+      "locale": "en",
+      "title": "How Alle's ClinX Ordering and Procurement Support Works",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Ordering & Procurement",
+      "subcategory_slug": "ordering-procurement",
+      "excerpt": "Alle's ClinX supports both direct website ordering and formal institutional purchase orders, with procurement support for product scope, quantities, documentation, quotations and repeat supply.",
+      "url": "library/alles-clinx/ordering-procurement/how-alles-clinx-ordering-and-procurement-support-works/"
+    },
+    {
+      "article_id": "ACX-KB-0312",
+      "locale": "hi-IN",
+      "title": "Alle's ClinX Ordering और Procurement Support कैसे काम करता है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Ordering & Procurement",
+      "subcategory_slug": "ordering-procurement",
+      "excerpt": "Alle's ClinX direct website ordering और formal institutional purchase orders दोनों support करता है, साथ ही quotations, documents, quantities और repeat supply के लिए procurement help देता है।",
+      "url": "library/alles-clinx/ordering-procurement/how-alles-clinx-ordering-and-procurement-support-works/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0313",
+      "locale": "en",
+      "title": "Purchase Order Review: Information That Speeds Approval",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Ordering & Procurement",
+      "subcategory_slug": "ordering-procurement",
+      "excerpt": "A clear purchase order should identify the buyer, products, quantities, delivery location and commercial reference information so avoidable clarification does not delay processing.",
+      "url": "library/alles-clinx/ordering-procurement/purchase-order-review-information/"
+    },
+    {
+      "article_id": "ACX-KB-0313",
+      "locale": "hi-IN",
+      "title": "Purchase Order Review: कौन-सी Information Approval तेज करती है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Ordering & Procurement",
+      "subcategory_slug": "ordering-procurement",
+      "excerpt": "Clear PO buyer, exact products, quantities, delivery location और commercial references identify करता है ताकि unnecessary clarification processing delay न करे।",
+      "url": "library/alles-clinx/ordering-procurement/purchase-order-review-information/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0314",
+      "locale": "en",
+      "title": "How Alle's ClinX Delivery & Returns Support Works",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Delivery & Returns",
+      "subcategory_slug": "delivery-returns",
+      "excerpt": "Alle's ClinX delivery and returns support separates order fulfilment issues, customer-care questions and container recovery so each request can be handled through the appropriate route.",
+      "url": "library/alles-clinx/delivery-returns/alles-clinx-delivery-returns-support/"
+    },
+    {
+      "article_id": "ACX-KB-0314",
+      "locale": "hi-IN",
+      "title": "Alle's ClinX Delivery & Returns Support कैसे काम करता है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Delivery & Returns",
+      "subcategory_slug": "delivery-returns",
+      "excerpt": "Alle's ClinX delivery और returns support order fulfilment issues, customer-care questions और container recovery को अलग routes से handle करता है।",
+      "url": "library/alles-clinx/delivery-returns/alles-clinx-delivery-returns-support/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0315",
+      "locale": "en",
+      "title": "How Alle's ClinX Container Recovery Works",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Container Recovery",
+      "subcategory_slug": "container-recovery",
+      "excerpt": "Alle's ClinX container recovery is normally linked to the next delivery: empty cans are collected together on site and picked up when the next order arrives, with care support available when an earlier pickup is needed.",
+      "url": "library/alles-clinx/container-recovery/alles-clinx-container-recovery/"
+    },
+    {
+      "article_id": "ACX-KB-0315",
+      "locale": "hi-IN",
+      "title": "Alle's ClinX Container Recovery कैसे काम करता है?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Container Recovery",
+      "subcategory_slug": "container-recovery",
+      "excerpt": "Alle's ClinX container recovery normally next delivery से linked है: empty cans site पर collect होते हैं और अगली delivery के समय pick up किए जाते हैं।",
+      "url": "library/alles-clinx/container-recovery/alles-clinx-container-recovery/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0316",
+      "locale": "en",
+      "title": "Which Alle's ClinX Support Channel Should You Use?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Customer Support",
+      "subcategory_slug": "customer-support",
+      "excerpt": "Use Nova for product-document questions, Metricon for calculations, procurement for ordering and commercial matters, and care for post-order support, document requests and general customer assistance.",
+      "url": "library/alles-clinx/customer-support/which-alles-clinx-support-channel-should-you-use/"
+    },
+    {
+      "article_id": "ACX-KB-0316",
+      "locale": "hi-IN",
+      "title": "कौन-सा Alle's ClinX Support Channel Use करें?",
+      "category": "Alle's ClinX Tools & Support",
+      "category_slug": "alles-clinx",
+      "subcategory": "Customer Support",
+      "subcategory_slug": "customer-support",
+      "excerpt": "Product-document questions के लिए Nova, calculations के लिए Metricon, ordering/commercial matters के लिए procurement और post-order/general support के लिए care use करें।",
+      "url": "library/alles-clinx/customer-support/which-alles-clinx-support-channel-should-you-use/hi.html"
     }
   ]
 }
