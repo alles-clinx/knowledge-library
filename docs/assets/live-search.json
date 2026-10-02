@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generated_for": "GitHub Pages bilingual live search",
-  "record_count": 584,
+  "record_count": 594,
   "records": [
     {
       "article_id": "ACX-KB-0001",
@@ -6426,6 +6426,116 @@
       "subcategory_slug": "offices-commercial-buildings",
       "excerpt": "Office-cleaning schedule में daytime response high-use areas के लिए और after-hours work noisy या disruptive tasks के लिए combine करना अक्सर effective होता है।",
       "url": "library/facility-guides/offices-commercial-buildings/how-to-balance-day-cleaning-and-after-hours-cleaning/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0293",
+      "locale": "en",
+      "title": "How Food-Service Hygiene Programs Are Structured",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Food-Service Facilities",
+      "subcategory_slug": "food-service",
+      "excerpt": "Food-service hygiene programs coordinate food-contact sanitation, warewashing, floor and drain care, waste control, staff hygiene and documented cleaning responsibilities around the food-safety system.",
+      "url": "library/facility-guides/food-service/food-service-hygiene-program-structure/"
+    },
+    {
+      "article_id": "ACX-KB-0293",
+      "locale": "hi-IN",
+      "title": "Food-Service Hygiene Programs कैसे Structured होते हैं?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Food-Service Facilities",
+      "subcategory_slug": "food-service",
+      "excerpt": "Food-service hygiene programs food-contact sanitation, warewashing, floor और drain care, waste control, staff hygiene और cleaning responsibilities को food-safety system के साथ coordinate करते हैं।",
+      "url": "library/facility-guides/food-service/food-service-hygiene-program-structure/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0294",
+      "locale": "en",
+      "title": "Warewashing, Surface Hygiene and Floor Care",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Food-Service Facilities",
+      "subcategory_slug": "food-service",
+      "excerpt": "Warewashing, food-contact surface hygiene and floor care need separate methods because the required outcome, contamination risk and approved chemicals differ between these tasks.",
+      "url": "library/facility-guides/food-service/warewashing-surface-hygiene-floor-care/"
+    },
+    {
+      "article_id": "ACX-KB-0294",
+      "locale": "hi-IN",
+      "title": "Warewashing, Surface Hygiene और Floor Care",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Food-Service Facilities",
+      "subcategory_slug": "food-service",
+      "excerpt": "Warewashing, food-contact surface hygiene और floor care के methods अलग होने चाहिए क्योंकि इनके outcomes, risks और approved chemicals अलग होते हैं।",
+      "url": "library/facility-guides/food-service/warewashing-surface-hygiene-floor-care/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0295",
+      "locale": "en",
+      "title": "Food-Service Cleaning: Clear Area Responsibilities",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Food-Service Facilities",
+      "subcategory_slug": "food-service",
+      "excerpt": "Clear cleaning ownership prevents food-service tasks from being missed between kitchen staff, stewards, housekeeping and specialist cleaners.",
+      "url": "library/facility-guides/food-service/food-service-cleaning-area-responsibilities/"
+    },
+    {
+      "article_id": "ACX-KB-0295",
+      "locale": "hi-IN",
+      "title": "Food-Service Cleaning में Area Responsibilities Clear क्यों हों?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Food-Service Facilities",
+      "subcategory_slug": "food-service",
+      "excerpt": "Clear cleaning ownership kitchen staff, stewards, housekeeping और specialist cleaners के बीच tasks miss होने से रोकती है।",
+      "url": "library/facility-guides/food-service/food-service-cleaning-area-responsibilities/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0296",
+      "locale": "en",
+      "title": "How Retail Cleaning Programs Are Structured",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Retail Facilities",
+      "subcategory_slug": "retail",
+      "excerpt": "Retail cleaning programs combine opening-readiness work, customer-area maintenance, washroom servicing, spill response, back-of-house cleaning and periodic floor care around store traffic and trading hours.",
+      "url": "library/facility-guides/retail/how-retail-cleaning-programs-are-structured/"
+    },
+    {
+      "article_id": "ACX-KB-0296",
+      "locale": "hi-IN",
+      "title": "Retail Cleaning Programs कैसे Structured होते हैं?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Retail Facilities",
+      "subcategory_slug": "retail",
+      "excerpt": "Retail cleaning programs opening readiness, customer-area maintenance, washroom service, spill response, back-of-house cleaning और periodic floor care को trading hours के around organize करते हैं।",
+      "url": "library/facility-guides/retail/how-retail-cleaning-programs-are-structured/hi.html"
+    },
+    {
+      "article_id": "ACX-KB-0297",
+      "locale": "en",
+      "title": "How Customer Traffic Changes Retail Cleaning Priorities",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Retail Facilities",
+      "subcategory_slug": "retail",
+      "excerpt": "Retail cleaning priorities should change with customer traffic because entrances, checkout zones, washrooms, fitting rooms and shared touchpoints can deteriorate much faster during peak periods.",
+      "url": "library/facility-guides/retail/customer-traffic-retail-cleaning-priorities/"
+    },
+    {
+      "article_id": "ACX-KB-0297",
+      "locale": "hi-IN",
+      "title": "Customer Traffic Retail Cleaning Priorities को कैसे बदलता है?",
+      "category": "Facility & Sector Guides",
+      "category_slug": "facility-guides",
+      "subcategory": "Retail Facilities",
+      "subcategory_slug": "retail",
+      "excerpt": "Retail cleaning priorities customer traffic के साथ बदलनी चाहिए क्योंकि entrances, checkout zones, washrooms, fitting rooms और touchpoints peak periods में जल्दी deteriorate हो सकते हैं।",
+      "url": "library/facility-guides/retail/customer-traffic-retail-cleaning-priorities/hi.html"
     }
   ]
 }
