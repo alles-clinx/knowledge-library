@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0287",
+  "slug": "industrial-cleaning-vs-commercial-housekeeping",
+  "subcategory": "Industrial Facilities",
+  "subcategory_slug": "industrial",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0252",
+    "ACX-KB-0253",
+    "ACX-KB-0260"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Industrial Cleaning vs Commercial Housekeeping",
+  "excerpt": "Industrial cleaning often involves process residues, production equipment and task-specific hazards, while commercial housekeeping generally focuses on routine occupied-building cleanliness and presentation.",
+  "seo_title": "Industrial Cleaning vs Commercial Housekeeping | Alle's ClinX",
+  "meta_description": "Understand how industrial cleaning differs from commercial housekeeping in hazards, equipment, residues, access controls, procedures and competency.",
+  "content_html": "<p>Industrial cleaning and commercial housekeeping both aim to maintain clean, orderly facilities, but the work context can be very different. Industrial environments may include production equipment, process residues, restricted areas and hazards that require task-specific controls beyond ordinary building housekeeping.</p>\n<h2 id=\"scope\">Commercial housekeeping focuses on occupied-building routines</h2><p>Typical work includes floors, washrooms, offices, common areas, waste removal and routine surface cleaning using standardized housekeeping procedures.</p>\n<h2 id=\"industrial\">Industrial cleaning may interact with production processes</h2><p>Tasks can involve machinery surroundings, process areas, production soils or specialized spaces where cleaning must be coordinated with operations and site safety procedures.</p>\n<h2 id=\"hazards\">Hazard assessment is more prominent in industrial work</h2><p>Before non-routine industrial tasks begin, facilities may need to assess chemical, mechanical, electrical, slip, access or process-related hazards and determine the applicable controls.</p>\n<h2 id=\"equipment\">Tools and equipment may be more specialized</h2><p>Industrial tasks can require machinery, extraction systems or other equipment not commonly used in office or hospitality housekeeping. Staff should be trained and authorized for the equipment and task assigned.</p>\n<h2 id=\"boundaries\">Cleaning responsibility must respect operational boundaries</h2><p>Cleaning staff should know which equipment, guards, panels or process areas they are permitted to access and when specialist maintenance or production personnel must take over.</p>\n<h2 id=\"housekeeping\">Basic housekeeping still matters</h2><p>Industrial facilities still need clean, orderly walking-working surfaces, controlled spills, clear access routes and prompt correction of hazards.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use commercial housekeeping methods for routine building care, but treat industrial cleaning as a task- and hazard-specific activity whenever work interacts with production processes or equipment.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22\">OSHA — 29 CFR 1910.22 Walking-Working Surfaces</a>.</li><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}

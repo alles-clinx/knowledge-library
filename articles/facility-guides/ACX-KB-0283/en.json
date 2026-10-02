@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0283",
+  "slug": "hotel-hygiene-housekeeping-laundry-kitchens",
+  "subcategory": "Hotels & Hospitality",
+  "subcategory_slug": "hospitality",
+  "related_article_ids": [
+    "ACX-KB-0281",
+    "ACX-KB-0282",
+    "ACX-KB-0273",
+    "ACX-KB-0231"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Hotel Hygiene Across Housekeeping, Laundry and Kitchens",
+  "excerpt": "Hotel hygiene depends on coordinated controls across guest rooms, linen handling, public areas and food-service operations rather than treating housekeeping, laundry and kitchens as isolated functions.",
+  "seo_title": "Hotel Hygiene Across Housekeeping, Laundry and Kitchens | Alle's ClinX",
+  "meta_description": "Learn how hotels coordinate hygiene across housekeeping, laundry, public areas and kitchens while keeping responsibilities and controls distinct.",
+  "content_html": "<p>Hotel hygiene is a cross-functional system. Guest-room housekeeping, linen handling, public-area cleaning and food-service sanitation have different risks and procedures, but failures in one area can affect the wider guest experience and operational standard. The program works best when responsibilities are clearly separated and coordinated.</p>\n<h2 id=\"housekeeping\">Housekeeping controls guest rooms and shared spaces</h2><p>Room turnover, occupied-room service, public-area cleaning and periodic deep cleaning should follow defined schedules, task methods and inspection standards.</p>\n<h2 id=\"laundry\">Laundry needs clean and soiled flow control</h2><p>Used linen should be collected, transported and handled in a way that limits unnecessary contact and prevents clean linen from being mixed with soiled items. Storage conditions and handoff responsibilities should be defined.</p>\n<h2 id=\"kitchens\">Kitchens operate under food-safety controls</h2><p>Food-contact surfaces, utensils, equipment and food-preparation areas require cleaning and sanitizing practices appropriate to food-service operations. Housekeeping chemicals or tools should not be introduced into kitchen processes without approval.</p>\n<h2 id=\"separation\">Keep tools and responsibilities appropriately separated</h2><p>Color coding, dedicated equipment, storage zones or other controls may help prevent tools used in toilets, guest rooms or other areas from being used in food-service spaces.</p>\n<h2 id=\"handoffs\">Operational handoffs need clarity</h2><p>Housekeeping, laundry, engineering and food-service teams should know who owns spill response, waste removal, pest observations, equipment defects and cleaning of shared boundary areas.</p>\n<h2 id=\"records\">Records support consistency across departments</h2><p>Schedules, room-inspection records, linen-process checks, kitchen sanitation records and incident logs can help managers identify recurring gaps and coordinate corrective action.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Hotel hygiene is strongest when housekeeping, laundry and kitchen controls are individually defined but managed as one coordinated facility system.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

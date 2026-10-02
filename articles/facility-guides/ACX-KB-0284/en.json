@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0284",
+  "slug": "how-school-cleaning-programs-are-structured",
+  "subcategory": "Schools & Education",
+  "subcategory_slug": "education",
+  "related_article_ids": [
+    "ACX-KB-0285",
+    "ACX-KB-0286",
+    "ACX-KB-0250",
+    "ACX-KB-0252"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How School Cleaning Programs Are Structured",
+  "excerpt": "School cleaning programs combine classroom and washroom routines, high-touch cleaning, food-service controls, event response, periodic work and custodial quality checks around the academic timetable.",
+  "seo_title": "How School Cleaning Programs Are Structured | Alle's ClinX",
+  "meta_description": "Learn how school cleaning programs organize classrooms, washrooms, high-touch surfaces, food-service areas, periodic tasks and quality checks.",
+  "content_html": "<p>School cleaning programs must fit around teaching, student movement, meals, activities and after-hours access. A structured program separates routine daily work from higher-frequency touchpoint cleaning, periodic tasks and event-triggered response while assigning clear ownership to custodial staff.</p>\n<h2 id=\"zones\">Organize work by functional zone</h2><p>Classrooms, washrooms, corridors, offices, sports spaces, laboratories, food-service areas and outdoor-access points have different soil and hygiene patterns. Schedules should reflect those differences.</p>\n<h2 id=\"touchpoints\">High-touch items may need more frequent attention</h2><p>Desks, counters, doorknobs, faucet handles, shared devices and hands-on learning items can require routine cleaning based on use and local policy.</p>\n<h2 id=\"timing\">Match cleaning windows to the school day</h2><p>Some work is best completed before opening or after students leave, while washrooms, dining areas and heavily used common spaces may require checks or service during the day.</p>\n<h2 id=\"events\">Include event-triggered response</h2><p>Spills, visible soil, body-fluid contamination or unusual facility use should trigger defined response procedures rather than waiting for the next routine schedule.</p>\n<h2 id=\"periodic\">Separate periodic work from daily routines</h2><p>Floor refinishing, high-level dusting, detailed fixture cleaning and other lower-frequency tasks should be planned so they do not compete with essential daily work.</p>\n<h2 id=\"quality\">Use supervision and records to verify delivery</h2><p>Task schedules, completion records, inspections and feedback from school staff can help identify missed work and recurring problem areas.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Structure school cleaning by area, risk, touch frequency, operating timetable and event response rather than relying on one universal daily checklist.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/children-and-school-preparedness/php/interventions/everyday-actions-for-schools.html\">CDC — Everyday Actions for Schools</a>.</li><li><a href=\"https://www.epa.gov/iaq-schools\">U.S. EPA — Indoor Air Quality Tools for Schools</a>.</li></ol>"
+}

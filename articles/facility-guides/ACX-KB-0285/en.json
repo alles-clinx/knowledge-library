@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0285",
+  "slug": "priority-hygiene-areas-education-facilities",
+  "subcategory": "Schools & Education",
+  "subcategory_slug": "education",
+  "related_article_ids": [
+    "ACX-KB-0284",
+    "ACX-KB-0286",
+    "ACX-KB-0252",
+    "ACX-KB-0259"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Priority Hygiene Areas in Education Facilities",
+  "excerpt": "Priority hygiene areas in education facilities are typically determined by touch frequency, student density, moisture, food activity, shared equipment and the consequences of delayed cleaning.",
+  "seo_title": "Priority Hygiene Areas in Education Facilities | Alle's ClinX",
+  "meta_description": "Learn how schools identify priority hygiene areas using touch frequency, washroom use, food-service activity, shared equipment and occupancy.",
+  "content_html": "<p>Education facilities contain many different environments, from classrooms and washrooms to laboratories, sports areas and dining spaces. Cleaning priority should be based on use and risk rather than treating every room as identical.</p>\n<h2 id=\"washrooms\">Washrooms are high-priority service areas</h2><p>Frequent use, moisture and repeated hand contact mean washrooms usually require defined checks, replenishment and cleaning throughout the operating day.</p>\n<h2 id=\"touch\">High-touch surfaces deserve routine attention</h2><p>Door hardware, faucet handles, shared keyboards, desks, counters, switches and similar items may need more frequent cleaning than low-touch architectural surfaces.</p>\n<h2 id=\"food\">Food-service and eating areas require separate controls</h2><p>Dining spaces and kitchens should have cleaning and, where required, sanitizing procedures appropriate to food-service use and local requirements.</p>\n<h2 id=\"shared\">Shared learning and activity equipment needs ownership</h2><p>Sports equipment, laboratory work areas, art materials, shared devices and hands-on learning tools can be missed when responsibility is unclear.</p>\n<h2 id=\"entry\">Entrances and high-traffic routes influence soil load</h2><p>Entrances, corridors and stairways can bring substantial outdoor soil into the facility and may need condition-based service in addition to routine schedules.</p>\n<h2 id=\"special\">Special-use spaces need specific procedures</h2><p>Health rooms, laboratories, workshops and early-learning spaces may have task-specific hygiene or safety requirements that differ from ordinary classrooms.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Set priority by touch, occupancy, moisture, food use, shared equipment and local risk—not simply by room size.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/children-and-school-preparedness/php/interventions/everyday-actions-for-schools.html\">CDC — Everyday Actions for Schools</a>.</li><li><a href=\"https://www.epa.gov/schools/using-chemicals-and-cleaning-supplies-school\">U.S. EPA — Using Chemicals and Cleaning Supplies at School</a>.</li></ol>"
+}

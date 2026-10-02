@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0287",
+  "slug": "industrial-cleaning-vs-commercial-housekeeping",
+  "subcategory": "Industrial Facilities",
+  "subcategory_slug": "industrial",
+  "related_article_ids": [
+    "ACX-KB-0250",
+    "ACX-KB-0252",
+    "ACX-KB-0253",
+    "ACX-KB-0260"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0287",
+  "title": "Industrial Cleaning और Commercial Housekeeping में क्या अंतर है?",
+  "excerpt": "Industrial cleaning process residues, production equipment और task-specific hazards involve कर सकती है, जबकि commercial housekeeping routine occupied-building cleanliness पर focus करती है।",
+  "seo_title": "Industrial Cleaning vs Commercial Housekeeping | Alle's ClinX",
+  "meta_description": "Industrial cleaning और commercial housekeeping में hazards, equipment, residues, access controls और competency का difference समझें।",
+  "content_html": "<p>Industrial cleaning और commercial housekeeping दोनों clean और orderly facility support करते हैं, लेकिन work context काफी अलग हो सकता है। Industrial environment में production equipment, process residues, restricted areas और task-specific hazards हो सकते हैं।</p>\n<h2 id=\"hi287-scope\">Commercial housekeeping occupied-building routines पर focus करती है</h2><p>Typical work floors, washrooms, offices, common areas, waste removal और routine surface cleaning include करता है।</p>\n<h2 id=\"hi287-industrial\">Industrial cleaning production processes के साथ interact कर सकती है</h2><p>Tasks machinery surroundings, process areas या specialized soils involve कर सकते हैं और operations के साथ coordination require कर सकते हैं।</p>\n<h2 id=\"hi287-hazards\">Industrial work में hazard assessment अधिक important है</h2><p>Non-routine tasks से पहले chemical, mechanical, electrical, slip, access और process-related hazards assess करने पड़ सकते हैं।</p>\n<h2 id=\"hi287-equipment\">Tools और equipment अधिक specialized हो सकते हैं</h2><p>Industrial tasks में specialized equipment use हो सकता है; assigned staff appropriately trained और authorized हों।</p>\n<h2 id=\"hi287-boundaries\">Operational boundaries clear हों</h2><p>Cleaning staff को पता होना चाहिए कि कौन-से equipment या process areas उनकी responsibility में हैं और कब specialist team required है।</p>\n<h2 id=\"hi287-housekeeping\">Basic housekeeping फिर भी important है</h2><p>Walking-working surfaces clean और orderly रखें, spills control करें और access routes clear रखें।</p>\n<h2 id=\"hi287-takeaway\">मुख्य बात</h2><p>Routine building care के लिए commercial housekeeping methods use करें, लेकिन production processes या equipment से जुड़े work को task- और hazard-specific industrial cleaning मानें।</p>\n<h2 id=\"hi287-references\">संदर्भ</h2><ol><li><a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22\">OSHA — 29 CFR 1910.22 Walking-Working Surfaces</a>.</li><li><a href=\"https://www.osha.gov/hazcom\">OSHA — Hazard Communication</a>.</li></ol>"
+}

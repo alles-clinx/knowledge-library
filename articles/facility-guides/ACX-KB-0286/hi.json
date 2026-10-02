@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0286",
+  "slug": "campus-hygiene-classrooms-washrooms-food-service",
+  "subcategory": "Schools & Education",
+  "subcategory_slug": "education",
+  "related_article_ids": [
+    "ACX-KB-0284",
+    "ACX-KB-0285",
+    "ACX-KB-0231",
+    "ACX-KB-0250"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0286",
+  "title": "Campus Hygiene: Classrooms, Washrooms और Food-Service Areas",
+  "excerpt": "Campus hygiene तब बेहतर काम करती है जब classrooms, washrooms और food-service areas के separate task standards और frequencies हों लेकिन management coordinated हो।",
+  "seo_title": "Campus Hygiene: Classrooms, Washrooms और Food Service | Alle's ClinX",
+  "meta_description": "Schools में classrooms, washrooms और food-service areas की cleaning को अलग controls के साथ कैसे coordinate करें, समझें।",
+  "content_html": "<p>Classrooms, washrooms और food-service areas same campus का हिस्सा हैं, लेकिन इनके risks identical नहीं हैं। हर area के लिए suitable products, tools, frequencies और ownership defined होनी चाहिए।</p>\n<h2 id=\"hi286-classrooms\">Classrooms routine soil और shared touchpoints पर focus करते हैं</h2><p>Floors, desks, counters, door hardware और shared learning equipment occupancy और use के अनुसार clean किए जा सकते हैं।</p>\n<h2 id=\"hi286-washrooms\">Washrooms में moisture, replenishment और contamination control जरूरी है</h2><p>Fixtures, touchpoints, floors और consumable replenishment schedules में include हों। Washroom tools का inappropriate cross-use avoid करें।</p>\n<h2 id=\"hi286-food\">Food-service areas food-safety procedures follow करती हैं</h2><p>Food-contact surfaces और utensils applicable cleaning और sanitizing requirements follow करें।</p>\n<h2 id=\"hi286-separation\">जहाँ risk हो tools separate रखें</h2><p>Dedicated equipment, clear labels, storage zones या color coding tool mixing कम कर सकते हैं।</p>\n<h2 id=\"hi286-timing\">Schedules campus operations के around coordinate करें</h2><p>Class changes, meal periods और restroom peaks task timing affect करते हैं।</p>\n<h2 id=\"hi286-supervision\">Different procedures को one management system oversee कर सकता है</h2><p>Area-specific SOPs, common training, inspections और escalation routes overall control maintain करते हैं।</p>\n<h2 id=\"hi286-takeaway\">मुख्य बात</h2><p>Campus hygiene coordinated रखें, लेकिन task methods और controls हर area के function और risk के अनुसार रखें।</p>\n<h2 id=\"hi286-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/children-and-school-preparedness/php/interventions/everyday-actions-for-schools.html\">CDC — Everyday Actions for Schools</a>.</li><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

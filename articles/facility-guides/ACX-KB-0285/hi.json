@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0285",
+  "slug": "priority-hygiene-areas-education-facilities",
+  "subcategory": "Schools & Education",
+  "subcategory_slug": "education",
+  "related_article_ids": [
+    "ACX-KB-0284",
+    "ACX-KB-0286",
+    "ACX-KB-0252",
+    "ACX-KB-0259"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0285",
+  "title": "Education Facilities में Priority Hygiene Areas कौन-सी हैं?",
+  "excerpt": "Education facilities में priority hygiene areas touch frequency, student density, moisture, food activity, shared equipment और delayed cleaning के impact से identify होती हैं।",
+  "seo_title": "Education Facilities में Priority Hygiene Areas | Alle's ClinX",
+  "meta_description": "Schools में priority hygiene areas touch frequency, washroom use, food-service activity और shared equipment के आधार पर कैसे identify करें, समझें।",
+  "content_html": "<p>Education facilities में classrooms, washrooms, laboratories, sports areas और dining spaces जैसे अलग environments होते हैं। Cleaning priority use और risk के आधार पर set होनी चाहिए।</p>\n<h2 id=\"hi285-washrooms\">Washrooms high-priority service areas हैं</h2><p>Frequent use, moisture और repeated hand contact के कारण washrooms को defined checks, replenishment और cleaning की जरूरत होती है।</p>\n<h2 id=\"hi285-touch\">High-touch surfaces routine attention require करती हैं</h2><p>Door hardware, faucet handles, shared keyboards, desks, counters और switches low-touch surfaces से ज्यादा frequent cleaning require कर सकते हैं।</p>\n<h2 id=\"hi285-food\">Food-service और eating areas के controls अलग हों</h2><p>Dining spaces और kitchens में food-service use के appropriate cleaning और sanitizing procedures हों।</p>\n<h2 id=\"hi285-shared\">Shared learning equipment की ownership clear हो</h2><p>Sports equipment, laboratory areas, art materials और shared devices responsibility unclear होने पर miss हो सकते हैं।</p>\n<h2 id=\"hi285-entry\">Entrances और high-traffic routes soil load बढ़ाते हैं</h2><p>Entrances, corridors और stairways outdoor soil facility में ला सकते हैं और condition-based service require कर सकते हैं।</p>\n<h2 id=\"hi285-special\">Special-use spaces specific procedures require कर सकते हैं</h2><p>Health rooms, labs, workshops और early-learning spaces के hygiene requirements ordinary classrooms से अलग हो सकते हैं।</p>\n<h2 id=\"hi285-takeaway\">मुख्य बात</h2><p>Priority touch, occupancy, moisture, food use और shared equipment से set करें, केवल room size से नहीं।</p>\n<h2 id=\"hi285-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/children-and-school-preparedness/php/interventions/everyday-actions-for-schools.html\">CDC — Everyday Actions for Schools</a>.</li><li><a href=\"https://www.epa.gov/schools/using-chemicals-and-cleaning-supplies-school\">U.S. EPA — Using Chemicals and Cleaning Supplies at School</a>.</li></ol>"
+}

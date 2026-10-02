@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0283",
+  "slug": "hotel-hygiene-housekeeping-laundry-kitchens",
+  "subcategory": "Hotels & Hospitality",
+  "subcategory_slug": "hospitality",
+  "related_article_ids": [
+    "ACX-KB-0281",
+    "ACX-KB-0282",
+    "ACX-KB-0273",
+    "ACX-KB-0231"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0283",
+  "title": "Hotel Hygiene में Housekeeping, Laundry और Kitchens को कैसे Coordinate करें?",
+  "excerpt": "Hotel hygiene guest rooms, linen handling, public areas और food-service operations के coordinated controls पर depend करती है।",
+  "seo_title": "Hotel Hygiene: Housekeeping, Laundry और Kitchens | Alle's ClinX",
+  "meta_description": "Hotel hygiene में housekeeping, laundry, public areas और kitchens को clear responsibilities के साथ कैसे coordinate करें, समझें।",
+  "content_html": "<p>Hotel hygiene एक cross-functional system है। Guest-room housekeeping, linen handling, public-area cleaning और food-service sanitation के risks अलग हैं, लेकिन एक area की failure wider guest experience और facility standard को affect कर सकती है।</p>\n<h2 id=\"hi283-housekeeping\">Housekeeping guest rooms और shared spaces control करती है</h2><p>Room turnover, occupied-room service, public-area cleaning और periodic deep cleaning defined schedules और inspection standards follow करें।</p>\n<h2 id=\"hi283-laundry\">Laundry में clean और soiled flow control जरूरी है</h2><p>Used linen collection, transport और handling ऐसी हो कि unnecessary contact कम हो और clean linen soiled items से अलग रहे।</p>\n<h2 id=\"hi283-kitchens\">Kitchens food-safety controls के under operate करती हैं</h2><p>Food-contact surfaces, utensils और equipment के लिए food-service operations के appropriate cleaning और sanitizing practices apply हों।</p>\n<h2 id=\"hi283-separation\">Tools और responsibilities appropriately separate रखें</h2><p>Dedicated equipment, storage zones या color coding cross-use का risk कम कर सकते हैं।</p>\n<h2 id=\"hi283-handoffs\">Operational handoffs clear हों</h2><p>Spill response, waste removal, pest observations और shared boundary areas की ownership teams के बीच define हो।</p>\n<h2 id=\"hi283-records\">Records departments के बीच consistency support करते हैं</h2><p>Schedules, room inspections, linen checks और kitchen sanitation records recurring gaps identify करने में मदद करते हैं।</p>\n<h2 id=\"hi283-takeaway\">मुख्य बात</h2><p>Hotel hygiene तब strong होती है जब housekeeping, laundry और kitchen controls अलग-अलग clear हों लेकिन facility level पर coordinated रहें।</p>\n<h2 id=\"hi283-references\">संदर्भ</h2><ol><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}

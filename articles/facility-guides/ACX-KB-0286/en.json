@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0286",
+  "slug": "campus-hygiene-classrooms-washrooms-food-service",
+  "subcategory": "Schools & Education",
+  "subcategory_slug": "education",
+  "related_article_ids": [
+    "ACX-KB-0284",
+    "ACX-KB-0285",
+    "ACX-KB-0231",
+    "ACX-KB-0250"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Campus Hygiene: Classrooms, Washrooms and Food-Service Areas",
+  "excerpt": "Campus hygiene works best when classrooms, washrooms and food-service areas have separate task standards, frequencies and ownership while remaining part of one coordinated cleaning program.",
+  "seo_title": "Campus Hygiene: Classrooms, Washrooms and Food-Service Areas | Alle's ClinX",
+  "meta_description": "Understand how schools coordinate cleaning across classrooms, washrooms and food-service areas without using one method for every space.",
+  "content_html": "<p>Classrooms, washrooms and food-service areas are all part of the same campus, but they should not be cleaned as if they have identical risks. Each area needs suitable products, tools, frequencies and task ownership within one coordinated facility program.</p>\n<h2 id=\"classrooms\">Classrooms focus on routine soil and shared touchpoints</h2><p>Cleaning may include floors, desks, counters, door hardware and shared learning equipment, with frequency adjusted for occupancy and use.</p>\n<h2 id=\"washrooms\">Washrooms require moisture, replenishment and contamination control</h2><p>Cleaning schedules should include fixtures, touchpoints, floors, consumable replenishment and condition checks. Tools used in washrooms should be managed to avoid inappropriate cross-use elsewhere.</p>\n<h2 id=\"food\">Food-service areas require food-safety procedures</h2><p>Food-contact surfaces and utensils should follow applicable cleaning and sanitizing requirements. Chemicals, tools and storage practices should be controlled for the food-service environment.</p>\n<h2 id=\"separation\">Separate tools where cross-use creates risk</h2><p>Dedicated equipment, clear labeling, storage zones or color coding can help keep washroom tools and food-service tools from being mixed.</p>\n<h2 id=\"timing\">Coordinate schedules around campus operations</h2><p>Class changes, meal periods and restroom peaks affect when tasks can be performed safely and effectively without disrupting school activities.</p>\n<h2 id=\"supervision\">One management system can oversee different procedures</h2><p>Area-specific SOPs, common training standards, inspections and escalation routes allow the facility to manage different hygiene zones without losing overall control.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use one coordinated campus hygiene program, but keep task methods and controls specific to the function and risk of each area.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/children-and-school-preparedness/php/interventions/everyday-actions-for-schools.html\">CDC — Everyday Actions for Schools</a>.</li><li><a href=\"https://www.fda.gov/food/retail-food-protection/fda-food-code\">FDA — Food Code</a>.</li></ol>"
+}
