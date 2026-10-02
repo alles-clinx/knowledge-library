@@ -1,0 +1,26 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0317",
+  "slug": "nova-vs-customer-support-where-should-a-question-go",
+  "subcategory": "Customer Support",
+  "subcategory_slug": "customer-support",
+  "related_article_ids": [
+    "ACX-KB-0316",
+    "ACX-KB-0302",
+    "ACX-KB-0303",
+    "ACX-KB-0314"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Nova vs Customer Support: Where Should a Question Go?",
+  "excerpt": "Use Nova for fast, document-grounded product and policy questions; use customer support when the issue needs human review, order access, document follow-up, exception handling or an operational decision.",
+  "seo_title": "Nova vs Customer Support: Where Should a Question Go? | Alle's ClinX",
+  "meta_description": "Learn when to use Nova versus Alle's ClinX customer support for product questions, documents, orders, delivery issues, exceptions and human review.",
+  "content_html": "<p>Nova and customer support solve different kinds of problems. Nova is the faster route when the answer can be grounded in Alle's ClinX product documents, policies and published knowledge. Customer support is the better route when the issue requires access to an order, a manual follow-up, an exception decision or another form of human intervention.</p>\n<h2 id=\"nova\">Use Nova for documented product and policy questions</h2><p>Nova is suited to questions about Alle's ClinX products, SDS/TDS information, documented dilution or use instructions, selected compliance information and company policies that exist in its knowledge sources.</p>\n<h2 id=\"fast\">Use Nova when you need a fast self-service answer</h2><p>If the question can be answered from published Alle's ClinX information, Nova can usually provide the answer more quickly than opening a manual support request. Where supported, it can also point to the source document behind the response.</p>\n<h2 id=\"support\">Use customer support when the issue needs human action</h2><p>Contact <a href=\"mailto:care@allesclinx.com\">care@allesclinx.com</a> when the request involves post-order support, a missing document, a delivery issue, container pickup, an account-specific question, an exception or another matter that cannot be resolved from published information alone.</p>\n<h2 id=\"procurement\">Use procurement for buying and commercial decisions</h2><p>Purchase orders, quotations, pack/quantity clarification and institutional procurement questions should go to <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a> rather than Nova or general customer care.</p>\n<h2 id=\"escalate\">Escalate when the source is missing or unclear</h2><p>If Nova cannot find strong documentation, gives low confidence, or the available documents appear inconsistent with the product label or real-world situation, stop and move the question to a human support route.</p>\n<h2 id=\"critical\">Safety- and compliance-critical questions deserve source verification</h2><p>Nova can help locate and explain the relevant information, but safety-critical or compliance-sensitive decisions should be checked against the current product label, SDS, TDS, policy or confirmed with Alle's ClinX support where necessary.</p>\n<h2 id=\"examples\">Typical routing examples</h2><p>“What PPE is listed in the SDS?” belongs with Nova or the Document Center. “My delivery is missing a carton” belongs with customer care. “Can you quote 40 cases for our facility?” belongs with procurement. “The label and a digital answer do not match” should be escalated to human support.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Nova = fast, document-grounded self-service. Customer support = human review and operational follow-up. Procurement = buying and commercial matters. When in doubt, verify the source and escalate rather than forcing a self-service answer.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://allesclinx.com/support/nova-guide/\">Alle's ClinX — Ask Nova the Right Way</a>.</li><li><a href=\"https://allesclinx.com/support/contact/\">Alle's ClinX — Contact</a>.</li><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}

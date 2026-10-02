@@ -1,0 +1,28 @@
+{
+  "category": "Alle's ClinX Tools & Support",
+  "category_slug": "alles-clinx",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0317",
+  "slug": "nova-vs-customer-support-where-should-a-question-go",
+  "subcategory": "Customer Support",
+  "subcategory_slug": "customer-support",
+  "related_article_ids": [
+    "ACX-KB-0316",
+    "ACX-KB-0302",
+    "ACX-KB-0303",
+    "ACX-KB-0314"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0317",
+  "title": "Nova vs Customer Support: Question कहाँ भेजना चाहिए?",
+  "excerpt": "Fast document-grounded product और policy questions के लिए Nova use करें; human review, order access, follow-up, exception handling या operational action के लिए customer support use करें।",
+  "seo_title": "Nova vs Customer Support: Question कहाँ भेजें? | Alle's ClinX",
+  "meta_description": "Product questions, documents, orders, delivery issues, exceptions और human review के लिए Nova और Alle's ClinX customer support में सही route चुनें।",
+  "content_html": "<p>Nova और customer support अलग प्रकार की problems solve करते हैं। Nova तब faster route है जब answer Alle's ClinX product documents, policies और published knowledge से grounded हो सकता है। Human action, order access, exception decision या manual follow-up वाले issues customer support के लिए बेहतर हैं।</p>\n<h2 id=\"hi317-nova\">Documented product और policy questions के लिए Nova use करें</h2><p>Nova Alle's ClinX products, SDS/TDS information, documented dilution/use instructions, selected compliance information और company policies से related questions के लिए suitable है।</p>\n<h2 id=\"hi317-fast\">Fast self-service answer के लिए Nova use करें</h2><p>अगर question published Alle's ClinX information से answer हो सकता है, Nova manual support request की तुलना में जल्दी help कर सकता है और जहाँ supported हो source भी identify कर सकता है।</p>\n<h2 id=\"hi317-support\">Human action चाहिए तो customer support use करें</h2><p>Post-order support, missing document, delivery issue, container pickup, account-specific question, exception या manual follow-up के लिए <a href=\"mailto:care@allesclinx.com\">care@allesclinx.com</a> use करें।</p>\n<h2 id=\"hi317-procurement\">Buying और commercial decisions के लिए procurement use करें</h2><p>Purchase orders, quotations, pack/quantity clarification और institutional procurement questions <a href=\"mailto:procurement@allesclinx.com\">procurement@allesclinx.com</a> पर भेजें।</p>\n<h2 id=\"hi317-escalate\">Source missing या unclear हो तो escalate करें</h2><p>अगर Nova strong documentation नहीं ढूँढ पाता, low confidence देता है, या digital information label/actual situation से inconsistent लगे, human support route use करें।</p>\n<h2 id=\"hi317-critical\">Safety और compliance-critical questions में source verify करें</h2><p>Nova relevant information locate और explain कर सकता है, लेकिन critical decisions current label, SDS, TDS, policy या human confirmation से verify करें।</p>\n<h2 id=\"hi317-examples\">Typical routing examples</h2><p>“SDS में कौन-सा PPE listed है?” Nova/Document Center. “Delivery में carton missing है” customer care. “40 cases का quote चाहिए” procurement. “Label और digital answer match नहीं करते” human support escalation.</p>\n<h2 id=\"hi317-takeaway\">मुख्य बात</h2><p>Nova = fast document-grounded self-service. Customer support = human review और operational follow-up. Procurement = buying/commercial matters. Doubt हो तो source verify करें और escalate करें।</p>\n<h2 id=\"hi317-references\">संदर्भ</h2><ol><li><a href=\"https://allesclinx.com/support/nova-guide/\">Alle's ClinX — Ask Nova the Right Way</a>.</li><li><a href=\"https://allesclinx.com/support/contact/\">Alle's ClinX — Contact</a>.</li><li><a href=\"https://allesclinx.com/support/media-documents/\">Alle's ClinX — Document Center</a>.</li></ol>"
+}
