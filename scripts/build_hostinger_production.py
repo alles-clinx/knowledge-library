@@ -91,6 +91,258 @@ asset_versions = {
     name: hashlib.sha256((OUT / "assets" / name).read_bytes()).hexdigest()[:12]
     for name in ("site.css", "site.js", "discovery.css", "legal.css", "sitemap.js")
 }
+for page_path in OUT.rglob("*.html"):
+    page = page_path.read_text(encoding="utf-8")
+    for name, version in asset_versions.items():
+        asset_url = f"{BASE_PATH}assets/{name}"
+        for quote in ('"', "'"):
+            page = page.replace(f"{asset_url}{quote}", f"{asset_url}?v={version}{quote}")
+    page_path.write_text(page, encoding="utf-8")
+
+# Build live search and SEO lookup directly from canonical live sources.
+# This deliberately does NOT trust docs/assets/live-search.json: the renderer may
+# update that file after a live promotion, which previously caused Hostinger to
+# publish one deployment behind the live article set.
+search_path = OUT / "assets" / "live-search.json"
+records = []
+missing_sources = []
+for article_id in LIVE.get("live_article_ids", []):
+    meta = BY_ID.get(article_id)
+    if not meta:
+        missing_sources.append(f"{article_id}: missing canonical metadata")
+        continue
+    source_dir = ROOT / "articles" / meta["category_slug"] / article_id
+    for locale, filename in (("en", "en.json"), ("hi-IN", "hi.json")):
+        source_path = source_dir / filename
+        if not source_path.exists():
+            missing_sources.append(f"{article_id}: missing {filename}")
+            continue
+        doc = json.loads(source_path.read_text(encoding="utf-8"))
+        rel = f'library/{doc["category_slug"]}/{doc["subcategory_slug"]}/{doc["slug"]}/'
+        if locale == "hi-IN":
+            rel += "hi.html"
+        records.append({
+            "article_id": article_id,
+            "locale": locale,
+            "title": doc.get("title", ""),
+            "category": doc.get("category", meta.get("category", "")),
+            "category_slug": doc.get("category_slug", meta.get("category_slug", "")),
+            "subcategory": doc.get("subcategory", meta.get("subcategory", "")),
+            "subcategory_slug": doc.get("subcategory_slug", meta.get("subcategory_slug", "")),
+            "excerpt": doc.get("excerpt", ""),
+            "url": rel,
+        })
+
+if missing_sources:
+    raise SystemExit("Hostinger build missing live sources:\n- " + "\n- ".join(missing_sources))
+
+records.sort(key=lambda r: (r["article_id"], r["locale"]))
+search_data = {
+    "version": 2,
+    "generated_for": "Hostinger bilingual live search",
+    "record_count": len(records),
+    "records": records,
+}
+search_path.parent.mkdir(parents=True, exist_ok=True)
+search_path.write_text(
+    json.dumps(search_data, ensure_ascii=False, indent=2) + "\n",
+    encoding="utf-8",
+)
+
+by_url = {}
+for rec in records:
+    rel = rec.get("url", "").lstrip("/")
+    public_path = BASE_PATH + rel
+    by_url[public_path] = rec
+
+def public_path_for_file(path: Path) -> str:
+    rel = path.relative_to(OUT).as_posix()
+    if rel == "index.html":
+        return BASE_PATH
+    if rel.endswith("/index.html"):
+        return BASE_PATH + rel[:-10]
+    return BASE_PATH + rel
+
+def strip_tags(value: str) -> str:
+    return re.sub(r"<[^>]+>", "", value or "").strip()
+
+def find_font(candidates: list[str], size: int) -> ImageFont.FreeTypeFont:
+    for candidate in candidates:
+        p = Path(candidate)
+        if p.exists():
+            return ImageFont.truetype(str(p), size=size)
+    # Final fallback keeps the build from failing, though production runners install Noto.
+    return ImageFont.load_default()
+
+LATIN_REGULAR = [
+    "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+]
+LATIN_BOLD = [
+    "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+]
+DEVANAGARI_REGULAR = [
+    "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Regular.ttf",
+    "/usr/share/fonts/opentype/noto/NotoSansDevanagari-Regular.ttf",
+]
+DEVANAGARI_BOLD = [
+    "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Bold.ttf",
+    "/usr/share/fonts/opentype/noto/NotoSansDevanagari-Bold.ttf",
+]
+
+def font_set(locale: str, size: int, bold: bool = False):
+    if locale == "hi-IN":
+        candidates = DEVANAGARI_BOLD if bold else DEVANAGARI_REGULAR
+        return find_font(candidates + (LATIN_BOLD if bold else LATIN_REGULAR), size)
+    return find_font(LATIN_BOLD if bold else LATIN_REGULAR, size)
+
+def text_width(draw: ImageDraw.ImageDraw, text: str, font) -> float:
+    box = draw.textbbox((0, 0), text, font=font)
+    return box[2] - box[0]
+
+def wrap_text(draw: ImageDraw.ImageDraw, text: str, font, max_width: int) -> list[str]:
+    words = text.split()
+    if not words:
+        return [""]
+    lines, line = [], words[0]
+    for word in words[1:]:
+        trial = line + " " + word
+        if text_width(draw, trial, font) <= max_width:
+            line = trial
+        else:
+            lines.append(line)
+            line = word
+    lines.append(line)
+    return lines
+
+def social_filename(rec: dict) -> str:
+    locale = "hi" if rec.get("locale") == "hi-IN" else "en"
+    return f'{rec.get("article_id","article").lower()}-{locale}.png'
+
+def social_image_url(rec: dict) -> str:
+    return BASE_URL + SOCIAL_DIR + "/" + social_filename(rec)
+
+def generate_social_card(rec: dict, target: Path) -> None:
+    locale = rec.get("locale", "en")
+    title = rec.get("title", "")
+    category = rec.get("category", "")
+    article_id = rec.get("article_id", "")
+    image = Image.new("RGB", (SOCIAL_WIDTH, SOCIAL_HEIGHT), "white")
+    draw = ImageDraw.Draw(image)
+
+    # Crystal-minimal social card: no gradients, no decorative clutter.
+    draw.line((72, 76, SOCIAL_WIDTH - 72, 76), fill=(20, 20, 20), width=2)
+    draw.line((72, SOCIAL_HEIGHT - 82, SOCIAL_WIDTH - 72, SOCIAL_HEIGHT - 82), fill=(214, 214, 214), width=1)
+
+    brand_font = font_set("en", 32, True)
+    label_font = font_set(locale, 20, True)
+    meta_font = font_set("en", 18, False)
+    domain_font = font_set("en", 24, True)
+
+    draw.text((72, 102), "Alle's ClinX", fill=(10, 10, 10), font=brand_font)
+    draw.text((72, 151), category, fill=(92, 92, 92), font=label_font)
+    draw.text((SOCIAL_WIDTH - 72, 109), article_id, fill=(120, 120, 120), font=meta_font, anchor="ra")
+
+    max_title_width = SOCIAL_WIDTH - 144
+    chosen_font = None
+    lines = []
+    for size in (68, 64, 60, 56, 52, 48, 44):
+        f = font_set(locale, size, True)
+        candidate = wrap_text(draw, title, f, max_title_width)
+        if len(candidate) <= 4:
+            chosen_font, lines = f, candidate
+            break
+    if chosen_font is None:
+        chosen_font = font_set(locale, 42, True)
+        lines = wrap_text(draw, title, chosen_font, max_title_width)[:4]
+
+    y = 204
+    line_height = int(getattr(chosen_font, "size", 48) * 1.18)
+    for line in lines:
+        draw.text((72, y), line, fill=(5, 5, 5), font=chosen_font)
+        y += line_height
+
+    draw.text((72, SOCIAL_HEIGHT - 59), "KNOWLEDGE", fill=(100, 100, 100), font=meta_font)
+    draw.text((SOCIAL_WIDTH - 72, SOCIAL_HEIGHT - 59), "allesclinx.com/knowledge", fill=(15, 15, 15), font=domain_font, anchor="ra")
+
+    target.parent.mkdir(parents=True, exist_ok=True)
+    image.save(target, format="PNG", optimize=True)
+
+# Generate a unique 1200x630 rich-link card for every live language variant.
+social_root = OUT / SOCIAL_DIR
+if social_root.exists():
+    shutil.rmtree(social_root)
+for rec in records:
+    generate_social_card(rec, social_root / social_filename(rec))
+
+def inject_head(page: str, additions: str) -> str:
+    if "</head>" not in page:
+        return page
+    return page.replace("</head>", additions + "\n</head>", 1)
+
+def remove_existing(page: str, pattern: str) -> str:
+    return re.sub(pattern, "", page, flags=re.I | re.S)
+
+def meta_for_article(rec: dict, canonical_url: str, canonical_path: str) -> str:
+    title = html.escape(rec.get("title", ""), quote=True)
+    desc = html.escape(rec.get("excerpt", ""), quote=True)
+    image_url = social_image_url(rec)
+    image_alt = html.escape(f'{rec.get("title","")} — Alle\'s ClinX Knowledge', quote=True)
+    locale = rec.get("locale", "en")
+    article_id = rec.get("article_id")
+    meta = BY_ID.get(article_id, {})
+    base = BASE_URL + f'library/{meta.get("category_slug","")}/{meta.get("subcategory_slug","")}/{meta.get("slug","")}/'
+    en_url = base
+    hi_url = base + "hi.html"
+    lang = "hi-IN" if locale == "hi-IN" else "en"
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": rec.get("title", ""),
+        "description": rec.get("excerpt", ""),
+        "inLanguage": lang,
+        "mainEntityOfPage": canonical_url,
+        "image": image_url,
+        "publisher": {"@type": "Organization", "name": "Alle's ClinX", "url": "https://allesclinx.com/"},
+        "isPartOf": {"@type": "WebSite", "name": "Alle's ClinX Knowledge", "url": BASE_URL},
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+    }
+    breadcrumbs = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type":"ListItem","position":1,"name":"Knowledge","item":BASE_URL},
+            {"@type":"ListItem","position":2,"name":rec.get("category",""),"item":BASE_URL + f'library/{meta.get("category_slug","")}/'},
+            {"@type":"ListItem","position":3,"name":rec.get("subcategory",""),"item":BASE_URL + f'library/{meta.get("category_slug","")}/{meta.get("subcategory_slug","")}/'},
+            {"@type":"ListItem","position":4,"name":rec.get("title",""),"item":canonical_url}
+        ]
+    }
+    return "\n".join([
+        '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">',
+        f'<link rel="canonical" href="{canonical_url}">',
+        f'<link rel="alternate" hreflang="en" href="{en_url}">',
+        f'<link rel="alternate" hreflang="hi-IN" href="{hi_url}">',
+        f'<link rel="alternate" hreflang="x-default" href="{en_url}">',
+        '<meta property="og:type" content="article">',
+        '<meta property="og:site_name" content="Alle\'s ClinX Knowledge">',
+        f'<meta property="og:title" content="{title}">',
+        f'<meta property="og:description" content="{desc}">',
+        f'<meta property="og:url" content="{canonical_url}">',
+        f'<meta property="og:image" content="{image_url}">',
+        '<meta property="og:image:type" content="image/png">',
+        '<meta property="og:image:width" content="1200">',
+        '<meta property="og:image:height" content="630">',
+        f'<meta property="og:image:alt" content="{image_alt}">',
+        '<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:title" content="{title}">',
+        f'<meta name="twitter:description" content="{desc}">',
+        f'<meta name="twitter:image" content="{image_url}">',
+        f'<meta name="twitter:image:alt" content="{image_alt}">',
+        '<script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False, separators=(",", ":")) + '</script>',
+        '<script type="application/ld+json">' + json.dumps(breadcrumbs, ensure_ascii=False, separators=(",", ":")) + '</script>',
+    ])
+
 LEGAL_CANONICALS = {
     "privacy-policy/index.html": "https://allesclinx.com/privacy-policy/",
     "terms-conditions/index.html": "https://allesclinx.com/terms-conditions/",
@@ -207,17 +459,16 @@ def generic_meta(rel: str, canonical_url: str, page: str) -> str:
     ]
     if title:
         esc_title = html.escape(title, quote=True)
-        tags += [
+        tags.extend([
             f'<meta property="og:title" content="{esc_title}">',
             f'<meta name="twitter:title" content="{esc_title}">',
-        ]
+        ])
     if desc:
         esc_desc = html.escape(desc, quote=True)
-        tags += [
+        tags.extend([
             f'<meta property="og:description" content="{esc_desc}">',
             f'<meta name="twitter:description" content="{esc_desc}">',
-        ]
-
+        ])
     for schema in discovery_schema(rel, canonical, page):
         tags.append(
             '<script type="application/ld+json">'
@@ -228,11 +479,11 @@ def generic_meta(rel: str, canonical_url: str, page: str) -> str:
 
 for page_path in OUT.rglob("*.html"):
     page = page_path.read_text(encoding="utf-8")
-    page = remove_existing(page, r"<meta\s+name=['\"]robots['\"][^>]*>")
-    page = remove_existing(page, r"<link\s+rel=['\"]canonical['\"][^>]*>")
-    page = remove_existing(page, r"<link\s+rel=['\"]alternate['\"][^>]*hreflang=[^>]*>")
-    page = remove_existing(page, r"<meta\s+property=['\"]og:(?:type|site_name|title|description|url|image|image:type|image:width|image:height|image:alt)['\"][^>]*>")
-    page = remove_existing(page, r"<meta\s+name=['\"]twitter:(?:card|title|description|image|image:alt)['\"][^>]*>")
+    page = remove_existing(page, r'<meta\s+name=["\']robots["\'][^>]*>')
+    page = remove_existing(page, r'<link\s+rel=["\']canonical["\'][^>]*>')
+    page = remove_existing(page, r'<link\s+rel=["\']alternate["\'][^>]*hreflang=[^>]*>')
+    page = remove_existing(page, r'<meta\s+property=["\']og:(?:type|site_name|title|description|url|image|image:type|image:width|image:height|image:alt)["\'][^>]*>')
+    page = remove_existing(page, r'<meta\s+name=["\']twitter:(?:card|title|description|image|image:alt)["\'][^>]*>')
 
     rel = page_path.relative_to(OUT).as_posix()
     canonical_path = public_path_for_file(page_path)
