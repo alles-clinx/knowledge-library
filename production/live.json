@@ -317,7 +317,8 @@
     "ACX-KB-0313",
     "ACX-KB-0314",
     "ACX-KB-0315",
-    "ACX-KB-0316"
+    "ACX-KB-0316",
+    "ACX-KB-0317"
   ],
   "completed_batches": [
     "batch-001",
@@ -386,7 +387,8 @@
     "batch-064",
     "batch-065",
     "batch-066",
-    "batch-067"
+    "batch-067",
+    "batch-068"
   ],
-  "note": "Batches 001-067 are live. Batch 068 is next; only QA-passed article IDs belong in live_article_ids."
+  "note": "Batches 001-068 are live. All 317 planned Knowledge articles have passed the production gate; batch-068 is retained as the terminal current batch for renderer compatibility."
 }
