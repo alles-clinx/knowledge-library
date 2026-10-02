@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0275",
+  "slug": "sustainable-cleaning-facility-operations",
+  "subcategory": "Sustainability & Waste",
+  "subcategory_slug": "sustainability-waste",
+  "related_article_ids": [
+    "ACX-KB-0276",
+    "ACX-KB-0277",
+    "ACX-KB-0268",
+    "ACX-KB-0270"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Sustainable Cleaning in Facility Operations",
+  "excerpt": "Sustainable cleaning aims to maintain required hygiene while reducing avoidable chemical, water, energy, packaging and material use across the cleaning system.",
+  "seo_title": "Sustainable Cleaning in Facility Operations | Alle's ClinX",
+  "meta_description": "Learn how facilities can reduce waste, chemical use, packaging and resource consumption without weakening required hygiene outcomes.",
+  "content_html": "<p>Sustainable cleaning means reducing avoidable environmental and resource impacts while still achieving the hygiene outcome the facility requires. It is not about cleaning less where cleaning is necessary. It is about using appropriate methods, products, equipment and frequencies with less waste and better control.</p>\n<h2 id=\"hygiene-first\">Required hygiene remains the primary control</h2><p>Any sustainability measure should preserve the cleaning or disinfection standard needed for the area. Changes in product, frequency, dose or method should be assessed before implementation rather than assumed to be equivalent.</p>\n<h2 id=\"right-dose\">Use the correct amount of product</h2><p>Accurate dilution and dosing can reduce unnecessary chemical consumption, residue and repeat work. Overuse usually increases cost and waste without guaranteeing better performance.</p>\n<h2 id=\"frequency\">Match frequency to risk and actual use</h2><p>Risk-based schedules can help avoid unnecessary tasks in low-use areas while protecting higher-risk and high-touch locations with the frequency they require.</p>\n<h2 id=\"materials\">Reduce avoidable material waste</h2><p>Reusable tools, controlled dispensing, durable equipment and well-managed consumables can reduce unnecessary single-use material and premature replacement where hygiene requirements allow.</p>\n<h2 id=\"packaging\">Consider packaging and supply efficiency</h2><p>Concentrated products, refill systems and appropriately sized packs can reduce packaging and transport burden in some applications, but the full operating system—including dosing, safety and local waste routes—should be considered.</p>\n<h2 id=\"water-energy\">Control water and energy use</h2><p>Equipment selection, correct method, maintenance and avoiding unnecessary rework can reduce water and energy demand while maintaining performance.</p>\n<h2 id=\"measure\">Measure before claiming improvement</h2><p>Track relevant indicators such as product consumption, packaging volume, waste, water use or task rework so sustainability improvements are supported by evidence.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Sustainable cleaning is controlled cleaning: meet the hygiene requirement, eliminate avoidable waste, and verify that operational changes actually improve resource use without weakening performance.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.epa.gov/saferchoice\">U.S. EPA — Safer Choice</a>.</li></ol>"
+}

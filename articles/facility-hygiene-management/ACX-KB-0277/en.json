@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0277",
+  "slug": "waste-reduction-without-compromising-hygiene",
+  "subcategory": "Sustainability & Waste",
+  "subcategory_slug": "sustainability-waste",
+  "related_article_ids": [
+    "ACX-KB-0275",
+    "ACX-KB-0276",
+    "ACX-KB-0270",
+    "ACX-KB-0268"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Waste Reduction Without Compromising Hygiene",
+  "excerpt": "Cleaning waste can often be reduced through accurate dosing, risk-based scheduling, better stock control and durable systems while preserving required hygiene standards.",
+  "seo_title": "Waste Reduction Without Compromising Hygiene | Alle's ClinX",
+  "meta_description": "Learn practical ways to reduce cleaning waste while maintaining required hygiene, safety and operational controls.",
+  "content_html": "<p>Waste reduction in cleaning should focus on avoidable loss, not on removing controls that protect hygiene. The strongest approach identifies where product, packaging, water, materials or labour are being wasted and improves the process without weakening the required cleaning outcome.</p>\n<h2 id=\"dose\">Reduce chemical waste through accurate dosing</h2><p>Correct dilution and measured dispensing can reduce overuse while keeping the product within its approved operating conditions.</p>\n<h2 id=\"stock\">Improve stock rotation and visibility</h2><p>Good inventory control can reduce expired products, duplicate ordering, damaged stock and emergency purchases. Clear stock visibility also helps avoid unnecessary buffer accumulation.</p>\n<h2 id=\"frequency\">Use risk-based task frequencies</h2><p>Cleaning schedules should reflect actual risk, occupancy and use. Removing unnecessary repetition from low-risk tasks can save resources, provided required hygiene controls remain intact.</p>\n<h2 id=\"durability\">Use durable tools where appropriate</h2><p>Reusable or longer-life cleaning tools may reduce waste when they can be effectively cleaned, maintained and used without introducing contamination risk.</p>\n<h2 id=\"rework\">Prevent rework</h2><p>Poor technique, incorrect product use, equipment faults and unclear procedures can force tasks to be repeated. Training and preventive maintenance can reduce this hidden form of waste.</p>\n<h2 id=\"segregation\">Separate waste streams correctly</h2><p>Where local systems support it, correct segregation can improve recycling or disposal outcomes. Chemical containers and contaminated materials should always follow applicable safety and waste requirements.</p>\n<h2 id=\"measure\">Measure the change</h2><p>Track consumption, expired stock, packaging volumes, repeat work or other relevant indicators so reductions are demonstrated rather than assumed.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Reduce waste by improving process control, not by weakening hygiene. Correct dosing, stock management, appropriate frequency, durable systems and reduced rework can support both goals.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.epa.gov/saferchoice\">U.S. EPA — Safer Choice</a>.</li></ol>"
+}

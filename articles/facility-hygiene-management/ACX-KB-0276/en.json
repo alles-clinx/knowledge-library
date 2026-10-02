@@ -1,0 +1,26 @@
+{
+  "category": "Facility Hygiene Management",
+  "category_slug": "facility-hygiene-management",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0276",
+  "slug": "concentrates-packaging-transport-efficiency",
+  "subcategory": "Sustainability & Waste",
+  "subcategory_slug": "sustainability-waste",
+  "related_article_ids": [
+    "ACX-KB-0275",
+    "ACX-KB-0277",
+    "ACX-KB-0269",
+    "ACX-KB-0270"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Concentrates Affect Packaging and Transport Efficiency",
+  "excerpt": "Concentrated cleaning products can reduce the amount of packaged liquid transported and stored per usable dose, but the benefit depends on correct dilution, packaging design and the full supply system.",
+  "seo_title": "Concentrates, Packaging and Transport Efficiency | Alle's ClinX",
+  "meta_description": "Understand how concentrated cleaning products can affect packaging, transport, storage and dosing efficiency—and why correct dilution remains essential.",
+  "content_html": "<p>Concentrated cleaning products contain less water relative to the amount of usable solution they can produce. Where a concentrate is suitable for the task and is diluted correctly, one pack can generate many ready-to-use doses, which can improve packaging, storage and transport efficiency.</p>\n<h2 id=\"usable-output\">Compare usable output, not pack size alone</h2><p>A small concentrate pack may produce far more ready-to-use solution than a larger pre-diluted pack. Meaningful comparison should therefore consider the quantity of usable solution or number of approved doses produced.</p>\n<h2 id=\"packaging\">Packaging per usable dose can be lower</h2><p>If one concentrate container replaces multiple ready-to-use containers, the amount of primary packaging required per task may decrease. The actual benefit depends on pack design, refill system, secondary packaging and local disposal or recycling conditions.</p>\n<h2 id=\"transport\">Less packaged liquid may improve transport efficiency</h2><p>Transporting water adds weight and volume. Concentrates can reduce the amount of packaged liquid moved through the supply chain per usable dose, although total logistics impacts vary by product and distribution model.</p>\n<h2 id=\"storage\">Storage demand may also fall</h2><p>Facilities may need less storage space for an equivalent amount of usable cleaning solution when concentrates are managed effectively.</p>\n<h2 id=\"dosing\">Correct dosing is essential</h2><p>The expected efficiency can be lost if concentrates are overdosed, spilled, discarded or diluted inaccurately. Controlled dosing and staff training are therefore part of the sustainability benefit.</p>\n<h2 id=\"safety\">Concentration can change handling requirements</h2><p>Concentrates may require additional attention to PPE, dilution equipment, labeling or exposure control. Packaging efficiency should never override safe-use requirements.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Evaluate concentrates by usable output, packaging per dose, transport and storage efficiency, dosing control and safety—not by container size alone.</p>"
+}
