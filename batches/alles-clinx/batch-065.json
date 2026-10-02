@@ -1,0 +1,39 @@
+{
+  "batch_id": "batch-065",
+  "category": "Alle's ClinX Tools & Support",
+  "article_count": 5,
+  "article_ids": [
+    "ACX-KB-0302",
+    "ACX-KB-0303",
+    "ACX-KB-0304",
+    "ACX-KB-0305",
+    "ACX-KB-0306"
+  ],
+  "stage": "completed",
+  "english": {
+    "source_status": "complete",
+    "editorial_status": "reviewed"
+  },
+  "translation": {
+    "locale": "hi-IN",
+    "status": "reviewed",
+    "article_count": 5
+  },
+  "preview": {
+    "status": "live",
+    "pages": 10,
+    "design": "locked Gold Standard article shell",
+    "qa": {
+      "one_h1": true,
+      "language_tabs": true,
+      "hook_targets_resolve": true,
+      "floating_progress_targets_resolve": true,
+      "duplicate_dom_ids": false,
+      "hook_runtime": true,
+      "compact_hero_scale": true,
+      "site_shell": true
+    }
+  },
+  "gate": "Passed source validation, bilingual render, structural QA, ORBIT-7 and interaction/PWA smoke before live promotion.",
+  "completed_after_validation": true
+}
