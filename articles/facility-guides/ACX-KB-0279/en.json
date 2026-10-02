@@ -1,0 +1,25 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0279",
+  "slug": "priority-areas-healthcare-housekeeping",
+  "subcategory": "Healthcare Facilities",
+  "subcategory_slug": "healthcare",
+  "related_article_ids": [
+    "ACX-KB-0278",
+    "ACX-KB-0280",
+    "ACX-KB-0252"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Priority Areas in Healthcare Housekeeping",
+  "excerpt": "Healthcare housekeeping priorities are usually driven by patient-care risk, touch frequency, contamination likelihood, occupancy and the consequences of delayed cleaning.",
+  "seo_title": "Priority Areas in Healthcare Housekeeping | Alle's ClinX",
+  "meta_description": "Learn how healthcare housekeeping priorities are set using patient-care risk, high-touch surfaces, contamination events and area function.",
+  "content_html": "<p>Not every healthcare area carries the same cleaning risk. Housekeeping priorities should reflect how the area is used, who uses it, how often surfaces are touched and what could happen if contamination is not controlled promptly.</p>\n<h2 id=\"patient-care\">Patient-care areas deserve close control</h2><p>Rooms, bays and treatment spaces used for direct care generally require clearly defined routine and event-based cleaning procedures.</p>\n<h2 id=\"high-touch\">High-touch surfaces need attention</h2><p>Bed rails, door hardware, call controls, switches, counters and other frequently handled surfaces can require more frequent cleaning than low-touch surfaces.</p>\n<h2 id=\"sanitary\">Toilets and sanitary areas are priority zones</h2><p>These areas can accumulate moisture, soil and contamination quickly, so schedules should reflect use level and local infection-prevention requirements.</p>\n<h2 id=\"shared\">Shared equipment and shared spaces require clear ownership</h2><p>Waiting areas, shared workstations, transport equipment and other common-use points should have defined responsibility so tasks are not missed between teams.</p>\n<h2 id=\"events\">Contamination events override routine schedules</h2><p>Spills, body-fluid contamination, isolation precautions or other defined events may trigger immediate or enhanced cleaning according to facility procedure.</p>\n<h2 id=\"support\">Support spaces still matter</h2><p>Clean utility areas, storage rooms, staff areas and waste-handling zones should also be controlled because poor housekeeping can undermine the wider hygiene system.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Set healthcare housekeeping priorities by risk, touch, use and contamination potential—not simply by room size or a single universal frequency.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>"
+}

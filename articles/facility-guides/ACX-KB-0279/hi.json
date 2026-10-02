@@ -1,0 +1,27 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0279",
+  "slug": "priority-areas-healthcare-housekeeping",
+  "subcategory": "Healthcare Facilities",
+  "subcategory_slug": "healthcare",
+  "related_article_ids": [
+    "ACX-KB-0278",
+    "ACX-KB-0280",
+    "ACX-KB-0252"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0279",
+  "title": "Healthcare Housekeeping में Priority Areas कौन-सी होती हैं?",
+  "excerpt": "Healthcare housekeeping priorities patient-care risk, touch frequency, contamination likelihood, occupancy और delayed cleaning के consequences पर आधारित होनी चाहिए।",
+  "seo_title": "Healthcare Housekeeping में Priority Areas | Alle's ClinX",
+  "meta_description": "Healthcare housekeeping priorities patient-care risk, high-touch surfaces, contamination events और area function के आधार पर कैसे set होती हैं, समझें।",
+  "content_html": "<p>हर healthcare area का cleaning risk same नहीं होता। Priority area use, users, touch frequency और delayed cleaning के impact से decide होनी चाहिए।</p>\n<h2 id=\"hi279-patient-care\">Patient-care areas close control require करते हैं</h2><p>Direct care वाले rooms, bays और treatment spaces के लिए defined routine और event-based cleaning procedures होने चाहिए।</p>\n<h2 id=\"hi279-high-touch\">High-touch surfaces पर extra attention चाहिए</h2><p>Bed rails, door hardware, switches, counters और frequently handled surfaces low-touch surfaces से ज्यादा frequent cleaning require कर सकते हैं।</p>\n<h2 id=\"hi279-sanitary\">Toilets और sanitary areas priority zones हैं</h2><p>Moisture, soil और contamination जल्दी accumulate हो सकते हैं, इसलिए frequency use level के अनुसार होनी चाहिए।</p>\n<h2 id=\"hi279-shared\">Shared equipment और spaces की ownership clear हो</h2><p>Waiting areas, workstations और transport equipment के लिए responsibility define करें ताकि tasks miss न हों।</p>\n<h2 id=\"hi279-events\">Contamination events routine schedule override कर सकते हैं</h2><p>Spills, body-fluid contamination या isolation precautions immediate या enhanced cleaning trigger कर सकते हैं।</p>\n<h2 id=\"hi279-support\">Support spaces भी important हैं</h2><p>Storage, utility, staff और waste-handling areas wider hygiene system को affect करते हैं।</p>\n<h2 id=\"hi279-takeaway\">मुख्य बात</h2><p>Healthcare priorities room size से नहीं, risk, touch, use और contamination potential से set करें।</p>\n<h2 id=\"hi279-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li></ol>"
+}

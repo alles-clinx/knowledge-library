@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0278",
+  "slug": "healthcare-cleaning-vs-general-cleaning",
+  "subcategory": "Healthcare Facilities",
+  "subcategory_slug": "healthcare",
+  "related_article_ids": [
+    "ACX-KB-0279",
+    "ACX-KB-0280",
+    "ACX-KB-0250",
+    "ACX-KB-0252"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Healthcare Cleaning vs General Cleaning",
+  "excerpt": "Healthcare cleaning uses the same core cleaning principles as general cleaning but applies tighter risk controls, task frequencies, disinfection requirements, documentation and competency expectations where patient-care risk is higher.",
+  "seo_title": "Healthcare Cleaning vs General Cleaning | Alle's ClinX",
+  "meta_description": "Understand how healthcare cleaning differs from general cleaning in risk control, disinfection, frequency, documentation and staff competency.",
+  "content_html": "<p>Healthcare cleaning and general cleaning share basic principles such as soil removal, correct product use, safe working methods and routine quality checks. The difference is that healthcare environments may require tighter controls because contamination can have greater consequences for patients, staff and visitors.</p>\n<h2 id=\"risk\">Healthcare cleaning is more risk-driven</h2><p>Cleaning priorities are influenced by the type of care provided, patient vulnerability, contamination risk, touch frequency and whether an area is clinical, non-clinical or specialized.</p>\n<h2 id=\"disinfection\">Disinfection requirements may be more specific</h2><p>Some healthcare tasks require an approved disinfectant, defined contact time or a particular sequence after cleaning. The facility's infection-prevention policies and product instructions should determine when disinfection is required.</p>\n<h2 id=\"frequency\">High-touch and patient-care areas may need tighter frequency</h2><p>Frequently touched surfaces and higher-risk areas may be cleaned more often or after defined events rather than only on a general daily schedule.</p>\n<h2 id=\"method\">Technique and workflow control matter</h2><p>Healthcare procedures often specify clean-to-dirty workflow, separation of equipment between areas, handling of contaminated materials and steps designed to reduce cross-contamination.</p>\n<h2 id=\"training\">Competency expectations are higher for critical tasks</h2><p>Staff should understand facility-specific procedures and demonstrate important tasks rather than relying only on general housekeeping experience.</p>\n<h2 id=\"records\">Documentation supports assurance</h2><p>Schedules, completion records, inspection results, training records and escalation logs can help demonstrate that defined hygiene controls are being applied.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Healthcare cleaning is not simply “more cleaning.” It is cleaning controlled by patient-care risk, infection-prevention requirements, defined methods and stronger verification.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}

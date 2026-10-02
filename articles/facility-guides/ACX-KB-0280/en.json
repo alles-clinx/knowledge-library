@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0280",
+  "slug": "cleaning-documentation-healthcare-hygiene-programs",
+  "subcategory": "Healthcare Facilities",
+  "subcategory_slug": "healthcare",
+  "related_article_ids": [
+    "ACX-KB-0278",
+    "ACX-KB-0279",
+    "ACX-KB-0259",
+    "ACX-KB-0262"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Cleaning Documentation in Healthcare Hygiene Programs",
+  "excerpt": "Healthcare cleaning documentation links plans, schedules, procedures, training, completion records, inspections and corrective actions so hygiene controls can be verified and reviewed.",
+  "seo_title": "Cleaning Documentation in Healthcare Hygiene Programs | Alle's ClinX",
+  "meta_description": "See the key documentation used in healthcare hygiene programs: plans, schedules, SOPs, training records, completion logs, inspections and corrective actions.",
+  "content_html": "<p>Healthcare hygiene programs need documentation that supports both daily work and management oversight. The goal is not paperwork for its own sake; records should show what was required, what was done, whether it met the standard and what happened when it did not.</p>\n<h2 id=\"plans\">Plans and schedules define required work</h2><p>Cleaning plans identify scope, methods, responsibilities and verification. Schedules translate those requirements into tasks and frequencies.</p>\n<h2 id=\"procedures\">SOPs define critical methods</h2><p>Controlled procedures can specify sequence, product use, contact conditions, PPE, equipment and precautions for routine or higher-risk tasks.</p>\n<h2 id=\"training\">Training and competency records show staff readiness</h2><p>Records should identify relevant training and, where required, practical competency verification for critical tasks.</p>\n<h2 id=\"completion\">Completion records support traceability</h2><p>Logs or digital records can show that scheduled work was completed, who performed it and whether exceptions or missed tasks occurred.</p>\n<h2 id=\"inspection\">Inspection and audit records show performance</h2><p>Routine inspections and formal audits can provide evidence of compliance, recurring issues and trends.</p>\n<h2 id=\"capa\">Corrective-action records close the loop</h2><p>When significant gaps are found, documentation should identify the issue, action, owner, due date and verification of completion or effectiveness.</p>\n<h2 id=\"control\">Documents should be current and controlled</h2><p>Outdated procedures can be as risky as missing procedures. Facilities should control revisions and ensure current versions are accessible where work is performed.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use documentation to connect requirements, execution, verification and improvement across the healthcare cleaning program.</p>\n<h2 id=\"references\">References</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}

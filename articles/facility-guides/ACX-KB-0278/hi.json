@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0278",
+  "slug": "healthcare-cleaning-vs-general-cleaning",
+  "subcategory": "Healthcare Facilities",
+  "subcategory_slug": "healthcare",
+  "related_article_ids": [
+    "ACX-KB-0279",
+    "ACX-KB-0280",
+    "ACX-KB-0250",
+    "ACX-KB-0252"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0278",
+  "title": "Healthcare Cleaning और General Cleaning में क्या अंतर है?",
+  "excerpt": "Healthcare cleaning general cleaning के core principles use करती है, लेकिन patient-care risk बढ़ने पर tighter controls, frequency, disinfection, documentation और competency requirements apply होते हैं।",
+  "seo_title": "Healthcare Cleaning vs General Cleaning | Alle's ClinX",
+  "meta_description": "Healthcare cleaning और general cleaning में risk control, disinfection, frequency, documentation और competency का अंतर समझें।",
+  "content_html": "<p>Healthcare cleaning और general cleaning basic principles share करती हैं, जैसे soil removal, correct product use, safe methods और quality checks। Difference यह है कि healthcare environments में contamination के consequences अधिक serious हो सकते हैं, इसलिए controls tighter हो सकते हैं।</p>\n<h2 id=\"hi278-risk\">Healthcare cleaning अधिक risk-driven होती है</h2><p>Priority care type, patient vulnerability, contamination risk, touch frequency और area classification पर depend करती है।</p>\n<h2 id=\"hi278-disinfection\">Disinfection requirements अधिक specific हो सकती हैं</h2><p>कुछ tasks में approved disinfectant, defined contact time या specific sequence required हो सकता है।</p>\n<h2 id=\"hi278-frequency\">High-touch और patient-care areas में tighter frequency हो सकती है</h2><p>Frequently touched surfaces और higher-risk areas general daily schedule से अधिक frequent cleaning require कर सकते हैं।</p>\n<h2 id=\"hi278-method\">Technique और workflow control important हैं</h2><p>Healthcare procedures clean-to-dirty workflow, equipment separation और cross-contamination control define कर सकती हैं।</p>\n<h2 id=\"hi278-training\">Critical tasks के लिए competency expectations higher होती हैं</h2><p>Staff को facility-specific procedures समझनी और important tasks demonstrate करनी चाहिए।</p>\n<h2 id=\"hi278-records\">Documentation assurance support करती है</h2><p>Schedules, completion records, inspection results और training records controls verify करने में मदद करते हैं।</p>\n<h2 id=\"hi278-takeaway\">मुख्य बात</h2><p>Healthcare cleaning केवल “more cleaning” नहीं है; यह patient-care risk और infection-prevention requirements से controlled cleaning है।</p>\n<h2 id=\"hi278-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html\">CDC — Environmental Cleaning Procedures</a>.</li><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}

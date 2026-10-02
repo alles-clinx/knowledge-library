@@ -1,0 +1,25 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0282",
+  "slug": "guest-room-turnover-vs-periodic-deep-cleaning",
+  "subcategory": "Hotels & Hospitality",
+  "subcategory_slug": "hospitality",
+  "related_article_ids": [
+    "ACX-KB-0281",
+    "ACX-KB-0251",
+    "ACX-KB-0252"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "Guest Room Turnover vs Periodic Deep Cleaning",
+  "excerpt": "Guest-room turnover restores readiness between stays or service events; periodic deep cleaning tackles lower-frequency tasks that are impractical to complete during every routine room reset.",
+  "seo_title": "Guest Room Turnover vs Periodic Deep Cleaning | Alle's ClinX",
+  "meta_description": "Understand the difference between hotel guest-room turnover cleaning and periodic deep cleaning, including purpose, frequency, scope and scheduling.",
+  "content_html": "<p>Guest-room turnover and periodic deep cleaning support different housekeeping needs. Turnover focuses on making a room ready for the next guest or defined occupancy state. Deep cleaning addresses detailed or labour-intensive tasks that are not practical during every routine reset.</p>\n<h2 id=\"turnover\">Turnover cleaning is readiness-focused</h2><p>Typical turnover work includes removing waste, servicing the bathroom, cleaning frequently used surfaces, resetting the bed and room, replacing required guest items and completing the final readiness check.</p>\n<h2 id=\"deep\">Deep cleaning targets lower-frequency work</h2><p>Examples may include carpet extraction, upholstery cleaning, detailed grout or fixture work, vents, high-level dusting, behind-furniture cleaning and other tasks outside the normal turnaround window.</p>\n<h2 id=\"frequency\">The scheduling logic differs</h2><p>Turnover follows occupancy and checkout patterns. Deep cleaning is usually scheduled periodically, during low occupancy, when a room is taken out of service or when condition indicates the need.</p>\n<h2 id=\"time\">Time allowance should reflect task scope</h2><p>Trying to force deep-cleaning tasks into every turnover can create rushed work and inconsistent execution. Separate scheduling allows the facility to plan labour, equipment and room downtime appropriately.</p>\n<h2 id=\"inspection\">Both need quality verification</h2><p>Turnover inspections focus on guest readiness and hygiene. Deep-cleaning verification should confirm that the planned detailed tasks were completed to the required standard.</p>\n<h2 id=\"coordination\">The two schedules should be coordinated</h2><p>Room history, inspection findings, occupancy patterns and maintenance work can help determine when deeper cleaning is due.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Use turnover cleaning for routine room readiness and periodic deep cleaning for detailed tasks that require more time, access or equipment.</p>"
+}

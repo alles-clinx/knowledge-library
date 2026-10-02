@@ -1,0 +1,26 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0281",
+  "slug": "how-hotel-cleaning-programs-are-structured",
+  "subcategory": "Hotels & Hospitality",
+  "subcategory_slug": "hospitality",
+  "related_article_ids": [
+    "ACX-KB-0282",
+    "ACX-KB-0250",
+    "ACX-KB-0252",
+    "ACX-KB-0259"
+  ],
+  "locale": "en",
+  "language": "English",
+  "editorial_status": "review",
+  "translation_status": "source",
+  "title": "How Hotel Cleaning Programs Are Structured",
+  "excerpt": "Hotel cleaning programs usually combine guest-room turnover, public-area cleaning, periodic deep cleaning, back-of-house tasks, quality checks and clearly assigned housekeeping responsibilities.",
+  "seo_title": "How Hotel Cleaning Programs Are Structured | Alle's ClinX",
+  "meta_description": "Learn how hotel cleaning programs combine guest-room turnover, public areas, deep cleaning, back-of-house tasks, inspections and housekeeping responsibilities.",
+  "content_html": "<p>Hotel cleaning programs must support both hygiene and guest readiness across spaces that operate at different rhythms. A strong program separates daily turnover work from public-area routines, periodic deep cleaning, back-of-house tasks and quality verification.</p>\n<h2 id=\"guest-rooms\">Guest-room turnover is a core daily workflow</h2><p>After checkout or between defined occupancy events, room attendants follow a standardized sequence to reset the room, clean high-use surfaces, service the bathroom, replace required consumables and prepare the room for release.</p>\n<h2 id=\"occupied\">Occupied-room service is different from turnover</h2><p>Stayover or occupied-room cleaning often has a different scope because guest belongings remain present and full reset tasks may not be required.</p>\n<h2 id=\"public\">Public areas need time-based and condition-based routines</h2><p>Lobbies, corridors, lifts, restrooms and shared amenities may require cleaning throughout the day based on traffic, touch frequency and visible condition.</p>\n<h2 id=\"deep\">Periodic deep cleaning addresses tasks outside routine turnover</h2><p>Carpet extraction, detailed fixture cleaning, high-level dusting, upholstery work and other lower-frequency tasks can be scheduled separately from daily room servicing.</p>\n<h2 id=\"back\">Back-of-house areas need their own schedules</h2><p>Housekeeping stores, linen rooms, staff areas, service corridors and waste-handling points should be included rather than treated as outside the guest-facing program.</p>\n<h2 id=\"quality\">Quality checks verify room and area readiness</h2><p>Supervisor inspections, defect reporting and recurring-trend review help maintain consistent standards across rooms and shifts.</p>\n<h2 id=\"takeaway\">Practical takeaway</h2><p>Structure hotel cleaning by area, occupancy status, task frequency and quality-control need instead of relying on one universal checklist.</p>"
+}

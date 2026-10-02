@@ -1,0 +1,28 @@
+{
+  "category": "Facility & Sector Guides",
+  "category_slug": "facility-guides",
+  "wordpress_status": "draft",
+  "license": "CC BY 4.0",
+  "attribution": "Alle's ClinX Open Knowledge",
+  "article_id": "ACX-KB-0280",
+  "slug": "cleaning-documentation-healthcare-hygiene-programs",
+  "subcategory": "Healthcare Facilities",
+  "subcategory_slug": "healthcare",
+  "related_article_ids": [
+    "ACX-KB-0278",
+    "ACX-KB-0279",
+    "ACX-KB-0259",
+    "ACX-KB-0262"
+  ],
+  "locale": "hi-IN",
+  "language": "हिन्दी",
+  "editorial_status": "translation-review",
+  "translation_status": "review",
+  "source_locale": "en",
+  "canonical_source_article_id": "ACX-KB-0280",
+  "title": "Healthcare Hygiene Programs में Cleaning Documentation",
+  "excerpt": "Healthcare cleaning documentation plans, schedules, procedures, training, completion records, inspections और corrective actions को connect करती है।",
+  "seo_title": "Healthcare Hygiene Programs में Cleaning Documentation | Alle's ClinX",
+  "meta_description": "Healthcare hygiene programs में plans, schedules, SOPs, training, completion logs, inspections और corrective-action records का role समझें।",
+  "content_html": "<p>Healthcare hygiene programs को daily work और management oversight दोनों support करने वाली documentation चाहिए। Goal paperwork बढ़ाना नहीं, बल्कि requirement, completion, verification और corrective action trace करना है।</p>\n<h2 id=\"hi280-plans\">Plans और schedules required work define करते हैं</h2><p>Cleaning plan scope, methods और responsibilities define करता है; schedule tasks और frequencies set करता है।</p>\n<h2 id=\"hi280-procedures\">SOPs critical methods define करते हैं</h2><p>Controlled procedures sequence, product use, PPE, equipment और precautions specify कर सकते हैं।</p>\n<h2 id=\"hi280-training\">Training और competency records staff readiness दिखाते हैं</h2><p>Relevant training और critical tasks की practical competency verification record करें।</p>\n<h2 id=\"hi280-completion\">Completion records traceability support करते हैं</h2><p>Logs दिखा सकते हैं कि task complete हुआ, किसने किया और exception हुआ या नहीं।</p>\n<h2 id=\"hi280-inspection\">Inspection और audit records performance दिखाते हैं</h2><p>Routine inspections और formal audits recurring issues और trends reveal कर सकते हैं।</p>\n<h2 id=\"hi280-capa\">Corrective-action records loop close करते हैं</h2><p>Significant gap के लिए issue, action, owner, due date और verification record करें।</p>\n<h2 id=\"hi280-control\">Documents current और controlled होने चाहिए</h2><p>Outdated procedures भी risk create कर सकती हैं, इसलिए revisions control करें।</p>\n<h2 id=\"hi280-takeaway\">मुख्य बात</h2><p>Documentation requirements, execution, verification और improvement को एक system में connect करे।</p>\n<h2 id=\"hi280-references\">संदर्भ</h2><ol><li><a href=\"https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/programs.html\">CDC — Cleaning Programs</a>.</li></ol>"
+}
