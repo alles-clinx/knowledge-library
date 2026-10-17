@@ -164,8 +164,6 @@ def narrate(course, out, voice):
 
 def main():
     from contextlib import nullcontext
-    from audio_training.hostinger_storage import HostingerStore
-
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", type=Path, default=Path("."))
     ap.add_argument("--max-courses", type=int, default=2)
@@ -177,7 +175,11 @@ def main():
 
     # The private Hostinger folder remains outside public_html. No AWS or S3.
     # The Mac runner holds its own SSH key and consented voice recordings.
-    store_context = nullcontext(None) if args.dry_run else HostingerStore()
+    if args.dry_run:
+        store_context = nullcontext(None)
+    else:
+        from audio_training.hostinger_storage import HostingerStore
+        store_context = HostingerStore()
     archive_value = os.getenv("AUDIO_LOCAL_ARCHIVE_PATH", "")
     created, skipped = 0, 0
     with store_context as storage:
