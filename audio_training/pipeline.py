@@ -121,24 +121,18 @@ def package(article, voice):
             "status": "machine-narrated-preview", "chapters": sections}
 
 
-def already_generated(s3, bucket, key, signature):
-    try:
-        saved = json.loads(s3.get_object(Bucket=bucket, Key=key)["Body"].read())
-        return saved.get("source_sha256") == signature
-    except Exception as exc:
-        if getattr(exc, "response", {}).get("Error", {}).get("Code") in ("NoSuchKey", "404"):
-            return False
-        raise
-
-
 def narrate(course, out, voice):
     import torch
     import torchaudio
     from chatterbox.mtl_tts import ChatterboxMultilingualTTS
 
-    if not torch.cuda.is_available():
-        raise RuntimeError("CUDA GPU required for Chatterbox V3")
-    model = ChatterboxMultilingualTTS.from_pretrained(device="cuda", t3_model="v3")
+    # Official Chatterbox supports CUDA, Apple Silicon MPS, or CPU.
+    # Mac performance must be checked during the first-run pilot.
+    device = ("cuda" if torch.cuda.is_available()
+              else "mps" if torch.backends.mps.is_available()
+              else "cpu")
+    print("TTS device:", device)
+    model = ChatterboxMultilingualTTS.from_pretrained(device=device, t3_model="v3")
     for i, chapter in enumerate(course["chapters"], 1):
         timeline, waveforms, elapsed = [], [], 0.0
         for chunk in split_chunks(chapter["title"] + ". " + chapter["text"]):
@@ -168,21 +162,10 @@ def narrate(course, out, voice):
                         "segments": timeline})
 
 
-def publish(s3, bucket, prefix, course, out):
-    base = "/".join([prefix.strip("/"), course["article_id"], course["locale"]])
-    version = course["source_sha256"][:20]
-    for chapter in course["chapters"]:
-        key = f"{base}/versions/{version}/{chapter['file']}"
-        s3.upload_file(str(out / chapter["file"]), bucket, key,
-                       ExtraArgs={"ContentType": "audio/mpeg", "ServerSideEncryption": "AES256"})
-        chapter["object_key"] = key
-    # Publish manifest last so no reader observes incomplete audio.
-    s3.put_object(Bucket=bucket, Key=f"{base}/manifest.json",
-                  Body=json.dumps(course, ensure_ascii=False, indent=2).encode(),
-                  ContentType="application/json", ServerSideEncryption="AES256")
-
-
 def main():
+    from contextlib import nullcontext
+    from audio_training.hostinger_storage import HostingerStore
+
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", type=Path, default=Path("."))
     ap.add_argument("--max-courses", type=int, default=2)
@@ -191,38 +174,47 @@ def main():
     args = ap.parse_args()
     if args.max_courses < 1:
         ap.error("max-courses must be positive")
-    bucket = os.getenv("AUDIO_S3_BUCKET", "")
-    prefix = os.getenv("AUDIO_S3_PREFIX", "audio-training/v1")
-    if not args.dry_run and not bucket:
-        ap.error("AUDIO_S3_BUCKET is required")
-    if not args.dry_run:
-        import boto3
-        s3 = boto3.client("s3")
+
+    # The private Hostinger folder remains outside public_html. No AWS or S3.
+    # The Mac runner holds its own SSH key and consented voice recordings.
+    store_context = nullcontext(None) if args.dry_run else HostingerStore()
+    archive_value = os.getenv("AUDIO_LOCAL_ARCHIVE_PATH", "")
     created, skipped = 0, 0
-    for article in select(args.root, set(args.locales)):
-        voice_var = "VOICE_REFERENCE_HI_KEY" if article["locale"] == "hi-IN" else "VOICE_REFERENCE_EN_KEY"
-        voice_key = os.getenv(voice_var, "")
-        if not args.dry_run and not voice_key:
-            raise RuntimeError(voice_var + " is required for Indian-accent narration")
-        course = package(article, voice_key or "dry-run")
-        manifest_key = "/".join([prefix.strip("/"), article["article_id"],
-                                 article["locale"], "manifest.json"])
-        if not args.dry_run and already_generated(s3, bucket, manifest_key, course["source_sha256"]):
-            skipped += 1
-            continue
-        if args.dry_run:
-            print(article["article_id"], "chapters:", len(course["chapters"]))
-        else:
-            with tempfile.TemporaryDirectory() as temporary:
-                folder = Path(temporary)
-                reference = folder / "consented-reference.wav"
-                s3.download_file(bucket, voice_key, str(reference))
-                narrate(course, folder, reference)
-                publish(s3, bucket, prefix, course, folder)
-            print("Completed:", article["article_id"])
-        created += 1
-        if created >= args.max_courses:
-            break
+    with store_context as storage:
+        for article in select(args.root, set(args.locales)):
+            voice_var = ("AUDIO_VOICE_HI_PATH" if article["locale"] == "hi-IN"
+                         else "AUDIO_VOICE_EN_PATH")
+            voice_path = Path(os.getenv(voice_var, "")).expanduser()
+            if not args.dry_run and not voice_path.is_file():
+                raise RuntimeError(f"{voice_var} must point to a consented local WAV recording")
+            voice_signature = (sha256(voice_path.read_bytes()).hexdigest()
+                               if not args.dry_run else "dry-run")
+            course = package(article, voice_signature)
+            old = (storage.manifest(article["article_id"], article["locale"])
+                   if storage else None)
+            if old and old.get("source_sha256") == course["source_sha256"]:
+                skipped += 1
+                continue
+            if args.dry_run:
+                print(article["article_id"], "chapters:", len(course["chapters"]))
+            else:
+                with tempfile.TemporaryDirectory() as temporary:
+                    folder = Path(temporary)
+                    narrate(course, folder, voice_path)
+                    # A local archive is optional, for restoring audio without re-rendering.
+                    if archive_value:
+                        import shutil
+                        local_archive = (Path(archive_value).expanduser() /
+                                         course["article_id"] / course["locale"] /
+                                         course["source_sha256"][:20])
+                        local_archive.mkdir(parents=True, exist_ok=True)
+                        for chapter in course["chapters"]:
+                            shutil.copy2(folder / chapter["file"], local_archive)
+                    storage.publish(course, folder)
+                print("Completed:", article["article_id"])
+            created += 1
+            if created >= args.max_courses:
+                break
     print("Generated:", created, "Unchanged:", skipped)
 
 
