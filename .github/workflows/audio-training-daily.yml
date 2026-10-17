@@ -3,11 +3,10 @@ name: Daily training audio production
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 4 * * *' # 10 AM IST; GitHub may delay schedule
+    - cron: '30 4 * * *' # 10:00 AM IST (GitHub may delay)
 
 permissions:
   contents: read
-  id-token: write
 
 concurrency:
   group: clinx-training-audio
@@ -24,29 +23,33 @@ jobs:
           python-version: '3.11'
       - name: Unit tests
         run: python -m unittest discover -s tests -p 'test_audio_training.py' -v
-      - name: Test current eligible course extraction
+      - name: Inspect approved audio chapters
         run: python audio_training/pipeline.py --dry-run --max-courses 2
 
   render:
     needs: validate
-    # No expensive GPU work or AWS access until one-time deployment setup.
+    # The Mac/Hostinger system is opt-in and remains disabled for this draft.
     if: vars.ENABLE_AUDIO_RENDER == 'true'
-    runs-on: [self-hosted, linux, tts-gpu]
+    runs-on: [self-hosted, macOS, clinx-audio]
     timeout-minutes: 300
+    env:
+      HOSTINGER_SFTP_HOST: ${{ vars.HOSTINGER_SFTP_HOST }}
+      HOSTINGER_SFTP_USER: ${{ vars.HOSTINGER_SFTP_USER }}
+      HOSTINGER_SFTP_PORT: ${{ vars.HOSTINGER_SFTP_PORT }}
+      HOSTINGER_SSH_KEY_PATH: ${{ vars.HOSTINGER_SSH_KEY_PATH }}
+      HOSTINGER_AUDIO_PATH: ${{ vars.HOSTINGER_AUDIO_PATH }}
+      AUDIO_VOICE_EN_PATH: ${{ vars.AUDIO_VOICE_EN_PATH }}
+      AUDIO_LOCAL_ARCHIVE_PATH: ${{ vars.AUDIO_LOCAL_ARCHIVE_PATH }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-region: ${{ vars.AUDIO_AWS_REGION }}
-          role-to-assume: ${{ vars.AUDIO_AWS_ROLE_ARN }}
-      - name: Install dependencies
-        run: pip install -r audio_training/requirements-tts.txt
-      - name: Synthesize chapter MP3 files
-        env:
-          AUDIO_S3_BUCKET: ${{ vars.AUDIO_S3_BUCKET }}
-          VOICE_REFERENCE_EN_KEY: ${{ vars.AUDIO_VOICE_EN_KEY }}
-          VOICE_REFERENCE_HI_KEY: ${{ vars.AUDIO_VOICE_HI_KEY }}
-        run: python audio_training/pipeline.py --max-courses 2 --locales en
+      - name: Prepare dedicated Python environment
+        run: |
+          export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+          if [ ! -x "$HOME/.clinx-audio-venv/bin/python" ]; then
+            python3.11 -m venv "$HOME/.clinx-audio-venv"
+          fi
+          "$HOME/.clinx-audio-venv/bin/python" -m pip install -r audio_training/requirements-tts.txt
+      - name: Generate chapter MP3s and upload privately
+        run: |
+          export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+          "$HOME/.clinx-audio-venv/bin/python" audio_training/pipeline.py --max-courses 2 --locales en
