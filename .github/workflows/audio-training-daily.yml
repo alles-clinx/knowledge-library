@@ -1,6 +1,11 @@
 name: Daily training audio production
 
 on:
+  pull_request:
+    paths:
+      - 'audio_training/**'
+      - 'tests/test_audio_training.py'
+      - '.github/workflows/audio-training-daily.yml'
   workflow_dispatch:
   schedule:
     - cron: '30 4 * * *' # 10:00 AM IST (GitHub may delay)
@@ -29,7 +34,7 @@ jobs:
   render:
     needs: validate
     # The Mac/Hostinger system is opt-in and remains disabled for this draft.
-    if: vars.ENABLE_AUDIO_RENDER == 'true'
+    if: github.event_name != 'pull_request' && vars.ENABLE_AUDIO_RENDER == 'true'
     runs-on: [self-hosted, macOS, clinx-audio]
     timeout-minutes: 300
     env:
