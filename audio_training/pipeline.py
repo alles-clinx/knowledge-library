@@ -178,7 +178,7 @@ def main():
     if args.dry_run:
         store_context = nullcontext(None)
     else:
-        from audio_training.hostinger_storage import HostingerStore
+        from hostinger_storage import HostingerStore
         store_context = HostingerStore()
     archive_value = os.getenv("AUDIO_LOCAL_ARCHIVE_PATH", "")
     created, skipped = 0, 0
