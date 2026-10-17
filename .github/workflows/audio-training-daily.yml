@@ -1,0 +1,52 @@
+name: Daily training audio production
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 4 * * *' # 10 AM IST; GitHub may delay schedule
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: clinx-training-audio
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Unit tests
+        run: python -m unittest discover -s tests -p 'test_audio_training.py' -v
+      - name: Test current eligible course extraction
+        run: python audio_training/pipeline.py --dry-run --max-courses 2
+
+  render:
+    needs: validate
+    # No expensive GPU work or AWS access until one-time deployment setup.
+    if: vars.ENABLE_AUDIO_RENDER == 'true'
+    runs-on: [self-hosted, linux, tts-gpu]
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: ${{ vars.AUDIO_AWS_REGION }}
+          role-to-assume: ${{ vars.AUDIO_AWS_ROLE_ARN }}
+      - name: Install dependencies
+        run: pip install -r audio_training/requirements-tts.txt
+      - name: Synthesize chapter MP3 files
+        env:
+          AUDIO_S3_BUCKET: ${{ vars.AUDIO_S3_BUCKET }}
+          VOICE_REFERENCE_EN_KEY: ${{ vars.AUDIO_VOICE_EN_KEY }}
+          VOICE_REFERENCE_HI_KEY: ${{ vars.AUDIO_VOICE_HI_KEY }}
+        run: python audio_training/pipeline.py --max-courses 2 --locales en
