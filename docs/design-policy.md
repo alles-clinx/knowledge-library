@@ -30,3 +30,10 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Do not publish redundant About pages, a human sitemap, or duplicate policy/trust pages.
 - Keep the machine-readable XML sitemap, sourced article content, and licensing information intact.
 - Redirect retired URLs on the Hostinger production host.
+
+## Eleven podcast shelf
+- One homepage editorial shelf only: after Quick reads and before Browse by category.
+- Show the three most recent published episodes, optional cover artwork, duration and date.
+- Each card opens its official listening destination; include one Apple Podcasts show link and one small footer link.
+- Do not add a podcast About page, header icon, autoplay or an embedded heavyweight player.
+- Keep accessible static fallback cards and refresh from public podcast metadata daily.

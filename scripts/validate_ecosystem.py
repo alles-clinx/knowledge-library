@@ -212,6 +212,24 @@ if "background:#f9f9f9;" not in footer_css:
     errors.append("Footer background must be #f9f9f9")
 
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
+podcast_data_path=ROOT/"docs"/"assets"/"eleven-episodes.json"
+if not podcast_data_path.exists():
+    errors.append("Eleven episode fallback metadata missing")
+else:
+    podcast_data=__import__("json").loads(podcast_data_path.read_text(encoding="utf-8"))
+    if podcast_data.get("show_url") != "https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821":
+        errors.append("Eleven podcast show URL incorrect")
+    if len(podcast_data.get("episodes", [])) < 3:
+        errors.append("Eleven must have at least three verified episodes")
+if home_html.count('<a class="eleven-episode') != 3:
+    errors.append("Eleven homepage must contain three static episode links")
+for token in ['id="eleven"', "eleven:episodes:start", "eleven:episodes:end", "assets/eleven.js", '"@type":"PodcastSeries"']:
+    if token not in home_html:
+        errors.append(f"Homepage podcast contract missing: {token}")
+if not (ROOT/"scripts"/"update_eleven.py").exists():
+    errors.append("Eleven podcast updater script missing")
+if not (ROOT/".github"/"workflows"/"update-eleven.yml").exists():
+    errors.append("Eleven scheduled update workflow missing")
 if "frosted glass header" in site_css:
     errors.append("Retired frosted-glass header styles must not be reintroduced")
 for retired in (

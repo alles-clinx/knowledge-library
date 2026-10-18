@@ -123,6 +123,7 @@
                 '<a href="'+BASE+'library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a>'+
                 '<a href="'+BASE+'library/safety-compliance/">Safety &amp; Compliance</a>'+
                 '<a href="'+BASE+'library/alles-clinx/">Tools &amp; Support</a>'+
+                '<a href="https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821" target="_blank" rel="noopener noreferrer">Eleven podcast</a>'+
               '</nav>'+
             '</section>'+
             '<section class="acx-footer-group" aria-labelledby="acx-footer-legal">'+

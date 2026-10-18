@@ -349,8 +349,94 @@ h2{
 @media (prefers-reduced-motion:reduce){
   *{scroll-behavior:auto!important;transition:none!important}
 }
+
+/* Eleven podcast: restrained editorial listening shelf. */
+.eleven-section{margin-top:88px}
+.eleven-head{align-items:flex-end}
+.eleven-heading{max-width:690px}
+.eleven-eyebrow{
+  display:block;margin-bottom:8px;color:#79797d;font-size:11px;
+  font-weight:560;line-height:1.4;letter-spacing:.015em
+}
+.eleven-heading h2{font-size:30px;font-weight:650;letter-spacing:-.035em}
+.eleven-heading p{max-width:620px;margin:11px 0 0;color:#696970;font-size:14px;line-height:1.55}
+.eleven-show-link{
+  flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;
+  min-height:44px;color:#35353a;font-size:12.5px;font-weight:570;
+  text-decoration:none;white-space:nowrap
+}
+.eleven-show-link svg{width:15px;height:15px}
+.eleven-show-link:hover,.eleven-show-link:focus-visible{color:#111;text-decoration:underline;text-underline-offset:4px}
+.eleven-grid{
+  display:grid;grid-template-columns:minmax(0,1.14fr) minmax(0,1fr);
+  grid-template-rows:repeat(2,minmax(0,1fr));
+  gap:12px;margin-top:18px
+}
+.eleven-episode{
+  display:flex;align-items:flex-start;gap:16px;min-width:0;min-height:170px;
+  padding:19px;border:1px solid #f0f0f0;border-radius:10px;
+  background:#f9f9f9;color:#141416;text-decoration:none;
+  transition:background-color .18s ease,border-color .18s ease
+}
+.eleven-episode:hover,.eleven-episode:focus-visible{background:#f4f4f4;border-color:#e7e7e7}
+.eleven-episode:focus-visible{outline:2px solid #262626;outline-offset:3px}
+.eleven-episode-featured{
+  grid-row:span 2;flex-direction:column;min-height:352px;gap:18px;padding:24px
+}
+.eleven-cover{
+  flex:0 0 80px;width:80px;height:80px;overflow:hidden;display:grid;place-items:center;
+  border-radius:6px;background:#ebebeb;color:#242424;
+}
+.eleven-cover>img{width:100%;height:100%;object-fit:cover;display:block}
+.eleven-cover>span{font-size:34px;line-height:1;font-weight:470;letter-spacing:-.09em}
+.eleven-episode-featured .eleven-cover{
+  width:138px;height:138px;flex-basis:138px;border-radius:8px
+}
+.eleven-episode-featured .eleven-cover>span{font-size:58px}
+.eleven-episode-body{display:flex;flex-direction:column;align-items:flex-start;min-width:0;flex:1}
+.eleven-episode-meta{color:#74747a;font-size:11px;line-height:1.45;font-weight:550}
+.eleven-episode h3{
+  margin:9px 0 0;color:#171719;font-size:18px;font-weight:640;
+  letter-spacing:-.025em;line-height:1.25;overflow-wrap:anywhere
+}
+.eleven-episode-featured h3{max-width:470px;font-size:26px;line-height:1.17}
+.eleven-episode p{
+  display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;
+  overflow:hidden;margin:9px 0 12px;color:#74747a;font-size:12.5px;line-height:1.55
+}
+.eleven-episode-featured p{-webkit-line-clamp:3;max-width:480px;font-size:13.5px}
+.eleven-episode time{margin-top:auto;color:#8a8a8e;font-size:11px;line-height:1.45}
+@media(max-width:820px){
+  .eleven-section{margin-top:72px}
+  .eleven-head{display:flex;align-items:flex-start;flex-direction:column;gap:10px}
+  .eleven-show-link{min-height:40px}
+  .eleven-grid{grid-template-columns:1fr;grid-template-rows:auto}
+  .eleven-episode,.eleven-episode-featured{
+    grid-row:auto;flex-direction:row;gap:15px;min-height:142px;padding:17px
+  }
+  .eleven-cover,.eleven-episode-featured .eleven-cover{
+    width:90px;height:90px;flex-basis:90px;border-radius:6px
+  }
+  .eleven-cover>span,.eleven-episode-featured .eleven-cover>span{font-size:38px}
+  .eleven-episode h3,.eleven-episode-featured h3{font-size:18px;line-height:1.27}
+  .eleven-episode p,.eleven-episode-featured p{font-size:12.5px;-webkit-line-clamp:2}
+}
+@media(max-width:400px){
+  .eleven-section{margin-top:64px}
+  .eleven-grid{gap:10px}
+  .eleven-episode,.eleven-episode-featured{gap:12px;padding:14px}
+  .eleven-cover,.eleven-episode-featured .eleven-cover{width:70px;height:70px;flex-basis:70px}
+  .eleven-cover>span,.eleven-episode-featured .eleven-cover>span{font-size:31px}
+  .eleven-episode h3,.eleven-episode-featured h3{font-size:16px}
+}
+@media(prefers-reduced-motion:reduce){
+  .eleven-episode{transition:none}
+}
+
 </style>
 <script src="/knowledge-library/assets/site.js" defer></script>
+<script src="/knowledge-library/assets/eleven.js" defer></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"PodcastSeries","name":"Eleven by Alle's ClinX","url":"https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821","description":"Research-led conversations on hygiene, safety, operations and the decisions that shape healthier institutions.","publisher":{"@type":"Organization","name":"Alle's ClinX","url":"https://allesclinx.com/"}}</script>
 </head>
 <body class="knowledge-home">
 <main class="page">
@@ -447,6 +533,45 @@ h2{
         <em>What to clean, where, how often, by whom and by which approved method.</em>
       </a>
     </div>
+    </div>
+  </section>
+
+
+  <section class="eleven-section" id="eleven" aria-labelledby="eleven-title">
+    <div class="section-head eleven-head">
+      <div class="eleven-heading">
+        <span class="eleven-eyebrow">The Alle's ClinX podcast</span>
+        <h2 id="eleven-title">Eleven</h2>
+        <p>Research-led conversations on the decisions, systems and people behind how institutions operate.</p>
+      </div>
+      <a class="eleven-show-link" href="https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821" target="_blank" rel="noopener noreferrer" aria-label="All Eleven podcast episodes on Apple Podcasts">All episodes on Apple Podcasts
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg>
+      </a>
+    </div>
+    <div class="eleven-grid" aria-label="Three latest Eleven podcast episodes">
+    <!-- eleven:episodes:start -->
+      <a class="eleven-episode eleven-episode-featured" href="https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000796705312" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Metrics Start Distorting the Business">
+        <div class="eleven-cover"><span aria-hidden="true">11</span></div>
+        <div class="eleven-episode-body"><span class="eleven-episode-meta">Episode 05 · 64 min</span>
+          <h3>When Metrics Start Distorting the Business</h3>
+          <p>When a metric becomes a target, it can distort the behaviour it was meant to improve. A discussion of KPIs, incentives and operational decision-making.</p>
+          <time datetime="2026-10-16">16 Oct 2026</time></div>
+      </a>
+      <a class="eleven-episode" href="https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000795221089" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Efficiency Makes Operations Fragile">
+        <div class="eleven-cover"><span aria-hidden="true">11</span></div>
+        <div class="eleven-episode-body"><span class="eleven-episode-meta">Episode 04 · 49 min</span>
+          <h3>When Efficiency Makes Operations Fragile</h3>
+          <p>Why leaner systems can become more vulnerable when supplier concentration, staffing buffers and spare capacity are overlooked.</p>
+          <time datetime="2026-10-11">11 Oct 2026</time></div>
+      </a>
+      <a class="eleven-episode" href="https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000793106444" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Management Attention Becomes the Bottleneck">
+        <div class="eleven-cover"><span aria-hidden="true">11</span></div>
+        <div class="eleven-episode-body"><span class="eleven-episode-meta">Episode 03 · 45 min</span>
+          <h3>When Management Attention Becomes the Bottleneck</h3>
+          <p>How approvals, meetings and fragmented information consume managerial attention—and what deserves that attention in the first place.</p>
+          <time datetime="2026-10-04">4 Oct 2026</time></div>
+      </a>
+    <!-- eleven:episodes:end -->
     </div>
   </section>
 

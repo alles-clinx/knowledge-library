@@ -1,0 +1,62 @@
+name: Update Eleven Episodes
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_eleven.py'
+      - 'docs/assets/eleven-episodes.json'
+      - '.github/workflows/update-eleven.yml'
+  schedule:
+    # Daily at 10:00 IST. Only publish if verified public metadata changed.
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: update-eleven-episodes
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch official public episode metadata and render shelf
+        run: python scripts/update_eleven.py
+      - name: Commit only changes
+        id: changes
+        run: |
+          git add docs/index.html docs/assets/eleven-episodes.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No new published episodes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh latest Eleven podcast episodes"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && {
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            }
+            git rebase --abort || true
+            sleep $((attempt * 3))
+          done
+          echo "Could not push refreshed episode data" >&2
+          exit 1
+      - name: Rebuild Hostinger production tree on updates
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build-hostinger-production.yml --ref main

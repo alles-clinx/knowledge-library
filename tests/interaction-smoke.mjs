@@ -77,6 +77,17 @@ try{
   assert(await page.locator('.acx-site-header').evaluate(el=>!el.classList.contains('is-hidden')),'Header did not return on upward scroll');
   await page.evaluate(()=>window.scrollTo(0,0));
   await wait(180);
+  // Eleven belongs on the homepage between reading recommendations and categories.
+  const podcast=page.locator('#eleven');
+  assert(await podcast.count()===1,'Eleven podcast section missing');
+  assert((await podcast.locator('h2').textContent()).trim()==='Eleven','Podcast heading incorrect');
+  assert(await podcast.locator('.eleven-episode').count()===3,'Latest episodes shelf must show exactly three episodes');
+  assert((await podcast.locator('.eleven-episode').first().getAttribute('href')).startsWith('https://podcasts.apple.com/'),'Episode cards must lead to Apple Podcasts');
+  assert(await podcast.locator('.eleven-show-link').getAttribute('href')==='https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821','Show Apple Podcasts link incorrect');
+  assert(await page.locator('script[src*="eleven.js"]').count()===1,'Podcast catalogue refresh script missing');
+  const homeSections=await page.locator('main.page > section').evaluateAll(sections=>sections.map(section=>section.id||section.className));
+  const podcastIndex=homeSections.indexOf('eleven');
+  assert(podcastIndex===2 && homeSections[podcastIndex+1]==='library','Eleven must appear after Quick reads and before categories');
   assert(await page.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on desktop');
   assert(await page.locator('.acx-skip-link').count()===1,'Skip-to-content link is missing');
   assert(await page.locator('#main-content').count()===1,'Main content target is missing');
@@ -179,6 +190,11 @@ try{
       assert(scrollPadding>0,label+' is missing fixed-header scroll padding');
       await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
       assert(await auditPage.locator('.acx-header-library').count()===1,label+' Library shortcut missing');
+      if(label==='home'){
+        assert(await auditPage.locator('#eleven .eleven-episode').count()===3,'Mobile Eleven episodes missing');
+        const shelfFits=await auditPage.locator('#eleven').evaluate(el=>el.getBoundingClientRect().right<=window.innerWidth+1);
+        assert(shelfFits,label+' Eleven section exceeds the mobile viewport');
+      }
       assert(await auditPage.locator('.acx-install-app svg').count()===1,label+' Install icon missing');
       const hitBoxes=await auditPage.locator('.acx-header-library,.acx-search-button,.acx-install-app').evaluateAll(items=>items.map(item=>({
         width:item.getBoundingClientRect().width,

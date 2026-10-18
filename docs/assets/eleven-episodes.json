@@ -1,0 +1,52 @@
+{
+  "show": "Eleven by Alle's ClinX",
+  "show_url": "https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821",
+  "source": "Apple Podcasts public episode pages (seed); refreshed via Apple catalogue",
+  "episodes": [
+    {
+      "number": 5,
+      "title": "When Metrics Start Distorting the Business",
+      "published": "2026-10-16T17:56:00Z",
+      "duration_seconds": 3859,
+      "description": "When a metric becomes a target, it can distort the behaviour it was meant to improve. A discussion of KPIs, incentives and operational decision-making.",
+      "url": "https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000796705312",
+      "artwork": ""
+    },
+    {
+      "number": 4,
+      "title": "When Efficiency Makes Operations Fragile",
+      "published": "2026-10-11T06:45:00Z",
+      "duration_seconds": 2940,
+      "description": "Why leaner systems can become more vulnerable when supplier concentration, staffing buffers and spare capacity are overlooked.",
+      "url": "https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000795221089",
+      "artwork": ""
+    },
+    {
+      "number": 3,
+      "title": "When Management Attention Becomes the Bottleneck",
+      "published": "2026-10-04T14:14:00Z",
+      "duration_seconds": 2700,
+      "description": "How approvals, meetings and fragmented information consume managerial attention—and what deserves that attention in the first place.",
+      "url": "https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000793106444",
+      "artwork": ""
+    },
+    {
+      "number": 2,
+      "title": "The Cost of Complexity When More Choice Makes Operations Worse",
+      "published": "2026-09-29T18:51:00Z",
+      "duration_seconds": 3960,
+      "description": "What SKU proliferation, extra suppliers and duplicated workflows quietly cost an organisation.",
+      "url": "https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000792249051",
+      "artwork": ""
+    },
+    {
+      "number": 1,
+      "title": "Rules Versus Reality on the Frontline",
+      "published": "2026-09-21T21:11:00Z",
+      "duration_seconds": 2460,
+      "description": "Why written SOPs often diverge from frontline execution and how organisations can balance consistency with local judgement.",
+      "url": "https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821?i=1000791001932",
+      "artwork": ""
+    }
+  ]
+}
