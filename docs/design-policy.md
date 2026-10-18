@@ -62,3 +62,9 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Search results, footer links, article navigation and legal accordion summaries follow the same restrained language.
 - The fixed header icons, audio play/pause controls, seek bar and data tables do not shift position.
 - Preserve focus-visible accessibility and disable transitions for reduced-motion preferences.
+
+## Eleven transport refinements
+- Present the filled Play/Pause glyph and short verb together in one fixed-size monochrome, gently rounded transport button.
+- Distinguish Play, Loading, Pause, Resume and unavailable audio states without changing the button's width, height or position.
+- Use a quiet 4px progress track, a clear thumb, and accessible elapsed/total playback timestamps.
+- Loading feedback is restrained and must respect reduced-motion settings. Maintain the browser-native audio API and single active stream.

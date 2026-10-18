@@ -243,8 +243,12 @@ if not (ROOT/".github"/"workflows"/"update-eleven.yml").exists():
 # Seek controls must reserve their space instead of moving the playback button on Play/Pause.
 if ".eleven-progress[hidden]{display:flex!important;visibility:hidden;pointer-events:none}" not in home_html:
     errors.append("Hidden Eleven progress should stay in layout to prevent Play/Pause shifts")
-if "flex:0 0 108px" not in home_html:
-    errors.append("Eleven Play/Pause label width must be stable")
+if "flex:0 0 112px" not in home_html:
+    errors.append("Eleven Play/Pause button width must be stable")
+if home_html.count('class="eleven-play-label"') != 3:
+    errors.append("Each episode needs an integrated Play/Pause label")
+if "--eleven-seek-fill" not in home_html:
+    errors.append("Custom podcast seek track missing")
 # Hover inset design should remain present in the homepage and discovery routes.
 discovery_css=(ROOT/"docs"/"assets"/"discovery.css").read_text(encoding="utf-8")
 legal_css=(ROOT/"docs"/"assets"/"legal.css").read_text(encoding="utf-8")

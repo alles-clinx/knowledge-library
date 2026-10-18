@@ -128,6 +128,18 @@ try{
   assert((await podcast.locator('h2').textContent()).trim()==='Eleven','Podcast heading incorrect');
   assert(await podcast.locator('.eleven-episode').count()===3,'Latest episodes shelf must show exactly three episodes');
   assert(await podcast.locator('.eleven-play').count()===3,'Every podcast episode needs a Play/Pause control');
+  assert(await podcast.locator('.eleven-play > .eleven-play-label').count()===3,'Play/Pause label should be inside its fixed-width control');
+  const transportAppearance=await podcast.locator('.eleven-play').first().evaluate(el=>{
+    const style=getComputedStyle(el);
+    const icon=getComputedStyle(el.querySelector('svg'));
+    return {width:el.getBoundingClientRect().width,height:el.getBoundingClientRect().height,
+      radius:style.borderRadius,display:style.display,iconWidth:parseFloat(icon.width),
+      state:el.dataset.state,label:el.querySelector('.eleven-play-label').textContent};
+  });
+  assert(transportAppearance.width>=110&&transportAppearance.width<=114,'Player button should have stable 112px width');
+  assert(transportAppearance.height===44,'Play/Pause control needs a 44px touch target');
+  assert(transportAppearance.iconWidth>=18,'Playback icon should be clearly visible');
+  assert(transportAppearance.state==='idle'&&transportAppearance.label==='Play','Player initial state should be Play');
   assert(await podcast.locator('.eleven-progress[hidden]').count()===3,'Episode progress should be hidden until playback starts');
   assert((await podcast.locator('.eleven-play').first().getAttribute('data-audio-src')).startsWith('https://content.rss.com/episodes/'),'Podcast must use verified RSS MP3 audio');
   assert((await podcast.locator('.eleven-source-link').first().getAttribute('href')).startsWith('https://podcasts.apple.com/'),'Apple should remain a secondary episode link');
@@ -159,10 +171,22 @@ try{
   await firstPlay.click();
   sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Play');
   assert(await firstPlay.getAttribute('aria-pressed')==='true','Play did not start in-page audio');
+  assert(await firstPlay.getAttribute('data-state')==='playing','Player should expose playing state');
+  assert((await firstPlay.locator('.eleven-play-label').textContent())==='Pause','Button label should change to Pause in place');
   assert(await podcast.locator('.eleven-progress:not([hidden])').count()===1,'Active episode progress must be visible');
   await firstPlay.click();
   sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Pause');
   assert(await firstPlay.getAttribute('aria-pressed')==='false','Pause did not stop in-page audio');
+  assert(await firstPlay.getAttribute('data-state')==='paused','Player should retain paused state');
+  assert((await firstPlay.locator('.eleven-play-label').textContent())==='Resume','Paused control should offer Resume');
+  assert(await podcast.locator('.eleven-progress:not([hidden])').count()===1,'Paused progress should remain available');
+  const progressCheck=await podcast.locator('.eleven-progress:not([hidden]) .eleven-seek').first().evaluate(el=>{
+    const computed=getComputedStyle(el);
+    return {appearance:computed.appearance,aria:el.getAttribute('aria-valuetext'),
+      fill:el.style.getPropertyValue('--eleven-seek-fill')};
+  });
+  assert(progressCheck.appearance==='none','Podcast should use custom minimal progress track');
+  assert(progressCheck.aria.includes(' of ')&&progressCheck.fill.endsWith('%'),'Seek bar lacks accessible playback progress');
   await firstPlay.click();
   await secondPlay.click();
   sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Switch episode');
@@ -316,6 +340,8 @@ try{
       if(label==='home'){
         assert(await auditPage.locator('#eleven .eleven-episode').count()===3,'Mobile Eleven episodes missing');
         assert(await auditPage.locator('#eleven .eleven-play').count()===3,'Mobile Play/Pause buttons missing');
+        const mobileTransport=await auditPage.locator('#eleven .eleven-play').first().boundingBox();
+        assert(mobileTransport.width>=110&&mobileTransport.height>=44,'Mobile Play/Pause touch target is too small at '+width+'px');
         const beforePlayback=await episodeGeometry(auditPage);
         assert(beforePlayback.every(g=>g.progressHeight>=23),'Mobile seek controls did not reserve space at '+width+'px');
         const mobilePlayButton=auditPage.locator('#eleven .eleven-play').first();

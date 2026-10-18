@@ -215,10 +215,10 @@ def card(ep: dict, index: int) -> str:
         play_control = (
             '<button class="eleven-play" type="button" data-audio-src="' + escape(audio, quote=True) +
             '" data-duration-seconds="' + str(ep.get("duration_seconds", 0)) + '" aria-label="Play ' + title + '" aria-pressed="false" title="Play episode">' +
-            '<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">' +
-            '<path class="eleven-icon-play" d="m9 6 9 6-9 6V6Z"/>' +
-            '<path class="eleven-icon-pause" d="M9 6v12M15 6v12"/></svg></button>' +
-            '<span class="eleven-play-label">Play episode</span>'
+            '<svg class="eleven-control-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">' +
+            '<path class="eleven-icon-play" d="M8.25 5.75a1 1 0 0 1 1.5-.86l9.25 6.25a1.03 1.03 0 0 1 0 1.72l-9.25 6.25a1 1 0 0 1-1.5-.86Z"/>' +
+            '<path class="eleven-icon-pause" d="M7.25 5.75a1 1 0 0 1 1-1h1.5a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1h-1.5a1 1 0 0 1-1-1Zm6 0a1 1 0 0 1 1-1h1.5a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1h-1.5a1 1 0 0 1-1-1Z"/></svg>' +
+            '<span class="eleven-play-label">Play</span></button>'
         )
         progress = (
             '\n          <div class="eleven-progress" hidden>' +
