@@ -3,7 +3,7 @@
   --legal-ink:#111111;
   --legal-text:#3f3f42;
   --legal-muted:#76767a;
-  --legal-line:#e3e3e5;
+  --legal-line:#f0f0f1;
   --legal-row:#f5f5f6;
   --legal-row-hover:#f0f0f1;
   --legal-page:880px;
@@ -55,7 +55,7 @@ body.legal-page{
 .legal-scope-note{
   margin-top:22px;
   padding-top:18px;
-  border-top:1px solid var(--legal-line);
+  border-top:0;
   color:var(--legal-muted);
   font-size:13px;
   line-height:1.6;
@@ -74,7 +74,7 @@ body.legal-page{
   align-items:center;
   min-height:58px;
   padding:15px 18px;
-  border:1px solid var(--legal-line);
+  border:1px solid #f0f0f1;
   border-radius:4px;
   background:var(--legal-row);
   color:var(--legal-ink);
@@ -137,7 +137,7 @@ body.legal-page{
   gap:44px;
   margin-top:58px;
   padding-top:28px;
-  border-top:1px solid var(--legal-line);
+  border-top:0;
 }
 .legal-meta-block h2{
   margin:0 0 12px;
@@ -169,7 +169,7 @@ body.legal-page{
   gap:6px 12px;
   margin-top:34px;
   padding-top:18px;
-  border-top:1px solid var(--legal-line);
+  border-top:0;
   color:#8a8a8f;
   font-size:11px;
   line-height:1.5;
@@ -179,19 +179,7 @@ body.legal-page{
   content:"·";
   margin-right:12px;
 }
-.legal-bottom-brand{
-  width:min(1200px,calc(100% - 64px));
-  margin:0 auto;
-  padding:0 0 32px;
-  color:#111;
-  font-size:clamp(44px,8vw,112px);
-  line-height:.9;
-  font-weight:500;
-  letter-spacing:-.06em;
-  opacity:.075;
-  white-space:nowrap;
-  overflow:hidden;
-}
+
 @media(max-width:760px){
   .legal-shell{
     width:min(100% - 40px,var(--legal-page));
@@ -212,12 +200,10 @@ body.legal-page{
     line-height:1.68;
   }
   .legal-meta-grid{grid-template-columns:1fr;gap:28px;margin-top:44px}
-  .legal-bottom-brand{width:calc(100% - 40px);font-size:58px}
 }
 @media(max-width:360px){
   .legal-shell{width:calc(100% - 32px)}
   .legal-accordion summary{grid-template-columns:30px minmax(0,1fr) 18px;padding:13px 12px}
-  .legal-bottom-brand{width:calc(100% - 32px)}
 }
 @media(prefers-reduced-motion:reduce){
   *{scroll-behavior:auto!important;transition:none!important}

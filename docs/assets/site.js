@@ -144,9 +144,7 @@
           '</div>'+
         '</div>'+
       '</div>';
-    const decorativeBrand=document.querySelector('.acx-bottom-brand,.legal-bottom-brand');
-    if(decorativeBrand) decorativeBrand.insertAdjacentElement('afterend',footer);
-    else document.body.appendChild(footer);
+    document.body.appendChild(footer);
     const year=footer.querySelector('[data-acx-footer-year]');
     if(year) year.textContent=String(new Date().getFullYear());
     const topButton=footer.querySelector('.acx-footer-top');

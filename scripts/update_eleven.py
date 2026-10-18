@@ -209,15 +209,37 @@ def card(ep: dict, index: int) -> str:
         cover = '<img src="' + escape(art, quote=True) + '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">'
     else:
         cover = '<span aria-hidden="true">11</span>'
+
+    audio = ep.get("audio_url", "")
+    if audio:
+        play_control = (
+            '<button class="eleven-play" type="button" data-audio-src="' + escape(audio, quote=True) +
+            '" data-duration-seconds="' + str(ep.get("duration_seconds", 0)) + '" aria-label="Play ' + title + '" aria-pressed="false" title="Play episode">' +
+            '<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">' +
+            '<path class="eleven-icon-play" d="m9 6 9 6-9 6V6Z"/>' +
+            '<path class="eleven-icon-pause" d="M9 6v12M15 6v12"/></svg></button>' +
+            '<span class="eleven-play-label">Play episode</span>'
+        )
+        progress = (
+            '\n          <div class="eleven-progress" hidden>' +
+            '<label class="eleven-sr-only" for="eleven-seek-' + str(index) + '">Playback position for ' + title + '</label>' +
+            '<input class="eleven-seek" id="eleven-seek-' + str(index) + '" type="range" min="0" max="1000" value="0" aria-label="Seek within ' + title + '"/>' +
+            '<span class="eleven-play-time">0:00 / ' + str(mins) + ':00</span></div>'
+        )
+    else:
+        play_control = '<span class="eleven-unavailable">Listen on Apple Podcasts</span>'
+        progress = ""
+
     return (
-        '      <a class="eleven-episode' + (' eleven-episode-featured' if index == 0 else '') +
-        '" href="' + escape(ep["url"], quote=True) + '" target="_blank" rel="noopener noreferrer" aria-label="Listen to ' + title + '">' +
+        '      <article class="eleven-episode' + (' eleven-episode-featured' if index == 0 else '') + '">' +
         '\n        <div class="eleven-cover">' + cover + '</div>' +
         '\n        <div class="eleven-episode-body"><span class="eleven-episode-meta">' + escape(number + duration_text) + '</span>' +
         '\n          <h3>' + title + '</h3>' +
         '\n          <p>' + description + '</p>' +
-        '\n          <time datetime="' + timestamp + '">' + date + '</time></div>' +
-        '\n      </a>'
+        '\n          <time datetime="' + timestamp + '">' + date + '</time>' +
+        '\n          <div class="eleven-episode-actions">' + play_control +
+        '<a class="eleven-source-link" href="' + escape(ep["url"], quote=True) + '" target="_blank" rel="noopener noreferrer" aria-label="Listen to ' + title + ' on Apple Podcasts">Apple Podcasts</a></div>' +
+        progress + '</div>\n      </article>'
     )
 
 

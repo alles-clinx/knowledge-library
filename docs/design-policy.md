@@ -37,3 +37,15 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Each card opens its official listening destination; include one Apple Podcasts show link and one small footer link.
 - Do not add a podcast About page, header icon, autoplay or an embedded heavyweight player.
 - Keep accessible static fallback cards and refresh from public podcast metadata daily.
+
+## Quiet hierarchy, no ghost branding
+- Remove oversized decorative "ghost" Alle's ClinX wordmarks from homepage and policy pages; let the footer itself close each page.
+- Eliminate repeated section-heading, category, topic and article-row dividers. Use whitespace, typography and gentle hover backgrounds.
+- Retain only barely visible separation for functional controls and table readability; focus indicators must remain accessible.
+- Keep the shared footer #f9f9f9, with no dark theme or emphatic internal border.
+
+## Eleven in-page audio playback
+- Episodes render as articles with independent in-page play/pause buttons, a seek control and time readout for the active episode.
+- Play actual verified HTTPS MP3 enclosure URLs from RSS.com, never pretend a link to Apple is native playback.
+- Allow only one episode to play at a time; Apple Podcasts is optional secondary navigation.
+- The daily metadata updater refreshes the publisher-enclosure URL along with titles, artwork and duration.

@@ -221,8 +221,18 @@ else:
         errors.append("Eleven podcast show URL incorrect")
     if len(podcast_data.get("episodes", [])) < 3:
         errors.append("Eleven must have at least three verified episodes")
-if home_html.count('<a class="eleven-episode') != 3:
-    errors.append("Eleven homepage must contain three static episode links")
+if home_html.count('<article class="eleven-episode') != 3:
+    errors.append("Eleven homepage must contain three episode cards")
+if home_html.count('class="eleven-play"') != 3 or home_html.count('data-audio-src="') != 3:
+    errors.append("All three podcast episodes must have source-backed Play/Pause buttons")
+for ghost in ('acx-bottom-brand', 'legal-bottom-brand'):
+    if ghost in home_html or ghost in site_css:
+        errors.append(f"Ghost brand styling is retired: {ghost}")
+if 'border-bottom:1px solid var(--line);' in home_html:
+    errors.append("Excessive home section/category divider lines remain")
+podcast_data=__import__("json").loads(podcast_data_path.read_text(encoding="utf-8"))
+if any(not ep.get('audio_url','').startswith('https://content.rss.com/episodes/') for ep in podcast_data.get('episodes',[])[:3]):
+    errors.append("Verified podcast RSS MP3 streams missing for latest episodes")
 for token in ['id="eleven"', "eleven:episodes:start", "eleven:episodes:end", "assets/eleven.js", '"@type":"PodcastSeries"']:
     if token not in home_html:
         errors.append(f"Homepage podcast contract missing: {token}")

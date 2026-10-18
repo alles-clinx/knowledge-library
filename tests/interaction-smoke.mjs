@@ -47,6 +47,14 @@ const browser = await chromium.launch({headless:true});
 try{
   const desktop = await browser.newContext({viewport:{width:1366,height:900}});
   await desktop.grantPermissions(['clipboard-read','clipboard-write'], {origin:ORIGIN});
+  // Simulate the media transport without downloading a large external MP3 in CI.
+  await desktop.addInitScript(function(){
+    window.Audio=class FakeAudio extends EventTarget{
+      constructor(){super();this.paused=true;this.ended=false;this.currentTime=0;this.duration=3600;this.src='';this.preload='none';}
+      play(){this.paused=false;this.dispatchEvent(new Event('playing'));return Promise.resolve();}
+      pause(){this.paused=true;this.dispatchEvent(new Event('pause'));}
+    };
+  });
   const page = await desktop.newPage();
   await page.goto(BASE,{waitUntil:'networkidle'});
   assert(await page.locator('.acx-site-header').isVisible(),'Desktop site header is not visible');
@@ -82,7 +90,23 @@ try{
   assert(await podcast.count()===1,'Eleven podcast section missing');
   assert((await podcast.locator('h2').textContent()).trim()==='Eleven','Podcast heading incorrect');
   assert(await podcast.locator('.eleven-episode').count()===3,'Latest episodes shelf must show exactly three episodes');
-  assert((await podcast.locator('.eleven-episode').first().getAttribute('href')).startsWith('https://podcasts.apple.com/'),'Episode cards must lead to Apple Podcasts');
+  assert(await podcast.locator('.eleven-play').count()===3,'Every podcast episode needs a Play/Pause control');
+  assert(await podcast.locator('.eleven-progress[hidden]').count()===3,'Episode progress should be hidden until playback starts');
+  assert((await podcast.locator('.eleven-play').first().getAttribute('data-audio-src')).startsWith('https://content.rss.com/episodes/'),'Podcast must use verified RSS MP3 audio');
+  assert((await podcast.locator('.eleven-source-link').first().getAttribute('href')).startsWith('https://podcasts.apple.com/'),'Apple should remain a secondary episode link');
+  assert(await page.locator('.acx-bottom-brand,.legal-bottom-brand').count()===0,'Ghost brand wordmark must be removed');
+  assert(await page.locator('.section-head').first().evaluate(el=>getComputedStyle(el).borderBottomWidth)==='0px','Decorative section heading dividers must be removed');
+  const firstPlay=podcast.locator('.eleven-play').nth(0);
+  const secondPlay=podcast.locator('.eleven-play').nth(1);
+  await firstPlay.click();
+  assert(await firstPlay.getAttribute('aria-pressed')==='true','Play did not start in-page audio');
+  assert(await podcast.locator('.eleven-progress:not([hidden])').count()===1,'Active episode progress must be visible');
+  await firstPlay.click();
+  assert(await firstPlay.getAttribute('aria-pressed')==='false','Pause did not stop in-page audio');
+  await firstPlay.click();
+  await secondPlay.click();
+  assert(await firstPlay.getAttribute('aria-pressed')==='false'&&await secondPlay.getAttribute('aria-pressed')==='true','Starting another episode must pause previous audio');
+  await secondPlay.click();
   assert(await podcast.locator('.eleven-show-link').getAttribute('href')==='https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821','Show Apple Podcasts link incorrect');
   assert(await page.locator('script[src*="eleven.js"]').count()===1,'Podcast catalogue refresh script missing');
   const homeSections=await page.locator('main.page > section').evaluateAll(sections=>sections.map(section=>section.id||section.className));
@@ -185,6 +209,11 @@ try{
       assert((await auditPage.locator('meta[name="viewport"]').getAttribute('content')||'').includes('width=device-width'),
         label+' is missing a mobile viewport declaration');
       assert(await auditPage.locator('.acx-skip-link').count()===1,label+' is missing the shared skip link');
+      assert(await auditPage.locator('.acx-bottom-brand,.legal-bottom-brand').count()===0,label+' retains ghost brand text');
+      if(label==='category'||label==='subcategory'){
+        const visibleRow=auditPage.locator('.category,.topic,.article-row').first();
+        if(await visibleRow.count())assert(await visibleRow.evaluate(el=>getComputedStyle(el).borderBottomWidth)==='0px',label+' has distracting row dividers');
+      }
       assert(await auditPage.locator('#main-content').count()===1,label+' is missing the shared main target');
       const scrollPadding=parseFloat(await auditPage.locator('html').evaluate(el=>getComputedStyle(el).scrollPaddingTop));
       assert(scrollPadding>0,label+' is missing fixed-header scroll padding');
@@ -192,6 +221,7 @@ try{
       assert(await auditPage.locator('.acx-header-library').count()===1,label+' Library shortcut missing');
       if(label==='home'){
         assert(await auditPage.locator('#eleven .eleven-episode').count()===3,'Mobile Eleven episodes missing');
+        assert(await auditPage.locator('#eleven .eleven-play').count()===3,'Mobile Play/Pause buttons missing');
         const shelfFits=await auditPage.locator('#eleven').evaluate(el=>el.getBoundingClientRect().right<=window.innerWidth+1);
         assert(shelfFits,label+' Eleven section exceeds the mobile viewport');
       }

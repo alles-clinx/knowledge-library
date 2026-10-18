@@ -4,7 +4,7 @@
   --ink:#111111;
   --text:#3a3a3c;
   --muted:#737373;
-  --line:#e7e7e7;
+  --line:#f3f3f4;
   --soft:#f7f7f7;
   --page:1120px;
 }
@@ -85,7 +85,7 @@ h1{
   justify-content:space-between;
   gap:32px;
   padding-bottom:18px;
-  border-bottom:1px solid var(--line);
+  border-bottom:0;
 }
 h2{
   margin:0;
@@ -109,7 +109,7 @@ h2{
   min-width:0;
   display:block;
   padding:24px 0 26px;
-  border-bottom:1px solid var(--line);
+  border-bottom:0;
   transition:background-color .12s ease;
 }
 .category:hover{background:#fafafa}
@@ -144,7 +144,7 @@ h2{
 .footer-note{
   margin-top:72px;
   padding-top:24px;
-  border-top:1px solid var(--line);
+  border-top:0;
   color:var(--muted);
   font-size:13px;
   line-height:1.5;
@@ -199,7 +199,7 @@ h2{
   min-width:0;
   display:block;
   padding:24px 0 26px;
-  border-bottom:1px solid var(--line);
+  border-bottom:0;
   transition:background-color .12s ease;
 }
 .topic:hover,.article-row:hover{background:#fafafa}

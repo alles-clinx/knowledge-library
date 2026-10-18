@@ -246,7 +246,7 @@ h1{
   justify-content:space-between;
   gap:32px;
   padding-bottom:18px;
-  border-bottom:1px solid var(--line);
+  border-bottom:0;
 }
 h2{
   margin:0;
@@ -270,7 +270,7 @@ h2{
   min-width:0;
   display:block;
   padding:24px 0 26px;
-  border-bottom:1px solid var(--line);
+  border-bottom:0;
   transition:background-color .12s ease;
 }
 .category:hover{background:#fafafa}
@@ -374,12 +374,12 @@ h2{
 }
 .eleven-episode{
   display:flex;align-items:flex-start;gap:16px;min-width:0;min-height:170px;
-  padding:19px;border:1px solid #f0f0f0;border-radius:10px;
+  padding:19px;border:0;border-radius:10px;
   background:#f9f9f9;color:#141416;text-decoration:none;
   transition:background-color .18s ease,border-color .18s ease
 }
-.eleven-episode:hover,.eleven-episode:focus-visible{background:#f4f4f4;border-color:#e7e7e7}
-.eleven-episode:focus-visible{outline:2px solid #262626;outline-offset:3px}
+.eleven-episode:hover,.eleven-episode:focus-within{background:#f4f4f4}
+.eleven-episode:focus-within{outline:1px solid rgba(0,0,0,.10);outline-offset:2px}
 .eleven-episode-featured{
   grid-row:span 2;flex-direction:column;min-height:352px;gap:18px;padding:24px
 }
@@ -432,6 +432,52 @@ h2{
 @media(prefers-reduced-motion:reduce){
   .eleven-episode{transition:none}
 }
+
+
+/* In-page podcast audio controls: quiet chrome, obvious transport, no dividers. */
+.eleven-episode{min-height:230px;gap:17px}
+.eleven-episode-featured{min-height:468px}
+.eleven-episode-body{min-height:100%}
+.eleven-episode time{margin-top:10px}
+.eleven-episode-actions{display:flex;align-items:center;gap:10px;margin-top:auto;padding-top:13px;min-width:0}
+.eleven-play{
+  display:grid;place-items:center;flex:0 0 42px;width:42px;height:42px;padding:0;
+  border:0;border-radius:50%;background:#171719;color:#fff;cursor:pointer;
+  transition:background-color .15s ease,transform .15s ease
+}
+.eleven-play:hover{background:#424246}
+.eleven-play:focus-visible{outline:2px solid #141414;outline-offset:3px}
+.eleven-play svg{width:20px;height:20px}
+.eleven-icon-pause{display:none}
+.eleven-play[data-playing="true"] .eleven-icon-play{display:none}
+.eleven-play[data-playing="true"] .eleven-icon-pause{display:block}
+.eleven-play-label{color:#35353a;font-size:12px;font-weight:570;line-height:1.35}
+.eleven-source-link{
+  margin-left:auto;min-height:40px;display:inline-flex;align-items:center;
+  color:#747479;font-size:11px;line-height:1.3;text-decoration:underline;
+  text-underline-offset:3px;text-decoration-color:transparent;
+}
+.eleven-source-link:hover,.eleven-source-link:focus-visible{
+  color:#171717;text-decoration-color:currentColor
+}
+.eleven-progress{display:flex;align-items:center;gap:10px;margin-top:9px;width:100%;min-width:0}
+.eleven-progress[hidden]{display:none!important}
+.eleven-seek{
+  min-width:0;flex:1 1 auto;height:24px;accent-color:#242426;cursor:pointer;
+}
+.eleven-play-time{white-space:nowrap;font-size:10px;line-height:1.35;color:#77777b;font-variant-numeric:tabular-nums}
+.eleven-unavailable{font-size:12px;color:#777}
+.eleven-sr-only{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:820px){
+  .eleven-episode,.eleven-episode-featured{min-height:224px}
+}
+@media(max-width:400px){
+  .eleven-episode,.eleven-episode-featured{min-height:252px}
+  .eleven-play{flex-basis:40px;width:40px;height:40px}
+  .eleven-episode-actions{flex-wrap:wrap;gap:6px 9px}
+  .eleven-source-link{margin-left:0;flex-basis:100%;min-height:30px;font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){.eleven-play{transition:none}}
 
 </style>
 <script src="/knowledge-library/assets/site.js" defer></script>
@@ -550,27 +596,33 @@ h2{
     </div>
     <div class="eleven-grid" aria-label="Three latest Eleven podcast episodes">
     <!-- eleven:episodes:start -->
-      <a class="eleven-episode eleven-episode-featured" href="https://podcasts.apple.com/us/podcast/when-metrics-start-distorting-the-business/id1875218821?i=1000796705312&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Metrics Start Distorting the Business">
+      <article class="eleven-episode eleven-episode-featured">
         <div class="eleven-cover"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/88/26/ea882627-0bfd-3ffa-ef61-e91cddad52ff/mza_10679340562267036894.png/600x600bb.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
         <div class="eleven-episode-body"><span class="eleven-episode-meta">Episode 05 · 64 min</span>
           <h3>When Metrics Start Distorting the Business</h3>
           <p>Metrics are supposed to make performance visible. But once a number becomes a target, people begin to optimise for the number itself — and that can quietly distort the…</p>
-          <time datetime="2026-10-16">16 Oct 2026</time></div>
-      </a>
-      <a class="eleven-episode" href="https://podcasts.apple.com/us/podcast/when-efficiency-makes-operations-fragile/id1875218821?i=1000795221089&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Efficiency Makes Operations Fragile">
+          <time datetime="2026-10-16">16 Oct 2026</time>
+          <div class="eleven-episode-actions"><button class="eleven-play" type="button" data-audio-src="https://content.rss.com/episodes/371218/3240707/eleven-by-allesclinx/2026_10_16_17_53_49_178a65ab-4e1d-4707-bf13-c19e70b46341.mp3" data-duration-seconds="3859" aria-label="Play When Metrics Start Distorting the Business" aria-pressed="false" title="Play episode"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path class="eleven-icon-play" d="m9 6 9 6-9 6V6Z"/><path class="eleven-icon-pause" d="M9 6v12M15 6v12"/></svg></button><span class="eleven-play-label">Play episode</span><a class="eleven-source-link" href="https://podcasts.apple.com/us/podcast/when-metrics-start-distorting-the-business/id1875218821?i=1000796705312&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Metrics Start Distorting the Business on Apple Podcasts">Apple Podcasts</a></div>
+          <div class="eleven-progress" hidden><label class="eleven-sr-only" for="eleven-seek-0">Playback position for When Metrics Start Distorting the Business</label><input class="eleven-seek" id="eleven-seek-0" type="range" min="0" max="1000" value="0" aria-label="Seek within When Metrics Start Distorting the Business"/><span class="eleven-play-time">0:00 / 64:00</span></div></div>
+      </article>
+      <article class="eleven-episode">
         <div class="eleven-cover"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/49/6d/8e496d4b-5256-26a4-1467-aafa2594981d/mza_9684373249908959247.png/600x600bb.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
         <div class="eleven-episode-body"><span class="eleven-episode-meta">Episode 04 · 49 min</span>
           <h3>When Efficiency Makes Operations Fragile</h3>
           <p>Efficiency usually looks like progress. Lower inventory. Fewer suppliers. Tighter staffing. Higher utilisation. Less idle capacity. But the same decisions that make an…</p>
-          <time datetime="2026-10-11">11 Oct 2026</time></div>
-      </a>
-      <a class="eleven-episode" href="https://podcasts.apple.com/us/podcast/when-management-attention-becomes-the-bottleneck/id1875218821?i=1000793106444&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Management Attention Becomes the Bottleneck">
+          <time datetime="2026-10-11">11 Oct 2026</time>
+          <div class="eleven-episode-actions"><button class="eleven-play" type="button" data-audio-src="https://content.rss.com/episodes/371218/3224762/eleven-by-allesclinx/2026_10_11_06_45_30_93eb21fb-2ea2-49e1-afc6-86905da37487.mp3" data-duration-seconds="2936" aria-label="Play When Efficiency Makes Operations Fragile" aria-pressed="false" title="Play episode"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path class="eleven-icon-play" d="m9 6 9 6-9 6V6Z"/><path class="eleven-icon-pause" d="M9 6v12M15 6v12"/></svg></button><span class="eleven-play-label">Play episode</span><a class="eleven-source-link" href="https://podcasts.apple.com/us/podcast/when-efficiency-makes-operations-fragile/id1875218821?i=1000795221089&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Efficiency Makes Operations Fragile on Apple Podcasts">Apple Podcasts</a></div>
+          <div class="eleven-progress" hidden><label class="eleven-sr-only" for="eleven-seek-1">Playback position for When Efficiency Makes Operations Fragile</label><input class="eleven-seek" id="eleven-seek-1" type="range" min="0" max="1000" value="0" aria-label="Seek within When Efficiency Makes Operations Fragile"/><span class="eleven-play-time">0:00 / 49:00</span></div></div>
+      </article>
+      <article class="eleven-episode">
         <div class="eleven-cover"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/8a/c1/3a8ac1c4-59b0-5906-6136-b97d34b7b9da/mza_8629709173868289414.jpg/600x600bb.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
         <div class="eleven-episode-body"><span class="eleven-episode-meta">Episode 03 · 45 min</span>
           <h3>When Management Attention Becomes the Bottleneck</h3>
           <p>Organisations measure labour, capital, inventory and productivity with precision. But one of their scarcest resources often goes largely unmeasured: management attention. In…</p>
-          <time datetime="2026-10-04">4 Oct 2026</time></div>
-      </a>
+          <time datetime="2026-10-04">4 Oct 2026</time>
+          <div class="eleven-episode-actions"><button class="eleven-play" type="button" data-audio-src="https://content.rss.com/episodes/371218/3205873/eleven-by-allesclinx/2026_10_04_14_14_25_82083264-9b6b-4897-a49a-d0471b60c123.mp3" data-duration-seconds="2726" aria-label="Play When Management Attention Becomes the Bottleneck" aria-pressed="false" title="Play episode"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path class="eleven-icon-play" d="m9 6 9 6-9 6V6Z"/><path class="eleven-icon-pause" d="M9 6v12M15 6v12"/></svg></button><span class="eleven-play-label">Play episode</span><a class="eleven-source-link" href="https://podcasts.apple.com/us/podcast/when-management-attention-becomes-the-bottleneck/id1875218821?i=1000793106444&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Management Attention Becomes the Bottleneck on Apple Podcasts">Apple Podcasts</a></div>
+          <div class="eleven-progress" hidden><label class="eleven-sr-only" for="eleven-seek-2">Playback position for When Management Attention Becomes the Bottleneck</label><input class="eleven-seek" id="eleven-seek-2" type="range" min="0" max="1000" value="0" aria-label="Seek within When Management Attention Becomes the Bottleneck"/><span class="eleven-play-time">0:00 / 45:00</span></div></div>
+      </article>
     <!-- eleven:episodes:end -->
     </div>
   </section>
@@ -639,7 +691,6 @@ h2{
   </section>
 
 </main>
-<div class="acx-bottom-brand" aria-hidden="true">Alle's ClinX</div>
 <script>
 (function(){
   document.querySelectorAll('[data-slider]').forEach(function(slider){

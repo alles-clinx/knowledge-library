@@ -7,7 +7,7 @@
   --acx-shell:1240px;
   --acx-radius:8px;
 }
-.acx-site-header,.acx-bottom-brand,.acx-search-dialog{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,"Helvetica Neue",Arial,sans-serif}
+.acx-site-header,.acx-search-dialog{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,"Helvetica Neue",Arial,sans-serif}
 body{padding-top:88px}
 .acx-site-header{
   position:fixed;top:16px;left:16px;right:16px;z-index:1000;
@@ -314,26 +314,6 @@ body{padding-top:88px}
 }
 .acx-search-count{white-space:nowrap;font-variant-numeric:tabular-nums}
 
-.acx-bottom-brand{
-  width:100%;
-  margin-top:clamp(88px,10vw,150px);
-  padding:0 20px max(8px,env(safe-area-inset-bottom));
-  overflow:hidden;
-  color:transparent;
-  background:linear-gradient(180deg,rgba(11,11,12,.18) 0%,rgba(11,11,12,.10) 42%,rgba(11,11,12,.035) 72%,rgba(11,11,12,0) 100%);
-  -webkit-background-clip:text;
-  background-clip:text;
-  -webkit-text-fill-color:transparent;
-  font-size:clamp(72px,15.5vw,230px);
-  line-height:.78;
-  font-weight:500;
-  letter-spacing:-.075em;
-  white-space:nowrap;
-  text-align:center;
-  user-select:none;
-  pointer-events:none;
-}
-
 body.acx-search-open{overflow:hidden}
 @media(max-width:960px){
   body{padding-top:80px}
@@ -354,7 +334,6 @@ body.acx-search-open{overflow:hidden}
   
 }
 @media(max-width:560px){
-  .acx-bottom-brand{font-size:clamp(64px,20vw,110px);margin-top:78px;padding-inline:10px}
   .acx-site-bar{width:calc(100% - 28px)}
   .acx-brand-cluster{gap:9px}
   .acx-wordmark{font-size:16px}
@@ -473,11 +452,7 @@ body.acx-search-open{overflow:hidden}
 }
 .knowledge-home .editorial-item:hover,.knowledge-home .quick-item:hover{background:#f1f1f2}
 .knowledge-home .library{margin-top:76px}
-.knowledge-home .page{padding-bottom:0}
-.knowledge-home .acx-bottom-brand{
-  margin-top:clamp(72px,8vw,116px);
-  background-image:linear-gradient(180deg,rgba(11,11,12,.15) 0%,rgba(11,11,12,.065) 48%,rgba(11,11,12,0) 100%);
-}
+.knowledge-home .page{padding-bottom:48px}
 @media(max-width:960px){
   .acx-site-bar{width:calc(100% - 36px)}
   
@@ -503,7 +478,6 @@ body.acx-search-open{overflow:hidden}
   .knowledge-home .editorial-block{margin-top:48px}
   .knowledge-home .editorial-block+.editorial-block{margin-top:48px}
   .knowledge-home .library{margin-top:58px}
-  .knowledge-home .acx-bottom-brand{margin-top:64px}
 }
 
 /* Compact Knowledge header: brand, search, install. */
@@ -618,8 +592,8 @@ body.acx-search-open{overflow:hidden}
 /* ---------- shared mobile-first footer v20 ---------- */
 .acx-site-footer{
   width:calc(100% - 32px);
-  margin:clamp(72px,8vw,112px) auto 16px;
-  border:1px solid #ededed;
+  margin:clamp(44px,5vw,70px) auto 16px;
+  border:0;
   border-radius:20px;
   background:#f9f9f9;
   color:#222225;
@@ -704,7 +678,7 @@ body.acx-search-open{overflow:hidden}
   min-width:0;
   margin-top:38px;
   padding-top:20px;
-  border-top:1px solid #e3e3e5;
+  border-top:0;
   display:flex;
   align-items:center;
   justify-content:space-between;
@@ -953,7 +927,7 @@ img{
   height:64px;
   background:#fff;
   border:0;
-  border-bottom:1px solid #eaeaea;
+  border-bottom:1px solid #f0f0f0;
   border-radius:0;
   box-shadow:none;
   -webkit-backdrop-filter:none;
@@ -1017,3 +991,28 @@ body{padding-top:64px}
 @media(prefers-reduced-motion:reduce){
   .acx-site-header,.acx-site-header.is-scrolled{transition:none!important}
 }
+
+/* Calm separators throughout: whitespace carries the hierarchy. */
+:root{--acx-line:rgba(15,15,17,.055)}
+.acx-search-hint{border-top-color:rgba(0,0,0,.055)}
+.acx-search-result{border-bottom-color:rgba(0,0,0,.045)}
+.acx-search-top{border-bottom-color:rgba(0,0,0,.06)}
+.acx-site-footer .acx-footer-bottom{border-top:0}
+.acx-site-footer{box-shadow:none}
+/* Articles: preserve table legibility; remove decorative horizontal rules. */
+.references,.article .references{
+  border-top:0!important;padding-top:12px!important
+}
+.open-knowledge{border-top:0!important;padding-top:4px!important}
+.rail .rail-section:last-child,.mobile-panel,.scroll-progress-list{border-top:0!important}
+.key-point{border-left:0!important;padding:14px 16px!important;background:#f9f9f9}
+.data-table th,.data-table td{border-bottom:1px solid rgba(0,0,0,.075)!important}
+.data-table thead th{border-top:1px solid rgba(0,0,0,.13)!important}
+.mobile-tools .tool-wrap + .tool-wrap > .tool{
+  border-left-color:rgba(0,0,0,.07)!important
+}
+.tool,.popover,.share-grid a,.share-grid button,.text-controls,
+.mobile-rail details,.mobile-tools.tools,.scroll-progress-shell,.language-switch{
+  border-color:#e7e7e9!important;
+}
+.popover,.mobile-popover{box-shadow:none!important}
