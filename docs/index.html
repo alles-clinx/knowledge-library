@@ -448,18 +448,19 @@ h2{
 .eleven-play{
   display:inline-flex;align-items:center;justify-content:center;gap:9px;
   flex:0 0 112px;width:112px;height:44px;min-width:112px;min-height:44px;
-  padding:0 12px;border:1px solid #202024;border-radius:10px;
-  background:#202024;color:#fff;font-family:inherit;font-weight:600;font-size:12.5px;line-height:1.2;
+  padding:0 12px;border:1px solid #e6e6e8;border-radius:10px;
+  background:#eeeeef;color:#333337;font-family:inherit;font-weight:550;font-size:12.5px;line-height:1.2;
   cursor:pointer;user-select:none;-webkit-tap-highlight-color:transparent;
-  transition:background-color .2s ease,border-color .2s ease,color .2s ease,box-shadow .2s ease
+  transition:background-color .2s ease,border-color .2s ease,color .2s ease
 }
-.eleven-play:hover{background:#39393d;border-color:#39393d}
-.eleven-play:active{background:#111113;border-color:#111113}
-.eleven-play:focus-visible{outline:2px solid #141416;outline-offset:3px}
-.eleven-play[data-state="playing"]{background:#171719;border-color:#171719}
-.eleven-play[data-state="paused"]{background:#fff;color:#242426;border-color:#dadadd}
-.eleven-play[data-state="paused"]:hover{background:#ededee;border-color:#d6d6da}
-.eleven-play[data-state="loading"]{background:#55555a;border-color:#55555a;cursor:progress}
+.eleven-play:hover{background:#e5e5e7;border-color:#e0e0e2}
+.eleven-play:active{background:#dddddf;border-color:#dadadc}
+.eleven-play:focus-visible{outline:2px solid #525257;outline-offset:3px}
+.eleven-play[data-state="playing"]{background:#e6e6e8;color:#222226;border-color:#dedee0}
+.eleven-play[data-state="playing"]:hover{background:#dedee0;border-color:#d6d6d8}
+.eleven-play[data-state="paused"]{background:#f2f2f3;color:#343438;border-color:#e6e6e8}
+.eleven-play[data-state="paused"]:hover{background:#e9e9eb;border-color:#e0e0e2}
+.eleven-play[data-state="loading"]{background:#ededee;color:#55555a;border-color:#e6e6e8;cursor:progress}
 @keyframes eleven-loading-pulse{0%,100%{opacity:1}50%{opacity:.48}}
 @media(prefers-reduced-motion:no-preference){.eleven-play[data-state="loading"] .eleven-control-icon{animation:eleven-loading-pulse 1.2s ease-in-out infinite}}
 
@@ -470,7 +471,7 @@ h2{
 .eleven-play[data-playing="true"] .eleven-icon-pause{display:block}
 .eleven-play-label{
   display:block;flex:0 0 56px;width:56px;min-width:0;max-width:56px;
-  color:inherit;text-align:left;font-size:12.5px;font-weight:600;line-height:1.25;
+  color:inherit;text-align:left;font-size:12.5px;font-weight:550;line-height:1.25;
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis
 }
 .eleven-source-link{

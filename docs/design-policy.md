@@ -68,3 +68,8 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Distinguish Play, Loading, Pause, Resume and unavailable audio states without changing the button's width, height or position.
 - Use a quiet 4px progress track, a clear thumb, and accessible elapsed/total playback timestamps.
 - Loading feedback is restrained and must respect reduced-motion settings. Maintain the browser-native audio API and single active stream.
+
+### Quiet transport palette
+- The audio control must not read as a primary CTA: use light gray #eeeeef, dark neutral ink, and a faint border.
+- Playing, paused, and loading states stay within the same soft monochrome family; only the icon and short verb indicate transport state.
+- Preserve the fixed 112 × 44 px hit target, keyboard focus ring, contrast, and no-shift playback layout.

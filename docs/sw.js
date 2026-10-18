@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20261018-v12-premium-eleven-transport';
+const VERSION='acx-knowledge-pwa-20261018-v13-muted-eleven-controls';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);

@@ -140,6 +140,16 @@ try{
   assert(transportAppearance.height===44,'Play/Pause control needs a 44px touch target');
   assert(transportAppearance.iconWidth>=18,'Playback icon should be clearly visible');
   assert(transportAppearance.state==='idle'&&transportAppearance.label==='Play','Player initial state should be Play');
+  const quietButton=(await podcast.locator('.eleven-play').first().evaluate(el=>{
+    const style=getComputedStyle(el);
+    return {background:style.backgroundColor,color:style.color,border:style.borderTopColor};
+  }));
+  const rgb=s=>s.match(/\d+/g).slice(0,3).map(Number);
+  const neutralLight=rgbValue=>{const channel=rgb(rgbValue);return channel.every(n=>n>=216)&&Math.max(...channel)-Math.min(...channel)<=5};
+  const darkInk=rgbValue=>rgb(rgbValue).every(n=>n<=95);
+  assert(neutralLight(quietButton.background)&&neutralLight(quietButton.border),
+    'Eleven controls must use quiet light gray, not attention-grabbing black');
+  assert(darkInk(quietButton.color),'Eleven control icons and labels must remain readable dark ink');
   assert(await podcast.locator('.eleven-progress[hidden]').count()===3,'Episode progress should be hidden until playback starts');
   assert((await podcast.locator('.eleven-play').first().getAttribute('data-audio-src')).startsWith('https://content.rss.com/episodes/'),'Podcast must use verified RSS MP3 audio');
   assert((await podcast.locator('.eleven-source-link').first().getAttribute('href')).startsWith('https://podcasts.apple.com/'),'Apple should remain a secondary episode link');
@@ -172,12 +182,18 @@ try{
   sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Play');
   assert(await firstPlay.getAttribute('aria-pressed')==='true','Play did not start in-page audio');
   assert(await firstPlay.getAttribute('data-state')==='playing','Player should expose playing state');
+  const playingPalette=await firstPlay.evaluate(el=>({background:getComputedStyle(el).backgroundColor,color:getComputedStyle(el).color}));
+  assert(neutralLight(playingPalette.background)&&darkInk(playingPalette.color),
+    'Playing state must stay subtle and never become a dark block');
   assert((await firstPlay.locator('.eleven-play-label').textContent())==='Pause','Button label should change to Pause in place');
   assert(await podcast.locator('.eleven-progress:not([hidden])').count()===1,'Active episode progress must be visible');
   await firstPlay.click();
   sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Pause');
   assert(await firstPlay.getAttribute('aria-pressed')==='false','Pause did not stop in-page audio');
   assert(await firstPlay.getAttribute('data-state')==='paused','Player should retain paused state');
+  const pausedPalette=await firstPlay.evaluate(el=>({background:getComputedStyle(el).backgroundColor,color:getComputedStyle(el).color}));
+  assert(neutralLight(pausedPalette.background)&&darkInk(pausedPalette.color),
+    'Paused state must remain a restrained neutral gray');
   assert((await firstPlay.locator('.eleven-play-label').textContent())==='Resume','Paused control should offer Resume');
   assert(await podcast.locator('.eleven-progress:not([hidden])').count()===1,'Paused progress should remain available');
   const progressCheck=await podcast.locator('.eleven-progress:not([hidden]) .eleven-seek').first().evaluate(el=>{
