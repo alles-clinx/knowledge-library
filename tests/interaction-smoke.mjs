@@ -295,7 +295,9 @@ try{
 
   const mobile = await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
   const mp = await mobile.newPage();
-  await mp.goto(BASE,{waitUntil:'networkidle'});
+  await mp.goto(BASE,{waitUntil:'domcontentloaded'});
+  await mp.locator('.acx-site-header').waitFor({state:'visible',timeout:15000});
+  await mp.locator('#acx-site-footer').waitFor({state:'attached',timeout:15000});
   assert(await mp.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on mobile');
   assert(await mp.locator('.acx-search-button').isVisible(),'Mobile Search button is not visible');
   assert(await mp.locator('.acx-header-library svg').count()===1,'Mobile Open-book Library icon missing');
@@ -339,7 +341,9 @@ try{
     });
     const auditPage=await auditCtx.newPage();
     for(const [label,url] of mobileAuditRoutes){
-      await auditPage.goto(url,{waitUntil:'networkidle'});
+      await auditPage.goto(url,{waitUntil:'domcontentloaded'});
+      await auditPage.locator('.acx-site-header').waitFor({state:'visible',timeout:15000});
+      await auditPage.locator('#acx-site-footer').waitFor({state:'attached',timeout:15000});
       assert((await auditPage.locator('meta[name="viewport"]').getAttribute('content')||'').includes('width=device-width'),
         label+' is missing a mobile viewport declaration');
       assert(await auditPage.locator('.acx-skip-link').count()===1,label+' is missing the shared skip link');
