@@ -80,25 +80,26 @@
 
   const pwaStyle=document.createElement('style');
   pwaStyle.textContent=[
-    '.acx-install-app{height:36px;padding:0 12px;border:1px solid #dedee1;border-radius:8px;background:#fff;color:#111;font:600 13px/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;cursor:pointer;white-space:nowrap}',
-    '.acx-install-app:hover,.acx-install-app:focus-visible{border-color:#bcbcc1;background:#fafafa;outline:0}',
+    '.acx-install-app{appearance:none;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;min-width:44px;padding:0;border:0;border-radius:8px;background:transparent;color:#414146;cursor:pointer}',
+    '.acx-install-app:hover,.acx-install-app:focus-visible{background:#f9f9f9;color:#111}',
     '.acx-install-app[hidden],.acx-pwa-status[hidden]{display:none!important}',
     '.acx-pwa-status{position:fixed;left:50%;bottom:max(18px,env(safe-area-inset-bottom));z-index:9999;transform:translateX(-50%);max-width:calc(100% - 32px);padding:9px 12px;border:1px solid #dedee1;border-radius:999px;background:rgba(255,255,255,.96);color:#303034;font:600 12px/1.25 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;box-shadow:0 5px 22px rgba(0,0,0,.08);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}',
-    '@media(max-width:640px){.acx-install-app{height:34px;padding:0 9px;font-size:12px}.acx-pwa-status{bottom:max(12px,env(safe-area-inset-bottom))}}'
+    '@media(max-width:640px){.acx-pwa-status{bottom:max(12px,env(safe-area-inset-bottom))}}'
   ].join('');
   document.head.appendChild(pwaStyle);
 
   const preferredLocale=document.documentElement.lang==='hi'?'hi-IN':'en';
-  const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>';
+  const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 4.3 4.3"></path></svg>';
   const libraryIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.5C9.3 4.7 6.3 4.4 3 5.3v13.5c3.3-.9 6.3-.6 9 1.2 2.7-1.8 5.7-2.1 9-1.2V5.3c-3.3-.9-6.3-.6-9 1.2Z"/><path d="M12 6.5V20"/><path d="M5.8 9c1.2-.1 2.4.1 3.4.5"/><path d="M14.8 9.5c1.1-.4 2.3-.6 3.4-.5"/></svg>';
-  // Open-book Library shortcut; no menu drawer or redundant sitemap link.
+  const installIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v11"/><path d="m8 10 4 4 4-4"/><path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"/></svg>';
+  // Three purposeful inline SVG controls with accessible names; no menu drawer.
   const header=document.createElement('div');
   header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
     '<div class="acx-brand-cluster"><a class="acx-wordmark" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Alle\'s ClinX</a></div>'+
     '<nav class="acx-site-actions" aria-label="Knowledge shortcuts">'+
-    '<a class="acx-header-icon acx-header-library" href="'+BASE+'#browse-title" aria-label="Browse Knowledge categories" title="Browse library">'+libraryIcon+'<span class="acx-header-label">Library</span></a>'+
+    '<a class="acx-header-icon acx-header-library" href="'+BASE+'#browse-title" aria-label="Browse Knowledge categories" title="Library">'+libraryIcon+'</a>'+
     '<button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button>'+
-    '<button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app">Install</button></nav></div></header>';
+    '<button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app" title="Install app">'+installIcon+'</button></nav></div></header>';
   document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
 
   if(!document.getElementById('acx-site-footer')){

@@ -54,7 +54,19 @@ try{
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
   assert(await page.locator('.acx-header-library svg').count()===1,'Open-book Library icon missing');
   assert(await page.locator('.acx-header-sitemap').count()===0,'Redundant Sitemap icon returned');
-  assert((await page.locator('.acx-header-library .acx-header-label').textContent()).trim()==='Library','Desktop Library label missing');
+  assert(await page.locator('.acx-header-library .acx-header-label').count()===0,'Library text must not appear in the header');
+  assert(await page.locator('.acx-install-app svg').count()===1,'Install must use an SVG icon');
+  assert((await page.locator('.acx-install-app').textContent()).trim()==='','Install must be icon-only');
+  const headerVisual=await page.locator('.acx-site-header').evaluate(el=>{
+    const style=getComputedStyle(el);
+    return {top:style.top,shadow:style.boxShadow,radius:style.borderRadius,blur:style.backdropFilter};
+  });
+  assert(headerVisual.top==='0px','Header is not flush against the top of the viewport');
+  assert(headerVisual.shadow==='none','Header must not have a shadow');
+  assert(headerVisual.radius==='0px','Header must not have rounded corners');
+  assert(headerVisual.blur==='none','Header must not have backdrop blur');
+  const searchSvgWidth=await page.locator('.acx-search-button svg').evaluate(el=>parseFloat(getComputedStyle(el).width));
+  assert(searchSvgWidth>=23,'Search SVG should be visibly larger');
   assert((await page.locator('.acx-header-library').getAttribute('href'))===new URL('#browse-title',BASE).pathname+'#browse-title','Library icon destination incorrect');
   assert(await page.locator('.acx-site-header').evaluate(el=>getComputedStyle(el).position)==='fixed','Header must remain fixed');
   await page.evaluate(()=>window.scrollTo(0,700));
@@ -125,6 +137,8 @@ try{
   assert(await mp.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on mobile');
   assert(await mp.locator('.acx-search-button').isVisible(),'Mobile Search button is not visible');
   assert(await mp.locator('.acx-header-library svg').count()===1,'Mobile Open-book Library icon missing');
+  assert(await mp.locator('.acx-install-app svg').count()===1,'Mobile Install SVG icon is missing');
+  assert(await mp.locator('.acx-site-header').evaluate(el=>getComputedStyle(el).top)==='0px','Mobile header must remain at the top');
   await mp.evaluate(()=>window.scrollTo(0,650));
   await wait(350);
   assert(await mp.locator('.acx-site-header').evaluate(el=>el.classList.contains('is-hidden')),'Mobile header did not hide');
@@ -165,6 +179,9 @@ try{
       assert(scrollPadding>0,label+' is missing fixed-header scroll padding');
       await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
       assert(await auditPage.locator('.acx-header-library').count()===1,label+' Library shortcut missing');
+      assert(await auditPage.locator('.acx-install-app svg').count()===1,label+' Install icon missing');
+      assert(await auditPage.locator('.acx-site-header').evaluate(el=>getComputedStyle(el).boxShadow)==='none',label+' header shadow regressed');
+      assert(await auditPage.locator('.acx-site-actions').evaluate(el=>el.getBoundingClientRect().right<=window.innerWidth+1),label+' icon group overflows viewport');
       assert(await auditPage.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,label+' retains menu navigation');
       const h1=auditPage.locator('h1').first();
       if(await h1.count()){

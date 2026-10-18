@@ -207,6 +207,8 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
 site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
 site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
+if "frosted glass header" in site_css:
+    errors.append("Retired frosted-glass header styles must not be reintroduced")
 for retired in (
     "about/index.html",
     "about/knowledge/index.html",
@@ -236,7 +238,7 @@ for token in [
     if token in site_css:
         errors.append(f"Removed menu style remains: {token}")
 
-for token in ["acx-menu-button", "acx-mobile-drawer", "acx-header-sitemap", "sitemapIcon", "setMenu(", "syncHookRails(", "hydrateMobileKnowledge("]:
+for token in ["acx-menu-button", "acx-mobile-drawer", "acx-header-sitemap", "acx-header-label", "sitemapIcon", "setMenu(", "syncHookRails(", "hydrateMobileKnowledge("]:
     if token in site_js:
         errors.append(f"Removed menu runtime remains: {token}")
 
@@ -247,6 +249,7 @@ for token in [
     ".acx-search-dialog.is-open{",
     ".acx-site-header.is-hidden{",
     ".acx-header-icon{",
+    ".acx-install-app svg{",
 ]:
     if token not in site_css:
         errors.append(f"Global shell style missing: {token}")
@@ -260,7 +263,7 @@ for token in [
     "siteHeader.classList.add('is-hidden')",
     "siteHeader.classList.remove('is-hidden')",
     "acx-header-library",
-    "acx-header-label",
+    "installIcon",
 ]:
     if token not in site_js:
         errors.append(f"Global shell interaction runtime missing: {token}")
