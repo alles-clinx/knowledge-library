@@ -207,6 +207,22 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
 site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
 site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
+for retired in (
+    "about/index.html",
+    "about/knowledge/index.html",
+    "about/tools/index.html",
+    "about/nova/index.html",
+    "about/metricon/index.html",
+    "about/checkmate/index.html",
+    "sitemap/index.html",
+    "cookie-policy/index.html",
+    "ai-data-use/index.html",
+    "accessibility/index.html",
+    "trust-security/index.html",
+):
+    if (ROOT / "docs" / retired).exists():
+        errors.append(f"Retired static page still exists: {retired}")
+
 if 'id="browse-title"' not in home_html:
     errors.append("Library shortcut target missing")
 
@@ -220,7 +236,7 @@ for token in [
     if token in site_css:
         errors.append(f"Removed menu style remains: {token}")
 
-for token in ["acx-menu-button", "acx-mobile-drawer", "setMenu(", "syncHookRails(", "hydrateMobileKnowledge("]:
+for token in ["acx-menu-button", "acx-mobile-drawer", "acx-header-sitemap", "sitemapIcon", "setMenu(", "syncHookRails(", "hydrateMobileKnowledge("]:
     if token in site_js:
         errors.append(f"Removed menu runtime remains: {token}")
 
@@ -244,7 +260,7 @@ for token in [
     "siteHeader.classList.add('is-hidden')",
     "siteHeader.classList.remove('is-hidden')",
     "acx-header-library",
-    "acx-header-sitemap",
+    "acx-header-label",
 ]:
     if token not in site_js:
         errors.append(f"Global shell interaction runtime missing: {token}")
