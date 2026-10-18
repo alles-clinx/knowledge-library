@@ -206,6 +206,11 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
 
 site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
 site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
+# Footer follows the neutral #f9f9f9 palette, never the older dark design.
+footer_css=site_css.split("/* ---------- shared mobile-first footer v20 ---------- */",1)[-1].split("/* ---------- sitewide refinement v23 ---------- */",1)[0]
+if "background:#f9f9f9;" not in footer_css:
+    errors.append("Footer background must be #f9f9f9")
+
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
 if "frosted glass header" in site_css:
     errors.append("Retired frosted-glass header styles must not be reintroduced")

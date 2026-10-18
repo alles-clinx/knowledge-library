@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20261018-v6-icon-header';
+const VERSION='acx-knowledge-pwa-20261018-v7-light-footer';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);

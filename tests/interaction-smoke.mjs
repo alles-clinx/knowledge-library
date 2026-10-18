@@ -193,6 +193,13 @@ try{
         const box=await h1.boundingBox();
         assert(!box || box.width<=width+1,label+' H1 exceeds the '+width+'px viewport');
       }
+      const footerPalette=await auditPage.locator('#acx-site-footer').evaluate(el=>{
+        const footerStyle=getComputedStyle(el);
+        const brandStyle=getComputedStyle(el.querySelector('.acx-footer-brand'));
+        return {background:footerStyle.backgroundColor,brand:brandStyle.color};
+      });
+      assert(footerPalette.background==='rgb(249, 249, 249)',label+' footer must use #f9f9f9');
+      assert(footerPalette.brand==='rgb(20, 20, 22)',label+' footer brand text must remain readable');
       const footer=auditPage.locator('#acx-site-footer');
       assert(await footer.count()===1,label+' is missing the shared footer');
       const footerBox=await footer.boundingBox();
