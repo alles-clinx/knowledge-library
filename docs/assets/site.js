@@ -1,7 +1,7 @@
 (function(){
   const BASE='/knowledge-library/';
-  const ICON_VERSION='20261018-2';
-  // Keep HTML-declared icons and ensure the same brand icon on every Knowledge route.
+  const ICON_VERSION='20261018-book';
+  // The Knowledge Library uses the open-book symbol on every route, not the CX monogram.
   function addIcon(rel,href,type,sizes){
     if(document.head.querySelector('link[rel="'+rel+'"]'))return;
     const link=document.createElement('link');

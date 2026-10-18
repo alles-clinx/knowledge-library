@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20261018-v14-static-favicons';
+const VERSION='acx-knowledge-pwa-20261018-v15-book-icons';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);

@@ -263,6 +263,15 @@ for name, content, token in (
 ):
     if token not in content:
         errors.append(f"Missing quiet hover inset treatment in {name}")
+
+# Favicon and app icon must use the same open-book mark as the Knowledge header.
+icon_dir=ROOT/"docs"/"assets"
+for filename in ("favicon.svg","app-icon.svg"):
+    icon_text=(icon_dir/filename).read_text(encoding="utf-8")
+    if "M12 6.5C9.3 4.7" not in icon_text:
+        errors.append(f"{filename} must use the Knowledge Library open-book glyph")
+    if "M39.5 17.5" in icon_text or "M318 142" in icon_text:
+        errors.append(f"{filename} still uses the old CX logo")
 if "frosted glass header" in site_css:
     errors.append("Retired frosted-glass header styles must not be reintroduced")
 for retired in (

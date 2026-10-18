@@ -75,7 +75,7 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Preserve the fixed 112 × 44 px hit target, keyboard focus ring, contrast, and no-shift playback layout.
 
 ## Site icon and install icons
-- Preserve the existing CX brand mark consistently across browser favicon, bookmarks and installed Knowledge app.
+- Use the open-book icon from the Knowledge Library header consistently across browser favicons, bookmarks, iOS touch icons, and installed app icons. Never use the CX monogram for the Knowledge Library.
 - Declare the favicon and native 180px PNG touch icon in homepage HTML before JavaScript runs.
 - Provide 192px PNG plus scalable SVG for PWA installs, with PNG favicon fallback.
 - The shared shell adds missing favicon metadata for other Knowledge routes without removing static links or creating duplicates.
