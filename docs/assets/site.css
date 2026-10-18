@@ -1295,3 +1295,39 @@ img{
     scroll-behavior:auto!important;
   }
 }
+
+/* Direction-aware floating header and minimal inline SVG shortcuts. */
+.acx-site-header,.acx-site-header.is-scrolled{
+  transform:translate3d(0,0,0);
+  transition:transform .28s cubic-bezier(.22,1,.36,1),
+    background-color .2s ease,border-color .2s ease,box-shadow .2s ease,
+    backdrop-filter .2s ease,-webkit-backdrop-filter .2s ease;
+}
+.acx-site-header.is-hidden{
+  transform:translate3d(0,calc(-100% - 40px),0);
+  pointer-events:none;
+}
+.acx-site-actions{gap:4px}
+.acx-header-icon{
+  width:40px;height:40px;flex:0 0 40px;
+  display:inline-flex;align-items:center;justify-content:center;
+  border:1px solid transparent;border-radius:10px;
+  color:#414146!important;background:transparent;
+  text-decoration:none!important;
+  transition:background-color .17s ease,border-color .17s ease,color .17s ease;
+}
+.acx-header-icon svg{width:19px;height:19px;flex:0 0 auto}
+.acx-header-icon:hover,.acx-header-icon:focus-visible{
+  color:#111!important;background:rgba(249,249,249,.9);
+  border-color:rgba(0,0,0,.035);
+}
+@media(max-width:560px){
+  .acx-site-actions{gap:2px}
+  .acx-header-icon{width:36px;height:40px;flex-basis:36px;border-radius:8px}
+  .acx-header-icon svg{width:18px;height:18px}
+  .acx-search-button{width:40px;height:40px;min-height:40px}
+  .acx-install-app{height:40px!important;min-height:40px!important}
+}
+@media(prefers-reduced-motion:reduce){
+  .acx-site-header,.acx-site-header.is-scrolled,.acx-header-icon{transition:none!important}
+}

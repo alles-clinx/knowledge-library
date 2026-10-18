@@ -90,12 +90,17 @@
 
   const preferredLocale=document.documentElement.lang==='hi'?'hi-IN':'en';
   const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>';
-  // Shared navigation is intentionally limited to the brand, Search and Install.
+  const libraryIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 7v14"/><path d="M3 18V5a1 1 0 0 1 1-1h3a5 5 0 0 1 5 5v12a5 5 0 0 0-5-5H4a1 1 0 0 0-1 1Z"/><path d="M21 18V5a1 1 0 0 0-1-1h-3a5 5 0 0 0-5 5v12a5 5 0 0 1 5-5h3a1 1 0 0 1 1 1Z"/></svg>';
+  const sitemapIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>';
+  // Accessible SVG shortcuts; no menu drawer.
   const header=document.createElement('div');
   header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
     '<div class="acx-brand-cluster"><a class="acx-wordmark" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Alle\'s ClinX</a></div>'+
-    '<div class="acx-site-actions"><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button>'+
-    '<button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app">Install</button></div></div></header>';
+    '<nav class="acx-site-actions" aria-label="Knowledge shortcuts">'+
+    '<a class="acx-header-icon acx-header-library" href="'+BASE+'#browse-title" aria-label="Browse Knowledge categories" title="Library">'+libraryIcon+'</a>'+
+    '<a class="acx-header-icon acx-header-sitemap" href="'+BASE+'sitemap/" aria-label="Knowledge sitemap" title="Sitemap">'+sitemapIcon+'</a>'+
+    '<button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button>'+
+    '<button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app">Install</button></nav></div></header>';
   document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
 
   if(!document.getElementById('acx-site-footer')){
@@ -238,10 +243,47 @@
   }
 
   const siteHeader=document.querySelector('.acx-site-header');
-  function syncHeaderState(){
-    siteHeader.classList.toggle('is-scrolled',window.scrollY>10);
+  let lastHeaderScrollY=Math.max(0,window.scrollY);
+  let headerDirection=0;
+  let headerDistance=0;
+  let headerFrame=0;
+  function revealHeader(){
+    siteHeader.classList.remove('is-hidden');
   }
-  window.addEventListener('scroll',syncHeaderState,{passive:true});
+  function syncHeaderState(){
+    const y=Math.max(0,window.scrollY);
+    const delta=y-lastHeaderScrollY;
+    siteHeader.classList.toggle('is-scrolled',y>10);
+    if(y<=72 || siteHeader.contains(document.activeElement)){
+      revealHeader();
+      headerDirection=0;
+      headerDistance=0;
+    }else if(Math.abs(delta)>1){
+      const direction=Math.sign(delta);
+      headerDistance=direction===headerDirection?headerDistance+Math.abs(delta):Math.abs(delta);
+      headerDirection=direction;
+      if(direction>0 && y>140 && headerDistance>=16){
+        siteHeader.classList.add('is-hidden');
+      }else if(direction<0 && headerDistance>=8){
+        revealHeader();
+      }
+    }
+    lastHeaderScrollY=y;
+  }
+  function scheduleHeaderSync(){
+    if(headerFrame) return;
+    headerFrame=requestAnimationFrame(function(){
+      headerFrame=0;
+      syncHeaderState();
+    });
+  }
+  window.addEventListener('scroll',scheduleHeaderSync,{passive:true});
+  window.addEventListener('resize',scheduleHeaderSync,{passive:true});
+  siteHeader.addEventListener('focusin',function(){
+    revealHeader();
+    headerDirection=0;
+    headerDistance=0;
+  });
   syncHeaderState();
 
   const dialog=document.createElement('div');

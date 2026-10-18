@@ -50,6 +50,18 @@ try{
   assert(await page.locator('.acx-site-header').isVisible(),'Desktop site header is not visible');
   assert(await page.locator('.acx-search-button').isVisible(),'Desktop Search button is not visible');
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
+  assert(await page.locator('.acx-header-library svg,.acx-header-sitemap svg').count()===2,'Header SVG shortcuts are missing');
+  assert((await page.locator('.acx-header-library').getAttribute('href'))===new URL('#browse-title',BASE).pathname+'#browse-title','Library icon destination incorrect');
+  assert((await page.locator('.acx-header-sitemap').getAttribute('href'))===new URL('sitemap/',BASE).pathname,'Sitemap icon destination incorrect');
+  assert(await page.locator('.acx-site-header').evaluate(el=>getComputedStyle(el).position)==='fixed','Header must remain fixed');
+  await page.evaluate(()=>window.scrollTo(0,700));
+  await wait(350);
+  assert(await page.locator('.acx-site-header').evaluate(el=>el.classList.contains('is-hidden')),'Header did not hide on downward scroll');
+  await page.evaluate(()=>window.scrollTo(0,300));
+  await wait(350);
+  assert(await page.locator('.acx-site-header').evaluate(el=>!el.classList.contains('is-hidden')),'Header did not return on upward scroll');
+  await page.evaluate(()=>window.scrollTo(0,0));
+  await wait(180);
   assert(await page.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on desktop');
   assert(await page.locator('.acx-skip-link').count()===1,'Skip-to-content link is missing');
   assert(await page.locator('#main-content').count()===1,'Main content target is missing');
@@ -109,6 +121,15 @@ try{
   await mp.goto(BASE,{waitUntil:'networkidle'});
   assert(await mp.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on mobile');
   assert(await mp.locator('.acx-search-button').isVisible(),'Mobile Search button is not visible');
+  assert(await mp.locator('.acx-header-library svg,.acx-header-sitemap svg').count()===2,'Mobile shortcut SVGs are missing');
+  await mp.evaluate(()=>window.scrollTo(0,650));
+  await wait(350);
+  assert(await mp.locator('.acx-site-header').evaluate(el=>el.classList.contains('is-hidden')),'Mobile header did not hide');
+  await mp.evaluate(()=>window.scrollTo(0,280));
+  await wait(350);
+  assert(await mp.locator('.acx-site-header').evaluate(el=>!el.classList.contains('is-hidden')),'Mobile header did not return');
+  await mp.evaluate(()=>window.scrollTo(0,0));
+  await wait(180);
   assert(await mp.locator('.acx-install-app').isVisible(),'Mobile Install button is not visible');
   const mobileSearchButton=mp.locator('.acx-search-button');
   await mobileSearchButton.click();
@@ -151,6 +172,7 @@ try{
       const scrollPadding=parseFloat(await auditPage.locator('html').evaluate(el=>getComputedStyle(el).scrollPaddingTop));
       assert(scrollPadding>0,label+' is missing fixed-header scroll padding');
       await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
+      assert(await auditPage.locator('.acx-header-library,.acx-header-sitemap').count()===2,label+' shortcut links missing');
       assert(await auditPage.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,label+' retains menu navigation');
       const h1=auditPage.locator('h1').first();
       if(await h1.count()){

@@ -18,6 +18,9 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 
 ## Shared header
 
-- Show the Alle's ClinX brand link, Knowledge Search and Install action.
+- Show the Alle's ClinX brand, two accessible inline SVG links (browse categories and sitemap), Search and Install.
 - Do not render a Menu control or slide-out navigation on desktop or mobile.
 - Keep category discovery, related guides and footer links available without a drawer.
+- Keep the header fixed; hide it on deliberate downward scrolling and reveal it on upward scrolling.
+- Keep it visible near the top and when its controls receive keyboard focus.
+- Maintain simple monochrome icon treatment, without restoring the menu drawer.

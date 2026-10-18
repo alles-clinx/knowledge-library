@@ -207,6 +207,8 @@ for page in (ROOT/"docs"/"library").rglob("*.html"):
 site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
 site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
+if 'id="browse-title"' not in home_html:
+    errors.append("Library shortcut target missing")
 
 # The shared header provides search/install only; menu and drawer were retired.
 for token in [
@@ -227,6 +229,8 @@ for token in [
     ".acx-site-header.is-scrolled{",
     ".acx-search-button{",
     ".acx-search-dialog.is-open{",
+    ".acx-site-header.is-hidden{",
+    ".acx-header-icon{",
 ]:
     if token not in site_css:
         errors.append(f"Global shell style missing: {token}")
@@ -236,6 +240,11 @@ for token in [
     "closeBtn.addEventListener('click',closeSearch)",
     "input.addEventListener('input',renderSearch)",
     "loadRecords();",
+    "scheduleHeaderSync()",
+    "siteHeader.classList.add('is-hidden')",
+    "siteHeader.classList.remove('is-hidden')",
+    "acx-header-library",
+    "acx-header-sitemap",
 ]:
     if token not in site_js:
         errors.append(f"Global shell interaction runtime missing: {token}")
