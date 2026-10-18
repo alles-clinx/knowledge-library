@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20261018-v4-scroll-header';
+const VERSION='acx-knowledge-pwa-20261018-v5-minimal-pages';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);

@@ -9,29 +9,32 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = Path(sys.argv[1]).resolve()
 BASE = "https://allesclinx.com/knowledge/"
-STATIC = (
-    "about/",
-    "about/knowledge/",
-    "about/tools/",
-    "about/nova/",
-    "about/metricon/",
-    "about/checkmate/",
-    "sitemap/",
-)
+STATIC = ()
 LEGAL = {
     "privacy-policy/index.html": "https://allesclinx.com/privacy-policy/",
     "terms-conditions/index.html": "https://allesclinx.com/terms-conditions/",
-    "cookie-policy/index.html": "https://allesclinx.com/cookie-policy/",
-    "ai-data-use/index.html": "https://allesclinx.com/ai-data-use/",
-    "accessibility/index.html": "https://allesclinx.com/accessibility/",
-    "trust-security/index.html": "https://allesclinx.com/trust-security/",
 }
-
+RETIRED = (
+    "about/index.html",
+    "about/knowledge/index.html",
+    "about/tools/index.html",
+    "about/nova/index.html",
+    "about/metricon/index.html",
+    "about/checkmate/index.html",
+    "sitemap/index.html",
+    "cookie-policy/index.html",
+    "ai-data-use/index.html",
+    "accessibility/index.html",
+    "trust-security/index.html",
+)
 live = json.loads((ROOT / "production" / "live.json").read_text(encoding="utf-8"))
 canon = json.loads((ROOT / "taxonomy" / "canonical-structure.json").read_text(encoding="utf-8"))
 by_id = {a["article_id"]: a for a in canon["articles"]}
 live_ids = live.get("live_article_ids", [])
 errors: list[str] = []
+for retired in RETIRED:
+    if (OUT / retired).exists():
+        errors.append(f"retired static page unexpectedly published: {retired}")
 
 search = json.loads((OUT / "assets" / "live-search.json").read_text(encoding="utf-8"))
 records = search.get("records", [])

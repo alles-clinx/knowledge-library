@@ -9,7 +9,9 @@ const en = [...records].reverse().find(r => r.locale === 'en');
 const hi = en ? records.find(r => r.article_id === en.article_id && r.locale === 'hi-IN') : null;
 
 assert(sitemapXml.includes('<urlset'),'XML sitemap is missing its urlset root');
-assert(sitemapXml.includes('/knowledge-library/sitemap/'),'XML sitemap is missing the human sitemap route');
+assert(!sitemapXml.includes('/knowledge-library/sitemap/'),'Removed human sitemap remains in XML sitemap');
+assert(!sitemapXml.includes('/knowledge-library/about/'),'Retired About pages remain in XML sitemap');
+assert(sitemapXml.includes('/knowledge-library/library/'),'Knowledge category routes missing from XML sitemap');
 
 function assert(value, message){
   if(!value) throw new Error(message);
@@ -50,9 +52,10 @@ try{
   assert(await page.locator('.acx-site-header').isVisible(),'Desktop site header is not visible');
   assert(await page.locator('.acx-search-button').isVisible(),'Desktop Search button is not visible');
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
-  assert(await page.locator('.acx-header-library svg,.acx-header-sitemap svg').count()===2,'Header SVG shortcuts are missing');
+  assert(await page.locator('.acx-header-library svg').count()===1,'Open-book Library icon missing');
+  assert(await page.locator('.acx-header-sitemap').count()===0,'Redundant Sitemap icon returned');
+  assert((await page.locator('.acx-header-library .acx-header-label').textContent()).trim()==='Library','Desktop Library label missing');
   assert((await page.locator('.acx-header-library').getAttribute('href'))===new URL('#browse-title',BASE).pathname+'#browse-title','Library icon destination incorrect');
-  assert((await page.locator('.acx-header-sitemap').getAttribute('href'))===new URL('sitemap/',BASE).pathname,'Sitemap icon destination incorrect');
   assert(await page.locator('.acx-site-header').evaluate(el=>getComputedStyle(el).position)==='fixed','Header must remain fixed');
   await page.evaluate(()=>window.scrollTo(0,700));
   await wait(350);
@@ -121,7 +124,7 @@ try{
   await mp.goto(BASE,{waitUntil:'networkidle'});
   assert(await mp.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on mobile');
   assert(await mp.locator('.acx-search-button').isVisible(),'Mobile Search button is not visible');
-  assert(await mp.locator('.acx-header-library svg,.acx-header-sitemap svg').count()===2,'Mobile shortcut SVGs are missing');
+  assert(await mp.locator('.acx-header-library svg').count()===1,'Mobile Open-book Library icon missing');
   await mp.evaluate(()=>window.scrollTo(0,650));
   await wait(350);
   assert(await mp.locator('.acx-site-header').evaluate(el=>el.classList.contains('is-hidden')),'Mobile header did not hide');
@@ -145,20 +148,9 @@ try{
     ['home',BASE],
     ['category',new URL('library/cleaning-housekeeping/',BASE).href],
     ['subcategory',new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href],
-    ['about index',new URL('about/',BASE).href],
-    ['about knowledge',new URL('about/knowledge/',BASE).href],
-    ['about tools',new URL('about/tools/',BASE).href],
-    ['about nova',new URL('about/nova/',BASE).href],
-    ['about metricon',new URL('about/metricon/',BASE).href],
-    ['about checkmate',new URL('about/checkmate/',BASE).href],
-    ['sitemap',new URL('sitemap/',BASE).href],
     ['article',articleUrl(en)],
     ['legal terms',new URL('terms-conditions/',BASE).href],
     ['legal privacy',new URL('privacy-policy/',BASE).href],
-    ['legal cookies',new URL('cookie-policy/',BASE).href],
-    ['legal AI data',new URL('ai-data-use/',BASE).href],
-    ['legal accessibility',new URL('accessibility/',BASE).href],
-    ['legal trust',new URL('trust-security/',BASE).href]
   ];
   for(const width of [320,360,390,430]){
     const auditCtx=await browser.newContext({viewport:{width,height:844},isMobile:true,hasTouch:true});
@@ -172,7 +164,7 @@ try{
       const scrollPadding=parseFloat(await auditPage.locator('html').evaluate(el=>getComputedStyle(el).scrollPaddingTop));
       assert(scrollPadding>0,label+' is missing fixed-header scroll padding');
       await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
-      assert(await auditPage.locator('.acx-header-library,.acx-header-sitemap').count()===2,label+' shortcut links missing');
+      assert(await auditPage.locator('.acx-header-library').count()===1,label+' Library shortcut missing');
       assert(await auditPage.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,label+' retains menu navigation');
       const h1=auditPage.locator('h1').first();
       if(await h1.count()){
@@ -184,19 +176,10 @@ try{
       const footerBox=await footer.boundingBox();
       assert(!footerBox || footerBox.width<=width+1,label+' footer exceeds the '+width+'px viewport');
       const footerLegalLinks=auditPage.locator('#acx-site-footer .acx-footer-group').nth(1).locator('a');
-      assert(await footerLegalLinks.count()>=6,label+' footer legal navigation is incomplete');
+      assert(await footerLegalLinks.count()===2,label+' footer must have only Privacy and Terms');
       const footerTarget=auditPage.locator('#acx-site-footer .acx-footer-nav a').first();
       const footerTargetBox=await footerTarget.boundingBox();
       assert(!footerTargetBox || footerTargetBox.height>=40,label+' footer link target is too small on mobile');
-      if(label.startsWith('about ')){
-        assert(await auditPage.locator('.acx-depth-section').count()>=1,label+' is missing deeper editorial content');
-      }
-      if(label==='sitemap'){
-        assert(await auditPage.locator('#acx-sitemap-filter').count()===1,'sitemap filter is missing');
-        assert(await auditPage.locator('.acx-sitemap-live-link').count()>0,'sitemap did not render live article links');
-        assert((await auditPage.locator('#acx-sitemap-count').textContent()).includes('live English article'),'sitemap live count did not resolve');
-        assert((await auditPage.locator('#acx-site-footer a[href$="sitemap/"]').getAttribute('aria-current'))==='page','sitemap footer link is not marked current');
-      }
     }
     await auditCtx.close();
   }
@@ -321,7 +304,7 @@ try{
   assert((new URL(ma.url())).hash==='#'+target,'Scroll navigation did not update the URL hash');
   await maCtx.close();
 
-  console.log('Interaction smoke test passed: header controls, install guidance, search, mobile menu, sliders, article tools, language tabs, text controls, share/copy/save/print, mobile section navigation, shared footer integrity, and 320–430px viewport coverage across home, discovery, article, and legal pages.');
+  console.log('Interaction smoke test passed: header controls, install guidance, search, open-book Library icon, sliders, article tools, language tabs, text controls, share/copy/save/print, mobile reading navigation, shared footer integrity, and 320–430px viewport coverage across home, discovery, article, and legal pages.');
 } finally {
   await browser.close();
 }

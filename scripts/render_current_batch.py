@@ -194,22 +194,7 @@ for live_id in LIVE.get("live_article_ids", []):
 
 def write_xml_sitemap():
     base = "https://alles-clinx.github.io/knowledge-library/"
-    static_paths = [
-        "",
-        "about/",
-        "about/knowledge/",
-        "about/tools/",
-        "about/nova/",
-        "about/metricon/",
-        "about/checkmate/",
-        "sitemap/",
-        "privacy-policy/",
-        "terms-conditions/",
-        "cookie-policy/",
-        "ai-data-use/",
-        "accessibility/",
-        "trust-security/",
-    ]
+    static_paths = ["", "privacy-policy/", "terms-conditions/"]
     urls = [base + path for path in static_paths]
 
     live_meta = [BY_ID[article_id] for article_id in LIVE.get("live_article_ids", []) if article_id in BY_ID]

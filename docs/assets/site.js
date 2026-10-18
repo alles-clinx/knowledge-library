@@ -90,15 +90,13 @@
 
   const preferredLocale=document.documentElement.lang==='hi'?'hi-IN':'en';
   const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>';
-  const libraryIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 7v14"/><path d="M3 18V5a1 1 0 0 1 1-1h3a5 5 0 0 1 5 5v12a5 5 0 0 0-5-5H4a1 1 0 0 0-1 1Z"/><path d="M21 18V5a1 1 0 0 0-1-1h-3a5 5 0 0 0-5 5v12a5 5 0 0 1 5-5h3a1 1 0 0 1 1 1Z"/></svg>';
-  const sitemapIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>';
-  // Accessible SVG shortcuts; no menu drawer.
+  const libraryIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.5C9.3 4.7 6.3 4.4 3 5.3v13.5c3.3-.9 6.3-.6 9 1.2 2.7-1.8 5.7-2.1 9-1.2V5.3c-3.3-.9-6.3-.6-9 1.2Z"/><path d="M12 6.5V20"/><path d="M5.8 9c1.2-.1 2.4.1 3.4.5"/><path d="M14.8 9.5c1.1-.4 2.3-.6 3.4-.5"/></svg>';
+  // Open-book Library shortcut; no menu drawer or redundant sitemap link.
   const header=document.createElement('div');
   header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
     '<div class="acx-brand-cluster"><a class="acx-wordmark" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Alle\'s ClinX</a></div>'+
     '<nav class="acx-site-actions" aria-label="Knowledge shortcuts">'+
-    '<a class="acx-header-icon acx-header-library" href="'+BASE+'#browse-title" aria-label="Browse Knowledge categories" title="Library">'+libraryIcon+'</a>'+
-    '<a class="acx-header-icon acx-header-sitemap" href="'+BASE+'sitemap/" aria-label="Knowledge sitemap" title="Sitemap">'+sitemapIcon+'</a>'+
+    '<a class="acx-header-icon acx-header-library" href="'+BASE+'#browse-title" aria-label="Browse Knowledge categories" title="Browse library">'+libraryIcon+'<span class="acx-header-label">Library</span></a>'+
     '<button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button>'+
     '<button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app">Install</button></nav></div></header>';
   document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
@@ -120,12 +118,10 @@
               '<h2 id="acx-footer-knowledge">Knowledge</h2>'+
               '<nav class="acx-footer-nav" aria-label="Knowledge footer navigation">'+
                 '<a href="'+BASE+'">Knowledge home</a>'+
-                '<a href="'+BASE+'about/knowledge/">About Knowledge</a>'+
+                '<a href="'+BASE+'#browse-title">Browse categories</a>'+
                 '<a href="'+BASE+'library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a>'+
                 '<a href="'+BASE+'library/safety-compliance/">Safety &amp; Compliance</a>'+
                 '<a href="'+BASE+'library/alles-clinx/">Tools &amp; Support</a>'+
-                '<a href="'+BASE+'about/tools/">About digital tools</a>'+
-                '<a href="'+BASE+'sitemap/">Sitemap</a>'+
               '</nav>'+
             '</section>'+
             '<section class="acx-footer-group" aria-labelledby="acx-footer-legal">'+
@@ -133,10 +129,6 @@
               '<nav class="acx-footer-nav" aria-label="Legal footer navigation">'+
                 '<a href="'+BASE+'privacy-policy/">Privacy</a>'+
                 '<a href="'+BASE+'terms-conditions/">Terms</a>'+
-                '<a href="'+BASE+'cookie-policy/">Cookies</a>'+
-                '<a href="'+BASE+'ai-data-use/">AI &amp; Data Use</a>'+
-                '<a href="'+BASE+'accessibility/">Accessibility</a>'+
-                '<a href="'+BASE+'trust-security/">Trust &amp; Security</a>'+
               '</nav>'+
             '</section>'+
           '</div>'+

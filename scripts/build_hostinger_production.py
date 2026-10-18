@@ -89,7 +89,7 @@ for path in OUT.rglob("*"):
 # can otherwise keep serving an old precached CSS/JS file after deployment.
 asset_versions = {
     name: hashlib.sha256((OUT / "assets" / name).read_bytes()).hexdigest()[:12]
-    for name in ("site.css", "site.js", "discovery.css", "legal.css", "sitemap.js")
+    for name in ("site.css", "site.js", "discovery.css", "legal.css")
 }
 for page_path in OUT.rglob("*.html"):
     page = page_path.read_text(encoding="utf-8")
@@ -346,20 +346,8 @@ def meta_for_article(rec: dict, canonical_url: str, canonical_path: str) -> str:
 LEGAL_CANONICALS = {
     "privacy-policy/index.html": "https://allesclinx.com/privacy-policy/",
     "terms-conditions/index.html": "https://allesclinx.com/terms-conditions/",
-    "cookie-policy/index.html": "https://allesclinx.com/cookie-policy/",
-    "ai-data-use/index.html": "https://allesclinx.com/ai-data-use/",
-    "accessibility/index.html": "https://allesclinx.com/accessibility/",
-    "trust-security/index.html": "https://allesclinx.com/trust-security/",
 }
-STATIC_SITEMAP_PATHS = (
-    "about/",
-    "about/knowledge/",
-    "about/tools/",
-    "about/nova/",
-    "about/metricon/",
-    "about/checkmate/",
-    "sitemap/",
-)
+STATIC_SITEMAP_PATHS = ()
 category_names = {}
 subcategory_names = {}
 for item in live_articles:
@@ -558,6 +546,9 @@ llms += [
 (OUT / ".htaccess").write_text(
     "Options -Indexes -MultiViews\n"
     "DirectoryIndex index.html\n"
+    "RedirectMatch 301 ^/knowledge/about(?:/.*)?$ /knowledge/\n"
+    "RedirectMatch 301 ^/knowledge/sitemap/?$ /knowledge/\n"
+    "RedirectMatch 301 ^/knowledge/(?:cookie-policy|ai-data-use|accessibility|trust-security)/?$ /knowledge/privacy-policy/\n"
     "AddType application/manifest+json .webmanifest\n"
     "AddType application/xml .xml\n"
     "<FilesMatch \"^(sitemap|google-sitemap)\\.xml$\">\n"
