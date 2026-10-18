@@ -180,6 +180,11 @@ try{
       await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
       assert(await auditPage.locator('.acx-header-library').count()===1,label+' Library shortcut missing');
       assert(await auditPage.locator('.acx-install-app svg').count()===1,label+' Install icon missing');
+      const hitBoxes=await auditPage.locator('.acx-header-library,.acx-search-button,.acx-install-app').evaluateAll(items=>items.map(item=>({
+        width:item.getBoundingClientRect().width,
+        height:item.getBoundingClientRect().height
+      })));
+      assert(hitBoxes.every(box=>box.width>=44&&box.height>=44),label+' icon hit targets are smaller than 44px');
       assert(await auditPage.locator('.acx-site-header').evaluate(el=>getComputedStyle(el).boxShadow)==='none',label+' header shadow regressed');
       assert(await auditPage.locator('.acx-site-actions').evaluate(el=>el.getBoundingClientRect().right<=window.innerWidth+1),label+' icon group overflows viewport');
       assert(await auditPage.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,label+' retains menu navigation');
