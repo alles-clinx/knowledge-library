@@ -80,10 +80,10 @@ body.legal-page{
   color:var(--legal-ink);
   cursor:pointer;
   user-select:none;
-  transition:background-color .14s ease,border-color .14s ease;
+  transition:background-color .18s ease,border-color .18s ease,padding-left .18s cubic-bezier(.2,.7,.2,1),padding-right .18s cubic-bezier(.2,.7,.2,1);
 }
 .legal-accordion summary::-webkit-details-marker{display:none}
-.legal-accordion summary:hover{background:var(--legal-row-hover);border-color:#d8d8db}
+.legal-accordion summary:hover,.legal-accordion summary:focus-visible{background:#f0f0f1;border-color:#ececee}
 .legal-accordion summary:focus-visible{
   outline:2px solid #111;
   outline-offset:3px;
@@ -238,4 +238,25 @@ body.legal-page{
   .legal-intro h1{font-size:34px}
   .legal-accordion summary{grid-template-columns:26px minmax(0,1fr) 18px;padding-inline:10px}
   .legal-number{font-size:10px}
+}
+
+/* Legal sections: inset labels by four pixels; preserve the disclosure row width. */
+@media(hover:hover) and (pointer:fine){
+  .legal-accordion summary:hover{padding-left:22px;padding-right:14px}
+}
+.legal-accordion summary:focus-visible{padding-left:22px;padding-right:14px}
+@media(max-width:760px) and (hover:hover) and (pointer:fine){
+  .legal-accordion summary:hover{padding-left:18px;padding-right:10px}
+}
+@media(max-width:760px){
+  .legal-accordion summary:focus-visible{padding-left:18px;padding-right:10px}
+}
+@media(max-width:360px) and (hover:hover) and (pointer:fine){
+  .legal-accordion summary:hover{padding-left:16px;padding-right:8px}
+}
+@media(max-width:360px){
+  .legal-accordion summary:focus-visible{padding-left:16px;padding-right:8px}
+}
+@media(prefers-reduced-motion:reduce){
+  .legal-accordion summary{transition:none!important}
 }

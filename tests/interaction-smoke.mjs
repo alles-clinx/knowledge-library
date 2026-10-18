@@ -86,6 +86,43 @@ try{
   await page.evaluate(()=>window.scrollTo(0,0));
   await wait(180);
   // Eleven belongs on the homepage between reading recommendations and categories.
+  // Hover treatments add a four-pixel optical inset but never move the entire clickable row.
+  async function checkHoverInset(targetPage,rowSelector,childSelector,label){
+    const row=targetPage.locator(rowSelector).first();
+    assert(await row.count()===1,label+' row missing');
+    await row.scrollIntoViewIfNeeded();
+    await targetPage.mouse.move(1,1);
+    await wait(260);
+    const measure=()=>row.evaluate((el,selector)=>{
+      const child=el.querySelector(selector);
+      if(!child)return null;
+      const outer=el.getBoundingClientRect();
+      const inner=child.getBoundingClientRect();
+      return {left:outer.left,width:outer.width,innerInset:inner.left-outer.left};
+    },childSelector);
+    const before=await measure();
+    assert(before,label+' inset target missing');
+    await row.hover();
+    await wait(260);
+    const after=await measure();
+    assert(after.innerInset-before.innerInset>=3.2&&after.innerInset-before.innerInset<=5.1,
+      label+' should receive a subtle 4px hover inset: '+(after.innerInset-before.innerInset).toFixed(2));
+    assert(Math.abs(after.left-before.left)<1&&Math.abs(after.width-before.width)<1,
+      label+' changed its hit target or outer position during hover');
+    await targetPage.mouse.move(1,1);
+  }
+  await checkHoverInset(page,'.editorial-item','div:first-child','Trending article');
+  await checkHoverInset(page,'.quick-item','strong','Quick read');
+  await checkHoverInset(page,'.category','strong','Homepage category');
+  const footerHover=page.locator('.acx-footer-nav a').first();
+  await footerHover.scrollIntoViewIfNeeded();
+  await page.mouse.move(1,1);
+  const footerBase=await footerHover.evaluate(el=>({pad:parseFloat(getComputedStyle(el).paddingLeft),left:el.getBoundingClientRect().left}));
+  await footerHover.hover();await wait(260);
+  const footerNow=await footerHover.evaluate(el=>({pad:parseFloat(getComputedStyle(el).paddingLeft),left:el.getBoundingClientRect().left}));
+  assert(Math.abs((footerNow.pad-footerBase.pad)-4)<=.5,'Footer hover lacks a 4px internal left inset');
+  assert(Math.abs(footerNow.left-footerBase.left)<1,'Footer hover moved its click target');
+  await page.mouse.move(1,1);
   const podcast=page.locator('#eleven');
   assert(await podcast.count()===1,'Eleven podcast section missing');
   assert((await podcast.locator('h2').textContent()).trim()==='Eleven','Podcast heading incorrect');
@@ -156,6 +193,7 @@ try{
   await page.locator('.acx-search-input').fill('stainless');
   await wait(250);
   assert(await page.locator('.acx-search-result').count()>0,'Search produced no results');
+  await checkHoverInset(page,'.acx-search-result','.acx-search-result-main','Search result');
   const lastSearchResult=page.locator('.acx-search-result').last();
   await lastSearchResult.focus();
   await page.keyboard.press('Tab');
@@ -188,6 +226,31 @@ try{
       assert(returned<after,'Homepage slider previous control did not move the slider back');
     }
   }
+  const discoveryPage=await desktop.newPage();
+  await discoveryPage.goto(new URL('library/cleaning-housekeeping/',BASE).href,{waitUntil:'networkidle'});
+  await checkHoverInset(discoveryPage,'.topic','strong','Topic listing');
+  await discoveryPage.goto(new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href,{waitUntil:'networkidle'});
+  await checkHoverInset(discoveryPage,'.article-row','strong','Article listing');
+  await discoveryPage.goto(new URL('terms-conditions/',BASE).href,{waitUntil:'networkidle'});
+  const legalHover=discoveryPage.locator('.legal-accordion summary').first();
+  await legalHover.scrollIntoViewIfNeeded();
+  await discoveryPage.mouse.move(1,1);
+  const legalBefore=await legalHover.evaluate(el=>({left:el.getBoundingClientRect().left,pad:parseFloat(getComputedStyle(el).paddingLeft)}));
+  await legalHover.hover();await wait(260);
+  const legalAfter=await legalHover.evaluate(el=>({left:el.getBoundingClientRect().left,pad:parseFloat(getComputedStyle(el).paddingLeft)}));
+  assert(Math.abs(legalAfter.pad-legalBefore.pad-4)<.7,'Legal summary missing 4px hover inset');
+  assert(Math.abs(legalAfter.left-legalBefore.left)<1,'Legal summary shifted its row');
+  await discoveryPage.goto(articleUrl(en),{waitUntil:'networkidle'});
+  const tocHover=discoveryPage.locator('.toc a:visible').first();
+  if(await tocHover.count()){
+    await tocHover.scrollIntoViewIfNeeded();
+    await discoveryPage.mouse.move(1,1);
+    const tocBefore=await tocHover.evaluate(el=>parseFloat(getComputedStyle(el).paddingLeft));
+    await tocHover.hover();await wait(260);
+    const tocAfter=await tocHover.evaluate(el=>parseFloat(getComputedStyle(el).paddingLeft));
+    assert(tocAfter-tocBefore>=3,'Article table-of-contents hover missing its left inset');
+  }
+  await discoveryPage.close();
   await desktop.close();
 
   const mobile = await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});

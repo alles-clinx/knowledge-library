@@ -55,3 +55,10 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Reserve the progress row's height in idle, playing and paused states; hiding the row must never resize the card or shift adjacent episode controls.
 - Reserve the Play/Pause text label's width and wrap the optional Apple link predictably on small screens.
 - Check geometry at desktop and 320–430px mobile widths whenever changing the podcast shelf.
+
+## Hover consistency
+- Interactive article, category and topic rows use a very subtle neutral background and about 4px of optical left inset.
+- Favor content-only transforms or balanced inline padding; never move whole cards or alter their hitboxes on hover.
+- Search results, footer links, article navigation and legal accordion summaries follow the same restrained language.
+- The fixed header icons, audio play/pause controls, seek bar and data tables do not shift position.
+- Preserve focus-visible accessibility and disable transitions for reduced-motion preferences.

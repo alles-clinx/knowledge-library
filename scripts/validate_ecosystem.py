@@ -245,6 +245,18 @@ if ".eleven-progress[hidden]{display:flex!important;visibility:hidden;pointer-ev
     errors.append("Hidden Eleven progress should stay in layout to prevent Play/Pause shifts")
 if "flex:0 0 108px" not in home_html:
     errors.append("Eleven Play/Pause label width must be stable")
+# Hover inset design should remain present in the homepage and discovery routes.
+discovery_css=(ROOT/"docs"/"assets"/"discovery.css").read_text(encoding="utf-8")
+legal_css=(ROOT/"docs"/"assets"/"legal.css").read_text(encoding="utf-8")
+for name, content, token in (
+    ("home",home_html,"transform:translateX(4px)"),
+    ("discovery",discovery_css,"transform:translateX(4px)"),
+    ("shared footer",site_css,"padding-left:14px"),
+    ("legal",legal_css,".legal-accordion summary:hover{padding-left:22px"),
+    ("shared search",site_css,".acx-search-result-main{min-width:0;transition:transform"),
+):
+    if token not in content:
+        errors.append(f"Missing quiet hover inset treatment in {name}")
 if "frosted glass header" in site_css:
     errors.append("Retired frosted-glass header styles must not be reintroduced")
 for retired in (

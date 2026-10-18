@@ -108,11 +108,12 @@ h2{
 .category{
   min-width:0;
   display:block;
-  padding:24px 0 26px;
+  padding:24px 12px 26px;
   border-bottom:0;
-  transition:background-color .12s ease;
+  border-radius:8px;
+  transition:background-color .19s ease;
 }
-.category:hover{background:#fafafa}
+.category:hover,.category:focus-visible{background:#f7f7f8}
 .category:focus-visible{
   outline:2px solid #111;
   outline-offset:4px;
@@ -163,7 +164,7 @@ h2{
   h2{font-size:24px}
   .section-head p{margin-top:7px}
   .category-grid{grid-template-columns:1fr;column-gap:0}
-  .category{padding:20px 0 21px}
+  .category{padding:20px 12px 21px}
   .category strong{font-size:17px}
   .category span{margin-top:6px;font-size:13.5px}
   .footer-note{margin-top:56px}
@@ -198,11 +199,12 @@ h2{
 .topic,.article-row{
   min-width:0;
   display:block;
-  padding:24px 0 26px;
+  padding:24px 12px 26px;
   border-bottom:0;
-  transition:background-color .12s ease;
+  border-radius:8px;
+  transition:background-color .19s ease;
 }
-.topic:hover,.article-row:hover{background:#fafafa}
+.topic:hover,.topic:focus-visible,.article-row:hover,.article-row:focus-visible{background:#f7f7f8}
 .topic:focus-visible,.article-row:focus-visible{
   outline:2px solid #111;
   outline-offset:4px;
@@ -230,7 +232,7 @@ h2{
 @media (max-width:760px){
   .breadcrumb{margin-bottom:36px}
   .topic-grid{grid-template-columns:1fr;column-gap:0}
-  .topic,.article-row{padding:20px 0 21px}
+  .topic,.article-row{padding:20px 12px 21px}
   .topic strong,.article-row strong{font-size:17px}
   .topic span,.article-row span{margin-top:6px;font-size:13.5px}
 }
@@ -262,4 +264,17 @@ h1,h2{text-wrap:balance}
   .page{width:calc(100% - 28px)}
   h1{font-size:clamp(32px,10.5vw,37px)}
   .breadcrumb{margin-bottom:30px}
+}
+
+/* A quiet four-pixel hover inset without altering the size of each row. */
+.category > :is(strong,span),.topic > :is(strong,span),.article-row > :is(strong,span){
+  transition:transform .19s cubic-bezier(.2,.7,.2,1);
+}
+@media(hover:hover) and (pointer:fine){
+  :is(.category,.topic,.article-row):hover > :is(strong,span){transform:translateX(4px)}
+}
+:is(.category,.topic,.article-row):focus-visible > :is(strong,span){transform:translateX(4px)}
+.breadcrumb a{transition:color .18s ease}
+@media(prefers-reduced-motion:reduce){
+  .category > :is(strong,span),.topic > :is(strong,span),.article-row > :is(strong,span){transition:none!important}
 }
