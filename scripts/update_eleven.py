@@ -121,6 +121,7 @@ def clean_episode(obj: dict) -> dict | None:
         "description": summary(str(obj.get("description") or "")),
         "url": url,
         "artwork": public_url(str(obj.get("artwork") or ""), ("mzstatic.com", "rss.com")),
+        "audio_url": public_url(str(obj.get("audio_url") or ""), ("rss.com", "rsscdn.com")),
     }
 
 
@@ -168,6 +169,7 @@ def from_rss(raw: bytes, previous: list[dict]) -> list[dict]:
         prior = indexed.get(title.casefold(), {})
         image_node = item.find(ITUNES + "image")
         enclosure = item.find("enclosure")
+        enclosure_url = enclosure.get("url", "") if enclosure is not None and (enclosure.get("type","").startswith("audio/") or enclosure.get("url","").lower().endswith((".mp3",".m4a"))) else ""
         ep = clean_episode({
             "number": item.findtext(ITUNES + "episode") or prior.get("number", 0),
             "title": title,
@@ -176,6 +178,7 @@ def from_rss(raw: bytes, previous: list[dict]) -> list[dict]:
             "description": item.findtext("description") or "",
             "url": prior.get("url") or item.findtext("link") or SHOW_URL,
             "artwork": (image_node.get("href", "") if image_node is not None else "") or fallback_image,
+            "audio_url": enclosure_url or prior.get("audio_url", ""),
         })
         if ep:
             output.append(ep)
@@ -231,23 +234,29 @@ def main() -> None:
             print(f"Apple catalogue: {len(found)} episodes")
     except Exception as error:
         print("Apple catalogue temporarily unavailable:", error)
-    if not found:
-        for source in (feed_url, RSS_FALLBACK):
-            if not source:
-                continue
-            try:
-                found = from_rss(get_bytes(source), previous)
-                if found:
-                    print(f"Podcast RSS: {len(found)} episodes")
-                    break
-            except Exception as error:
-                print("Podcast RSS unavailable:", error)
+    # RSS contains the audio enclosure URL, which the Apple catalogue does not.
+    # Always read the first-party publisher feed even when catalogue metadata exists.
+    rss_episodes = []
+    for source in dict.fromkeys((feed_url, RSS_FALLBACK)):
+        if not source:
+            continue
+        try:
+            rss_episodes = from_rss(get_bytes(source), previous)
+            if rss_episodes:
+                print(f"Podcast RSS: {len(rss_episodes)} episodes, {sum(bool(e.get('audio_url')) for e in rss_episodes)} audio enclosures")
+                break
+        except Exception as error:
+            print("Podcast RSS unavailable:", error)
+    if not found and rss_episodes:
+        found = rss_episodes
     if found:
         updated = normalized(found)
         # Prefer verified earlier per-episode Apple links over generic show links.
         previous_by_title = {p["title"].casefold(): p for p in previous}
+        rss_by_title = {p["title"].casefold(): p for p in normalized(rss_episodes)}
         for ep in updated:
             past = previous_by_title.get(ep["title"].casefold(), {})
+            publisher = rss_by_title.get(ep["title"].casefold(), {})
             if ep["url"] == SHOW_URL and past.get("url", "").startswith(SHOW_URL):
                 ep["url"] = past["url"]
             if not ep["number"]:
@@ -256,6 +265,7 @@ def main() -> None:
                 ep["artwork"] = past.get("artwork", "")
             if not ep["description"]:
                 ep["description"] = past.get("description", "")
+            ep["audio_url"] = publisher.get("audio_url") or past.get("audio_url", "")
         # Avoid accidentally erasing published episodes if a source is partial.
         if len(updated) >= min(3, len(previous)):
             previous = updated
