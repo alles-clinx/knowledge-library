@@ -1,20 +1,22 @@
 (function(){
-  document.querySelectorAll('link[rel~="icon"],link[rel="shortcut icon"],link[rel="apple-touch-icon"],link[rel="mask-icon"]').forEach(function(el){el.remove();});
-  const siteIcon=document.createElement('link');
-  siteIcon.rel='icon';
-  siteIcon.type='image/svg+xml';
-  siteIcon.href='/knowledge-library/assets/favicon.svg?v=20260930-1';
-  document.head.appendChild(siteIcon);
-
-  const shortcutIcon=document.createElement('link');
-  shortcutIcon.rel='shortcut icon';
-  shortcutIcon.href='/knowledge-library/assets/favicon.svg?v=20260930-1';
-  document.head.appendChild(shortcutIcon);
+  const BASE='/knowledge-library/';
+  const ICON_VERSION='20261018-2';
+  // Keep HTML-declared icons and ensure the same brand icon on every Knowledge route.
+  function addIcon(rel,href,type,sizes){
+    if(document.head.querySelector('link[rel="'+rel+'"]'))return;
+    const link=document.createElement('link');
+    link.rel=rel;
+    link.href=BASE+href+'?v='+ICON_VERSION;
+    if(type)link.type=type;
+    if(sizes)link.sizes=sizes;
+    document.head.appendChild(link);
+  }
+  addIcon('icon','assets/favicon.svg','image/svg+xml');
+  addIcon('alternate icon','assets/favicon.png','image/png');
+  addIcon('apple-touch-icon','assets/apple-touch-icon.png','image/png','180x180');
 
   if(window.__ACX_SITE_SHELL__) return;
   window.__ACX_SITE_SHELL__=true;
-
-  const BASE='/knowledge-library/';
 
   function normalizedPath(value){
     const path=String(value||'/').split('?')[0].split('#')[0];
@@ -55,12 +57,6 @@
       manifest.rel='manifest';
       manifest.href=BASE+'manifest.webmanifest';
       document.head.appendChild(manifest);
-    }
-    if(!document.querySelector('link[rel="apple-touch-icon"]')){
-      const touchIcon=document.createElement('link');
-      touchIcon.rel='apple-touch-icon';
-      touchIcon.href=BASE+'assets/app-icon.svg?v=20260930-1';
-      document.head.appendChild(touchIcon);
     }
     [
       ['theme-color','#ffffff'],

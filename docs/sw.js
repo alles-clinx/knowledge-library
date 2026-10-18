@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20261018-v13-muted-eleven-controls';
+const VERSION='acx-knowledge-pwa-20261018-v14-static-favicons';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);
@@ -13,6 +13,9 @@ const PRECACHE=[
   asset('assets/eleven-episodes.json'),
   asset('assets/live-search.json'),
   asset('assets/favicon.svg'),
+  asset('assets/favicon.png'),
+  asset('assets/apple-touch-icon.png'),
+  asset('assets/icon-192.png'),
   asset('assets/app-icon.svg')
 ];
 

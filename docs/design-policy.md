@@ -73,3 +73,10 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - The audio control must not read as a primary CTA: use light gray #eeeeef, dark neutral ink, and a faint border.
 - Playing, paused, and loading states stay within the same soft monochrome family; only the icon and short verb indicate transport state.
 - Preserve the fixed 112 × 44 px hit target, keyboard focus ring, contrast, and no-shift playback layout.
+
+## Site icon and install icons
+- Preserve the existing CX brand mark consistently across browser favicon, bookmarks and installed Knowledge app.
+- Declare the favicon and native 180px PNG touch icon in homepage HTML before JavaScript runs.
+- Provide 192px PNG plus scalable SVG for PWA installs, with PNG favicon fallback.
+- The shared shell adds missing favicon metadata for other Knowledge routes without removing static links or creating duplicates.
+- Cache-bust icon changes and precache the new assets in service workers.
