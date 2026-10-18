@@ -240,6 +240,11 @@ if not (ROOT/"scripts"/"update_eleven.py").exists():
     errors.append("Eleven podcast updater script missing")
 if not (ROOT/".github"/"workflows"/"update-eleven.yml").exists():
     errors.append("Eleven scheduled update workflow missing")
+# Seek controls must reserve their space instead of moving the playback button on Play/Pause.
+if ".eleven-progress[hidden]{display:flex!important;visibility:hidden;pointer-events:none}" not in home_html:
+    errors.append("Hidden Eleven progress should stay in layout to prevent Play/Pause shifts")
+if "flex:0 0 108px" not in home_html:
+    errors.append("Eleven Play/Pause label width must be stable")
 if "frosted glass header" in site_css:
     errors.append("Retired frosted-glass header styles must not be reintroduced")
 for retired in (

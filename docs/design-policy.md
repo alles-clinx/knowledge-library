@@ -49,3 +49,9 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Play actual verified HTTPS MP3 enclosure URLs from RSS.com, never pretend a link to Apple is native playback.
 - Allow only one episode to play at a time; Apple Podcasts is optional secondary navigation.
 - The daily metadata updater refreshes the publisher-enclosure URL along with titles, artwork and duration.
+
+## Stationary podcast playback controls
+- Keep Play and Pause as the exact same button in a fixed position within each episode card.
+- Reserve the progress row's height in idle, playing and paused states; hiding the row must never resize the card or shift adjacent episode controls.
+- Reserve the Play/Pause text label's width and wrap the optional Apple link predictably on small screens.
+- Check geometry at desktop and 320–430px mobile widths whenever changing the podcast shelf.

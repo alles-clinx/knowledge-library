@@ -96,15 +96,39 @@ try{
   assert((await podcast.locator('.eleven-source-link').first().getAttribute('href')).startsWith('https://podcasts.apple.com/'),'Apple should remain a secondary episode link');
   assert(await page.locator('.acx-bottom-brand,.legal-bottom-brand').count()===0,'Ghost brand wordmark must be removed');
   assert(await page.locator('.section-head').first().evaluate(el=>getComputedStyle(el).borderBottomWidth)==='0px','Decorative section heading dividers must be removed');
+  // Playback must never move a button, its card, or its reserved seek row.
+  const episodeGeometry=async targetPage=>targetPage.locator('#eleven .eleven-episode').evaluateAll(cards=>cards.map(card=>{
+    const button=card.querySelector('.eleven-play').getBoundingClientRect();
+    const rect=card.getBoundingClientRect();
+    return {
+      playX:button.left,playY:button.top+window.scrollY,
+      cardY:rect.top+window.scrollY,cardHeight:rect.height,
+      progressHeight:card.querySelector('.eleven-progress').getBoundingClientRect().height
+    };
+  }));
+  const sameEpisodeGeometry=(before,after,label)=>{
+    assert(before.length===after.length,label+' changed the number of episode cards');
+    for(let i=0;i<before.length;i++){
+      for(const property of ['playX','playY','cardY','cardHeight','progressHeight']){
+        assert(Math.abs(before[i][property]-after[i][property])<=1,
+          label+' shifted an episode control/card: '+property+' of episode '+i+' ('+before[i][property]+' → '+after[i][property]+')');
+      }
+    }
+  };
+  const initialEpisodeGeometry=await episodeGeometry(page);
+  assert(initialEpisodeGeometry.every(g=>g.progressHeight>=23),'Playback progress must reserve its space while inactive');
   const firstPlay=podcast.locator('.eleven-play').nth(0);
   const secondPlay=podcast.locator('.eleven-play').nth(1);
   await firstPlay.click();
+  sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Play');
   assert(await firstPlay.getAttribute('aria-pressed')==='true','Play did not start in-page audio');
   assert(await podcast.locator('.eleven-progress:not([hidden])').count()===1,'Active episode progress must be visible');
   await firstPlay.click();
+  sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Pause');
   assert(await firstPlay.getAttribute('aria-pressed')==='false','Pause did not stop in-page audio');
   await firstPlay.click();
   await secondPlay.click();
+  sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Switch episode');
   assert(await firstPlay.getAttribute('aria-pressed')==='false'&&await secondPlay.getAttribute('aria-pressed')==='true','Starting another episode must pause previous audio');
   await secondPlay.click();
   assert(await podcast.locator('.eleven-show-link').getAttribute('href')==='https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821','Show Apple Podcasts link incorrect');
@@ -203,6 +227,13 @@ try{
   ];
   for(const width of [320,360,390,430]){
     const auditCtx=await browser.newContext({viewport:{width,height:844},isMobile:true,hasTouch:true});
+    await auditCtx.addInitScript(function(){
+      window.Audio=class FakeAudio extends EventTarget{
+        constructor(){super();this.paused=true;this.ended=false;this.currentTime=0;this.duration=3600;this.src='';this.preload='none';}
+        play(){this.paused=false;this.dispatchEvent(new Event('playing'));return Promise.resolve();}
+        pause(){this.paused=true;this.dispatchEvent(new Event('pause'));}
+      };
+    });
     const auditPage=await auditCtx.newPage();
     for(const [label,url] of mobileAuditRoutes){
       await auditPage.goto(url,{waitUntil:'networkidle'});
@@ -222,6 +253,13 @@ try{
       if(label==='home'){
         assert(await auditPage.locator('#eleven .eleven-episode').count()===3,'Mobile Eleven episodes missing');
         assert(await auditPage.locator('#eleven .eleven-play').count()===3,'Mobile Play/Pause buttons missing');
+        const beforePlayback=await episodeGeometry(auditPage);
+        assert(beforePlayback.every(g=>g.progressHeight>=23),'Mobile seek controls did not reserve space at '+width+'px');
+        const mobilePlayButton=auditPage.locator('#eleven .eleven-play').first();
+        await mobilePlayButton.click();
+        sameEpisodeGeometry(beforePlayback,await episodeGeometry(auditPage),'Mobile play at '+width+'px');
+        await mobilePlayButton.click();
+        sameEpisodeGeometry(beforePlayback,await episodeGeometry(auditPage),'Mobile pause at '+width+'px');
         const shelfFits=await auditPage.locator('#eleven').evaluate(el=>el.getBoundingClientRect().right<=window.innerWidth+1);
         assert(shelfFits,label+' Eleven section exceeds the mobile viewport');
       }
