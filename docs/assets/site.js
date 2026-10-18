@@ -90,37 +90,13 @@
 
   const preferredLocale=document.documentElement.lang==='hi'?'hi-IN':'en';
   const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>';
-  const nav=[
-    ['Solutions','https://allesclinx.com/solutions/'],
-    ['ClinXAi','https://allesclinx.com/clinxai/'],
-    ['Shop','https://allesclinx.com/shop/'],
-    ['Plus','https://allesclinx.com/plus/'],
-    ['Support','https://allesclinx.com/support/']
-  ];
-
-  function navLinks(){
-    return nav.map(([label,href])=>'<a href="'+href+'">'+label+'</a>').join('');
-  }
+  // Shared navigation is intentionally limited to the brand, Search and Install.
   const header=document.createElement('div');
   header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
     '<div class="acx-brand-cluster"><a class="acx-wordmark" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Alle\'s ClinX</a></div>'+
-    '<div class="acx-site-actions"><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button><button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app">Install</button>'+
-    '<button class="acx-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="acx-mobile-drawer">Menu</button></div></div>'+
-    '<div class="acx-mobile-drawer" id="acx-mobile-drawer" role="dialog" aria-modal="true" aria-label="Explore Alle\'s ClinX Knowledge" aria-hidden="true"><div class="acx-mobile-drawer-inner">'+
-      '<section class="acx-mobile-section" aria-labelledby="acx-mobile-knowledge-label">'+
-        '<div class="acx-mobile-section-head"><span id="acx-mobile-knowledge-label">Knowledge</span><span class="acx-mobile-guide-count" aria-live="polite"></span></div>'+
-        '<nav class="acx-mobile-knowledge-nav" aria-label="Knowledge navigation"><a href="'+BASE+'" data-internal="true"><span>Knowledge home</span></a></nav>'+
-      '</section>'+
-      '<section class="acx-mobile-section acx-mobile-company-section" aria-labelledby="acx-mobile-company-label">'+
-        '<div class="acx-mobile-section-head"><span id="acx-mobile-company-label">Alle\'s ClinX</span></div>'+
-        '<nav class="acx-mobile-nav" aria-label="Alle\'s ClinX navigation">'+navLinks()+'</nav>'+
-      '</section>'+
-      '<div class="acx-mobile-drawer-foot"><a href="https://allesclinx.com/">Alle\'s ClinX</a><span>Open Knowledge</span></div>'+
-    '</div></div></header>';
-  const injectedHeader=header.firstElementChild;
-  document.body.insertAdjacentElement('afterbegin',injectedHeader);
-  const injectedDrawer=injectedHeader.querySelector('#acx-mobile-drawer');
-  if(injectedDrawer) injectedHeader.insertAdjacentElement('afterend',injectedDrawer);
+    '<div class="acx-site-actions"><button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button>'+
+    '<button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app">Install</button></div></div></header>';
+  document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
 
   if(!document.getElementById('acx-site-footer')){
     const footer=document.createElement('footer');
@@ -284,11 +260,7 @@
   '</div>';
   document.body.appendChild(dialog);
 
-  const menuBtn=document.querySelector('.acx-menu-button');
-  const drawer=document.getElementById('acx-mobile-drawer');
-  const mobileKnowledgeNav=document.querySelector('.acx-mobile-knowledge-nav');
-  const mobileGuideCount=document.querySelector('.acx-mobile-guide-count');
-  const searchBtns=[...document.querySelectorAll('.acx-search-button,.acx-mobile-search')];
+  const searchBtns=[...document.querySelectorAll('.acx-search-button')];
   const closeBtn=dialog.querySelector('.acx-search-close');
   const input=dialog.querySelector('.acx-search-input');
   const results=dialog.querySelector('.acx-search-results');
@@ -299,94 +271,6 @@
   let visibleResults=[];
 
   let searchReturnFocus=null;
-  let menuReturnFocus=null;
-  const hookStates=new WeakMap();
-
-  function syncHookRails(){
-    drawer.querySelectorAll('.acx-mobile-knowledge-nav,.acx-mobile-nav').forEach(function(nav){
-      let rail=nav.querySelector(':scope > .acx-hover-rail');
-      if(!rail){
-        rail=document.createElement('span');
-        rail.className='acx-hover-rail';
-        rail.setAttribute('aria-hidden','true');
-        nav.appendChild(rail);
-      }
-      let state=hookStates.get(nav);
-      if(!state){
-        state={rail:null,hovered:null};
-        hookStates.set(nav,state);
-      }
-      state.rail=rail;
-      state.hovered=null;
-      function move(link,hover){
-        if(!link || !nav.contains(link)){
-          state.rail.className='acx-hover-rail';
-          return;
-        }
-        state.rail.style.height=(link.offsetTop+link.offsetHeight/2)+'px';
-        state.rail.className='acx-hover-rail is-visible '+(hover?'is-hover':'is-active');
-      }
-      function restore(){move(nav.querySelector('a.is-current'),false);}
-      if(!nav.dataset.hookReady){
-        nav.dataset.hookReady='true';
-        nav.addEventListener('mouseover',function(event){
-          const link=event.target.closest('a');
-          if(link && nav.contains(link)){state.hovered=link;move(link,true);}
-        });
-        nav.addEventListener('focusin',function(event){
-          const link=event.target.closest('a');
-          if(link && nav.contains(link)){state.hovered=link;move(link,true);}
-        });
-        nav.addEventListener('mouseleave',function(){state.hovered=null;restore();});
-        nav.addEventListener('focusout',function(event){if(!nav.contains(event.relatedTarget)){state.hovered=null;restore();}});
-        if(window.ResizeObserver) new ResizeObserver(function(){move(state.hovered||nav.querySelector('a.is-current'),!!state.hovered);}).observe(nav);
-      }
-      restore();
-    });
-  }
-
-  function syncMobileActiveLinks(){
-    const current=window.location.pathname.replace(/\/+$/,'/') || '/';
-    drawer.querySelectorAll('a[href]').forEach(function(link){
-      const href=link.getAttribute('href')||'';
-      const internal=href.startsWith(BASE);
-      if(!internal) return;
-      const normalized=href.replace(/\/+$/,'/') || '/';
-      const exact=current===normalized;
-      const section=!exact && normalized!==BASE && current.startsWith(normalized);
-      link.classList.toggle('is-current',exact||section);
-      if(exact) link.setAttribute('aria-current','page');
-      else if(section) link.setAttribute('aria-current','location');
-      else link.removeAttribute('aria-current');
-    });
-  }
-
-  function setMenu(open,restoreFocus){
-    if(open){
-      menuReturnFocus=document.activeElement;
-      if(dialog.classList.contains('is-open')) closeSearch();
-    }
-    menuBtn.setAttribute('aria-expanded',open?'true':'false');
-    menuBtn.setAttribute('aria-label',open?'Close menu':'Open menu');
-    menuBtn.textContent=open?'Close':'Menu';
-    drawer.setAttribute('aria-hidden',open?'false':'true');
-    drawer.classList.toggle('is-open',open);
-    document.body.classList.toggle('acx-menu-open',open);
-    if(open){
-      syncMobileActiveLinks();
-      syncHookRails();
-      const first=drawer.querySelector('.acx-mobile-search');
-      if(first) first.focus({preventScroll:true});
-    }else if(restoreFocus!==false && menuReturnFocus && typeof menuReturnFocus.focus==='function'){
-      menuReturnFocus.focus({preventScroll:true});
-      menuReturnFocus=null;
-    }
-  }
-  menuBtn.addEventListener('click',function(){setMenu(menuBtn.getAttribute('aria-expanded')!=='true');});
-  drawer.addEventListener('click',function(event){
-    if(event.target.closest('a[href]')) setMenu(false,false);
-  });
-
   function esc(value){
     return String(value||'').replace(/[&<>"']/g,function(m){
       return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];
@@ -488,31 +372,6 @@
     return BASE+path;
   }
 
-  function hydrateMobileKnowledge(records){
-    if(!mobileKnowledgeNav||!Array.isArray(records)) return;
-    const categories=new Map();
-    records.forEach(function(record){
-      if(!record.category_slug||!record.category||!record.article_id) return;
-      const key=record.category_slug;
-      if(!categories.has(key)) categories.set(key,{name:record.category,ids:new Set()});
-      categories.get(key).ids.add(record.article_id);
-    });
-    const home=mobileKnowledgeNav.querySelector('a[href="'+BASE+'"]');
-    mobileKnowledgeNav.innerHTML='';
-    if(home) mobileKnowledgeNav.appendChild(home);
-    categories.forEach(function(info,slug){
-      const link=document.createElement('a');
-      link.href=BASE+'library/'+slug+'/';
-      link.setAttribute('data-internal','true');
-      link.innerHTML='<span>'+esc(info.name)+'</span><small>'+info.ids.size+'</small>';
-      mobileKnowledgeNav.appendChild(link);
-    });
-    const total=new Set(records.map(function(record){return record.article_id;})).size;
-    if(mobileGuideCount) mobileGuideCount.textContent=total+' live guides';
-    syncMobileActiveLinks();
-    syncHookRails();
-  }
-
   async function loadRecords(){
     if(records) return records;
     statusLabel.textContent='Loading Knowledge index…';
@@ -521,7 +380,6 @@
       if(!response.ok) throw new Error('Search index unavailable');
       const data=await response.json();
       records=(data.records||[]).map(function(record,index){return Object.assign({_order:index},record);});
-      hydrateMobileKnowledge(records);
       const articleCount=new Set(records.map(function(record){return record.article_id;})).size;
       countLabel.textContent=articleCount+' live guides · English + हिन्दी';
       statusLabel.textContent='Search all live Knowledge guides';
@@ -602,10 +460,9 @@
 
   async function openSearch(){
     if(!dialog.classList.contains('is-open')){
-      searchReturnFocus=drawer.classList.contains('is-open')?menuBtn:document.activeElement;
+      searchReturnFocus=document.activeElement;
       if(searchReturnFocus===document.body) searchReturnFocus=null;
     }
-    setMenu(false,false);
     dialog.classList.add('is-open');
     document.body.classList.add('acx-search-open');
     input.value='';
@@ -666,23 +523,9 @@
     }
     if(event.key==='Escape'){
       if(dialog.classList.contains('is-open')) closeSearch();
-      else if(drawer.classList.contains('is-open')) setMenu(false);
     }
     if(event.key==='Tab'&&dialog.classList.contains('is-open')){
       const focusable=[input,closeBtn,...results.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
-        return el.offsetParent!==null;
-      });
-      if(focusable.length){
-        const first=focusable[0];
-        const last=focusable[focusable.length-1];
-        if(event.shiftKey&&document.activeElement===first){
-          event.preventDefault();last.focus();
-        }else if(!event.shiftKey&&document.activeElement===last){
-          event.preventDefault();first.focus();
-        }
-      }
-    }else if(event.key==='Tab'&&drawer.classList.contains('is-open')){
-      const focusable=[menuBtn,...drawer.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
         return el.offsetParent!==null;
       });
       if(focusable.length){

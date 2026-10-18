@@ -50,7 +50,7 @@ try{
   assert(await page.locator('.acx-site-header').isVisible(),'Desktop site header is not visible');
   assert(await page.locator('.acx-search-button').isVisible(),'Desktop Search button is not visible');
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
-  assert(await page.locator('.acx-menu-button').isVisible(),'Desktop Menu button is missing');
+  assert(await page.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on desktop');
   assert(await page.locator('.acx-skip-link').count()===1,'Skip-to-content link is missing');
   assert(await page.locator('#main-content').count()===1,'Main content target is missing');
   assert((await page.locator('#acx-site-footer a').first().getAttribute('aria-current'))==='page','Home footer link is not marked current');
@@ -64,16 +64,6 @@ try{
   await installButton.click();
   assert(await page.locator('.acx-install-note').isVisible(),'Install fallback guidance did not appear');
   assert((await page.locator('.acx-install-note').textContent()).trim().length>0,'Install fallback guidance is empty');
-  await page.locator('.acx-menu-button').click();
-  assert(await page.locator('#acx-mobile-drawer.is-open').isVisible(),'Desktop menu did not open');
-  await page.locator('.acx-mobile-knowledge-nav a').nth(1).hover();
-  assert(await page.locator('.acx-mobile-knowledge-nav .acx-hover-rail.is-hover').isVisible(),'Knowledge hook rail did not follow hover');
-  await page.locator('#acx-mobile-drawer a').last().focus();
-  await page.keyboard.press('Tab');
-  assert(await page.locator('.acx-menu-button').evaluate(el=>el===document.activeElement),'Menu keyboard loop skipped Close');
-  await page.keyboard.press('Escape');
-  assert((await page.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Desktop menu did not close');
-
   const desktopSearchButton=page.locator('.acx-search-button');
   await desktopSearchButton.click();
   assert(await page.locator('.acx-search-dialog.is-open').isVisible(),'Search dialog did not open');
@@ -117,25 +107,15 @@ try{
   const mobile = await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
   const mp = await mobile.newPage();
   await mp.goto(BASE,{waitUntil:'networkidle'});
-  assert(await mp.locator('.acx-menu-button').isVisible(),'Mobile menu button is not visible');
+  assert(await mp.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,'Menu navigation must be removed on mobile');
   assert(await mp.locator('.acx-search-button').isVisible(),'Mobile Search button is not visible');
   assert(await mp.locator('.acx-install-app').isVisible(),'Mobile Install button is not visible');
-  await mp.locator('.acx-menu-button').click();
-  assert(await mp.locator('#acx-mobile-drawer.is-open').isVisible(),'Mobile drawer did not open');
-  assert((await mp.locator('.acx-menu-button').getAttribute('aria-expanded'))==='true','Mobile menu aria-expanded did not update');
-  await mp.locator('.acx-menu-button').click();
-  assert(!(await mp.locator('#acx-mobile-drawer').evaluate(el=>el.classList.contains('is-open'))),'Mobile menu did not remove the open state');
-  assert((await mp.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Mobile drawer aria-hidden did not reset');
-  assert((await mp.locator('.acx-menu-button').getAttribute('aria-expanded'))==='false','Mobile menu aria-expanded did not reset');
-  await wait(240);
-  assert(!(await mp.locator('#acx-mobile-drawer').isVisible()),'Mobile drawer remained visible after close transition');
-  await mp.locator('.acx-menu-button').click();
-  await mp.locator('.acx-search-button').click();
+  const mobileSearchButton=mp.locator('.acx-search-button');
+  await mobileSearchButton.click();
   assert(await mp.locator('.acx-search-dialog.is-open').isVisible(),'Mobile search did not open from header');
-  assert((await mp.locator('#acx-mobile-drawer').getAttribute('aria-hidden'))==='true','Mobile drawer did not close when search opened');
   await mp.keyboard.press('Escape');
   assert(!(await mp.locator('.acx-search-dialog').isVisible()),'Mobile search did not close with Escape');
-  assert(await mp.locator('.acx-menu-button').evaluate(el=>el===document.activeElement),'Mobile search did not restore focus to Menu after closing');
+  assert(await mobileSearchButton.evaluate(el=>el===document.activeElement),'Mobile search did not restore focus to Search after closing');
   await mobile.close();
 
   assert(en,'No English live article found for interaction smoke test');
@@ -171,6 +151,7 @@ try{
       const scrollPadding=parseFloat(await auditPage.locator('html').evaluate(el=>getComputedStyle(el).scrollPaddingTop));
       assert(scrollPadding>0,label+' is missing fixed-header scroll padding');
       await assertMobileViewportIntegrity(auditPage,label+' at '+width+'px');
+      assert(await auditPage.locator('.acx-menu-button,#acx-mobile-drawer').count()===0,label+' retains menu navigation');
       const h1=auditPage.locator('h1').first();
       if(await h1.count()){
         const box=await h1.boundingBox();

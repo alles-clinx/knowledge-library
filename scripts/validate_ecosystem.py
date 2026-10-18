@@ -208,23 +208,30 @@ site_css=(ROOT/"docs"/"assets"/"site.css").read_text(encoding="utf-8")
 site_js=(ROOT/"docs"/"assets"/"site.js").read_text(encoding="utf-8")
 home_html=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
 
-bad_shell_selector='.acx-site-header,.acx-bottom-brand,.acx-search-dialog,.acx-mobile-drawer{\n  display:block;\n  position:fixed;'
-if bad_shell_selector in site_css:
-    errors.append("Global shell CSS regression: header/search/brand incorrectly inherit drawer hidden-state rules")
+# The shared header provides search/install only; menu and drawer were retired.
+for token in [
+    ".acx-menu-button",
+    ".acx-mobile-drawer",
+    ".acx-mobile-nav",
+    ".acx-hover-rail",
+]:
+    if token in site_css:
+        errors.append(f"Removed menu style remains: {token}")
+
+for token in ["acx-menu-button", "acx-mobile-drawer", "setMenu(", "syncHookRails(", "hydrateMobileKnowledge("]:
+    if token in site_js:
+        errors.append(f"Removed menu runtime remains: {token}")
 
 for token in [
     ".acx-site-header{",
     ".acx-site-header.is-scrolled{",
     ".acx-search-button{",
-    ".acx-menu-button{",
-    ".acx-mobile-drawer.is-open{",
     ".acx-search-dialog.is-open{",
 ]:
     if token not in site_css:
         errors.append(f"Global shell style missing: {token}")
 
 for token in [
-    "menuBtn.addEventListener('click'",
     "searchBtns.forEach(function(button){button.addEventListener('click',openSearch);})",
     "closeBtn.addEventListener('click',closeSearch)",
     "input.addEventListener('input',renderSearch)",

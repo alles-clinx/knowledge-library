@@ -15,3 +15,9 @@ Knowledge, Category and Subcategory pages use the locked crystal-minimal system:
 ## Article pages
 Use the approved Gold Standard article UI without redesigning per article.
 The language switch and Open Knowledge attribution are additions to the shell, not replacements for it.
+
+## Shared header
+
+- Show the Alle's ClinX brand link, Knowledge Search and Install action.
+- Do not render a Menu control or slide-out navigation on desktop or mobile.
+- Keep category discovery, related guides and footer links available without a drawer.
