@@ -86,3 +86,10 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Reserve an internal 48px label slot to avoid optical wobble between states; keep the SVG at a fixed 18px with 1.85px line weight.
 - Hover and playing states use only a small neutral tone shift, never saturated colors, large shadows, or black backgrounds.
 - On touch devices, keep the full 44px target and keyboard focus ring, with no hover-dependent controls.
+
+## Typography weight discipline
+- Knowledge uses calm typography: body text 400, metadata 450–500, content titles 520–540, section headings 550, and display headings 520.
+- Never set Knowledge headings or controls heavier than 560; create hierarchy through font size, spacing, line-height, and contrast rather than boldness.
+- Article emphasis stays at 540, below the 550 section headings. Apply this consistently across home, discovery, reading views, search, navigation, and legal pages.
+- Older published articles embed heavy font weights; central site.css typography overrides correct these without rebuilding hundreds of pages. Retain that rule when publishing future articles.
+- This design policy is specific to Knowledge and should not alter other Alle's ClinX web properties.

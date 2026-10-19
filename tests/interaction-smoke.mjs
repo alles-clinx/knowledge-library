@@ -58,6 +58,24 @@ try{
   const page = await desktop.newPage();
   await page.goto(BASE,{waitUntil:'networkidle'});
   assert(await page.locator('.acx-site-header').isVisible(),'Desktop site header is not visible');
+  async function checkTypeWeight(targetPage,label,selectors){
+    const samples=await targetPage.evaluate(selectors=>selectors.flatMap(selector=>
+      [...document.querySelectorAll(selector)].slice(0,12).map(el=>({
+        selector,weight:parseFloat(getComputedStyle(el).fontWeight),text:(el.textContent||'').trim().slice(0,65)
+      }))),selectors);
+    assert(samples.length>0,label+' has no typography samples');
+    for(const sample of samples){
+      assert(Number.isFinite(sample.weight)&&sample.weight<=560,
+        label+' text too bold: '+sample.selector+' "'+sample.text+'" at '+sample.weight);
+    }
+  }
+  await checkTypeWeight(page,'Home',[
+    'main h1','main h2','.editorial-item strong','.quick-item strong',
+    '.category strong','.eleven-episode h3','.acx-wordmark','.acx-footer-group h2'
+  ]);
+  assert(await page.locator('main h1').evaluate(el=>parseFloat(getComputedStyle(el).fontWeight))<=540,
+    'The main Knowledge title should feel light, not dominate the page');
+
   assert(await page.locator('.acx-search-button').isVisible(),'Desktop Search button is not visible');
   assert(await page.locator('.acx-site-header').count()===1,'Duplicate shared header');
   assert(await page.locator('.acx-header-library svg').count()===1,'Open-book Library icon missing');
@@ -301,10 +319,13 @@ try{
   }
   const discoveryPage=await desktop.newPage();
   await discoveryPage.goto(new URL('library/cleaning-housekeeping/',BASE).href,{waitUntil:'networkidle'});
+  await checkTypeWeight(discoveryPage,'Category',['main h1','main h2','.topic strong']);
   await checkHoverInset(discoveryPage,'.topic','strong','Topic listing');
   await discoveryPage.goto(new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href,{waitUntil:'networkidle'});
+  await checkTypeWeight(discoveryPage,'Subcategory',['main h1','main h2','.article-row strong']);
   await checkHoverInset(discoveryPage,'.article-row','strong','Article listing');
   await discoveryPage.goto(new URL('terms-conditions/',BASE).href,{waitUntil:'networkidle'});
+  await checkTypeWeight(discoveryPage,'Legal',['.legal-intro h1','.legal-eyebrow','.legal-title','.legal-meta-block h2']);
   const legalHover=discoveryPage.locator('.legal-accordion summary').first();
   await legalHover.scrollIntoViewIfNeeded();
   await discoveryPage.mouse.move(1,1);
@@ -443,6 +464,10 @@ try{
   await articleCtx.grantPermissions(['clipboard-read','clipboard-write'], {origin:ORIGIN});
   const ap = await articleCtx.newPage();
   await ap.goto(articleUrl(en),{waitUntil:'networkidle'});
+  await checkTypeWeight(ap,'Article',[
+    '.article-head h1','.article h2','.article h3','.article strong',
+    '.rail h2','.data-table thead th','.scroll-progress-label'
+  ]);
   assert(await ap.locator('.rail .js-share-toggle').isVisible(),'Desktop Share tool is not visible');
   assert(await ap.locator('.rail .js-save-toggle').isVisible(),'Desktop Save tool is not visible');
   assert(await ap.locator('.rail .js-text-toggle').isVisible(),'Desktop Text tool is not visible');

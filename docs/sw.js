@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20261019-v17-compact-player-border';
+const VERSION='acx-knowledge-pwa-20261019-v18-calm-type';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);

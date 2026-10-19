@@ -240,6 +240,22 @@ if not (ROOT/"scripts"/"update_eleven.py").exists():
     errors.append("Eleven podcast updater script missing")
 if not (ROOT/".github"/"workflows"/"update-eleven.yml").exists():
     errors.append("Eleven scheduled update workflow missing")
+# Keep typography restrained in each reusable Knowledge layout.
+import re
+for typography_path in (
+    "docs/index.html", "docs/assets/site.css", "docs/assets/discovery.css",
+    "docs/assets/legal.css", "docs/category.html", "docs/subcategory.html",
+    "docs/offline.html",
+):
+    stylesheet=(ROOT/typography_path).read_text(encoding="utf-8")
+    weights=[int(n) for n in re.findall(r"font-weight\s*:\s*(\d+)",stylesheet)]
+    if any(weight>560 for weight in weights):
+        errors.append(f"Overpowering font weights remain in {typography_path}")
+if "--acx-weight-display:520" not in site_css or ".article h2{font-weight:var(--acx-weight-heading)!important}" not in site_css:
+    errors.append("Knowledge typography scale or published-article overrides missing")
+if ".knowledge-home h1{font-size:clamp(42px,4.2vw,58px);line-height:1.04;font-weight:520}" not in site_css:
+    errors.append("Knowledge homepage headline must use a restrained 520 weight")
+
 # Seek controls must reserve their space instead of moving the playback button on Play/Pause.
 if ".eleven-progress[hidden]{display:flex!important;visibility:hidden;pointer-events:none}" not in home_html:
     errors.append("Hidden Eleven progress should stay in layout to prevent Play/Pause shifts")
