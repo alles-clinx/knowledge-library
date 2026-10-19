@@ -56,7 +56,7 @@ try{
     };
   });
   const page = await desktop.newPage();
-  await page.goto(BASE,{waitUntil:'networkidle'});
+  await page.goto(BASE,{waitUntil:'domcontentloaded'});
   assert(await page.locator('.acx-site-header').isVisible(),'Desktop site header is not visible');
   async function checkTypeWeight(targetPage,label,selectors){
     const samples=await targetPage.evaluate(selectors=>selectors.flatMap(selector=>
@@ -318,13 +318,13 @@ try{
     }
   }
   const discoveryPage=await desktop.newPage();
-  await discoveryPage.goto(new URL('library/cleaning-housekeeping/',BASE).href,{waitUntil:'networkidle'});
+  await discoveryPage.goto(new URL('library/cleaning-housekeeping/',BASE).href,{waitUntil:'domcontentloaded'});
   await checkTypeWeight(discoveryPage,'Category',['main h1','main h2','.topic strong']);
   await checkHoverInset(discoveryPage,'.topic','strong','Topic listing');
-  await discoveryPage.goto(new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href,{waitUntil:'networkidle'});
+  await discoveryPage.goto(new URL('library/cleaning-housekeeping/cleaning-basics/',BASE).href,{waitUntil:'domcontentloaded'});
   await checkTypeWeight(discoveryPage,'Subcategory',['main h1','main h2','.article-row strong']);
   await checkHoverInset(discoveryPage,'.article-row','strong','Article listing');
-  await discoveryPage.goto(new URL('terms-conditions/',BASE).href,{waitUntil:'networkidle'});
+  await discoveryPage.goto(new URL('terms-conditions/',BASE).href,{waitUntil:'domcontentloaded'});
   await checkTypeWeight(discoveryPage,'Legal',['.legal-intro h1','.legal-eyebrow','.legal-title','.legal-meta-block h2']);
   const legalHover=discoveryPage.locator('.legal-accordion summary').first();
   await legalHover.scrollIntoViewIfNeeded();
@@ -334,7 +334,7 @@ try{
   const legalAfter=await legalHover.evaluate(el=>({left:el.getBoundingClientRect().left,pad:parseFloat(getComputedStyle(el).paddingLeft)}));
   assert(Math.abs(legalAfter.pad-legalBefore.pad-4)<.7,'Legal summary missing 4px hover inset');
   assert(Math.abs(legalAfter.left-legalBefore.left)<1,'Legal summary shifted its row');
-  await discoveryPage.goto(articleUrl(en),{waitUntil:'networkidle'});
+  await discoveryPage.goto(articleUrl(en),{waitUntil:'domcontentloaded'});
   const tocHover=discoveryPage.locator('.toc a:visible').first();
   if(await tocHover.count()){
     await tocHover.scrollIntoViewIfNeeded();
@@ -463,7 +463,7 @@ try{
   const articleCtx = await browser.newContext({viewport:{width:1366,height:900}});
   await articleCtx.grantPermissions(['clipboard-read','clipboard-write'], {origin:ORIGIN});
   const ap = await articleCtx.newPage();
-  await ap.goto(articleUrl(en),{waitUntil:'networkidle'});
+  await ap.goto(articleUrl(en),{waitUntil:'domcontentloaded'});
   await checkTypeWeight(ap,'Article',[
     '.article-head h1','.article h2','.article h3','.article strong',
     '.rail h2','.data-table thead th','.scroll-progress-label'
@@ -508,7 +508,7 @@ try{
   const reducedSize=parseInt(await ap.locator('.rail .js-size-readout').textContent(),10);
   assert(reducedSize===Math.max(15,afterSize-1),'Decrease text-size control did not update size');
 
-  await ap.reload({waitUntil:'networkidle'});
+  await ap.reload({waitUntil:'domcontentloaded'});
   const persisted=parseInt(await ap.locator('.rail .js-size-readout').textContent(),10);
   assert(persisted===reducedSize,'Text-size preference did not persist through reload');
 
@@ -521,14 +521,14 @@ try{
   if(hi){
     const hiCtx=await browser.newContext({viewport:{width:1366,height:900}});
     const hp=await hiCtx.newPage();
-    await hp.goto(articleUrl(hi),{waitUntil:'networkidle'});
+    await hp.goto(articleUrl(hi),{waitUntil:'domcontentloaded'});
     assert((await hp.locator('.rail-language-switch a[lang="hi"]').getAttribute('aria-selected'))==='true','Hindi tab is not selected on Hindi article');
     await hiCtx.close();
   }
 
   const maCtx=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
   const ma=await maCtx.newPage();
-  await ma.goto(articleUrl(en),{waitUntil:'networkidle'});
+  await ma.goto(articleUrl(en),{waitUntil:'domcontentloaded'});
   await ma.locator('.mobile-tools').scrollIntoViewIfNeeded();
   assert(await ma.locator('.mobile-tools .js-share-toggle').isVisible(),'Mobile Share tool is not visible');
   assert(await ma.locator('.mobile-tools .js-save-toggle').isVisible(),'Mobile Save tool is not visible');
