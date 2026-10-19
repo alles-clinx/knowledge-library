@@ -70,9 +70,9 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Loading feedback is restrained and must respect reduced-motion settings. Maintain the browser-native audio API and single active stream.
 
 ### Quiet transport palette
-- The audio control must not read as a primary CTA: use a translucent near-white fill, 1px #e5e5e7 border, 11px radius, 18px outlined transport icon, and neutral dark ink.
+- The audio control must not read as a primary CTA: use a translucent near-white visual capsule with 1px #e5e5e7 border, 8px radius, 18px outlined transport icon, and neutral dark ink.
 - Playing, paused, and loading states stay within the same soft monochrome family; only the icon and short verb indicate transport state.
-- Preserve the fixed 112 × 44 px hit target, keyboard focus ring, contrast, and no-shift playback layout.
+- Preserve the fixed 100 × 44 px hit target, keyboard focus ring, contrast, and no-shift playback layout.
 
 ## Site icon and install icons
 - Use the open-book icon from the Knowledge Library header consistently across browser favicons, bookmarks, iOS touch icons, and installed app icons. Never use the CX monogram for the Knowledge Library.
@@ -82,7 +82,7 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Cache-bust icon changes and precache the new assets in service workers.
 
 ### Eleven player geometry and restraint
-- Keep the player at exactly 112 × 44px; never animate transforms, font sizes, or padding on Play/Pause/Resume.
-- Reserve the internal 56px label slot to avoid optical wobble between states; keep the SVG at a fixed 18px with 1.85px line weight.
+- Keep the button hit target at 100 × 44px, with an inset 96 × 36px visual capsule; never animate transforms, font sizes, or padding on Play/Pause/Resume.
+- Reserve an internal 48px label slot to avoid optical wobble between states; keep the SVG at a fixed 18px with 1.85px line weight.
 - Hover and playing states use only a small neutral tone shift, never saturated colors, large shadows, or black backgrounds.
 - On touch devices, keep the full 44px target and keyboard focus ring, with no hover-dependent controls.

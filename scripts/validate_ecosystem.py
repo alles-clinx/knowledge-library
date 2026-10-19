@@ -243,14 +243,16 @@ if not (ROOT/".github"/"workflows"/"update-eleven.yml").exists():
 # Seek controls must reserve their space instead of moving the playback button on Play/Pause.
 if ".eleven-progress[hidden]{display:flex!important;visibility:hidden;pointer-events:none}" not in home_html:
     errors.append("Hidden Eleven progress should stay in layout to prevent Play/Pause shifts")
-if "flex:0 0 112px" not in home_html:
+if "flex:0 0 100px" not in home_html:
     errors.append("Eleven Play/Pause button width must be stable")
 if home_html.count('class="eleven-play-label"') != 3:
     errors.append("Each episode needs an integrated Play/Pause label")
 if "--eleven-seek-fill" not in home_html:
     errors.append("Custom podcast seek track missing")
-if 'background:rgba(255,255,255,.64);color:#39393d' not in home_html or '.eleven-play[data-state="playing"]{background:#f2f2f3' not in home_html:
+if '--eleven-control-surface:rgba(255,255,255,.64)' not in home_html or '.eleven-play[data-state="playing"]{--eleven-control-surface:#f2f2f3' not in home_html:
     errors.append("Eleven playback must retain its refined, non-dominant light treatment")
+if 'inset:4px 2px' not in home_html or 'flex:0 0 48px' not in home_html:
+    errors.append("Eleven must use a compact visual border and fixed label inside a 44px touch target")
 if home_html.count('d="m8.75 6.5 8.5 5.5-8.5 5.5v-11Z"') != 3:
     errors.append("Eleven Play icons must remain consistent outlined SVGs")
 if '.eleven-control-icon{' not in home_html or 'stroke-width:1.85' not in home_html:

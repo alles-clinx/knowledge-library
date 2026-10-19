@@ -447,29 +447,38 @@ h2{
   display:flex;align-items:center;gap:12px;margin-top:auto;padding-top:13px;
   min-width:0;min-height:57px;flex-shrink:0
 }
-/* Lightweight, fixed-geometry audio transport — never a primary CTA. */
+/* Compact visual capsule, with a separate stable 44px touch target. */
 .eleven-play{
-  display:inline-flex;align-items:center;justify-content:center;gap:8px;
-  flex:0 0 112px;width:112px;height:44px;min-width:112px;min-height:44px;
-  padding:0 12px;border:1px solid #e5e5e7;border-radius:11px;
-  background:rgba(255,255,255,.64);color:#39393d;
+  --eleven-control-surface:rgba(255,255,255,.64);
+  --eleven-control-border:#e5e5e7;
+  position:relative;isolation:isolate;
+  display:inline-flex;align-items:center;justify-content:center;gap:6px;
+  flex:0 0 100px;width:100px;height:44px;min-width:100px;min-height:44px;
+  padding:0 10px;border:0;border-radius:10px;
+  background:transparent;color:#39393d;
   font-family:inherit;font-weight:540;font-size:12px;line-height:1.2;
   letter-spacing:-.005em;white-space:nowrap;
   cursor:pointer;user-select:none;-webkit-tap-highlight-color:transparent;
+  transition:color .18s ease
+}
+.eleven-play::before{
+  content:"";position:absolute;inset:4px 2px;box-sizing:border-box;z-index:-1;pointer-events:none;
+  border:1px solid var(--eleven-control-border);
+  border-radius:8px;background:var(--eleven-control-surface);
   transition:background-color .18s cubic-bezier(.2,.7,.2,1),
-    border-color .18s cubic-bezier(.2,.7,.2,1),color .18s ease
+    border-color .18s cubic-bezier(.2,.7,.2,1)
 }
 @media(hover:hover) and (pointer:fine){
-  .eleven-play:hover{background:#f0f0f1;border-color:#dcdcdf;color:#212125}
-  .eleven-play[data-state="playing"]:hover{background:#ececed;border-color:#d9d9dc}
-  .eleven-play[data-state="paused"]:hover{background:#f0f0f1;border-color:#dcdcdf;color:#212125}
+  .eleven-play:hover{--eleven-control-surface:#f0f0f1;--eleven-control-border:#dcdcdf;color:#212125}
+  .eleven-play[data-state="playing"]:hover{--eleven-control-surface:#ececed;--eleven-control-border:#d9d9dc}
+  .eleven-play[data-state="paused"]:hover{--eleven-control-surface:#f0f0f1;--eleven-control-border:#dcdcdf;color:#212125}
 }
-.eleven-play:active{background:#eaeaec;border-color:#d9d9dc}
-.eleven-play:focus-visible{outline:2px solid #6d6d72;outline-offset:3px}
-.eleven-play[data-state="playing"]{background:#f2f2f3;color:#26262a;border-color:#dedee0}
-.eleven-play[data-state="paused"]{background:rgba(255,255,255,.64);color:#39393d;border-color:#e5e5e7}
-.eleven-play[data-state="loading"]{background:#f5f5f6;color:#626268;border-color:#e5e5e7;cursor:progress}
-.eleven-play[data-state="error"]{background:#f7f7f8;border-color:#e7e7e9;color:#65656a}
+.eleven-play:active{--eleven-control-surface:#eaeaec;--eleven-control-border:#d9d9dc}
+.eleven-play:focus-visible{outline:2px solid #6d6d72;outline-offset:1px}
+.eleven-play[data-state="playing"]{--eleven-control-surface:#f2f2f3;--eleven-control-border:#dedee0;color:#26262a}
+.eleven-play[data-state="paused"]{--eleven-control-surface:rgba(255,255,255,.64);--eleven-control-border:#e5e5e7;color:#39393d}
+.eleven-play[data-state="loading"]{--eleven-control-surface:#f5f5f6;--eleven-control-border:#e5e5e7;color:#626268;cursor:progress}
+.eleven-play[data-state="error"]{--eleven-control-surface:#f7f7f8;--eleven-control-border:#e7e7e9;color:#65656a}
 @keyframes eleven-loading-pulse{0%,100%{opacity:1}50%{opacity:.55}}
 @media(prefers-reduced-motion:no-preference){
   .eleven-play[data-state="loading"] .eleven-control-icon{animation:eleven-loading-pulse 1.25s ease-in-out infinite}
@@ -484,7 +493,7 @@ h2{
 .eleven-play[data-playing="true"] .eleven-icon-play{display:none}
 .eleven-play[data-playing="true"] .eleven-icon-pause{display:block}
 .eleven-play-label{
-  display:block;flex:0 0 56px;width:56px;min-width:0;max-width:56px;
+  display:block;flex:0 0 48px;width:48px;min-width:0;max-width:48px;
   color:inherit;text-align:left;font-size:12px;font-weight:540;line-height:1.25;
   letter-spacing:-.005em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis
 }
@@ -538,12 +547,12 @@ h2{
 }
 @media(max-width:400px){
   .eleven-episode,.eleven-episode-featured{min-height:252px}
-  .eleven-play{flex-basis:112px;width:112px;min-width:112px;height:44px}
+  .eleven-play{flex-basis:100px;width:100px;min-width:100px;height:44px}
   .eleven-episode-actions{flex-wrap:wrap;gap:6px 9px}
   .eleven-source-link{margin-left:0;flex-basis:100%;min-height:30px;font-size:11px}
   .eleven-play-time{flex-basis:67px;width:67px;font-size:9.5px}
 }
-@media(prefers-reduced-motion:reduce){.eleven-play,.eleven-seek::-webkit-slider-thumb{transition:none}}
+@media(prefers-reduced-motion:reduce){.eleven-play,.eleven-play::before,.eleven-seek::-webkit-slider-thumb{transition:none;animation:none}}
 
 
 /* Consistent left-inset hover: content moves, card and playback controls do not. */

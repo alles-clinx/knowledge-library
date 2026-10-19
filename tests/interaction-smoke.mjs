@@ -136,13 +136,14 @@ try{
       radius:style.borderRadius,display:style.display,iconWidth:parseFloat(icon.width),
       state:el.dataset.state,label:el.querySelector('.eleven-play-label').textContent};
   });
-  assert(transportAppearance.width>=110&&transportAppearance.width<=114,'Player button should have stable 112px width');
+  assert(transportAppearance.width>=99&&transportAppearance.width<=101,'Player should have a stable compact 100px hit target');
   assert(transportAppearance.height===44,'Play/Pause control needs a 44px touch target');
   assert(transportAppearance.iconWidth===18,'Minimal playback icon should measure exactly 18px');
   assert(transportAppearance.state==='idle'&&transportAppearance.label==='Play','Player initial state should be Play');
   const quietButton=(await podcast.locator('.eleven-play').first().evaluate(el=>{
     const style=getComputedStyle(el);
-    return {background:style.backgroundColor,color:style.color,border:style.borderTopColor};
+    const capsule=getComputedStyle(el,'::before');
+    return {background:capsule.backgroundColor,color:style.color,border:capsule.borderTopColor};
   }));
   const rgb=s=>s.match(/\d+/g).slice(0,3).map(Number);
   const neutralLight=rgbValue=>{const channel=rgb(rgbValue);return channel.every(n=>n>=216)&&Math.max(...channel)-Math.min(...channel)<=5};
@@ -156,21 +157,24 @@ try{
     const svg=getComputedStyle(el.querySelector('svg'));
     const play=el.querySelector('.eleven-icon-play');
     return {
-      borderRadius:parseFloat(btn.borderTopLeftRadius),
+      borderRadius:parseFloat(getComputedStyle(el,'::before').borderTopLeftRadius),
+      visualHeight:parseFloat(getComputedStyle(el,'::before').height),visualWidth:parseFloat(getComputedStyle(el,'::before').width),
       stroke:svg.stroke,fill:svg.fill,strokeWidth:parseFloat(svg.strokeWidth),
       playPath:play.getAttribute('d'),labelWidth:el.querySelector('.eleven-play-label').getBoundingClientRect().width
     };
   });
-  assert(opticalDetails.borderRadius===11,'Transport should have precisely 11px rounding');
+  assert(opticalDetails.borderRadius===8,'Visual capsule should have precisely 8px rounding');
+  assert(opticalDetails.visualWidth>=95&&opticalDetails.visualWidth<=97&&opticalDetails.visualHeight===36,
+    'Visual capsule should be 96x36 within its 100x44 touch target');
   assert(opticalDetails.stroke!=='none'&&opticalDetails.fill==='none','Use precise outlined icons, not heavy filled icons');
   assert(opticalDetails.strokeWidth>1.7&&opticalDetails.strokeWidth<2,'Outlined transport glyph stroke should remain restrained');
-  assert(opticalDetails.labelWidth===56,'Transport label slot should never change width');
+  assert(opticalDetails.labelWidth===48,'Transport label slot should remain compact and fixed');
   assert(opticalDetails.playPath==='m8.75 6.5 8.5 5.5-8.5 5.5v-11Z','Unexpected transport glyph geometry');
   const idleBounds=await firstTransport.boundingBox();
   await firstTransport.hover();await wait(260);
   const hoverAppearance=await firstTransport.evaluate(el=>({
-    background:getComputedStyle(el).backgroundColor,
-    border:getComputedStyle(el).borderTopColor
+    background:getComputedStyle(el,'::before').backgroundColor,
+    border:getComputedStyle(el,'::before').borderTopColor
   }));
   const hoverBounds=await firstTransport.boundingBox();
   assert(rgb(hoverAppearance.background)[0]<rgb(quietButton.background)[0],
@@ -211,7 +215,7 @@ try{
   sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Play');
   assert(await firstPlay.getAttribute('aria-pressed')==='true','Play did not start in-page audio');
   assert(await firstPlay.getAttribute('data-state')==='playing','Player should expose playing state');
-  const playingPalette=await firstPlay.evaluate(el=>({background:getComputedStyle(el).backgroundColor,color:getComputedStyle(el).color}));
+  const playingPalette=await firstPlay.evaluate(el=>({background:getComputedStyle(el,'::before').backgroundColor,color:getComputedStyle(el).color}));
   assert(neutralLight(playingPalette.background)&&darkInk(playingPalette.color),
     'Playing state must stay subtle and never become a dark block');
   assert((await firstPlay.locator('.eleven-play-label').textContent())==='Pause','Button label should change to Pause in place');
@@ -220,7 +224,7 @@ try{
   sameEpisodeGeometry(initialEpisodeGeometry,await episodeGeometry(page),'Pause');
   assert(await firstPlay.getAttribute('aria-pressed')==='false','Pause did not stop in-page audio');
   assert(await firstPlay.getAttribute('data-state')==='paused','Player should retain paused state');
-  const pausedPalette=await firstPlay.evaluate(el=>({background:getComputedStyle(el).backgroundColor,color:getComputedStyle(el).color}));
+  const pausedPalette=await firstPlay.evaluate(el=>({background:getComputedStyle(el,'::before').backgroundColor,color:getComputedStyle(el).color}));
   assert(neutralLight(pausedPalette.background)&&darkInk(pausedPalette.color),
     'Paused state must remain a restrained neutral gray');
   assert((await firstPlay.locator('.eleven-play-label').textContent())==='Resume','Paused control should offer Resume');
@@ -390,7 +394,7 @@ try{
         assert(await auditPage.locator('#eleven .eleven-episode').count()===3,'Mobile Eleven episodes missing');
         assert(await auditPage.locator('#eleven .eleven-play').count()===3,'Mobile Play/Pause buttons missing');
         const mobileTransport=await auditPage.locator('#eleven .eleven-play').first().boundingBox();
-        assert(mobileTransport.width>=110&&mobileTransport.height>=44,'Mobile Play/Pause touch target is too small at '+width+'px');
+        assert(mobileTransport.width>=99&&mobileTransport.height>=44,'Mobile Play/Pause touch target is too small at '+width+'px');
         const beforePlayback=await episodeGeometry(auditPage);
         assert(beforePlayback.every(g=>g.progressHeight>=23),'Mobile seek controls did not reserve space at '+width+'px');
         const mobilePlayButton=auditPage.locator('#eleven .eleven-play').first();
