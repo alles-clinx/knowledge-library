@@ -64,13 +64,13 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Preserve focus-visible accessibility and disable transitions for reduced-motion preferences.
 
 ## Eleven transport refinements
-- Present the filled Play/Pause glyph and short verb together in one fixed-size monochrome, gently rounded transport button.
+- Present refined thin-stroke Play/Pause SVG glyphs and a short verb together in one fixed-size monochrome, gently rounded transport button.
 - Distinguish Play, Loading, Pause, Resume and unavailable audio states without changing the button's width, height or position.
 - Use a quiet 4px progress track, a clear thumb, and accessible elapsed/total playback timestamps.
 - Loading feedback is restrained and must respect reduced-motion settings. Maintain the browser-native audio API and single active stream.
 
 ### Quiet transport palette
-- The audio control must not read as a primary CTA: use light gray #eeeeef, dark neutral ink, and a faint border.
+- The audio control must not read as a primary CTA: use a translucent near-white fill, 1px #e5e5e7 border, 11px radius, 18px outlined transport icon, and neutral dark ink.
 - Playing, paused, and loading states stay within the same soft monochrome family; only the icon and short verb indicate transport state.
 - Preserve the fixed 112 × 44 px hit target, keyboard focus ring, contrast, and no-shift playback layout.
 
@@ -80,3 +80,9 @@ The language switch and Open Knowledge attribution are additions to the shell, n
 - Provide 192px PNG plus scalable SVG for PWA installs, with PNG favicon fallback.
 - The shared shell adds missing favicon metadata for other Knowledge routes without removing static links or creating duplicates.
 - Cache-bust icon changes and precache the new assets in service workers.
+
+### Eleven player geometry and restraint
+- Keep the player at exactly 112 × 44px; never animate transforms, font sizes, or padding on Play/Pause/Resume.
+- Reserve the internal 56px label slot to avoid optical wobble between states; keep the SVG at a fixed 18px with 1.85px line weight.
+- Hover and playing states use only a small neutral tone shift, never saturated colors, large shadows, or black backgrounds.
+- On touch devices, keep the full 44px target and keyboard focus ring, with no hover-dependent controls.

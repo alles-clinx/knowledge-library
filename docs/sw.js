@@ -1,4 +1,4 @@
-const VERSION='acx-knowledge-pwa-20261018-v15-book-icons';
+const VERSION='acx-knowledge-pwa-20261019-v16-refined-player';
 const STATIC_CACHE=VERSION+'-static';
 const RUNTIME_CACHE=VERSION+'-runtime';
 const SCOPE=new URL(self.registration.scope);

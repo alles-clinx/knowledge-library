@@ -249,8 +249,12 @@ if home_html.count('class="eleven-play-label"') != 3:
     errors.append("Each episode needs an integrated Play/Pause label")
 if "--eleven-seek-fill" not in home_html:
     errors.append("Custom podcast seek track missing")
-if 'background:#eeeeef;color:#333337' not in home_html or 'background:#e6e6e8;color:#222226' not in home_html:
-    errors.append("Eleven play/pause states must use a quiet light palette rather than a black button")
+if 'background:rgba(255,255,255,.64);color:#39393d' not in home_html or '.eleven-play[data-state="playing"]{background:#f2f2f3' not in home_html:
+    errors.append("Eleven playback must retain its refined, non-dominant light treatment")
+if home_html.count('d="m8.75 6.5 8.5 5.5-8.5 5.5v-11Z"') != 3:
+    errors.append("Eleven Play icons must remain consistent outlined SVGs")
+if '.eleven-control-icon{' not in home_html or 'stroke-width:1.85' not in home_html:
+    errors.append("Eleven controls must use balanced outline iconography")
 # Hover inset design should remain present in the homepage and discovery routes.
 discovery_css=(ROOT/"docs"/"assets"/"discovery.css").read_text(encoding="utf-8")
 legal_css=(ROOT/"docs"/"assets"/"legal.css").read_text(encoding="utf-8")

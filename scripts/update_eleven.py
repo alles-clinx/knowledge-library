@@ -216,8 +216,8 @@ def card(ep: dict, index: int) -> str:
             '<button class="eleven-play" type="button" data-audio-src="' + escape(audio, quote=True) +
             '" data-duration-seconds="' + str(ep.get("duration_seconds", 0)) + '" aria-label="Play ' + title + '" aria-pressed="false" title="Play episode">' +
             '<svg class="eleven-control-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">' +
-            '<path class="eleven-icon-play" d="M8.25 5.75a1 1 0 0 1 1.5-.86l9.25 6.25a1.03 1.03 0 0 1 0 1.72l-9.25 6.25a1 1 0 0 1-1.5-.86Z"/>' +
-            '<path class="eleven-icon-pause" d="M7.25 5.75a1 1 0 0 1 1-1h1.5a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1h-1.5a1 1 0 0 1-1-1Zm6 0a1 1 0 0 1 1-1h1.5a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1h-1.5a1 1 0 0 1-1-1Z"/></svg>' +
+            '<path class="eleven-icon-play" d="m8.75 6.5 8.5 5.5-8.5 5.5v-11Z"/>' +
+            '<path class="eleven-icon-pause" d="M9 7v10M15 7v10"/></svg>' +
             '<span class="eleven-play-label">Play</span></button>'
         )
         progress = (

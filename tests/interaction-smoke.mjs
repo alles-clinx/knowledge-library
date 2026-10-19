@@ -138,7 +138,7 @@ try{
   });
   assert(transportAppearance.width>=110&&transportAppearance.width<=114,'Player button should have stable 112px width');
   assert(transportAppearance.height===44,'Play/Pause control needs a 44px touch target');
-  assert(transportAppearance.iconWidth>=18,'Playback icon should be clearly visible');
+  assert(transportAppearance.iconWidth===18,'Minimal playback icon should measure exactly 18px');
   assert(transportAppearance.state==='idle'&&transportAppearance.label==='Play','Player initial state should be Play');
   const quietButton=(await podcast.locator('.eleven-play').first().evaluate(el=>{
     const style=getComputedStyle(el);
@@ -150,6 +150,35 @@ try{
   assert(neutralLight(quietButton.background)&&neutralLight(quietButton.border),
     'Eleven controls must use quiet light gray, not attention-grabbing black');
   assert(darkInk(quietButton.color),'Eleven control icons and labels must remain readable dark ink');
+  const firstTransport=podcast.locator('.eleven-play').first();
+  const opticalDetails=await firstTransport.evaluate(el=>{
+    const btn=getComputedStyle(el);
+    const svg=getComputedStyle(el.querySelector('svg'));
+    const play=el.querySelector('.eleven-icon-play');
+    return {
+      borderRadius:parseFloat(btn.borderTopLeftRadius),
+      stroke:svg.stroke,fill:svg.fill,strokeWidth:parseFloat(svg.strokeWidth),
+      playPath:play.getAttribute('d'),labelWidth:el.querySelector('.eleven-play-label').getBoundingClientRect().width
+    };
+  });
+  assert(opticalDetails.borderRadius===11,'Transport should have precisely 11px rounding');
+  assert(opticalDetails.stroke!=='none'&&opticalDetails.fill==='none','Use precise outlined icons, not heavy filled icons');
+  assert(opticalDetails.strokeWidth>1.7&&opticalDetails.strokeWidth<2,'Outlined transport glyph stroke should remain restrained');
+  assert(opticalDetails.labelWidth===56,'Transport label slot should never change width');
+  assert(opticalDetails.playPath==='m8.75 6.5 8.5 5.5-8.5 5.5v-11Z','Unexpected transport glyph geometry');
+  const idleBounds=await firstTransport.boundingBox();
+  await firstTransport.hover();await wait(260);
+  const hoverAppearance=await firstTransport.evaluate(el=>({
+    background:getComputedStyle(el).backgroundColor,
+    border:getComputedStyle(el).borderTopColor
+  }));
+  const hoverBounds=await firstTransport.boundingBox();
+  assert(rgb(hoverAppearance.background)[0]<rgb(quietButton.background)[0],
+    'Hover should have a subtle, visible background change');
+  assert(Math.abs(hoverBounds.width-idleBounds.width)<1&&Math.abs(hoverBounds.height-idleBounds.height)<1,
+    'Playback hover must not resize or shift the button');
+  await page.mouse.move(1,1);await wait(240);
+
   assert(await podcast.locator('.eleven-progress[hidden]').count()===3,'Episode progress should be hidden until playback starts');
   assert((await podcast.locator('.eleven-play').first().getAttribute('data-audio-src')).startsWith('https://content.rss.com/episodes/'),'Podcast must use verified RSS MP3 audio');
   assert((await podcast.locator('.eleven-source-link').first().getAttribute('href')).startsWith('https://podcasts.apple.com/'),'Apple should remain a secondary episode link');
