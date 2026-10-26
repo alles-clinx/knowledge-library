@@ -4,6 +4,16 @@
   "source": "Apple Podcasts catalogue / published podcast RSS",
   "episodes": [
     {
+      "number": 0,
+      "title": "When Growth Starts Breaking the Operating Model",
+      "published": "2026-10-25T16:50:31Z",
+      "duration_seconds": 2630,
+      "description": "Growth is usually treated as proof that a business is working. More customers. More employees. More locations. More products. But the systems that helped an organisation reach…",
+      "url": "https://podcasts.apple.com/us/podcast/when-growth-starts-breaking-the-operating-model/id1875218821?i=1000798039523&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/b2/af/0cb2af1b-a0e2-bd16-e1c5-d2265390d7e7/mza_5766430825433917358.png/600x600bb.jpg",
+      "audio_url": "https://content.rss.com/episodes/371218/3263291/eleven-by-allesclinx/2026_10_25_16_47_25_5e2a3cf3-f572-42da-a648-19656bcd6dbd.mp3"
+    },
+    {
       "number": 5,
       "title": "When Metrics Start Distorting the Business",
       "published": "2026-10-16T17:56:58Z",
