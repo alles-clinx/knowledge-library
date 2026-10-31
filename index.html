@@ -1,0 +1,855 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Alle's ClinX Knowledge</title>
+<meta name="description" content="Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.">
+<link rel="icon" type="image/svg+xml" href="/knowledge/assets/favicon.svg?v=20261018-book">
+<link rel="alternate icon" type="image/png" href="/knowledge/assets/favicon.png?v=20261018-book">
+<link rel="apple-touch-icon" sizes="180x180" href="/knowledge/assets/apple-touch-icon.png?v=20261018-book">
+<link rel="manifest" href="/knowledge/manifest.webmanifest">
+<meta name="theme-color" content="#ffffff">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="ClinX Knowledge">
+<link rel="stylesheet" href="/knowledge/assets/site.css?v=26f741680fa5">
+<style>
+:root{
+  --ink:#111111;
+  --text:#3a3a3c;
+  --muted:#737373;
+  --line:#e7e7e7;
+  --soft:#f7f7f7;
+  --page:1120px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:#fff;
+  color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+a{color:inherit;text-decoration:none}
+button,input{font:inherit}
+.page{
+  width:min(var(--page),calc(100% - 64px));
+  margin:0 auto;
+  padding:88px 0 112px;
+}
+.hero{max-width:760px}
+h1{
+  margin:0;
+  font-size:clamp(44px,5vw,64px);
+  line-height:1;
+  letter-spacing:-.045em;
+  font-weight:520;
+}
+.hero p{
+  max-width:680px;
+  margin:20px 0 0;
+  color:var(--text);
+  font-size:19px;
+  line-height:1.55;
+  letter-spacing:-.012em;
+}
+.search{
+  position:relative;
+  max-width:720px;
+  margin-top:40px;
+}
+.search svg{
+  position:absolute;
+  left:18px;
+  top:50%;
+  width:19px;
+  height:19px;
+  transform:translateY(-50%);
+  fill:none;
+  stroke:#6f6f73;
+  stroke-width:1.7;
+  stroke-linecap:round;
+  pointer-events:none;
+}
+.search input{
+  width:100%;
+  height:58px;
+  padding:0 18px 0 50px;
+  border:1px solid #cfcfcf;
+  border-radius:12px;
+  outline:none;
+  background:#fff;
+  color:var(--ink);
+  font-size:16px;
+  transition:border-color .14s ease,box-shadow .14s ease;
+}
+.search input::placeholder{color:#8a8a8e}
+.search input:focus{
+  border-color:#111;
+  box-shadow:0 0 0 3px rgba(0,0,0,.055);
+}
+
+.editorial-block{margin-top:84px}
+.editorial-block+.editorial-block{margin-top:72px}
+.slider-head-meta{
+  display:flex;
+  align-items:center;
+  gap:16px;
+}
+.slider-head-meta p{margin:0}
+.slider-controls{display:flex;gap:6px}
+.slider-button{
+  width:34px;
+  height:34px;
+  display:grid;
+  place-items:center;
+  padding:0;
+  border:1px solid #e5e5e7;
+  border-radius:8px;
+  background:#fff;
+  color:#55555a;
+  cursor:pointer;
+  font-size:17px;
+  line-height:1;
+  transition:background .14s ease,border-color .14s ease,color .14s ease,opacity .14s ease;
+}
+.slider-button:hover:not(:disabled),.slider-button:focus-visible:not(:disabled){
+  background:#f9f9f9;
+  border-color:#d6d6d9;
+  color:var(--ink);
+  outline:0;
+}
+.slider-button:disabled{opacity:.32;cursor:default}
+.slider-shell{
+  position:relative;
+  margin-top:18px;
+}
+.slider-shell::before,.slider-shell::after{
+  content:"";
+  position:absolute;
+  top:0;
+  bottom:8px;
+  width:54px;
+  z-index:3;
+  pointer-events:none;
+  opacity:0;
+  transition:opacity .16s ease;
+  backdrop-filter:blur(5px);
+  -webkit-backdrop-filter:blur(5px);
+}
+.slider-shell::before{
+  left:0;
+  background:linear-gradient(90deg,rgba(255,255,255,.96),rgba(255,255,255,.55),rgba(255,255,255,0));
+}
+.slider-shell::after{
+  right:0;
+  background:linear-gradient(270deg,rgba(255,255,255,.96),rgba(255,255,255,.55),rgba(255,255,255,0));
+}
+.slider-shell.can-scroll-left::before{opacity:1}
+.slider-shell.can-scroll-right::after{opacity:1}
+.bento-slider{
+  display:flex;
+  gap:12px;
+  overflow-x:auto;
+  padding:0 0 8px;
+  scroll-snap-type:x mandatory;
+  scroll-padding-inline:0;
+  scrollbar-width:none;
+  overscroll-behavior-inline:contain;
+  -webkit-overflow-scrolling:touch;
+}
+.bento-slider::-webkit-scrollbar{display:none}
+.editorial-item,.quick-item{
+  flex:0 0 320px;
+  min-width:0;
+  min-height:224px;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  padding:24px;
+  border:0;
+  border-radius:8px;
+  background:#f9f9f9;
+  scroll-snap-align:start;
+  transition:transform .14s ease,background-color .14s ease;
+}
+.editorial-item:first-child{flex-basis:430px}
+.editorial-item:hover,.quick-item:hover{background:#f2f2f3}
+.editorial-item:focus-visible,.quick-item:focus-visible{
+  outline:2px solid #111;
+  outline-offset:3px;
+}
+.editorial-kicker,.quick-item>span{
+  display:block;
+  margin-bottom:10px;
+  color:var(--muted);
+  font-size:10.5px;
+  line-height:1.3;
+  font-weight:550;
+  letter-spacing:.055em;
+  text-transform:uppercase;
+}
+.editorial-item strong{
+  display:block;
+  max-width:500px;
+  font-size:22px;
+  line-height:1.18;
+  letter-spacing:-.03em;
+  font-weight:540;
+}
+.editorial-item:first-child strong{font-size:26px}
+.editorial-item p{
+  max-width:500px;
+  margin:12px 0 0;
+  color:var(--muted);
+  font-size:13.5px;
+  line-height:1.52;
+}
+.editorial-arrow{
+  align-self:flex-end;
+  margin-top:24px;
+  color:#9b9ba0;
+  font-size:19px;
+  line-height:1;
+  transition:transform .14s ease,color .14s ease;
+}
+.editorial-item:hover .editorial-arrow{transform:translateX(3px);color:var(--ink)}
+.quick-item{
+  flex-basis:276px;
+  min-height:192px;
+  justify-content:flex-start;
+}
+.quick-item strong{
+  display:block;
+  font-size:17px;
+  line-height:1.3;
+  letter-spacing:-.02em;
+  font-weight:540;
+}
+.quick-item em{
+  display:block;
+  margin-top:auto;
+  padding-top:20px;
+  color:#818186;
+  font-size:12px;
+  line-height:1.45;
+  font-style:normal;
+}
+
+.library{
+  margin-top:96px;
+}
+.section-head{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:32px;
+  padding-bottom:18px;
+  border-bottom:0;
+}
+h2{
+  margin:0;
+  font-size:28px;
+  line-height:1.15;
+  letter-spacing:-.032em;
+  font-weight:550;
+}
+.section-head p{
+  margin:0;
+  color:var(--muted);
+  font-size:14px;
+  line-height:1.4;
+}
+.category-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  column-gap:56px;
+}
+.category{
+  min-width:0;
+  display:block;
+  padding:24px 12px 26px;
+  border-bottom:0;
+  border-radius:8px;
+  transition:background-color .19s ease;
+}
+.category:hover,.category:focus-visible{background:#f7f7f8}
+.category:focus-visible{
+  outline:2px solid #111;
+  outline-offset:4px;
+  border-radius:4px;
+}
+.category strong{
+  display:block;
+  font-size:18px;
+  line-height:1.3;
+  letter-spacing:-.018em;
+  font-weight:530;
+}
+.category span{
+  display:block;
+  max-width:430px;
+  margin-top:7px;
+  color:var(--muted);
+  font-size:14px;
+  line-height:1.5;
+}
+.category[hidden]{display:none}
+.empty{
+  display:none;
+  padding:28px 0;
+  color:var(--muted);
+  font-size:15px;
+}
+.empty.show{display:block}
+@media (max-width:760px){
+  .page{
+    width:min(100% - 40px,var(--page));
+    padding:56px 0 80px;
+  }
+  h1{font-size:42px;letter-spacing:-.04em}
+  .hero p{margin-top:16px;font-size:17px;line-height:1.5}
+  .search{margin-top:30px}
+  .search input{height:54px;border-radius:10px}
+
+  .editorial-block{margin-top:64px}
+  .editorial-block+.editorial-block{margin-top:56px}
+  .slider-head-meta{margin-top:12px;justify-content:space-between}
+  .slider-head-meta p{margin:0}
+  .slider-shell{margin-top:14px}
+  .editorial-item{flex-basis:min(82vw,360px);min-height:216px;padding:22px}
+  .editorial-item:first-child{flex-basis:min(88vw,390px)}
+  .editorial-item strong{font-size:20px}
+  .editorial-item:first-child strong{font-size:23px}
+  .quick-item{flex-basis:min(72vw,290px);min-height:184px;padding:21px}
+
+  .library{margin-top:68px}
+  .section-head{display:block;padding-bottom:14px}
+  h2{font-size:24px}
+  .section-head p{margin-top:7px}
+  .category-grid{grid-template-columns:1fr;column-gap:0}
+  .category{padding:20px 12px 21px}
+  .category strong{font-size:17px}
+  .category span{margin-top:6px;font-size:13.5px}
+}
+@media (max-width:500px){
+  .slider-head-meta{align-items:center}
+  .slider-head-meta p{font-size:12px}
+  .slider-button{width:32px;height:32px}
+  .editorial-item{flex-basis:86vw}
+  .editorial-item:first-child{flex-basis:90vw}
+  .quick-item{flex-basis:78vw}
+}
+@media (max-width:360px){
+  .page{width:calc(100% - 32px);padding-top:44px}
+  h1{font-size:38px}
+  .hero p{font-size:16px}
+  .library{margin-top:60px}
+}
+@media (prefers-reduced-motion:reduce){
+  *{scroll-behavior:auto!important;transition:none!important}
+}
+
+/* Eleven podcast: restrained editorial listening shelf. */
+.eleven-section{margin-top:88px}
+.eleven-head{align-items:flex-end}
+.eleven-heading{max-width:690px}
+.eleven-eyebrow{
+  display:block;margin-bottom:8px;color:#79797d;font-size:11px;
+  font-weight:480;line-height:1.4;letter-spacing:.015em
+}
+.eleven-heading h2{font-size:30px;font-weight:540;letter-spacing:-.035em}
+.eleven-heading p{max-width:620px;margin:11px 0 0;color:#696970;font-size:14px;line-height:1.55}
+.eleven-show-link{
+  flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;
+  min-height:44px;color:#35353a;font-size:12.5px;font-weight:500;
+  text-decoration:none;white-space:nowrap
+}
+.eleven-show-link svg{width:15px;height:15px}
+.eleven-show-link:hover,.eleven-show-link:focus-visible{color:#111;text-decoration:underline;text-underline-offset:4px}
+.eleven-grid{
+  display:grid;grid-template-columns:minmax(0,1.14fr) minmax(0,1fr);
+  grid-template-rows:repeat(2,minmax(0,1fr));
+  gap:12px;margin-top:18px
+}
+.eleven-episode{
+  display:flex;align-items:flex-start;gap:16px;min-width:0;min-height:170px;
+  padding:19px;border:0;border-radius:10px;
+  background:#f9f9f9;color:#141416;text-decoration:none;
+  transition:background-color .18s ease,border-color .18s ease
+}
+.eleven-episode:hover,.eleven-episode:focus-within{background:#f4f4f4}
+.eleven-episode:focus-within{outline:1px solid rgba(0,0,0,.10);outline-offset:2px}
+.eleven-episode-featured{
+  grid-row:span 2;flex-direction:column;min-height:352px;gap:18px;padding:24px
+}
+.eleven-cover{
+  flex:0 0 80px;width:80px;height:80px;overflow:hidden;display:grid;place-items:center;
+  border-radius:6px;background:#ebebeb;color:#242424;
+}
+.eleven-cover>img{width:100%;height:100%;object-fit:cover;display:block}
+.eleven-cover>span{font-size:34px;line-height:1;font-weight:470;letter-spacing:-.09em}
+.eleven-episode-featured .eleven-cover{
+  width:138px;height:138px;flex-basis:138px;border-radius:8px
+}
+.eleven-episode-featured .eleven-cover>span{font-size:58px}
+.eleven-episode-body{display:flex;flex-direction:column;align-items:flex-start;min-width:0;flex:1}
+.eleven-episode-meta{color:#74747a;font-size:11px;line-height:1.45;font-weight:550}
+.eleven-episode h3{
+  margin:9px 0 0;color:#171719;font-size:18px;font-weight:530;
+  letter-spacing:-.025em;line-height:1.25;overflow-wrap:anywhere
+}
+.eleven-episode-featured h3{max-width:470px;font-size:26px;line-height:1.17}
+.eleven-episode p{
+  display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;
+  overflow:hidden;margin:9px 0 12px;color:#74747a;font-size:12.5px;line-height:1.55
+}
+.eleven-episode-featured p{-webkit-line-clamp:3;max-width:480px;font-size:13.5px}
+.eleven-episode time{margin-top:auto;color:#8a8a8e;font-size:11px;line-height:1.45}
+@media(max-width:820px){
+  .eleven-section{margin-top:72px}
+  .eleven-head{display:flex;align-items:flex-start;flex-direction:column;gap:10px}
+  .eleven-show-link{min-height:40px}
+  .eleven-grid{grid-template-columns:1fr;grid-template-rows:auto}
+  .eleven-episode,.eleven-episode-featured{
+    grid-row:auto;flex-direction:row;gap:15px;min-height:142px;padding:17px
+  }
+  .eleven-cover,.eleven-episode-featured .eleven-cover{
+    width:90px;height:90px;flex-basis:90px;border-radius:6px
+  }
+  .eleven-cover>span,.eleven-episode-featured .eleven-cover>span{font-size:38px}
+  .eleven-episode h3,.eleven-episode-featured h3{font-size:18px;line-height:1.27}
+  .eleven-episode p,.eleven-episode-featured p{font-size:12.5px;-webkit-line-clamp:2}
+}
+@media(max-width:400px){
+  .eleven-section{margin-top:64px}
+  .eleven-grid{gap:10px}
+  .eleven-episode,.eleven-episode-featured{gap:12px;padding:14px}
+  .eleven-cover,.eleven-episode-featured .eleven-cover{width:70px;height:70px;flex-basis:70px}
+  .eleven-cover>span,.eleven-episode-featured .eleven-cover>span{font-size:31px}
+  .eleven-episode h3,.eleven-episode-featured h3{font-size:16px}
+}
+@media(prefers-reduced-motion:reduce){
+  .eleven-episode{transition:none}
+}
+
+
+/* In-page podcast audio controls: quiet chrome, obvious transport, no dividers. */
+.eleven-episode{min-height:230px;gap:17px}
+.eleven-episode-featured{min-height:468px}
+.eleven-episode-body{min-height:0;align-self:stretch}
+.eleven-episode time{margin-top:10px}
+.eleven-episode-actions{
+  display:flex;align-items:center;gap:12px;margin-top:auto;padding-top:13px;
+  min-width:0;min-height:57px;flex-shrink:0
+}
+/* Compact visual capsule, with a separate stable 44px touch target. */
+.eleven-play{
+  --eleven-control-surface:rgba(255,255,255,.64);
+  --eleven-control-border:#e5e5e7;
+  position:relative;isolation:isolate;
+  display:inline-flex;align-items:center;justify-content:center;gap:6px;
+  flex:0 0 100px;width:100px;height:44px;min-width:100px;min-height:44px;
+  padding:0 10px;border:0;border-radius:10px;
+  background:transparent;color:#39393d;
+  font-family:inherit;font-weight:540;font-size:12px;line-height:1.2;
+  letter-spacing:-.005em;white-space:nowrap;
+  cursor:pointer;user-select:none;-webkit-tap-highlight-color:transparent;
+  transition:color .18s ease
+}
+.eleven-play::before{
+  content:"";position:absolute;inset:4px 2px;box-sizing:border-box;z-index:-1;pointer-events:none;
+  border:1px solid var(--eleven-control-border);
+  border-radius:8px;background:var(--eleven-control-surface);
+  transition:background-color .18s cubic-bezier(.2,.7,.2,1),
+    border-color .18s cubic-bezier(.2,.7,.2,1)
+}
+@media(hover:hover) and (pointer:fine){
+  .eleven-play:hover{--eleven-control-surface:#f0f0f1;--eleven-control-border:#dcdcdf;color:#212125}
+  .eleven-play[data-state="playing"]:hover{--eleven-control-surface:#ececed;--eleven-control-border:#d9d9dc}
+  .eleven-play[data-state="paused"]:hover{--eleven-control-surface:#f0f0f1;--eleven-control-border:#dcdcdf;color:#212125}
+}
+.eleven-play:active{--eleven-control-surface:#eaeaec;--eleven-control-border:#d9d9dc}
+.eleven-play:focus-visible{outline:2px solid #6d6d72;outline-offset:1px}
+.eleven-play[data-state="playing"]{--eleven-control-surface:#f2f2f3;--eleven-control-border:#dedee0;color:#26262a}
+.eleven-play[data-state="paused"]{--eleven-control-surface:rgba(255,255,255,.64);--eleven-control-border:#e5e5e7;color:#39393d}
+.eleven-play[data-state="loading"]{--eleven-control-surface:#f5f5f6;--eleven-control-border:#e5e5e7;color:#626268;cursor:progress}
+.eleven-play[data-state="error"]{--eleven-control-surface:#f7f7f8;--eleven-control-border:#e7e7e9;color:#65656a}
+@keyframes eleven-loading-pulse{0%,100%{opacity:1}50%{opacity:.55}}
+@media(prefers-reduced-motion:no-preference){
+  .eleven-play[data-state="loading"] .eleven-control-icon{animation:eleven-loading-pulse 1.25s ease-in-out infinite}
+}
+.eleven-control-icon{
+  display:block;flex:0 0 18px;width:18px;height:18px;fill:none;
+  stroke:currentColor;stroke-width:1.85;stroke-linecap:round;stroke-linejoin:round;
+  overflow:visible
+}
+.eleven-icon-play{transform:translateX(.6px)}
+.eleven-icon-pause{display:none}
+.eleven-play[data-playing="true"] .eleven-icon-play{display:none}
+.eleven-play[data-playing="true"] .eleven-icon-pause{display:block}
+.eleven-play-label{
+  display:block;flex:0 0 48px;width:48px;min-width:0;max-width:48px;
+  color:inherit;text-align:left;font-size:12px;font-weight:540;line-height:1.25;
+  letter-spacing:-.005em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis
+}
+.eleven-source-link{
+  margin-left:auto;min-height:40px;display:inline-flex;align-items:center;
+  color:#747479;font-size:11px;line-height:1.3;text-decoration:underline;
+  text-underline-offset:3px;text-decoration-color:transparent;
+}
+.eleven-source-link:hover,.eleven-source-link:focus-visible{
+  color:#171717;text-decoration-color:currentColor
+}
+.eleven-progress{
+  display:flex;align-items:center;gap:10px;margin-top:8px;
+  width:100%;min-width:0;height:24px;min-height:24px;flex-shrink:0
+}
+/* The full scrubber row retains its geometry when idle, playing, and paused. */
+.eleven-progress[hidden]{display:flex!important;visibility:hidden;pointer-events:none}
+.eleven-seek{
+  -webkit-appearance:none;appearance:none;display:block;flex:1 1 auto;
+  min-width:0;height:24px;padding:0;margin:0;border:0;outline:0;
+  background:transparent;cursor:pointer;--eleven-seek-fill:0%;
+}
+.eleven-seek::-webkit-slider-runnable-track{
+  height:4px;border:0;border-radius:99px;
+  background:linear-gradient(to right,#252528 var(--eleven-seek-fill),#dedee0 var(--eleven-seek-fill))
+}
+.eleven-seek::-moz-range-track{height:4px;border:0;border-radius:99px;background:#dedee0}
+.eleven-seek::-moz-range-progress{height:4px;border-radius:99px;background:#252528}
+.eleven-seek::-webkit-slider-thumb{
+  -webkit-appearance:none;appearance:none;width:12px;height:12px;margin-top:-4px;
+  border:2px solid #f9f9f9;border-radius:50%;background:#252528;
+  box-shadow:0 0 0 1px #c5c5c9;transition:box-shadow .16s ease
+}
+.eleven-seek::-moz-range-thumb{
+  width:9px;height:9px;border:2px solid #f9f9f9;border-radius:50%;background:#252528
+}
+.eleven-seek:hover::-webkit-slider-thumb,.eleven-seek:focus-visible::-webkit-slider-thumb{
+  box-shadow:0 0 0 3px rgba(34,34,36,.12)
+}
+.eleven-seek:focus-visible{outline:2px solid #36363a;outline-offset:1px;border-radius:8px}
+.eleven-play-time{
+  flex:0 0 78px;width:78px;text-align:right;white-space:nowrap;
+  font-size:10px;line-height:1.35;color:#77777b;font-variant-numeric:tabular-nums
+}
+.eleven-unavailable{font-size:12px;color:#777}
+.eleven-sr-only{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:820px){
+  .eleven-episode,.eleven-episode-featured{min-height:224px}
+  .eleven-episode-actions{flex-wrap:wrap;gap:6px 9px}
+  .eleven-source-link{margin-left:0;flex:0 0 100%;min-height:30px}
+}
+@media(max-width:400px){
+  .eleven-episode,.eleven-episode-featured{min-height:252px}
+  .eleven-play{flex-basis:100px;width:100px;min-width:100px;height:44px}
+  .eleven-episode-actions{flex-wrap:wrap;gap:6px 9px}
+  .eleven-source-link{margin-left:0;flex-basis:100%;min-height:30px;font-size:11px}
+  .eleven-play-time{flex-basis:67px;width:67px;font-size:9.5px}
+}
+@media(prefers-reduced-motion:reduce){.eleven-play,.eleven-play::before,.eleven-seek::-webkit-slider-thumb{transition:none;animation:none}}
+
+
+/* Consistent left-inset hover: content moves, card and playback controls do not. */
+.editorial-item > div:first-child,
+.quick-item > :is(span,strong,em),
+.category > :is(strong,span){
+  transition:transform .19s cubic-bezier(.2,.7,.2,1);
+}
+@media(hover:hover) and (pointer:fine){
+  .editorial-item:hover > div:first-child,
+  .quick-item:hover > :is(span,strong,em),
+  .category:hover > :is(strong,span){
+    transform:translateX(4px);
+  }
+  .eleven-episode:hover{background:#f2f2f3}
+  .eleven-episode:hover .eleven-cover img{transform:scale(1.025)}
+}
+:is(.editorial-item,.quick-item,.category):focus-visible > :is(div:first-child,span,strong,em){
+  transform:translateX(4px)
+}
+.eleven-cover img{transition:transform .24s cubic-bezier(.2,.7,.2,1)}
+@media(prefers-reduced-motion:reduce){
+  .editorial-item > div:first-child,.quick-item > :is(span,strong,em),
+  .category > :is(strong,span),.eleven-cover img{transition:none!important}
+}
+
+</style>
+<script src="/knowledge/assets/site.js?v=4c216b722ba3" defer></script>
+<script src="/knowledge/assets/eleven.js?v=d5da9df52a33" defer></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"PodcastSeries","name":"Eleven by Alle's ClinX","url":"https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821","description":"Research-led conversations on hygiene, safety, operations and the decisions that shape healthier institutions.","publisher":{"@type":"Organization","name":"Alle's ClinX","url":"https://allesclinx.com/"}}</script>
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<link rel="canonical" href="https://allesclinx.com/knowledge/">
+<meta property="og:url" content="https://allesclinx.com/knowledge/">
+<meta property="og:image" content="https://allesclinx.com/wp-content/uploads/2026/09/alles-clinx-knowledge-hub-500-resources.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://allesclinx.com/wp-content/uploads/2026/09/alles-clinx-knowledge-hub-500-resources.png">
+<meta property="og:title" content="Alle&#x27;s ClinX Knowledge">
+<meta name="twitter:title" content="Alle&#x27;s ClinX Knowledge">
+<meta property="og:description" content="Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.">
+<meta name="twitter:description" content="Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Alle's ClinX Knowledge","url":"https://allesclinx.com/knowledge/"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Alle's ClinX Knowledge","description":"Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.","url":"https://allesclinx.com/knowledge/","isPartOf":{"@type":"WebSite","name":"Alle's ClinX Knowledge","url":"https://allesclinx.com/knowledge/"}}</script>
+</head>
+<body class="knowledge-home">
+<main class="page">
+  <header class="hero">
+    <h1>Alle's ClinX Knowledge</h1>
+    <p>Practical guidance for professional cleaning, hygiene, chemistry, safety, equipment and facility operations.</p>
+    <div class="search" role="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.25 4.25"></path></svg>
+      <input id="knowledge-search" type="search" autocomplete="off" placeholder="Search the knowledge base" aria-label="Search the knowledge base">
+    </div>
+  </header>
+
+
+  <section class="editorial-block" aria-labelledby="trending-title">
+    <div class="section-head">
+      <h2 id="trending-title">Trending articles</h2>
+      <div class="slider-head-meta">
+        <p>Curated from currently live Knowledge guides.</p>
+        <div class="slider-controls" aria-label="Trending articles controls">
+          <button class="slider-button" type="button" data-slider-prev="trending-slider" aria-label="Previous trending articles">←</button>
+          <button class="slider-button" type="button" data-slider-next="trending-slider" aria-label="Next trending articles">→</button>
+        </div>
+      </div>
+    </div>
+    <div class="slider-shell">
+    <div class="bento-slider" id="trending-slider" data-slider>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/cleaning-basics/cleaning-vs-sanitising-vs-disinfecting/">
+        <div>
+          <span class="editorial-kicker">Cleaning Basics</span>
+          <strong>Cleaning vs Sanitising vs Disinfecting</strong>
+          <p>Understand what each process does and when the distinction matters in a facility cleaning plan.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/cleaning-basics/the-four-factors-that-influence-cleaning-performance/">
+        <div>
+          <span class="editorial-kicker">Cleaning Basics</span>
+          <strong>The Four Factors That Influence Cleaning Performance</strong>
+          <p>See how chemistry, mechanical action, time and temperature work together during cleaning.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/deep-cleaning/deep-cleaning-vs-routine-cleaning/">
+        <div>
+          <span class="editorial-kicker">Deep Cleaning</span>
+          <strong>Deep Cleaning vs Routine Cleaning</strong>
+          <p>Compare purpose, scope, frequency, access, labour and verification without mixing the two programs.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="editorial-item" href="/knowledge/library/cleaning-housekeeping/high-touch-cleaning/what-are-high-touch-surfaces/">
+        <div>
+          <span class="editorial-kicker">High-Touch Cleaning</span>
+          <strong>What Are High-Touch Surfaces?</strong>
+          <p>Learn how frequently handled surfaces are identified and why the exact list changes by facility.</p>
+        </div>
+        <span class="editorial-arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+    </div>
+  </section>
+
+  <section class="editorial-block" aria-labelledby="quick-title">
+    <div class="section-head">
+      <h2 id="quick-title">Quick reads</h2>
+      <div class="slider-head-meta">
+        <p>Start with the essentials.</p>
+        <div class="slider-controls" aria-label="Quick reads controls">
+          <button class="slider-button" type="button" data-slider-prev="quick-slider" aria-label="Previous quick reads">←</button>
+          <button class="slider-button" type="button" data-slider-next="quick-slider" aria-label="Next quick reads">→</button>
+        </div>
+      </div>
+    </div>
+    <div class="slider-shell">
+    <div class="bento-slider" id="quick-slider" data-slider>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/cleaning-basics/what-is-professional-cleaning/">
+        <span>Cleaning Basics</span>
+        <strong>What Is Professional Cleaning?</strong>
+        <em>A practical definition of planned, repeatable facility cleaning.</em>
+      </a>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/daily-cleaning/what-is-routine-daily-cleaning/">
+        <span>Daily Cleaning</span>
+        <strong>What Is Routine Daily Cleaning?</strong>
+        <em>The recurring tasks that keep facilities ready between deeper work.</em>
+      </a>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/deep-cleaning/what-is-deep-cleaning/">
+        <span>Deep Cleaning</span>
+        <strong>What Is Deep Cleaning?</strong>
+        <em>When normal routine scope is not enough and broader work is required.</em>
+      </a>
+      <a class="quick-item" href="/knowledge/library/cleaning-housekeeping/cleaning-schedules/what-is-a-cleaning-schedule/">
+        <span>Cleaning Schedules</span>
+        <strong>What Is a Cleaning Schedule?</strong>
+        <em>What to clean, where, how often, by whom and by which approved method.</em>
+      </a>
+    </div>
+    </div>
+  </section>
+
+
+  <section class="eleven-section" id="eleven" aria-labelledby="eleven-title">
+    <div class="section-head eleven-head">
+      <div class="eleven-heading">
+        <span class="eleven-eyebrow">The Alle's ClinX podcast</span>
+        <h2 id="eleven-title">Eleven</h2>
+        <p>Research-led conversations on the decisions, systems and people behind how institutions operate.</p>
+      </div>
+      <a class="eleven-show-link" href="https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821" target="_blank" rel="noopener noreferrer" aria-label="All Eleven podcast episodes on Apple Podcasts">All episodes on Apple Podcasts
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg>
+      </a>
+    </div>
+    <div class="eleven-grid" aria-label="Three latest Eleven podcast episodes">
+    <!-- eleven:episodes:start -->
+      <article class="eleven-episode eleven-episode-featured">
+        <div class="eleven-cover"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/1d/a4/5a1da4e2-63bc-36c7-ad14-2caf514e2f8a/mza_15497592321671050594.png/600x600bb.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+        <div class="eleven-episode-body"><span class="eleven-episode-meta">New episode · 53 min</span>
+          <h3>When Lower Prices Raise the Total Cost</h3>
+          <p>A lower purchase price can look like a clear win. But if it creates more failures, rework, downtime, emergency buying, inventory, supervision or supplier complexity, the…</p>
+          <time datetime="2026-10-31">31 Oct 2026</time>
+          <div class="eleven-episode-actions"><button class="eleven-play" type="button" data-audio-src="https://content.rss.com/episodes/371218/3282580/eleven-by-allesclinx/2026_10_31_08_33_40_cc8e3b54-c77c-4033-98f5-8988f8cf36ea.mp3" data-duration-seconds="3197" aria-label="Play When Lower Prices Raise the Total Cost" aria-pressed="false" title="Play episode"><svg class="eleven-control-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="eleven-icon-play" d="m8.75 6.5 8.5 5.5-8.5 5.5v-11Z"/><path class="eleven-icon-pause" d="M9 7v10M15 7v10"/></svg><span class="eleven-play-label">Play</span></button><a class="eleven-source-link" href="https://podcasts.apple.com/us/podcast/when-lower-prices-raise-the-total-cost/id1875218821?i=1000799030208&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Lower Prices Raise the Total Cost on Apple Podcasts">Apple Podcasts</a></div>
+          <div class="eleven-progress" hidden><label class="eleven-sr-only" for="eleven-seek-0">Playback position for When Lower Prices Raise the Total Cost</label><input class="eleven-seek" id="eleven-seek-0" type="range" min="0" max="1000" value="0" aria-label="Seek within When Lower Prices Raise the Total Cost"/><span class="eleven-play-time">0:00 / 53:00</span></div></div>
+      </article>
+      <article class="eleven-episode">
+        <div class="eleven-cover"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/b2/af/0cb2af1b-a0e2-bd16-e1c5-d2265390d7e7/mza_5766430825433917358.png/600x600bb.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+        <div class="eleven-episode-body"><span class="eleven-episode-meta">New episode · 44 min</span>
+          <h3>When Growth Starts Breaking the Operating Model</h3>
+          <p>Growth is usually treated as proof that a business is working. More customers. More employees. More locations. More products. But the systems that helped an organisation reach…</p>
+          <time datetime="2026-10-25">25 Oct 2026</time>
+          <div class="eleven-episode-actions"><button class="eleven-play" type="button" data-audio-src="https://content.rss.com/episodes/371218/3263291/eleven-by-allesclinx/2026_10_25_16_47_25_5e2a3cf3-f572-42da-a648-19656bcd6dbd.mp3" data-duration-seconds="2630" aria-label="Play When Growth Starts Breaking the Operating Model" aria-pressed="false" title="Play episode"><svg class="eleven-control-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="eleven-icon-play" d="m8.75 6.5 8.5 5.5-8.5 5.5v-11Z"/><path class="eleven-icon-pause" d="M9 7v10M15 7v10"/></svg><span class="eleven-play-label">Play</span></button><a class="eleven-source-link" href="https://podcasts.apple.com/us/podcast/when-growth-starts-breaking-the-operating-model/id1875218821?i=1000798039523&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Growth Starts Breaking the Operating Model on Apple Podcasts">Apple Podcasts</a></div>
+          <div class="eleven-progress" hidden><label class="eleven-sr-only" for="eleven-seek-1">Playback position for When Growth Starts Breaking the Operating Model</label><input class="eleven-seek" id="eleven-seek-1" type="range" min="0" max="1000" value="0" aria-label="Seek within When Growth Starts Breaking the Operating Model"/><span class="eleven-play-time">0:00 / 44:00</span></div></div>
+      </article>
+      <article class="eleven-episode">
+        <div class="eleven-cover"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/88/26/ea882627-0bfd-3ffa-ef61-e91cddad52ff/mza_10679340562267036894.png/600x600bb.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+        <div class="eleven-episode-body"><span class="eleven-episode-meta">Episode 05 · 64 min</span>
+          <h3>When Metrics Start Distorting the Business</h3>
+          <p>Metrics are supposed to make performance visible. But once a number becomes a target, people begin to optimise for the number itself — and that can quietly distort the…</p>
+          <time datetime="2026-10-16">16 Oct 2026</time>
+          <div class="eleven-episode-actions"><button class="eleven-play" type="button" data-audio-src="https://content.rss.com/episodes/371218/3240707/eleven-by-allesclinx/2026_10_16_17_53_49_178a65ab-4e1d-4707-bf13-c19e70b46341.mp3" data-duration-seconds="3859" aria-label="Play When Metrics Start Distorting the Business" aria-pressed="false" title="Play episode"><svg class="eleven-control-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="eleven-icon-play" d="m8.75 6.5 8.5 5.5-8.5 5.5v-11Z"/><path class="eleven-icon-pause" d="M9 7v10M15 7v10"/></svg><span class="eleven-play-label">Play</span></button><a class="eleven-source-link" href="https://podcasts.apple.com/us/podcast/when-metrics-start-distorting-the-business/id1875218821?i=1000796705312&amp;uo=4" target="_blank" rel="noopener noreferrer" aria-label="Listen to When Metrics Start Distorting the Business on Apple Podcasts">Apple Podcasts</a></div>
+          <div class="eleven-progress" hidden><label class="eleven-sr-only" for="eleven-seek-2">Playback position for When Metrics Start Distorting the Business</label><input class="eleven-seek" id="eleven-seek-2" type="range" min="0" max="1000" value="0" aria-label="Seek within When Metrics Start Distorting the Business"/><span class="eleven-play-time">0:00 / 64:00</span></div></div>
+      </article>
+    <!-- eleven:episodes:end -->
+    </div>
+  </section>
+
+  <section class="library" aria-labelledby="browse-title">
+    <div class="section-head">
+      <h2 id="browse-title">Browse by category</h2>
+      <p>Choose the area closest to your question.</p>
+    </div>
+
+    <div class="category-grid" id="category-grid">
+      <a class="category" href="/knowledge/library/cleaning-housekeeping/" data-search="cleaning housekeeping basics daily deep cleaning high touch schedules workflows professional">
+        <strong>Cleaning &amp; Housekeeping</strong>
+        <span>Everyday cleaning methods, routines, schedules and housekeeping workflows.</span>
+      </a>
+      <a class="category" href="/knowledge/library/floor-surface-care/" data-search="floor surface care hard resilient stone tile carpet maintenance stains troubleshooting">
+        <strong>Floor &amp; Surface Care</strong>
+        <span>Care, maintenance and troubleshooting for floors and other facility surfaces.</span>
+      </a>
+      <a class="category" href="/knowledge/library/washroom-hygiene/" data-search="washroom hygiene toilets urinals restroom routine odour scale sanitary fittings">
+        <strong>Washroom Hygiene</strong>
+        <span>Routine cleaning, odour control, sanitary fittings and washroom maintenance.</span>
+      </a>
+      <a class="category" href="/knowledge/library/kitchen-food-service/" data-search="kitchen food service hygiene food contact degreasing dishwashing sanitation food safety">
+        <strong>Kitchen &amp; Food-Service Hygiene</strong>
+        <span>Cleaning and hygiene guidance for kitchens, food-contact areas and dishwashing.</span>
+      </a>
+      <a class="category" href="/knowledge/library/laundry-fabric-care/" data-search="laundry fabric care washing linen stain textiles dosing cycles">
+        <strong>Laundry &amp; Fabric Care</strong>
+        <span>Washing, dosing, stain care and practical guidance for fabrics and linen.</span>
+      </a>
+      <a class="category" href="/knowledge/library/disinfection-infection-prevention/" data-search="disinfection infection prevention disinfectant sanitising sanitizing microorganisms contact time healthcare">
+        <strong>Disinfection &amp; Infection Prevention</strong>
+        <span>Disinfection principles, contact time and infection-prevention cleaning practices.</span>
+      </a>
+      <a class="category" href="/knowledge/library/hand-hygiene/" data-search="hand hygiene handwash soap sanitizer sanitiser washing dispensers">
+        <strong>Hand Hygiene</strong>
+        <span>Handwashing, hand rubs, dispensers and practical hygiene guidance.</span>
+      </a>
+      <a class="category" href="/knowledge/library/cleaning-equipment-systems/" data-search="cleaning equipment systems machines scrubber dryer vacuum mop microfiber dilution dosing">
+        <strong>Cleaning Equipment &amp; Systems</strong>
+        <span>Machines, tools, dosing systems and equipment used in professional cleaning.</span>
+      </a>
+      <a class="category" href="/knowledge/library/cleaning-chemistry/" data-search="cleaning chemistry ph acid acids alkali alkaline surfactants detergent dilution water hardness chemistry">
+        <strong>Cleaning Chemistry</strong>
+        <span>pH, acids, alkalis, surfactants, dilution and the chemistry behind cleaning.</span>
+      </a>
+      <a class="category" href="/knowledge/library/safety-compliance/" data-search="safety compliance documentation sds labels ppe chemical handling storage training regulations">
+        <strong>Safety, Compliance &amp; Documentation</strong>
+        <span>SDS, labels, PPE, chemical handling, storage and workplace documentation.</span>
+      </a>
+      <a class="category" href="/knowledge/library/facility-hygiene-management/" data-search="facility hygiene management audits inspections quality cleaning plans frequencies staff training operations">
+        <strong>Facility Hygiene Management</strong>
+        <span>Planning, inspection, auditing, training and management of cleaning programs.</span>
+      </a>
+      <a class="category" href="/knowledge/library/facility-guides/" data-search="facility sector guides healthcare hospitality education industrial offices retail institutional environments">
+        <strong>Facility &amp; Sector Guides</strong>
+        <span>Practical guidance for different facility types and operating environments.</span>
+      </a>
+      <a class="category" href="/knowledge/library/alles-clinx/" data-search="alles clinx tools support products product selection nova checkmate metricon plus documents service support">
+        <strong>Alle's ClinX Tools &amp; Support</strong>
+        <span>Product selection, digital tools, documentation and Alle's ClinX support resources.</span>
+      </a>
+    </div>
+    <div class="empty" id="empty-state" role="status" aria-live="polite">No category matches your search.</div>
+  </section>
+
+</main>
+<script>
+(function(){
+  document.querySelectorAll('[data-slider]').forEach(function(slider){
+    const id=slider.id;
+    const prev=document.querySelector('[data-slider-prev="'+id+'"]');
+    const next=document.querySelector('[data-slider-next="'+id+'"]');
+    const step=function(){return Math.max(260,Math.min(slider.clientWidth*.82,440));};
+    const shell=slider.closest('.slider-shell');
+    function sync(){
+      const max=slider.scrollWidth-slider.clientWidth;
+      const canLeft=slider.scrollLeft>2;
+      const canRight=slider.scrollLeft<max-2;
+      prev.disabled=!canLeft;
+      next.disabled=!canRight;
+      if(shell){
+        shell.classList.toggle('can-scroll-left',canLeft);
+        shell.classList.toggle('can-scroll-right',canRight);
+      }
+    }
+    prev.addEventListener('click',function(){
+      slider.scrollBy({left:-step(),behavior:'smooth'});
+    });
+    next.addEventListener('click',function(){
+      slider.scrollBy({left:step(),behavior:'smooth'});
+    });
+    slider.addEventListener('scroll',function(){
+      requestAnimationFrame(sync);
+    },{passive:true});
+    window.addEventListener('resize',sync);
+    sync();
+  });
+
+  const input=document.getElementById('knowledge-search');
+  const cards=[...document.querySelectorAll('.category')];
+  const empty=document.getElementById('empty-state');
+  input.addEventListener('input',()=>{
+    const q=input.value.trim().toLowerCase();
+    let shown=0;
+    cards.forEach(card=>{
+      const hay=(card.textContent+' '+(card.dataset.search||'')).toLowerCase();
+      const match=!q||hay.includes(q);
+      card.hidden=!match;
+      if(match) shown++;
+    });
+    empty.classList.toggle('show',shown===0);
+  });
+})();
+</script>
+</body>
+</html>
