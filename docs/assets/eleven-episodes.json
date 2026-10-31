@@ -5,6 +5,16 @@
   "episodes": [
     {
       "number": 0,
+      "title": "When Lower Prices Raise the Total Cost",
+      "published": "2026-10-31T08:33:54Z",
+      "duration_seconds": 3197,
+      "description": "A lower purchase price can look like a clear win. But if it creates more failures, rework, downtime, emergency buying, inventory, supervision or supplier complexity, the…",
+      "url": "https://podcasts.apple.com/us/podcast/when-lower-prices-raise-the-total-cost/id1875218821?i=1000799030208&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/1d/a4/5a1da4e2-63bc-36c7-ad14-2caf514e2f8a/mza_15497592321671050594.png/600x600bb.jpg",
+      "audio_url": "https://content.rss.com/episodes/371218/3282580/eleven-by-allesclinx/2026_10_31_08_33_40_cc8e3b54-c77c-4033-98f5-8988f8cf36ea.mp3"
+    },
+    {
+      "number": 0,
       "title": "When Growth Starts Breaking the Operating Model",
       "published": "2026-10-25T16:50:31Z",
       "duration_seconds": 2630,
