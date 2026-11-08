@@ -1,0 +1,27 @@
+# Alle's ClinX Knowledge
+
+> Open professional cleaning, hygiene, chemistry, safety, equipment and facility-operations knowledge.
+
+- Canonical site: https://allesclinx.com/knowledge/
+- Sitemap: https://allesclinx.com/knowledge/sitemap.xml
+- Languages: English and हिन्दी (hi-IN)
+- Content license: CC BY 4.0
+- Publisher: Alle's ClinX
+
+## Live categories
+- Alle's ClinX Tools & Support: https://allesclinx.com/knowledge/library/alles-clinx/
+- Cleaning & Housekeeping: https://allesclinx.com/knowledge/library/cleaning-housekeeping/
+- Cleaning Chemistry: https://allesclinx.com/knowledge/library/cleaning-chemistry/
+- Cleaning Equipment & Systems: https://allesclinx.com/knowledge/library/cleaning-equipment-systems/
+- Disinfection & Infection Prevention: https://allesclinx.com/knowledge/library/disinfection-infection-prevention/
+- Facility & Sector Guides: https://allesclinx.com/knowledge/library/facility-guides/
+- Facility Hygiene Management: https://allesclinx.com/knowledge/library/facility-hygiene-management/
+- Floor & Surface Care: https://allesclinx.com/knowledge/library/floor-surface-care/
+- Hand Hygiene: https://allesclinx.com/knowledge/library/hand-hygiene/
+- Kitchen & Food-Service Hygiene: https://allesclinx.com/knowledge/library/kitchen-food-service/
+- Laundry & Fabric Care: https://allesclinx.com/knowledge/library/laundry-fabric-care/
+- Safety, Compliance & Documentation: https://allesclinx.com/knowledge/library/safety-compliance/
+- Washroom Hygiene: https://allesclinx.com/knowledge/library/washroom-hygiene/
+
+## Crawling and citation
+Public Knowledge pages are intended to be indexable and citable. Canonical URLs, hreflang links, structured data and sitemap entries are included in the published HTML.

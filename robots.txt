@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /knowledge/
+Disallow: /knowledge/offline.html
+Sitemap: https://allesclinx.com/knowledge/sitemap.xml

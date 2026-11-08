@@ -1,0 +1,572 @@
+(function(){
+  const BASE='/knowledge/';
+  const ICON_VERSION='20261018-book';
+  // The Knowledge Library uses the open-book symbol on every route, not the CX monogram.
+  function addIcon(rel,href,type,sizes){
+    if(document.head.querySelector('link[rel="'+rel+'"]'))return;
+    const link=document.createElement('link');
+    link.rel=rel;
+    link.href=BASE+href+'?v='+ICON_VERSION;
+    if(type)link.type=type;
+    if(sizes)link.sizes=sizes;
+    document.head.appendChild(link);
+  }
+  addIcon('icon','assets/favicon.svg','image/svg+xml');
+  addIcon('alternate icon','assets/favicon.png','image/png');
+  addIcon('apple-touch-icon','assets/apple-touch-icon.png','image/png','180x180');
+
+  if(window.__ACX_SITE_SHELL__) return;
+  window.__ACX_SITE_SHELL__=true;
+
+  function normalizedPath(value){
+    const path=String(value||'/').split('?')[0].split('#')[0];
+    return path.replace(/\/+$/,'/') || '/';
+  }
+
+  const mainContent=document.querySelector('main');
+  if(mainContent){
+    if(!mainContent.id) mainContent.id='main-content';
+    if(!mainContent.hasAttribute('tabindex')) mainContent.setAttribute('tabindex','-1');
+    const skipLink=document.createElement('a');
+    skipLink.className='acx-skip-link';
+    skipLink.href='#'+mainContent.id;
+    skipLink.textContent='Skip to main content';
+    skipLink.addEventListener('click',function(){
+      requestAnimationFrame(function(){mainContent.focus({preventScroll:true});});
+    });
+    document.body.insertAdjacentElement('afterbegin',skipLink);
+  }
+
+  function syncSharedCurrentLinks(){
+    const current=normalizedPath(window.location.pathname);
+    document.querySelectorAll('#acx-site-footer a[href]').forEach(function(link){
+      const href=link.getAttribute('href')||'';
+      if(!href.startsWith(BASE)) return;
+      const target=normalizedPath(href);
+      const exact=current===target;
+      const section=!exact && target!==BASE && current.startsWith(target);
+      if(exact) link.setAttribute('aria-current','page');
+      else if(section) link.setAttribute('aria-current','location');
+      else link.removeAttribute('aria-current');
+    });
+  }
+
+  function ensurePwaHead(){
+    if(!document.querySelector('link[rel="manifest"]')){
+      const manifest=document.createElement('link');
+      manifest.rel='manifest';
+      manifest.href=BASE+'manifest.webmanifest';
+      document.head.appendChild(manifest);
+    }
+    [
+      ['theme-color','#ffffff'],
+      ['mobile-web-app-capable','yes'],
+      ['apple-mobile-web-app-capable','yes'],
+      ['apple-mobile-web-app-status-bar-style','default'],
+      ['apple-mobile-web-app-title',"ClinX Knowledge"]
+    ].forEach(function(pair){
+      if(document.querySelector('meta[name="'+pair[0]+'"]')) return;
+      const meta=document.createElement('meta');
+      meta.name=pair[0];
+      meta.content=pair[1];
+      document.head.appendChild(meta);
+    });
+  }
+  ensurePwaHead();
+
+  const pwaStyle=document.createElement('style');
+  pwaStyle.textContent=[
+    '.acx-install-app{appearance:none;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;min-width:44px;padding:0;border:0;border-radius:8px;background:transparent;color:#414146;cursor:pointer}',
+    '.acx-install-app:hover,.acx-install-app:focus-visible{background:#f9f9f9;color:#111}',
+    '.acx-install-app[hidden],.acx-pwa-status[hidden]{display:none!important}',
+    '.acx-pwa-status{position:fixed;left:50%;bottom:max(18px,env(safe-area-inset-bottom));z-index:9999;transform:translateX(-50%);max-width:calc(100% - 32px);padding:9px 12px;border:1px solid #dedee1;border-radius:999px;background:rgba(255,255,255,.96);color:#303034;font:600 12px/1.25 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;box-shadow:0 5px 22px rgba(0,0,0,.08);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}',
+    '@media(max-width:640px){.acx-pwa-status{bottom:max(12px,env(safe-area-inset-bottom))}}'
+  ].join('');
+  document.head.appendChild(pwaStyle);
+
+  const preferredLocale=document.documentElement.lang==='hi'?'hi-IN':'en';
+  const searchIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 4.3 4.3"></path></svg>';
+  const libraryIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.5C9.3 4.7 6.3 4.4 3 5.3v13.5c3.3-.9 6.3-.6 9 1.2 2.7-1.8 5.7-2.1 9-1.2V5.3c-3.3-.9-6.3-.6-9 1.2Z"/><path d="M12 6.5V20"/><path d="M5.8 9c1.2-.1 2.4.1 3.4.5"/><path d="M14.8 9.5c1.1-.4 2.3-.6 3.4-.5"/></svg>';
+  const installIcon='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v11"/><path d="m8 10 4 4 4-4"/><path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"/></svg>';
+  // Three purposeful inline SVG controls with accessible names; no menu drawer.
+  const header=document.createElement('div');
+  header.innerHTML='<header class="acx-site-header"><div class="acx-site-bar">'+
+    '<div class="acx-brand-cluster"><a class="acx-wordmark" href="'+BASE+'" aria-label="Alle\'s ClinX Knowledge home">Alle\'s ClinX</a></div>'+
+    '<nav class="acx-site-actions" aria-label="Knowledge shortcuts">'+
+    '<a class="acx-header-icon acx-header-library" href="'+BASE+'#browse-title" aria-label="Browse Knowledge categories" title="Library">'+libraryIcon+'</a>'+
+    '<button class="acx-search-button" type="button" aria-label="Search Knowledge">'+searchIcon+'</button>'+
+    '<button class="acx-install-app" type="button" aria-label="Install Alle\'s ClinX Knowledge app" title="Install app">'+installIcon+'</button></nav></div></header>';
+  document.body.insertAdjacentElement('afterbegin',header.firstElementChild);
+
+  if(!document.getElementById('acx-site-footer')){
+    const footer=document.createElement('footer');
+    footer.className='acx-site-footer';
+    footer.id='acx-site-footer';
+    footer.setAttribute('aria-label',"Alle's ClinX Knowledge footer");
+    footer.innerHTML=
+      '<div class="acx-footer-shell">'+
+        '<div class="acx-footer-main">'+
+          '<div class="acx-footer-intro">'+
+            '<a class="acx-footer-brand" href="'+BASE+'">Alle\'s ClinX</a>'+
+            '<p>Open Knowledge for professional cleaning, hygiene, safety and facility operations.</p>'+
+          '</div>'+
+          '<div class="acx-footer-groups">'+
+            '<section class="acx-footer-group" aria-labelledby="acx-footer-knowledge">'+
+              '<h2 id="acx-footer-knowledge">Knowledge</h2>'+
+              '<nav class="acx-footer-nav" aria-label="Knowledge footer navigation">'+
+                '<a href="'+BASE+'">Knowledge home</a>'+
+                '<a href="'+BASE+'#browse-title">Browse categories</a>'+
+                '<a href="'+BASE+'library/cleaning-housekeeping/">Cleaning &amp; Housekeeping</a>'+
+                '<a href="'+BASE+'library/safety-compliance/">Safety &amp; Compliance</a>'+
+                '<a href="'+BASE+'library/alles-clinx/">Tools &amp; Support</a>'+
+                '<a href="https://podcasts.apple.com/us/podcast/eleven-by-alles-clinx/id1875218821" target="_blank" rel="noopener noreferrer">Eleven podcast</a>'+
+              '</nav>'+
+            '</section>'+
+            '<section class="acx-footer-group" aria-labelledby="acx-footer-legal">'+
+              '<h2 id="acx-footer-legal">Legal</h2>'+
+              '<nav class="acx-footer-nav" aria-label="Legal footer navigation">'+
+                '<a href="'+BASE+'privacy-policy/">Privacy</a>'+
+                '<a href="'+BASE+'terms-conditions/">Terms</a>'+
+              '</nav>'+
+            '</section>'+
+          '</div>'+
+        '</div>'+
+        '<div class="acx-footer-bottom">'+
+          '<div class="acx-footer-meta"><span>Open Knowledge</span><span>© <span data-acx-footer-year></span> Alle\'s ClinX</span></div>'+
+          '<div class="acx-footer-actions">'+
+            '<a href="mailto:care@allesclinx.com">care@allesclinx.com</a>'+
+            '<a href="https://allesclinx.com/">allesclinx.com <span aria-hidden="true">↗</span></a>'+
+            '<button class="acx-footer-top" type="button" aria-label="Back to top">Top <span aria-hidden="true">↑</span></button>'+
+          '</div>'+
+        '</div>'+
+      '</div>';
+    document.body.appendChild(footer);
+    const year=footer.querySelector('[data-acx-footer-year]');
+    if(year) year.textContent=String(new Date().getFullYear());
+    const topButton=footer.querySelector('.acx-footer-top');
+    if(topButton) topButton.addEventListener('click',function(){
+      window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+    });
+  }
+  syncSharedCurrentLinks();
+
+  const installBtn=document.querySelector('.acx-install-app');
+  let deferredInstallPrompt=null;
+  const installNote=document.createElement('div');
+  installNote.className='acx-install-note';
+  installNote.setAttribute('role','status');
+  installNote.hidden=true;
+  document.body.appendChild(installNote);
+  let installNoteTimer;
+  function isStandalone(){
+    return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone===true;
+  }
+  function syncInstallButton(){
+    if(!installBtn) return;
+    installBtn.hidden=isStandalone();
+  }
+  window.addEventListener('beforeinstallprompt',function(event){
+    event.preventDefault();
+    deferredInstallPrompt=event;
+    syncInstallButton();
+  });
+  if(installBtn){
+    installBtn.addEventListener('click',async function(){
+      if(!deferredInstallPrompt){
+        installNote.textContent=/iPhone|iPad|iPod/i.test(navigator.userAgent)
+          ? 'In Safari, tap Share, then Add to Home Screen.'
+          : 'Use your browser menu to install this app or add it to your home screen.';
+        installNote.hidden=false;
+        clearTimeout(installNoteTimer);
+        installNoteTimer=setTimeout(function(){installNote.hidden=true;},6000);
+        return;
+      }
+      deferredInstallPrompt.prompt();
+      try{await deferredInstallPrompt.userChoice;}catch(error){}
+      deferredInstallPrompt=null;
+      syncInstallButton();
+    });
+  }
+  window.addEventListener('appinstalled',function(){
+    deferredInstallPrompt=null;
+    syncInstallButton();
+  });
+  window.matchMedia('(display-mode: standalone)').addEventListener?.('change',syncInstallButton);
+  syncInstallButton();
+
+  const pwaStatus=document.createElement('div');
+  pwaStatus.className='acx-pwa-status';
+  pwaStatus.setAttribute('role','status');
+  pwaStatus.setAttribute('aria-live','polite');
+  pwaStatus.hidden=true;
+  pwaStatus.textContent='Offline mode · visited guides remain available';
+  document.body.appendChild(pwaStatus);
+  function syncConnectivity(){
+    pwaStatus.hidden=navigator.onLine;
+  }
+  window.addEventListener('online',syncConnectivity);
+  window.addEventListener('offline',syncConnectivity);
+  syncConnectivity();
+
+  if('serviceWorker' in navigator && location.protocol!=='file:'){
+    window.addEventListener('load',async function(){
+      try{
+        const registration=await navigator.serviceWorker.register(BASE+'sw.js',{scope:BASE});
+        if(registration.waiting && navigator.serviceWorker.controller){
+          registration.waiting.postMessage({type:'SKIP_WAITING'});
+        }
+        registration.addEventListener('updatefound',function(){
+          const worker=registration.installing;
+          if(!worker) return;
+          worker.addEventListener('statechange',function(){
+            if(worker.state==='installed' && registration.waiting && navigator.serviceWorker.controller){
+              registration.waiting.postMessage({type:'SKIP_WAITING'});
+            }
+          });
+        });
+      }catch(error){
+        console.warn('Alle\'s ClinX Knowledge service worker registration failed.',error);
+      }
+    });
+  }
+
+  const siteHeader=document.querySelector('.acx-site-header');
+  let lastHeaderScrollY=Math.max(0,window.scrollY);
+  let headerDirection=0;
+  let headerDistance=0;
+  let headerFrame=0;
+  function revealHeader(){
+    siteHeader.classList.remove('is-hidden');
+  }
+  function syncHeaderState(){
+    const y=Math.max(0,window.scrollY);
+    const delta=y-lastHeaderScrollY;
+    siteHeader.classList.toggle('is-scrolled',y>10);
+    if(y<=72 || siteHeader.contains(document.activeElement)){
+      revealHeader();
+      headerDirection=0;
+      headerDistance=0;
+    }else if(Math.abs(delta)>1){
+      const direction=Math.sign(delta);
+      headerDistance=direction===headerDirection?headerDistance+Math.abs(delta):Math.abs(delta);
+      headerDirection=direction;
+      if(direction>0 && y>140 && headerDistance>=16){
+        siteHeader.classList.add('is-hidden');
+      }else if(direction<0 && headerDistance>=8){
+        revealHeader();
+      }
+    }
+    lastHeaderScrollY=y;
+  }
+  function scheduleHeaderSync(){
+    if(headerFrame) return;
+    headerFrame=requestAnimationFrame(function(){
+      headerFrame=0;
+      syncHeaderState();
+    });
+  }
+  window.addEventListener('scroll',scheduleHeaderSync,{passive:true});
+  window.addEventListener('resize',scheduleHeaderSync,{passive:true});
+  siteHeader.addEventListener('focusin',function(){
+    revealHeader();
+    headerDirection=0;
+    headerDistance=0;
+  });
+  syncHeaderState();
+
+  const dialog=document.createElement('div');
+  dialog.className='acx-search-dialog';
+  dialog.setAttribute('role','dialog');
+  dialog.setAttribute('aria-modal','true');
+  dialog.setAttribute('aria-label','Search Alle\'s ClinX Knowledge');
+  dialog.innerHTML='<div class="acx-search-panel">'+
+    '<div class="acx-search-top">'+searchIcon+
+      '<input class="acx-search-input" type="search" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="Search cleaning, deep cleaning, schedules…" aria-label="Search live Knowledge guides" aria-controls="acx-search-results">'+
+      '<button class="acx-search-close" type="button" aria-label="Close search">×</button>'+
+    '</div>'+
+    '<div class="acx-search-status"><span class="acx-search-status-label">Search all live Knowledge guides</span><span class="acx-search-keys"><kbd>↑</kbd><kbd>↓</kbd> navigate <kbd>Enter</kbd> open</span></div>'+
+    '<div class="acx-search-results" id="acx-search-results" role="listbox" aria-label="Search results"><div class="acx-search-empty">Loading Knowledge index…</div></div>'+
+    '<div class="acx-search-hint"><span>Tip: search by topic, title, category, or article ID.</span><span class="acx-search-count"></span></div>'+
+  '</div>';
+  document.body.appendChild(dialog);
+
+  const searchBtns=[...document.querySelectorAll('.acx-search-button')];
+  const closeBtn=dialog.querySelector('.acx-search-close');
+  const input=dialog.querySelector('.acx-search-input');
+  const results=dialog.querySelector('.acx-search-results');
+  const statusLabel=dialog.querySelector('.acx-search-status-label');
+  const countLabel=dialog.querySelector('.acx-search-count');
+  let records=null;
+  let activeIndex=-1;
+  let visibleResults=[];
+
+  let searchReturnFocus=null;
+  function esc(value){
+    return String(value||'').replace(/[&<>"']/g,function(m){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];
+    });
+  }
+
+  function normalize(value){
+    return String(value||'')
+      .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+      .toLowerCase()
+      .replace(/sanitizing/g,'sanitising')
+      .replace(/sanitize/g,'sanitise')
+      .replace(/[^\p{L}\p{N}]+/gu,' ')
+      .trim();
+  }
+
+  function queryTokens(value){
+    return normalize(value).split(/\s+/).filter(Boolean);
+  }
+
+  function editDistance(a,b){
+    if(a===b) return 0;
+    if(!a.length) return b.length;
+    if(!b.length) return a.length;
+    const row=Array.from({length:b.length+1},(_,i)=>i);
+    for(let i=1;i<=a.length;i++){
+      let prev=row[0];
+      row[0]=i;
+      for(let j=1;j<=b.length;j++){
+        const old=row[j];
+        row[j]=Math.min(row[j]+1,row[j-1]+1,prev+(a[i-1]===b[j-1]?0:1));
+        prev=old;
+      }
+    }
+    return row[b.length];
+  }
+
+  function tokenMatches(token,field){
+    if(!token||!field) return false;
+    if(field.includes(token)) return true;
+    if(token.length<4) return false;
+    const maxDistance=token.length>=8?2:1;
+    return field.split(' ').some(function(word){
+      return Math.abs(word.length-token.length)<=maxDistance && editDistance(token,word)<=maxDistance;
+    });
+  }
+
+  function scoreRecord(record,rawQuery){
+    const q=normalize(rawQuery);
+    const tokens=queryTokens(rawQuery);
+    if(!q||!tokens.length) return 0;
+
+    const title=normalize(record.title);
+    const category=normalize(record.category);
+    const subcategory=normalize(record.subcategory);
+    const excerpt=normalize(record.excerpt);
+    const id=normalize(record.article_id);
+    const all=[title,subcategory,category,excerpt,id].join(' ');
+    let score=0;
+
+    if(id===q) score+=220;
+    if(title===q) score+=180;
+    if(title.startsWith(q)) score+=115;
+    if(title.includes(q)) score+=90;
+    if(subcategory===q) score+=65;
+    if(subcategory.includes(q)) score+=34;
+    if(category.includes(q)) score+=18;
+    if(excerpt.includes(q)) score+=14;
+    if(record.locale===preferredLocale) score+=12;
+
+    let matched=0;
+    tokens.forEach(function(token){
+      if(tokenMatches(token,title)){score+=32;matched++;return;}
+      if(tokenMatches(token,subcategory)){score+=18;matched++;return;}
+      if(tokenMatches(token,category)){score+=10;matched++;return;}
+      if(tokenMatches(token,id)){score+=24;matched++;return;}
+      if(tokenMatches(token,excerpt)){score+=6;matched++;}
+    });
+
+    if(matched===tokens.length) score+=28;
+    if(!all.includes(q) && matched===0) return 0;
+    return score;
+  }
+
+  function highlight(value,rawQuery){
+    const source=esc(value);
+    const terms=String(rawQuery||'').trim().split(/\s+/).filter(function(x){return x.length>1;});
+    if(!terms.length) return source;
+    const pattern=terms.map(function(term){
+      return term.replace(/[.*+?^$()|[\]\\{}]/g,'\\$&');
+    }).join('|');
+    if(!pattern) return source;
+    return source.replace(new RegExp('('+pattern+')','ig'),'<mark>$1</mark>');
+  }
+
+  function resultUrl(record){
+    let path=String(record.url||'').replace(/^\/+/, '');
+    path=path.replace(/^knowledge-library\//,'');
+    return BASE+path;
+  }
+
+  async function loadRecords(){
+    if(records) return records;
+    statusLabel.textContent='Loading Knowledge index…';
+    try{
+      const response=await fetch(BASE+'assets/live-search.json',{cache:'no-store'});
+      if(!response.ok) throw new Error('Search index unavailable');
+      const data=await response.json();
+      records=(data.records||[]).map(function(record,index){return Object.assign({_order:index},record);});
+      const articleCount=new Set(records.map(function(record){return record.article_id;})).size;
+      countLabel.textContent=articleCount+' live guides · English + हिन्दी';
+      statusLabel.textContent='Search all live Knowledge guides';
+    }catch(error){
+      records=[];
+      countLabel.textContent='';
+      statusLabel.textContent='Search temporarily unavailable';
+    }
+    return records;
+  }
+
+  function renderResult(record,index,query){
+    return '<a class="acx-search-result" id="acx-search-result-'+index+'" role="option" aria-selected="false" data-index="'+index+'" href="'+esc(resultUrl(record))+'">'+
+      '<span class="acx-search-result-main"><strong>'+highlight(record.title,query)+'</strong>'+
+      '<span class="acx-search-result-meta">'+esc(record.subcategory)+' <b>·</b> '+esc(record.article_id)+' <b>·</b> '+(record.locale==='hi-IN'?'हिन्दी':'English')+'</span>'+
+      (record.excerpt?'<span class="acx-search-result-excerpt">'+highlight(record.excerpt,query)+'</span>':'')+
+      '</span><span class="acx-search-result-arrow" aria-hidden="true">→</span></a>';
+  }
+
+  function defaultResults(){
+    if(!records||!records.length){
+      results.innerHTML='<div class="acx-search-empty">Search index is temporarily unavailable.</div>';
+      visibleResults=[];
+      return;
+    }
+    const preferred=records.filter(function(record){return record.locale===preferredLocale;});
+    visibleResults=(preferred.length?preferred:records).slice(-6).reverse();
+    statusLabel.textContent='Recently published';
+    results.innerHTML=visibleResults.map(function(record,index){
+      return renderResult(record,index,'');
+    }).join('');
+    activeIndex=-1;
+  }
+
+  function setActive(index){
+    const items=[...results.querySelectorAll('.acx-search-result')];
+    if(!items.length){activeIndex=-1;input.removeAttribute('aria-activedescendant');return;}
+    activeIndex=Math.max(0,Math.min(index,items.length-1));
+    items.forEach(function(item,i){
+      const active=i===activeIndex;
+      item.classList.toggle('is-active',active);
+      item.setAttribute('aria-selected',active?'true':'false');
+      if(active){
+        input.setAttribute('aria-activedescendant',item.id);
+        item.scrollIntoView({block:'nearest'});
+      }
+    });
+  }
+
+  function renderSearch(){
+    const raw=input.value.trim();
+    if(!raw){
+      defaultResults();
+      return;
+    }
+
+    const ranked=(records||[])
+      .map(function(record){return {record:record,score:scoreRecord(record,raw)};})
+      .filter(function(item){return item.score>0;})
+      .sort(function(a,b){return b.score-a.score || a.record._order-b.record._order;})
+      .slice(0,10)
+      .map(function(item){return item.record;});
+
+    visibleResults=ranked;
+    activeIndex=-1;
+    input.removeAttribute('aria-activedescendant');
+    statusLabel.textContent=ranked.length?(ranked.length+' best match'+(ranked.length===1?'':'es')):'No matches';
+
+    if(!ranked.length){
+      results.innerHTML='<div class="acx-search-empty"><strong>No matching guide found.</strong><span>Try fewer words, a broader topic, or an article ID such as ACX-KB-0011.</span></div>';
+      return;
+    }
+
+    results.innerHTML=ranked.map(function(record,index){
+      return renderResult(record,index,raw);
+    }).join('');
+  }
+
+  async function openSearch(){
+    if(!dialog.classList.contains('is-open')){
+      searchReturnFocus=document.activeElement;
+      if(searchReturnFocus===document.body) searchReturnFocus=null;
+    }
+    dialog.classList.add('is-open');
+    document.body.classList.add('acx-search-open');
+    input.value='';
+    results.innerHTML='<div class="acx-search-empty">Loading Knowledge index…</div>';
+    await loadRecords();
+    renderSearch();
+    requestAnimationFrame(function(){input.focus();});
+  }
+
+  loadRecords();
+
+  function closeSearch(restoreFocus){
+    dialog.classList.remove('is-open');
+    document.body.classList.remove('acx-search-open');
+    activeIndex=-1;
+    input.removeAttribute('aria-activedescendant');
+    if(restoreFocus!==false && searchReturnFocus && typeof searchReturnFocus.focus==='function' && document.contains(searchReturnFocus)){
+      searchReturnFocus.focus({preventScroll:true});
+    }
+    searchReturnFocus=null;
+  }
+
+  const homeSearch=document.getElementById('knowledge-search');
+  if(homeSearch){
+    homeSearch.placeholder='Search all Knowledge guides';
+    homeSearch.setAttribute('aria-label','Search all Knowledge guides');
+    homeSearch.addEventListener('focus',function(){openSearch();});
+    homeSearch.addEventListener('click',function(){openSearch();});
+  }
+
+  searchBtns.forEach(function(button){button.addEventListener('click',openSearch);});
+  closeBtn.addEventListener('click',closeSearch);
+  dialog.addEventListener('pointerdown',function(event){if(event.target===dialog)closeSearch();});
+  input.addEventListener('input',renderSearch);
+  input.addEventListener('keydown',function(event){
+    const items=[...results.querySelectorAll('.acx-search-result')];
+    if(event.key==='ArrowDown'&&items.length){
+      event.preventDefault();
+      setActive(activeIndex<0?0:(activeIndex+1)%items.length);
+    }else if(event.key==='ArrowUp'&&items.length){
+      event.preventDefault();
+      setActive(activeIndex<0?items.length-1:(activeIndex-1+items.length)%items.length);
+    }else if(event.key==='Enter'&&activeIndex>=0&&items[activeIndex]){
+      event.preventDefault();
+      items[activeIndex].click();
+    }
+  });
+  results.addEventListener('mousemove',function(event){
+    const item=event.target.closest('.acx-search-result');
+    if(!item) return;
+    setActive(Number(item.dataset.index));
+  });
+
+  document.addEventListener('keydown',function(event){
+    if((event.metaKey||event.ctrlKey)&&event.key.toLowerCase()==='k'){
+      event.preventDefault();
+      dialog.classList.contains('is-open')?closeSearch():openSearch();
+    }
+    if(event.key==='Escape'){
+      if(dialog.classList.contains('is-open')) closeSearch();
+    }
+    if(event.key==='Tab'&&dialog.classList.contains('is-open')){
+      const focusable=[input,closeBtn,...results.querySelectorAll('a[href],button:not([disabled])')].filter(function(el){
+        return el.offsetParent!==null;
+      });
+      if(focusable.length){
+        const first=focusable[0];
+        const last=focusable[focusable.length-1];
+        if(event.shiftKey&&document.activeElement===first){
+          event.preventDefault();last.focus();
+        }else if(!event.shiftKey&&document.activeElement===last){
+          event.preventDefault();first.focus();
+        }
+      }
+    }
+  });
+})();
