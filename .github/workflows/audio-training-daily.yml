@@ -1,0 +1,60 @@
+name: Daily training audio production
+
+on:
+  pull_request:
+    paths:
+      - 'audio_training/**'
+      - 'tests/test_audio_training.py'
+      - '.github/workflows/audio-training-daily.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '30 4 * * *' # 10:00 AM IST (GitHub may delay)
+
+permissions:
+  contents: read
+
+concurrency:
+  group: clinx-training-audio
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Unit tests
+        run: python -m unittest discover -s tests -p 'test_audio_training.py' -v
+      - name: Inspect approved audio chapters
+        run: python audio_training/pipeline.py --dry-run --max-courses 2
+
+  render:
+    needs: validate
+    # The Mac/Hostinger system is opt-in and remains disabled for this draft.
+    if: github.event_name != 'pull_request' && vars.ENABLE_AUDIO_RENDER == 'true'
+    runs-on: [self-hosted, macOS, clinx-audio]
+    timeout-minutes: 300
+    env:
+      HOSTINGER_SFTP_HOST: ${{ vars.HOSTINGER_SFTP_HOST }}
+      HOSTINGER_SFTP_USER: ${{ vars.HOSTINGER_SFTP_USER }}
+      HOSTINGER_SFTP_PORT: ${{ vars.HOSTINGER_SFTP_PORT }}
+      HOSTINGER_SSH_KEY_PATH: ${{ vars.HOSTINGER_SSH_KEY_PATH }}
+      HOSTINGER_AUDIO_PATH: ${{ vars.HOSTINGER_AUDIO_PATH }}
+      AUDIO_VOICE_EN_PATH: ${{ vars.AUDIO_VOICE_EN_PATH }}
+      AUDIO_LOCAL_ARCHIVE_PATH: ${{ vars.AUDIO_LOCAL_ARCHIVE_PATH }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare dedicated Python environment
+        run: |
+          export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+          if [ ! -x "$HOME/.clinx-audio-venv/bin/python" ]; then
+            python3.11 -m venv "$HOME/.clinx-audio-venv"
+          fi
+          "$HOME/.clinx-audio-venv/bin/python" -m pip install -r audio_training/requirements-tts.txt
+      - name: Generate chapter MP3s and upload privately
+        run: |
+          export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+          "$HOME/.clinx-audio-venv/bin/python" audio_training/pipeline.py --max-courses 2 --locales en
